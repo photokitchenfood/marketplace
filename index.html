@@ -941,6 +941,62 @@
   .wm-size-btn:hover { border-color: var(--ink-soft); color: var(--ink); }
   .wm-size-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
 
+  .wm-blend-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 0;
+  }
+  .wm-blend-select {
+    flex: 1;
+    padding: 6px 10px;
+    border: 1.5px solid var(--border);
+    border-radius: 6px;
+    font-family: 'DM Sans', 'Syne', sans-serif;
+    font-size: 12px;
+    color: var(--ink);
+    background: var(--surface);
+    cursor: pointer;
+    appearance: none;
+    -webkit-appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%23888' stroke-width='2'%3E%3Cpolyline points='6 9 12 15 18 9'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 8px center;
+    padding-right: 26px;
+  }
+  .wm-blend-select:focus { outline: none; border-color: var(--accent); }
+  .wm-opacity-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 0;
+  }
+  .wm-opacity-slider {
+    flex: 1;
+    -webkit-appearance: none;
+    height: 4px;
+    border-radius: 2px;
+    background: var(--border);
+    outline: none;
+    cursor: pointer;
+  }
+  .wm-opacity-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 14px; height: 14px;
+    border-radius: 50%;
+    background: var(--accent);
+    cursor: pointer;
+    border: 2px solid #fff;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+  }
+  .wm-opacity-value {
+    font-size: 11px;
+    color: var(--ink-soft);
+    width: 32px;
+    text-align: right;
+    flex-shrink: 0;
+  }
+
   /* Campaign logo upload */
   .wm-upload-zone {
     border: 1.5px dashed var(--tag-border);
@@ -1722,6 +1778,27 @@
             <button class="wm-size-btn" data-size="50" onclick="setWmSize(50, this)">Large (50%)</button>
           </div>
 
+          <!-- Blend mode -->
+          <div class="wm-section-label" style="margin-top:16px;">Blend mode</div>
+          <div class="wm-blend-row">
+            <select class="wm-blend-select" id="wm-blend-select" onchange="setWmBlend(this.value)">
+              <option value="normal">Normal</option>
+              <option value="multiply">Multiply</option>
+              <option value="screen">Screen</option>
+              <option value="soft-light">Soft Light</option>
+              <option value="overlay">Overlay</option>
+            </select>
+          </div>
+
+          <!-- Opacity -->
+          <div class="wm-section-label" style="margin-top:16px;">Opacity</div>
+          <div class="wm-opacity-row">
+            <input type="range" class="wm-opacity-slider" id="wm-opacity-slider"
+              min="10" max="100" value="100" step="5"
+              oninput="setWmOpacity(this.value)">
+            <span class="wm-opacity-value" id="wm-opacity-value">100%</span>
+          </div>
+
           <!-- Campaign logo -->
           <div class="wm-section-label" style="margin-top:16px;">Campaign logo <span style="font-weight:400;text-transform:none;letter-spacing:0;">(optional)</span></div>
           <div class="wm-upload-zone" id="wm-campaign-zone" onclick="document.getElementById('wm-campaign-input').click()">
@@ -2274,7 +2351,9 @@ let wmSettings = {
   position: 'bottom-right',
   campaignPosition: 'top-right',
   color: 'white',
-  size: 30 // percent of image width
+  size: 30,       // percent of image width
+  blendMode: 'normal',
+  opacity: 100    // 0-100
 };
 
 // Pre-load both brand logo variants
@@ -2389,6 +2468,12 @@ function openWatermarkModal() {
   document.getElementById('wm-campaign-label').textContent = 'Upload campaign logo (PNG)';
   document.getElementById('wm-campaign-pos-wrap').style.display = 'none';
   document.getElementById('wm-campaign-input').value = '';
+  // Reset blend + opacity to defaults
+  wmSettings.blendMode = 'normal';
+  wmSettings.opacity = 100;
+  document.getElementById('wm-blend-select').value = 'normal';
+  document.getElementById('wm-opacity-slider').value = 100;
+  document.getElementById('wm-opacity-value').textContent = '100%';
 
   const n = selectedPhotoIndices.size;
   document.getElementById('wm-photo-count').textContent = n + ' photo' + (n !== 1 ? 's' : '') + ' will be downloaded';
@@ -2431,6 +2516,17 @@ function setWmSize(val, btn) {
   updateWmPreview();
 }
 
+function setWmBlend(val) {
+  wmSettings.blendMode = val;
+  updateWmPreview();
+}
+
+function setWmOpacity(val) {
+  wmSettings.opacity = parseInt(val);
+  document.getElementById('wm-opacity-value').textContent = val + '%';
+  updateWmPreview();
+}
+
 // ── Canvas Compositing ──
 function compositeImage(sourceImg, brandLogo, campaignLogo, settings, outputCanvas) {
   const ctx = outputCanvas.getContext('2d');
@@ -2443,6 +2539,17 @@ function compositeImage(sourceImg, brandLogo, campaignLogo, settings, outputCanv
   const pad = Math.round(W * 0.03);
   const logoW = Math.round(W * (settings.size / 100));
 
+  // Map CSS blend mode names to canvas globalCompositeOperation values
+  const blendMap = {
+    'normal':     'source-over',
+    'multiply':   'multiply',
+    'screen':     'screen',
+    'soft-light': 'soft-light',
+    'overlay':    'overlay'
+  };
+  const blendOp  = blendMap[settings.blendMode] || 'source-over';
+  const logoAlpha = (settings.opacity ?? 100) / 100;
+
   function drawLogo(logo, pos, applyTint) {
     if (!logo) return;
     const ratio = logo.naturalWidth / logo.naturalHeight;
@@ -2451,7 +2558,6 @@ function compositeImage(sourceImg, brandLogo, campaignLogo, settings, outputCanv
 
     let source;
     if (applyTint) {
-      // Flatten to solid colour, preserving shape (for pre-tinted brand logos)
       const tintCanvas = document.createElement('canvas');
       tintCanvas.width = logo.naturalWidth;
       tintCanvas.height = logo.naturalHeight;
@@ -2462,7 +2568,6 @@ function compositeImage(sourceImg, brandLogo, campaignLogo, settings, outputCanv
       tctx.fillRect(0, 0, tintCanvas.width, tintCanvas.height);
       source = tintCanvas;
     } else {
-      // Transparent PNG — draw as-is, alpha intact
       source = logo;
     }
 
@@ -2472,11 +2577,15 @@ function compositeImage(sourceImg, brandLogo, campaignLogo, settings, outputCanv
     if (pos === 'bottom-left')  { x = pad; y = H - lh - pad; }
     if (pos === 'bottom-right') { x = W - lw - pad; y = H - lh - pad; }
 
+    ctx.save();
+    ctx.globalCompositeOperation = blendOp;
+    ctx.globalAlpha = logoAlpha;
     ctx.drawImage(source, x, y, lw, lh);
+    ctx.restore();
   }
 
-  drawLogo(brandLogo, settings.position, false);           // brand logo: transparent PNG, no tint
-  drawLogo(campaignLogo, settings.campaignPosition, false); // campaign logo: transparent, no tint
+  drawLogo(brandLogo, settings.position, false);
+  drawLogo(campaignLogo, settings.campaignPosition, false);
 }
 
 function updateWmPreview() {
