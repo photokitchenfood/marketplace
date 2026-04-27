@@ -1654,15 +1654,7 @@
     <div class="results-bar">
       <div class="results-count" id="results-count"><span>—</span> photos</div>
       <div class="results-bar-actions">
-        <button class="results-action-btn" onclick="document.getElementById('csv-import-input').click()">
-          <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="12" y1="18" x2="12" y2="12"/><line x1="9" y1="15" x2="15" y2="15"/></svg>
-          Import CSV
-        </button>
-        <input type="file" id="csv-import-input" accept=".csv" style="display:none">
-        <button class="results-action-btn results-action-btn--dbx" onclick="openDropboxModal()">
-          <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M12 2L6 6l6 4 6-4-6-4z"/><path d="M6 14l6 4 6-4"/><path d="M6 10l6 4 6-4"/></svg>
-          Import from Dropbox
-        </button>
+
         <button class="save-btn" id="save-btn" onclick="saveCatalog()">
           <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
           Save Catalog
@@ -2308,8 +2300,7 @@ function dbxEsc(s){return(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').repl
 </script>
 
 <script>
-const photos = [
-];
+let photos = [];
 
 let pinnedFolders = [
   {"path":"/Photokitchen/1 Projects/Food/The Marketplace/TMP Campaign Shoots","name":"TMP Campaign Shoots"},
@@ -3159,7 +3150,63 @@ function deletePhoto() {
   }
 }
 
-init();
+async function loadCampaigns() {
+  const BASE = 'https://photokitchenfood.github.io/marketplace';
+  const statusEl = document.getElementById('results-count');
+  statusEl.innerHTML = '<span>Loading campaigns…</span>';
+
+  try {
+    // Fetch the campaigns index
+    const res = await fetch(BASE + '/campaigns-index.js?v=' + Date.now());
+    if (!res.ok) throw new Error('Could not load campaigns-index.js');
+    const text = await res.text();
+
+    // Extract the array from the JS file
+    const match = text.match(/const CAMPAIGNS_INDEX\s*=\s*(\[[\s\S]*?\]);/);
+    if (!match) throw new Error('Could not parse campaigns-index.js');
+    const index = JSON.parse(match[1]);
+
+    if (!index.length) {
+      statusEl.innerHTML = '<span>No campaigns found</span>';
+      init();
+      return;
+    }
+
+    // Load each campaign JS file
+    let allPhotos = [];
+    for (const campaign of index) {
+      try {
+        const cRes = await fetch(BASE + '/campaigns/' + campaign.filename + '?v=' + Date.now());
+        if (!cRes.ok) continue;
+        const cText = await cRes.text();
+        const cMatch = cText.match(/const CAMPAIGN_DATA\s*=\s*(\[[\s\S]*?\]);/);
+        if (!cMatch) continue;
+        const campaignPhotos = JSON.parse(cMatch[1]);
+
+        // Normalize fields to match catalog expectations
+        campaignPhotos.forEach(p => {
+          p.campaign = p.campaign || campaign.name;
+          p.year = p.shoot_date ? '20' + p.shoot_date.slice(0,2) : '';
+          p.brands = p.brands ? p.brands.split(',').map(s=>s.trim()).filter(Boolean) : [];
+          p.ingredients = p.ingredients ? p.ingredients.split(',').map(s=>s.trim()).filter(Boolean) : [];
+          p.colors = p.colors ? p.colors.split(',').map(s=>s.trim()).filter(Boolean) : [];
+          p.thumb = p.image_data ? 'data:image/jpeg;base64,' + p.image_data : '';
+          p.dropbox_path = p.dropbox_path || '';
+        });
+        allPhotos = allPhotos.concat(campaignPhotos);
+      } catch(e) { console.warn('Failed to load campaign:', campaign.filename, e); }
+    }
+
+    photos.push(...allPhotos);
+  } catch(e) {
+    console.error('Failed to load campaigns:', e);
+    statusEl.innerHTML = '<span>Error loading campaigns</span>';
+  }
+
+  init();
+}
+
+loadCampaigns();
 
 function markUnsaved() {
   document.getElementById('save-btn').classList.add('visible');
