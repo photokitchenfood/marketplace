@@ -6,7 +6,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>[PHOTOS] The Marketplace Shoot Catalog</title>
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛒</text></svg>">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg'><text y='32' font-size='32'>🍓</text></svg>">
 <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400&family=Bricolage+Grotesque:opsz,wght@12..96,300;12..96,400;12..96,500&family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300&family=Syne:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -1597,6 +1596,155 @@
     font-size: 11px;
     color: var(--ink-soft);
   }
+
+  /* ── Logo Placement Modal ── */
+  .lp-modal-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.55);
+    z-index: 1000;
+    align-items: center;
+    justify-content: center;
+  }
+  .lp-modal-overlay.open { display: flex; }
+  .lp-modal {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    width: min(700px, 96vw);
+    max-height: 92vh;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+  }
+  .lp-modal-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 24px;
+    border-bottom: 1px solid var(--border);
+  }
+  .lp-modal-header h3 { font-family: 'Syne', sans-serif; font-size: 16px; margin: 0; }
+  .lp-modal-body { padding: 20px 24px; display: flex; flex-direction: column; gap: 20px; }
+  .lp-section-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    color: var(--ink-soft);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    margin-bottom: 8px;
+  }
+  .lp-two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+  .lp-pos-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 6px;
+    max-width: 200px;
+  }
+  .lp-pos-btn {
+    background: none;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 7px 10px;
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    cursor: pointer;
+    color: var(--ink-soft);
+    transition: all 0.15s;
+  }
+  .lp-pos-btn:hover { border-color: var(--ink-soft); color: var(--ink); }
+  .lp-pos-btn.active { background: var(--ink); color: #fff; border-color: var(--ink); }
+  .lp-upload-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  .lp-upload-btn {
+    background: none;
+    border: 1px dashed var(--border);
+    border-radius: 4px;
+    padding: 6px 14px;
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    cursor: pointer;
+    color: var(--ink-soft);
+    transition: border-color 0.15s;
+  }
+  .lp-upload-btn:hover { border-color: var(--ink-soft); color: var(--ink); }
+  .lp-upload-label { font-family: 'DM Mono', monospace; font-size: 11px; color: var(--ink-soft); }
+  .lp-preview-wrap {
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    overflow: hidden;
+    background: #111;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 180px;
+  }
+  .lp-preview-wrap canvas { max-width: 100%; display: block; }
+  .lp-modal-footer {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 14px 24px;
+    border-top: 1px solid var(--border);
+    flex-wrap: wrap;
+  }
+  .lp-photo-count { font-family: 'DM Mono', monospace; font-size: 11px; color: var(--ink-soft); flex: 1; }
+  .lp-progress { font-family: 'DM Mono', monospace; font-size: 11px; color: var(--ink-soft); }
+  .lp-progress.visible { display: inline; }
+  .lp-progress { display: none; }
+  .btn-logo-place {
+    background: var(--ink);
+    border: none;
+    color: #fff;
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    padding: 6px 14px;
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    transition: opacity 0.15s;
+  }
+  .btn-logo-place:hover { opacity: 0.8; }
+  .btn-logo-place-outline {
+    background: none;
+    border: 1px solid var(--border);
+    color: var(--ink);
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    padding: 5px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    transition: border-color 0.15s;
+  }
+  .btn-logo-place-outline:hover { border-color: var(--ink); }
+  .lp-dbx-status { font-family: 'DM Mono', monospace; font-size: 11px; color: var(--ink-soft); }
+  /* Permanent "Logo Placement" button in results bar */
+  .btn-logo-placement-header {
+    background: none;
+    border: 1px solid var(--border);
+    color: var(--ink-soft);
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    padding: 5px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    transition: border-color 0.15s, color 0.15s;
+  }
+  .btn-logo-placement-header:hover { border-color: var(--ink); color: var(--ink); }
+
 </style>
 </head>
 <body>
@@ -1656,6 +1804,10 @@
       <div class="results-count" id="results-count"><span>—</span> photos</div>
       <div class="results-bar-actions">
 
+        <button class="btn-logo-placement-header" onclick="openLogoPlacementModal()">
+          <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><polyline points="21 15 16 10 5 21"/></svg>
+          Logo Placement
+        </button>
         <button class="save-btn" id="save-btn" onclick="saveCatalog()">
           <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
           Save Catalog
@@ -1669,6 +1821,10 @@
       <button class="btn-download-wm" onclick="openWatermarkModal()">
         <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
         Download with watermark
+      </button>
+      <button class="btn-download-wm" style="background:var(--ink-soft);" onclick="openLogoPlacementModal()">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><polyline points="21 15 16 10 5 21"/></svg>
+        Logo Placement
       </button>
       <button class="btn-cancel-select" onclick="exitSelectMode()">✕ Cancel</button>
     </div>
@@ -1727,6 +1883,86 @@
 </div>
 
 <!-- Watermark Modal -->
+
+<!-- Logo Placement Modal -->
+<div class="lp-modal-overlay" id="lp-modal">
+  <div class="lp-modal">
+    <div class="lp-modal-header">
+      <h3>Logo Placement</h3>
+      <button class="btn-close-modal" onclick="closeLogoPlacementModal()">✕</button>
+    </div>
+    <div class="lp-modal-body">
+
+      <!-- TMP Brand Logo -->
+      <div>
+        <div class="lp-section-label">TMP Brand Logo</div>
+        <div class="lp-two-col">
+          <div>
+            <div class="lp-section-label" style="margin-top:0">Position</div>
+            <div class="lp-pos-grid" id="lp-tmp-pos-grid">
+              <button class="lp-pos-btn" data-pos="top-left" onclick="setLpTmpPos('top-left',this)">↖ top left</button>
+              <button class="lp-pos-btn" data-pos="top-right" onclick="setLpTmpPos('top-right',this)">↗ top right</button>
+              <button class="lp-pos-btn" data-pos="bottom-left" onclick="setLpTmpPos('bottom-left',this)">↙ bottom left</button>
+              <button class="lp-pos-btn active" data-pos="bottom-right" onclick="setLpTmpPos('bottom-right',this)">↘ bottom right</button>
+            </div>
+          </div>
+          <div>
+            <div class="lp-section-label" style="margin-top:0">Color</div>
+            <div style="display:flex;gap:8px;flex-wrap:wrap;">
+              <button class="lp-pos-btn active" data-color="white" onclick="setLpTmpColor('white',this)">White</button>
+              <button class="lp-pos-btn" data-color="black" onclick="setLpTmpColor('black',this)">Black</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Campaign Logo -->
+      <div>
+        <div class="lp-section-label">Campaign Logo (optional)</div>
+        <div class="lp-upload-row">
+          <button class="lp-upload-btn" onclick="document.getElementById('lp-campaign-file').click()">Upload PNG</button>
+          <button class="lp-upload-btn" id="lp-dbx-pick-btn" onclick="lpPickFromDropbox()">Pick from Dropbox</button>
+          <input type="file" id="lp-campaign-file" accept="image/*" style="display:none" onchange="lpLoadCampaignLogo(this)">
+          <span class="lp-upload-label" id="lp-campaign-label">No logo uploaded</span>
+        </div>
+        <div id="lp-campaign-pos-wrap" style="display:none;margin-top:12px;">
+          <div class="lp-section-label">Campaign Logo Position</div>
+          <div class="lp-pos-grid" id="lp-campaign-pos-grid">
+            <button class="lp-pos-btn active" data-pos="top-left" onclick="setLpCampaignPos('top-left',this)">↖ top left</button>
+            <button class="lp-pos-btn" data-pos="top-right" onclick="setLpCampaignPos('top-right',this)">↗ top right</button>
+            <button class="lp-pos-btn" data-pos="bottom-left" onclick="setLpCampaignPos('bottom-left',this)">↙ bottom left</button>
+            <button class="lp-pos-btn" data-pos="bottom-right" onclick="setLpCampaignPos('bottom-right',this)">↘ bottom right</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Preview -->
+      <div>
+        <div class="lp-section-label">Preview <span style="color:var(--ink-faint);font-size:10px;">(first selected photo)</span></div>
+        <div class="lp-preview-wrap">
+          <canvas id="lp-preview-canvas" style="max-width:100%;max-height:300px;"></canvas>
+        </div>
+      </div>
+
+    </div>
+    <div class="lp-modal-footer">
+      <span class="lp-photo-count" id="lp-photo-count"></span>
+      <span class="lp-progress" id="lp-progress"></span>
+      <span class="lp-dbx-status" id="lp-dbx-status"></span>
+      <button class="btn-cancel" onclick="closeLogoPlacementModal()">Cancel</button>
+      <button class="btn-logo-place-outline" onclick="lpDownloadZip()" id="lp-zip-btn">
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+        Download ZIP
+      </button>
+      <button class="btn-logo-place" onclick="lpUploadToDropbox()" id="lp-dbx-btn">
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2L6 6l6 4 6-4-6-4z"/><path d="M6 14l6 4 6-4"/><path d="M6 10l6 4 6-4"/></svg>
+        Upload to Dropbox
+      </button>
+    </div>
+  </div>
+</div>
+<canvas id="lp-offscreen" style="display:none"></canvas>
+
 <div class="wm-modal-overlay" id="wm-modal">
   <div class="wm-modal">
     <div class="wm-modal-header">
@@ -2181,6 +2417,12 @@ function dbxRenderBreadcrumb(){
 }
 function dbxToggleFileEl(itemEl){
   var path=itemEl.getAttribute('data-path');
+  var name=itemEl.querySelector('.dbx-file-name').textContent;
+  // If in LP pick mode, intercept and send to logo placement handler
+  if(typeof lpDropboxPickMode !== 'undefined' && lpDropboxPickMode) {
+    lpHandleDropboxFilePick(path, name);
+    return;
+  }
   if(dbxSelectedFiles.has(path)){
     dbxSelectedFiles.delete(path);itemEl.classList.remove('selected');
     itemEl.querySelector('.dbx-file-check').innerHTML='';
@@ -3208,6 +3450,375 @@ async function loadCampaigns() {
 }
 
 loadCampaigns();
+
+
+// ═══════════════════════════════════════════════════════
+//  LOGO PLACEMENT FLOW
+// ═══════════════════════════════════════════════════════
+
+let lpSettings = {
+  tmpPosition: 'bottom-right',
+  tmpColor: 'white',
+  campaignPosition: 'top-left'
+};
+let lpCampaignLogoImg = null;
+
+function openLogoPlacementModal() {
+  const modal = document.getElementById('lp-modal');
+  modal.classList.add('open');
+  const count = selectedPhotoIndices.size;
+  document.getElementById('lp-photo-count').textContent =
+    count > 0 ? count + ' photo' + (count !== 1 ? 's' : '') + ' selected' : 'No photos selected (will use all filtered)';
+  document.getElementById('lp-dbx-status').textContent =
+    dbxAccessToken ? '' : '⚠ Dropbox not connected — ZIP only';
+  document.getElementById('lp-dbx-btn').disabled = !dbxAccessToken;
+  updateLpPreview();
+}
+
+function closeLogoPlacementModal() {
+  document.getElementById('lp-modal').classList.remove('open');
+  document.getElementById('lp-progress').textContent = '';
+  document.getElementById('lp-progress').classList.remove('visible');
+}
+
+function setLpTmpPos(pos, btn) {
+  lpSettings.tmpPosition = pos;
+  document.querySelectorAll('#lp-tmp-pos-grid .lp-pos-btn').forEach(b => b.classList.toggle('active', b === btn));
+  updateLpPreview();
+}
+
+function setLpTmpColor(color, btn) {
+  lpSettings.tmpColor = color;
+  btn.closest('div').querySelectorAll('.lp-pos-btn').forEach(b => b.classList.toggle('active', b === btn));
+  updateLpPreview();
+}
+
+function setLpCampaignPos(pos, btn) {
+  lpSettings.campaignPosition = pos;
+  document.querySelectorAll('#lp-campaign-pos-grid .lp-pos-btn').forEach(b => b.classList.toggle('active', b === btn));
+  updateLpPreview();
+}
+
+// Load campaign logo from file input (with white-bg removal)
+function lpLoadCampaignLogo(input) {
+  const file = input.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = e => {
+    const img = new Image();
+    img.onload = () => {
+      // Remove white/near-white background
+      const cv = document.createElement('canvas');
+      cv.width = img.width; cv.height = img.height;
+      const ctx = cv.getContext('2d');
+      ctx.drawImage(img, 0, 0);
+      const d = ctx.getImageData(0, 0, cv.width, cv.height);
+      for (let i = 0; i < d.data.length; i += 4) {
+        const r = d.data[i], g = d.data[i+1], b = d.data[i+2];
+        if (r > 230 && g > 230 && b > 230) d.data[i+3] = 0;
+      }
+      ctx.putImageData(d, 0, 0);
+      const out = new Image();
+      out.onload = () => {
+        lpCampaignLogoImg = out;
+        document.getElementById('lp-campaign-label').textContent = file.name;
+        document.getElementById('lp-campaign-pos-wrap').style.display = 'block';
+        updateLpPreview();
+      };
+      out.src = cv.toDataURL('image/png');
+    };
+    img.src = e.target.result;
+  };
+  reader.readAsDataURL(file);
+}
+
+// Pick campaign logo from Dropbox
+async function lpPickFromDropbox() {
+  if (!dbxAccessToken) {
+    alert('Please connect to Dropbox first.');
+    return;
+  }
+  // Open Dropbox modal in "logo pick" mode
+  lpDropboxPickMode = true;
+  openDropboxModal();
+}
+let lpDropboxPickMode = false;
+
+// Called when a file is selected in Dropbox browser while in LP pick mode
+async function lpHandleDropboxFilePick(path, name) {
+  lpDropboxPickMode = false;
+  closeDropboxModal();
+  document.getElementById('lp-campaign-label').textContent = 'Loading ' + name + '…';
+  try {
+    const nsHeader = dbxNamespaceId ? JSON.stringify({'.tag':'namespace_id','namespace_id':dbxNamespaceId}) : '';
+    const dlHeaders = {'Authorization': 'Bearer ' + dbxAccessToken, 'Dropbox-API-Arg': JSON.stringify({path})};
+    if (nsHeader) dlHeaders['Dropbox-API-Path-Root'] = nsHeader;
+    const res = await fetch('https://content.dropboxapi.com/2/files/download', {method:'POST', headers:dlHeaders});
+    if (!res.ok) throw new Error('Download failed');
+    const blob = await res.blob();
+    const url = URL.createObjectURL(blob);
+    const img = new Image();
+    img.onload = () => {
+      // Remove white/near-white bg
+      const cv = document.createElement('canvas');
+      cv.width = img.width; cv.height = img.height;
+      const ctx = cv.getContext('2d');
+      ctx.drawImage(img, 0, 0);
+      const d = ctx.getImageData(0, 0, cv.width, cv.height);
+      for (let i = 0; i < d.data.length; i += 4) {
+        const r = d.data[i], g = d.data[i+1], b = d.data[i+2];
+        if (r > 230 && g > 230 && b > 230) d.data[i+3] = 0;
+      }
+      ctx.putImageData(d, 0, 0);
+      const out = new Image();
+      out.onload = () => {
+        lpCampaignLogoImg = out;
+        document.getElementById('lp-campaign-label').textContent = name;
+        document.getElementById('lp-campaign-pos-wrap').style.display = 'block';
+        URL.revokeObjectURL(url);
+        updateLpPreview();
+      };
+      out.src = cv.toDataURL('image/png');
+    };
+    img.src = url;
+  } catch(e) {
+    document.getElementById('lp-campaign-label').textContent = 'Error loading file';
+    console.error(e);
+  }
+}
+
+// Composite logo placement onto canvas (different sizing from watermark)
+function lpCompositeImage(sourceImg, brandLogo, campaignLogo, settings, outputCanvas) {
+  const ctx = outputCanvas.getContext('2d');
+  outputCanvas.width = sourceImg.naturalWidth || sourceImg.width;
+  outputCanvas.height = sourceImg.naturalHeight || sourceImg.height;
+  ctx.drawImage(sourceImg, 0, 0);
+
+  const W = outputCanvas.width;
+  const H = outputCanvas.height;
+  const pad = Math.round(W * 0.03);
+
+  // TMP logo: 47.5% of image width
+  function drawTmpLogo(logo, pos, color) {
+    if (!logo) return;
+    const logoW = Math.round(W * 0.475);
+    const ratio = logo.naturalWidth / logo.naturalHeight;
+    const logoH = Math.round(logoW / ratio);
+    let x, y;
+    if (pos === 'top-left')     { x = pad; y = pad; }
+    if (pos === 'top-right')    { x = W - logoW - pad; y = pad; }
+    if (pos === 'bottom-left')  { x = pad; y = H - logoH - pad; }
+    if (pos === 'bottom-right') { x = W - logoW - pad; y = H - logoH - pad; }
+    ctx.save();
+    ctx.globalCompositeOperation = 'source-over';
+    ctx.globalAlpha = 1;
+    ctx.drawImage(logo, x, y, logoW, logoH);
+    ctx.restore();
+  }
+
+  // Campaign badge: 16% × 16%, circular clip
+  function drawCampaignBadge(logo, pos) {
+    if (!logo) return;
+    const badgeSize = Math.round(W * 0.16);
+    let x, y;
+    if (pos === 'top-left')     { x = pad; y = pad; }
+    if (pos === 'top-right')    { x = W - badgeSize - pad; y = pad; }
+    if (pos === 'bottom-left')  { x = pad; y = H - badgeSize - pad; }
+    if (pos === 'bottom-right') { x = W - badgeSize - pad; y = H - badgeSize - pad; }
+    ctx.save();
+    ctx.beginPath();
+    ctx.arc(x + badgeSize/2, y + badgeSize/2, badgeSize/2, 0, Math.PI * 2);
+    ctx.clip();
+    ctx.drawImage(logo, x, y, badgeSize, badgeSize);
+    ctx.restore();
+  }
+
+  const activeBrandLogo = settings.tmpColor === 'white' ? brandLogoImg : brandLogoImgBlack;
+  drawTmpLogo(activeBrandLogo, settings.tmpPosition, settings.tmpColor);
+  drawCampaignBadge(campaignLogo, settings.campaignPosition);
+}
+
+// Update preview canvas
+function updateLpPreview() {
+  const canvas = document.getElementById('lp-preview-canvas');
+  if (!canvas) return;
+  const indices = [...selectedPhotoIndices];
+  const firstIdx = indices.length > 0 ? indices[0] : (photos.length > 0 ? 0 : null);
+  if (firstIdx === null) return;
+  const photo = photos[firstIdx];
+  if (!photo || !photo.image_data) return;
+  const img = new Image();
+  img.onload = () => {
+    lpCompositeImage(img, null, lpCampaignLogoImg, lpSettings, canvas);
+    // Then overlay brand logo
+    const activeBrand = lpSettings.tmpColor === 'white' ? brandLogoImg : brandLogoImgBlack;
+    if (activeBrand) lpCompositeImage(img, activeBrand, lpCampaignLogoImg, lpSettings, canvas);
+  };
+  img.src = 'data:image/jpeg;base64,' + photo.image_data;
+}
+
+// Get the target photo indices for LP (selected, or all filtered if none)
+function lpGetTargetIndices() {
+  if (selectedPhotoIndices.size > 0) return [...selectedPhotoIndices];
+  // Fall back to all photos (the user opened with no selection → all visible)
+  return photos.map((_, i) => i);
+}
+
+// Composite all selected photos and download as ZIP
+async function lpDownloadZip() {
+  const btn = document.getElementById('lp-zip-btn');
+  const progress = document.getElementById('lp-progress');
+  btn.disabled = true;
+  progress.classList.add('visible');
+
+  const indices = lpGetTargetIndices();
+  const offscreen = document.getElementById('lp-offscreen');
+
+  // Load JSZip
+  await new Promise((res, rej) => {
+    if (window.JSZip) { res(); return; }
+    const s = document.createElement('script');
+    s.src = 'https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js';
+    s.onload = res; s.onerror = rej;
+    document.head.appendChild(s);
+  });
+
+  const zip = new JSZip();
+
+  for (let i = 0; i < indices.length; i++) {
+    const photo = photos[indices[i]];
+    progress.textContent = 'Processing ' + (i + 1) + ' / ' + indices.length + '…';
+
+    try {
+      let sourceImg;
+      if (photo.dropbox_path && dbxAccessToken) {
+        try {
+          const nsHeader = dbxNamespaceId ? JSON.stringify({'.tag':'namespace_id','namespace_id':dbxNamespaceId}) : '';
+          const dlHeaders = {'Authorization': 'Bearer ' + dbxAccessToken, 'Dropbox-API-Arg': JSON.stringify({path: photo.dropbox_path})};
+          if (nsHeader) dlHeaders['Dropbox-API-Path-Root'] = nsHeader;
+          const dlRes = await fetch('https://content.dropboxapi.com/2/files/download', {method:'POST', headers:dlHeaders});
+          if (dlRes.ok) {
+            const blob = await dlRes.blob();
+            const objectUrl = URL.createObjectURL(blob);
+            sourceImg = await loadImage(objectUrl).catch(() => null);
+            URL.revokeObjectURL(objectUrl);
+          }
+        } catch(e) { console.warn('Full-res fetch failed, using thumbnail'); }
+      }
+      if (!sourceImg && photo.image_data) {
+        sourceImg = await loadImage('data:image/jpeg;base64,' + photo.image_data);
+      }
+      if (!sourceImg) continue;
+
+      lpCompositeImage(sourceImg, brandLogoImg, lpCampaignLogoImg, lpSettings, offscreen);
+
+      const baseName = (photo.filename || 'photo_' + indices[i]).replace(/\.[^.]+$/, '');
+      const outName = baseName + '-logo.jpg';
+
+      const blob = await new Promise(res => offscreen.toBlob(res, 'image/jpeg', 0.95));
+      zip.file(outName, blob);
+    } catch(err) {
+      console.error('LP error on', photo.filename, err);
+    }
+  }
+
+  progress.textContent = 'Creating ZIP…';
+  const zipBlob = await zip.generateAsync({type:'blob'});
+  const link = document.createElement('a');
+  link.href = URL.createObjectURL(zipBlob);
+  link.download = 'logos-' + new Date().toISOString().slice(0,10) + '.zip';
+  link.click();
+  setTimeout(() => URL.revokeObjectURL(link.href), 5000);
+
+  progress.textContent = '';
+  progress.classList.remove('visible');
+  btn.disabled = false;
+}
+
+// Upload composited photos to Dropbox "JPEGS with Logos" folder
+async function lpUploadToDropbox() {
+  if (!dbxAccessToken) { alert('Please connect to Dropbox first.'); return; }
+
+  const btn = document.getElementById('lp-dbx-btn');
+  const progress = document.getElementById('lp-progress');
+  btn.disabled = true;
+  progress.classList.add('visible');
+
+  const indices = lpGetTargetIndices();
+  const offscreen = document.getElementById('lp-offscreen');
+
+  // Determine destination folder: "JPEGS with Logos" alongside the source folder
+  // Try to infer from first photo's dropbox_path
+  let destFolder = '/JPEGS with Logos';
+  if (indices.length > 0 && photos[indices[0]].dropbox_path) {
+    const srcPath = photos[indices[0]].dropbox_path;
+    const parts = srcPath.split('/');
+    parts.pop(); // remove filename
+    const parentFolder = parts.join('/') || '/';
+    // Go up one more level from the shoot folder and create "JPEGS with Logos" there
+    const grandParent = parts.slice(0, -1).join('/') || '/';
+    destFolder = grandParent + '/JPEGS with Logos';
+  }
+
+  const nsHeader = dbxNamespaceId ? JSON.stringify({'.tag':'namespace_id','namespace_id':dbxNamespaceId}) : '';
+
+  for (let i = 0; i < indices.length; i++) {
+    const photo = photos[indices[i]];
+    progress.textContent = 'Uploading ' + (i + 1) + ' / ' + indices.length + '…';
+
+    try {
+      let sourceImg;
+      if (photo.dropbox_path && dbxAccessToken) {
+        try {
+          const dlHeaders = {'Authorization': 'Bearer ' + dbxAccessToken, 'Dropbox-API-Arg': JSON.stringify({path: photo.dropbox_path})};
+          if (nsHeader) dlHeaders['Dropbox-API-Path-Root'] = nsHeader;
+          const dlRes = await fetch('https://content.dropboxapi.com/2/files/download', {method:'POST', headers:dlHeaders});
+          if (dlRes.ok) {
+            const blob = await dlRes.blob();
+            const objectUrl = URL.createObjectURL(blob);
+            sourceImg = await loadImage(objectUrl).catch(() => null);
+            URL.revokeObjectURL(objectUrl);
+          }
+        } catch(e) { console.warn('Full-res fetch failed, using thumbnail'); }
+      }
+      if (!sourceImg && photo.image_data) {
+        sourceImg = await loadImage('data:image/jpeg;base64,' + photo.image_data);
+      }
+      if (!sourceImg) continue;
+
+      lpCompositeImage(sourceImg, brandLogoImg, lpCampaignLogoImg, lpSettings, offscreen);
+
+      const baseName = (photo.filename || 'photo_' + indices[i]).replace(/\.[^.]+$/, '');
+      const outName = baseName + '-logo.jpg';
+      const destPath = destFolder + '/' + outName;
+
+      const blob = await new Promise(res => offscreen.toBlob(res, 'image/jpeg', 0.95));
+      const arrayBuf = await blob.arrayBuffer();
+
+      const uploadHeaders = {
+        'Authorization': 'Bearer ' + dbxAccessToken,
+        'Content-Type': 'application/octet-stream',
+        'Dropbox-API-Arg': JSON.stringify({path: destPath, mode: 'overwrite', autorename: false})
+      };
+      if (nsHeader) uploadHeaders['Dropbox-API-Path-Root'] = nsHeader;
+
+      const upRes = await fetch('https://content.dropboxapi.com/2/files/upload', {
+        method: 'POST', headers: uploadHeaders, body: arrayBuf
+      });
+      if (!upRes.ok) throw new Error('Upload failed: ' + upRes.status);
+
+    } catch(err) {
+      console.error('LP upload error on', photo.filename, err);
+    }
+  }
+
+  progress.textContent = '✓ Uploaded to Dropbox → ' + destFolder;
+  setTimeout(() => {
+    progress.textContent = '';
+    progress.classList.remove('visible');
+  }, 4000);
+  btn.disabled = false;
+}
 
 function markUnsaved() {
   document.getElementById('save-btn').classList.add('visible');
