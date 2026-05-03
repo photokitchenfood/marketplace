@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>[PHOTOS] Photokitchen Shoot Catalog</title>
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg'><text y='32' font-size='32'>🍓</text></svg>">
+<title>[PHOTOS] The Marketplace Shoot Catalog</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg'><text y='32' font-size='32'>🛒</text></svg>">
 <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400&family=Bricolage+Grotesque:opsz,wght@12..96,300;12..96,400;12..96,500&family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300&family=Syne:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -86,6 +86,57 @@
     margin-bottom: 10px;
     font-weight: 500;
   }
+
+  /* Sidebar view toggle */
+  .sidebar-toggle-wrap {
+    display: flex; margin: 0 0 20px;
+    border-bottom: 1px solid var(--tag-border);
+  }
+  .sidebar-toggle-btn {
+    flex: 1; padding: 10px 8px; border: none; background: none;
+    font-family: 'DM Mono', monospace; font-size: 10px; font-weight: 500;
+    color: var(--ink-soft); cursor: pointer; border-bottom: 2px solid transparent;
+    transition: all 0.15s; letter-spacing: 0.04em; text-transform: uppercase;
+    margin-bottom: -1px;
+  }
+  .sidebar-toggle-btn.active { color: var(--ink); border-bottom-color: #C4863A; }
+  .sidebar-toggle-btn:hover:not(.active) { color: var(--ink); }
+
+  /* Folders view */
+  #folders-view { display: none; }
+  #filters-view { display: block; }
+  .folders-year {
+    margin-bottom: 20px; padding: 0 20px;
+  }
+  .folders-year-label {
+    font-family: 'Syne', sans-serif; font-size: 10px; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.12em; color: var(--ink-faint);
+    margin-bottom: 8px;
+  }
+  .folder-item {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 8px 12px; border-radius: 4px; cursor: pointer;
+    border: 1px solid transparent; transition: all 0.12s; margin-bottom: 3px;
+  }
+  .folder-item:hover { background: var(--tag-bg); border-color: var(--tag-border); }
+  .folder-item.active { background: #F5EAD8; border-color: #C4863A; }
+  .folder-item-name {
+    font-family: 'DM Mono', monospace; font-size: 11px; color: var(--ink);
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 140px;
+  }
+  .folder-item.active .folder-item-name { color: #8B5E1A; font-weight: 500; }
+  .folder-item-count {
+    font-family: 'DM Mono', monospace; font-size: 9px; color: var(--ink-faint);
+    flex-shrink: 0; margin-left: 6px;
+  }
+  .folder-select-all-btn {
+    display: block; width: calc(100% - 40px); margin: 0 20px 20px;
+    padding: 7px 12px; border: 1px dashed var(--tag-border); border-radius: 4px;
+    background: none; font-family: 'DM Mono', monospace; font-size: 10px;
+    color: var(--ink-soft); cursor: pointer; text-align: left; transition: all 0.12s;
+  }
+  .folder-select-all-btn:hover { border-color: #C4863A; color: #C4863A; }
+  .folder-select-all-btn:disabled { opacity: 0.4; cursor: not-allowed; }
 
   /* Search - matches screenshot exactly */
   .search-wrap {
@@ -1602,8 +1653,9 @@
   display: inline-flex; align-items: center; gap: 6px;
   padding: 6px 12px; border-radius: 6px;
   background: #C4863A; color: #fff; border: none;
-  font-size: 12px; font-weight: 500; cursor: pointer;
-  transition: background 0.15s;
+  font-family: 'Syne', sans-serif; font-size: 11px; font-weight: 700;
+  letter-spacing: 0.03em; text-transform: uppercase;
+  cursor: pointer; transition: background 0.15s;
 }
 .lp-open-btn:hover { background: #B3732A; }
 
@@ -1625,22 +1677,25 @@
 
 .lp-drawer-header {
   display: flex; align-items: center; justify-content: space-between;
-  padding: 16px 20px; background: #1A1814; flex-shrink: 0;
+  padding: 14px 20px 10px; background: var(--bg); flex-shrink: 0;
+  border-bottom: 1px solid var(--tag-border);
 }
 .lp-drawer-title {
-  font-size: 14px; font-weight: 600; color: #F5F0E8; letter-spacing: 0.02em;
+  font-family: 'Syne', sans-serif; font-size: 13px; font-weight: 700;
+  color: var(--ink); letter-spacing: 0.01em; text-transform: uppercase;
 }
-.lp-drawer-title span { color: #C4863A; font-style: italic; }
+.lp-drawer-title span { color: #C4863A; font-style: italic; font-weight: 400; text-transform: none; }
 .lp-drawer-close {
   background: none; border: none; cursor: pointer;
-  color: #8C867C; font-size: 18px; line-height: 1; padding: 4px;
+  color: var(--ink-soft); font-size: 16px; line-height: 1; padding: 4px;
   transition: color 0.15s;
 }
-.lp-drawer-close:hover { color: #F5F0E8; }
+.lp-drawer-close:hover { color: var(--ink); }
 
 .lp-drawer-body {
   flex: 1; overflow-y: auto; padding: 20px;
   display: flex; flex-direction: column; gap: 16px;
+  font-family: 'DM Mono', monospace;
 }
 
 .lp-step-card {
@@ -1664,8 +1719,8 @@
 .lp-step-card.active .lp-step-num { background: #C4863A; border-color: #C4863A; color: #fff; }
 .lp-step-card.done .lp-step-num   { background: #4A7C59; border-color: #4A7C59; color: #fff; }
 
-.lp-step-label h4 { font-size: 13px; font-weight: 600; color: #1A1814; margin: 0; }
-.lp-step-label p  { font-size: 11px; color: #8C867C; margin: 2px 0 0; }
+.lp-step-label h4 { font-family: 'Syne', sans-serif; font-size: 12px; font-weight: 700; color: #1A1814; margin: 0; text-transform: uppercase; letter-spacing: 0.03em; }
+.lp-step-label p  { font-family: 'DM Mono', monospace; font-size: 10px; color: #8C867C; margin: 2px 0 0; }
 
 .lp-step-body { padding: 0 16px 14px; }
 
@@ -1779,41 +1834,58 @@
 
 <div class="shell">
   <aside>
-    <div class="search-wrap">
-      <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-        <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
-      </svg>
-      <input id="search" type="text" placeholder="Search…">
+    <!-- View toggle -->
+    <div class="sidebar-toggle-wrap">
+      <button class="sidebar-toggle-btn active" id="toggle-all" onclick="setSidebarView('all')">All Photos</button>
+      <button class="sidebar-toggle-btn" id="toggle-folders" onclick="setSidebarView('folders')">Folders</button>
     </div>
 
-    <div class="sidebar-section">
-      <div class="sidebar-label">Campaign</div>
-      <select class="campaign-select" id="campaign-select">
-        <option value="all">All Campaigns</option>
-      </select>
+    <!-- All Campaigns / Filters view -->
+    <div id="filters-view">
+      <div class="search-wrap">
+        <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+        </svg>
+        <input id="search" type="text" placeholder="Search…">
+      </div>
+
+      <div class="sidebar-section">
+        <div class="sidebar-label">Campaign</div>
+        <select class="campaign-select" id="campaign-select">
+          <option value="all">All Campaigns</option>
+        </select>
+      </div>
+
+      <div class="sidebar-section">
+        <div class="sidebar-label">Year</div>
+        <div class="chip-group" id="year-filters"></div>
+      </div>
+
+      <div class="sidebar-section">
+        <div class="sidebar-label">Brands</div>
+        <div class="chip-group" id="brand-filters"></div>
+      </div>
+
+      <div class="sidebar-section">
+        <div class="sidebar-label">Key Ingredients</div>
+        <div class="chip-group" id="ingredient-filters"></div>
+      </div>
+
+      <div class="sidebar-section">
+        <div class="sidebar-label">Colors</div>
+        <div class="chip-group" id="color-filters"></div>
+      </div>
+
+      <button class="reset-btn" id="reset">↺ Reset all filters</button>
     </div>
 
-    <div class="sidebar-section">
-      <div class="sidebar-label">Year</div>
-      <div class="chip-group" id="year-filters"></div>
+    <!-- Folders view -->
+    <div id="folders-view">
+      <div id="folders-tree"></div>
+      <button class="folder-select-all-btn" id="folder-select-all-btn" onclick="folderSelectAll()" disabled>
+        ☐ Select all in folder
+      </button>
     </div>
-
-    <div class="sidebar-section">
-      <div class="sidebar-label">Brands</div>
-      <div class="chip-group" id="brand-filters"></div>
-    </div>
-
-    <div class="sidebar-section">
-      <div class="sidebar-label">Key Ingredients</div>
-      <div class="chip-group" id="ingredient-filters"></div>
-    </div>
-
-    <div class="sidebar-section">
-      <div class="sidebar-label">Colors</div>
-      <div class="chip-group" id="color-filters"></div>
-    </div>
-
-    <button class="reset-btn" id="reset">↺ Reset all filters</button>
   </aside>
 
   <main>
@@ -3359,7 +3431,9 @@ async function loadCampaigns() {
           p.year = p.shoot_date ? '20' + p.shoot_date.slice(0,2) : '';
           p.brands = p.brands ? p.brands.split(',').map(s=>s.trim()).filter(Boolean) : [];
           p.ingredients = p.ingredients ? p.ingredients.split(',').map(s=>s.trim()).filter(Boolean) : [];
-          p.colors = p.colors ? p.colors.split(',').map(s=>s.trim()).filter(Boolean) : [];
+          p.color_palette = p.color_palette
+            ? (Array.isArray(p.color_palette) ? p.color_palette : p.color_palette.split(',').map(s=>s.trim()).filter(Boolean))
+            : (p.colors ? p.colors.split(',').map(s=>s.trim()).filter(Boolean) : []);
           p.thumb = p.image_data ? 'data:image/jpeg;base64,' + p.image_data : '';
           p.dropbox_path = p.dropbox_path || '';
         });
@@ -3431,17 +3505,36 @@ const CAMPAIGN_SIZE_RATIO = 0.16;
 const LOGO_PAD_RATIO      = 0.03;
 
 function openLogoPlacementDrawer() {
-  // Gather photos from current selection or filtered set
-  const sel = Array.from(document.querySelectorAll('.photo-card.selected'));
-  if (sel.length > 0) {
-    lpPhotos = sel.map(c => ({ src: c.querySelector('img').src, filename: c.dataset.filename || '' }));
-  } else {
-    // Use first 20 visible photos
+  // Gather photos from selectedPhotoIndices (uses full photo objects from photos[] array)
+  let fromSelection = false;
+  if (selectedPhotoIndices && selectedPhotoIndices.size > 0) {
+    lpPhotos = [...selectedPhotoIndices].map(i => {
+      const p = photos[i];
+      return {
+        src: p.dropbox_path ? null : (p.thumb || (p.image_data ? 'data:image/jpeg;base64,' + p.image_data : null)),
+        dropboxPath: p.dropbox_path || null,
+        filename: p.filename || ('photo_' + i)
+      };
+    }).filter(p => p.src || p.dropboxPath);
+    fromSelection = true;
+  }
+  // Fallback: first 20 visible cards
+  if (!fromSelection || lpPhotos.length === 0) {
     const cards = Array.from(document.querySelectorAll('.photo-card')).slice(0, 20);
-    lpPhotos = cards.map(c => ({ src: c.querySelector('img').src, filename: c.dataset.filename || '' }));
+    lpPhotos = cards.map(c => {
+      const idx = parseInt(c.dataset.idx);
+      const p = !isNaN(idx) ? photos[idx] : null;
+      if (p) return {
+        src: p.dropbox_path ? null : (p.thumb || (p.image_data ? 'data:image/jpeg;base64,' + p.image_data : null)),
+        dropboxPath: p.dropbox_path || null,
+        filename: p.filename || c.dataset.filename || ''
+      };
+      return { src: c.querySelector('img')?.src || null, dropboxPath: null, filename: c.dataset.filename || '' };
+    }).filter(p => p.src || p.dropboxPath);
+    fromSelection = false;
   }
   document.getElementById('lp-photos-count').textContent =
-    lpPhotos.length + ' photo' + (lpPhotos.length !== 1 ? 's' : '') + (sel.length ? ' selected' : ' (first ' + lpPhotos.length + ')');
+    lpPhotos.length + ' photo' + (lpPhotos.length !== 1 ? 's' : '') + (fromSelection ? ' selected' : ' (first ' + lpPhotos.length + ' visible)');
 
   document.getElementById('lp-overlay').classList.add('open');
   document.getElementById('lp-drawer').classList.add('open');
@@ -3514,6 +3607,22 @@ function lpAfterCampaignLoad(name) {
   lpUpdatePreview();
 }
 
+async function lpGetPhotoSrc(photo) {
+  // If photo has a Dropbox path and token, fetch full-res
+  if (photo.dropboxPath && dbxAccessToken) {
+    try {
+      const headers = {'Authorization': 'Bearer ' + dbxAccessToken, 'Dropbox-API-Arg': JSON.stringify({path: photo.dropboxPath})};
+      if (window.dbxNamespaceId) headers['Dropbox-API-Path-Root'] = JSON.stringify({'.tag':'namespace_id','namespace_id':window.dbxNamespaceId});
+      const res = await fetch('https://content.dropboxapi.com/2/files/download', {method: 'POST', headers});
+      if (res.ok) {
+        const blob = await res.blob();
+        return URL.createObjectURL(blob);
+      }
+    } catch(e) { console.warn('LP full-res fetch failed:', e); }
+  }
+  return photo.src;
+}
+
 function lpCompositeOnCanvas(canvas, photoSrc, callback) {
   const img = new Image();
   img.onload = () => {
@@ -3551,11 +3660,13 @@ function lpCompositeOnCanvas(canvas, photoSrc, callback) {
   img.src = photoSrc;
 }
 
-function lpUpdatePreview() {
+async function lpUpdatePreview() {
   if (lpPhotos.length === 0) return;
   const canvas = document.getElementById('lp-preview-canvas');
   const placeholder = document.querySelector('.lp-preview-placeholder');
-  lpCompositeOnCanvas(canvas, lpPhotos[0].src, () => {
+  const src = await lpGetPhotoSrc(lpPhotos[0]);
+  if (!src) return;
+  lpCompositeOnCanvas(canvas, src, () => {
     canvas.style.display = 'block';
     if (placeholder) placeholder.style.display = 'none';
   });
@@ -3583,7 +3694,9 @@ async function lpDownloadZip() {
   for (let i = 0; i < lpPhotos.length; i++) {
     status.textContent = `Processing ${i+1} / ${lpPhotos.length}…`;
     fill.style.width = ((i / lpPhotos.length) * 100) + '%';
-    await new Promise(res => lpCompositeOnCanvas(off, lpPhotos[i].src, res));
+    const src = await lpGetPhotoSrc(lpPhotos[i]);
+    if (!src) continue;
+    await new Promise(res => lpCompositeOnCanvas(off, src, res));
     const blob = await new Promise(r => off.toBlob(r, 'image/jpeg', 0.93));
     const base = (lpPhotos[i].filename || `photo_${i+1}`).replace(/\.[^.]+$/, '');
     zip.file(base + '-logo.jpg', blob);
@@ -3611,7 +3724,9 @@ async function lpUploadToDropbox() {
   for (let i = 0; i < lpPhotos.length; i++) {
     status.textContent = `Uploading ${i+1} / ${lpPhotos.length}…`;
     fill.style.width = ((i / lpPhotos.length) * 100) + '%';
-    await new Promise(res => lpCompositeOnCanvas(off, lpPhotos[i].src, res));
+    const src = await lpGetPhotoSrc(lpPhotos[i]);
+    if (!src) continue;
+    await new Promise(res => lpCompositeOnCanvas(off, src, res));
     const blob = await new Promise(r => off.toBlob(r, 'image/jpeg', 0.93));
     const base = (lpPhotos[i].filename || `photo_${i+1}`).replace(/\.[^.]+$/, '');
     const uploadPath = '/JPEGS with Logos/' + base + '-logo.jpg';
@@ -3631,6 +3746,96 @@ async function lpUploadToDropbox() {
   status.textContent = `Uploaded ${lpPhotos.length} file(s) to /JPEGS with Logos/`;
   setTimeout(() => { bar.style.display = 'none'; }, 3000);
 }
+
+// ── Folders View ──────────────────────────────────────────────
+let currentSidebarView = 'all';
+let activeFolderCampaign = null; // campaign name string or null
+let folderFilteredPhotos = null; // array of photo objects when in folder view, null = show all
+
+function setSidebarView(view) {
+  currentSidebarView = view;
+  document.getElementById('filters-view').style.display = view === 'all' ? 'block' : 'none';
+  document.getElementById('folders-view').style.display = view === 'folders' ? 'block' : 'none';
+  document.getElementById('toggle-all').classList.toggle('active', view === 'all');
+  document.getElementById('toggle-folders').classList.toggle('active', view === 'folders');
+  if (view === 'folders') {
+    buildFoldersTree();
+    if (!activeFolderCampaign) {
+      // Show all photos, no folder selected
+      displayPhotos(photos);
+      document.getElementById('results-count').innerHTML = '<span>' + photos.length + '</span> photos';
+    }
+  } else {
+    // Back to filter view — clear folder state and re-run filters
+    activeFolderCampaign = null;
+    folderFilteredPhotos = null;
+    filterPhotos();
+  }
+}
+
+function buildFoldersTree() {
+  // Group campaigns by year
+  const byYear = {};
+  const campaignNames = [...new Set(photos.map(p => p.campaign).filter(Boolean))].sort();
+  campaignNames.forEach(name => {
+    const yearFromPhotos = photos.find(p => p.campaign === name)?.year || '';
+    const year = yearFromPhotos || 'Other';
+    if (!byYear[year]) byYear[year] = [];
+    const count = photos.filter(p => p.campaign === name).length;
+    byYear[year].push({ name, count });
+  });
+
+  const years = Object.keys(byYear).sort((a, b) => b.localeCompare(a));
+  let html = '';
+  years.forEach(year => {
+    html += '<div class="folders-year">';
+    html += '<div class="folders-year-label">' + (year.length === 4 ? year : '20' + year.slice(0, 2)) + '</div>';
+    byYear[year].forEach(f => {
+      const isActive = activeFolderCampaign === f.name;
+      const enc = encodeURIComponent(f.name);
+      html += '<div class="folder-item' + (isActive ? ' active' : '') + '" data-folder="' + enc + '" onclick="selectFolder(decodeURIComponent(this.dataset.folder))">';
+      html += '<span class="folder-item-name" title="' + f.name + '">' + f.name + '</span>';
+      html += '<span class="folder-item-count">' + f.count + '</span>';
+      html += '</div>';
+    });
+    html += '</div>';
+  });
+  document.getElementById('folders-tree').innerHTML = html;
+}
+
+function selectFolder(name) {
+  activeFolderCampaign = name;
+  buildFoldersTree(); // re-render to update active highlight
+  folderFilteredPhotos = photos.filter(p => p.campaign === name);
+  displayPhotos(folderFilteredPhotos);
+  const n = folderFilteredPhotos.length;
+  document.getElementById('results-count').innerHTML =
+    '<span>' + n + '</span> photo' + (n !== 1 ? 's' : '') +
+    ' &mdash; <em style="color:var(--ink-soft);font-style:normal;">' + name + '</em>';
+  // Update select-all button
+  const btn = document.getElementById('folder-select-all-btn');
+  btn.disabled = false;
+  btn.textContent = '☐  Select all ' + n + ' in folder';
+}
+
+function folderSelectAll() {
+  if (!activeFolderCampaign || !folderFilteredPhotos) return;
+  if (!selectModeActive) {
+    selectModeActive = true;
+    document.getElementById('select-toolbar').classList.add('visible');
+  }
+  selectedPhotoIndices.clear();
+  folderFilteredPhotos.forEach(p => {
+    const idx = photos.indexOf(p);
+    if (idx !== -1) selectedPhotoIndices.add(idx);
+  });
+  // Re-display and mark selections
+  displayPhotos(folderFilteredPhotos);
+  refreshCardSelectState();
+  updateSelectCount();
+}
+// ── End Folders View ──────────────────────────────────────────
+
 // ── End Logo Placement Drawer ──────────────────────────────────
 
 </script>
