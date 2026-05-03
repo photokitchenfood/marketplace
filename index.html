@@ -4,7 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>[PHOTOS] Photokitchen Shoot Catalog</title>
+<title>[PHOTOS] The Marketplace Shoot Catalog</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛒</text></svg>">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg'><text y='32' font-size='32'>🍓</text></svg>">
 <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400&family=Bricolage+Grotesque:opsz,wght@12..96,300;12..96,400;12..96,500&family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300&family=Syne:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
@@ -3187,9 +3188,9 @@ async function loadCampaigns() {
         campaignPhotos.forEach(p => {
           p.campaign = p.campaign || campaign.name;
           p.year = p.shoot_date ? '20' + p.shoot_date.slice(0,2) : '';
-          p.brands = p.brands ? p.brands.split(',').map(s=>s.trim()).filter(Boolean) : [];
-          p.ingredients = p.ingredients ? p.ingredients.split(',').map(s=>s.trim()).filter(Boolean) : [];
-          p.colors = p.colors ? p.colors.split(',').map(s=>s.trim()).filter(Boolean) : [];
+          p.brands = Array.isArray(p.brands) ? p.brands : (p.brands ? p.brands.split(',').map(s=>s.trim()).filter(Boolean) : []);
+          p.ingredients = Array.isArray(p.ingredients) ? p.ingredients : (p.ingredients ? p.ingredients.split(',').map(s=>s.trim()).filter(Boolean) : []);
+          p.colors = Array.isArray(p.colors) ? p.colors : (p.colors ? p.colors.split(',').map(s=>s.trim()).filter(Boolean) : []);
           p.thumb = p.image_data ? 'data:image/jpeg;base64,' + p.image_data : '';
           p.dropbox_path = p.dropbox_path || '';
         });
