@@ -404,6 +404,7 @@ const S = {
   defaultColor: 'white',  // 'white' | 'black'
   campaignLogoImg: null,   // HTMLImageElement (rebuilt from dataURL)
   campaignLogoDataURL: null, // persistent dataURL source
+  campaignLogoNeedsCircleClip: false, // true = plain rectangular logo (e.g. white-bg JPEG) needing legacy auto-circle-crop
   placements: {},         // photoId -> {tmpCorner, campaignCorner, logoColor, note, idx}
   downloadOpt: 'local',
 };
@@ -663,6 +664,23 @@ document.getElementById('campaign-logo-input').addEventListener('change', e => {
         if (maxC < 40) d.data[i+3] = 0; // near-black background only
       }
       ctx.putImageData(d, 0, 0);
+      // Detect whether this logo already defines its own shape via transparency
+      // (e.g. a pre-designed sticker/badge PNG) or is a plain rectangular image
+      // that still needs the old auto-circle-crop (e.g. a JPEG or a logo on a
+      // white background, which background removal above intentionally leaves
+      // opaque). Sample all four corners a few px in from the edge to dodge
+      // anti-aliasing; if any corner is still opaque, treat it as needing the
+      // circular crop, same as before.
+      const inset = Math.max(1, Math.round(Math.min(cv.width, cv.height) * 0.02));
+      const corners = [
+        [inset, inset], [cv.width - 1 - inset, inset],
+        [inset, cv.height - 1 - inset], [cv.width - 1 - inset, cv.height - 1 - inset]
+      ];
+      const cornersOpaque = corners.some(([px, py]) => {
+        const idx = (py * cv.width + px) * 4;
+        return d.data[idx + 3] > 20;
+      });
+      S.campaignLogoNeedsCircleClip = cornersOpaque;
       const processed = new Image();
       const dataURL = cv.toDataURL('image/png');
       processed.onload = () => {
@@ -680,6 +698,7 @@ document.getElementById('campaign-logo-input').addEventListener('change', e => {
 function clearCampaignLogo() {
   S.campaignLogoImg = null;
   S.campaignLogoDataURL = null;
+  S.campaignLogoNeedsCircleClip = false;
   document.getElementById('campaign-logo-box').innerHTML = '<span>No campaign logo uploaded</span>';
   document.getElementById('clear-campaign-btn').style.display = 'none';
   document.getElementById('campaign-logo-input').value = '';
@@ -857,12 +876,26 @@ function drawLogoAtCorner(ctx, logoImg, corner, logoW, logoH, W, H, pad) {
 function drawCampaignAtCorner(ctx, logoImg, corner, cSize, _unused, W, H, pad) {
   if (!logoImg || !logoImg.complete || !logoImg.naturalWidth) return;
   const [x, y] = cornerXY(corner, cSize, cSize, W, H, pad);
-  ctx.save();
-  ctx.beginPath();
-  ctx.arc(x + cSize/2, y + cSize/2, cSize/2, 0, Math.PI * 2);
-  ctx.clip();
-  ctx.drawImage(logoImg, x, y, cSize, cSize);
-  ctx.restore();
+  if (S.campaignLogoNeedsCircleClip) {
+    // Plain rectangular source (e.g. JPEG or white-background logo) — apply the
+    // legacy auto-circle-crop so it still reads as a badge.
+    ctx.save();
+    ctx.beginPath();
+    ctx.arc(x + cSize/2, y + cSize/2, cSize/2, 0, Math.PI * 2);
+    ctx.clip();
+    ctx.drawImage(logoImg, x, y, cSize, cSize);
+    ctx.restore();
+    return;
+  }
+  // Logo already defines its own shape via transparency (e.g. a pre-designed
+  // sticker/badge PNG) — just resize to fit within the box, preserving aspect
+  // ratio, no circular mask.
+  const aspect = logoImg.naturalWidth / logoImg.naturalHeight;
+  let drawW = cSize, drawH = cSize;
+  if (aspect > 1) { drawH = cSize / aspect; } else { drawW = cSize * aspect; }
+  const offX = x + (cSize - drawW) / 2;
+  const offY = y + (cSize - drawH) / 2;
+  ctx.drawImage(logoImg, offX, offY, drawW, drawH);
 }
 
 function goStep4() {
@@ -934,12 +967,24 @@ async function startExport() {
       });
       const cSize = W * CAMPAIGN_SIZE_RATIO;
       const [cx, cy] = cornerXY(pl.campaignCorner, cSize, cSize, W, H, pad);
-      ctx.save();
-      ctx.beginPath();
-      ctx.arc(cx + cSize/2, cy + cSize/2, cSize/2, 0, Math.PI * 2);
-      ctx.clip();
-      ctx.drawImage(cImg, cx, cy, cSize, cSize);
-      ctx.restore();
+      if (S.campaignLogoNeedsCircleClip) {
+        // Legacy behavior for plain rectangular sources (JPEG / white-bg logo).
+        ctx.save();
+        ctx.beginPath();
+        ctx.arc(cx + cSize/2, cy + cSize/2, cSize/2, 0, Math.PI * 2);
+        ctx.clip();
+        ctx.drawImage(cImg, cx, cy, cSize, cSize);
+        ctx.restore();
+      } else {
+        // Same fix as the preview: fit within the box preserving aspect ratio,
+        // no circular clip — the PNG's own transparency defines its silhouette.
+        const cAspect = cImg.naturalWidth / cImg.naturalHeight;
+        let cDrawW = cSize, cDrawH = cSize;
+        if (cAspect > 1) { cDrawH = cSize / cAspect; } else { cDrawW = cSize * cAspect; }
+        const cOffX = cx + (cSize - cDrawW) / 2;
+        const cOffY = cy + (cSize - cDrawH) / 2;
+        ctx.drawImage(cImg, cOffX, cOffY, cDrawW, cDrawH);
+      }
     }
 
     // Filename: append -logo before extension
