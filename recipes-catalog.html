@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>[RECIPES] PhotoKitchen TMP Catalog</title>
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍽️</text></svg>">
+<title>[RECIPES] The Marketplace Photos Catalog</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🥗</text></svg>">
 <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400&family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300&family=Syne:wght@400;500;600;700;800&family=Spline+Sans:wght@400;500&display=swap" rel="stylesheet">
 <!--
   NOTE: pulling fonts from Google Fonts here for now, same as the Surfaces
@@ -85,6 +85,24 @@ main.content{padding:28px 32px}
 .empty{text-align:center;padding:80px 20px;color:var(--ink-soft)}
 .empty h3{font-family:"Syne",sans-serif;font-size:20px;margin-bottom:8px;color:var(--ink)}
 .empty p{font-size:13px}
+#landingPanel{padding-bottom:20px}
+.landing-banner{height:220px;border-radius:var(--card-radius);background:linear-gradient(135deg,var(--ink) 0%,#3a352c 100%);display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;margin-bottom:28px;gap:8px}
+.landing-banner-title{font-family:"Syne",sans-serif;font-size:26px;font-weight:700;color:#fff}
+.landing-banner-meta{font-family:"DM Mono",monospace;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:rgba(255,255,255,.6)}
+.landing-two-col{display:grid;grid-template-columns:1fr 1fr;gap:24px;align-items:start}
+@media(max-width:860px){.landing-two-col{grid-template-columns:1fr}}
+.landing-section-label{font-family:"DM Mono",monospace;font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-soft);margin-bottom:10px}
+.landing-howto-block{background:var(--surface);border:1px solid var(--tag-border);border-radius:var(--card-radius);overflow:hidden}
+.howto-step{display:flex;gap:12px;align-items:flex-start;padding:12px 14px}
+.howto-step+.howto-step{border-top:1px solid var(--tag-border)}
+.howto-step-num{font-family:"DM Mono",monospace;font-size:9px;font-weight:700;color:var(--bg);background:var(--ink);width:16px;height:16px;border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0;margin-top:3px}
+.howto-step-title{font-family:"Syne",sans-serif;font-size:13px;font-weight:600;color:var(--ink);margin-bottom:2px}
+.howto-step-desc{font-size:12px;color:var(--ink-soft);line-height:1.4}
+.landing-cats-grid{display:flex;flex-direction:column;gap:6px}
+.landing-cat-card{display:flex;align-items:flex-start;gap:11px;padding:12px 14px;background:var(--surface);border:1px solid var(--tag-border);border-radius:var(--card-radius)}
+.landing-cat-icon{font-size:15px;line-height:1;flex-shrink:0;margin-top:2px}
+.landing-cat-name{font-family:"Syne",sans-serif;font-size:14px;font-weight:600;color:var(--ink);margin-bottom:2px}
+.landing-cat-desc{font-size:12px;color:var(--ink-soft);line-height:1.4}
 
 /* CARD */
 .card{background:var(--surface);border-radius:var(--card-radius);border:1px solid var(--tag-border);overflow:hidden;position:relative;display:flex;flex-direction:column;cursor:pointer;transition:box-shadow .2s,transform .2s;animation:fadeIn .25s ease both}
@@ -131,6 +149,8 @@ main.content{padding:28px 32px}
 .photoWrap img{width:100%;display:block}
 .photoWrap .hoverLabel{position:absolute;inset:0;background:rgba(0,0,0,.35);display:flex;align-items:center;justify-content:center;opacity:0;transition:opacity .15s;color:#fff;font-size:10px;letter-spacing:.06em;text-transform:uppercase;text-align:center;padding:14px}
 .photoWrap:hover .hoverLabel{opacity:1}
+.cropViewport{width:300px;height:300px;overflow:hidden;position:relative;border-radius:8px;border:1.5px solid var(--ink-faint);background:#F0EDE8;cursor:grab;touch-action:none}
+.cropImg{position:absolute;user-select:none;-webkit-user-drag:none;pointer-events:none}
 .modal-col .metaRow{margin-bottom:8px}
 .modal-col h2{font-family:"Syne",sans-serif;font-size:20px;font-weight:600;color:var(--ink);margin:2px 0 12px}
 .recipeSection{background:var(--tag-bg);margin:0 28px 28px;padding:18px 22px;border-radius:8px}
@@ -179,7 +199,7 @@ main.content{padding:28px 32px}
     <div class="searchbar">
       <div class="search-wrap">
         <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
-        <input type="text" id="catalogSearch" placeholder="Search this shoot&hellip;">
+        <input type="text" id="catalogSearch" placeholder="Search&hellip;">
       </div>
     </div>
     <aside class="tree-pane">
@@ -211,6 +231,12 @@ main.content{padding:28px 32px}
             <button class="chip active" data-month="all">All</button>
           </div>
         </div>
+        <div class="sidebar-section">
+          <div class="sidebar-label">Brand</div>
+          <div class="chip-group" id="brandFilters">
+            <button class="chip active" data-brand="all">All</button>
+          </div>
+        </div>
       </div>
     </aside>
   </div>
@@ -219,6 +245,66 @@ main.content{padding:28px 32px}
       <div class="results-bar">
         <div id="crumbLine" class="placeholder">Select a shoot from the sidebar</div>
         <div class="results-count" id="resultsCount"><span id="resultsCountNum">—</span> items</div>
+      </div>
+      <div id="landingPanel">
+        <div class="landing-banner">
+          <div class="landing-banner-title">The Marketplace Recipe Catalog</div>
+          <div class="landing-banner-meta">Last Updated: <span id="lastUpdatedText">&mdash;</span></div>
+        </div>
+        <div class="landing-two-col">
+          <div>
+            <div class="landing-section-label">How It Works</div>
+            <div class="landing-howto-block">
+              <div class="howto-step">
+                <div class="howto-step-num">1</div>
+                <div>
+                  <div class="howto-step-title">Folders</div>
+                  <div class="howto-step-desc">Pick a Year, Month, or individual shoot on the left to browse its photos.</div>
+                </div>
+              </div>
+              <div class="howto-step">
+                <div class="howto-step-num">2</div>
+                <div>
+                  <div class="howto-step-title">All Photos</div>
+                  <div class="howto-step-desc">Search or filter across every shoot at once, no need to browse folder by folder.</div>
+                </div>
+              </div>
+              <div class="howto-step">
+                <div class="howto-step-num">3</div>
+                <div>
+                  <div class="howto-step-title">Click a Photo</div>
+                  <div class="howto-step-desc">See its full recipe, caption, and details &mdash; and replace the photo if needed.</div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div>
+            <div class="landing-section-label">Filter By</div>
+            <div class="landing-cats-grid">
+              <div class="landing-cat-card">
+                <span class="landing-cat-icon">🍽️</span>
+                <div>
+                  <div class="landing-cat-name">Type</div>
+                  <div class="landing-cat-desc">Recipe, Out of Pack, Non-Food, Group Shot</div>
+                </div>
+              </div>
+              <div class="landing-cat-card">
+                <span class="landing-cat-icon">📅</span>
+                <div>
+                  <div class="landing-cat-name">Year &amp; Month</div>
+                  <div class="landing-cat-desc">See everything shot in a specific month, all at once</div>
+                </div>
+              </div>
+              <div class="landing-cat-card">
+                <span class="landing-cat-icon">🏷️</span>
+                <div>
+                  <div class="landing-cat-name">Brand</div>
+                  <div class="landing-cat-desc">Find every recipe featuring a specific product (All Photos only)</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="grid" id="catalogGrid"></div>
     </div>
@@ -230,6 +316,19 @@ main.content{padding:28px 32px}
       <div class="grid" id="shufflerGrid"></div>
     </div>
   </main>
+</div>
+
+<div class="overlay" id="cropOverlay">
+  <div class="modal" style="width:360px">
+    <div class="modalTopBar"><button class="closeX" id="cropCancel">✕</button></div>
+    <div style="padding:0 28px 24px">
+      <h4 style="margin-top:0">Adjust Crop</h4>
+      <div id="cropViewport" class="cropViewport">
+        <img id="cropImg" class="cropImg">
+      </div>
+      <button class="shuf-btn" id="cropConfirm" style="width:100%;margin-top:16px;justify-content:center">Use This Crop</button>
+    </div>
+  </div>
 </div>
 
 <div class="overlay" id="modalOverlay">
@@ -305,6 +404,21 @@ async function loadIndex(){
   recipesIndex = window.__recipesIndex || [];
   buildTree();
   buildShufflerFilterChips();
+  loadLastUpdated();
+}
+
+// The extracted index files start with a "// Last updated: YYYY-MM-DD"
+// comment. Read separately as plain text (not executed) just for that line,
+// for the landing page.
+function loadLastUpdated(){
+  const xhr = new XMLHttpRequest();
+  xhr.open("GET", "recipes-index.js", true);
+  xhr.onload = () => {
+    if(xhr.status !== 200) return;
+    const m = xhr.responseText.match(/Last updated:\s*(.+)/i);
+    if(m) document.getElementById("lastUpdatedText").textContent = m[1].trim();
+  };
+  xhr.send();
 }
 
 async function loadShootData(entry){
@@ -324,6 +438,26 @@ const MONTH_NAMES = ["January","February","March","April","May","June","July","A
 
 function renderLoading(gridEl){
   gridEl.innerHTML = `<div class="empty">Loading&hellip;</div>`;
+}
+
+// Heuristic: in an ingredients list, the featured branded product is almost
+// always the run of Title-Case words on a line (plain ingredients like "soy
+// sauce" stay lowercase). Section headers ("Whipped Ricotta:") are skipped.
+// Not perfect — the occasional Title-Case ingredient name (e.g. "Muscat
+// Grapes") gets picked up too — but tested against real data it's a large
+// improvement over parsing caption text, which missed roughly a third of
+// items outright.
+const BRAND_RE = /\b\p{Lu}[\p{L}\u2019'\u00C0-\u017F]*(?:(?:\s+|\s*&\s*)\p{Lu}[\p{L}\u2019'\u00C0-\u017F]*)+\b/gu;
+function extractBrandCandidates(item){
+  const text = item.recipe ? item.recipe.ingredients : "";
+  if(!text) return [];
+  const found = new Set();
+  text.split("\n").forEach(line => {
+    line = line.trim();
+    if(!line || line.endsWith(":")) return;
+    [...line.matchAll(BRAND_RE)].forEach(m => found.add(m[0]));
+  });
+  return [...found];
 }
 
 const CATEGORY_META = {
@@ -347,8 +481,10 @@ function groupIndexByYearMonth(){
   });
   return Object.keys(years).map(Number).sort((a,b) => b - a).map(year => ({
     year,
-    months: Object.keys(years[year]).map(Number).sort((a,b) => b - a).map(month => ({
-      month, monthName: MONTH_NAMES[month - 1] || String(month),
+    months: Object.keys(years[year]).map(Number).sort((a,b) => a - b).map(month => ({
+      month,
+      monthName: MONTH_NAMES[month - 1] || String(month),
+      monthLabel: String(month).padStart(2, "0") + " " + (MONTH_NAMES[month - 1] || String(month)),
       shoots: years[year][month]
     }))
   }));
@@ -380,7 +516,7 @@ function buildTree(){
       const mLi = document.createElement("li");
       const mNode = document.createElement("div");
       mNode.className = "node";
-      mNode.innerHTML = `<span class="caret">▾</span><span class="nodeLabel">${mo.monthName}</span><span class="count">${monthCount}</span>`;
+      mNode.innerHTML = `<span class="caret">▾</span><span class="nodeLabel">${mo.monthLabel}</span><span class="count">${monthCount}</span>`;
       const mUl = document.createElement("ul");
       mNode.querySelector(".caret").addEventListener("click", (e) => { e.stopPropagation(); toggleCollapse(mNode, mUl); });
       mNode.querySelector(".nodeLabel").addEventListener("click", () => {
@@ -480,6 +616,7 @@ function renderCrumb({year, month, shootLabel}){
 async function selectShoot(entry, nodeEl, crumbParts){
   document.querySelectorAll(".node.selected").forEach(n => n.classList.remove("selected"));
   nodeEl.classList.add("selected");
+  document.getElementById("landingPanel").style.display = "none";
   renderCrumb(crumbParts);
   document.getElementById("catalogSearch").value = "";
   document.getElementById("saveChangesBtn").classList.remove("show");
@@ -497,6 +634,7 @@ async function selectShoot(entry, nodeEl, crumbParts){
 async function selectGroup(entries, nodeEl, crumbParts){
   document.querySelectorAll(".node.selected").forEach(n => n.classList.remove("selected"));
   nodeEl.classList.add("selected");
+  document.getElementById("landingPanel").style.display = "none";
   renderCrumb(crumbParts);
   document.getElementById("catalogSearch").value = "";
   document.getElementById("saveChangesBtn").classList.remove("show");
@@ -549,11 +687,9 @@ function applyCampaignTag(el, campaign){
 
 function cardHTML(item, idx, sourceArrRef){
   const meta = CATEGORY_META[item.category] || {cls:"nonfood", label:item.category || "—"};
-  const swapFlag = item.needsPhotoSwap ? `<span class="swapFlag">⚠️</span>` : "";
   return `<div class="card" data-idx="${idx}">
     <div class="card-img">
       <img src="data:image/jpeg;base64,${item.photo.image_data}">
-      ${swapFlag}
     </div>
     <div class="card-body">
       <div class="card-title">${escapeHTML(item.layoutName)}</div>
@@ -603,12 +739,45 @@ function matchesFilters(item, q){
   return matchesQuery(item, q);
 }
 
-// Shuffler-only: adds the Year/Month pill filters on top of the shared Type
-// filter and search text.
+// Shuffler-only: adds the Year/Month/Brand pill filters on top of the shared
+// Type filter and search text.
+let brandFilter = "all";
 function matchesShufflerFilters(item, q){
   if(yearFilter !== "all" && String(item._year) !== String(yearFilter)) return false;
   if(monthFilter !== "all" && String(item._month) !== String(monthFilter)) return false;
+  if(brandFilter !== "all" && !extractBrandCandidates(item).includes(brandFilter)) return false;
   return matchesFilters(item, q);
+}
+
+// Builds the Brand pill filters from whatever's actually detected across the
+// loaded items. Only built once, the first time Shuffler data finishes loading.
+let brandChipsBuilt = false;
+function buildBrandFilterChips(items){
+  if(brandChipsBuilt) return;
+  brandChipsBuilt = true;
+  const brands = new Set();
+  items.forEach(it => extractBrandCandidates(it).forEach(b => brands.add(b)));
+  const sorted = [...brands].sort((a, b) => a.localeCompare(b));
+  const el = document.getElementById("brandFilters");
+  sorted.forEach(b => {
+    const btn = document.createElement("button");
+    btn.className = "chip";
+    btn.dataset.brand = b;
+    btn.textContent = b;
+    btn.addEventListener("click", () => {
+      document.querySelectorAll("#brandFilters .chip").forEach(c => c.classList.remove("active"));
+      btn.classList.add("active");
+      brandFilter = b;
+      refreshCurrentView();
+    });
+    el.appendChild(btn);
+  });
+  document.querySelector('#brandFilters .chip[data-brand="all"]').addEventListener("click", (e) => {
+    document.querySelectorAll("#brandFilters .chip").forEach(c => c.classList.remove("active"));
+    e.currentTarget.classList.add("active");
+    brandFilter = "all";
+    refreshCurrentView();
+  });
 }
 
 // Re-renders whichever grid is currently on screen, applying the current
@@ -663,6 +832,7 @@ document.querySelectorAll(".mode-btn").forEach(btn => {
       shufflerLoading = true;
       renderLoading(document.getElementById("shufflerGrid"));
       shufflerBase = await loadAllShootsFlat();
+      buildBrandFilterChips(shufflerBase);
       shufflerLoading = false;
     }
     refreshCurrentView();
@@ -721,8 +891,12 @@ document.getElementById("modalOverlay").addEventListener("click", (e) => {
   if(e.target.id === "modalOverlay") document.getElementById("modalOverlay").classList.remove("show");
 });
 
-// Replace-photo flow: resize/compress any local file to a 500px-max JPEG, matching
-// the thumbnail convention used everywhere else in the repo, then swap it in-memory.
+// Replace-photo flow: any uploaded photo ends up as a 500x500 square, matching
+// every other photo in the data (cards and the modal both display it square).
+// A square-ish upload is auto-centered. A clearly non-square upload instead
+// opens a drag-to-reposition crop step, so the person chooses what stays in
+// frame rather than the browser silently center-cropping something important
+// out (a face, a product label, etc).
 document.getElementById("photoWrap").addEventListener("click", () => {
   document.getElementById("swapInput").click();
 });
@@ -733,29 +907,93 @@ document.getElementById("swapInput").addEventListener("change", (e) => {
   reader.onload = (ev) => {
     const img = new Image();
     img.onload = () => {
-      const maxDim = 500;
-      let w = img.width, h = img.height;
-      if(w > h){ if(w > maxDim){ h = Math.round(h * maxDim / w); w = maxDim; } }
-      else { if(h > maxDim){ w = Math.round(w * maxDim / h); h = maxDim; } }
-      const canvas = document.createElement("canvas");
-      canvas.width = w; canvas.height = h;
-      canvas.getContext("2d").drawImage(img, 0, 0, w, h);
-      const dataUrl = canvas.toDataURL("image/jpeg", 0.85);
-      const base64 = dataUrl.split(",")[1];
-      modalItem.photo.image_data = base64;
-      modalItem.needsPhotoSwap = false;
-      document.getElementById("modalImg").src = dataUrl;
-      // re-render whichever grid is showing this item
-      if(currentTab === "catalog" && currentShoot){
-        renderGrid(document.getElementById("catalogGrid"), currentShoot.data.filter(it => matchesQuery(it, document.getElementById("catalogSearch").value)));
-      } else if(currentTab === "shuffler"){
-        renderGrid(document.getElementById("shufflerGrid"), shufflerBase.filter(it => matchesShufflerFilters(it, document.getElementById("shufflerSearch").value)));
+      const ratio = img.width / img.height;
+      if(Math.abs(ratio - 1) <= 0.02){
+        applyCroppedPhoto(squareCropDataUrl(img, 0, 0, Math.min(img.width, img.height)));
+      } else {
+        openCropPreview(img);
       }
     };
     img.src = ev.target.result;
   };
   reader.readAsDataURL(file);
+  e.target.value = ""; // allow re-selecting the same file later
 });
+
+// Draws a square region of a source image onto a 500x500 canvas.
+function squareCropDataUrl(img, sx, sy, sSize){
+  const canvas = document.createElement("canvas");
+  canvas.width = 500; canvas.height = 500;
+  canvas.getContext("2d").drawImage(img, sx, sy, sSize, sSize, 0, 0, 500, 500);
+  return canvas.toDataURL("image/jpeg", 0.85);
+}
+
+function applyCroppedPhoto(dataUrl){
+  modalItem.photo.image_data = dataUrl.split(",")[1];
+  modalItem.needsPhotoSwap = false;
+  document.getElementById("modalImg").src = dataUrl;
+  if(currentTab === "catalog" && currentShoot){
+    renderGrid(document.getElementById("catalogGrid"), currentShoot.data.filter(it => matchesQuery(it, document.getElementById("catalogSearch").value)));
+  } else if(currentTab === "shuffler"){
+    renderGrid(document.getElementById("shufflerGrid"), shufflerBase.filter(it => matchesShufflerFilters(it, document.getElementById("shufflerSearch").value)));
+  }
+}
+
+// Drag-to-reposition crop step for non-square uploads.
+function openCropPreview(img){
+  const VP = 300;
+  const viewport = document.getElementById("cropViewport");
+  const cropImg = document.getElementById("cropImg");
+  const scale = Math.max(VP / img.width, VP / img.height);
+  const w = img.width * scale, h = img.height * scale;
+  cropImg.src = img.src;
+  cropImg.style.width = w + "px";
+  cropImg.style.height = h + "px";
+  let offsetX = Math.min(0, (VP - w) / 2);
+  let offsetY = Math.min(0, (VP - h) / 2);
+  const applyOffset = () => {
+    offsetX = Math.min(0, Math.max(VP - w, offsetX));
+    offsetY = Math.min(0, Math.max(VP - h, offsetY));
+    cropImg.style.left = offsetX + "px";
+    cropImg.style.top = offsetY + "px";
+  };
+  applyOffset();
+
+  let dragging = false, startX, startY, startOffX, startOffY;
+  const onDown = (e) => {
+    dragging = true; startX = e.clientX; startY = e.clientY;
+    startOffX = offsetX; startOffY = offsetY;
+    viewport.style.cursor = "grabbing";
+  };
+  const onMove = (e) => {
+    if(!dragging) return;
+    offsetX = startOffX + (e.clientX - startX);
+    offsetY = startOffY + (e.clientY - startY);
+    applyOffset();
+  };
+  const onUp = () => { dragging = false; viewport.style.cursor = "grab"; };
+  viewport.onpointerdown = onDown;
+  window.addEventListener("pointermove", onMove);
+  window.addEventListener("pointerup", onUp);
+
+  document.getElementById("cropConfirm").onclick = () => {
+    const srcScale = img.width / w;
+    const sSize = VP * srcScale;
+    const sx = -offsetX * srcScale;
+    const sy = -offsetY * srcScale;
+    applyCroppedPhoto(squareCropDataUrl(img, sx, sy, sSize));
+    document.getElementById("cropOverlay").classList.remove("show");
+    window.removeEventListener("pointermove", onMove);
+    window.removeEventListener("pointerup", onUp);
+  };
+  document.getElementById("cropCancel").onclick = () => {
+    document.getElementById("cropOverlay").classList.remove("show");
+    window.removeEventListener("pointermove", onMove);
+    window.removeEventListener("pointerup", onUp);
+  };
+
+  document.getElementById("cropOverlay").classList.add("show");
+}
 
 // ---------- Save Changes: re-export the currently loaded shoot as a .js file ----------
 document.getElementById("saveChangesBtn").addEventListener("click", () => {
