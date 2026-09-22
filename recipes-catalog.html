@@ -198,6 +198,20 @@ main.content{padding:28px 32px}
         <div class="sidebar-label">Shoots</div>
         <div id="treePane" class="tree"></div>
       </div>
+      <div id="shufflerFiltersSection" style="display:none;">
+        <div class="sidebar-section">
+          <div class="sidebar-label">Year</div>
+          <div class="chip-group" id="yearFilters">
+            <button class="chip active" data-year="all">All</button>
+          </div>
+        </div>
+        <div class="sidebar-section">
+          <div class="sidebar-label">Month</div>
+          <div class="chip-group" id="monthFilters">
+            <button class="chip active" data-month="all">All</button>
+          </div>
+        </div>
+      </div>
     </aside>
   </div>
   <main class="content">
@@ -211,7 +225,7 @@ main.content{padding:28px 32px}
     <div id="shufflerView" style="display:none;">
       <div class="searchRow">
         <input type="text" id="shufflerSearch" placeholder="Search all shoots &mdash; e.g. blueberries, ricotta, Nestl&eacute;&hellip;">
-        <button class="shuf-btn" id="shuffleBtn">&#10227; Shuffle</button>
+        <button class="shuf-btn" id="shufflerSearchBtn">&#128269; Search</button>
       </div>
       <div class="grid" id="shufflerGrid"></div>
     </div>
@@ -290,6 +304,7 @@ async function loadIndex(){
   await loadScript("recipes-index.js");
   recipesIndex = window.__recipesIndex || [];
   buildTree();
+  buildShufflerFilterChips();
 }
 
 async function loadShootData(entry){
@@ -297,6 +312,10 @@ async function loadShootData(entry){
   window.__recipesData = undefined;
   await loadScript(entry.file);
   const data = window.__recipesData || [];
+  // Tag each item with its source year/month in place (not a copy) so the
+  // Shuffler's Year/Month filters can work without losing the shared object
+  // identity that photo-swap edits and Save Changes rely on.
+  data.forEach(it => { it._year = entry.year; it._month = entry.month; });
   shootDataCache[entry.id] = data;
   return data;
 }
@@ -384,6 +403,58 @@ function buildTree(){
     root.appendChild(yLi);
   });
   pane.appendChild(root);
+}
+
+// Builds the Year/Month pill filters shown in place of the Shoots tree on
+// All Photos, so a whole month's shoots can be viewed together without ever
+// leaving that tab.
+let yearFilter = "all";
+let monthFilter = "all";
+function buildShufflerFilterChips(){
+  const years = [...new Set(recipesIndex.map(e => e.year))].sort((a,b) => b - a);
+  const months = [...new Set(recipesIndex.map(e => e.month))].sort((a,b) => a - b);
+
+  const yearEl = document.getElementById("yearFilters");
+  years.forEach(y => {
+    const btn = document.createElement("button");
+    btn.className = "chip";
+    btn.dataset.year = y;
+    btn.textContent = y;
+    btn.addEventListener("click", () => {
+      document.querySelectorAll("#yearFilters .chip").forEach(c => c.classList.remove("active"));
+      btn.classList.add("active");
+      yearFilter = y;
+      refreshCurrentView();
+    });
+    yearEl.appendChild(btn);
+  });
+  document.querySelector('#yearFilters .chip[data-year="all"]').addEventListener("click", (e) => {
+    document.querySelectorAll("#yearFilters .chip").forEach(c => c.classList.remove("active"));
+    e.currentTarget.classList.add("active");
+    yearFilter = "all";
+    refreshCurrentView();
+  });
+
+  const monthEl = document.getElementById("monthFilters");
+  months.forEach(m => {
+    const btn = document.createElement("button");
+    btn.className = "chip";
+    btn.dataset.month = m;
+    btn.textContent = MONTH_NAMES[m - 1] || String(m);
+    btn.addEventListener("click", () => {
+      document.querySelectorAll("#monthFilters .chip").forEach(c => c.classList.remove("active"));
+      btn.classList.add("active");
+      monthFilter = m;
+      refreshCurrentView();
+    });
+    monthEl.appendChild(btn);
+  });
+  document.querySelector('#monthFilters .chip[data-month="all"]').addEventListener("click", (e) => {
+    document.querySelectorAll("#monthFilters .chip").forEach(c => c.classList.remove("active"));
+    e.currentTarget.classList.add("active");
+    monthFilter = "all";
+    refreshCurrentView();
+  });
 }
 
 function toggleCollapse(nodeEl, ulEl){
@@ -532,6 +603,14 @@ function matchesFilters(item, q){
   return matchesQuery(item, q);
 }
 
+// Shuffler-only: adds the Year/Month pill filters on top of the shared Type
+// filter and search text.
+function matchesShufflerFilters(item, q){
+  if(yearFilter !== "all" && String(item._year) !== String(yearFilter)) return false;
+  if(monthFilter !== "all" && String(item._month) !== String(monthFilter)) return false;
+  return matchesFilters(item, q);
+}
+
 // Re-renders whichever grid is currently on screen, applying the current
 // search text (per its own tab) plus the shared Type filter.
 function refreshCurrentView(){
@@ -542,7 +621,7 @@ function refreshCurrentView(){
   } else {
     if(!shufflerBase) return;
     const q = document.getElementById("shufflerSearch").value;
-    renderGrid(document.getElementById("shufflerGrid"), shufflerBase.filter(it => matchesFilters(it, q)));
+    renderGrid(document.getElementById("shufflerGrid"), shufflerBase.filter(it => matchesShufflerFilters(it, q)));
   }
 }
 
@@ -565,16 +644,10 @@ async function loadAllShootsFlat(){
 let shufflerBase = null;
 let shufflerLoading = false;
 document.getElementById("shufflerSearch").addEventListener("input", () => refreshCurrentView());
-document.getElementById("shuffleBtn").addEventListener("click", () => {
-  if(!shufflerBase) return;
-  const q = document.getElementById("shufflerSearch").value;
-  const pool = shufflerBase.filter(it => matchesFilters(it, q));
-  for(let i = pool.length - 1; i > 0; i--){
-    const j = Math.floor(Math.random() * (i+1));
-    [pool[i], pool[j]] = [pool[j], pool[i]];
-  }
-  renderGrid(document.getElementById("shufflerGrid"), pool);
+document.getElementById("shufflerSearch").addEventListener("keydown", (e) => {
+  if(e.key === "Enter") refreshCurrentView();
 });
+document.getElementById("shufflerSearchBtn").addEventListener("click", () => refreshCurrentView());
 
 // ---------- Tabs ----------
 document.querySelectorAll(".mode-btn").forEach(btn => {
@@ -584,7 +657,8 @@ document.querySelectorAll(".mode-btn").forEach(btn => {
     currentTab = btn.dataset.tab;
     document.getElementById("catalogView").style.display = currentTab === "catalog" ? "block" : "none";
     document.getElementById("shufflerView").style.display = currentTab === "shuffler" ? "block" : "none";
-    document.getElementById("shootsSection").classList.toggle("disabled", currentTab === "shuffler");
+    document.getElementById("shootsSection").style.display = currentTab === "shuffler" ? "none" : "block";
+    document.getElementById("shufflerFiltersSection").style.display = currentTab === "shuffler" ? "block" : "none";
     if(currentTab === "shuffler" && !shufflerBase && !shufflerLoading){
       shufflerLoading = true;
       renderLoading(document.getElementById("shufflerGrid"));
@@ -675,7 +749,7 @@ document.getElementById("swapInput").addEventListener("change", (e) => {
       if(currentTab === "catalog" && currentShoot){
         renderGrid(document.getElementById("catalogGrid"), currentShoot.data.filter(it => matchesQuery(it, document.getElementById("catalogSearch").value)));
       } else if(currentTab === "shuffler"){
-        renderGrid(document.getElementById("shufflerGrid"), shufflerBase.filter(it => matchesQuery(it, document.getElementById("shufflerSearch").value)));
+        renderGrid(document.getElementById("shufflerGrid"), shufflerBase.filter(it => matchesShufflerFilters(it, document.getElementById("shufflerSearch").value)));
       }
     };
     img.src = ev.target.result;
@@ -687,8 +761,11 @@ document.getElementById("swapInput").addEventListener("change", (e) => {
 document.getElementById("saveChangesBtn").addEventListener("click", () => {
   if(!currentShoot || currentShoot.isGroup) return;
   const varName = deriveVarName(currentShoot.id);
-  const header = `// Shoot: ${currentShoot.label}\n// Re-exported: ${new Date().toISOString().slice(0,10)}\n// Items: ${currentShoot.data.length}\n\n`;
-  const body = `const ${varName} = ${JSON.stringify(currentShoot.data, null, 2)};\n\nif (typeof window !== 'undefined') window.__recipesData = ${varName};\n`;
+  // Strip the internal _year/_month tags (added for the Shuffler's Year/Month
+  // filters) before writing back out — they aren't part of the real schema.
+  const cleanData = currentShoot.data.map(({_year, _month, ...rest}) => rest);
+  const header = `// Shoot: ${currentShoot.label}\n// Re-exported: ${new Date().toISOString().slice(0,10)}\n// Items: ${cleanData.length}\n\n`;
+  const body = `const ${varName} = ${JSON.stringify(cleanData, null, 2)};\n\nif (typeof window !== 'undefined') window.__recipesData = ${varName};\n`;
   const blob = new Blob([header + body], {type: "text/javascript"});
   const a = document.createElement("a");
   a.href = URL.createObjectURL(blob);
