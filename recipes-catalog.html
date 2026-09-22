@@ -75,7 +75,7 @@ main.content{padding:28px 32px}
 .results-bar{display:flex;align-items:center;justify-content:space-between;margin-bottom:20px}
 #crumbLine:not(.placeholder){display:flex;align-items:baseline;gap:8px;font-family:"Syne",sans-serif;font-size:25px;font-weight:700;line-height:1.1;color:var(--ink)}
 .crumbTitle{font-family:"Syne",sans-serif;font-size:25px;font-weight:700;line-height:1.1;color:var(--ink)}
-.crumbMeta{font-family:"DM Mono",monospace;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-faint);margin-top:6px}
+.crumbMeta{font-family:"Syne",sans-serif;font-size:18px;font-weight:500;color:#999;margin-top:6px}
 .crumbSep{color:var(--ink-faint);font-size:16px;font-weight:400}
 .crumbMonth{font-family:"Syne",sans-serif;font-size:18px;font-weight:500;color:var(--ink-soft)}
 .crumbShoot{font-family:"DM Mono",monospace;font-size:11px;font-weight:400;color:var(--ink-faint)}
@@ -87,7 +87,7 @@ main.content{padding:28px 32px}
 .empty h3{font-family:"Syne",sans-serif;font-size:20px;margin-bottom:8px;color:var(--ink)}
 .empty p{font-size:13px}
 #landingPanel{padding-bottom:20px}
-.landing-banner-img{width:100%;height:400px;aspect-ratio:2400/1098;object-fit:contain;object-position:center;border-radius:var(--card-radius);display:block;margin-bottom:28px;background:var(--tag-bg)}
+.landing-banner-img{width:100%;height:300px;object-fit:cover;object-position:center 40%;border-radius:var(--card-radius);display:block;margin-bottom:28px}
 .landing-two-col{display:grid;grid-template-columns:1fr 1fr;gap:24px;align-items:start}
 @media(max-width:860px){.landing-two-col{grid-template-columns:1fr}}
 .landing-section-label{font-family:"DM Mono",monospace;font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-soft);margin-bottom:10px}
@@ -415,11 +415,7 @@ function loadLastUpdated(){
   xhr.onload = () => {
     if(xhr.status !== 200) return;
     const m = xhr.responseText.match(/Last updated:\s*(.+)/i);
-    if(!m) return;
-    const raw = m[1].trim();
-    const parsed = new Date(raw + "T00:00:00");
-    const display = isNaN(parsed) ? raw : parsed.toLocaleDateString("en-US", {month:"short", day:"numeric", year:"numeric"});
-    document.getElementById("lastUpdatedText").textContent = display;
+    if(m) document.getElementById("lastUpdatedText").textContent = m[1].trim();
   };
   xhr.send();
 }
