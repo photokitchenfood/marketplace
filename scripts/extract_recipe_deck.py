@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Extract Recipe & Captions Deck exports into per-shoot-type JS data files
+Extract Recipe & Captions Deck exports into per-campaign JS data files
 for the TMP Recipes Catalog, mirroring the campaigns/ folder pattern used
 by the existing PhotoKitchen Shoot Catalog (marketplace repo).
 
@@ -21,20 +21,34 @@ alt text, matching the existing PPM-to-Recipe-deck automation approach —
 these decks are manually assembled from a Pre-Prod deck template, so the
 only stable signal is where a box sits on the slide.
 
-Carried-over batches: a deck sometimes contains layouts carried over from
-a missed prior month, under their own campaign banner color. When that's
-detected (a banner naming a month earlier than the deck's shoot month, or
-the same banner text appearing in more than one fill color), the script
-prints every distinct banner and stops before writing anything, then asks
-which output date/filename each batch belongs to. Carried-over batches
-should be dated to their ORIGINAL month. Decks without such banners
-extract exactly as before, with no prompts.
+Several deck pairs can be processed in one run (e.g. March + April, when a
+campaign like April IG spans both). Every run:
+
+  1. Checks each pair's filenames share a YYMM- prefix (asks if not).
+  2. DRY RUN: lists every distinct campaign banner across all decks — its
+     text, fill color, slide count, and which deck(s) it appears in — plus
+     cross-deck checks. Nothing is written. --dry-run stops here.
+  3. Asks which content month (YYMM) each campaign is filed under. There
+     is no default: a deck's month is when it was shot, and campaigns in
+     it often target other months (Mother's Day shot in April -> May).
+  4. Writes one <YYMM>-<Campaign-Name>.js per campaign + month, pulling
+     that campaign's items from whichever deck(s) they're in.
+
+Campaign names are normalized for the output `campaign` field and for
+grouping: "Highlight" / "Instagram" -> "IG", case and apostrophes ignored.
+Slides are correlated between the two decks by layout code, never by
+banner text, so the decks' inconsistent labels can't mismatch slides. If a
+layout code is missing from the PPM deck (slides left with the template's
+"IG00"), the category falls back to matching the slide title; every such
+match is listed in the dry run. Hidden slides are skipped in both decks.
 
 Usage:
-    python3 extract_recipe_deck.py \\
-        --recipe-deck "TMP Sep 2026 Recipe & Captions Deck (Sept IG, Shop & Collect).pptx" \\
-        --preprod-deck "TMP Sep 2026 Pre-Prod Deck (Sep IG, Shop & Collect).pptx" \\
-        --out-dir campaigns
+    python3 scripts/extract_recipe_deck.py \\
+        --preprod-deck "pptx/2603-PreProd_TMP Mar 2026 Pre-Prod Deck (...).pptx" \\
+        --recipe-deck  "pptx/2603-RecipeCaptions_TMP Mar 2026 Recipes & Captions Deck.pptx" \\
+        --preprod-deck "pptx/2604-PreProd_TMP Apr 2026 Pre-Prod Deck (...).pptx" \\
+        --recipe-deck  "pptx/2604-RecipeCaptions_TMP Apr 2026 Recipes & Captions Deck (...).pptx" \\
+        [--dry-run] [--out-dir recipes]
 """
 
 import argparse
@@ -43,7 +57,8 @@ import io
 import json
 import re
 import sys
-from datetime import date, datetime
+from datetime import date
+from pathlib import Path
 
 from pptx import Presentation
 from pptx.util import Emu
@@ -103,6 +118,15 @@ def in_zone(shape, zone):
     return zone["left"][0] <= left <= zone["left"][1] and zone["top"][0] <= top <= zone["top"][1]
 
 
+def is_hidden(slide):
+    # "Hide slide" in PowerPoint / Google Slides sets show="0" on the slide
+    return slide._element.get("show") == "0"
+
+
+def normalize_title(text):
+    return re.sub(r"[^a-z0-9]+", " ", text.lower().replace("’", "'")).strip()
+
+
 def shape_text(shape):
     if shape.has_text_frame:
         return shape.text_frame.text
@@ -157,6 +181,17 @@ def strip_label(text, label_pattern):
     if m:
         text = text[m.end():]
     return text.strip()
+
+
+def normalize_campaign(text):
+    """Canonical campaign name. The PPM and Recipe & Captions decks label
+    the same IG content inconsistently ("MARCH HIGHLIGHT" vs "MARCH
+    INSTAGRAM", "JULY IG" vs "JULY HIGHLIGHT"), and differ in case and
+    apostrophes ("MOTHERS’ DAY" vs "MOTHERS DAY") — all map to one name
+    using "IG"."""
+    text = re.sub(r"['‘’]", "", text.upper())
+    text = re.sub(r"\b(?:INSTAGRAM|HIGHLIGHTS?)\b", "IG", text)
+    return " ".join(text.split())
 
 
 def banner_fill_color(shape):
@@ -283,11 +318,19 @@ def print_brand_summary(items):
 # ---------------------------------------------------------------------
 
 def build_category_lookup(preprod_path):
+    """Returns (lookup by layout code, lookup by slide title, warnings).
+
+    The title lookup is only a fallback for Recipe & Captions items whose
+    layout code isn't in the PPM deck — seen when PPM slides were never
+    given their real code and still carry the template's "IG00"."""
     prs = Presentation(preprod_path)
-    lookup = {}
+    by_code = {}   # layout code -> [(slide number, category)]
+    by_title = {}  # normalized title -> {categories}
     warnings = []
 
     for i, slide in enumerate(prs.slides):
+        if is_hidden(slide):
+            continue
         code_shapes = find_shape_in_zone(slide, ZONE_LAYOUT_CODE, {MSO_SHAPE_TYPE.AUTO_SHAPE})
         if not code_shapes:
             continue  # not an item slide (front matter / divider / logistics)
@@ -314,16 +357,52 @@ def build_category_lookup(preprod_path):
             )
             continue
 
-        if layout_code in lookup and lookup[layout_code] != category:
+        by_code.setdefault(layout_code, []).append((i + 1, category))
+        title_ph = find_placeholder(slide, idx=0, ptype=PP_PLACEHOLDER.TITLE)
+        title = normalize_title(shape_text(title_ph)) if title_ph else ""
+        if title:
+            by_title.setdefault(title, set()).add(category)
+
+    lookup = {}
+    for layout_code, hits in by_code.items():
+        categories = {category for _, category in hits}
+        if len(categories) > 1:
             warnings.append(
-                f"[preprod slide {i + 1}] layout_code={layout_code!r} "
-                f"category conflict: {lookup[layout_code]!r} vs {category!r} (keeping first)"
+                f"layout_code={layout_code!r} is on {len(hits)} PPM slides with different categories "
+                f"(unfilled template code?) — not used for matching; those items fall back to title matching"
             )
             continue
+        lookup[layout_code] = hits[0][1]
 
-        lookup[layout_code] = category
+    # a title shared by slides with different categories can't decide anything
+    title_lookup = {t: next(iter(c)) for t, c in by_title.items() if len(c) == 1}
+    return lookup, title_lookup, warnings
 
-    return lookup, warnings
+
+def scan_preprod_banners(preprod_path):
+    """Campaign banner on each Pre-Prod item slide, keyed to its layout
+    code. Only used to list campaigns in the dry run and cross-check them
+    against the Recipe & Captions deck — never to correlate slides."""
+    prs = Presentation(preprod_path)
+    rows = []
+    for slide in prs.slides:
+        if is_hidden(slide):
+            continue
+        code_shapes = find_shape_in_zone(slide, ZONE_LAYOUT_CODE, {MSO_SHAPE_TYPE.AUTO_SHAPE})
+        if not code_shapes:
+            continue
+        layout_code = shape_text(code_shapes[0]).strip()
+        if not layout_code:
+            continue
+        banner_shapes = find_shape_in_zone(slide, ZONE_CAMPAIGN_BANNER, {MSO_SHAPE_TYPE.AUTO_SHAPE})
+        campaign_raw = shape_text(banner_shapes[0]).strip() if banner_shapes else ""
+        rows.append({
+            "layoutCode": layout_code,
+            "campaign": normalize_campaign(campaign_raw),
+            "campaignRaw": campaign_raw,
+            "color": banner_fill_color(banner_shapes[0]) if banner_shapes else None,
+        })
+    return rows
 
 
 # ---------------------------------------------------------------------
@@ -386,39 +465,41 @@ def extract_photo(shape):
     return base64.b64encode(buf.getvalue()).decode("ascii")
 
 
-def extract_deck_shoot_date(prs):
-    """Best-effort parse of 'Shoot Date/s: Sept 4, 2026' off the cover slide.
-
-    Some months' Recipe & Captions deck cover slide is rewritten and drops
-    the Shoot Date line (it only survives when the cover was copy-pasted
-    from the Pre-Prod deck) — callers should fall back to the Pre-Prod
-    deck's cover slide when this returns None.
-    """
-    if len(prs.slides) == 0:
+def yymm_from_filename(path):
+    """'2604' from 'pptx/2604-RecipeCaptions_TMP Apr 2026 ....pptx'. Shoots
+    are monthly, so the source filenames' YYMM prefix is the deck's date —
+    there is no day component. None if the name has no valid prefix."""
+    m = re.match(r"(\d{2})(\d{2})-", Path(path).name)
+    if not m or not 1 <= int(m.group(2)) <= 12:
         return None
-    for shape in prs.slides[0].shapes:
-        text = shape_text(shape)
-        m = re.search(r"Shoot Date/s:\s*([A-Za-z]+)\.?\s+(\d{1,2}),?\s+(\d{4})", text)
-        if m:
-            month_str, day_str, year_str = m.groups()
-            # normalize informal abbreviations ("Sept") that don't match
-            # strptime's %b/%B before falling back to trying both
-            month_str_norm = month_str[:3]
-            raw = f"{month_str_norm} {day_str} {year_str}"
-            for fmt in ("%b %d %Y", "%B %d %Y"):
-                try:
-                    return datetime.strptime(raw, fmt).date()
-                except ValueError:
-                    continue
-            for fmt in ("%b %d %Y", "%B %d %Y"):
-                try:
-                    return datetime.strptime(f"{month_str} {day_str} {year_str}", fmt).date()
-                except ValueError:
-                    continue
-    return None
+    return m.group(1) + m.group(2)
 
 
-def extract_items(recipe_path, category_lookup, warnings):
+def resolve_deck_yymm(recipe_path, preprod_path):
+    """The deck month from the two source filenames. When they disagree
+    (or one lacks a YYMM- prefix), print both and ask — never pick one
+    silently. Returns None if it can't be resolved; nothing is written."""
+    recipe_yymm = yymm_from_filename(recipe_path)
+    preprod_yymm = yymm_from_filename(preprod_path)
+    if recipe_yymm and recipe_yymm == preprod_yymm:
+        return recipe_yymm
+
+    problem = "have different YYMM prefixes" if recipe_yymm and preprod_yymm else "don't both have a YYMM- prefix"
+    print(f"The source deck filenames {problem}:")
+    print(f"  Recipe & Captions deck: {recipe_yymm or '(none)':6}  {Path(recipe_path).name}")
+    print(f"  PPM / Pre-Prod deck:    {preprod_yymm or '(none)':6}  {Path(preprod_path).name}")
+    print("No output files have been written.")
+    if not sys.stdin.isatty():
+        print("Rename the decks so both start with the same YYMM-, or re-run in an interactive terminal.")
+        return None
+    try:
+        return _ask("Which YYMM should the output use?", None, _parse_yymm)
+    except (EOFError, KeyboardInterrupt):
+        print("\nCancelled — no files written.")
+        return None
+
+
+def extract_items(recipe_path, category_lookup, warnings, title_lookup=None):
     prs = Presentation(recipe_path)
     slides = list(prs.slides)
     items = []
@@ -427,6 +508,18 @@ def extract_items(recipe_path, category_lookup, warnings):
     i = 0
     while i < len(slides):
         slide = slides[i]
+
+        if is_hidden(slide):
+            if get_item_photo_placeholder(slide) is not None:
+                code_shapes = find_shape_in_zone(slide, ZONE_LAYOUT_CODE, {MSO_SHAPE_TYPE.AUTO_SHAPE})
+                title_ph = find_placeholder(slide, idx=0, ptype=PP_PLACEHOLDER.TITLE)
+                warnings.append(
+                    f"[recipe slide {i + 1}] hidden slide skipped: "
+                    f"{shape_text(code_shapes[0]).strip() if code_shapes else '?'} "
+                    f"({shape_text(title_ph).strip() if title_ph else ''!r})"
+                )
+            i += 1
+            continue
 
         if is_divider_slide(slide):
             current_shoot_type = shape_text(list(slide.shapes)[0]).strip()
@@ -444,7 +537,7 @@ def extract_items(recipe_path, category_lookup, warnings):
         caption_ph = find_placeholder(slide, idx=1, ptype=PP_PLACEHOLDER.BODY)
 
         layout_code = shape_text(code_shapes[0]).strip() if code_shapes else ""
-        campaign = shape_text(banner_shapes[0]).strip() if banner_shapes else ""
+        campaign_raw = shape_text(banner_shapes[0]).strip() if banner_shapes else ""
         banner_color = banner_fill_color(banner_shapes[0]) if banner_shapes else None
         layout_name = shape_text(title_ph).strip() if title_ph else ""
         caption_raw = clean_multiline(shape_text(caption_ph)) if caption_ph else ""
@@ -465,7 +558,7 @@ def extract_items(recipe_path, category_lookup, warnings):
             "layoutCode": layout_code,
             "layoutName": layout_name,
             "category": None,
-            "campaign": campaign,
+            "campaign": normalize_campaign(campaign_raw),
             "shootType": current_shoot_type,
             "caption": caption,
             "brand": [],
@@ -477,12 +570,17 @@ def extract_items(recipe_path, category_lookup, warnings):
             },
             "needsPhotoSwap": True,
             # internal (underscore keys are never written to output):
-            # used to detect carried-over batches within one deck
+            # used for the dry-run campaign listing
+            "_campaignRaw": campaign_raw,
             "_bannerColor": banner_color,
             "_slides": 1,
         }
 
-        paired_next = i + 1 < len(slides) and slide_has_recipe_text(slides[i + 1])
+        paired_next = (
+            i + 1 < len(slides)
+            and not is_hidden(slides[i + 1])
+            and slide_has_recipe_text(slides[i + 1])
+        )
         procedure_ph = None
 
         if paired_next:
@@ -522,10 +620,15 @@ def extract_items(recipe_path, category_lookup, warnings):
             i += 2
         else:
             category = category_lookup.get(layout_code)
+            if category is None and title_lookup:
+                category = title_lookup.get(normalize_title(layout_name))
+                if category is not None:
+                    # text match, not layout code: listed in the dry run for review
+                    item["_categoryByTitle"] = True
             if category is None:
                 warnings.append(
                     f"[recipe slide {i + 1}] layout_code={layout_code!r} ({layout_name!r}): "
-                    f"no matching entry in Pre-Prod deck category lookup; "
+                    f"no matching layout code or slide title in Pre-Prod deck; "
                     f"leaving category as 'UNKNOWN'"
                 )
                 category = "UNKNOWN"
@@ -539,7 +642,7 @@ def extract_items(recipe_path, category_lookup, warnings):
 
 
 # ---------------------------------------------------------------------
-# Output: one JS file per shoot type, mirroring campaigns/ conventions
+# Output: one JS file per campaign + content month
 # ---------------------------------------------------------------------
 
 def slugify(text):
@@ -570,88 +673,132 @@ def write_js_file(out_path, shoot_type_label, items, generated_date):
 
 
 # ---------------------------------------------------------------------
-# Carried-over batches: one deck, several shoot months
+# Campaigns: dry-run listing, then map each campaign to a content month
 # ---------------------------------------------------------------------
 
-_MONTH_WORDS = {
-    1: ("JAN", "JANUARY"), 2: ("FEB", "FEBRUARY"), 3: ("MAR", "MARCH"),
-    4: ("APR", "APRIL"), 5: ("MAY",), 6: ("JUN", "JUNE"), 7: ("JUL", "JULY"),
-    8: ("AUG", "AUGUST"), 9: ("SEP", "SEPT", "SEPTEMBER"), 10: ("OCT", "OCTOBER"),
-    11: ("NOV", "NOVEMBER"), 12: ("DEC", "DECEMBER"),
-}
+def load_deck_pair(yymm, recipe_path, preprod_path):
+    """Read one PPM + Recipe & Captions pair into memory. Writes nothing."""
+    warnings = []
+    print(f"[{yymm}] Reading category lookup from Pre-Prod deck: {preprod_path}")
+    category_lookup, title_lookup, lookup_warnings = build_category_lookup(preprod_path)
+    warnings.extend(f"[{yymm}] {w}" for w in lookup_warnings)
+    print(f"[{yymm}]   -> {len(category_lookup)} layout codes mapped to categories")
 
-# How far back a banner's month can be and still count as "carried over".
-# IG decks are routinely named for the month AFTER the shoot (Jul deck ->
-# AUGUST IG), which is (7 - 8) % 12 = 11 months "back" — well outside this.
-CARRYOVER_MAX_MONTHS_BACK = 5
-
-
-def banner_month(campaign):
-    words = set(re.findall(r"[A-Z]+", campaign.upper()))
-    for month, names in _MONTH_WORDS.items():
-        if words & set(names):
-            return month
-    return None
-
-
-def group_batches(items):
-    """Group items by campaign banner (text + fill color), in deck order."""
-    batches = {}
+    print(f"[{yymm}] Reading items from Recipe & Captions deck: {recipe_path}")
+    item_warnings = []
+    items, _prs = extract_items(recipe_path, category_lookup, item_warnings, title_lookup)
+    warnings.extend(f"[{yymm}] {w}" for w in item_warnings)
     for item in items:
-        key = (item["campaign"], item["_bannerColor"])
-        batch = batches.setdefault(key, {
-            "campaign": item["campaign"], "color": item["_bannerColor"],
-            "items": [], "shootTypes": [],
-        })
-        batch["items"].append(item)
-        shoot_type = item["shootType"] or "Unsorted"
-        if shoot_type not in batch["shootTypes"]:
-            batch["shootTypes"].append(shoot_type)
-    return list(batches.values())
+        item["_deck"] = yymm
+    print(f"[{yymm}]   -> {len(items)} items extracted")
+
+    return {
+        "yymm": yymm,
+        "items": items,
+        "preprod_banners": scan_preprod_banners(preprod_path),
+        "warnings": warnings,
+    }
 
 
-def detect_carryover(batches, shoot_date):
-    """Return {batch index: [reasons]} for banners that look carried over
-    from another shoot month. Empty means a normal single-batch deck —
-    several campaigns in one deck (each with its own color) is normal."""
-    flagged = {}
-    for n, batch in enumerate(batches):
-        month = banner_month(batch["campaign"])
-        if month is None:
-            continue
-        months_back = (shoot_date.month - month) % 12
-        if 1 <= months_back <= CARRYOVER_MAX_MONTHS_BACK:
-            flagged.setdefault(n, []).append(
-                f"names {_MONTH_WORDS[month][-1].title()}, earlier than the deck's "
-                f"shoot month ({shoot_date.strftime('%B %Y')})"
+def collect_campaigns(pairs):
+    """{campaign: {"rows": {(yymm, deck, raw text, color): counts}, "items": [...]}}
+    in first-seen order, PPM before Recipe & Captions within each pair."""
+    campaigns = {}
+
+    def row(campaign, key):
+        entry = campaigns.setdefault(campaign, {"rows": {}, "items": []})
+        return entry, entry["rows"].setdefault(key, {"slides": 0, "items": 0})
+
+    for pair in pairs:
+        for b in pair["preprod_banners"]:
+            _, counts = row(b["campaign"], (pair["yymm"], "PPM", b["campaignRaw"], b["color"]))
+            counts["slides"] += 1
+        for item in pair["items"]:
+            entry, counts = row(item["campaign"], (pair["yymm"], "R&C", item["_campaignRaw"], item["_bannerColor"]))
+            counts["slides"] += item["_slides"]
+            counts["items"] += 1
+            entry["items"].append(item)
+    return campaigns
+
+
+def correlation_checks(pairs):
+    """Sanity checks on how the two decks of each pair line up. Slides are
+    correlated by layout code (read by position), never by banner text —
+    these checks only report where the banner text disagrees."""
+    notes = []
+    for pair in pairs:
+        yymm = pair["yymm"]
+        ppm_by_code = {}
+        for b in pair["preprod_banners"]:
+            ppm_by_code.setdefault(b["layoutCode"], b)
+
+        relabeled = 0
+        for item in pair["items"]:
+            ppm = ppm_by_code.get(item["layoutCode"])
+            if ppm is None:
+                continue
+            if ppm["campaign"] != item["campaign"]:
+                notes.append(
+                    f"[{yymm}] {item['layoutCode']}: PPM banner {ppm['campaignRaw']!r} vs "
+                    f"Recipe & Captions banner {item['_campaignRaw']!r} — filed under "
+                    f"the Recipe & Captions campaign ({item['campaign']!r})"
+                )
+            elif ppm["campaignRaw"].upper() != item["_campaignRaw"].upper():
+                relabeled += 1
+        if relabeled:
+            notes.append(
+                f"[{yymm}] {relabeled} layout code(s) have differently-worded banners across "
+                f"the two decks that normalize to the same campaign (IG/Highlight/Instagram, apostrophes)"
             )
 
-    colors_by_text = {}
-    for batch in batches:
-        colors_by_text.setdefault(batch["campaign"], set()).add(batch["color"])
-    for n, batch in enumerate(batches):
-        colors = colors_by_text[batch["campaign"]]
-        if len(colors) > 1:
-            flagged.setdefault(n, []).append(
-                f"same banner text appears in {len(colors)} colors "
-                f"({', '.join(sorted(c or 'none' for c in colors))})"
+        by_title = [it for it in pair["items"] if it.get("_categoryByTitle")]
+        if by_title:
+            notes.append(
+                f"[{yymm}] {len(by_title)} item(s) got their category by SLIDE TITLE, not layout code "
+                f"(code missing from the PPM deck) — check these:"
             )
-    return flagged
+            for it in by_title:
+                notes.append(f"    {it['layoutCode']:5} {it['layoutName']!r} -> {it['category']}")
+
+        seen = {}
+        for item in pair["items"]:
+            seen.setdefault(item["layoutCode"], []).append(item["layoutName"])
+        for code, names in seen.items():
+            if len(names) > 1:
+                notes.append(
+                    f"[{yymm}] layout code {code!r} is used on {len(names)} different photo slides "
+                    f"in the Recipe & Captions deck: {names} — they'll share {code}.jpg"
+                )
+    return notes
 
 
-def print_batch_summary(batches, flagged, shoot_date):
-    print(f"\nMultiple shoot batches detected in this deck (deck shoot date {shoot_date.isoformat()}).")
-    print(f"{len(batches)} distinct campaign banner(s):")
-    for n, batch in enumerate(batches, 1):
-        slides = sum(it["_slides"] for it in batch["items"])
-        marker = "  <- possible carry-over" if (n - 1) in flagged else ""
-        print(f"\n  [{n}] {batch['campaign'] or '(no banner text)'!r}  "
-              f"fill={batch['color'] or 'none'}  "
-              f"{slides} slide(s) / {len(batch['items'])} item(s){marker}")
-        print(f"      shoot type divider(s): {', '.join(batch['shootTypes'])}")
-        for reason in flagged.get(n - 1, []):
-            print(f"      - {reason}")
-    print("\nNo output files have been written.")
+def print_dry_run(campaigns, notes):
+    print("\n" + "=" * 70)
+    print("DRY RUN — campaigns found (no output files have been written)")
+    print("=" * 70)
+    mappable = [c for c, e in campaigns.items() if e["items"]]
+    for n, campaign in enumerate(mappable, 1):
+        entry = campaigns[campaign]
+        print(f"\n  [{n}] {campaign or '(no banner text)'}")
+        for (yymm, deck, raw, color), counts in entry["rows"].items():
+            size = (f"{counts['items']} item(s) / {counts['slides']} slide(s)" if deck == "R&C"
+                    else f"{counts['slides']} slide(s)")
+            print(f"        {yymm} {deck:3}  {raw or '(no banner text)'!r:34} fill={color or 'none':16} {size}")
+
+    ppm_only = [c for c, e in campaigns.items() if not e["items"]]
+    if ppm_only:
+        print("\n  PPM deck only — no Recipe & Captions items, so nothing to output:")
+        for campaign in ppm_only:
+            for (yymm, deck, raw, color), counts in campaigns[campaign]["rows"].items():
+                print(f"        {yymm} {deck:3}  {raw or '(no banner text)'!r:34} fill={color or 'none':16} "
+                      f"{counts['slides']} slide(s)")
+
+    print("\n  Correlation: PPM <-> Recipe & Captions slides are matched by layout code")
+    print("  (read from its fixed position), never by banner text. Only when a code is")
+    print("  missing from the PPM deck is the slide title tried instead (listed below).")
+    for note in notes:
+        print(f"  {note}" if note.startswith(" ") else f"  - {note}")
+    return mappable
 
 
 def _ask(prompt, default=None, parse=None):
@@ -668,17 +815,15 @@ def _ask(prompt, default=None, parse=None):
             print(f"    {e}")
 
 
-def _parse_date_prefix(raw):
-    digits = re.sub(r"\D", "", raw)
-    if len(digits) == 8:  # YYYYMMDD / YYYY-MM-DD
-        digits = digits[2:]
-    if len(digits) != 6:
-        raise ValueError("enter the original shoot date as YYMMDD (e.g. 260312) or YYYY-MM-DD")
-    try:
-        datetime.strptime(digits, "%y%m%d")
-    except ValueError:
-        raise ValueError(f"{raw!r} is not a real date")
-    return digits
+def _parse_yymm(raw):
+    raw = raw.strip()
+    m = re.fullmatch(r"(\d{2})(\d{2})", raw) or re.fullmatch(r"20(\d{2})-(\d{1,2})", raw)
+    if not m:
+        raise ValueError("enter the month as YYMM (e.g. 2603) or YYYY-MM (e.g. 2026-03)")
+    yy, mm = m.group(1), int(m.group(2))
+    if not 1 <= mm <= 12:
+        raise ValueError(f"{raw!r} is not a real month")
+    return f"{yy}{mm:02d}"
 
 
 def _default_label(campaign):
@@ -686,58 +831,38 @@ def _default_label(campaign):
     return " ".join(w if len(w) <= 2 else w.capitalize() for w in campaign.split())
 
 
-def prompt_batch_mapping(batches, flagged, shoot_date, out_dir):
-    """Ask which output date/filename each batch belongs to. Returns a
-    list of (filename, label, items) or None if cancelled."""
-    deck_prefix = shoot_date.strftime("%y%m%d")
-    print("\nMap each batch to its output file. Carried-over layouts go under")
-    print("their ORIGINAL month's date, not this deck's.")
+def prompt_campaign_mapping(campaigns, mappable, out_dir):
+    """Ask the target content month (no default) and file label for every
+    campaign. Returns [(filename, label, items)] or None if cancelled."""
+    print("\nMap each campaign to the content month it should be filed under.")
+    print("There is no default: shoot month and content month often differ.")
 
     files = {}  # filename -> [label, items]
-    for n, batch in enumerate(batches):
-        print(f"\n[{n + 1}] {batch['campaign'] or '(no banner text)'!r} "
-              f"fill={batch['color'] or 'none'} ({len(batch['items'])} item(s))")
-
-        if n in flagged:
-            month = banner_month(batch["campaign"])
-            if month is not None:
-                year = shoot_date.year - (1 if month > shoot_date.month else 0)
-                yymm = f"{year % 100:02d}{month:02d}"
-                existing = sorted(p.name for p in out_dir.glob(f"{yymm}*.js"))
-                if existing:
-                    print(f"    existing {yymm} file(s) in {out_dir}: {', '.join(existing)}")
-            prefix = _ask("    original shoot date (YYMMDD)", None, _parse_date_prefix)
-            label = _ask("    file label", _default_label(batch["campaign"]))
-            targets = [(label, batch["items"])]
-        else:
-            prefix = _ask("    shoot date (YYMMDD)", deck_prefix, _parse_date_prefix)
-            if len(batch["shootTypes"]) > 1:
-                keep = "one file per shoot type (" + ", ".join(batch["shootTypes"]) + ")"
-                label = input(f"    file label [Enter = {keep}]: ").strip()
-            else:
-                label = _ask("    file label", batch["shootTypes"][0])
-            if label:
-                targets = [(label, batch["items"])]
-            else:
-                targets = [
-                    (st, [it for it in batch["items"] if (it["shootType"] or "Unsorted") == st])
-                    for st in batch["shootTypes"]
-                ]
-
-        for label, target_items in targets:
-            filename = f"{prefix}-{slugify(label)}.js"
-            entry = files.setdefault(filename, [label, []])
-            entry[1].extend(target_items)
+    for n, campaign in enumerate(mappable, 1):
+        entry = campaigns[campaign]
+        decks = sorted({it["_deck"] for it in entry["items"]})
+        print(f"\n[{n}] {campaign or '(no banner text)'} — {len(entry['items'])} item(s) "
+              f"from {', '.join(decks)}")
+        yymm = _ask("    content month (YYMM)", None, _parse_yymm)
+        label = _ask("    file label", _default_label(campaign) or "Unsorted")
+        filename = f"{yymm}-{slugify(label)}.js"
+        files.setdefault(filename, [label, []])[1].extend(entry["items"])
 
     print("\nPlanned output:")
-    for filename, (label, target_items) in files.items():
+    for filename, (label, file_items) in files.items():
         exists = "  (EXISTS — will be overwritten)" if (out_dir / filename).exists() else ""
-        campaigns = sorted({it["campaign"] for it in target_items})
-        print(f"  {out_dir / filename}  label={label!r}  {len(target_items)} item(s)  "
-              f"banners={campaigns}{exists}")
+        sources = ", ".join(
+            f"{c} x{sum(1 for it in file_items if it['campaign'] == c)}"
+            for c in dict.fromkeys(it["campaign"] for it in file_items)
+        )
+        print(f"  {out_dir / filename}  label={label!r}  {len(file_items)} item(s)  [{sources}]{exists}")
+        codes = [it["layoutCode"] for it in file_items]
+        dupes = sorted({c for c in codes if codes.count(c) > 1})
+        if dupes:
+            print(f"      ! duplicate layout code(s) in this file: {dupes}")
     if input("\nWrite these files? [y/N]: ").strip().lower() not in ("y", "yes"):
         return None
-    return [(filename, label, target_items) for filename, (label, target_items) in files.items()]
+    return [(filename, label, file_items) for filename, (label, file_items) in files.items()]
 
 
 def write_group(out_path, label, group_items):
@@ -762,72 +887,68 @@ def print_warnings(warnings, items):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("--recipe-deck", required=True, help="Path to the Recipe & Captions Deck .pptx")
-    parser.add_argument("--preprod-deck", required=True, help="Path to the Pre-Prod Deck .pptx (category lookup only)")
-    parser.add_argument("--out-dir", default="campaigns", help="Output folder (default: campaigns)")
+    parser.add_argument("--recipe-deck", action="append", required=True,
+                        help="Recipe & Captions Deck .pptx (repeat for each deck pair)")
+    parser.add_argument("--preprod-deck", action="append", required=True,
+                        help="PPM / Pre-Prod Deck .pptx (repeat, same order as --recipe-deck)")
+    parser.add_argument("--out-dir", default="recipes", help="Output folder (default: recipes)")
+    parser.add_argument("--dry-run", action="store_true",
+                        help="List campaigns found and exit without prompting or writing")
     args = parser.parse_args()
 
-    from pathlib import Path
+    if len(args.recipe_deck) != len(args.preprod_deck):
+        parser.error("pass one --preprod-deck for each --recipe-deck (same order)")
+
     out_dir = Path(args.out_dir)
 
-    warnings = []
-
-    print(f"Reading category lookup from Pre-Prod deck: {args.preprod_deck}")
-    category_lookup, lookup_warnings = build_category_lookup(args.preprod_deck)
-    warnings.extend(lookup_warnings)
-    print(f"  -> {len(category_lookup)} layout codes mapped to categories")
-
-    print(f"Reading items from Recipe & Captions deck: {args.recipe_deck}")
-    items, prs = extract_items(args.recipe_deck, category_lookup, warnings)
-    print(f"  -> {len(items)} items extracted")
-
-    shoot_date = extract_deck_shoot_date(prs)
-    if shoot_date is None:
-        shoot_date = extract_deck_shoot_date(Presentation(args.preprod_deck))
-    if shoot_date is None:
-        shoot_date = date.today()
-    date_prefix = shoot_date.strftime("%y%m%d")
-
-    batches = group_batches(items)
-    flagged = detect_carryover(batches, shoot_date)
-    if flagged:
-        print_batch_summary(batches, flagged, shoot_date)
-        if not sys.stdin.isatty():
-            print("Re-run in an interactive terminal to map each batch to its output file.")
+    deck_months = []
+    for recipe_path, preprod_path in zip(args.recipe_deck, args.preprod_deck):
+        yymm = resolve_deck_yymm(recipe_path, preprod_path)
+        if yymm is None:
             return 1
-        try:
-            plan = prompt_batch_mapping(batches, flagged, shoot_date, out_dir)
-        except (EOFError, KeyboardInterrupt):
-            plan = None
-        if plan is None:
-            print("\nCancelled — no files written.")
-            return 1
+        deck_months.append(yymm)
 
-        out_dir.mkdir(parents=True, exist_ok=True)
-        print()
-        for filename, label, group_items in plan:
-            write_group(out_dir / filename, label, group_items)
-        for filename, label, group_items in plan:
-            print(f"\n=== {filename} ===", end="")
-            print_brand_summary(group_items)
-        print_warnings(warnings, items)
-        print("\nRun generate_recipes_index.py to add a recipes-index.js entry for each file.")
+    pairs = [
+        load_deck_pair(yymm, recipe_path, preprod_path)
+        for yymm, recipe_path, preprod_path in zip(deck_months, args.recipe_deck, args.preprod_deck)
+    ]
+    items = [it for pair in pairs for it in pair["items"]]
+    warnings = [w for pair in pairs for w in pair["warnings"]]
+
+    campaigns = collect_campaigns(pairs)
+    mappable = print_dry_run(campaigns, correlation_checks(pairs))
+    print_warnings(warnings, items)
+
+    if args.dry_run:
+        print("\nDry run only — no files written.")
         return 0
+    if not mappable:
+        print("\nNo Recipe & Captions items found — nothing to write.")
+        return 1
+    if not sys.stdin.isatty():
+        print("\nRe-run in an interactive terminal to map each campaign to a month.")
+        return 1
 
-    print_brand_summary(items)
+    try:
+        if input("\nReview the list above. Continue to month mapping? [y/N]: ").strip().lower() not in ("y", "yes"):
+            plan = None
+        else:
+            plan = prompt_campaign_mapping(campaigns, mappable, out_dir)
+    except (EOFError, KeyboardInterrupt):
+        plan = None
+    if plan is None:
+        print("\nCancelled — no files written.")
+        return 1
 
     out_dir.mkdir(parents=True, exist_ok=True)
-    groups = {}
-    for item in items:
-        groups.setdefault(item["shootType"] or "Unsorted", []).append(item)
-
     print()
-    for shoot_type, group_items in groups.items():
-        slug = slugify(shoot_type)
-        filename = f"{date_prefix}-{slug}.js"
-        write_group(out_dir / filename, shoot_type, group_items)
-
-    print_warnings(warnings, items)
+    for filename, label, file_items in plan:
+        write_group(out_dir / filename, label, file_items)
+    for filename, label, file_items in plan:
+        print(f"\n=== {filename} ===", end="")
+        print_brand_summary(file_items)
+    print("\nRun generate_recipes_index.py to add a recipes-index.js entry for each file.")
+    return 0
 
 
 if __name__ == "__main__":

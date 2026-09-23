@@ -8,7 +8,8 @@ Each recipes/*.js file (written by extract_recipe_deck.py) starts with:
     // Generated: <date>
     // Items: <count>
 
-This script reads those header comments plus the YYMMDD filename prefix
+This script reads those header comments plus the YYMM filename prefix
+(shoots are monthly; older YYMMDD-prefixed files are still accepted)
 to build recipes-index.js entries of the form:
     { id, label, type, year, month, file, count }
 
@@ -29,14 +30,14 @@ def parse_shoot_file(path):
     text = path.read_text(encoding="utf-8")
     label_m = re.search(r"^// Shoot:\s*(.+)$", text, flags=re.MULTILINE)
     items_m = re.search(r"^// Items:\s*(\d+)$", text, flags=re.MULTILINE)
-    date_m = re.match(r"^(\d{2})(\d{2})(\d{2})-", path.name)
+    date_m = re.match(r"^(\d{2})(\d{2})(?:\d{2})?-", path.name)
 
     if not (label_m and items_m and date_m):
         return None
 
     label = label_m.group(1).strip()
     count = int(items_m.group(1))
-    yy, mm, _dd = date_m.groups()
+    yy, mm = date_m.groups()
     year = 2000 + int(yy)
     month = int(mm)
 
