@@ -21,6 +21,15 @@ alt text, matching the existing PPM-to-Recipe-deck automation approach —
 these decks are manually assembled from a Pre-Prod deck template, so the
 only stable signal is where a box sits on the slide.
 
+Carried-over batches: a deck sometimes contains layouts carried over from
+a missed prior month, under their own campaign banner color. When that's
+detected (a banner naming a month earlier than the deck's shoot month, or
+the same banner text appearing in more than one fill color), the script
+prints every distinct banner and stops before writing anything, then asks
+which output date/filename each batch belongs to. Carried-over batches
+should be dated to their ORIGINAL month. Decks without such banners
+extract exactly as before, with no prompts.
+
 Usage:
     python3 extract_recipe_deck.py \\
         --recipe-deck "TMP Sep 2026 Recipe & Captions Deck (Sept IG, Shop & Collect).pptx" \\
@@ -38,6 +47,7 @@ from datetime import date, datetime
 
 from pptx import Presentation
 from pptx.util import Emu
+from pptx.enum.dml import MSO_COLOR_TYPE, MSO_FILL_TYPE
 from pptx.enum.shapes import MSO_SHAPE_TYPE, PP_PLACEHOLDER
 from PIL import Image
 
@@ -142,6 +152,23 @@ def strip_label(text, label_pattern):
     if m:
         text = text[m.end():]
     return text.strip()
+
+
+def banner_fill_color(shape):
+    """Campaign banner fill as 'RRGGBB', or 'theme:<name>' for theme
+    colors (seen on Mar 2026's APRIL INSTAGRAM banner). None if the
+    banner has no solid fill."""
+    try:
+        if shape.fill.type != MSO_FILL_TYPE.SOLID:
+            return None
+        color = shape.fill.fore_color
+        if color.type == MSO_COLOR_TYPE.RGB:
+            return str(color.rgb)
+        if color.type == MSO_COLOR_TYPE.SCHEME:
+            return f"theme:{color.theme_color.name}"
+    except Exception:
+        pass
+    return None
 
 
 def clean_multiline(text):
@@ -413,6 +440,7 @@ def extract_items(recipe_path, category_lookup, warnings):
 
         layout_code = shape_text(code_shapes[0]).strip() if code_shapes else ""
         campaign = shape_text(banner_shapes[0]).strip() if banner_shapes else ""
+        banner_color = banner_fill_color(banner_shapes[0]) if banner_shapes else None
         layout_name = shape_text(title_ph).strip() if title_ph else ""
         caption_raw = clean_multiline(shape_text(caption_ph)) if caption_ph else ""
         caption = strip_label(caption_raw, r"Caption:")
@@ -443,6 +471,10 @@ def extract_items(recipe_path, category_lookup, warnings):
                 "image_data": photo_b64,
             },
             "needsPhotoSwap": True,
+            # internal (underscore keys are never written to output):
+            # used to detect carried-over batches within one deck
+            "_bannerColor": banner_color,
+            "_slides": 1,
         }
 
         paired_next = i + 1 < len(slides) and slide_has_recipe_text(slides[i + 1])
@@ -481,6 +513,7 @@ def extract_items(recipe_path, category_lookup, warnings):
                 "ingredients": ingredients,
                 "procedure": procedure,
             }
+            item["_slides"] = 2
             i += 2
         else:
             category = category_lookup.get(layout_code)
@@ -521,7 +554,7 @@ def write_js_file(out_path, shoot_type_label, items, generated_date):
     ]
     blocks = []
     for item in items:
-        payload = {k: v for k, v in item.items() if k != "shootType"}
+        payload = {k: v for k, v in item.items() if k != "shootType" and not k.startswith("_")}
         block = json.dumps(payload, indent=2, ensure_ascii=False)
         blocks.append("\n".join("  " + line for line in block.split("\n")))
     lines.append(",\n".join(blocks))
@@ -529,6 +562,197 @@ def write_js_file(out_path, shoot_type_label, items, generated_date):
     lines.append("")
     lines.append("if (typeof window !== 'undefined') window.__recipesData = " + var_name + ";")
     out_path.write_text("\n".join(lines), encoding="utf-8")
+
+
+# ---------------------------------------------------------------------
+# Carried-over batches: one deck, several shoot months
+# ---------------------------------------------------------------------
+
+_MONTH_WORDS = {
+    1: ("JAN", "JANUARY"), 2: ("FEB", "FEBRUARY"), 3: ("MAR", "MARCH"),
+    4: ("APR", "APRIL"), 5: ("MAY",), 6: ("JUN", "JUNE"), 7: ("JUL", "JULY"),
+    8: ("AUG", "AUGUST"), 9: ("SEP", "SEPT", "SEPTEMBER"), 10: ("OCT", "OCTOBER"),
+    11: ("NOV", "NOVEMBER"), 12: ("DEC", "DECEMBER"),
+}
+
+# How far back a banner's month can be and still count as "carried over".
+# IG decks are routinely named for the month AFTER the shoot (Jul deck ->
+# AUGUST IG), which is (7 - 8) % 12 = 11 months "back" — well outside this.
+CARRYOVER_MAX_MONTHS_BACK = 5
+
+
+def banner_month(campaign):
+    words = set(re.findall(r"[A-Z]+", campaign.upper()))
+    for month, names in _MONTH_WORDS.items():
+        if words & set(names):
+            return month
+    return None
+
+
+def group_batches(items):
+    """Group items by campaign banner (text + fill color), in deck order."""
+    batches = {}
+    for item in items:
+        key = (item["campaign"], item["_bannerColor"])
+        batch = batches.setdefault(key, {
+            "campaign": item["campaign"], "color": item["_bannerColor"],
+            "items": [], "shootTypes": [],
+        })
+        batch["items"].append(item)
+        shoot_type = item["shootType"] or "Unsorted"
+        if shoot_type not in batch["shootTypes"]:
+            batch["shootTypes"].append(shoot_type)
+    return list(batches.values())
+
+
+def detect_carryover(batches, shoot_date):
+    """Return {batch index: [reasons]} for banners that look carried over
+    from another shoot month. Empty means a normal single-batch deck —
+    several campaigns in one deck (each with its own color) is normal."""
+    flagged = {}
+    for n, batch in enumerate(batches):
+        month = banner_month(batch["campaign"])
+        if month is None:
+            continue
+        months_back = (shoot_date.month - month) % 12
+        if 1 <= months_back <= CARRYOVER_MAX_MONTHS_BACK:
+            flagged.setdefault(n, []).append(
+                f"names {_MONTH_WORDS[month][-1].title()}, earlier than the deck's "
+                f"shoot month ({shoot_date.strftime('%B %Y')})"
+            )
+
+    colors_by_text = {}
+    for batch in batches:
+        colors_by_text.setdefault(batch["campaign"], set()).add(batch["color"])
+    for n, batch in enumerate(batches):
+        colors = colors_by_text[batch["campaign"]]
+        if len(colors) > 1:
+            flagged.setdefault(n, []).append(
+                f"same banner text appears in {len(colors)} colors "
+                f"({', '.join(sorted(c or 'none' for c in colors))})"
+            )
+    return flagged
+
+
+def print_batch_summary(batches, flagged, shoot_date):
+    print(f"\nMultiple shoot batches detected in this deck (deck shoot date {shoot_date.isoformat()}).")
+    print(f"{len(batches)} distinct campaign banner(s):")
+    for n, batch in enumerate(batches, 1):
+        slides = sum(it["_slides"] for it in batch["items"])
+        marker = "  <- possible carry-over" if (n - 1) in flagged else ""
+        print(f"\n  [{n}] {batch['campaign'] or '(no banner text)'!r}  "
+              f"fill={batch['color'] or 'none'}  "
+              f"{slides} slide(s) / {len(batch['items'])} item(s){marker}")
+        print(f"      shoot type divider(s): {', '.join(batch['shootTypes'])}")
+        for reason in flagged.get(n - 1, []):
+            print(f"      - {reason}")
+    print("\nNo output files have been written.")
+
+
+def _ask(prompt, default=None, parse=None):
+    while True:
+        suffix = f" [{default}]" if default else ""
+        raw = input(f"{prompt}{suffix}: ").strip()
+        if not raw and default:
+            raw = default
+        if not raw:
+            continue
+        try:
+            return parse(raw) if parse else raw
+        except ValueError as e:
+            print(f"    {e}")
+
+
+def _parse_date_prefix(raw):
+    digits = re.sub(r"\D", "", raw)
+    if len(digits) == 8:  # YYYYMMDD / YYYY-MM-DD
+        digits = digits[2:]
+    if len(digits) != 6:
+        raise ValueError("enter the original shoot date as YYMMDD (e.g. 260312) or YYYY-MM-DD")
+    try:
+        datetime.strptime(digits, "%y%m%d")
+    except ValueError:
+        raise ValueError(f"{raw!r} is not a real date")
+    return digits
+
+
+def _default_label(campaign):
+    # "MARCH IG" -> "March IG"; short all-caps tokens (IG, &) stay as-is
+    return " ".join(w if len(w) <= 2 else w.capitalize() for w in campaign.split())
+
+
+def prompt_batch_mapping(batches, flagged, shoot_date, out_dir):
+    """Ask which output date/filename each batch belongs to. Returns a
+    list of (filename, label, items) or None if cancelled."""
+    deck_prefix = shoot_date.strftime("%y%m%d")
+    print("\nMap each batch to its output file. Carried-over layouts go under")
+    print("their ORIGINAL month's date, not this deck's.")
+
+    files = {}  # filename -> [label, items]
+    for n, batch in enumerate(batches):
+        print(f"\n[{n + 1}] {batch['campaign'] or '(no banner text)'!r} "
+              f"fill={batch['color'] or 'none'} ({len(batch['items'])} item(s))")
+
+        if n in flagged:
+            month = banner_month(batch["campaign"])
+            if month is not None:
+                year = shoot_date.year - (1 if month > shoot_date.month else 0)
+                yymm = f"{year % 100:02d}{month:02d}"
+                existing = sorted(p.name for p in out_dir.glob(f"{yymm}*.js"))
+                if existing:
+                    print(f"    existing {yymm} file(s) in {out_dir}: {', '.join(existing)}")
+            prefix = _ask("    original shoot date (YYMMDD)", None, _parse_date_prefix)
+            label = _ask("    file label", _default_label(batch["campaign"]))
+            targets = [(label, batch["items"])]
+        else:
+            prefix = _ask("    shoot date (YYMMDD)", deck_prefix, _parse_date_prefix)
+            if len(batch["shootTypes"]) > 1:
+                keep = "one file per shoot type (" + ", ".join(batch["shootTypes"]) + ")"
+                label = input(f"    file label [Enter = {keep}]: ").strip()
+            else:
+                label = _ask("    file label", batch["shootTypes"][0])
+            if label:
+                targets = [(label, batch["items"])]
+            else:
+                targets = [
+                    (st, [it for it in batch["items"] if (it["shootType"] or "Unsorted") == st])
+                    for st in batch["shootTypes"]
+                ]
+
+        for label, target_items in targets:
+            filename = f"{prefix}-{slugify(label)}.js"
+            entry = files.setdefault(filename, [label, []])
+            entry[1].extend(target_items)
+
+    print("\nPlanned output:")
+    for filename, (label, target_items) in files.items():
+        exists = "  (EXISTS — will be overwritten)" if (out_dir / filename).exists() else ""
+        campaigns = sorted({it["campaign"] for it in target_items})
+        print(f"  {out_dir / filename}  label={label!r}  {len(target_items)} item(s)  "
+              f"banners={campaigns}{exists}")
+    if input("\nWrite these files? [y/N]: ").strip().lower() not in ("y", "yes"):
+        return None
+    return [(filename, label, target_items) for filename, (label, target_items) in files.items()]
+
+
+def write_group(out_path, label, group_items):
+    write_js_file(out_path, label, group_items, date.today())
+    recipe_count = sum(1 for it in group_items if it["category"] == "RECIPE")
+    other_count = len(group_items) - recipe_count
+    print(f"  wrote {out_path}  ({len(group_items)} items: {recipe_count} RECIPE, {other_count} other)")
+
+
+def print_warnings(warnings, items):
+    if warnings:
+        print(f"\n{len(warnings)} warning(s):")
+        for w in warnings:
+            print(f"  - {w}")
+
+    unknown = [it for it in items if it["category"] == "UNKNOWN"]
+    if unknown:
+        print(f"\n{len(unknown)} item(s) left with category=UNKNOWN (no Pre-Prod match) — needs manual fix:")
+        for it in unknown:
+            print(f"  - {it['layoutCode']} ({it['layoutName']!r})")
 
 
 def main():
@@ -540,7 +764,6 @@ def main():
 
     from pathlib import Path
     out_dir = Path(args.out_dir)
-    out_dir.mkdir(parents=True, exist_ok=True)
 
     warnings = []
 
@@ -553,8 +776,6 @@ def main():
     items, prs = extract_items(args.recipe_deck, category_lookup, warnings)
     print(f"  -> {len(items)} items extracted")
 
-    print_brand_summary(items)
-
     shoot_date = extract_deck_shoot_date(prs)
     if shoot_date is None:
         shoot_date = extract_deck_shoot_date(Presentation(args.preprod_deck))
@@ -562,6 +783,35 @@ def main():
         shoot_date = date.today()
     date_prefix = shoot_date.strftime("%y%m%d")
 
+    batches = group_batches(items)
+    flagged = detect_carryover(batches, shoot_date)
+    if flagged:
+        print_batch_summary(batches, flagged, shoot_date)
+        if not sys.stdin.isatty():
+            print("Re-run in an interactive terminal to map each batch to its output file.")
+            return 1
+        try:
+            plan = prompt_batch_mapping(batches, flagged, shoot_date, out_dir)
+        except (EOFError, KeyboardInterrupt):
+            plan = None
+        if plan is None:
+            print("\nCancelled — no files written.")
+            return 1
+
+        out_dir.mkdir(parents=True, exist_ok=True)
+        print()
+        for filename, label, group_items in plan:
+            write_group(out_dir / filename, label, group_items)
+        for filename, label, group_items in plan:
+            print(f"\n=== {filename} ===", end="")
+            print_brand_summary(group_items)
+        print_warnings(warnings, items)
+        print("\nRun generate_recipes_index.py to add a recipes-index.js entry for each file.")
+        return 0
+
+    print_brand_summary(items)
+
+    out_dir.mkdir(parents=True, exist_ok=True)
     groups = {}
     for item in items:
         groups.setdefault(item["shootType"] or "Unsorted", []).append(item)
@@ -570,22 +820,9 @@ def main():
     for shoot_type, group_items in groups.items():
         slug = slugify(shoot_type)
         filename = f"{date_prefix}-{slug}.js"
-        out_path = out_dir / filename
-        write_js_file(out_path, shoot_type, group_items, date.today())
-        recipe_count = sum(1 for it in group_items if it["category"] == "RECIPE")
-        other_count = len(group_items) - recipe_count
-        print(f"  wrote {out_path}  ({len(group_items)} items: {recipe_count} RECIPE, {other_count} other)")
+        write_group(out_dir / filename, shoot_type, group_items)
 
-    if warnings:
-        print(f"\n{len(warnings)} warning(s):")
-        for w in warnings:
-            print(f"  - {w}")
-
-    unknown = [it for it in items if it["category"] == "UNKNOWN"]
-    if unknown:
-        print(f"\n{len(unknown)} item(s) left with category=UNKNOWN (no Pre-Prod match) — needs manual fix:")
-        for it in unknown:
-            print(f"  - {it['layoutCode']} ({it['layoutName']!r})")
+    print_warnings(warnings, items)
 
 
 if __name__ == "__main__":
