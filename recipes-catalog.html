@@ -213,12 +213,6 @@ main.content{padding:28px 32px}
           <button class="chip" data-cat="GROUP SHOT">Group Shot</button>
         </div>
       </div>
-      <div class="sidebar-section">
-        <div class="sidebar-label">Brand</div>
-        <div class="chip-group" id="brandFilters">
-          <button class="chip active" data-brand="all">All</button>
-        </div>
-      </div>
       <div id="shootsSection">
         <div class="sidebar-label">Shoots</div>
         <div id="treePane" class="tree"></div>
@@ -234,6 +228,12 @@ main.content{padding:28px 32px}
           <div class="sidebar-label">Month</div>
           <div class="chip-group" id="monthFilters">
             <button class="chip active" data-month="all">All</button>
+          </div>
+        </div>
+        <div class="sidebar-section">
+          <div class="sidebar-label">Brand</div>
+          <div class="chip-group" id="brandFilters">
+            <button class="chip active" data-brand="all">All</button>
           </div>
         </div>
       </div>
@@ -298,7 +298,7 @@ main.content{padding:28px 32px}
                 <span class="landing-cat-icon">🏷️</span>
                 <div>
                   <div class="landing-cat-name">Brand</div>
-                  <div class="landing-cat-desc">Find every recipe featuring a specific product</div>
+                  <div class="landing-cat-desc">Find every recipe featuring a specific product (All Photos only)</div>
                 </div>
               </div>
             </div>
@@ -737,20 +737,19 @@ function matchesQuery(item, q){
   return hay.includes(q);
 }
 
-// Brand is shared across both tabs (like Type) — selecting a brand filters
-// the Catalog view's current folder/shoot, and the Shuffler's whole data set.
-let brandFilter = "all";
 function matchesFilters(item, q){
   if(categoryFilter !== "all" && item.category !== categoryFilter) return false;
-  if(brandFilter !== "all" && !itemBrandTags(item).some(b => b.toLowerCase() === brandFilter.toLowerCase())) return false;
   return matchesQuery(item, q);
 }
 
-// Shuffler-only: adds the Year/Month pill filters on top of the shared
-// Type/Brand filters and search text.
+// Shuffler-only: adds the Year/Month/Brand pill filters on top of the shared
+// Type filter and search text. The Brand section only renders in this tab's
+// part of the sidebar, so it only ever needs to apply here.
+let brandFilter = "all";
 function matchesShufflerFilters(item, q){
   if(yearFilter !== "all" && String(item._year) !== String(yearFilter)) return false;
   if(monthFilter !== "all" && String(item._month) !== String(monthFilter)) return false;
+  if(brandFilter !== "all" && !itemBrandTags(item).some(b => b.toLowerCase() === brandFilter.toLowerCase())) return false;
   return matchesFilters(item, q);
 }
 
