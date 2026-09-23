@@ -61,7 +61,7 @@ aside.tree-pane::-webkit-scrollbar-thumb{background:var(--ink-faint);border-radi
 .tree ul{list-style:none;margin:0;padding-left:14px}
 .tree > ul{padding-left:0}
 .tree li{margin:1px 0}
-.node{display:flex;align-items:center;gap:6px;padding:6px 8px;border-radius:var(--radius);cursor:pointer;font-family:"DM Mono",monospace;font-size:12px;color:var(--ink-soft);user-select:none;transition:background .15s,color .15s}
+.node{display:flex;align-items:center;gap:6px;padding:6px 8px;border-radius:var(--radius);cursor:pointer;font-family:"Syne",sans-serif;font-size:13px;font-weight:400;color:var(--ink-soft);user-select:none;transition:background .15s,color .15s}
 .node:hover{background:var(--tag-bg);color:var(--ink)}
 .node.selected{background:var(--ink);color:#fff}
 .node .caret{width:11px;flex-shrink:0;color:var(--ink-faint);font-size:9px}
@@ -75,7 +75,7 @@ main.content{padding:28px 32px}
 .results-bar{display:flex;align-items:center;justify-content:space-between;margin-bottom:20px}
 #crumbLine:not(.placeholder){display:flex;align-items:baseline;gap:8px;font-family:"Syne",sans-serif;font-size:25px;font-weight:700;line-height:1.1;color:var(--ink)}
 .crumbTitle{font-family:"Syne",sans-serif;font-size:25px;font-weight:700;line-height:1.1;color:var(--ink)}
-.crumbMeta{font-family:"Syne",sans-serif;font-size:18px;font-weight:500;color:#999;margin-top:6px}
+.crumbMeta{font-family:"DM Mono",monospace;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-faint);margin-top:6px}
 .crumbSep{color:var(--ink-faint);font-size:16px;font-weight:400}
 .crumbMonth{font-family:"Syne",sans-serif;font-size:18px;font-weight:500;color:var(--ink-soft)}
 .crumbShoot{font-family:"DM Mono",monospace;font-size:11px;font-weight:400;color:var(--ink-faint)}
@@ -87,7 +87,7 @@ main.content{padding:28px 32px}
 .empty h3{font-family:"Syne",sans-serif;font-size:20px;margin-bottom:8px;color:var(--ink)}
 .empty p{font-size:13px}
 #landingPanel{padding-bottom:20px}
-.landing-banner-img{width:100%;height:300px;object-fit:cover;object-position:center 40%;border-radius:var(--card-radius);display:block;margin-bottom:28px}
+.landing-banner-img{width:100%;height:450px;object-fit:cover;object-position:center 40%;border-radius:var(--card-radius);display:block;margin-bottom:28px}
 .landing-two-col{display:grid;grid-template-columns:1fr 1fr;gap:24px;align-items:start}
 @media(max-width:860px){.landing-two-col{grid-template-columns:1fr}}
 .landing-section-label{font-family:"DM Mono",monospace;font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-soft);margin-bottom:10px}
@@ -96,12 +96,12 @@ main.content{padding:28px 32px}
 .howto-step+.howto-step{border-top:1px solid var(--tag-border)}
 .howto-step-num{font-family:"DM Mono",monospace;font-size:9px;font-weight:700;color:var(--bg);background:var(--ink);width:16px;height:16px;border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0;margin-top:3px}
 .howto-step-title{font-family:"Syne",sans-serif;font-size:13px;font-weight:600;color:var(--ink);margin-bottom:2px}
-.howto-step-desc{font-size:12px;color:var(--ink-soft);line-height:1.4}
+.howto-step-desc{font-family:"Syne",sans-serif;font-size:13px;color:#999;line-height:1.4}
 .landing-cats-grid{display:flex;flex-direction:column;gap:6px}
 .landing-cat-card{display:flex;align-items:flex-start;gap:11px;padding:12px 14px;background:var(--surface);border:1px solid var(--tag-border);border-radius:var(--card-radius)}
 .landing-cat-icon{font-size:15px;line-height:1;flex-shrink:0;margin-top:2px}
 .landing-cat-name{font-family:"Syne",sans-serif;font-size:14px;font-weight:600;color:var(--ink);margin-bottom:2px}
-.landing-cat-desc{font-size:12px;color:var(--ink-soft);line-height:1.4}
+.landing-cat-desc{font-family:"Syne",sans-serif;font-size:13px;color:#999;line-height:1.4}
 
 /* CARD */
 .card{background:var(--surface);border-radius:var(--card-radius);border:1px solid var(--tag-border);overflow:hidden;position:relative;display:flex;flex-direction:column;cursor:pointer;transition:box-shadow .2s,transform .2s;animation:fadeIn .25s ease both}
@@ -177,7 +177,7 @@ main.content{padding:28px 32px}
 <body>
 
 <header>
-  <div class="logo">PhotoKitchen</div>
+  <div class="logo" id="logoHome" style="cursor:pointer">PhotoKitchen</div>
   <div class="header-right" style="order:2;margin:0 auto">
     <div class="mode-toggle">
       <button class="mode-btn active" data-tab="catalog">Folders</button>
@@ -409,13 +409,19 @@ async function loadIndex(){
 // The extracted index files start with a "// Last updated: YYYY-MM-DD"
 // comment. Read separately as plain text (not executed) just for that line,
 // for the landing page.
+let lastUpdatedDisplay = "—";
 function loadLastUpdated(){
   const xhr = new XMLHttpRequest();
   xhr.open("GET", "recipes-index.js", true);
   xhr.onload = () => {
     if(xhr.status !== 200) return;
     const m = xhr.responseText.match(/Last updated:\s*(.+)/i);
-    if(m) document.getElementById("lastUpdatedText").textContent = m[1].trim();
+    if(!m) return;
+    const raw = m[1].trim();
+    const parsed = new Date(raw + "T00:00:00");
+    lastUpdatedDisplay = isNaN(parsed) ? raw : parsed.toLocaleDateString("en-US", {month:"short", day:"numeric", year:"numeric"});
+    const el = document.getElementById("lastUpdatedText");
+    if(el) el.textContent = lastUpdatedDisplay;
   };
   xhr.send();
 }
@@ -1008,6 +1014,20 @@ document.getElementById("saveChangesBtn").addEventListener("click", () => {
   a.href = URL.createObjectURL(blob);
   a.download = currentShoot.id + ".js";
   a.click();
+});
+
+document.getElementById("logoHome").addEventListener("click", () => {
+  const catalogBtn = [...document.querySelectorAll(".mode-btn")].find(b => b.dataset.tab === "catalog");
+  if(!catalogBtn.classList.contains("active")) catalogBtn.click();
+  document.querySelectorAll(".node.selected").forEach(n => n.classList.remove("selected"));
+  currentShoot = null;
+  document.getElementById("catalogSearch").value = "";
+  document.getElementById("saveChangesBtn").classList.remove("show");
+  document.getElementById("catalogGrid").innerHTML = "";
+  document.getElementById("landingPanel").style.display = "block";
+  const crumbEl = document.getElementById("crumbLine");
+  crumbEl.classList.add("placeholder");
+  crumbEl.innerHTML = `<div class="crumbTitle">The Marketplace Recipe Catalog</div><div class="crumbMeta">Last Updated: <span id="lastUpdatedText">${lastUpdatedDisplay}</span></div>`;
 });
 
 loadIndex();
