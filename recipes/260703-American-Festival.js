@@ -1,5 +1,5 @@
 // Shoot: American Festival
-// Generated: 2026-09-22
+// Generated: 2026-09-23
 // Items: 5
 
 const AMERICAN_FESTIVAL_DATA = [
@@ -9,6 +9,9 @@ const AMERICAN_FESTIVAL_DATA = [
     "category": "RECIPE",
     "campaign": "AMERICAN FESTIVAL",
     "caption": "Sweet, sticky, savory, and tucked into fluffy bao. ✨\nThese Spam “Burnt Ends” Bao Buns turn Spam Luncheon Meat into glossy, caramelized bites coated in teriyaki sauce until the edges get crisp and sticky. Layered with kimchi, cucumber, scallions, and a spicy mayo kick, each bun brings the perfect mix of richness, crunch, heat, and freshness.\nServe them up as a fun merienda, party bite, or easy weekend snack. Pick up Spam Luncheon Meat and all the ingredients you need at The Marketplace! 🛒\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
+    "brand": [
+      "Spam Luncheon Meat"
+    ],
     "recipe": {
       "servingTime": "30-35 minutes",
       "yield": "4 servings",
@@ -29,6 +32,11 @@ const AMERICAN_FESTIVAL_DATA = [
     "category": "RECIPE",
     "campaign": "AMERICAN FESTIVAL",
     "caption": "Chocolate cake in minutes? Yes, please. 🍫✨\nThis Kisses Chocolate Mug Cake turns a few pantry staples and Hershey’s Kisses Milk Chocolates into a soft, fudgy treat with a melty chocolate center. Made right in a mug and finished with powdered sugar, extra Kisses, and a dollop of whipped cream, it’s the kind of dessert that feels extra cozy without taking much time at all.\nPerfect for late-night cravings, afternoon sweets, or a quick treat-for-one moment. Pick up Hershey’s Kisses Milk Chocolates and all the ingredients you need at The Marketplace! 🛒\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
+    "brand": [
+      "Hershey’s Kisses Milk Chocolates",
+      "Hershey's Kisses",
+      "Hershey’s Kisses"
+    ],
     "recipe": {
       "servingTime": "5- 7 minutes",
       "yield": "1 serving",
@@ -49,6 +57,9 @@ const AMERICAN_FESTIVAL_DATA = [
     "category": "RECIPE",
     "campaign": "AMERICAN FESTIVAL",
     "caption": "Creamy, cozy, and finished with a little crisp. 🥦✨\nThis Broccoli Risotto turns fresh broccoli into a smooth, vibrant purée that folds beautifully into tender Arborio rice. Finished with Parmesan, lemon zest, roasted broccoli florets, and crisp prosciutto, every spoonful brings a comforting mix of creamy, savory, and bright flavors.\nIt’s a simple way to make dinner feel a little more special, whether for a quiet night in or a laid-back meal with friends. Pick up fresh broccoli and all the ingredients you need at The Marketplace! 🛒\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
+    "brand": [
+      "Broccoli"
+    ],
     "recipe": {
       "servingTime": "40-45 minutes",
       "yield": "4 servings",
@@ -69,6 +80,9 @@ const AMERICAN_FESTIVAL_DATA = [
     "category": "RECIPE",
     "campaign": "AMERICAN FESTIVAL",
     "caption": "Sweet, creamy, and made for sharing. 🍒✨\nThis Cherry Burrata Dip brings together whipped burrata, cream cheese, and ricotta for a soft, fluffy base, then tops it with warm roasted cherries that turn glossy, jammy, and just the right amount of sweet. Finished with pistachios, basil, flaky salt, and a drizzle of olive oil, every bite feels rich, fresh, and a little special.\nServe it with toasted bread for an easy appetizer that looks impressive without too much effort. Pick up fresh cherries and all the ingredients you need at The Marketplace! 🛒\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
+    "brand": [
+      "Cherry"
+    ],
     "recipe": {
       "servingTime": "15- 20 minutes",
       "yield": "6-8 servings",
@@ -89,6 +103,9 @@ const AMERICAN_FESTIVAL_DATA = [
     "category": "RECIPE",
     "campaign": "AMERICAN FESTIVAL",
     "caption": "Comfort food, but make it extra creamy. 🧀✨\nThis White Cheddar Mac and Cheese brings together tender elbow macaroni and a smooth, velvety sauce made with California White Cheddar, Parmesan, milk, and cream. Baked until bubbling and finished with a golden panko topping, every scoop has that cozy mix of rich, cheesy, and lightly crisp.\nIt’s the kind of dish that works for potlucks, family dinners, or anytime you need something warm and satisfying on the table. Pick up California White Cheddar and all the ingredients you need at The Marketplace! 🛒\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
+    "brand": [
+      "California White Cheddar"
+    ],
     "recipe": {
       "servingTime": "50- 55 minutes",
       "yield": "6-8 servings",

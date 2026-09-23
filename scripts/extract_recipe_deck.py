@@ -52,6 +52,20 @@ KNOWN_CATEGORIES = [
     "GROUP SHOT",
 ]
 
+# Bolded phrases matching any of these (case-insensitive, matched after
+# stripping punctuation/symbols) are dropped from the `brand` field — they
+# refer to the shoot company itself, not a product brand, even though
+# they're sometimes bolded in captions ("...at The Marketplace! 🛒").
+# Add more terms here as needed; no extraction-logic changes required.
+EXCLUDED_BRAND_TERMS = [
+    "The Marketplace",
+    "TMP",
+]
+
+# Bolded field labels that show up as the first run of the Caption/Procedure
+# text boxes themselves ("Caption:", "Procedure:") — structural, not brands.
+BOLD_STRUCTURAL_LABELS = {"caption", "procedure"}
+
 # Drop zones, in inches from slide top-left, with tolerance. Derived from
 # diagnose_deck.py / scan_overview.py runs against the Sep 2026 decks.
 # Both decks use the same slide size (10.0 x 5.62 in) and the same
@@ -133,6 +147,103 @@ def strip_label(text, label_pattern):
 def clean_multiline(text):
     # collapse Google Slides' \x0b soft line breaks to real newlines
     return text.replace("\x0b", "\n").strip()
+
+
+# ---------------------------------------------------------------------
+# Brand detection: bolded runs in the Caption / Procedure text boxes
+# ---------------------------------------------------------------------
+
+_BOLD_PHRASE_TRIM_CHARS = " \t\n\r.,;:!?\"'()[]{}<>*_~`®™•·-–—"
+
+
+def extract_bold_phrases(text_frame):
+    """Return the raw text of each maximal run of adjacent bolded runs
+    within a paragraph. Bold formatting sometimes splits a single word or
+    phrase across multiple consecutive runs (e.g. 'Mondial ' + 'Real Thai'
+    + ' Rice Paper', all bold, back-to-back) — those merge into one phrase.
+    A non-bold run breaks the run of adjacent bold runs."""
+    phrases = []
+    for para in text_frame.paragraphs:
+        current = []
+        for run in para.runs:
+            if run.font.bold:
+                current.append(run.text)
+            elif current:
+                phrases.append("".join(current))
+                current = []
+        if current:
+            phrases.append("".join(current))
+    return phrases
+
+
+def clean_bold_phrase(text):
+    return text.strip(_BOLD_PHRASE_TRIM_CHARS)
+
+
+def _normalize_for_brand_match(text):
+    # lowercase and collapse everything but letters/digits to spaces, so
+    # variants like "The Marketplace®" or trailing punctuation/emoji still
+    # match the plain "The Marketplace" entry in EXCLUDED_BRAND_TERMS.
+    return re.sub(r"[^a-z0-9]+", " ", text.lower()).strip()
+
+
+def is_excluded_brand(phrase):
+    normalized = _normalize_for_brand_match(phrase)
+    if not normalized:
+        return True
+    for term in EXCLUDED_BRAND_TERMS:
+        term_normalized = _normalize_for_brand_match(term)
+        if term_normalized and term_normalized in normalized:
+            return True
+    return False
+
+
+def extract_brands(caption_ph, procedure_ph):
+    """Brand names for one item: bolded phrases from the Caption and
+    Procedure text boxes, minus field labels and EXCLUDED_BRAND_TERMS,
+    deduplicated case-insensitively (first-seen casing kept)."""
+    raw_phrases = []
+    for ph in (caption_ph, procedure_ph):
+        if ph is not None and ph.has_text_frame:
+            raw_phrases.extend(extract_bold_phrases(ph.text_frame))
+
+    brands = []
+    seen = set()
+    for raw in raw_phrases:
+        phrase = clean_bold_phrase(raw)
+        if not phrase:
+            continue
+        if phrase.lower() in BOLD_STRUCTURAL_LABELS:
+            continue
+        if is_excluded_brand(phrase):
+            continue
+        key = phrase.lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        brands.append(phrase)
+    return brands
+
+
+def print_brand_summary(items):
+    counts = {"0": 0, "1": 0, "2+": 0}
+    unique_brands = {}
+    for item in items:
+        n = len(item.get("brand") or [])
+        counts["0" if n == 0 else "1" if n == 1 else "2+"] += 1
+        for b in item.get("brand") or []:
+            unique_brands.setdefault(b.lower(), b)
+
+    print(f"\nBrand extraction summary ({len(items)} slide(s)):")
+    print(f"  0 brands:  {counts['0']}")
+    print(f"  1 brand:   {counts['1']}")
+    print(f"  2+ brands: {counts['2+']}")
+    if unique_brands:
+        print(f"\n  {len(unique_brands)} distinct brand string(s) found (eyeball for typos/near-dupes):")
+        for b in sorted(unique_brands.values(), key=str.lower):
+            print(f"    - {b!r}")
+    else:
+        print("  no brand strings found")
 
 
 # ---------------------------------------------------------------------
@@ -324,6 +435,7 @@ def extract_items(recipe_path, category_lookup, warnings):
             "campaign": campaign,
             "shootType": current_shoot_type,
             "caption": caption,
+            "brand": [],
             "recipe": None,
             "photo": {
                 "filename": f"{layout_code}.jpg",
@@ -334,6 +446,7 @@ def extract_items(recipe_path, category_lookup, warnings):
         }
 
         paired_next = i + 1 < len(slides) and slide_has_recipe_text(slides[i + 1])
+        procedure_ph = None
 
         if paired_next:
             recipe_slide = slides[i + 1]
@@ -381,6 +494,7 @@ def extract_items(recipe_path, category_lookup, warnings):
             item["category"] = category
             i += 1
 
+        item["brand"] = extract_brands(caption_ph, procedure_ph)
         items.append(item)
 
     return items, prs
@@ -438,6 +552,8 @@ def main():
     print(f"Reading items from Recipe & Captions deck: {args.recipe_deck}")
     items, prs = extract_items(args.recipe_deck, category_lookup, warnings)
     print(f"  -> {len(items)} items extracted")
+
+    print_brand_summary(items)
 
     shoot_date = extract_deck_shoot_date(prs)
     if shoot_date is None:

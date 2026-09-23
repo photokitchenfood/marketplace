@@ -1,5 +1,5 @@
 // Shoot: Shop & Collect (Videos)
-// Generated: 2026-09-22
+// Generated: 2026-09-23
 // Items: 3
 
 const SHOP_COLLECT_VIDEOS_DATA = [
@@ -9,6 +9,9 @@ const SHOP_COLLECT_VIDEOS_DATA = [
     "category": "OUT OF PACK",
     "campaign": "SHOP & COLLECT CAMPAIGN",
     "caption": "Make everyday nutrition an easy part of your routine. 🥛✨\n\nEnjoy the smooth vanilla flavor of Ensure Gold StrengthPro as a convenient addition to your day. Easy to prepare and enjoy at home, it’s a simple way to make your daily nutrition feel effortless. Pick up Ensure Gold Vanilla at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
+    "brand": [
+      "Ensure Gold StrengthPro"
+    ],
     "recipe": null,
     "photo": {
       "filename": "V1.jpg",
@@ -23,6 +26,9 @@ const SHOP_COLLECT_VIDEOS_DATA = [
     "category": "NON-FOOD",
     "campaign": "SHOP & COLLECT CAMPAIGN",
     "caption": "Keep that freshly washed feeling going long after laundry day. 🫧✨\n\nAdd Downy Sunrise Fresh to your laundry routine for 24-hour perfume and odor protection that helps keep clothes smelling fresh. Whether it’s your everyday tees or your go-to outfits, a little extra freshness goes a long way. Shop Downy Sunrise Fresh at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
+    "brand": [
+      "Downy Sunrise Fresh"
+    ],
     "recipe": null,
     "photo": {
       "filename": "V2.jpg",
@@ -37,6 +43,9 @@ const SHOP_COLLECT_VIDEOS_DATA = [
     "category": "RECIPE",
     "campaign": "SHOP & COLLECT CAMPAIGN",
     "caption": "Crispy, savory, with a little kick! 🍄🔥\n\nTurn Dizon Farms Enoki Mushrooms into Nori Wrapped Enoki Fritters—fried until golden and crispy, sprinkled with togarashi, and served with a creamy wasabi mayo dip. A fun way to give your usual mushrooms a delicious upgrade! 🥢✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
+    "brand": [
+      "Dizon Farms Enoki Mushrooms"
+    ],
     "recipe": {
       "servingTime": "55 minutes",
       "yield": "4-5 servings",
