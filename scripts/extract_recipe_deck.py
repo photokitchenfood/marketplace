@@ -75,6 +75,11 @@ EXCLUDED_BRAND_TERMS = [
 # Bolded field labels that show up as the first run of the Caption/Procedure
 # text boxes themselves ("Caption:", "Procedure:") — structural, not brands.
 BOLD_STRUCTURAL_LABELS = {"caption", "procedure"}
+# ...which can also sit in the same bold run as a brand right after it, with
+# no non-bold run in between ("Caption:" + "Cetaphil Baby Gentle Wash").
+_LEADING_STRUCTURAL_LABEL = re.compile(
+    r"^(?:" + "|".join(BOLD_STRUCTURAL_LABELS) + r")\s*:[\s\x0b]*", flags=re.IGNORECASE
+)
 
 # Drop zones, in inches from slide top-left, with tolerance. Derived from
 # diagnose_deck.py / scan_overview.py runs against the Sep 2026 decks.
@@ -237,7 +242,7 @@ def extract_brands(caption_ph, procedure_ph):
     brands = []
     seen = set()
     for raw in raw_phrases:
-        phrase = clean_bold_phrase(raw)
+        phrase = clean_bold_phrase(_LEADING_STRUCTURAL_LABEL.sub("", clean_bold_phrase(raw)))
         if not phrase:
             continue
         if phrase.lower() in BOLD_STRUCTURAL_LABELS:
