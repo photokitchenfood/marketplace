@@ -1,6 +1,6 @@
 // PhotoKitchen Recipes Index
 // Auto-generated — do not edit manually
-// Last updated: 2026-09-22
+// Last updated: 2026-09-23
 
 const RECIPES_INDEX = [
   {
@@ -29,6 +29,15 @@ const RECIPES_INDEX = [
     "month": 9,
     "file": "recipes/260904-September-IG.js",
     "count": 5
+  },
+  {
+    "id": "260728-August-IG",
+    "label": "August IG",
+    "type": "photo",
+    "year": 2026,
+    "month": 7,
+    "file": "recipes/260728-August-IG.js",
+    "count": 2
   },
   {
     "id": "260703-July-Highlight",
