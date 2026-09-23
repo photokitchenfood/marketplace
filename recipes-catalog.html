@@ -213,6 +213,12 @@ main.content{padding:28px 32px}
           <button class="chip" data-cat="GROUP SHOT">Group Shot</button>
         </div>
       </div>
+      <div class="sidebar-section">
+        <div class="sidebar-label">Brand</div>
+        <div class="chip-group" id="brandFilters">
+          <button class="chip active" data-brand="all">All</button>
+        </div>
+      </div>
       <div id="shootsSection">
         <div class="sidebar-label">Shoots</div>
         <div id="treePane" class="tree"></div>
@@ -228,12 +234,6 @@ main.content{padding:28px 32px}
           <div class="sidebar-label">Month</div>
           <div class="chip-group" id="monthFilters">
             <button class="chip active" data-month="all">All</button>
-          </div>
-        </div>
-        <div class="sidebar-section">
-          <div class="sidebar-label">Brand</div>
-          <div class="chip-group" id="brandFilters">
-            <button class="chip active" data-brand="all">All</button>
           </div>
         </div>
       </div>
@@ -298,7 +298,7 @@ main.content{padding:28px 32px}
                 <span class="landing-cat-icon">🏷️</span>
                 <div>
                   <div class="landing-cat-name">Brand</div>
-                  <div class="landing-cat-desc">Find every recipe featuring a specific product (All Photos only)</div>
+                  <div class="landing-cat-desc">Find every recipe featuring a specific product</div>
                 </div>
               </div>
             </div>
@@ -376,10 +376,13 @@ main.content{padding:28px 32px}
 // demand from the repo, instead of having everything baked into this page.
 // Expects recipes-index.js and the recipes/ folder to sit alongside this
 // HTML file (same layout as the live site once pushed to GitHub Pages).
+// Cache-busts every fetch (mirrors index.html's '?v=' + Date.now() pattern
+// for campaigns-index.js) so a reload always sees a newly added month/brand
+// instead of a stale cached copy of recipes-index.js or a shoot file.
 function loadScript(src){
   return new Promise((resolve, reject) => {
     const s = document.createElement("script");
-    s.src = src;
+    s.src = src + (src.includes("?") ? "&" : "?") + "v=" + Date.now();
     s.onload = () => resolve();
     s.onerror = () => reject(new Error("Failed to load " + src));
     document.head.appendChild(s);
@@ -404,6 +407,11 @@ async function loadIndex(){
   buildTree();
   buildShufflerFilterChips();
   loadLastUpdated();
+  // Kick off loading every shoot's data now (not awaited — the tree/landing
+  // page render immediately) so the live Brand filter list is populated
+  // without waiting for the user to open the Shuffler tab first, and so
+  // Brand filtering works from the very first Catalog folder they open.
+  primeAllData();
 }
 
 // The extracted index files start with a "// Last updated: YYYY-MM-DD"
@@ -412,7 +420,7 @@ async function loadIndex(){
 let lastUpdatedDisplay = "—";
 function loadLastUpdated(){
   const xhr = new XMLHttpRequest();
-  xhr.open("GET", "recipes-index.js", true);
+  xhr.open("GET", "recipes-index.js?v=" + Date.now(), true);
   xhr.onload = () => {
     if(xhr.status !== 200) return;
     const m = xhr.responseText.match(/Last updated:\s*(.+)/i);
@@ -445,24 +453,14 @@ function renderLoading(gridEl){
   gridEl.innerHTML = `<div class="empty">Loading&hellip;</div>`;
 }
 
-// Heuristic: in an ingredients list, the featured branded product is almost
-// always the run of Title-Case words on a line (plain ingredients like "soy
-// sauce" stay lowercase). Section headers ("Whipped Ricotta:") are skipped.
-// Not perfect — the occasional Title-Case ingredient name (e.g. "Muscat
-// Grapes") gets picked up too — but tested against real data it's a large
-// improvement over parsing caption text, which missed roughly a third of
-// items outright.
-const BRAND_RE = /\b\p{Lu}[\p{L}\u2019'\u00C0-\u017F]*(?:(?:\s+|\s*&\s*)\p{Lu}[\p{L}\u2019'\u00C0-\u017F]*)+\b/gu;
-function extractBrandCandidates(item){
-  const text = item.recipe ? item.recipe.ingredients : "";
-  if(!text) return [];
-  const found = new Set();
-  text.split("\n").forEach(line => {
-    line = line.trim();
-    if(!line || line.endsWith(":")) return;
-    [...line.matchAll(BRAND_RE)].forEach(m => found.add(m[0]));
-  });
-  return [...found];
+// Brand tags for one item, straight from the extractor's real `brand` field
+// (bolded runs in the Caption/Procedure boxes — see scripts/extract_recipe_deck.py).
+// Items with no detected brand (`brand: []`) get tagged with GENERIC_BRAND_LABEL
+// instead, so "no real product brand" is itself a selectable filter.
+const GENERIC_BRAND_LABEL = "! Generic";
+function itemBrandTags(item){
+  const brands = Array.isArray(item.brand) ? item.brand.filter(b => b && b.trim()) : [];
+  return brands.length ? brands : [GENERIC_BRAND_LABEL];
 }
 
 const CATEGORY_META = {
@@ -739,31 +737,39 @@ function matchesQuery(item, q){
   return hay.includes(q);
 }
 
+// Brand is shared across both tabs (like Type) — selecting a brand filters
+// the Catalog view's current folder/shoot, and the Shuffler's whole data set.
+let brandFilter = "all";
 function matchesFilters(item, q){
   if(categoryFilter !== "all" && item.category !== categoryFilter) return false;
+  if(brandFilter !== "all" && !itemBrandTags(item).some(b => b.toLowerCase() === brandFilter.toLowerCase())) return false;
   return matchesQuery(item, q);
 }
 
-// Shuffler-only: adds the Year/Month/Brand pill filters on top of the shared
-// Type filter and search text.
-let brandFilter = "all";
+// Shuffler-only: adds the Year/Month pill filters on top of the shared
+// Type/Brand filters and search text.
 function matchesShufflerFilters(item, q){
   if(yearFilter !== "all" && String(item._year) !== String(yearFilter)) return false;
   if(monthFilter !== "all" && String(item._month) !== String(monthFilter)) return false;
-  if(brandFilter !== "all" && !extractBrandCandidates(item).includes(brandFilter)) return false;
   return matchesFilters(item, q);
 }
 
-// Builds the Brand pill filters from whatever's actually detected across the
-// loaded items. Only built once, the first time Shuffler data finishes loading.
-let brandChipsBuilt = false;
+// Builds the Brand pill filters live from every loaded item's real `brand`
+// field (not a fixed list) — dedupes case-insensitively, keeping first-seen
+// casing for display, sorted alphabetically ("! Generic" sorts near the top
+// on purpose, via the "!"). Recomputes from scratch whenever called, so a
+// freshly reloaded data set (e.g. a new month added to recipes-index.js)
+// always regenerates the list with no manual edits needed here.
 function buildBrandFilterChips(items){
-  if(brandChipsBuilt) return;
-  brandChipsBuilt = true;
-  const brands = new Set();
-  items.forEach(it => extractBrandCandidates(it).forEach(b => brands.add(b)));
-  const sorted = [...brands].sort((a, b) => a.localeCompare(b));
+  const brandMap = new Map(); // lowercase key -> first-seen display casing
+  items.forEach(it => itemBrandTags(it).forEach(b => {
+    const key = b.toLowerCase();
+    if(!brandMap.has(key)) brandMap.set(key, b);
+  }));
+  const sorted = [...brandMap.values()].sort((a, b) => a.localeCompare(b));
+
   const el = document.getElementById("brandFilters");
+  el.querySelectorAll('.chip:not([data-brand="all"])').forEach(c => c.remove());
   sorted.forEach(b => {
     const btn = document.createElement("button");
     btn.className = "chip";
@@ -777,13 +783,13 @@ function buildBrandFilterChips(items){
     });
     el.appendChild(btn);
   });
-  document.querySelector('#brandFilters .chip[data-brand="all"]').addEventListener("click", (e) => {
-    document.querySelectorAll("#brandFilters .chip").forEach(c => c.classList.remove("active"));
-    e.currentTarget.classList.add("active");
-    brandFilter = "all";
-    refreshCurrentView();
-  });
 }
+document.querySelector('#brandFilters .chip[data-brand="all"]').addEventListener("click", (e) => {
+  document.querySelectorAll("#brandFilters .chip").forEach(c => c.classList.remove("active"));
+  e.currentTarget.classList.add("active");
+  brandFilter = "all";
+  refreshCurrentView();
+});
 
 // Re-renders whichever grid is currently on screen, applying the current
 // search text (per its own tab) plus the shared Type filter.
@@ -815,7 +821,23 @@ async function loadAllShootsFlat(){
   return dataArrays.flat();
 }
 
+// Loads every shoot's data (cached per-shoot via loadShootData, so this is
+// cheap once warm) and rebuilds the live Brand filter list from it. Shared —
+// and promise-cached — so the eager background prime kicked off from
+// loadIndex() and the Shuffler tab's own on-demand load never double-fetch.
 let shufflerBase = null;
+let primeAllDataPromise = null;
+function primeAllData(){
+  if(!primeAllDataPromise){
+    primeAllDataPromise = loadAllShootsFlat().then(items => {
+      shufflerBase = items;
+      buildBrandFilterChips(items);
+      return items;
+    });
+  }
+  return primeAllDataPromise;
+}
+
 let shufflerLoading = false;
 document.getElementById("shufflerSearch").addEventListener("input", () => refreshCurrentView());
 document.getElementById("shufflerSearch").addEventListener("keydown", (e) => {
@@ -836,8 +858,7 @@ document.querySelectorAll(".mode-btn").forEach(btn => {
     if(currentTab === "shuffler" && !shufflerBase && !shufflerLoading){
       shufflerLoading = true;
       renderLoading(document.getElementById("shufflerGrid"));
-      shufflerBase = await loadAllShootsFlat();
-      buildBrandFilterChips(shufflerBase);
+      await primeAllData();
       shufflerLoading = false;
     }
     refreshCurrentView();
