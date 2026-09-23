@@ -38,6 +38,22 @@ header{background:var(--ink);color:#fff;display:flex;align-items:center;justify-
 #saveChangesBtn.show{display:flex}
 #saveChangesBtn:hover{border-color:#fff}
 
+/* PASSWORD GATE */
+#pw-gate{position:fixed;inset:0;background:var(--ink);z-index:9999;display:flex;align-items:center;justify-content:center}
+#pw-gate.hidden{display:none}
+.pw-box{display:flex;flex-direction:column;align-items:center;gap:20px;width:320px}
+.pw-logo{font-family:"Barlow Semi Condensed",sans-serif;font-size:26px;color:#fff;letter-spacing:0;margin-bottom:4px}
+.pw-label{font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:#888;font-family:"DM Mono",monospace}
+.pw-input-wrap{width:100%;position:relative}
+#pw-input{width:100%;background:#2A2A28;border:1.5px solid #3A3A38;border-radius:6px;padding:11px 44px 11px 14px;font-family:"DM Mono",monospace;font-size:13px;color:#fff;outline:none;transition:border-color .15s;letter-spacing:.08em}
+#pw-input::placeholder{color:#555}
+#pw-input:focus{border-color:#666}
+#pw-input.error{border-color:#C0392B;animation:pw-shake .3s ease}
+#pw-submit{position:absolute;right:8px;top:50%;transform:translateY(-50%);background:none;border:none;cursor:pointer;color:#666;padding:4px;display:flex;align-items:center;transition:color .15s}
+#pw-submit:hover{color:#fff}
+.pw-error{font-size:10px;color:#C0392B;letter-spacing:.06em;text-transform:uppercase;min-height:14px;text-align:center;font-family:"DM Mono",monospace}
+@keyframes pw-shake{0%,100%{transform:translateX(0)}25%{transform:translateX(-6px)}75%{transform:translateX(6px)}}
+
 /* CATALOG LAYOUT */
 #appLayout{display:grid;grid-template-columns:270px 1fr;min-height:calc(100vh - 64px)}
 .sidebar-col{background:var(--surface);border-right:1px solid var(--tag-border);position:sticky;top:64px;height:calc(100vh - 64px);display:flex;flex-direction:column;overflow:hidden}
@@ -61,7 +77,8 @@ aside.tree-pane::-webkit-scrollbar-thumb{background:var(--ink-faint);border-radi
 .tree ul{list-style:none;margin:0;padding-left:14px}
 .tree > ul{padding-left:0}
 .tree li{margin:1px 0}
-.node{display:flex;align-items:center;gap:6px;padding:6px 8px;border-radius:var(--radius);cursor:pointer;font-family:"Spline Sans",sans-serif;font-size:13px;font-weight:400;color:var(--ink-soft);user-select:none;transition:background .15s,color .15s}
+.node{display:flex;align-items:center;gap:6px;padding:6px 8px;border-radius:var(--radius);cursor:pointer;font-family:"Spline Sans",sans-serif;font-size:13px;font-weight:400;color:var(--ink);user-select:none;transition:background .15s,color .15s}
+.node.leaf{color:var(--ink-faint)}
 .node:hover{background:var(--tag-bg);color:var(--ink)}
 .node.selected{background:var(--ink);color:#fff}
 .node .caret{width:11px;flex-shrink:0;color:var(--ink-faint);font-size:9px}
@@ -175,6 +192,20 @@ main.content{padding:28px 32px}
 </style>
 </head>
 <body>
+
+<div id="pw-gate">
+  <div class="pw-box">
+    <div class="pw-logo">PhotoKitchen</div>
+    <div class="pw-label">TMP Recipes Catalog &mdash; Team Access</div>
+    <div class="pw-input-wrap">
+      <input id="pw-input" type="password" placeholder="Enter password" autocomplete="off">
+      <button id="pw-submit" type="button">
+        <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+      </button>
+    </div>
+    <div class="pw-error" id="pw-error"></div>
+  </div>
+</div>
 
 <header>
   <div class="logo" id="logoHome" style="cursor:pointer">PhotoKitchen</div>
@@ -1050,7 +1081,25 @@ document.getElementById("logoHome").addEventListener("click", () => {
   crumbEl.innerHTML = `<div class="crumbTitle">The Marketplace Recipe Catalog</div><div class="crumbMeta">Last Updated: <span id="lastUpdatedText">${lastUpdatedDisplay}</span></div>`;
 });
 
-loadIndex();
+// ── PASSWORD GATE ──
+(function() {
+  var CORRECT = 'tmprecipes26', KEY = 'tmp_recipes_auth';
+  var gate = document.getElementById('pw-gate');
+  var input = document.getElementById('pw-input');
+  var errEl = document.getElementById('pw-error');
+  if (sessionStorage.getItem(KEY) === '1') { gate.classList.add('hidden'); loadIndex(); }
+  else { setTimeout(function() { input.focus(); }, 100); }
+  function attempt() {
+    if (input.value === CORRECT) { sessionStorage.setItem(KEY, '1'); gate.classList.add('hidden'); loadIndex(); }
+    else {
+      errEl.textContent = 'Incorrect password';
+      input.classList.add('error'); input.value = '';
+      setTimeout(function() { input.classList.remove('error'); errEl.textContent = ''; input.focus(); }, 800);
+    }
+  }
+  document.getElementById('pw-submit').addEventListener('click', attempt);
+  input.addEventListener('keydown', function(e) { if (e.key === 'Enter') attempt(); });
+})();
 
 </script>
 </body>
