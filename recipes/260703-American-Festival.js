@@ -102,7 +102,7 @@ const AMERICAN_FESTIVAL_DATA = [
     "campaign": "AMERICAN FESTIVAL",
     "caption": "Comfort food, but make it extra creamy. 🧀✨\nThis White Cheddar Mac and Cheese brings together tender elbow macaroni and a smooth, velvety sauce made with California White Cheddar, Parmesan, milk, and cream. Baked until bubbling and finished with a golden panko topping, every scoop has that cozy mix of rich, cheesy, and lightly crisp.\nIt’s the kind of dish that works for potlucks, family dinners, or anytime you need something warm and satisfying on the table. Pick up California White Cheddar and all the ingredients you need at The Marketplace! 🛒\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "California White Cheddar"
+      "California"
     ],
     "recipe": {
       "servingTime": "50- 55 minutes",
