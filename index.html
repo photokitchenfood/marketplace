@@ -65,6 +65,9 @@ aside.tree-pane{flex:1;padding:20px 14px;overflow-y:auto}
 .chip{font-family:"DM Mono",monospace;font-size:10.5px;padding:4px 10px;border-radius:100px;border:1.5px solid var(--tag-border);background:transparent;color:var(--ink-soft);cursor:pointer;transition:all .15s;white-space:nowrap}
 .chip:hover{border-color:var(--ink);color:var(--ink)}
 .chip.active{background:var(--ink);border-color:var(--ink);color:#fff}
+#brandTreeSearch{display:block;width:100%;padding:6px 10px;border:1.5px solid var(--tag-border);border-radius:var(--radius);font-family:"DM Mono",monospace;font-size:11px;background:var(--surface);color:var(--ink);outline:none}
+#brandTreeSearch:focus{border-color:var(--ink)}
+#brandTreeSearch::placeholder{color:var(--ink-faint)}
 aside.tree-pane::-webkit-scrollbar{width:4px}
 aside.tree-pane::-webkit-scrollbar-thumb{background:var(--ink-faint);border-radius:2px}
 
@@ -89,8 +92,7 @@ main.content{padding:28px 32px}
 .crumbTitle{font-family:"Syne",sans-serif;font-size:25px;font-weight:700;line-height:1.1;color:var(--ink)}
 .crumbMeta{font-family:"DM Mono",monospace;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-faint);margin-top:6px}
 .crumbSep{color:var(--ink-faint);font-size:16px;font-weight:400}
-.crumbMonth{font-family:"Syne",sans-serif;font-size:18px;font-weight:500;color:var(--ink-soft)}
-.crumbShoot{font-family:"DM Mono",monospace;font-size:11px;font-weight:400;color:var(--ink-faint)}
+.crumbShootLabel{font-family:"Syne",sans-serif;font-size:18px;font-weight:500;color:var(--ink-soft)}
 .results-count{font-size:12px;color:var(--ink-soft)}
 .results-count span{font-weight:500;color:var(--ink)}
 
@@ -146,6 +148,7 @@ main.content{padding:28px 32px}
 .shuf-btn:hover{opacity:.88}
 .dropbox-btn{background:#0061fe;color:#fff;text-decoration:none}
 .dropbox-btn svg{flex-shrink:0}
+.dropbox-btn-sm{padding:6px 14px;font-size:10px;margin-top:10px;align-self:flex-start;width:fit-content}
 #catalogSearchRow{display:none}
 #catalogSearchRow.show{display:flex}
 
@@ -256,9 +259,12 @@ main.content{padding:28px 32px}
         </div>
         <div class="sidebar-section">
           <div class="sidebar-label">Brand</div>
-          <div class="chip-group" id="brandFilters">
-            <button class="chip active" data-brand="all">All</button>
+          <div class="chip-group">
+            <button class="chip active" id="brandAllChip" data-brand="all">All</button>
+            <button class="chip" id="brandGenericChip" data-brand="generic">! Generic</button>
           </div>
+          <input type="text" id="brandTreeSearch" placeholder="Filter brands&hellip;" style="margin-top:8px">
+          <div id="brandTreePane" class="tree" style="margin-top:8px"></div>
         </div>
       </div>
     </aside>
@@ -386,6 +392,10 @@ main.content{padding:28px 32px}
           <h2 id="modalTitle"></h2>
           <h4>Caption</h4>
           <div class="block" id="modalCaption"></div>
+          <a class="shuf-btn dropbox-btn dropbox-btn-sm" id="modalDropboxBtn" href="#" target="_blank" rel="noopener noreferrer" style="display:none">
+            <svg width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+            Dropbox
+          </a>
         </div>
       </div>
       <div class="recipeSection" id="recipeSection" style="display:none">
@@ -419,6 +429,17 @@ function loadScript(src){
   return new Promise((resolve, reject) => {
     const s = document.createElement("script");
     s.src = src + (src.includes("?") ? "&" : "?") + "v=" + Date.now();
+    // A dynamically created <script> executes async by default — with many
+    // shoots loading at once (loadAllShootsFlat's / selectGroup's
+    // Promise.all(...map(loadShootData))), whichever one downloads fastest
+    // can execute first regardless of insertion order. loadShootData hands
+    // data off through the single shared window.__recipesData global, so
+    // out-of-order execution meant one shoot's load could race and read
+    // another shoot's data (or dropboxUrl) instead of its own. `async =
+    // false` keeps the parallel download but forces in-order execution,
+    // like a normal parser-inserted script, which is what makes that
+    // shared-global handoff safe.
+    s.async = false;
     s.onload = () => resolve();
     s.onerror = () => reject(new Error("Failed to load " + src));
     document.head.appendChild(s);
@@ -564,7 +585,7 @@ function buildTree(){
       const mUl = document.createElement("ul");
       mNode.querySelector(".caret").addEventListener("click", (e) => { e.stopPropagation(); toggleCollapse(mNode, mUl); });
       mNode.querySelector(".nodeLabel").addEventListener("click", () => {
-        selectGroup(mo.shoots, mNode, {year: yr.year, month: mo.monthName});
+        selectGroup(mo.shoots, mNode, {year: yr.year, month: mo.monthLabel});
       });
       mLi.appendChild(mNode);
       mLi.appendChild(mUl);
@@ -574,7 +595,7 @@ function buildTree(){
         const sNode = document.createElement("div");
         sNode.className = "node leaf";
         sNode.innerHTML = `<span class="caret"></span><span>${sh.label}</span><span class="count">${sh.count}</span>`;
-        sNode.onclick = () => selectShoot(sh, sNode, {year: yr.year, month: mo.monthName, shootLabel: sh.label});
+        sNode.onclick = () => selectShoot(sh, sNode, {year: yr.year, month: mo.monthLabel, shootLabel: sh.label});
         sLi.appendChild(sNode);
         mUl.appendChild(sLi);
       });
@@ -643,22 +664,25 @@ function toggleCollapse(nodeEl, ulEl){
   nodeEl.querySelector(".caret").textContent = isCollapsed ? "▾" : "▸";
 }
 
-// Builds the tiered breadcrumb: Year gets the big header treatment (mirrors
-// Surfaces' single big Color heading), Month and Shoot render as progressively
-// smaller chips (mirrors Surfaces' Material/Size filter chips) as you go deeper.
+// Builds the breadcrumb: Year and Month share the big header treatment (no
+// visual difference between browsing a whole month vs. a single shoot's
+// parent), while the trailing Shoot/campaign name renders smaller and
+// gray — keeps some hierarchy without going back to three different sizes.
+// `month` carries its tree-matching numeric prefix ("03 March"), passed in
+// by the caller.
 function renderCrumb({year, month, shootLabel}){
   const crumbEl = document.getElementById("crumbLine");
   crumbEl.classList.remove("placeholder");
   let html = `<span>${escapeHTML(String(year))}</span>`;
-  if(month) html += `<span class="crumbSep">/</span><span class="crumbMonth">${escapeHTML(month)}</span>`;
-  if(shootLabel) html += `<span class="crumbSep">/</span><span class="crumbShoot">${escapeHTML(shootLabel)}</span>`;
+  if(month) html += `<span class="crumbSep">/</span><span>${escapeHTML(month)}</span>`;
+  if(shootLabel) html += `<span class="crumbSep">/</span><span class="crumbShootLabel">${escapeHTML(shootLabel)}</span>`;
   crumbEl.innerHTML = html;
 }
 
 // Selects a single shoot leaf. Shows Save Changes, since a leaf maps to exactly
 // one exportable .js file.
 async function selectShoot(entry, nodeEl, crumbParts){
-  document.querySelectorAll(".node.selected").forEach(n => n.classList.remove("selected"));
+  document.querySelectorAll("#treePane .node.selected").forEach(n => n.classList.remove("selected"));
   nodeEl.classList.add("selected");
   document.getElementById("landingPanel").style.display = "none";
   renderCrumb(crumbParts);
@@ -677,7 +701,7 @@ async function selectShoot(entry, nodeEl, crumbParts){
 // than one source file, so there's no single file to export back to; editing
 // a photo still updates the right underlying shoot's data in memory.
 async function selectGroup(entries, nodeEl, crumbParts){
-  document.querySelectorAll(".node.selected").forEach(n => n.classList.remove("selected"));
+  document.querySelectorAll("#treePane .node.selected").forEach(n => n.classList.remove("selected"));
   nodeEl.classList.add("selected");
   document.getElementById("landingPanel").style.display = "none";
   renderCrumb(crumbParts);
@@ -831,40 +855,110 @@ function matchesShufflerFilters(item, q){
   return matchesFilters(item, q);
 }
 
-// Builds the Brand pill filters live from every loaded item's real `brand`
-// field (not a fixed list) — dedupes case-insensitively, keeping first-seen
-// casing for display, sorted alphabetically ("! Generic" sorts near the top
-// on purpose, via the "!"). Recomputes from scratch whenever called, so a
-// freshly reloaded data set (e.g. a new month added to recipes-index.js)
-// always regenerates the list with no manual edits needed here.
-function buildBrandFilterChips(items){
+// Builds the Brand sidebar as a collapsed-by-default folder tree, grouped by
+// first letter and styled via the same .tree/.node classes as the Shoots
+// tree — live from every loaded item's real `brand` field (not a fixed
+// list), dedupes case-insensitively (first-seen casing kept). "! Generic"
+// is its own pill beside "All" (its sort-to-top behavior made it look like
+// an outlier as a tree leaf, so it isn't part of the letter groups at all).
+// Recomputes from scratch whenever called, so a freshly reloaded data set
+// (e.g. a new month added to recipes-index.js) always regenerates the tree
+// with no manual edits needed here.
+function buildBrandLeaf(b){
+  const li = document.createElement("li");
+  li.dataset.brand = b.toLowerCase();
+  const node = document.createElement("div");
+  node.className = "node leaf";
+  node.innerHTML = `<span class="caret"></span><span>${escapeHTML(b)}</span>`;
+  node.addEventListener("click", () => selectBrand(b, node));
+  li.appendChild(node);
+  return li;
+}
+function clearBrandSelection(){
+  document.getElementById("brandAllChip").classList.remove("active");
+  document.getElementById("brandGenericChip").classList.remove("active");
+  document.querySelectorAll("#brandTreePane .node.selected").forEach(n => n.classList.remove("selected"));
+}
+function selectBrand(b, nodeEl){
+  clearBrandSelection();
+  nodeEl.classList.add("selected");
+  brandFilter = b;
+  refreshCurrentView();
+}
+function buildBrandTree(items){
   const brandMap = new Map(); // lowercase key -> first-seen display casing
   items.forEach(it => itemBrandTags(it).forEach(b => {
     const key = b.toLowerCase();
     if(!brandMap.has(key)) brandMap.set(key, b);
   }));
-  const sorted = [...brandMap.values()].sort((a, b) => a.localeCompare(b));
+  const lettered = [...brandMap.values()].filter(b => b !== GENERIC_BRAND_LABEL).sort((a, b) => a.localeCompare(b));
 
-  const el = document.getElementById("brandFilters");
-  el.querySelectorAll('.chip:not([data-brand="all"])').forEach(c => c.remove());
-  sorted.forEach(b => {
-    const btn = document.createElement("button");
-    btn.className = "chip";
-    btn.dataset.brand = b;
-    btn.textContent = b;
-    btn.addEventListener("click", () => {
-      document.querySelectorAll("#brandFilters .chip").forEach(c => c.classList.remove("active"));
-      btn.classList.add("active");
-      brandFilter = b;
-      refreshCurrentView();
+  const groups = new Map(); // letter -> [brand, ...], insertion order == sorted order
+  lettered.forEach(b => {
+    const letter = (b.trim().charAt(0) || "#").toUpperCase();
+    if(!groups.has(letter)) groups.set(letter, []);
+    groups.get(letter).push(b);
+  });
+
+  const pane = document.getElementById("brandTreePane");
+  pane.innerHTML = "";
+  const root = document.createElement("ul");
+
+  [...groups.keys()].sort().forEach(letter => {
+    const letterLi = document.createElement("li");
+    letterLi.dataset.letter = letter;
+    const letterNode = document.createElement("div");
+    letterNode.className = "node";
+    letterNode.innerHTML = `<span class="caret">▸</span><span>${letter}</span>`;
+    const letterUl = document.createElement("ul");
+    letterUl.style.display = "none"; // collapsed by default
+    letterNode.addEventListener("click", () => toggleCollapse(letterNode, letterUl));
+    groups.get(letter).forEach(b => letterUl.appendChild(buildBrandLeaf(b)));
+    letterLi.appendChild(letterNode);
+    letterLi.appendChild(letterUl);
+    root.appendChild(letterLi);
+  });
+
+  pane.appendChild(root);
+  document.getElementById("brandTreeSearch").value = ""; // reset any stale filter on rebuild
+}
+// Narrows the tree to brands whose name contains the query: matching
+// letter groups auto-expand and everything else (non-matching leaves, and
+// letters with no matches at all) hides, so finding one brand never needs
+// scrolling or manual expand/collapse. Clearing the query restores the
+// default fully-collapsed, fully-visible tree.
+function filterBrandTree(query){
+  const q = query.trim().toLowerCase();
+  document.querySelectorAll('#brandTreePane li[data-letter]').forEach(letterLi => {
+    const letterUl = letterLi.querySelector("ul");
+    let anyMatch = false;
+    letterLi.querySelectorAll("li[data-brand]").forEach(leafLi => {
+      const match = !q || leafLi.dataset.brand.includes(q);
+      leafLi.style.display = match ? "" : "none";
+      if(match) anyMatch = true;
     });
-    el.appendChild(btn);
+    letterLi.style.display = anyMatch ? "" : "none";
+    const caret = letterLi.querySelector(".node .caret");
+    if(q && anyMatch){
+      letterUl.style.display = "block";
+      caret.textContent = "▾";
+    } else if(!q){
+      letterUl.style.display = "none";
+      caret.textContent = "▸";
+    }
   });
 }
-document.querySelector('#brandFilters .chip[data-brand="all"]').addEventListener("click", (e) => {
-  document.querySelectorAll("#brandFilters .chip").forEach(c => c.classList.remove("active"));
+document.getElementById("brandTreeSearch").addEventListener("input", (e) => filterBrandTree(e.target.value));
+document.getElementById("brandAllChip").addEventListener("click", (e) => {
+  clearBrandSelection();
   e.currentTarget.classList.add("active");
   brandFilter = "all";
+  refreshCurrentView();
+});
+document.getElementById("brandGenericChip").addEventListener("click", (e) => {
+  clearBrandSelection();
+  e.currentTarget.classList.add("active");
+  brandFilter = GENERIC_BRAND_LABEL;
   refreshCurrentView();
 });
 
@@ -912,7 +1006,7 @@ function primeAllData(){
   if(!primeAllDataPromise){
     primeAllDataPromise = loadAllShootsFlat().then(items => {
       shufflerBase = items;
-      buildBrandFilterChips(items);
+      buildBrandTree(items);
       return items;
     });
   }
@@ -958,6 +1052,11 @@ function openModal(item){
   applyCampaignTag(document.getElementById("modalCampaign"), item.campaign);
   document.getElementById("modalTitle").textContent = item.layoutName;
   document.getElementById("modalCaption").textContent = item.caption || "";
+  // item._dropboxUrl is this specific item's own campaign's link (tagged in
+  // loadShootData) — resolved per item, not the single shared link the
+  // Search-row Dropbox buttons use, since a photo opened from a mixed view
+  // (a Folders group, or All Photos) still belongs to exactly one campaign.
+  setDropboxButton(document.getElementById("modalDropboxBtn"), item._dropboxUrl || null);
 
   const recipeSection = document.getElementById("recipeSection");
   const metaEl = document.getElementById("modalRecipeMeta");
@@ -1130,7 +1229,7 @@ document.getElementById("saveChangesBtn").addEventListener("click", () => {
 document.getElementById("logoHome").addEventListener("click", () => {
   const catalogBtn = [...document.querySelectorAll(".mode-btn")].find(b => b.dataset.tab === "catalog");
   if(!catalogBtn.classList.contains("active")) catalogBtn.click();
-  document.querySelectorAll(".node.selected").forEach(n => n.classList.remove("selected"));
+  document.querySelectorAll("#treePane .node.selected").forEach(n => n.classList.remove("selected"));
   currentShoot = null;
   document.getElementById("catalogSearch").value = "";
   document.getElementById("catalogSearchRow").classList.remove("show");
