@@ -38,5 +38,6 @@ const HEALTH_AND_WELLNESS_DATA = [
     "needsPhotoSwap": true
   }
 ];
+HEALTH_AND_WELLNESS_DATA.dropboxUrl = "https://www.dropbox.com/scl/fo/pcv810m1694rm5b0bhmb4/AE2cYFcZbMqATE4zJDy7P74?rlkey=40327u1dojxbxalcmag82o66r&st=q3ibzk9b&dl=0";
 
 if (typeof window !== 'undefined') window.__recipesData = HEALTH_AND_WELLNESS_DATA;

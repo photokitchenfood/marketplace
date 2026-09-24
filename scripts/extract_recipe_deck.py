@@ -69,6 +69,12 @@ from PIL import Image
 THUMB_MAX_DIM = 500
 THUMB_JPEG_QUALITY = 85
 
+# The Recipe & Captions deck's "Download Link/s" slide (slide 2 in every
+# deck checked so far) lists one bulleted, hyperlinked line per campaign
+# (and sometimes per stray asset). Scanning a few slides past that covers
+# decks where it shifts by one or two.
+DROPBOX_LINK_SCAN_SLIDES = 10
+
 KNOWN_CATEGORIES = [
     "RECIPE",
     "OUT OF PACK W/ FOOD STYLING",  # check before "OUT OF PACK" (substring)
@@ -192,6 +198,172 @@ def normalize_campaign(text):
     text = re.sub(r"['‘’]", "", text.upper())
     text = re.sub(r"\b(?:INSTAGRAM|HIGHLIGHTS?)\b", "IG", text)
     return " ".join(text.split())
+
+
+def find_dropbox_links(prs):
+    """Hyperlinked text runs pointing to a dropbox.com URL, scanned from
+    the deck's first few slides (its "Download Link/s" slide, one bulleted
+    line per campaign/asset, hyperlinked on the label rather than shown as
+    a plain URL). Skips any line explicitly labeled "(Video)"/"(Videos)"
+    — this catalog only wants the photo folder."""
+    links = []
+    for slide in list(prs.slides)[:DROPBOX_LINK_SCAN_SLIDES]:
+        if is_hidden(slide):
+            continue
+        for shape in slide.shapes:
+            if not shape.has_text_frame:
+                continue
+            for para in shape.text_frame.paragraphs:
+                label = para.text.strip()
+                if not label:
+                    continue
+                url = None
+                for run in para.runs:
+                    try:
+                        addr = run.hyperlink.address
+                    except Exception:
+                        addr = None
+                    if addr and "dropbox.com" in addr.lower():
+                        url = addr
+                        break
+                if url and not _is_video_dropbox_label(label):
+                    links.append({"label": label, "url": url})
+    return links
+
+
+# Words stripped before comparing a Dropbox link's label against a
+# campaign name — sit around the meaningful part of the label ("TMP
+# Summer Campaign") but never appear on the campaign banner ("SUMMER").
+_DROPBOX_LABEL_FILLER_WORDS = {"tmp", "campaign"}
+
+
+def _strip_trailing_parenthetical(text):
+    # "TMP April IG (Batch 2)" -> "TMP April IG"; also drops "(Photos)".
+    return re.sub(r"\s*\([^)]*\)\s*$", "", text).strip()
+
+
+def _is_video_dropbox_label(label):
+    m = re.search(r"\(([^)]*)\)\s*$", label)
+    annotation = m.group(1) if m else ""
+    return bool(re.search(r"\bvideos?\b", annotation, flags=re.IGNORECASE))
+
+
+def _dropbox_match_tokens(text):
+    # "&" and "and" are used interchangeably between the campaign banner
+    # and the Dropbox label ("Health & Wellness" vs "Health And Wellness")
+    # — normalize_title would otherwise drop "&" as punctuation, so spell
+    # it out first to make both forms produce the same "and" token.
+    text = text.replace("&", " and ")
+    return set(normalize_title(text).split()) - _DROPBOX_LABEL_FILLER_WORDS
+
+
+def _campaign_dropbox_tokens(campaign):
+    # `campaign` is already normalize_campaign()'d (e.g. "SUMMER CAMPAIGN").
+    return _dropbox_match_tokens(campaign)
+
+
+def _label_dropbox_tokens(label):
+    text = re.sub(r"^\s*TMP\s+", "", label, flags=re.IGNORECASE)
+    text = _strip_trailing_parenthetical(text)
+    return _dropbox_match_tokens(normalize_campaign(text))
+
+
+def _label_base_and_annotation(label):
+    """('health wellness', 'Batch 2') for 'TMP Health & Wellness (Batch
+    2)': the label with "TMP"/trailing parenthetical removed (lowercased,
+    for comparing whether two labels are otherwise identical), plus the
+    raw parenthetical text ('' if none)."""
+    text = re.sub(r"^\s*TMP\s+", "", label, flags=re.IGNORECASE)
+    m = re.search(r"\(([^)]*)\)\s*$", text)
+    annotation = m.group(1).strip() if m else ""
+    base = _strip_trailing_parenthetical(text).strip().lower()
+    return base, annotation
+
+
+_BATCH_SUFFIX_RE = re.compile(r"^batch\s*(\d+)$", re.IGNORECASE)
+
+
+def _resolve_duplicate_batch_links(found):
+    """`found` is {url: label} for several links that all matched the same
+    campaign. If they're the same label with only a trailing "(Batch N)"
+    (or no suffix at all) distinguishing them, they're duplicates of the
+    same folder rather than a genuine ambiguity — prefer the unsuffixed
+    label, else the lowest-numbered batch. Returns (url, label), or None
+    if the labels differ in some other way (a real ambiguity)."""
+    parsed = [(url, label, *_label_base_and_annotation(label)) for url, label in found.items()]
+    if len({base for _, _, base, _ in parsed}) != 1:
+        return None
+
+    unsuffixed = [p for p in parsed if not p[3]]
+    if unsuffixed:
+        url, label, _, _ = unsuffixed[0]
+        return url, label
+
+    numbered = []
+    for url, label, _, annotation in parsed:
+        m = _BATCH_SUFFIX_RE.match(annotation)
+        if not m:
+            return None
+        numbered.append((int(m.group(1)), url, label))
+    numbered.sort(key=lambda x: x[0])
+    _, url, label = numbered[0]
+    return url, label
+
+
+def assign_dropbox_urls(campaigns, pairs):
+    """Match each campaign's Dropbox photo-folder link (from every Recipe
+    & Captions deck in this run) by comparing its label's meaningful words
+    against the campaign name, and store it as campaigns[c]['dropboxUrl'].
+    Never guesses: a campaign with zero or multiple matching links is left
+    without one, and reported back as a warning to print/review instead.
+
+    Two campaigns can coincidentally normalize to the same words when a
+    deck's Download Link/s slide labels its link by shoot month rather
+    than content month (seen: a July shoot's only link read "TMP July
+    IG" while its items were filed as content month "AUGUST IG", and a
+    separate June-shot "JULY IG" campaign's own link collided with it).
+    To avoid that cross-contamination, each campaign is matched first
+    against links from only the deck(s) that contributed its items —
+    the full pool across every deck in the run is tried only if that
+    comes up empty."""
+    warnings = []
+    links_by_deck = {pair["yymm"]: pair["dropbox_links"] for pair in pairs}
+    all_links = [link for pair in pairs for link in pair["dropbox_links"]]
+    for campaign, entry in campaigns.items():
+        if not entry["items"]:
+            continue  # PPM-only campaign; no Recipe & Captions items to attach a link to
+        campaign_tokens = _campaign_dropbox_tokens(campaign)
+        if not campaign_tokens:
+            continue  # "(no banner text)" campaign; already flagged elsewhere
+        item_decks = {it["_deck"] for it in entry["items"]}
+        local_links = [link for deck in item_decks for link in links_by_deck.get(deck, [])]
+        found = {}
+        for pool in (local_links, all_links):
+            found = {
+                link["url"]: link["label"] for link in pool
+                if _label_dropbox_tokens(link["label"]) == campaign_tokens
+            }
+            if found:
+                break  # prefer the campaign's own deck(s); only widen the search if empty
+        if len(found) == 1:
+            entry["dropboxUrl"] = next(iter(found))
+        elif len(found) == 0:
+            warnings.append(
+                f"no Dropbox link found for campaign {campaign!r} in the first "
+                f"{DROPBOX_LINK_SCAN_SLIDES} slide(s) of any Recipe & Captions deck in this run "
+                f"— check the deck manually"
+            )
+        else:
+            resolved = _resolve_duplicate_batch_links(found)
+            if resolved is not None:
+                entry["dropboxUrl"], _ = resolved
+            else:
+                labels = ", ".join(repr(lbl) for lbl in found.values())
+                warnings.append(
+                    f"ambiguous Dropbox links for campaign {campaign!r} ({labels}) — "
+                    f"leaving dropboxUrl out; check the deck manually"
+                )
+    return warnings
 
 
 def banner_fill_color(shape):
@@ -651,7 +823,7 @@ def slugify(text):
     return text
 
 
-def write_js_file(out_path, shoot_type_label, items, generated_date):
+def write_js_file(out_path, shoot_type_label, items, generated_date, dropbox_url=None):
     var_name = re.sub(r"[^A-Z0-9]+", "_", shoot_type_label.upper()).strip("_") + "_DATA"
     lines = [
         f"// Shoot: {shoot_type_label}",
@@ -667,6 +839,11 @@ def write_js_file(out_path, shoot_type_label, items, generated_date):
         blocks.append("\n".join("  " + line for line in block.split("\n")))
     lines.append(",\n".join(blocks))
     lines.append("];")
+    if dropbox_url:
+        # Attached to the array itself (not a wrapper object) so existing
+        # consumers that treat window.__recipesData as a plain items array
+        # (e.g. index.html's data.forEach(...)) keep working unchanged.
+        lines.append(f"{var_name}.dropboxUrl = {json.dumps(dropbox_url)};")
     lines.append("")
     lines.append("if (typeof window !== 'undefined') window.__recipesData = " + var_name + ";")
     out_path.write_text("\n".join(lines), encoding="utf-8")
@@ -686,16 +863,21 @@ def load_deck_pair(yymm, recipe_path, preprod_path):
 
     print(f"[{yymm}] Reading items from Recipe & Captions deck: {recipe_path}")
     item_warnings = []
-    items, _prs = extract_items(recipe_path, category_lookup, item_warnings, title_lookup)
+    items, prs = extract_items(recipe_path, category_lookup, item_warnings, title_lookup)
     warnings.extend(f"[{yymm}] {w}" for w in item_warnings)
     for item in items:
         item["_deck"] = yymm
     print(f"[{yymm}]   -> {len(items)} items extracted")
 
+    dropbox_links = find_dropbox_links(prs)
+    print(f"[{yymm}]   -> {len(dropbox_links)} Dropbox link(s) found in the first "
+          f"{DROPBOX_LINK_SCAN_SLIDES} slide(s)")
+
     return {
         "yymm": yymm,
         "items": items,
         "preprod_banners": scan_preprod_banners(preprod_path),
+        "dropbox_links": dropbox_links,
         "warnings": warnings,
     }
 
@@ -784,6 +966,7 @@ def print_dry_run(campaigns, notes):
             size = (f"{counts['items']} item(s) / {counts['slides']} slide(s)" if deck == "R&C"
                     else f"{counts['slides']} slide(s)")
             print(f"        {yymm} {deck:3}  {raw or '(no banner text)'!r:34} fill={color or 'none':16} {size}")
+        print(f"        dropboxUrl: {entry.get('dropboxUrl') or '(not found — see warnings below)'}")
 
     ppm_only = [c for c, e in campaigns.items() if not e["items"]]
     if ppm_only:
@@ -837,7 +1020,7 @@ def prompt_campaign_mapping(campaigns, mappable, out_dir):
     print("\nMap each campaign to the content month it should be filed under.")
     print("There is no default: shoot month and content month often differ.")
 
-    files = {}  # filename -> [label, items]
+    files = {}  # filename -> {"label": ..., "items": [...], "dropbox_urls": {url, ...}}
     for n, campaign in enumerate(mappable, 1):
         entry = campaigns[campaign]
         decks = sorted({it["_deck"] for it in entry["items"]})
@@ -846,10 +1029,14 @@ def prompt_campaign_mapping(campaigns, mappable, out_dir):
         yymm = _ask("    content month (YYMM)", None, _parse_yymm)
         label = _ask("    file label", _default_label(campaign) or "Unsorted")
         filename = f"{yymm}-{slugify(label)}.js"
-        files.setdefault(filename, [label, []])[1].extend(entry["items"])
+        file_entry = files.setdefault(filename, {"label": label, "items": [], "dropbox_urls": set()})
+        file_entry["items"].extend(entry["items"])
+        if entry.get("dropboxUrl"):
+            file_entry["dropbox_urls"].add(entry["dropboxUrl"])
 
     print("\nPlanned output:")
-    for filename, (label, file_items) in files.items():
+    for filename, file_entry in files.items():
+        label, file_items, dropbox_urls = file_entry["label"], file_entry["items"], file_entry["dropbox_urls"]
         exists = "  (EXISTS — will be overwritten)" if (out_dir / filename).exists() else ""
         sources = ", ".join(
             f"{c} x{sum(1 for it in file_items if it['campaign'] == c)}"
@@ -860,13 +1047,19 @@ def prompt_campaign_mapping(campaigns, mappable, out_dir):
         dupes = sorted({c for c in codes if codes.count(c) > 1})
         if dupes:
             print(f"      ! duplicate layout code(s) in this file: {dupes}")
+        if len(dropbox_urls) > 1:
+            print(f"      ! {len(dropbox_urls)} different Dropbox links among the campaigns merged "
+                  f"into this file — leaving dropboxUrl out")
     if input("\nWrite these files? [y/N]: ").strip().lower() not in ("y", "yes"):
         return None
-    return [(filename, label, file_items) for filename, (label, file_items) in files.items()]
+    return [
+        (filename, fe["label"], fe["items"], next(iter(fe["dropbox_urls"])) if len(fe["dropbox_urls"]) == 1 else None)
+        for filename, fe in files.items()
+    ]
 
 
-def write_group(out_path, label, group_items):
-    write_js_file(out_path, label, group_items, date.today())
+def write_group(out_path, label, group_items, dropbox_url=None):
+    write_js_file(out_path, label, group_items, date.today(), dropbox_url)
     recipe_count = sum(1 for it in group_items if it["category"] == "RECIPE")
     other_count = len(group_items) - recipe_count
     print(f"  wrote {out_path}  ({len(group_items)} items: {recipe_count} RECIPE, {other_count} other)")
@@ -916,6 +1109,7 @@ def main():
     warnings = [w for pair in pairs for w in pair["warnings"]]
 
     campaigns = collect_campaigns(pairs)
+    warnings.extend(assign_dropbox_urls(campaigns, pairs))
     mappable = print_dry_run(campaigns, correlation_checks(pairs))
     print_warnings(warnings, items)
 
@@ -942,9 +1136,9 @@ def main():
 
     out_dir.mkdir(parents=True, exist_ok=True)
     print()
-    for filename, label, file_items in plan:
-        write_group(out_dir / filename, label, file_items)
-    for filename, label, file_items in plan:
+    for filename, label, file_items, dropbox_url in plan:
+        write_group(out_dir / filename, label, file_items, dropbox_url)
+    for filename, label, file_items, dropbox_url in plan:
         print(f"\n=== {filename} ===", end="")
         print_brand_summary(file_items)
     print("\nRun generate_recipes_index.py to add a recipes-index.js entry for each file.")

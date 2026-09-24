@@ -119,5 +119,6 @@ const AMERICAN_FESTIVAL_DATA = [
     "needsPhotoSwap": true
   }
 ];
+AMERICAN_FESTIVAL_DATA.dropboxUrl = "https://www.dropbox.com/scl/fo/e8kumo972zdz5by97p7r4/AOlR-0yyLNbwnG0Ya_mBsdA?rlkey=sn5ptb08z1vhnyaflbntyxgnn&st=vu1xlcwq&dl=0";
 
 if (typeof window !== 'undefined') window.__recipesData = AMERICAN_FESTIVAL_DATA;

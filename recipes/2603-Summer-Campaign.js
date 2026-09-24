@@ -176,5 +176,6 @@ const SUMMER_CAMPAIGN_DATA = [
     "needsPhotoSwap": true
   }
 ];
+SUMMER_CAMPAIGN_DATA.dropboxUrl = "https://www.dropbox.com/scl/fo/u32us5sg2eolkoad2r6e9/AHnovffg_6VsZP2z0WTqQW4?rlkey=2pl7dpwf74s29ttjowzbfqoy3&st=lf8e7w4u&dl=0";
 
 if (typeof window !== 'undefined') window.__recipesData = SUMMER_CAMPAIGN_DATA;

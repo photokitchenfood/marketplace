@@ -320,5 +320,6 @@ const EASTER_CAMPAIGN_DATA = [
     "needsPhotoSwap": true
   }
 ];
+EASTER_CAMPAIGN_DATA.dropboxUrl = "https://www.dropbox.com/scl/fo/4s5unfd4w2kn2s028g2lk/AHMDvj9mXvOVcCBh9np7X90?rlkey=cstq15ebpbtbykdqrmlw06h2l&st=biosuf7x&dl=0";
 
 if (typeof window !== 'undefined') window.__recipesData = EASTER_CAMPAIGN_DATA;

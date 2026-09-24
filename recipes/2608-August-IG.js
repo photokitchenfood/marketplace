@@ -50,5 +50,6 @@ const AUGUST_IG_DATA = [
     "needsPhotoSwap": true
   }
 ];
+AUGUST_IG_DATA.dropboxUrl = "https://www.dropbox.com/scl/fo/p4q5b0wls48wub1u7pzue/AOOoamvFJ5F5o3zkEFn7x3g?rlkey=lwxll6et5pkasqzepceqf0m9w&st=lcov9xkc&dl=0";
 
 if (typeof window !== 'undefined') window.__recipesData = AUGUST_IG_DATA;

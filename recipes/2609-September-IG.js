@@ -119,5 +119,6 @@ const SEPTEMBER_IG_DATA = [
     "needsPhotoSwap": true
   }
 ];
+SEPTEMBER_IG_DATA.dropboxUrl = "https://www.dropbox.com/scl/fo/0m6piu94urtlwj0eu54mb/AIpHwWvcA9tO4lSCFXLzQE4?rlkey=bt0om03ps5iniy6plh83mx1sg&st=3bhh5rtf&dl=0";
 
 if (typeof window !== 'undefined') window.__recipesData = SEPTEMBER_IG_DATA;

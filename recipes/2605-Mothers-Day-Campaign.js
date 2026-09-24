@@ -84,5 +84,6 @@ const MOTHERS_DAY_CAMPAIGN_DATA = [
     "needsPhotoSwap": true
   }
 ];
+MOTHERS_DAY_CAMPAIGN_DATA.dropboxUrl = "https://www.dropbox.com/scl/fo/7ovufybxx2yn5bha17lpd/ACwfcrBRfbs2XTXdeJwQsRY?rlkey=3vxay0lvnf1zvs9bvqpjtqysa&st=fv3fnj9q&dl=0";
 
 if (typeof window !== 'undefined') window.__recipesData = MOTHERS_DAY_CAMPAIGN_DATA;

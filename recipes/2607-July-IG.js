@@ -27,5 +27,6 @@ const JULY_HIGHLIGHT_DATA = [
     "needsPhotoSwap": true
   }
 ];
+JULY_HIGHLIGHT_DATA.dropboxUrl = "https://www.dropbox.com/scl/fo/zvqyf3dfrqlsnh301pe94/AL-z8teNRybLIK5Dc6FrHAw?rlkey=gpgktplbhfhrp38oyf8ufvyat&st=utxs6ry9&dl=0";
 
 if (typeof window !== 'undefined') window.__recipesData = JULY_HIGHLIGHT_DATA;

@@ -199,5 +199,6 @@ const SHOP_COLLECT_PHOTOS_DATA = [
     "needsPhotoSwap": true
   }
 ];
+SHOP_COLLECT_PHOTOS_DATA.dropboxUrl = "https://www.dropbox.com/scl/fo/lhxdbros9uqav84qbsynu/ALlpyU6gtZRmdRKmn_7Xsyo?rlkey=qifk4r85mcl0d38plwkhv6sb4&st=d3xu9gd9&dl=0";
 
 if (typeof window !== 'undefined') window.__recipesData = SHOP_COLLECT_PHOTOS_DATA;
