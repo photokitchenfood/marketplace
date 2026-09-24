@@ -13,22 +13,25 @@
   pointing at those files whenever convenient; nothing else needs to change.
 -->
 <style>
+/* Local PhotoKitchen wordmark font — scoped to .logo/.pw-logo only below;
+   everything else keeps the Google Fonts stack imported above. */
+@font-face{font-family:"Engineer Heavy";src:url("assets/fonts/engineer-heavy.ttf") format("truetype");font-weight:400;font-style:normal;font-display:swap}
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 :root{
   --bg:#F5F2EE;--surface:#FFFFFF;--ink:#1A1A18;--ink-soft:#6B6860;
   --ink-faint:#C4C0B8;--tag-bg:#EFEFEB;--tag-border:#DEDAD4;
-  --recipe:#91D0D7;--recipe-bg:#E4F3F5;
-  --oop:#DD7E6B;--oop-bg:#F7DFDA;
-  --oopfs:#C9958A;--oopfs-bg:#F2E5E2;
-  --nonfood:#FFAB40;--nonfood-bg:#FFEACF;
-  --group:#8E7CC3;--group-bg:#E3DEF0;
+  --recipe:#91D0D7;
+  --oop:#DD7E6B;
+  --oopfs:#E6B8AF;
+  --nonfood:#FFAB40;
+  --group:#8E7CC3;
   --radius:4px;--card-radius:8px;
 }
 body{font-family:"DM Mono",monospace;background:var(--bg);color:var(--ink);min-height:100vh}
 
 /* HEADER */
 header{background:var(--ink);color:#fff;display:flex;align-items:center;justify-content:space-between;height:64px;padding:0 24px;position:sticky;top:0;z-index:100}
-.logo{font-family:"Barlow Semi Condensed",sans-serif;font-size:23px}
+.logo{font-family:"Engineer Heavy","Barlow Semi Condensed",sans-serif;font-size:23px}
 .header-meta{font-size:11px;color:#888;letter-spacing:.08em;text-transform:uppercase}
 .header-right{display:flex;align-items:center;gap:12px}
 .mode-toggle{display:flex;background:rgba(255,255,255,.1);border-radius:6px;padding:3px;gap:2px}
@@ -42,7 +45,7 @@ header{background:var(--ink);color:#fff;display:flex;align-items:center;justify-
 #pw-gate{position:fixed;inset:0;background:var(--ink);z-index:9999;display:flex;align-items:center;justify-content:center}
 #pw-gate.hidden{display:none}
 .pw-box{display:flex;flex-direction:column;align-items:center;gap:20px;width:320px}
-.pw-logo{font-family:"Barlow Semi Condensed",sans-serif;font-size:26px;color:#fff;letter-spacing:0;margin-bottom:4px}
+.pw-logo{font-family:"Engineer Heavy","Barlow Semi Condensed",sans-serif;font-size:26px;color:#fff;letter-spacing:0;margin-bottom:4px}
 .pw-label{font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:#888;font-family:"DM Mono",monospace}
 .pw-input-wrap{width:100%;position:relative}
 #pw-input{width:100%;background:#2A2A28;border:1.5px solid #3A3A38;border-radius:6px;padding:11px 44px 11px 14px;font-family:"DM Mono",monospace;font-size:13px;color:#fff;outline:none;transition:border-color .15s;letter-spacing:.08em}
@@ -133,11 +136,11 @@ main.content{padding:28px 32px}
 
 /* CATEGORY BADGE — styled like the Surfaces size-badge */
 .pill{font-size:9px;font-weight:500;padding:2px 8px;border-radius:100px;white-space:nowrap;flex-shrink:0;letter-spacing:.04em;text-transform:uppercase;font-family:"DM Mono",monospace}
-.pill.recipe{color:var(--recipe);background:var(--recipe-bg)}
-.pill.oop{color:var(--oop);background:var(--oop-bg)}
-.pill.oopfs{color:var(--oopfs);background:var(--oopfs-bg)}
-.pill.nonfood{color:var(--nonfood);background:var(--nonfood-bg)}
-.pill.group{color:var(--group);background:var(--group-bg)}
+.pill.recipe{color:#000;background:var(--recipe)}
+.pill.oop{color:#000;background:var(--oop)}
+.pill.oopfs{color:#000;background:var(--oopfs)}
+.pill.nonfood{color:#000;background:var(--nonfood)}
+.pill.group{color:#000;background:var(--group)}
 
 /* SEARCH ROW (Catalog + Shuffler both use this) */
 .searchRow{display:flex;gap:10px;margin-bottom:18px}
