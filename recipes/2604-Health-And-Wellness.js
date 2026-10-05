@@ -5,7 +5,7 @@
 const HEALTH_AND_WELLNESS_DATA = [
   {
     "layoutCode": "HW1",
-    "layoutName": "",
+    "layoutName": "Mr. Muscle Mold & Mildew Remover",
     "category": "NON-FOOD",
     "campaign": "HEALTH AND WELLNESS",
     "caption": "One of those things you’re glad to have on hand, Mr. Muscle Mold & Mildew Remover tackles the spots that tend to build up over time: bathroom corners, tiles, and damp areas, helping lift stains and keep surfaces looking clean again. 🧼\n\nThe spray format makes it easy to target where you need it, cutting through buildup without the extra effort. A practical essential for everyday upkeep, pick up a bottle of it at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
