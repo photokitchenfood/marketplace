@@ -73,7 +73,7 @@ const VALENTINES_DATA = [
     "campaign": "VALENTINES",
     "caption": "Sometimes romance is as simple as a cherry, a dip and a little chocolate magic. 🍒🍫\n\nThese Chocolate Coated Cherries turn a Valentine’s favorite into something playful and poppable, finished with Hershey’s Milk Chocolate Kisses — an icon of February gifting, love notes and sweet surprises. 💌✨\n\nGlossy chocolate, creamy centers, a sprinkle on top… just enough sweetness to say, “I made these for you!” 💕 Try the recipe at home and get everything you need from The Marketplace. 🛒💖💋\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Hershey’s Milk Chocolate Kisses"
+      "Hershey's"
     ],
     "recipe": {
       "servingTime": "2 hours and 30 minutes",
@@ -96,7 +96,7 @@ const VALENTINES_DATA = [
     "campaign": "VALENTINES",
     "caption": "Not every Valentine’s gift needs a grand speech, and the Lindt Lindor Heart keeps it simple with its smooth chocolate, a melt-in-the-mouth center, and a heart tin that feels familiar in the best way possible. ❤️🍫\n\nIt’s an easy yes for February gifting, whether you’re sharing or keeping a few for yourself. ✨ Pick one up from The Marketplace today! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Lindt Lindor Heart"
+      "Lindt"
     ],
     "recipe": null,
     "photo": {
@@ -113,7 +113,7 @@ const VALENTINES_DATA = [
     "campaign": "VALENTINES",
     "caption": "This is the kind of Valentine’s treat you make together. These Cupid Heart Cupcakes turn baking into a hands-on, laugh-filled activity with frosting hearts, lining up sprinkles and finishing each one with a playful arrow made from Pocky Crushed Fruits Strawberry. 🍓\n\nA little time, a little mess and a whole lot of love go into these, which is exactly why they make such a meaningful gifts. 🧁 Make them with friends, family or someone special, and let the effort speak for itself. ❤️ Find everything you need at The Marketplace! 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Pocky Crushed Fruits Strawberry"
+      "Pocky"
     ],
     "recipe": {
       "servingTime": "45-50 minutes",
@@ -136,7 +136,7 @@ const VALENTINES_DATA = [
     "campaign": "VALENTINES",
     "caption": "This is where steak night meets Caprese comfort. 🥩🍅\n\nCanada Angus Beef Chuck Eye Steak is seared until deeply caramelized, then finished with a glossy balsamic glaze that brings just the right balance of sweet and tang. Add blistered cherry tomatoes, creamy mozzarella and fresh basil, and you’ve got a dish that’s rich yet bright: classic flavors, pulled together with confidence. ✨🌿\n\nCook it at home and pick up everything you need from The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Canada Angus Beef Chuck Eye Steak"
+      "Canada Angus Beef"
     ],
     "recipe": {
       "servingTime": "20-25 minutes",

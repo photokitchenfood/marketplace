@@ -10,7 +10,7 @@ const TMP_X_ANYA_DATA = [
     "campaign": "TMP X ANYA",
     "caption": "Grocery shopping just got a little more joyful with these collaboration tote bags designed in partnership with Anya Hindmarch! 🛍️✨\n\nThoughtful, reusable and just right for different grocery needs, the Anya Big Bag & Anya Small Bag bring a playful design sensibility to everyday errands. They also make clever gifts and even better companions for trips to The Marketplace. Grab yours today! 💛\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Anya Big Bag & Anya Small Bag"
+      "Anya Hindmarch"
     ],
     "recipe": null,
     "photo": {

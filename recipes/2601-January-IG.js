@@ -10,7 +10,7 @@ const JANUARY_IG_DATA = [
     "campaign": "JANUARY IG",
     "caption": "This Coconut Matcha Cold Foam is a small reset in a glass. 🍵🥥 \n\nEarthy matcha is whipped into a light, creamy foam and then spooned over ice-cold Vita Coco Coconut Water for a clean, gently sweet finish. It’s cooling, energizing and simply the perfect companion for slow mornings or mid-afternoon pauses. ✨❄️\n\nMake it at home and grab everything you need from The Marketplace! 🛒💚\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Vita Coco Coconut Water"
+      "Vita Coco"
     ],
     "recipe": {
       "servingTime": "5 minutes",
@@ -33,7 +33,7 @@ const JANUARY_IG_DATA = [
     "campaign": "JANUARY IG",
     "caption": "This skillet brings the comfort first: smoky paprika, garlicky rice, sweet peppers and slices of Hungarian-style sausage sizzling together. 🍳🌶️ \n\nEvery bite is savory, a little spicy, deeply satisfying… and here’s the twist: there’s no meat involved! 🌱✨\n\nMade with unMEAT Hungarian Sausages, this dish eats like a classic weeknight favorite, just lighter and plant-based without feeling like it’s missing a thing. Try it at home and grab everything you need from The Marketplace today! 🛒🥄\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "unMEAT Hungarian Sausages"
+      "unMEAT"
     ],
     "recipe": {
       "servingTime": "20-25 minutes",
