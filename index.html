@@ -20,6 +20,7 @@
   --oopfs:#E6B8AF;
   --nonfood:#FFAB40;
   --group:#8E7CC3;
+  --eap:#76A5AF;
   --radius:4px;--card-radius:8px;
 }
 body{font-family:"DM Mono",monospace;background:var(--bg);color:var(--ink);min-height:100vh}
@@ -70,6 +71,7 @@ aside.tree-pane{flex:1;padding:20px 14px;overflow-y:auto}
 #typeFilters .chip[data-cat="OUT OF PACK W/ FOOD STYLING"].active{background:var(--oopfs)}
 #typeFilters .chip[data-cat="NON-FOOD"].active{background:var(--nonfood)}
 #typeFilters .chip[data-cat="GROUP SHOT"].active{background:var(--group)}
+#typeFilters .chip[data-cat="EAP"].active{background:var(--eap)}
 .sidebar-footer{flex-shrink:0;padding:10px 14px 14px;border-top:1px solid var(--tag-border);background:var(--surface)}
 .sidebar-footer .reset-btn{margin-top:0}
 .reset-btn{width:100%;padding:8px;background:transparent;border:1.5px solid var(--tag-border);border-radius:var(--radius);font-family:"DM Mono",monospace;text-transform:uppercase;font-size:11px;color:var(--ink-soft);cursor:pointer;letter-spacing:.05em;transition:all .15s;margin-top:6px}
@@ -153,6 +155,7 @@ main.content{padding:28px 32px}
 .pill.oopfs{color:#000;background:var(--oopfs)}
 .pill.nonfood{color:#000;background:var(--nonfood)}
 .pill.group{color:#000;background:var(--group)}
+.pill.eap{color:#000;background:var(--eap)}
 
 /* SEARCH ROW (Catalog + Shuffler both use this) */
 .searchRow{display:flex;gap:10px;margin-bottom:18px}
@@ -253,6 +256,7 @@ main.content{padding:28px 32px}
           <button class="chip" data-cat="OUT OF PACK W/ FOOD STYLING">Out of Pack + Styling</button>
           <button class="chip" data-cat="NON-FOOD">Non-Food</button>
           <button class="chip" data-cat="GROUP SHOT">Group Shot</button>
+          <button class="chip" data-cat="EAP">EAP</button>
         </div>
       </div>
       <div id="shootsSection">
@@ -559,7 +563,8 @@ const CATEGORY_META = {
   "OUT OF PACK": {cls:"oop", label:"Out of Pack"},
   "OUT OF PACK W/ FOOD STYLING": {cls:"oopfs", label:"Out of Pack + Styling"},
   "NON-FOOD": {cls:"nonfood", label:"Non-Food"},
-  "GROUP SHOT": {cls:"group", label:"Group Shot"}
+  "GROUP SHOT": {cls:"group", label:"Group Shot"},
+  "EAP": {cls:"eap", label:"EAP"}
 };
 
 let currentShoot = null; // {id,label,type,varName,data}

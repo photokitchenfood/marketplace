@@ -13,7 +13,7 @@ Two source decks are read:
   --preprod-deck  The month's "Pre-Prod Deck" export. The Recipe & Captions
                    Deck carries no category label anywhere (confirmed by
                    diagnose_deck.py), so category (RECIPE / OUT OF PACK /
-                   OUT OF PACK W/ FOOD STYLING / NON-FOOD / GROUP SHOT) is
+                   OUT OF PACK W/ FOOD STYLING / NON-FOOD / GROUP SHOT / EAP) is
                    looked up from the Pre-Prod deck by matching layout code.
 
 All fields are read by position ("drop zone"), not by placeholder name or
@@ -82,6 +82,7 @@ KNOWN_CATEGORIES = [
     "OUT OF PACK",
     "NON-FOOD",
     "GROUP SHOT",
+    "EAP",
 ]
 
 # Bolded phrases matching any of these (case-insensitive, matched after
@@ -238,7 +239,7 @@ def find_dropbox_links(prs):
 # Words stripped before comparing a Dropbox link's label against a
 # campaign name — sit around the meaningful part of the label ("TMP
 # Summer Campaign") but never appear on the campaign banner ("SUMMER").
-_DROPBOX_LABEL_FILLER_WORDS = {"tmp", "campaign"}
+_DROPBOX_LABEL_FILLER_WORDS = {"tmp", "campaign", "collaboration"}
 
 
 def _strip_trailing_parenthetical(text):
@@ -769,7 +770,8 @@ def extract_items(recipe_path, category_lookup, warnings, title_lookup=None):
                     f"photo slide title {layout_name!r} (proceeding anyway)"
                 )
 
-            item["category"] = "RECIPE"
+            # a Pre-Prod EAP slide with recipe slides keeps its recipe, but files as EAP
+            item["category"] = "EAP" if category_lookup.get(layout_code) == "EAP" else "RECIPE"
 
             serving_ph = find_placeholder(recipe_slide, idx=2, ptype=PP_PLACEHOLDER.BODY)
             ingredients_ph = find_placeholder(recipe_slide, idx=3, ptype=PP_PLACEHOLDER.BODY)
