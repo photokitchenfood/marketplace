@@ -41,7 +41,7 @@ const RECIPES_INDEX = [
   },
   {
     "id": "2607-July-IG",
-    "label": "July Highlight",
+    "label": "July IG",
     "type": "photo",
     "year": 2026,
     "month": 7,

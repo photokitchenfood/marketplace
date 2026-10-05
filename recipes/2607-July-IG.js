@@ -1,13 +1,13 @@
-// Shoot: July Highlight
+// Shoot: July IG
 // Generated: 2026-09-23
 // Items: 1
 
-const JULY_HIGHLIGHT_DATA = [
+const JULY_IG_DATA = [
   {
     "layoutCode": "JH1",
     "layoutName": "Rice Paper Nachos",
     "category": "RECIPE",
-    "campaign": "JULY HIGHLIGHT",
+    "campaign": "JULY IG",
     "caption": "Nachos, but with a light and crispy twist. ✨\nThese Rice Paper Nachos turn Mondial Real Thai Rice Paper into airy, crunchy chips that puff up beautifully in seconds. Topped with crispy tofu, shredded cabbage, carrots, green onions, and roasted peanuts, every bite brings a fun mix of crunch, freshness, and savory flavor.\nServed with a creamy peanut dipping sauce on the side, it’s a playful snack or sharing plate that feels easy, colorful, and a little unexpected. Pick up Mondial Real Thai Rice Paper and all the ingredients you need at The Marketplace! 🛒\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Mondial"
@@ -27,6 +27,6 @@ const JULY_HIGHLIGHT_DATA = [
     "needsPhotoSwap": true
   }
 ];
-JULY_HIGHLIGHT_DATA.dropboxUrl = "https://www.dropbox.com/scl/fo/zvqyf3dfrqlsnh301pe94/AL-z8teNRybLIK5Dc6FrHAw?rlkey=gpgktplbhfhrp38oyf8ufvyat&st=utxs6ry9&dl=0";
+JULY_IG_DATA.dropboxUrl = "https://www.dropbox.com/scl/fo/zvqyf3dfrqlsnh301pe94/AL-z8teNRybLIK5Dc6FrHAw?rlkey=gpgktplbhfhrp38oyf8ufvyat&st=utxs6ry9&dl=0";
 
-if (typeof window !== 'undefined') window.__recipesData = JULY_HIGHLIGHT_DATA;
+if (typeof window !== 'undefined') window.__recipesData = JULY_IG_DATA;

@@ -35,7 +35,8 @@ campaign like April IG spans both). Every run:
      that campaign's items from whichever deck(s) they're in.
 
 Campaign names are normalized for the output `campaign` field and for
-grouping: "Highlight" / "Instagram" -> "IG", case and apostrophes ignored.
+grouping: "Highlight" / "Instagram" -> "IG", the word "Campaign" is dropped,
+case and apostrophes ignored.
 Slides are correlated between the two decks by layout code, never by
 banner text, so the decks' inconsistent labels can't mismatch slides. If a
 layout code is missing from the PPM deck (slides left with the template's
@@ -194,10 +195,13 @@ def normalize_campaign(text):
     the same IG content inconsistently ("MARCH HIGHLIGHT" vs "MARCH
     INSTAGRAM", "JULY IG" vs "JULY HIGHLIGHT"), and differ in case and
     apostrophes ("MOTHERS’ DAY" vs "MOTHERS DAY") — all map to one name
-    using "IG"."""
+    using "IG". The word "CAMPAIGN" is dropped ("EASTER CAMPAIGN" ->
+    "EASTER") to match the catalog's shortened display names."""
     text = re.sub(r"['‘’]", "", text.upper())
     text = re.sub(r"\b(?:INSTAGRAM|HIGHLIGHTS?)\b", "IG", text)
-    return " ".join(text.split())
+    stripped = " ".join(re.sub(r"\bCAMPAIGNS?\b", " ", text).split())
+    # A banner that is only the word "CAMPAIGN" keeps it rather than going blank.
+    return stripped or " ".join(text.split())
 
 
 def find_dropbox_links(prs):

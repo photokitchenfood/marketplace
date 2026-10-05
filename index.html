@@ -6,12 +6,6 @@
 <title>[RECIPES] The Marketplace Photos Catalog</title>
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🥗</text></svg>">
 <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400&family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300&family=Syne:wght@400;500;600;700;800&family=Spline+Sans:wght@400;500&display=swap" rel="stylesheet">
-<!--
-  NOTE: pulling fonts from Google Fonts here for now, same as the Surfaces
-  Catalog's fallback. Andi mentioned the PhotoKitchen fonts already live in
-  the repo's assets folder — swap this <link> for local @font-face rules
-  pointing at those files whenever convenient; nothing else needs to change.
--->
 <style>
 /* Local PhotoKitchen wordmark font — scoped to .logo/.pw-logo only below;
    everything else keeps the Google Fonts stack imported above. */
@@ -68,6 +62,18 @@ aside.tree-pane{flex:1;padding:20px 14px;overflow-y:auto}
 .chip{font-family:"DM Mono",monospace;font-size:10.5px;padding:4px 10px;border-radius:100px;border:1.5px solid var(--tag-border);background:transparent;color:var(--ink-soft);cursor:pointer;transition:all .15s;white-space:nowrap}
 .chip:hover{border-color:var(--ink);color:var(--ink)}
 .chip.active{background:var(--ink);border-color:var(--ink);color:#fff}
+/* Type chips: neutral outline like other chips; solid palette fill only when selected. */
+#typeFilters .chip[data-cat]:not([data-cat="all"]).active{color:#000;border-color:transparent;font-weight:700}
+#typeFilters .chip[data-cat="RECIPE"].active{background:var(--recipe)}
+#typeFilters .chip[data-cat="OUT OF PACK"].active{background:var(--oop)}
+#typeFilters .chip[data-cat="OUT OF PACK W/ FOOD STYLING"].active{background:var(--oopfs)}
+#typeFilters .chip[data-cat="NON-FOOD"].active{background:var(--nonfood)}
+#typeFilters .chip[data-cat="GROUP SHOT"].active{background:var(--group)}
+.sidebar-footer{flex-shrink:0;padding:10px 14px 14px;border-top:1px solid var(--tag-border);background:var(--surface)}
+.sidebar-footer .reset-btn{margin-top:0}
+.reset-btn{width:100%;padding:8px;background:transparent;border:1.5px solid var(--tag-border);border-radius:var(--radius);font-family:"DM Mono",monospace;text-transform:uppercase;font-size:11px;color:var(--ink-soft);cursor:pointer;letter-spacing:.05em;transition:all .15s;margin-top:6px}
+.reset-btn:hover{border-color:var(--ink);color:var(--ink)}
+.reset-btn.idle{opacity:.45}
 #brandTreeSearch{display:block;width:100%;padding:6px 10px;border:1.5px solid var(--tag-border);border-radius:var(--radius);font-family:"DM Mono",monospace;font-size:11px;background:var(--surface);color:var(--ink);outline:none}
 #brandTreeSearch:focus{border-color:var(--ink)}
 #brandTreeSearch::placeholder{color:var(--ink-faint)}
@@ -91,7 +97,8 @@ aside.tree-pane::-webkit-scrollbar-thumb{background:var(--ink-faint);border-radi
 /* MAIN */
 main.content{padding:28px 32px}
 .results-bar{display:flex;align-items:center;justify-content:space-between;margin-bottom:20px}
-#crumbLine:not(.placeholder){display:flex;align-items:baseline;gap:8px;font-family:"Syne",sans-serif;font-size:25px;font-weight:700;line-height:1.1;color:var(--ink)}
+#crumbLine:not(.placeholder),#shufflerCrumbLine{display:flex;align-items:baseline;gap:8px;font-family:"Syne",sans-serif;font-size:25px;font-weight:700;line-height:1.1;color:var(--ink)}
+#shufflerCrumbLine{flex-wrap:wrap}
 .crumbTitle{font-family:"Syne",sans-serif;font-size:25px;font-weight:700;line-height:1.1;color:var(--ink)}
 .crumbMeta{font-family:"DM Mono",monospace;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-faint);margin-top:6px}
 .crumbSep{color:var(--ink-faint);font-size:16px;font-weight:400}
@@ -121,17 +128,20 @@ main.content{padding:28px 32px}
 .landing-cat-desc{font-family:"Syne",sans-serif;font-size:13px;color:#999;line-height:1.4}
 
 /* CARD */
-.card{background:var(--surface);border-radius:var(--card-radius);border:1px solid var(--tag-border);overflow:hidden;position:relative;display:flex;flex-direction:column;cursor:pointer;transition:box-shadow .2s,transform .2s;animation:fadeIn .25s ease both}
+.card{container-type:inline-size;background:var(--surface);border-radius:var(--card-radius);border:1px solid var(--tag-border);overflow:hidden;position:relative;display:flex;flex-direction:column;cursor:pointer;transition:box-shadow .2s,transform .2s;animation:fadeIn .25s ease both}
 @keyframes fadeIn{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
 .card:hover{box-shadow:0 6px 24px rgba(0,0,0,.09);transform:translateY(-2px)}
 .card-img{width:100%;aspect-ratio:1/1;background:#F0EDE8;overflow:hidden;position:relative}
 .card-img img{width:100%;height:100%;object-fit:cover;display:block}
 .swapFlag{position:absolute;top:8px;left:8px;background:#fff8dc;border:1px solid #D4A800;font-size:11px;line-height:1;padding:3px 5px;border-radius:100px}
 .card-body{padding:11px 13px 13px;display:flex;flex-direction:column;gap:10px;flex:1}
-.card-tags{display:flex;flex-direction:column;gap:6px;align-items:flex-start;margin-top:auto}
+.card-tags{display:flex;flex-direction:row;flex-wrap:nowrap;gap:6px;align-items:center;margin-top:auto;min-width:0}
+.card-tags .tag{min-width:0;flex:0 1 auto}
+@container (max-width:170px){.card-tags{flex-wrap:wrap}}
 .card-title{font-family:"Syne",sans-serif;font-weight:600;font-size:15px;line-height:1.1;color:var(--ink)}
 .card-sub{font-size:10px;color:var(--ink-soft);letter-spacing:.02em}
 .tag{font-size:9px;padding:2px 7px;border-radius:3px;background:var(--tag-bg);border:1px solid var(--tag-border);color:var(--ink-soft);letter-spacing:.04em;text-transform:uppercase;display:inline-flex;align-items:center;gap:5px;width:fit-content}
+.tag-text{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .tag-dot{width:6px;height:6px;border-radius:50%;border:1px solid rgba(0,0,0,.1);flex-shrink:0}
 
 /* CATEGORY BADGE — styled like the Surfaces size-badge */
@@ -271,6 +281,7 @@ main.content{padding:28px 32px}
         </div>
       </div>
     </aside>
+    <div class="sidebar-footer"><button class="reset-btn idle" id="resetFiltersBtn">&#8634; Reset all filters</button></div>
   </div>
   <main class="content">
     <div id="catalogView">
@@ -349,6 +360,10 @@ main.content{padding:28px 32px}
       <div class="grid" id="catalogGrid"></div>
     </div>
     <div id="shufflerView" style="display:none;">
+      <div class="results-bar">
+        <div id="shufflerCrumbLine"><span>All Photos</span></div>
+        <div class="results-count"><span id="shufflerCountNum">&mdash;</span> items</div>
+      </div>
       <div class="searchRow">
         <input type="text" id="shufflerSearch" placeholder="Search all shoots &mdash; e.g. blueberries, ricotta, Nestl&eacute;&hellip;">
         <button class="shuf-btn" id="shufflerSearchBtn">&#128269; Search</button>
@@ -528,6 +543,15 @@ function itemBrandTags(item){
   return brands.length ? brands : [GENERIC_BRAND_LABEL];
 }
 
+// Display-only shoot/campaign name: drops "Campaign" and maps "Highlight" -> "IG"
+// ("Easter Campaign" -> "Easter", "July Highlight" -> "July IG"). Never use its
+// output for ids, file names or data written back by Save Changes.
+function shortShootName(name){
+  const raw = String(name || "").trim();
+  const out = raw.replace(/\bhighlights?\b/gi, "IG").replace(/\bcampaigns?\b/gi, " ").replace(/\s+/g, " ").trim();
+  return out || raw;
+}
+
 const CATEGORY_META = {
   "RECIPE": {cls:"recipe", label:"Recipe"},
   "OUT OF PACK": {cls:"oop", label:"Out of Pack"},
@@ -597,7 +621,7 @@ function buildTree(){
         const sLi = document.createElement("li");
         const sNode = document.createElement("div");
         sNode.className = "node leaf";
-        sNode.innerHTML = `<span class="caret"></span><span>${sh.label}</span><span class="count">${sh.count}</span>`;
+        sNode.innerHTML = `<span class="caret"></span><span>${escapeHTML(shortShootName(sh.label))}</span><span class="count">${sh.count}</span>`;
         sNode.onclick = () => selectShoot(sh, sNode, {year: yr.year, month: mo.monthLabel, shootLabel: sh.label});
         sLi.appendChild(sNode);
         mUl.appendChild(sLi);
@@ -673,12 +697,17 @@ function toggleCollapse(nodeEl, ulEl){
 // gray — keeps some hierarchy without going back to three different sizes.
 // `month` carries its tree-matching numeric prefix ("03 March"), passed in
 // by the caller.
-function renderCrumb({year, month, shootLabel}){
+let lastCrumbParts = null; // so Type changes can re-render the Folders breadcrumb
+function renderCrumb(parts){
+  lastCrumbParts = parts;
+  const {year, month, shootLabel} = parts;
   const crumbEl = document.getElementById("crumbLine");
   crumbEl.classList.remove("placeholder");
   let html = `<span>${escapeHTML(String(year))}</span>`;
   if(month) html += `<span class="crumbSep">/</span><span>${escapeHTML(month)}</span>`;
-  if(shootLabel) html += `<span class="crumbSep">/</span><span class="crumbShootLabel">${escapeHTML(shootLabel)}</span>`;
+  if(shootLabel) html += `<span class="crumbSep">/</span><span class="crumbShootLabel">${escapeHTML(shortShootName(shootLabel))}</span>`;
+  const types = selectedTypeLabels();
+  if(types.length) html += `<span class="crumbSep">/</span><span class="crumbShootLabel">${escapeHTML(types.join(", "))}</span>`;
   crumbEl.innerHTML = html;
 }
 
@@ -745,7 +774,7 @@ function tint(hex, amount){
 }
 function campaignTagHTML(campaign){
   const c = campaignColor(campaign);
-  return `<span class="tag" style="border-color:${c};color:${c};background:${tint(c,0.85)}"><span class="tag-dot" style="background:${c}"></span>${escapeHTML(campaign || "")}</span>`;
+  return `<span class="tag" style="border-color:${c};color:${c};background:${tint(c,0.85)}"><span class="tag-dot" style="background:${c}"></span><span class="tag-text">${escapeHTML(shortShootName(campaign))}</span></span>`;
 }
 // Applies the same tag styling to an existing element in place (never replaces
 // it via outerHTML — doing that once destroyed the #modalPill element and broke
@@ -755,7 +784,7 @@ function applyCampaignTag(el, campaign){
   el.style.borderColor = c;
   el.style.color = c;
   el.style.background = tint(c, 0.85);
-  el.innerHTML = `<span class="tag-dot" style="background:${c}"></span>${escapeHTML(campaign || "")}`;
+  el.innerHTML = `<span class="tag-dot" style="background:${c}"></span><span class="tag-text">${escapeHTML(shortShootName(campaign))}</span>`;
 }
 
 function cardHTML(item, idx, sourceArrRef){
@@ -816,7 +845,11 @@ function renderGrid(gridEl, items){
   if(gridEl.id === "catalogGrid"){
     document.getElementById("resultsCountNum").textContent = items.length;
   }
+  if(gridEl.id === "shufflerGrid"){
+    document.getElementById("shufflerCountNum").textContent = items.length;
+  }
   updateDropboxButton(gridEl.id, items);
+  updateResetBtn();
   if(!items.length){
     gridEl.innerHTML = `<div class="empty">No items match your search.</div>`;
     return;
@@ -828,13 +861,13 @@ function renderGrid(gridEl, items){
 }
 
 // ---------- Search + Type filter (shared by both tabs) ----------
-let categoryFilter = "all";
+const typeFilters = new Set(); // selected CATEGORY_META keys; empty = no Type filter (OR within the set)
 
 function matchesQuery(item, q){
   if(!q) return true;
   q = q.toLowerCase();
   const hay = [
-    item.layoutName, item.category, item.campaign, item.caption,
+    item.layoutName, item.category, item.campaign, shortShootName(item.campaign), item.caption,
     item.recipe ? item.recipe.ingredients : "",
     item.recipe ? item.recipe.procedure : "",
     item.recipe ? item.recipe.tips : ""
@@ -843,7 +876,7 @@ function matchesQuery(item, q){
 }
 
 function matchesFilters(item, q){
-  if(categoryFilter !== "all" && item.category !== categoryFilter) return false;
+  if(typeFilters.size && !typeFilters.has(item.category)) return false;
   return matchesQuery(item, q);
 }
 
@@ -965,27 +998,97 @@ document.getElementById("brandGenericChip").addEventListener("click", (e) => {
   refreshCurrentView();
 });
 
+// Breadcrumb above the All Photos grid, mirroring the active filters:
+// All Photos / Type(s) / Year / Month / Brand / Search.
+// Labels of the selected Type chips, in chip order.
+function selectedTypeLabels(){
+  return Object.keys(CATEGORY_META).filter(k => typeFilters.has(k)).map(k => CATEGORY_META[k].label);
+}
+function renderShufflerCrumb(){
+  const q = document.getElementById("shufflerSearch").value.trim();
+  const big = ["All Photos"];
+  const types = selectedTypeLabels();
+  if(types.length) big.push(types.join(", "));
+  const small = [];
+  if(yearFilter !== "all") small.push(String(yearFilter));
+  if(monthFilter !== "all") small.push(MONTH_NAMES[monthFilter - 1] || String(monthFilter));
+  if(brandFilter !== "all") small.push(brandFilter);
+  if(q) small.push("Search: " + q);
+  document.getElementById("shufflerCrumbLine").innerHTML =
+    big.map(t => `<span>${escapeHTML(t)}</span>`)
+      .concat(small.map(t => `<span class="crumbShootLabel">${escapeHTML(t)}</span>`))
+      .join(`<span class="crumbSep">/</span>`);
+}
+
+function hasActiveFilters(){
+  const searchEl = document.getElementById(currentTab === "catalog" ? "catalogSearch" : "shufflerSearch");
+  const base = typeFilters.size > 0 || searchEl.value.trim() !== "";
+  if(currentTab === "catalog") return base;
+  return base || yearFilter !== "all" || monthFilter !== "all" || brandFilter !== "all";
+}
+function updateResetBtn(){
+  document.getElementById("resetFiltersBtn").classList.toggle("idle", !hasActiveFilters());
+}
+
 // Re-renders whichever grid is currently on screen, applying the current
 // search text (per its own tab) plus the shared Type filter.
 function refreshCurrentView(){
+  updateResetBtn();
   if(currentTab === "catalog"){
     if(!currentShoot) return;
+    if(lastCrumbParts) renderCrumb(lastCrumbParts);
     const q = document.getElementById("catalogSearch").value;
     renderGrid(document.getElementById("catalogGrid"), currentShoot.data.filter(it => matchesFilters(it, q)));
   } else {
+    renderShufflerCrumb();
     if(!shufflerBase) return;
     const q = document.getElementById("shufflerSearch").value;
     renderGrid(document.getElementById("shufflerGrid"), shufflerBase.filter(it => matchesShufflerFilters(it, q)));
   }
 }
 
+// Type chips are multi-select toggles (OR within Type, AND with everything else).
+// "All" = no chips selected; picking a chip drops "All", clearing the last chip restores it.
+const typeAllChip = document.querySelector('#typeFilters .chip[data-cat="all"]');
+function syncTypeChips(){
+  typeAllChip.classList.toggle("active", typeFilters.size === 0);
+  document.querySelectorAll("#typeFilters .chip").forEach(c => {
+    if(c.dataset.cat === "all") return;
+    const on = typeFilters.has(c.dataset.cat);
+    c.classList.toggle("active", on);
+    c.setAttribute("aria-pressed", on ? "true" : "false");
+  });
+}
 document.querySelectorAll("#typeFilters .chip").forEach(chip => {
   chip.addEventListener("click", () => {
-    document.querySelectorAll("#typeFilters .chip").forEach(c => c.classList.remove("active"));
-    chip.classList.add("active");
-    categoryFilter = chip.dataset.cat;
+    const cat = chip.dataset.cat;
+    if(cat === "all") typeFilters.clear();
+    else if(typeFilters.has(cat)) typeFilters.delete(cat);
+    else typeFilters.add(cat);
+    syncTypeChips();
     refreshCurrentView();
   });
+});
+
+// Clears Type, Year, Month, Brand and both search boxes. The selected Folders
+// shoot/group is left alone; All Photos goes back to the unfiltered state.
+document.getElementById("resetFiltersBtn").addEventListener("click", () => {
+  typeFilters.clear();
+  syncTypeChips();
+  yearFilter = "all";
+  monthFilter = "all";
+  brandFilter = "all";
+  ["#yearFilters", "#monthFilters"].forEach(sel => {
+    document.querySelectorAll(sel + " .chip").forEach(c => c.classList.remove("active"));
+    document.querySelector(sel + ' .chip[data-' + (sel === "#yearFilters" ? "year" : "month") + '="all"]').classList.add("active");
+  });
+  clearBrandSelection();
+  document.getElementById("brandAllChip").classList.add("active");
+  document.getElementById("brandTreeSearch").value = "";
+  filterBrandTree("");
+  document.getElementById("catalogSearch").value = "";
+  document.getElementById("shufflerSearch").value = "";
+  refreshCurrentView();
 });
 
 document.getElementById("catalogSearch").addEventListener("input", () => refreshCurrentView());
@@ -1237,6 +1340,7 @@ document.getElementById("logoHome").addEventListener("click", () => {
   document.getElementById("catalogSearch").value = "";
   document.getElementById("catalogSearchRow").classList.remove("show");
   document.getElementById("saveChangesBtn").classList.remove("show");
+  updateResetBtn();
   document.getElementById("catalogGrid").innerHTML = "";
   document.getElementById("landingPanel").style.display = "block";
   const crumbEl = document.getElementById("crumbLine");
