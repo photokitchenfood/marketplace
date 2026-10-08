@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta name="robots" content="noindex, nofollow">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Logo Placement Tool — The Marketplace</title>
@@ -645,6 +644,54 @@ function setDefaultColor(c) {
   document.getElementById('color-white-btn').className = 'color-toggle-btn' + (c==='white' ? ' active-white' : '');
   document.getElementById('color-black-btn').className = 'color-toggle-btn' + (c==='black' ? ' active-black' : '');
 }
+// Remove ONLY background connected to the image edges (white or black),
+// leaving anything enclosed by the logo (e.g. black lettering) untouched.
+function removeEdgeBackground(data, w, h) {
+  const N = w * h;
+  // 0 = not bg-like, 1 = white-like, 2 = black-like, 3 = already transparent
+  const kind = new Uint8Array(N);
+  for (let p = 0; p < N; p++) {
+    const i = p * 4, r = data[i], g = data[i+1], b = data[i+2], a = data[i+3];
+    if (a < 20) kind[p] = 3;
+    else if (Math.min(r, g, b) >= 245) kind[p] = 1;
+    else if (Math.max(r, g, b) < 40) kind[p] = 2;
+  }
+  const bg = new Uint8Array(N);          // 1 = flood-filled background
+  const stack = new Int32Array(N);       // pixel index stack
+  let sp = 0;
+  const seed = p => { if (kind[p] && !bg[p]) { bg[p] = 1; stack[sp++] = p; } };
+  for (let x = 0; x < w; x++) { seed(x); seed((h - 1) * w + x); }
+  for (let y = 0; y < h; y++) { seed(y * w); seed(y * w + w - 1); }
+  while (sp) {
+    const p = stack[--sp], x = p % w, y = (p / w) | 0, k = kind[p];
+    // same kind only, so a white fill can't wander into black (and vice versa)
+    if (x > 0     && !bg[p-1] && kind[p-1] === k) { bg[p-1] = 1; stack[sp++] = p-1; }
+    if (x < w-1   && !bg[p+1] && kind[p+1] === k) { bg[p+1] = 1; stack[sp++] = p+1; }
+    if (y > 0     && !bg[p-w] && kind[p-w] === k) { bg[p-w] = 1; stack[sp++] = p-w; }
+    if (y < h-1   && !bg[p+w] && kind[p+w] === k) { bg[p+w] = 1; stack[sp++] = p+w; }
+  }
+  // Defringe: one pass over pixels touching the removed area. Anti-aliased edge
+  // pixels that are mostly background (very light/dark) go too; the logo's own
+  // edge colour (tan, brown, etc.) is far from these thresholds and stays.
+  const fringe = [];
+  for (let p = 0; p < N; p++) {
+    if (bg[p]) continue;
+    const x = p % w, y = (p / w) | 0;
+    const touches = (x > 0 && bg[p-1]) || (x < w-1 && bg[p+1]) || (y > 0 && bg[p-w]) || (y < h-1 && bg[p+w]);
+    if (!touches) continue;
+    const i = p * 4, mn = Math.min(data[i], data[i+1], data[i+2]), mx = Math.max(data[i], data[i+1], data[i+2]);
+    // Only defringe next to removed WHITE or BLACK background — never next to
+    // pixels that were already transparent (those edges are already clean).
+    const nk = (x > 0 && bg[p-1]) ? kind[p-1] : (x < w-1 && bg[p+1]) ? kind[p+1] :
+               (y > 0 && bg[p-w]) ? kind[p-w] : kind[p+w];
+    if ((nk === 1 && mn >= 215) || (nk === 2 && mx < 70)) fringe.push(p);
+  }
+  for (const p of fringe) bg[p] = 1;
+  let removed = 0;
+  for (let p = 0; p < N; p++) if (bg[p]) { data[p*4+3] = 0; removed++; }
+  return removed;
+}
+
 document.getElementById('campaign-logo-input').addEventListener('change', e => {
   const file = e.target.files[0]; if (!file) return;
   const reader = new FileReader();
@@ -657,13 +704,12 @@ document.getElementById('campaign-logo-input').addEventListener('change', e => {
       const ctx = cv.getContext('2d');
       ctx.drawImage(img, 0, 0);
       const d = ctx.getImageData(0, 0, cv.width, cv.height);
-      // For circular campaign badges: ONLY remove near-black outer background.
-      // White pixels are part of the badge border/interior — keep them.
-      // The canvas arc clip will mask the shape correctly.
-      for (let i = 0; i < d.data.length; i += 4) {
-        const maxC = Math.max(d.data[i], d.data[i+1], d.data[i+2]);
-        if (maxC < 40) d.data[i+3] = 0; // near-black background only
-      }
+      // Remove ONLY the white/black background connected to the image edges
+      // (flood fill from the border). Anything enclosed by the logo — black
+      // lettering, white badge borders, etc. — is never touched. If no edge
+      // background is found (full-bleed image), corners stay opaque and the
+      // legacy auto-circle-crop below takes over.
+      removeEdgeBackground(d.data, cv.width, cv.height);
       ctx.putImageData(d, 0, 0);
       // Detect whether this logo already defines its own shape via transparency
       // (e.g. a pre-designed sticker/badge PNG) or is a plain rectangular image
