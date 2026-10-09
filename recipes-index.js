@@ -1,6 +1,6 @@
 // PhotoKitchen Recipes Index
 // Auto-generated — do not edit manually
-// Last updated: 2026-10-05
+// Last updated: 2026-10-09
 
 const RECIPES_INDEX = [
   {
@@ -146,6 +146,33 @@ const RECIPES_INDEX = [
     "month": 1,
     "file": "recipes/2601-Australian-Festival.js",
     "count": 9
+  },
+  {
+    "id": "2502-Flavors-of-Love",
+    "label": "Flavors of Love",
+    "type": "photo",
+    "year": 2025,
+    "month": 2,
+    "file": "recipes/2502-Flavors-of-Love.js",
+    "count": 10
+  },
+  {
+    "id": "2502-February-IG",
+    "label": "February IG",
+    "type": "photo",
+    "year": 2025,
+    "month": 2,
+    "file": "recipes/2502-February-IG.js",
+    "count": 2
+  },
+  {
+    "id": "2501-Chinese-New-Year",
+    "label": "Chinese New Year",
+    "type": "photo",
+    "year": 2025,
+    "month": 1,
+    "file": "recipes/2501-Chinese-New-Year.js",
+    "count": 1
   }
 ];
 

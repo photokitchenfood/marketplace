@@ -58,6 +58,7 @@ import io
 import json
 import re
 import sys
+from dataclasses import dataclass
 from datetime import date
 from pathlib import Path
 
@@ -83,7 +84,12 @@ KNOWN_CATEGORIES = [
     "NON-FOOD",
     "GROUP SHOT",
     "EAP",
+    "STOP MOTION",
 ]
+
+# What the text-based rules produce. EAP / STOP MOTION only ever come from a
+# PPM label, an overview SKU tag, or by hand, and existing ones are never overwritten.
+INFERABLE_CATEGORIES = ("RECIPE", "OUT OF PACK", "NON-FOOD", "GROUP SHOT")
 
 # Bolded phrases matching any of these (case-insensitive, matched after
 # stripping punctuation/symbols) are dropped from the `brand` field — they
@@ -103,20 +109,6 @@ BOLD_STRUCTURAL_LABELS = {"caption", "procedure"}
 _LEADING_STRUCTURAL_LABEL = re.compile(
     r"^(?:" + "|".join(BOLD_STRUCTURAL_LABELS) + r")\s*:[\s\x0b]*", flags=re.IGNORECASE
 )
-
-# Drop zones, in inches from slide top-left, with tolerance. Derived from
-# diagnose_deck.py / scan_overview.py runs against the Sep 2026 decks.
-# Both decks use the same slide size (10.0 x 5.62 in) and the same
-# Pre-Prod-mirrored positions for layout code / campaign banner.
-ZONE_LAYOUT_CODE = dict(left=(0.10, 0.65), top=(0.40, 0.90))
-ZONE_CAMPAIGN_BANNER = dict(left=(0.95, 1.85), top=(-0.05, 0.15))
-ZONE_ITEM_PHOTO = dict(left=(0.10, 0.65), top=(0.90, 1.65))
-# Pre-Prod deck only: the on-canvas "selected" category badge. The full
-# legend of category options also lives on every Pre-Prod slide but is
-# parked off-canvas at left=-1.19in — any positive-left zone naturally
-# excludes it.
-ZONE_CATEGORY_BADGE = dict(left=(6.30, 7.30), top=(0.40, 0.75))
-
 
 def in_zone(shape, zone):
     if shape.left is None or shape.top is None:
@@ -179,6 +171,232 @@ def find_shape_in_zone(slide, zone, shape_types=None):
         if in_zone(shape, zone):
             matches.append(shape)
     return matches
+
+
+# ---------------------------------------------------------------------
+# Template profiles: what a deck "looks like", and where to find things
+# ---------------------------------------------------------------------
+
+class DeckFormatError(Exception):
+    """A deck doesn't match any known template profile."""
+
+
+RECIPE_MARKER_RE = re.compile(
+    r"^\s*﻿?(Serving Time|Yield|Ingredients?|Procedure)\s*:", re.IGNORECASE | re.MULTILINE
+)
+DIFFICULTY_CHIPS = {"BEGINNER", "INTERMEDIATE", "ADVANCED"}
+
+
+@dataclass(frozen=True)
+class TemplateProfile:
+    """Everything position- or shape-dependent about one deck template.
+    All element lookup (code, layout name, caption, recipe boxes, photo,
+    banner, category badge) goes through here, so a new template (2021,
+    2022, ...) is a new profile instance rather than new extraction logic.
+
+    Zones are (min, max) inches from the slide's top-left."""
+    name: str
+    slide_size_in: tuple
+    code_re: "re.Pattern"            # what a layout-code chip's text must look like
+    zone_code: dict
+    zone_banner: dict
+    zone_photo: dict
+    zone_badge: dict                 # Pre-Prod deck only
+    min_share: float = 0.9           # share of item slides that must satisfy each fingerprint check
+    size_tol_in: float = 0.05
+
+    # -- element lookup ------------------------------------------------
+    def _autoshapes_in(self, slide, zone):
+        return find_shape_in_zone(slide, zone, {MSO_SHAPE_TYPE.AUTO_SHAPE})
+
+    def codes_in_zone(self, slide):
+        """(valid codes in z-order bottom->top, rejected texts). Decks are
+        built by pasting over template slides, so chips can be stacked; a
+        stray chip (e.g. a leftover '1') is rejected by the code pattern."""
+        valid, rejected = [], []
+        for shape in self._autoshapes_in(slide, self.zone_code):
+            text = shape_text(shape).strip()
+            if self.code_re.fullmatch(text):
+                valid.append(text)
+            elif text:
+                rejected.append(text)
+        return valid, rejected
+
+    def code_of(self, slide):
+        """(layout code, rejected texts). When valid chips are stacked, the
+        topmost (last in z-order) is the one visible on the slide."""
+        valid, rejected = self.codes_in_zone(slide)
+        return (valid[-1] if valid else ""), rejected
+
+    def banner_of(self, slide):
+        """Topmost campaign banner with real text. Stacked banners are
+        common (an old one left under the visible one), and untouched
+        template placeholders ('[INSERT CAMPAIGN TITLE ...]') are skipped."""
+        shapes = self._autoshapes_in(slide, self.zone_banner)
+        real = [s for s in shapes if shape_text(s).strip() and not shape_text(s).strip().startswith("[")]
+        pool = real or shapes
+        return pool[-1] if pool else None
+
+    def title_of(self, slide):
+        return find_placeholder(slide, idx=0, ptype=PP_PLACEHOLDER.TITLE)
+
+    def caption_of(self, slide):
+        return find_placeholder(slide, idx=1, ptype=PP_PLACEHOLDER.BODY)
+
+    def photo_of(self, slide):
+        for shape in slide.shapes:
+            idx, ptype = placeholder_idx_type(shape)
+            if ptype == PP_PLACEHOLDER.PICTURE and in_zone(shape, self.zone_photo):
+                return shape
+        # some slides carry the photo as a plain picture instead of a placeholder
+        pictures = [sh for sh in slide.shapes
+                    if sh.shape_type == MSO_SHAPE_TYPE.PICTURE and in_zone(sh, self.zone_photo)
+                    and sh.width and sh.width >= Emu(int(2 * 914400))]
+        if pictures:
+            return max(pictures, key=lambda sh: sh.width * sh.height)
+        return None
+
+    def badge_texts(self, slide):
+        return [shape_text(s).strip() for s in self._autoshapes_in(slide, self.zone_badge)]
+
+    def recipe_markers(self, slide):
+        """Distinct recipe field labels (serving time / yield / ingredients /
+        procedure) found anywhere on the slide — by content, not by
+        placeholder index, reading order or position."""
+        found = set()
+        for shape in slide.shapes:
+            if shape.has_text_frame:
+                for m in RECIPE_MARKER_RE.finditer(clean_multiline(shape.text_frame.text)):
+                    found.add(m.group(1).lower().rstrip("s"))
+        return found
+
+    def has_recipe_content(self, slide):
+        return len(self.recipe_markers(slide)) >= 2
+
+    def recipe_boxes(self, slide):
+        """{'serving', 'ingredients', 'procedure'} text boxes of a recipe
+        slide, located by what they say. When several boxes qualify (a
+        filled box pasted over an empty leftover placeholder) the one with
+        the most text wins. Falls back to the template's placeholder
+        indices if no box announces itself."""
+        wanted = {
+            "serving": (r"\s*﻿?Serving Time", 2),
+            "ingredients": (r"\s*﻿?Ingredient", 3),
+            "procedure": (r"\s*﻿?Procedure", 1),
+        }
+        boxes = {}
+        for key, (pattern, idx) in wanted.items():
+            matches = [s for s in slide.shapes
+                       if s.has_text_frame and re.match(pattern, clean_multiline(s.text_frame.text), re.IGNORECASE)]
+            if matches:
+                matches.sort(key=lambda s: len(shape_text(s).strip()), reverse=True)
+                boxes[key] = matches[0]
+            else:
+                boxes[key] = find_placeholder(slide, idx=idx, ptype=PP_PLACEHOLDER.BODY)
+        return boxes
+
+    # -- fingerprint ---------------------------------------------------
+    def _item_and_recipe_slides(self, prs):
+        items, recipes = [], []
+        for slide in prs.slides:
+            if is_hidden(slide):
+                continue
+            if self.photo_of(slide) is not None:
+                items.append(slide)
+            elif self.has_recipe_content(slide):
+                recipes.append(slide)
+        return items, recipes
+
+    def mismatches(self, prs, kind="recipe"):
+        """Why this deck is NOT this template (empty list = it matches).
+        kind='recipe' checks a Recipe & Captions deck, 'ppm' a Pre-Prod deck."""
+        fails = []
+        w, h = Emu(prs.slide_width).inches, Emu(prs.slide_height).inches
+        ew, eh = self.slide_size_in
+        if abs(w - ew) > self.size_tol_in or abs(h - eh) > self.size_tol_in:
+            fails.append(f"slide size is {w:.2f} x {h:.2f} in, expected {ew} x {eh} in")
+
+        if kind == "ppm":
+            slides = [s for s in prs.slides if not is_hidden(s) and self.code_of(s)[0]]
+            if not slides:
+                fails.append("no slide has a layout-code chip matching "
+                             f"{self.code_re.pattern!r} in the expected position")
+                return fails
+            with_badge = [s for s in slides
+                          if any(t.upper() in KNOWN_CATEGORIES for t in self.badge_texts(s))]
+            if len(with_badge) < self.min_share * len(slides):
+                fails.append(f"category badge in the expected position on only {len(with_badge)}/{len(slides)} "
+                             f"layout slides")
+            return fails
+
+        items, recipes = self._item_and_recipe_slides(prs)
+        if not items:
+            fails.append("no item slides (no picture placeholder in the expected photo position)")
+            return fails
+
+        def banner_ok(s):
+            b = self.banner_of(s)
+            return b is not None and shape_text(b).strip() != ""
+
+        def title_ok(s):
+            t = self.title_of(s)
+            return t is not None and shape_text(t).strip() != ""
+
+        checks = [
+            (f"layout-code chip matching {self.code_re.pattern!r}", lambda s: bool(self.code_of(s)[0])),
+            ("campaign banner text", banner_ok),
+            ("title placeholder", title_ok),
+            ("caption text box starting with 'Caption:'",
+             lambda s: self.caption_of(s) is not None
+             and shape_text(self.caption_of(s)).lstrip("\ufeff \n\x0b").lower().startswith("caption")),
+            ("NO Pre-Prod category badge (a deck with one is a Pre-Prod deck)",
+             lambda s: not any(t.upper() in KNOWN_CATEGORIES for t in self.badge_texts(s))),
+        ]
+        for label, ok in checks:
+            n = sum(1 for s in items if ok(s))
+            if n < self.min_share * len(items):
+                fails.append(f"{label} found on only {n}/{len(items)} item slides")
+        if recipes:
+            n = sum(1 for s in recipes
+                    if DIFFICULTY_CHIPS <= {shape_text(sh).strip().upper() for sh in s.shapes})
+            if n < self.min_share * len(recipes):
+                fails.append(f"BEGINNER/INTERMEDIATE/ADVANCED chips on only {n}/{len(recipes)} recipe slides")
+        return fails
+
+
+PROFILE_2023_2026 = TemplateProfile(
+    name="TMP 2023-2026",
+    slide_size_in=(10.0, 5.625),
+    code_re=re.compile(r"[A-Za-z]{1,6}\d{1,3}"),
+    zone_code=dict(left=(0.10, 0.65), top=(0.40, 0.90)),
+    zone_banner=dict(left=(0.95, 1.85), top=(-0.05, 0.15)),
+    zone_photo=dict(left=(0.10, 0.65), top=(0.90, 1.65)),
+    # The full legend of category options also lives on every Pre-Prod slide
+    # but is parked off-canvas at left=-1.19in — any positive-left zone
+    # naturally excludes it.
+    zone_badge=dict(left=(6.30, 7.30), top=(0.40, 0.75)),
+)
+
+# Add 2021 / 2022 profiles here (bare-number codes, category printed on each slide, ...).
+PROFILES = [PROFILE_2023_2026]
+
+
+def detect_profile(prs, label, kind="recipe"):
+    """The first profile this deck matches. If none match, raises
+    DeckFormatError naming the deck and, per profile, what didn't match —
+    nothing is guessed."""
+    reasons = []
+    for profile in PROFILES:
+        fails = profile.mismatches(prs, kind)
+        if not fails:
+            return profile
+        reasons.append((profile.name, fails))
+    kind_name = "Pre-Prod" if kind == "ppm" else "Recipe & Captions"
+    lines = [f"{label}: matches no known template profile ({kind_name} deck)."]
+    for name, fails in reasons:
+        lines.append(f"  profile {name!r} did not match:")
+        lines.extend(f"    - {f}" for f in fails)
+    raise DeckFormatError("\n".join(lines))
 
 
 def strip_label(text, label_pattern):
@@ -491,16 +709,15 @@ def print_brand_summary(items):
 
 
 # ---------------------------------------------------------------------
-# Pre-Prod deck: layout code -> category lookup
+# Pre-Prod deck (optional): layout code -> category lookup
 # ---------------------------------------------------------------------
 
-def build_category_lookup(preprod_path):
+def build_category_lookup(prs, profile):
     """Returns (lookup by layout code, lookup by slide title, warnings).
 
     The title lookup is only a fallback for Recipe & Captions items whose
     layout code isn't in the PPM deck — seen when PPM slides were never
     given their real code and still carry the template's "IG00"."""
-    prs = Presentation(preprod_path)
     by_code = {}   # layout code -> [(slide number, category)]
     by_title = {}  # normalized title -> {categories}
     warnings = []
@@ -508,34 +725,26 @@ def build_category_lookup(preprod_path):
     for i, slide in enumerate(prs.slides):
         if is_hidden(slide):
             continue
-        code_shapes = find_shape_in_zone(slide, ZONE_LAYOUT_CODE, {MSO_SHAPE_TYPE.AUTO_SHAPE})
-        if not code_shapes:
-            continue  # not an item slide (front matter / divider / logistics)
-        layout_code = shape_text(code_shapes[0]).strip()
+        layout_code, _ = profile.code_of(slide)
         if not layout_code:
-            continue
+            continue  # not an item slide (front matter / divider / logistics)
 
-        badge_shapes = find_shape_in_zone(slide, ZONE_CATEGORY_BADGE, {MSO_SHAPE_TYPE.AUTO_SHAPE})
         category = None
-        for shape in badge_shapes:
-            text = shape_text(shape).strip().upper()
-            for known in KNOWN_CATEGORIES:
-                if text == known:
-                    category = known
-                    break
-            if category:
+        for text in profile.badge_texts(slide):
+            if text.upper() in KNOWN_CATEGORIES:
+                category = text.upper()
                 break
 
         if category is None:
             warnings.append(
                 f"[preprod slide {i + 1}] layout_code={layout_code!r}: "
                 f"no recognized category badge found in zone "
-                f"(badge texts seen: {[shape_text(s).strip() for s in badge_shapes]})"
+                f"(badge texts seen: {profile.badge_texts(slide)})"
             )
             continue
 
         by_code.setdefault(layout_code, []).append((i + 1, category))
-        title_ph = find_placeholder(slide, idx=0, ptype=PP_PLACEHOLDER.TITLE)
+        title_ph = profile.title_of(slide)
         title = normalize_title(shape_text(title_ph)) if title_ph else ""
         if title:
             by_title.setdefault(title, set()).add(category)
@@ -556,28 +765,24 @@ def build_category_lookup(preprod_path):
     return lookup, title_lookup, warnings
 
 
-def scan_preprod_banners(preprod_path):
+def scan_preprod_banners(prs, profile):
     """Campaign banner on each Pre-Prod item slide, keyed to its layout
     code. Only used to list campaigns in the dry run and cross-check them
     against the Recipe & Captions deck — never to correlate slides."""
-    prs = Presentation(preprod_path)
     rows = []
     for slide in prs.slides:
         if is_hidden(slide):
             continue
-        code_shapes = find_shape_in_zone(slide, ZONE_LAYOUT_CODE, {MSO_SHAPE_TYPE.AUTO_SHAPE})
-        if not code_shapes:
-            continue
-        layout_code = shape_text(code_shapes[0]).strip()
+        layout_code, _ = profile.code_of(slide)
         if not layout_code:
             continue
-        banner_shapes = find_shape_in_zone(slide, ZONE_CAMPAIGN_BANNER, {MSO_SHAPE_TYPE.AUTO_SHAPE})
-        campaign_raw = shape_text(banner_shapes[0]).strip() if banner_shapes else ""
+        banner = profile.banner_of(slide)
+        campaign_raw = shape_text(banner).strip() if banner is not None else ""
         rows.append({
             "layoutCode": layout_code,
             "campaign": normalize_campaign(campaign_raw),
             "campaignRaw": campaign_raw,
-            "color": banner_fill_color(banner_shapes[0]) if banner_shapes else None,
+            "color": banner_fill_color(banner) if banner is not None else None,
         })
     return rows
 
@@ -592,24 +797,6 @@ def is_divider_slide(slide):
         return False
     idx, ptype = placeholder_idx_type(shapes[0])
     return ptype == PP_PLACEHOLDER.TITLE and shape_text(shapes[0]).strip() != ""
-
-
-def get_item_photo_placeholder(slide):
-    for shape in slide.shapes:
-        idx, ptype = placeholder_idx_type(shape)
-        if ptype == PP_PLACEHOLDER.PICTURE and in_zone(shape, ZONE_ITEM_PHOTO):
-            return shape
-    return None
-
-
-def slide_has_recipe_text(slide):
-    procedure = find_placeholder(slide, idx=1, ptype=PP_PLACEHOLDER.BODY)
-    ingredients = find_placeholder(slide, idx=3, ptype=PP_PLACEHOLDER.BODY)
-    if procedure is None or ingredients is None:
-        return False
-    proc_text = clean_multiline(shape_text(procedure))
-    ing_text = clean_multiline(shape_text(ingredients))
-    return proc_text.lower().startswith("procedure") and "ingredient" in ing_text.lower()
 
 
 def parse_serving_block(raw_text):
@@ -653,21 +840,26 @@ def yymm_from_filename(path):
 
 
 def resolve_deck_yymm(recipe_path, preprod_path):
-    """The deck month from the two source filenames. When they disagree
-    (or one lacks a YYMM- prefix), print both and ask — never pick one
-    silently. Returns None if it can't be resolved; nothing is written."""
+    """The deck month from the source filename(s). When a PPM deck is given
+    and they disagree (or one lacks a YYMM- prefix), print both and ask —
+    never pick one silently. Returns None if it can't be resolved; nothing
+    is written. Without a PPM deck only the Recipe & Captions name matters."""
     recipe_yymm = yymm_from_filename(recipe_path)
-    preprod_yymm = yymm_from_filename(preprod_path)
-    if recipe_yymm and recipe_yymm == preprod_yymm:
+    preprod_yymm = yymm_from_filename(preprod_path) if preprod_path else None
+    if recipe_yymm and (preprod_path is None or recipe_yymm == preprod_yymm):
         return recipe_yymm
 
-    problem = "have different YYMM prefixes" if recipe_yymm and preprod_yymm else "don't both have a YYMM- prefix"
-    print(f"The source deck filenames {problem}:")
+    if preprod_path is None:
+        problem = "doesn't have a YYMM- prefix"
+    else:
+        problem = "have different YYMM prefixes" if recipe_yymm and preprod_yymm else "don't both have a YYMM- prefix"
+    print(f"The source deck filename(s) {problem}:")
     print(f"  Recipe & Captions deck: {recipe_yymm or '(none)':6}  {Path(recipe_path).name}")
-    print(f"  PPM / Pre-Prod deck:    {preprod_yymm or '(none)':6}  {Path(preprod_path).name}")
+    if preprod_path:
+        print(f"  PPM / Pre-Prod deck:    {preprod_yymm or '(none)':6}  {Path(preprod_path).name}")
     print("No output files have been written.")
     if not sys.stdin.isatty():
-        print("Rename the decks so both start with the same YYMM-, or re-run in an interactive terminal.")
+        print("Rename the deck(s) so they start with the same YYMM-, or re-run in an interactive terminal.")
         return None
     try:
         return _ask("Which YYMM should the output use?", None, _parse_yymm)
@@ -676,67 +868,398 @@ def resolve_deck_yymm(recipe_path, preprod_path):
         return None
 
 
-def extract_items(recipe_path, category_lookup, warnings, title_lookup=None):
-    prs = Presentation(recipe_path)
+# ---------------------------------------------------------------------
+# Overview slide: "(N LAYOUTS)" / "(N VIDEOS)" per campaign
+# ---------------------------------------------------------------------
+
+OVERVIEW_SCAN_SLIDES = 10
+_OVERVIEW_COUNT_RE = re.compile(r"\(\s*(\d+)\s*(layouts?|videos?)\s*\)\s*$", re.IGNORECASE)
+_OVERVIEW_HEADING_RE = re.compile(r"^(?P<name>.+?)\s*\((?P<paren>[^()]*)\)\s*$")
+
+
+def parse_overview(prs):
+    """Headings from the deck's overview slide, in order: {'name', 'n',
+    'unit' ('layouts'|'videos'|None), 'sub'}. 'sub' headings are photo-style
+    sub-groups ("Lifestyle Group Photo (1 layout)") under the campaign
+    heading above them; the same sub-heading also covers recipe layouts, so
+    it's only ever a Group Shot clue. Best effort: [] if the deck's overview
+    carries no counts (2025 decks mostly don't)."""
+    for slide in list(prs.slides)[:OVERVIEW_SCAN_SLIDES]:
+        if is_hidden(slide):
+            continue
+        heads = []
+        has_count = False
+        for shape in slide.shapes:
+            if not shape.has_text_frame:
+                continue
+            for line in re.split(r"[\n\x0b]", shape.text_frame.text):
+                line = line.strip()
+                if not line:
+                    continue
+                if line[0].isdigit():  # SKU line: belongs to the heading above it
+                    if heads:
+                        heads[-1]["skus"].append(line)
+                    continue
+                m = _OVERVIEW_HEADING_RE.match(line)
+                if not m:
+                    continue
+                cm = _OVERVIEW_COUNT_RE.search(line)
+                has_count = has_count or bool(cm)
+                heads.append({
+                    "name": m.group("name").strip(),
+                    "n": int(cm.group(1)) if cm else None,
+                    "unit": ("videos" if cm.group(2).lower().startswith("video") else "layouts") if cm else None,
+                    "sub": "photo" in m.group("name").lower(),
+                    "skus": [],
+                })
+        if has_count:
+            return heads
+    return []
+
+
+_OVERVIEW_TAG_RE = re.compile(r"\(([^()]*)\)\s*$")
+
+
+def overview_sku_tag(sku_line):
+    """Category named by a trailing parenthetical on an overview SKU line:
+    "(EAP)" -> EAP, "(Stop Motion Video)" -> STOP MOTION. A plain "(Video)"
+    names no category."""
+    m = _OVERVIEW_TAG_RE.search(sku_line)
+    if not m:
+        return None
+    tag = m.group(1).strip().lower()
+    if "stop motion" in tag or "stop-motion" in tag:
+        return "STOP MOTION"
+    if re.search(r"\beap\b", tag):
+        return "EAP"
+    return None
+
+
+def summarize_overview(items, heads):
+    """One line per overview heading saying what the cross-check did."""
+    if not heads:
+        return ["overview: no '(N layouts/videos)' counts found — cross-check skipped"]
+    codes = {}
+    for it in items:
+        c = codes.setdefault(it["campaign"], [])
+        if it["layoutCode"] not in c:
+            c.append(it["layoutCode"])
+    lines, parent, totals, subtot = [], None, {}, {}
+    for h in heads:
+        if h["sub"]:
+            if parent is not None and h["n"] is not None:
+                subtot[parent] = subtot.get(parent, 0) + h["n"]
+        else:
+            parent = normalize_campaign(h["name"])
+            if h["n"] is not None:
+                totals[parent] = totals.get(parent, 0) + h["n"]
+    for campaign, n in totals.items():
+        have = len(codes.get(campaign, []))
+        lines.append(f"overview: {campaign!r} lists {n}, deck has {have} distinct layout code(s) -> "
+                     + ("match" if n == have else "MISMATCH"))
+    for campaign, n in subtot.items():
+        have = len(codes.get(campaign, []))
+        lines.append(f"overview: sub-groups under {campaign!r} list {n}, deck has {have} -> "
+                     + ("match, group clue applied" if n == have else "no match, group clue skipped"))
+    return lines
+
+
+def apply_overview(items, heads, warnings):
+    """Cross-check the overview's per-campaign counts against the distinct
+    layout codes extracted, and tag each layout with the overview group it
+    falls in (item['_ovUnit'] = 'videos'|'layouts', item['_ovGroup'] = a
+    sub-heading name). Counts are only used when they add up to the number
+    of layouts found; a mismatch is warned about, never guessed around."""
+    if not heads:
+        return
+    codes_by_campaign = {}
+    for it in items:
+        codes = codes_by_campaign.setdefault(it["campaign"], [])
+        if it["layoutCode"] not in codes:
+            codes.append(it["layoutCode"])
+
+    parent = None
+    segs, subs = {}, {}
+    for h in heads:
+        if h["sub"]:
+            if parent is not None and h["n"] is not None:
+                subs.setdefault(parent, []).append(h)
+        else:
+            parent = normalize_campaign(h["name"])
+            if h["n"] is not None:
+                segs.setdefault(parent, []).append(h)
+
+    def assign(campaign, groups, setter):
+        codes = codes_by_campaign[campaign]
+        pos = 0
+        for g in groups:
+            for k, code in enumerate(codes[pos:pos + g["n"]]):
+                for it in items:
+                    if it["campaign"] == campaign and it["layoutCode"] == code:
+                        setter(it, g, k)
+            pos += g["n"]
+
+    for campaign, groups in segs.items():
+        codes = codes_by_campaign.get(campaign)
+        if codes is None:
+            continue
+        total = sum(g["n"] for g in groups)
+        if total != len(codes):
+            listing = " + ".join(f"{g['n']} {g['unit']}" for g in groups)
+            warnings.append(
+                f"overview lists {listing} for {campaign!r} but {len(codes)} distinct layout code(s) "
+                f"were extracted ({', '.join(codes)})"
+            )
+            continue
+        def tag(it, g, k):
+            it["_ovUnit"] = g["unit"]
+            # SKU lines pair with layouts one-to-one only when their count matches the group's
+            if len(g["skus"]) == g["n"]:
+                t = overview_sku_tag(g["skus"][k])
+                if t:
+                    it["_ovTag"] = t
+        assign(campaign, groups, tag)
+    for campaign, groups in subs.items():
+        codes = codes_by_campaign.get(campaign)
+        if codes is None or sum(g["n"] for g in groups) != len(codes):
+            continue  # best effort: skip silently
+        assign(campaign, groups, lambda it, g, k: it.__setitem__("_ovGroup", g["name"]))
+
+
+# ---------------------------------------------------------------------
+# Category inference (used only when there is no Pre-Prod deck)
+# ---------------------------------------------------------------------
+
+# Deliberately small and conservative: a keyword hit gives "medium"
+# confidence, no hit gives "low". Matched as whole words/phrases against the
+# layout name + caption.
+NON_FOOD_KEYWORDS = [
+    "laundry", "fabric conditioner", "fabric softener", "detergent", "downy",
+    "cleaning", "cleaner", "dishwashing", "shampoo", "body wash", "face wash",
+    "gentle wash", "lotion", "skincare", "soap", "toothpaste", "diaper",
+    "sanitizer", "personal care", "air freshener", "freshener", "automatic spray", "auto spray",
+    "fragrance", "feminine", "mildew", "tote bag", "bathroom",
+]
+GROUP_SHOT_NAME_RE = re.compile(r"\bgroup\s+(?:shot|photo)\b", re.IGNORECASE)
+
+
+def _keyword_hit(text, keywords):
+    text = text.lower()
+    for kw in keywords:
+        if re.search(r"(?<![a-z0-9])" + re.escape(kw) + r"(?![a-z0-9])", text):
+            return kw
+    return None
+
+
+def infer_category(item):
+    """(category, confidence, reason) from the Recipe & Captions deck alone.
+    RECIPE is decided by slide CONTENT (recipe text on the layout's slides);
+    slide count is only a cross-check, and a disagreement forces "low"."""
+    has_recipe_content = item["recipe"] is not None or item["_inlineRecipe"]
+    n_slides = item["_slides"] + item["_extraSlides"]
+    video = item.get("_ovUnit") == "videos" or "video" in (item.get("shootType") or "").lower()
+
+    if item.get("_ovTag"):
+        return item["_ovTag"], "medium", f"overview SKU line tagged ({item['_ovTag']})"
+
+    def finish(category, confidence, reason):
+        if video and confidence != "low":
+            reason += "; in overview video group, review"
+            confidence = "low"
+        return category, confidence, reason
+
+    if has_recipe_content:
+        confidence, reason = "high", "recipe text on the layout's slides"
+        if item["_inlineRecipe"] and item["recipe"] is None:
+            confidence, reason = "low", "recipe text sits on the photo slide but there is no separate recipe slide"
+        elif item["_pairMethod"] == "adjacent-nocode":
+            confidence, reason = "medium", "recipe slide has no layout code; attached to the slide before it"
+        elif item["_pairMethod"] == "adjacent-codemismatch":
+            confidence, reason = "low", "recipe slide's code matches no photo slide; attached to the slide before it"
+        elif item["_pairMethod"] == "adjacent-title":
+            confidence, reason = "medium", "recipe slide's code differs from the photo slide; matched by adjacency + identical title"
+        elif item["_pairDisagree"]:
+            confidence, reason = "medium", "code-pairing and adjacency pointed at different recipe slides"
+        if item["_extraSlides"]:
+            confidence, reason = "low", f"{item['_extraSlides']} extra slide(s) share this layout code"
+        return finish("RECIPE", confidence, reason)
+
+    # non-recipe subtype
+    cross = "low" if n_slides >= 2 else None  # content says no recipe, slide count says there is
+    text = f"{item['layoutName']}\n{item['caption']}"
+    if GROUP_SHOT_NAME_RE.search(item["layoutName"]):
+        category, confidence, reason = "GROUP SHOT", "low", "'group shot' in layout name"
+    elif "group" in (item.get("_ovGroup") or "").lower():
+        category, confidence, reason = "GROUP SHOT", "low", f"overview heading {item['_ovGroup']!r}"
+    else:
+        kw = _keyword_hit(text, NON_FOOD_KEYWORDS)
+        if kw:
+            category, confidence, reason = "NON-FOOD", "medium", f"keyword {kw!r}"
+        else:
+            category, confidence, reason = "OUT OF PACK", "low", "default for single-slide food layouts"
+    if cross:
+        confidence, reason = "low", reason + "; but slide count says recipe"
+    return finish(category, confidence, reason)
+
+
+def extract_items(prs, profile, ppm=None, warnings=None, with_photos=True):
+    """Items from a Recipe & Captions deck.
+
+    ppm: (category_lookup, title_lookup) from the Pre-Prod deck, or None to
+    infer categories from this deck alone.
+
+    Recipe slides are paired to photo slides by layout code first,
+    adjacency only as a fallback; disagreements are warned about."""
+    if warnings is None:
+        warnings = []
     slides = list(prs.slides)
-    items = []
+    photo_recs, recipe_recs, other_recs = [], [], []
     current_shoot_type = None
 
-    i = 0
-    while i < len(slides):
-        slide = slides[i]
-
+    for i, slide in enumerate(slides):
         if is_hidden(slide):
-            if get_item_photo_placeholder(slide) is not None:
-                code_shapes = find_shape_in_zone(slide, ZONE_LAYOUT_CODE, {MSO_SHAPE_TYPE.AUTO_SHAPE})
-                title_ph = find_placeholder(slide, idx=0, ptype=PP_PLACEHOLDER.TITLE)
+            if profile.photo_of(slide) is not None:
+                code, _ = profile.code_of(slide)
+                title_ph = profile.title_of(slide)
                 warnings.append(
                     f"[recipe slide {i + 1}] hidden slide skipped: "
-                    f"{shape_text(code_shapes[0]).strip() if code_shapes else '?'} "
+                    f"{code or '?'} "
                     f"({shape_text(title_ph).strip() if title_ph else ''!r})"
                 )
-            i += 1
             continue
-
         if is_divider_slide(slide):
             current_shoot_type = shape_text(list(slide.shapes)[0]).strip()
-            i += 1
             continue
 
-        photo_ph = get_item_photo_placeholder(slide)
-        if photo_ph is None:
-            i += 1
-            continue  # front matter / overview slide, not an item
+        photo_ph = profile.photo_of(slide)
+        code, rejected = profile.code_of(slide)
+        valid_codes, _ = profile.codes_in_zone(slide)
+        if len(set(valid_codes)) > 1:
+            warnings.append(
+                f"[recipe slide {i + 1}] stacked layout-code chips {valid_codes}; "
+                f"using the topmost ({valid_codes[-1]!r})"
+            )
+        if photo_ph is not None:
+            t = profile.title_of(slide)
+            photo_recs.append({"i": i, "slide": slide, "photo": photo_ph, "code": code,
+                               "rejected": rejected, "shoot": current_shoot_type,
+                               "title": normalize_title(shape_text(t)) if t else ""})
+        elif profile.has_recipe_content(slide):
+            t = profile.title_of(slide)
+            recipe_recs.append({"i": i, "slide": slide, "code": code, "claimed": False,
+                                "title": normalize_title(shape_text(t)) if t else ""})
+        elif code:
+            other_recs.append({"i": i, "code": code})
+            cap = profile.caption_of(slide)
+            if cap is not None and shape_text(cap).lstrip("\ufeff \n\x0b").lower().startswith("caption"):
+                warnings.append(
+                    f"[recipe slide {i + 1}] has layout code {code!r} and a caption but no photo was found "
+                    f"in the photo position — not extracted as an item"
+                )
 
-        code_shapes = find_shape_in_zone(slide, ZONE_LAYOUT_CODE, {MSO_SHAPE_TYPE.AUTO_SHAPE})
-        banner_shapes = find_shape_in_zone(slide, ZONE_CAMPAIGN_BANNER, {MSO_SHAPE_TYPE.AUTO_SHAPE})
-        title_ph = find_placeholder(slide, idx=0, ptype=PP_PLACEHOLDER.TITLE)
-        caption_ph = find_placeholder(slide, idx=1, ptype=PP_PLACEHOLDER.BODY)
+    # ---- pair recipe slides to photo slides: layout code first, adjacency as fallback
+    photo_codes = {r["code"] for r in photo_recs if r["code"]}
+    by_index = {r["i"]: r for r in recipe_recs}
+    for rec in photo_recs:
+        rec.update(recipe=None, pair_method=None, pair_disagree=False)
+    # pass 0: the directly-following recipe slide with the same title *and* code
+    # is the unambiguous case; one with the same title but a different code is
+    # a copy-pasted code typo (seen in Mar/Jun 2026 decks) and is accepted with a warning.
+    for rec in photo_recs:
+        adj = by_index.get(rec["i"] + 1)
+        if adj is None or adj["claimed"] or not rec["title"] or adj["title"] != rec["title"]:
+            continue
+        adj["claimed"] = True
+        if adj["code"] == rec["code"]:
+            rec.update(recipe=adj, pair_method="code")
+        else:
+            rec.update(recipe=adj, pair_method="adjacent-title", pair_disagree=True)
+            warnings.append(
+                f"[recipe slide {adj['i'] + 1}] code {adj['code'] or 'none'!r} differs from photo slide "
+                f"{rec['code']!r} but the title matches ({rec['title']!r}) — paired by adjacency + title"
+            )
+    for rec in photo_recs:  # pass 1: same layout code
+        if not rec["code"] or rec["recipe"] is not None:
+            continue
+        same = [r for r in recipe_recs if r["code"] == rec["code"] and not r["claimed"]]
+        if not same:
+            continue
+        same.sort(key=lambda r: (abs(r["i"] - rec["i"]), r["i"]))
+        chosen = same[0]
+        chosen["claimed"] = True
+        rec.update(recipe=chosen, pair_method="code")
+        adj = by_index.get(rec["i"] + 1)
+        if adj is not None and adj is not chosen and adj["code"] != rec["code"]:
+            rec["pair_disagree"] = True
+            warnings.append(
+                f"[recipe slide {rec['i'] + 1}] layout {rec['code']!r}: recipe slide by code is slide "
+                f"{chosen['i'] + 1}, but slide {adj['i'] + 1} (code {adj['code'] or 'none'!r}) directly follows "
+                f"the photo slide — pairing by code"
+            )
+        elif chosen["i"] != rec["i"] + 1:
+            warnings.append(
+                f"[recipe slide {rec['i'] + 1}] layout {rec['code']!r}: recipe slide {chosen['i'] + 1} "
+                f"is not adjacent to the photo slide — paired by layout code"
+            )
+    unrecipe_codes = {r["code"] for r in photo_recs if r["recipe"] is None}
+    for rec in photo_recs:  # pass 2: adjacency fallback
+        if rec["recipe"] is not None:
+            continue
+        adj = by_index.get(rec["i"] + 1)
+        if adj is None or adj["claimed"]:
+            continue
+        if not adj["code"]:
+            adj["claimed"] = True
+            rec.update(recipe=adj, pair_method="adjacent-nocode")
+        elif adj["code"] not in unrecipe_codes:
+            # its code belongs to a layout that already has its recipe (or to none)
+            adj["claimed"] = True
+            rec.update(recipe=adj, pair_method="adjacent-codemismatch")
+            warnings.append(
+                f"[recipe slide {adj['i'] + 1}] code {adj['code']!r} is not this layout's ({rec['code']!r}) and "
+                f"is not wanted by any other photo slide; paired with the photo slide before it by adjacency"
+            )
+    for r in recipe_recs:
+        if not r["claimed"]:
+            warnings.append(
+                f"[recipe slide {r['i'] + 1}] recipe slide (code {r['code'] or 'none'!r}) "
+                f"not paired with any photo slide; ignored"
+            )
 
-        layout_code = shape_text(code_shapes[0]).strip() if code_shapes else ""
-        campaign_raw = shape_text(banner_shapes[0]).strip() if banner_shapes else ""
-        banner_color = banner_fill_color(banner_shapes[0]) if banner_shapes else None
+    # ---- build items
+    items = []
+    for rec in photo_recs:
+        i, slide, layout_code = rec["i"], rec["slide"], rec["code"]
+        banner = profile.banner_of(slide)
+        title_ph = profile.title_of(slide)
+        caption_ph = profile.caption_of(slide)
+
+        campaign_raw = shape_text(banner).strip() if banner is not None else ""
+        banner_color = banner_fill_color(banner) if banner is not None else None
         layout_name = shape_text(title_ph).strip() if title_ph else ""
         caption_raw = clean_multiline(shape_text(caption_ph)) if caption_ph else ""
         caption = strip_label(caption_raw, r"Caption:")
 
         if not layout_code:
-            warnings.append(f"[recipe slide {i + 1}] no layout code found in zone; skipping item")
-            i += 1
+            seen = f" (chip text rejected: {rec['rejected']})" if rec["rejected"] else ""
+            warnings.append(f"[recipe slide {i + 1}] no layout code found in zone; skipping item{seen}")
             continue
 
-        try:
-            photo_b64 = extract_photo(photo_ph)
-        except Exception as e:
-            warnings.append(f"[recipe slide {i + 1}] layout_code={layout_code!r}: photo extraction failed: {e}")
-            photo_b64 = None
+        photo_b64 = None
+        if with_photos:
+            try:
+                photo_b64 = extract_photo(rec["photo"])
+            except Exception as e:
+                warnings.append(f"[recipe slide {i + 1}] layout_code={layout_code!r}: photo extraction failed: {e}")
 
         item = {
             "layoutCode": layout_code,
             "layoutName": layout_name,
             "category": None,
+            "categorySource": None,
+            "categoryConfidence": None,
             "campaign": normalize_campaign(campaign_raw),
-            "shootType": current_shoot_type,
+            "shootType": rec["shoot"],
             "caption": caption,
             "brand": [],
             "recipe": None,
@@ -747,36 +1270,31 @@ def extract_items(recipe_path, category_lookup, warnings, title_lookup=None):
             },
             "needsPhotoSwap": True,
             # internal (underscore keys are never written to output):
-            # used for the dry-run campaign listing
+            # used for the dry-run campaign listing and category inference
             "_campaignRaw": campaign_raw,
             "_bannerColor": banner_color,
             "_slides": 1,
+            "_slideNo": i + 1,
+            "_inlineRecipe": profile.has_recipe_content(slide),
+            "_pairMethod": rec["pair_method"],
+            "_pairDisagree": rec["pair_disagree"],
+            "_extraSlides": sum(1 for o in other_recs if o["code"] == layout_code),
         }
 
-        paired_next = (
-            i + 1 < len(slides)
-            and not is_hidden(slides[i + 1])
-            and slide_has_recipe_text(slides[i + 1])
-        )
         procedure_ph = None
-
-        if paired_next:
-            recipe_slide = slides[i + 1]
-            next_title = find_placeholder(recipe_slide, idx=0, ptype=PP_PLACEHOLDER.TITLE)
+        recipe_rec = rec["recipe"]
+        if recipe_rec is not None:
+            recipe_slide = recipe_rec["slide"]
+            next_title = profile.title_of(recipe_slide)
             next_title_text = shape_text(next_title).strip() if next_title else ""
             if next_title_text and next_title_text != layout_name:
                 warnings.append(
-                    f"[recipe slide {i + 2}] title {next_title_text!r} != "
+                    f"[recipe slide {recipe_rec['i'] + 1}] title {next_title_text!r} != "
                     f"photo slide title {layout_name!r} (proceeding anyway)"
                 )
 
-            # a Pre-Prod EAP slide with recipe slides keeps its recipe, but files as EAP
-            item["category"] = "EAP" if category_lookup.get(layout_code) == "EAP" else "RECIPE"
-
-            serving_ph = find_placeholder(recipe_slide, idx=2, ptype=PP_PLACEHOLDER.BODY)
-            ingredients_ph = find_placeholder(recipe_slide, idx=3, ptype=PP_PLACEHOLDER.BODY)
-            procedure_ph = find_placeholder(recipe_slide, idx=1, ptype=PP_PLACEHOLDER.BODY)
-
+            boxes = profile.recipe_boxes(recipe_slide)
+            serving_ph, ingredients_ph, procedure_ph = boxes["serving"], boxes["ingredients"], boxes["procedure"]
             serving = parse_serving_block(shape_text(serving_ph)) if serving_ph else {
                 "servingTime": "", "yield": "", "tips": ""
             }
@@ -786,7 +1304,6 @@ def extract_items(recipe_path, category_lookup, warnings, title_lookup=None):
             procedure = strip_label(
                 clean_multiline(shape_text(procedure_ph)) if procedure_ph else "", r"Procedure:"
             )
-
             item["recipe"] = {
                 "servingTime": serving["servingTime"],
                 "yield": serving["yield"],
@@ -795,26 +1312,50 @@ def extract_items(recipe_path, category_lookup, warnings, title_lookup=None):
                 "procedure": procedure,
             }
             item["_slides"] = 2
-            i += 2
-        else:
-            category = category_lookup.get(layout_code)
-            if category is None and title_lookup:
-                category = title_lookup.get(normalize_title(layout_name))
-                if category is not None:
-                    # text match, not layout code: listed in the dry run for review
-                    item["_categoryByTitle"] = True
-            if category is None:
-                warnings.append(
-                    f"[recipe slide {i + 1}] layout_code={layout_code!r} ({layout_name!r}): "
-                    f"no matching layout code or slide title in Pre-Prod deck; "
-                    f"leaving category as 'UNKNOWN'"
-                )
-                category = "UNKNOWN"
-            item["category"] = category
-            i += 1
 
         item["brand"] = extract_brands(caption_ph, procedure_ph)
         items.append(item)
+
+    apply_overview(items, parse_overview(prs), warnings)
+
+    # ---- categories
+    for item in items:
+        if ppm is not None:
+            category_lookup, title_lookup = ppm
+            code = item["layoutCode"]
+            if item["recipe"] is not None:
+                # a Pre-Prod EAP slide with recipe slides keeps its recipe, but files as EAP
+                item["category"] = "EAP" if category_lookup.get(code) == "EAP" else "RECIPE"
+                item["categoryConfidence"] = "high"
+            else:
+                category = category_lookup.get(code)
+                confidence = "high"
+                if category is None and title_lookup:
+                    category = title_lookup.get(normalize_title(item["layoutName"]))
+                    if category is not None:
+                        # text match, not layout code: listed in the dry run for review
+                        item["_categoryByTitle"] = True
+                        confidence = "medium"
+                if category is None:
+                    warnings.append(
+                        f"[recipe slide {item['_slideNo']}] layout_code={code!r} ({item['layoutName']!r}): "
+                        f"no matching layout code or slide title in Pre-Prod deck; "
+                        f"leaving category as 'UNKNOWN'"
+                    )
+                    category, confidence = "UNKNOWN", "low"
+                item["category"] = category
+                item["categoryConfidence"] = confidence
+            item["categorySource"] = "ppm"
+        else:
+            category, confidence, reason = infer_category(item)
+            item["category"], item["categoryConfidence"] = category, confidence
+            item["categorySource"] = "inferred"
+            item["_categoryReason"] = reason
+            if item["_extraSlides"] or (item["_inlineRecipe"] and item["recipe"] is None):
+                warnings.append(
+                    f"[recipe slide {item['_slideNo']}] layout {item['layoutCode']!r}: recipe content and "
+                    f"slide count disagree ({reason}) — confidence set to low"
+                )
 
     return items, prs
 
@@ -859,21 +1400,55 @@ def write_js_file(out_path, shoot_type_label, items, generated_date, dropbox_url
 # Campaigns: dry-run listing, then map each campaign to a content month
 # ---------------------------------------------------------------------
 
-def load_deck_pair(yymm, recipe_path, preprod_path):
-    """Read one PPM + Recipe & Captions pair into memory. Writes nothing."""
-    warnings = []
-    print(f"[{yymm}] Reading category lookup from Pre-Prod deck: {preprod_path}")
-    category_lookup, title_lookup, lookup_warnings = build_category_lookup(preprod_path)
-    warnings.extend(f"[{yymm}] {w}" for w in lookup_warnings)
-    print(f"[{yymm}]   -> {len(category_lookup)} layout codes mapped to categories")
+def validate_decks(specs):
+    """specs: [(recipe_path, preprod_path|None)]. Opens every deck and
+    matches it to a template profile BEFORE anything is extracted or
+    written. Returns ([(recipe_prs, recipe_profile, preprod_prs|None)], errors).
+    A deck that matches no profile is an error naming the deck and what
+    didn't match — never guessed at."""
+    loaded, errors = [], []
+    for recipe_path, preprod_path in specs:
+        try:
+            rprs = Presentation(recipe_path)
+            profile = detect_profile(rprs, Path(recipe_path).name, "recipe")
+            pprs = None
+            if preprod_path:
+                pprs = Presentation(preprod_path)
+                detect_profile(pprs, Path(preprod_path).name, "ppm")
+            loaded.append((rprs, profile, pprs))
+        except DeckFormatError as e:
+            errors.append(str(e))
+            loaded.append(None)
+    return loaded, errors
 
-    print(f"[{yymm}] Reading items from Recipe & Captions deck: {recipe_path}")
+
+def load_deck_pair(yymm, recipe_path, preprod_path, rprs, profile, pprs):
+    """Read one Recipe & Captions deck (+ optional PPM deck) into memory.
+    Writes nothing."""
+    warnings = []
+    mode = "ppm" if pprs is not None else "inferred"
+    print(f"[{yymm}] {Path(recipe_path).name}")
+    print(f"[{yymm}]   template profile: {profile.name}   category mode: {mode}"
+          + ("" if pprs is not None else "   (no Pre-Prod deck)"))
+
+    ppm, banners = None, []
+    if pprs is not None:
+        print(f"[{yymm}]   reading category lookup from Pre-Prod deck: {Path(preprod_path).name}")
+        category_lookup, title_lookup, lookup_warnings = build_category_lookup(pprs, profile)
+        warnings.extend(f"[{yymm}] {w}" for w in lookup_warnings)
+        print(f"[{yymm}]   -> {len(category_lookup)} layout codes mapped to categories")
+        ppm = (category_lookup, title_lookup)
+        banners = scan_preprod_banners(pprs, profile)
+
     item_warnings = []
-    items, prs = extract_items(recipe_path, category_lookup, item_warnings, title_lookup)
+    items, prs = extract_items(rprs, profile, ppm, item_warnings)
     warnings.extend(f"[{yymm}] {w}" for w in item_warnings)
     for item in items:
         item["_deck"] = yymm
     print(f"[{yymm}]   -> {len(items)} items extracted")
+
+    for line in summarize_overview(items, parse_overview(prs)):
+        print(f"[{yymm}]   {line}")
 
     dropbox_links = find_dropbox_links(prs)
     print(f"[{yymm}]   -> {len(dropbox_links)} Dropbox link(s) found in the first "
@@ -882,9 +1457,11 @@ def load_deck_pair(yymm, recipe_path, preprod_path):
     return {
         "yymm": yymm,
         "items": items,
-        "preprod_banners": scan_preprod_banners(preprod_path),
+        "preprod_banners": banners,
         "dropbox_links": dropbox_links,
         "warnings": warnings,
+        "mode": mode,
+        "ppm": ppm,
     }
 
 
@@ -1020,6 +1597,69 @@ def _default_label(campaign):
     return " ".join(w if len(w) <= 2 else w.capitalize() for w in campaign.split())
 
 
+# ---------------------------------------------------------------------
+# Re-runs: never overwrite a category someone already settled
+# ---------------------------------------------------------------------
+
+def load_existing_rows(path):
+    """Items array of an existing recipes/*.js data file, or None."""
+    if not path.exists():
+        return None
+    text = path.read_text(encoding="utf-8")
+    start = text.find("= [")
+    end = text.find("\n];", start)
+    if start < 0 or end < 0:
+        return None
+    try:
+        return json.loads(text[start + 2:end + 2])
+    except ValueError:
+        return None
+
+
+def apply_protection(items, path):
+    """Keep categories already in an existing data file. Only rows whose
+    categorySource is "inferred" (or that don't exist yet) may change:
+      - "manual"                              -> protected
+      - no categorySource (written before the field existed) -> protected as
+        "ppm"-equivalent, or as "manual" if the category is outside what
+        inference can produce (EAP, STOP MOTION, ...)
+      - "ppm"                                 -> protected
+    A protected row keeps its category/source/confidence; if this run would
+    have produced a different category, the conflict is returned (and never
+    applied). A legacy "UNKNOWN" row is a placeholder, not a decision, so it
+    isn't protected. Returns (conflict messages, number of protected rows)."""
+    rows = load_existing_rows(path)
+    if not rows:
+        return [], 0
+    by_key = {(r.get("layoutCode"), r.get("layoutName")): r for r in rows}
+    by_code = {}
+    for r in rows:
+        by_code.setdefault(r.get("layoutCode"), []).append(r)
+
+    conflicts, protected = [], 0
+    for it in items:
+        row = by_key.get((it["layoutCode"], it["layoutName"]))
+        if row is None and len(by_code.get(it["layoutCode"], [])) == 1:
+            row = by_code[it["layoutCode"]][0]
+        if row is None:
+            continue
+        old_cat, old_src = row.get("category"), row.get("categorySource")
+        if old_src == "inferred" or old_cat in (None, "UNKNOWN"):
+            continue
+        if old_src is None:
+            old_src = "ppm" if old_cat in INFERABLE_CATEGORIES + ("OUT OF PACK W/ FOOD STYLING",) else "manual"
+        protected += 1
+        if it["category"] != old_cat:
+            conflicts.append(
+                f"{path.name} {it['layoutCode']} ({it['layoutName']!r}): kept {old_cat!r} [{old_src}]; "
+                f"this run gives {it['category']!r} [{it['categorySource']}, {it['categoryConfidence']}]"
+            )
+        it["category"] = old_cat
+        it["categorySource"] = old_src
+        it["categoryConfidence"] = row.get("categoryConfidence") or "high"
+    return conflicts, protected
+
+
 def prompt_campaign_mapping(campaigns, mappable, out_dir):
     """Ask the target content month (no default) and file label for every
     campaign. Returns [(filename, label, items)] or None if cancelled."""
@@ -1049,6 +1689,11 @@ def prompt_campaign_mapping(campaigns, mappable, out_dir):
             for c in dict.fromkeys(it["campaign"] for it in file_items)
         )
         print(f"  {out_dir / filename}  label={label!r}  {len(file_items)} item(s)  [{sources}]{exists}")
+        conflicts, n_protected = apply_protection(file_items, out_dir / filename)
+        if n_protected:
+            print(f"      {n_protected} existing row(s) keep their category (manual / ppm / legacy rows are protected)")
+        for c in conflicts:
+            print(f"      ! CONFLICT, existing value kept: {c}")
         codes = [it["layoutCode"] for it in file_items]
         dupes = sorted({c for c in codes if codes.count(c) > 1})
         if dupes:
@@ -1071,6 +1716,21 @@ def write_group(out_path, label, group_items, dropbox_url=None):
     print(f"  wrote {out_path}  ({len(group_items)} items: {recipe_count} RECIPE, {other_count} other)")
 
 
+_PAIR_LABELS = {
+    "code": "code", "adjacent-title": "adjacency + title (tiebreaker)",
+    "adjacent-nocode": "adjacency (recipe slide has no code)",
+    "adjacent-codemismatch": "adjacency (code matches nothing)", None: "-",
+}
+
+
+def print_layout_table(items):
+    print("\nLayouts:")
+    print(f"  {'deck':5} {'code':6} {'layout name':40} {'category':28} {'source':9} {'conf':7} recipe slide paired by")
+    for it in items:
+        print(f"  {it['_deck']:5} {it['layoutCode']:6} {it['layoutName'][:39]!r:40} {it['category']:28} "
+              f"{it['categorySource']:9} {it['categoryConfidence']:7} {_PAIR_LABELS[it['_pairMethod']]}")
+
+
 def print_warnings(warnings, items):
     if warnings:
         print(f"\n{len(warnings)} warning(s):")
@@ -1083,33 +1743,172 @@ def print_warnings(warnings, items):
         for it in unknown:
             print(f"  - {it['layoutCode']} ({it['layoutName']!r})")
 
+    review = [it for it in items if it["categorySource"] == "inferred" and it["categoryConfidence"] != "high"]
+    if review:
+        print(f"\n{len(review)} inferred categorie(s) below 'high' confidence — cross-check these:")
+        for it in review:
+            print(f"  - [{it['_deck']}] {it['layoutCode']:6} {it['layoutName']!r:42} -> {it['category']:12} "
+                  f"({it['categoryConfidence']}: {it.get('_categoryReason', '')})")
+
+
+# ---------------------------------------------------------------------
+# Backtest: PPM labels vs. what inference says for the same deck
+# ---------------------------------------------------------------------
+
+def ppm_truth(item, ppm):
+    category_lookup, title_lookup = ppm
+    return category_lookup.get(item["layoutCode"]) or title_lookup.get(normalize_title(item["layoutName"]))
+
+
+def _pct(n, d):
+    return f"{n}/{d} = {100 * n / d:.0f}%" if d else "n/a"
+
+
+def print_backtest(rows, label):
+    """rows: [{'deck','code','name','truth','pred','conf','reason'}] for layouts
+    whose PPM label is known. EAP / STOP MOTION labels can't be inferred, so
+    they're reported separately and never counted as inference errors."""
+    print("\n" + "=" * 78)
+    print(f"BACKTEST — {label}: {len(rows)} layout(s) with a PPM label")
+    print("=" * 78)
+    if not rows:
+        return
+    inferable = rows  # EAP / STOP MOTION count too: the overview's SKU tags can produce them
+    skipped = []
+
+    rec_ok = sum(1 for r in inferable if (r["truth"] == "RECIPE") == (r["pred"] == "RECIPE"))
+    print(f"\nRecipe vs non-recipe accuracy: {_pct(rec_ok, len(inferable))}")
+
+    print("\nPer subtype (PPM label -> inferred), exact category match:")
+    cats = ["RECIPE", "OUT OF PACK", "OUT OF PACK W/ FOOD STYLING", "NON-FOOD", "GROUP SHOT", "EAP", "STOP MOTION"]
+    for truth in cats:
+        sub = [r for r in inferable if r["truth"] == truth]
+        if not sub:
+            continue
+        ok = sum(1 for r in sub if r["pred"] == truth)
+        dist = {}
+        for r in sub:
+            dist[r["pred"]] = dist.get(r["pred"], 0) + 1
+        print(f"  {truth:30} {_pct(ok, len(sub)):12} predicted as: {dist}")
+    print("\nPer predicted subtype (precision):")
+    for pred in cats:
+        sub = [r for r in inferable if r["pred"] == pred]
+        if sub:
+            print(f"  {pred:30} {_pct(sum(1 for r in sub if r['truth'] == pred), len(sub))}")
+
+    print("\nAccuracy per confidence level (exact category):")
+    for conf in ("high", "medium", "low"):
+        sub = [r for r in inferable if r["conf"] == conf]
+        print(f"  {conf:7} {_pct(sum(1 for r in sub if r['pred'] == r['truth']), len(sub))}")
+
+    wrong = [r for r in rows if r["pred"] != r["truth"]]
+    print(f"\nEvery disagreement ({len(wrong)}):")
+    for r in wrong:
+        note = "  [label not inferable]" if r in skipped else ""
+        print(f"  [{r['deck']}] {r['code']:6} {r['name']!r:40} PPM={r['truth']:28} inferred={r['pred']:12} "
+              f"({r['conf']}: {r['reason']}){note}")
+    if skipped:
+        print(f"\n{len(skipped)} layout(s) carry a PPM label inference never produces (EAP etc.); excluded from accuracy.")
+
+
+def run_backtest(loaded_specs, tune_through):
+    """For every deck with a Pre-Prod deck: extract with PPM labels and again
+    without, compare. Decks with YYMM <= tune_through are the tuning set,
+    later ones the validation set."""
+    all_rows = {}
+    for (recipe_path, preprod_path), loaded in loaded_specs:
+        if loaded is None:
+            continue
+        rprs, profile, pprs = loaded
+        yymm = yymm_from_filename(recipe_path) or "????"
+        if pprs is None:
+            print(f"[{yymm}] no Pre-Prod deck; nothing to compare against")
+            continue
+        print(f"[{yymm}] template profile: {profile.name}   compared: ppm vs inferred")
+        lookup, titles, _ = build_category_lookup(pprs, profile)
+        ppm = (lookup, titles)
+        with_ppm, _ = extract_items(rprs, profile, ppm, [], with_photos=False)
+        inferred, _ = extract_items(rprs, profile, None, [], with_photos=False)
+        rows = []
+        for a, b in zip(with_ppm, inferred):
+            truth = ppm_truth(a, ppm)
+            if truth is None:
+                continue
+            rows.append({"deck": yymm, "code": a["layoutCode"], "name": a["layoutName"], "truth": truth,
+                         "pred": b["category"], "conf": b["categoryConfidence"], "reason": b["_categoryReason"]})
+        all_rows[yymm] = rows
+        print_backtest(rows, f"{yymm}")
+    tune = [r for y, rs in all_rows.items() if tune_through and y <= tune_through for r in rs]
+    valid = [r for y, rs in all_rows.items() if tune_through and y > tune_through for r in rs]
+    if tune_through:
+        print_backtest(tune, f"TUNING SET (decks through {tune_through})")
+        print_backtest(valid, f"VALIDATION SET (decks after {tune_through})")
+    else:
+        print_backtest([r for rs in all_rows.values() for r in rs], "ALL DECKS")
+
+
+def pair_decks(recipe_decks, preprod_decks):
+    """[(recipe_path, preprod_path|None)] or None on error. PPM decks are
+    matched to Recipe & Captions decks by YYMM- filename prefix when that is
+    unambiguous; otherwise, with equal counts, by command-line order (the
+    original behavior)."""
+    if not preprod_decks:
+        return [(r, None) for r in recipe_decks]
+    r_months = [yymm_from_filename(r) for r in recipe_decks]
+    p_months = [yymm_from_filename(p) for p in preprod_decks]
+    if (None not in r_months and None not in p_months and len(set(r_months)) == len(r_months)
+            and len(set(p_months)) == len(p_months) and set(p_months) <= set(r_months)):
+        by_month = dict(zip(p_months, preprod_decks))
+        return [(r, by_month.get(m)) for r, m in zip(recipe_decks, r_months)]
+    if len(recipe_decks) == len(preprod_decks):
+        return list(zip(recipe_decks, preprod_decks))
+    print("Can't tell which Pre-Prod deck goes with which Recipe & Captions deck: pass the same number of "
+          "each in the same order, or give every deck a unique YYMM- filename prefix.")
+    return None
+
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--recipe-deck", action="append", required=True,
-                        help="Recipe & Captions Deck .pptx (repeat for each deck pair)")
-    parser.add_argument("--preprod-deck", action="append", required=True,
-                        help="PPM / Pre-Prod Deck .pptx (repeat, same order as --recipe-deck)")
+                        help="Recipe & Captions Deck .pptx (repeat for each deck)")
+    parser.add_argument("--preprod-deck", action="append", default=[],
+                        help="PPM / Pre-Prod Deck .pptx (optional; repeat, matched to --recipe-deck by YYMM- "
+                             "prefix or order). Decks without one get categories inferred.")
     parser.add_argument("--out-dir", default="recipes", help="Output folder (default: recipes)")
     parser.add_argument("--dry-run", action="store_true",
                         help="List campaigns found and exit without prompting or writing")
+    parser.add_argument("--backtest", action="store_true",
+                        help="Compare inferred categories against PPM labels for every deck pair; writes nothing")
+    parser.add_argument("--tune-through", metavar="YYMM",
+                        help="With --backtest: decks up to this month are the tuning set, later ones the validation set")
     args = parser.parse_args()
 
-    if len(args.recipe_deck) != len(args.preprod_deck):
-        parser.error("pass one --preprod-deck for each --recipe-deck (same order)")
-
+    specs = pair_decks(args.recipe_deck, args.preprod_deck)
+    if specs is None:
+        return 2
     out_dir = Path(args.out_dir)
 
+    loaded, errors = validate_decks(specs)
+    if errors:
+        print("Template fingerprint check FAILED — nothing was extracted or written:\n")
+        print("\n\n".join(errors))
+        print("\nIf this is a new/old deck format, it needs its own TemplateProfile before it can be used.")
+        return 2
+
+    if args.backtest:
+        run_backtest(list(zip(specs, loaded)), args.tune_through)
+        return 0
+
     deck_months = []
-    for recipe_path, preprod_path in zip(args.recipe_deck, args.preprod_deck):
+    for recipe_path, preprod_path in specs:
         yymm = resolve_deck_yymm(recipe_path, preprod_path)
         if yymm is None:
             return 1
         deck_months.append(yymm)
 
     pairs = [
-        load_deck_pair(yymm, recipe_path, preprod_path)
-        for yymm, recipe_path, preprod_path in zip(deck_months, args.recipe_deck, args.preprod_deck)
+        load_deck_pair(yymm, recipe_path, preprod_path, rprs, profile, pprs)
+        for yymm, (recipe_path, preprod_path), (rprs, profile, pprs) in zip(deck_months, specs, loaded)
     ]
     items = [it for pair in pairs for it in pair["items"]]
     warnings = [w for pair in pairs for w in pair["warnings"]]
@@ -1117,6 +1916,7 @@ def main():
     campaigns = collect_campaigns(pairs)
     warnings.extend(assign_dropbox_urls(campaigns, pairs))
     mappable = print_dry_run(campaigns, correlation_checks(pairs))
+    print_layout_table(items)
     print_warnings(warnings, items)
 
     if args.dry_run:
