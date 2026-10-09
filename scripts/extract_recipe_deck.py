@@ -222,17 +222,23 @@ class TemplateProfile:
                 rejected.append(text)
         return valid, rejected
 
-    def code_of(self, slide):
+    def code_of(self, slide, ppm=False):
         """(layout code, rejected texts). When valid chips are stacked, the
-        topmost (last in z-order) is the one visible on the slide."""
+        topmost (last in z-order) is the one visible on a Recipe & Captions
+        slide. Pre-Prod decks (ppm=True) keep the original first-chip rule
+        so PPM-derived output doesn't change."""
         valid, rejected = self.codes_in_zone(slide)
-        return (valid[-1] if valid else ""), rejected
+        if not valid:
+            return "", rejected
+        return (valid[0] if ppm else valid[-1]), rejected
 
-    def banner_of(self, slide):
+    def banner_of(self, slide, ppm=False):
         """Topmost campaign banner with real text. Stacked banners are
         common (an old one left under the visible one), and untouched
         template placeholders ('[INSERT CAMPAIGN TITLE ...]') are skipped."""
         shapes = self._autoshapes_in(slide, self.zone_banner)
+        if ppm:
+            return shapes[0] if shapes else None
         real = [s for s in shapes if shape_text(s).strip() and not shape_text(s).strip().startswith("[")]
         pool = real or shapes
         return pool[-1] if pool else None
@@ -244,17 +250,29 @@ class TemplateProfile:
         return find_placeholder(slide, idx=1, ptype=PP_PLACEHOLDER.BODY)
 
     def photo_of(self, slide):
+        """The item photo: a picture placeholder in the photo position,
+        else a plain picture there. Several can be stacked (an empty
+        placeholder left under the filled one), so one that actually
+        holds an image beats an empty one, topmost first."""
+        placeholders = []
         for shape in slide.shapes:
             idx, ptype = placeholder_idx_type(shape)
             if ptype == PP_PLACEHOLDER.PICTURE and in_zone(shape, self.zone_photo):
-                return shape
+                placeholders.append(shape)
+        for shape in reversed(placeholders):
+            if hasattr(shape, "image"):
+                try:
+                    shape.image
+                    return shape
+                except Exception:
+                    pass
         # some slides carry the photo as a plain picture instead of a placeholder
         pictures = [sh for sh in slide.shapes
                     if sh.shape_type == MSO_SHAPE_TYPE.PICTURE and in_zone(sh, self.zone_photo)
                     and sh.width and sh.width >= Emu(int(2 * 914400))]
         if pictures:
             return max(pictures, key=lambda sh: sh.width * sh.height)
-        return None
+        return placeholders[0] if placeholders else None
 
     def badge_texts(self, slide):
         return [shape_text(s).strip() for s in self._autoshapes_in(slide, self.zone_badge)]
@@ -317,7 +335,7 @@ class TemplateProfile:
             fails.append(f"slide size is {w:.2f} x {h:.2f} in, expected {ew} x {eh} in")
 
         if kind == "ppm":
-            slides = [s for s in prs.slides if not is_hidden(s) and self.code_of(s)[0]]
+            slides = [s for s in prs.slides if not is_hidden(s) and self.code_of(s, ppm=True)[0]]
             if not slides:
                 fails.append("no slide has a layout-code chip matching "
                              f"{self.code_re.pattern!r} in the expected position")
@@ -533,7 +551,7 @@ def _resolve_duplicate_batch_links(found):
     return url, label
 
 
-def assign_dropbox_urls(campaigns, pairs):
+def assign_dropbox_urls(campaigns, pairs, overrides=None):
     """Match each campaign's Dropbox photo-folder link (from every Recipe
     & Captions deck in this run) by comparing its label's meaningful words
     against the campaign name, and store it as campaigns[c]['dropboxUrl'].
@@ -555,6 +573,9 @@ def assign_dropbox_urls(campaigns, pairs):
     for campaign, entry in campaigns.items():
         if not entry["items"]:
             continue  # PPM-only campaign; no Recipe & Captions items to attach a link to
+        if overrides and campaign in overrides:
+            entry["dropboxUrl"] = overrides[campaign]  # explicit --dropbox-url wins over label matching
+            continue
         campaign_tokens = _campaign_dropbox_tokens(campaign)
         if not campaign_tokens:
             continue  # "(no banner text)" campaign; already flagged elsewhere
@@ -725,7 +746,7 @@ def build_category_lookup(prs, profile):
     for i, slide in enumerate(prs.slides):
         if is_hidden(slide):
             continue
-        layout_code, _ = profile.code_of(slide)
+        layout_code, _ = profile.code_of(slide, ppm=True)
         if not layout_code:
             continue  # not an item slide (front matter / divider / logistics)
 
@@ -773,10 +794,10 @@ def scan_preprod_banners(prs, profile):
     for slide in prs.slides:
         if is_hidden(slide):
             continue
-        layout_code, _ = profile.code_of(slide)
+        layout_code, _ = profile.code_of(slide, ppm=True)
         if not layout_code:
             continue
-        banner = profile.banner_of(slide)
+        banner = profile.banner_of(slide, ppm=True)
         campaign_raw = shape_text(banner).strip() if banner is not None else ""
         rows.append({
             "layoutCode": layout_code,
@@ -955,6 +976,10 @@ def summarize_overview(items, heads):
                 totals[parent] = totals.get(parent, 0) + h["n"]
     for campaign, n in totals.items():
         have = len(codes.get(campaign, []))
+        if have == 0:
+            lines.append(f"overview: {campaign!r} lists {n} but no campaign of that name was extracted "
+                         f"(banner name differs?) -> not compared")
+            continue
         lines.append(f"overview: {campaign!r} lists {n}, deck has {have} distinct layout code(s) -> "
                      + ("match" if n == have else "MISMATCH"))
     for campaign, n in subtot.items():
@@ -1002,7 +1027,7 @@ def apply_overview(items, heads, warnings):
     for campaign, groups in segs.items():
         codes = codes_by_campaign.get(campaign)
         if codes is None:
-            continue
+            continue  # overview names a campaign the banners call something else; can't compare
         total = sum(g["n"] for g in groups)
         if total != len(codes):
             listing = " + ".join(f"{g['n']} {g['unit']}" for g in groups)
@@ -1479,7 +1504,10 @@ def collect_campaigns(pairs):
             _, counts = row(b["campaign"], (pair["yymm"], "PPM", b["campaignRaw"], b["color"]))
             counts["slides"] += 1
         for item in pair["items"]:
-            entry, counts = row(item["campaign"], (pair["yymm"], "R&C", item["_campaignRaw"], item["_bannerColor"]))
+            # _group (--group) files a layout in its own output file, e.g. "SUMMER (VIDEOS)",
+            # without changing its `campaign` field
+            entry, counts = row(item.get("_group") or item["campaign"],
+                                (pair["yymm"], "R&C", item["_campaignRaw"], item["_bannerColor"]))
             counts["slides"] += item["_slides"]
             counts["items"] += 1
             entry["items"].append(item)
@@ -1847,6 +1875,117 @@ def run_backtest(loaded_specs, tune_through):
         print_backtest([r for rs in all_rows.values() for r in rs], "ALL DECKS")
 
 
+# ---------------------------------------------------------------------
+# Layout-name hygiene and explicit overrides
+# ---------------------------------------------------------------------
+
+_GENERIC_GROUP_RE = re.compile(r"\bgroup\s+(?:shot|photo|layout)\b", re.IGNORECASE)
+
+
+_GROUP_PREFIX_RE = re.compile(r"^\s*group\s+(?:shot|photo|layout)\b\s*[A-Za-z0-9]?\s*[-–—|:]*\s*", re.IGNORECASE)
+
+
+def is_generic_group_name(item):
+    """True for a layout whose name is "Group Shot" in the generic sense: the
+    catalog wants the featured product's name instead. That covers a bare
+    "Group Shot" / "Group Shot B" / "Summer Group Shot", and the same with
+    the product bolted on ("Group Shot A - Emborg", "Group Shot B — (Cheer
+    Cheese)"). "Dinner Bell Cheese Group Shot" (product first) is fine."""
+    name = item["layoutName"]
+    if _GROUP_PREFIX_RE.match(name):
+        return True
+    name = re.sub(r"\([^)]*\)", " ", name)
+    if not _GENERIC_GROUP_RE.search(name):
+        return False
+    campaign_words = set(normalize_title(item["campaign"]).split()) | {"campaign", "ig"}
+    rest = _GENERIC_GROUP_RE.sub(" ", name)
+    words = [w for w in normalize_title(rest).split() if len(w) > 1 and w not in campaign_words]
+    return not words
+
+
+def suggest_group_name(item):
+    """A product-based replacement name, or None when there isn't a clear
+    one. Prefers the product already in the name ("Group Shot A - Emborg" ->
+    "Emborg", "Group Shot B — (Cheer Cheese)" -> "Cheer Cheese"); otherwise
+    the bolded brand(s) in the caption (up to 3, joined with " & ")."""
+    rest = _GROUP_PREFIX_RE.sub("", item["layoutName"]).strip()
+    rest = re.sub(r"^[\s(]+|[\s)]+$", "", rest)  # drop wrapping parentheses
+    if rest and not _GENERIC_GROUP_RE.search(rest) and normalize_title(rest) not in ("", "summer"):
+        return rest
+    brands = item["brand"]
+    if 1 <= len(brands) <= 3:
+        return " & ".join(brands)
+    return None
+
+
+def generic_name_warning(item):
+    featured = "; ".join(item["brand"]) or "(no bolded brand in caption)"
+    sug = suggest_group_name(item)
+    return (f"[{item['_deck']}] {item['layoutCode']}: layout name {item['layoutName']!r} is a generic Group Shot "
+            f"name — use the featured product instead"
+            + (f" (suggested: {sug!r})" if sug else "")
+            + f" [bolded in caption: {featured}]")
+
+
+def _parse_override(raw, option):
+    m = re.fullmatch(r"(\d{4}):([^=\s]+)=(.+)", raw.strip())
+    if not m:
+        raise SystemExit(f"{option} expects YYMM:CODE=value, got {raw!r}")
+    return m.group(1), m.group(2), m.group(3).strip()
+
+
+def apply_item_overrides(items, renames, recampaigns, groups=(), categories=()):
+    """--rename / --recampaign: explicit per-layout edits, keyed by deck
+    month and layout code. An unknown key is an error, never ignored."""
+    by_key = {(it["_deck"], it["layoutCode"]): it for it in items}
+    for raw in renames:
+        yymm, code, value = _parse_override(raw, "--rename")
+        it = by_key.get((yymm, code))
+        if it is None:
+            raise SystemExit(f"--rename {raw!r}: no layout {code} in the {yymm} deck")
+        print(f"  renamed [{yymm}] {code}: {it['layoutName']!r} -> {value!r}")
+        it["layoutName"] = value
+    for raw in recampaigns:
+        yymm, code, value = _parse_override(raw, "--recampaign")
+        it = by_key.get((yymm, code))
+        if it is None:
+            raise SystemExit(f"--recampaign {raw!r}: no layout {code} in the {yymm} deck")
+        print(f"  campaign [{yymm}] {code}: {it['campaign']!r} -> {normalize_campaign(value)!r}")
+        it["campaign"], it["_campaignRaw"] = normalize_campaign(value), value
+    for raw in groups:
+        yymm, code, value = _parse_override(raw, "--group")
+        it = by_key.get((yymm, code))
+        if it is None:
+            raise SystemExit(f"--group {raw!r}: no layout {code} in the {yymm} deck")
+        it["_group"] = normalize_campaign(value)
+        print(f"  file group [{yymm}] {code}: {it['_group']!r}")
+    for raw in categories:
+        yymm, code, value = _parse_override(raw, "--category")
+        it = by_key.get((yymm, code))
+        if it is None:
+            raise SystemExit(f"--category {raw!r}: no layout {code} in the {yymm} deck")
+        if value.upper() not in KNOWN_CATEGORIES:
+            raise SystemExit(f"--category {raw!r}: {value!r} is not one of {KNOWN_CATEGORIES}")
+        print(f"  category [{yymm}] {code}: {it['category']!r} -> {value.upper()!r} (manual)")
+        it["category"], it["categorySource"], it["categoryConfidence"] = value.upper(), "manual", "high"
+
+
+def prompt_generic_renames(items):
+    """Ask for a product-based name for each generic "Group Shot" layout
+    still left (blank keeps it)."""
+    for it in items:
+        if not is_generic_group_name(it):
+            continue
+        print(f"\n[{it['_deck']}] {it['layoutCode']} is named {it['layoutName']!r} — caption: {it['caption'][:160]!r}")
+        print(f"    bolded in caption: {it['brand'] or '(none)'}")
+        sug = suggest_group_name(it)
+        new = input(f"    layout name (the featured product; blank {'= ' + repr(sug) if sug else 'keeps it'}): ").strip()
+        if new:
+            it["layoutName"] = new
+        elif sug:
+            it["layoutName"] = sug
+
+
 def pair_decks(recipe_decks, preprod_decks):
     """[(recipe_path, preprod_path|None)] or None on error. PPM decks are
     matched to Recipe & Captions decks by YYMM- filename prefix when that is
@@ -1881,8 +2020,30 @@ def main():
                         help="Compare inferred categories against PPM labels for every deck pair; writes nothing")
     parser.add_argument("--tune-through", metavar="YYMM",
                         help="With --backtest: decks up to this month are the tuning set, later ones the validation set")
+    parser.add_argument("--rename", action="append", default=[], metavar="YYMM:CODE=NAME",
+                        help="Set a layout's name (repeatable), e.g. 2502:IG2=\"Farm Fresh 100%% Australian Milk\"")
+    parser.add_argument("--recampaign", action="append", default=[], metavar="YYMM:CODE=CAMPAIGN",
+                        help="Move a layout to another campaign (repeatable), e.g. 2503:LS4=\"TMP LENT\"")
+    parser.add_argument("--group", action="append", default=[], metavar="YYMM:CODE=GROUP",
+                        help="File a layout in its own output group, e.g. 2503:EAP1=\"SUMMER (VIDEOS)\"; "
+                             "its campaign field is unchanged")
+    parser.add_argument("--category", action="append", default=[], metavar="YYMM:CODE=CATEGORY",
+                        help="Set a layout's category by hand (categorySource=manual, protected on re-runs)")
+    parser.add_argument("--skip", action="append", default=[], metavar="YYMM:CODE",
+                        help="Leave a layout out of the output (repeatable), e.g. a copy carried over from another deck")
+    parser.add_argument("--rename-group-shots", action="store_true",
+                        help="Rename every generic Group Shot layout still left to its suggested product-based name")
+    parser.add_argument("--dropbox-url", action="append", default=[], metavar="CAMPAIGN=URL",
+                        help="Set a campaign's Dropbox link explicitly (repeatable); overrides label matching")
     args = parser.parse_args()
 
+    missing = [d for d in args.recipe_deck + args.preprod_deck if not Path(d).is_file()]
+    if missing:
+        print("Deck file(s) not found (check spelling, including spaces before '.pptx'):")
+        for d in missing:
+            near = sorted(q.name for q in Path(d).parent.glob(Path(d).name[:7] + "*.pptx")) if Path(d).parent.is_dir() else []
+            print(f"  {d}" + (f"\n    similar files: {near}" if near else ""))
+        return 2
     specs = pair_decks(args.recipe_deck, args.preprod_deck)
     if specs is None:
         return 2
@@ -1913,8 +2074,38 @@ def main():
     items = [it for pair in pairs for it in pair["items"]]
     warnings = [w for pair in pairs for w in pair["warnings"]]
 
+    for raw in args.skip:
+        m = re.fullmatch(r"(\d{4}):(\S+)", raw.strip())
+        if not m:
+            raise SystemExit(f"--skip expects YYMM:CODE, got {raw!r}")
+        hit = [it for it in items if (it["_deck"], it["layoutCode"]) == m.groups()]
+        if not hit:
+            raise SystemExit(f"--skip {raw!r}: no layout {m.group(2)} in the {m.group(1)} deck")
+        for it in hit:
+            print(f"  skipped [{it['_deck']}] {it['layoutCode']} ({it['layoutName']!r})")
+            items.remove(it)
+            for pair in pairs:
+                if it in pair["items"]:
+                    pair["items"].remove(it)
+    if args.rename or args.recampaign or args.group or args.category:
+        print("\nApplying overrides:")
+        apply_item_overrides(items, args.rename, args.recampaign, args.group, args.category)
+    if args.rename_group_shots:
+        for it in items:
+            if is_generic_group_name(it) and suggest_group_name(it):
+                new = suggest_group_name(it)
+                print(f"  renamed [{it['_deck']}] {it['layoutCode']}: {it['layoutName']!r} -> {new!r} (group-shot rule)")
+                it["layoutName"] = new
+    dropbox_overrides = {}
+    for raw in args.dropbox_url:
+        name, sep, url = raw.partition("=")
+        if not sep or not url.startswith("http"):
+            raise SystemExit(f"--dropbox-url expects CAMPAIGN=URL, got {raw!r}")
+        dropbox_overrides[normalize_campaign(name)] = url.strip()
+    warnings.extend(generic_name_warning(it) for it in items if is_generic_group_name(it))
+
     campaigns = collect_campaigns(pairs)
-    warnings.extend(assign_dropbox_urls(campaigns, pairs))
+    warnings.extend(assign_dropbox_urls(campaigns, pairs, dropbox_overrides))
     mappable = print_dry_run(campaigns, correlation_checks(pairs))
     print_layout_table(items)
     print_warnings(warnings, items)
@@ -1933,6 +2124,7 @@ def main():
         if input("\nReview the list above. Continue to month mapping? [y/N]: ").strip().lower() not in ("y", "yes"):
             plan = None
         else:
+            prompt_generic_renames(items)
             plan = prompt_campaign_mapping(campaigns, mappable, out_dir)
     except (EOFError, KeyboardInterrupt):
         plan = None

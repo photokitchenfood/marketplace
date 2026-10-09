@@ -148,6 +148,51 @@ const RECIPES_INDEX = [
     "count": 9
   },
   {
+    "id": "2504-Lent",
+    "label": "Lent",
+    "type": "photo",
+    "year": 2025,
+    "month": 4,
+    "file": "recipes/2504-Lent.js",
+    "count": 7
+  },
+  {
+    "id": "2504-April-IG",
+    "label": "April IG",
+    "type": "photo",
+    "year": 2025,
+    "month": 4,
+    "file": "recipes/2504-April-IG.js",
+    "count": 5
+  },
+  {
+    "id": "2503-Summer-Videos",
+    "label": "Summer (Videos)",
+    "type": "video",
+    "year": 2025,
+    "month": 3,
+    "file": "recipes/2503-Summer-Videos.js",
+    "count": 2
+  },
+  {
+    "id": "2503-Summer-Photos",
+    "label": "Summer (Photos)",
+    "type": "photo",
+    "year": 2025,
+    "month": 3,
+    "file": "recipes/2503-Summer-Photos.js",
+    "count": 9
+  },
+  {
+    "id": "2503-March-IG",
+    "label": "March IG",
+    "type": "photo",
+    "year": 2025,
+    "month": 3,
+    "file": "recipes/2503-March-IG.js",
+    "count": 4
+  },
+  {
     "id": "2502-Flavors-of-Love",
     "label": "Flavors of Love",
     "type": "photo",
