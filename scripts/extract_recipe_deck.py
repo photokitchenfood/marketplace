@@ -1063,7 +1063,7 @@ NON_FOOD_KEYWORDS = [
     "cleaning", "cleaner", "dishwashing", "shampoo", "body wash", "face wash",
     "gentle wash", "lotion", "skincare", "soap", "toothpaste", "diaper",
     "sanitizer", "personal care", "air freshener", "freshener", "automatic spray", "auto spray",
-    "fragrance", "feminine", "mildew", "tote bag", "bathroom",
+    "fragrance", "feminine", "mildew", "tote bag", "bathroom", "baygon",
 ]
 GROUP_SHOT_NAME_RE = re.compile(r"\bgroup\s+(?:shot|photo)\b", re.IGNORECASE)
 

@@ -148,6 +148,96 @@ const RECIPES_INDEX = [
     "count": 9
   },
   {
+    "id": "2507-US-Festival",
+    "label": "US Festival",
+    "type": "photo",
+    "year": 2025,
+    "month": 7,
+    "file": "recipes/2507-US-Festival.js",
+    "count": 42
+  },
+  {
+    "id": "2507-Snack-Festival",
+    "label": "Snack Festival",
+    "type": "photo",
+    "year": 2025,
+    "month": 7,
+    "file": "recipes/2507-Snack-Festival.js",
+    "count": 16
+  },
+  {
+    "id": "2507-July-IG",
+    "label": "July IG",
+    "type": "photo",
+    "year": 2025,
+    "month": 7,
+    "file": "recipes/2507-July-IG.js",
+    "count": 8
+  },
+  {
+    "id": "2507-Fresh-Market",
+    "label": "Fresh Market",
+    "type": "photo",
+    "year": 2025,
+    "month": 7,
+    "file": "recipes/2507-Fresh-Market.js",
+    "count": 5
+  },
+  {
+    "id": "2506-June-IG",
+    "label": "June IG",
+    "type": "photo",
+    "year": 2025,
+    "month": 6,
+    "file": "recipes/2506-June-IG.js",
+    "count": 6
+  },
+  {
+    "id": "2506-Health-Wellness-Videos",
+    "label": "Health & Wellness (Videos)",
+    "type": "video",
+    "year": 2025,
+    "month": 6,
+    "file": "recipes/2506-Health-Wellness-Videos.js",
+    "count": 1
+  },
+  {
+    "id": "2506-Health-Wellness-Photos",
+    "label": "Health & Wellness (Photos)",
+    "type": "photo",
+    "year": 2025,
+    "month": 6,
+    "file": "recipes/2506-Health-Wellness-Photos.js",
+    "count": 3
+  },
+  {
+    "id": "2506-Fathers-Day",
+    "label": "Fathers Day",
+    "type": "photo",
+    "year": 2025,
+    "month": 6,
+    "file": "recipes/2506-Fathers-Day.js",
+    "count": 5
+  },
+  {
+    "id": "2505-Mothers-Day",
+    "label": "Mothers Day",
+    "type": "photo",
+    "year": 2025,
+    "month": 5,
+    "file": "recipes/2505-Mothers-Day.js",
+    "count": 2
+  },
+  {
+    "id": "2505-May-IG",
+    "label": "May IG",
+    "type": "photo",
+    "year": 2025,
+    "month": 5,
+    "file": "recipes/2505-May-IG.js",
+    "count": 5
+  },
+  {
     "id": "2504-Lent",
     "label": "Lent",
     "type": "photo",
