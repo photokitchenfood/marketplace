@@ -95,7 +95,9 @@ aside.tree-pane::-webkit-scrollbar-thumb{background:var(--ink-faint);border-radi
 .node.leaf{color:var(--ink-faint)}
 .node:hover{background:var(--tag-bg);color:var(--ink)}
 .node.selected{background:var(--ink);color:#fff}
-.node .caret{width:11px;flex-shrink:0;color:var(--ink-faint);font-size:9px}
+.node .caret{width:11px;flex-shrink:0;color:var(--ink-faint);font-size:9px;display:inline-block;transition:transform .15s}
+.node.open .caret{transform:rotate(90deg)}
+.node:focus-visible{outline:2px solid var(--ink);outline-offset:-2px}
 .node.selected .caret{color:rgba(255,255,255,.6)}
 .node.leaf .caret{visibility:hidden}
 .node .count{margin-left:auto;font-size:10px;color:var(--ink-faint)}
@@ -141,6 +143,9 @@ main.content{padding:28px 32px}
 .card:hover{box-shadow:0 6px 24px rgba(0,0,0,.09);transform:translateY(-2px)}
 .card-img{width:100%;aspect-ratio:1/1;background:#F0EDE8;overflow:hidden;position:relative}
 .card-img img{width:100%;height:100%;object-fit:cover;display:block}
+.card-badges{position:absolute;top:8px;left:8px;display:flex;gap:4px;pointer-events:none;z-index:1}
+.card-badge{width:24px;height:24px;border-radius:50%;background:#fff;color:#000;box-shadow:0 1px 4px rgba(0,0,0,.35);display:flex;align-items:center;justify-content:center}
+.card-badge svg{width:14px;height:14px;display:block}
 .swapFlag{position:absolute;top:8px;left:8px;background:#fff8dc;border:1px solid #D4A800;font-size:11px;line-height:1;padding:3px 5px;border-radius:100px}
 .card-body{padding:11px 13px 13px;display:flex;flex-direction:column;gap:10px;flex:1}
 .card-tags{display:flex;flex-direction:row;flex-wrap:nowrap;gap:6px;align-items:center;margin-top:auto;min-width:0}
@@ -630,6 +635,26 @@ function groupIndexByYearMonth(){
   }));
 }
 
+// Makes a Year/Month row keyboard-accessible: clicking the row (or Enter/Space)
+// selects the folder (via node._select) and toggles it open/closed.
+function makeFolderNode(node, ul){
+  node.tabIndex = 0;
+  node.setAttribute("role", "button");
+  node.setAttribute("aria-expanded", "false");
+  const activate = () => { toggleCollapse(node, ul); if(node._select) node._select(); };
+  node.addEventListener("click", activate);
+  node.addEventListener("keydown", (e) => {
+    if(e.target !== node) return;
+    if(e.key === "Enter" || e.key === " "){ e.preventDefault(); activate(); }
+  });
+}
+// Opens the Year/Month folders containing a node (used when a campaign is loaded).
+function expandAncestors(nodeEl){
+  for(let li = nodeEl.closest("li"); li; li = li.parentElement && li.parentElement.closest("li")){
+    if(li.querySelector(":scope > ul") && li.classList.contains("shootLi") === false) setNodeOpen(li, true);
+  }
+}
+
 function buildTree(){
   const pane = document.getElementById("treePane");
   pane.innerHTML = "";
@@ -641,14 +666,16 @@ function buildTree(){
     yLi.className = "yearLi";
     const yNode = document.createElement("div");
     yNode.className = "node";
-    yNode.innerHTML = `<span class="caret">▾</span><span class="nodeLabel">${yr.year}</span><span class="count">${yearCount}</span>`;
+    yNode.innerHTML = `<span class="caret">▸</span><span class="nodeLabel">${yr.year}</span><span class="count">${yearCount}</span>`;
     const yUl = document.createElement("ul");
+    yUl.style.display = "none"; // collapsed by default
+    makeFolderNode(yNode, yUl);
     yNode.querySelector(".caret").addEventListener("click", (e) => { e.stopPropagation(); toggleCollapse(yNode, yUl); });
-    yNode.querySelector(".nodeLabel").addEventListener("click", () => {
+    yNode._select = () => {
       const allEntries = [];
       yr.months.forEach(mo => mo.shoots.forEach(sh => { if(shootMatches(sh, yr.year, mo.monthLabel)) allEntries.push(sh); }));
       selectGroup(allEntries, yNode, {year: yr.year});
-    });
+    };
     yLi.appendChild(yNode);
     yLi.appendChild(yUl);
 
@@ -658,12 +685,14 @@ function buildTree(){
       mLi.className = "monthLi";
       const mNode = document.createElement("div");
       mNode.className = "node";
-      mNode.innerHTML = `<span class="caret">▾</span><span class="nodeLabel">${mo.monthLabel}</span><span class="count">${monthCount}</span>`;
+      mNode.innerHTML = `<span class="caret">▸</span><span class="nodeLabel">${mo.monthLabel}</span><span class="count">${monthCount}</span>`;
       const mUl = document.createElement("ul");
+      mUl.style.display = "none"; // collapsed by default
+      makeFolderNode(mNode, mUl);
       mNode.querySelector(".caret").addEventListener("click", (e) => { e.stopPropagation(); toggleCollapse(mNode, mUl); });
-      mNode.querySelector(".nodeLabel").addEventListener("click", () => {
+      mNode._select = () => {
         selectGroup(mo.shoots.filter(sh => shootMatches(sh, yr.year, mo.monthLabel)), mNode, {year: yr.year, month: mo.monthLabel});
-      });
+      };
       mLi.appendChild(mNode);
       mLi.appendChild(mUl);
 
@@ -714,19 +743,24 @@ function filterShootTree(query){
         if(match) monthAny = true;
       });
       mLi.style.display = monthAny ? "" : "none";
-      setNodeOpen(mLi, true);
+      setNodeOpen(mLi, q);
       if(monthAny) yearAny = true;
     });
     yLi.style.display = yearAny ? "" : "none";
-    setNodeOpen(yLi, true);
+    setNodeOpen(yLi, q);
     if(yearAny) anyVisible = true;
   });
+  // No query: everything stays collapsed except the path to the loaded campaign.
+  if(!q){
+    const sel = document.querySelector("#treePane .node.selected");
+    if(sel) expandAncestors(sel);
+  }
   document.getElementById("shootTreeEmpty").style.display = q && !anyVisible ? "block" : "none";
 }
 function setNodeOpen(li, open){
-  const ul = li.querySelector(":scope > ul"), caret = li.querySelector(":scope > .node .caret");
+  const ul = li.querySelector(":scope > ul"), node = li.querySelector(":scope > .node");
   if(ul) ul.style.display = open ? "block" : "none";
-  if(caret) caret.textContent = open ? "▾" : "▸";
+  if(node){ node.classList.toggle("open", open); if(node.hasAttribute("aria-expanded")) node.setAttribute("aria-expanded", String(open)); }
 }
 document.getElementById("shootTreeSearch").addEventListener("input", (e) => filterShootTree(e.target.value));
 
@@ -785,7 +819,8 @@ function buildShufflerFilterChips(){
 function toggleCollapse(nodeEl, ulEl){
   const isCollapsed = ulEl.style.display === "none";
   ulEl.style.display = isCollapsed ? "block" : "none";
-  nodeEl.querySelector(".caret").textContent = isCollapsed ? "▾" : "▸";
+  nodeEl.classList.toggle("open", isCollapsed);
+  if(nodeEl.hasAttribute("aria-expanded")) nodeEl.setAttribute("aria-expanded", String(isCollapsed));
 }
 
 // Builds the breadcrumb: Year and Month share the big header treatment (no
@@ -813,6 +848,7 @@ function renderCrumb(parts){
 async function selectShoot(entry, nodeEl, crumbParts){
   document.querySelectorAll("#treePane .node.selected").forEach(n => n.classList.remove("selected"));
   nodeEl.classList.add("selected");
+  expandAncestors(nodeEl);
   document.getElementById("landingPanel").style.display = "none";
   renderCrumb(crumbParts);
   document.getElementById("catalogSearch").value = "";
@@ -831,6 +867,7 @@ async function selectShoot(entry, nodeEl, crumbParts){
 async function selectGroup(entries, nodeEl, crumbParts){
   document.querySelectorAll("#treePane .node.selected").forEach(n => n.classList.remove("selected"));
   nodeEl.classList.add("selected");
+  expandAncestors(nodeEl);
   document.getElementById("landingPanel").style.display = "none";
   renderCrumb(crumbParts);
   document.getElementById("catalogSearch").value = "";
@@ -883,11 +920,33 @@ function applyCampaignTag(el, campaign){
   el.innerHTML = `<span class="tag-dot" style="background:${c}"></span><span class="tag-text">${escapeHTML(shortShootName(campaign))}</span>`;
 }
 
+// Icon badges (top-left of the card image). Driven by the item's `category`
+// field (and `tags`, if an item ever carries one); matched case-insensitively.
+const BADGE_ICONS = {
+  "eap": {label:"EAP", svg:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="6" width="13" height="12" rx="2"/><path d="M15 10.5l7-4v11l-7-4z"/></svg>'},
+  "stop motion": {label:"Stop Motion", svg:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/></svg>'}
+};
+function badgesHTML(item){
+  const raw = [item.category].concat(Array.isArray(item.tags) ? item.tags : []);
+  const seen = new Set();
+  const out = [];
+  raw.forEach(t => {
+    const key = String(t || "").trim().toLowerCase();
+    if(BADGE_ICONS[key] && !seen.has(key)){
+      seen.add(key);
+      const b = BADGE_ICONS[key];
+      out.push(`<span class="card-badge" title="${b.label}" aria-label="${b.label}" role="img">${b.svg}</span>`);
+    }
+  });
+  return out.length ? `<div class="card-badges">${out.join("")}</div>` : "";
+}
+
 function cardHTML(item, idx, sourceArrRef){
   const meta = CATEGORY_META[item.category] || {cls:"nonfood", label:item.category || "—"};
   return `<div class="card" data-idx="${idx}">
     <div class="card-img">
       <img src="data:image/jpeg;base64,${item.photo.image_data}">
+      ${badgesHTML(item)}
     </div>
     <div class="card-body">
       <div class="card-title">${escapeHTML(item.layoutName)}</div>
@@ -1075,13 +1134,12 @@ function filterBrandTree(query){
       if(match) anyMatch = true;
     });
     letterLi.style.display = anyMatch ? "" : "none";
-    const caret = letterLi.querySelector(".node .caret");
     if(q && anyMatch){
       letterUl.style.display = "block";
-      caret.textContent = "▾";
+      letterLi.querySelector(".node").classList.add("open");
     } else if(!q){
       letterUl.style.display = "none";
-      caret.textContent = "▸";
+      letterLi.querySelector(".node").classList.remove("open");
     }
   });
 }
