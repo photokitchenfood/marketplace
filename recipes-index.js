@@ -148,6 +148,51 @@ const RECIPES_INDEX = [
     "count": 9
   },
   {
+    "id": "2512-December-IG",
+    "label": "December IG",
+    "type": "photo",
+    "year": 2025,
+    "month": 12,
+    "file": "recipes/2512-December-IG.js",
+    "count": 12
+  },
+  {
+    "id": "2512-Christmas",
+    "label": "Christmas",
+    "type": "photo",
+    "year": 2025,
+    "month": 12,
+    "file": "recipes/2512-Christmas.js",
+    "count": 9
+  },
+  {
+    "id": "2511-November-IG",
+    "label": "November IG",
+    "type": "photo",
+    "year": 2025,
+    "month": 11,
+    "file": "recipes/2511-November-IG.js",
+    "count": 29
+  },
+  {
+    "id": "2511-Drink-Fest",
+    "label": "Drink Fest",
+    "type": "photo",
+    "year": 2025,
+    "month": 11,
+    "file": "recipes/2511-Drink-Fest.js",
+    "count": 12
+  },
+  {
+    "id": "2510-Wine-Fair",
+    "label": "Wine Fair",
+    "type": "photo",
+    "year": 2025,
+    "month": 10,
+    "file": "recipes/2510-Wine-Fair.js",
+    "count": 1
+  },
+  {
     "id": "2510-TMP-Anniversary",
     "label": "TMP Anniversary",
     "type": "photo",
@@ -155,6 +200,51 @@ const RECIPES_INDEX = [
     "month": 10,
     "file": "recipes/2510-TMP-Anniversary.js",
     "count": 7
+  },
+  {
+    "id": "2510-Shop-Collect-Videos",
+    "label": "Shop & Collect (Videos)",
+    "type": "video",
+    "year": 2025,
+    "month": 10,
+    "file": "recipes/2510-Shop-Collect-Videos.js",
+    "count": 3
+  },
+  {
+    "id": "2510-Shop-Collect-Photos",
+    "label": "Shop & Collect (Photos)",
+    "type": "photo",
+    "year": 2025,
+    "month": 10,
+    "file": "recipes/2510-Shop-Collect-Photos.js",
+    "count": 4
+  },
+  {
+    "id": "2510-Pet-Month",
+    "label": "Pet Month",
+    "type": "photo",
+    "year": 2025,
+    "month": 10,
+    "file": "recipes/2510-Pet-Month.js",
+    "count": 3
+  },
+  {
+    "id": "2510-October-IG",
+    "label": "October IG",
+    "type": "photo",
+    "year": 2025,
+    "month": 10,
+    "file": "recipes/2510-October-IG.js",
+    "count": 9
+  },
+  {
+    "id": "2510-Halloween",
+    "label": "Halloween",
+    "type": "photo",
+    "year": 2025,
+    "month": 10,
+    "file": "recipes/2510-Halloween.js",
+    "count": 4
   },
   {
     "id": "2509-September-IG",

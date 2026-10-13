@@ -1096,7 +1096,7 @@ NON_FOOD_KEYWORDS = [
     "sanitizer", "personal care", "air freshener", "freshener", "automatic spray", "auto spray",
     "fragrance", "feminine", "mildew", "tote bag", "bathroom", "baygon",
 ]
-GROUP_SHOT_NAME_RE = re.compile(r"\bgroup\s+(?:shot|photo)\b", re.IGNORECASE)
+GROUP_SHOT_NAME_RE = re.compile(r"\bgroup\s+(?:shots?|photos?)\b", re.IGNORECASE)
 
 
 def _keyword_hit(text, keywords):
@@ -1314,6 +1314,9 @@ def extract_items(prs, profile, ppm=None, warnings=None, with_photos=True):
             warnings.append(f"[recipe slide {i + 1}] no layout code found in zone; skipping item{seen}")
             continue
 
+        if re.search(r"\[\s*insert\b", caption, re.IGNORECASE):
+            warnings.append(f"[recipe slide {i + 1}] layout {layout_code!r} ({layout_name!r}): caption still contains "
+                            f"template text ({caption[:60]!r}) — probably an unfinished layout")
         photo_b64 = None
         if with_photos:
             try:
@@ -1735,7 +1738,7 @@ def apply_protection(items, path):
     return conflicts, protected
 
 
-def prompt_campaign_mapping(campaigns, mappable, out_dir):
+def prompt_campaign_mapping(campaigns, mappable, out_dir, append=False, explicit_urls=()):
     """Ask the target content month (no default) and file label for every
     campaign. Returns [(filename, label, items)] or None if cancelled."""
     print("\nMap each campaign to the content month it should be filed under.")
@@ -1755,10 +1758,32 @@ def prompt_campaign_mapping(campaigns, mappable, out_dir):
         if entry.get("dropboxUrl"):
             file_entry["dropbox_urls"].add(entry["dropboxUrl"])
 
+    if append:
+        # --append-existing: layouts already in a target file stay (in their original order); layouts
+        # extracted this run are added, replacing any existing row with the same layout code
+        for filename, file_entry in files.items():
+            path = out_dir / filename
+            old_rows = load_existing_rows(path) if path.exists() else None
+            if not old_rows:
+                continue
+            new_codes = {it["layoutCode"] for it in file_entry["items"]}
+            kept = [r for r in old_rows if r.get("layoutCode") not in new_codes]
+            file_entry["kept_rows"] = len(kept)
+            file_entry["items"] = kept + file_entry["items"]
+            # the file's existing link only counts when no campaign merged into it was given one explicitly
+            if not any(u in explicit_urls for u in file_entry["dropbox_urls"]):
+                m = re.search(r"\.dropboxUrl = (\"[^\"]*\");", path.read_text(encoding="utf-8"))
+                if m:
+                    file_entry["dropbox_urls"].add(json.loads(m.group(1)))
+
     print("\nPlanned output:")
     for filename, file_entry in files.items():
         label, file_items, dropbox_urls = file_entry["label"], file_entry["items"], file_entry["dropbox_urls"]
-        exists = "  (EXISTS — will be overwritten)" if (out_dir / filename).exists() else ""
+        if (out_dir / filename).exists():
+            exists = (f"  (EXISTS — APPENDING: {file_entry.get('kept_rows', 0)} existing row(s) kept)"
+                      if append else "  (EXISTS — will be overwritten)")
+        else:
+            exists = ""
         sources = ", ".join(
             f"{c} x{sum(1 for it in file_items if it['campaign'] == c)}"
             for c in dict.fromkeys(it["campaign"] for it in file_items)
@@ -1926,10 +1951,10 @@ def run_backtest(loaded_specs, tune_through):
 # Layout-name hygiene and explicit overrides
 # ---------------------------------------------------------------------
 
-_GENERIC_GROUP_RE = re.compile(r"\bgroup\s+(?:shot|photo|layout)\b", re.IGNORECASE)
+_GENERIC_GROUP_RE = re.compile(r"\bgroup\s+(?:shots?|photos?|layouts?)\b", re.IGNORECASE)
 
 
-_GROUP_PREFIX_RE = re.compile(r"^\s*group\s+(?:shot|photo|layout)\b\s*[A-Za-z0-9]?\s*[-–—|:]*\s*", re.IGNORECASE)
+_GROUP_PREFIX_RE = re.compile(r"^\s*group\s+(?:shots?|photos?|layouts?)\b\s*[A-Za-z0-9]?\s*[-–—|:]*\s*", re.IGNORECASE)
 
 
 def is_generic_group_name(item):
@@ -1961,7 +1986,7 @@ def suggest_group_name(item):
             and normalize_title(rest) not in ("", "summer", "food", "non food", "nonfood", "mixed", "lifestyle")):
         return rest
     brands = item["brand"]
-    if 1 <= len(brands) <= 3:
+    if 1 <= len(brands) <= 3 and len(" & ".join(brands)) <= 48:
         return " & ".join(brands)
     return None
 
@@ -2081,6 +2106,12 @@ def main():
                         help="Leave a layout out of the output (repeatable), e.g. a copy carried over from another deck")
     parser.add_argument("--rename-group-shots", action="store_true",
                         help="Rename every generic Group Shot layout still left to its suggested product-based name")
+    parser.add_argument("--only", action="append", default=[], metavar="CAMPAIGN",
+                        help="Only write these campaigns/groups (repeatable, after overrides); everything else extracted "
+                             "this run is ignored and its files are left untouched")
+    parser.add_argument("--append-existing", action="store_true",
+                        help="When an output file already exists, keep its other layouts and add this run's "
+                             "layouts to it instead of overwriting it")
     parser.add_argument("--dropbox-url", action="append", default=[], metavar="CAMPAIGN=URL",
                         help="Set a campaign's Dropbox link explicitly (repeatable); overrides label matching")
     args = parser.parse_args()
@@ -2155,6 +2186,13 @@ def main():
     campaigns = collect_campaigns(pairs)
     warnings.extend(assign_dropbox_urls(campaigns, pairs, dropbox_overrides))
     mappable = print_dry_run(campaigns, correlation_checks(pairs))
+    if args.only:
+        wanted = {normalize_campaign(n) for n in args.only}
+        unknown = wanted - set(mappable)
+        if unknown:
+            raise SystemExit(f"--only: no such campaign/group in this run: {sorted(unknown)} (have: {mappable})")
+        mappable = [c for c in mappable if c in wanted]
+        print(f"\n--only: writing just {mappable}; every other campaign extracted this run is ignored")
     print_layout_table(items)
     print_warnings(warnings, items)
 
@@ -2173,7 +2211,8 @@ def main():
             plan = None
         else:
             prompt_generic_renames(items)
-            plan = prompt_campaign_mapping(campaigns, mappable, out_dir)
+            plan = prompt_campaign_mapping(campaigns, mappable, out_dir, args.append_existing,
+                                           set(dropbox_overrides.values()))
     except (EOFError, KeyboardInterrupt):
         plan = None
     if plan is None:
