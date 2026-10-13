@@ -58,7 +58,7 @@ import io
 import json
 import re
 import sys
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from datetime import date
 from pathlib import Path
 
@@ -395,8 +395,39 @@ PROFILE_2023_2026 = TemplateProfile(
     zone_badge=dict(left=(6.30, 7.30), top=(0.40, 0.75)),
 )
 
+@dataclass(frozen=True)
+class TextBoxTitleProfile(TemplateProfile):
+    """Same template, except the layout name may be a plain text box at the
+    title position instead of a title placeholder (seen in the Sep 2025 deck,
+    where the title placeholders simply weren't used). The title lookup is
+    the ONLY difference: every other lookup and every fingerprint check is
+    inherited unchanged."""
+    zone_title: dict = field(default_factory=lambda: dict(left=(0.85, 1.15), top=(0.45, 0.70)))
+
+    def title_of(self, slide):
+        placeholder = super().title_of(slide)
+        if placeholder is not None and shape_text(placeholder).strip():
+            return placeholder
+        boxes = [sh for sh in slide.shapes
+                 if sh.shape_type == MSO_SHAPE_TYPE.TEXT_BOX and sh.has_text_frame
+                 and shape_text(sh).strip() and in_zone(sh, self.zone_title)]
+        return boxes[-1] if boxes else placeholder  # topmost text box wins if several are stacked
+
+
+PROFILE_2025_09_TEXTBOX_TITLES = TextBoxTitleProfile(
+    name="TMP 2025-09 (text-box titles)",
+    slide_size_in=PROFILE_2023_2026.slide_size_in,
+    code_re=PROFILE_2023_2026.code_re,
+    zone_code=PROFILE_2023_2026.zone_code,
+    zone_banner=PROFILE_2023_2026.zone_banner,
+    zone_photo=PROFILE_2023_2026.zone_photo,
+    zone_badge=PROFILE_2023_2026.zone_badge,
+)
+
+# Order matters: the first profile a deck matches is used, so a deck that fits the
+# standard template never falls through to a variant.
 # Add 2021 / 2022 profiles here (bare-number codes, category printed on each slide, ...).
-PROFILES = [PROFILE_2023_2026]
+PROFILES = [PROFILE_2023_2026, PROFILE_2025_09_TEXTBOX_TITLES]
 
 
 def detect_profile(prs, label, kind="recipe"):
@@ -1139,6 +1170,7 @@ def extract_items(prs, profile, ppm=None, warnings=None, with_photos=True):
         warnings = []
     slides = list(prs.slides)
     photo_recs, recipe_recs, other_recs = [], [], []
+    stacked = []  # (slide number, valid chips bottom->top) where several chips share the code position
     current_shoot_type = None
 
     for i, slide in enumerate(slides):
@@ -1160,10 +1192,7 @@ def extract_items(prs, profile, ppm=None, warnings=None, with_photos=True):
         code, rejected = profile.code_of(slide)
         valid_codes, _ = profile.codes_in_zone(slide)
         if len(set(valid_codes)) > 1:
-            warnings.append(
-                f"[recipe slide {i + 1}] stacked layout-code chips {valid_codes}; "
-                f"using the topmost ({valid_codes[-1]!r})"
-            )
+            stacked.append((i + 1, valid_codes))
         if photo_ph is not None:
             t = profile.title_of(slide)
             photo_recs.append({"i": i, "slide": slide, "photo": photo_ph, "code": code,
@@ -1181,6 +1210,21 @@ def extract_items(prs, profile, ppm=None, warnings=None, with_photos=True):
                     f"[recipe slide {i + 1}] has layout code {code!r} and a caption but no photo was found "
                     f"in the photo position — not extracted as an item"
                 )
+
+    # Stacked chips (a leftover code under the visible one): the topmost wins. One summary line
+    # per leftover code, since template leftovers like BTS1 can sit under dozens of slides.
+    real_codes = {r["code"] for r in photo_recs if r["code"]}
+    lower = {}
+    for slide_no, chips in stacked:
+        for c in dict.fromkeys(chips[:-1]):
+            if c != chips[-1]:
+                lower.setdefault(c, []).append((slide_no, chips[-1]))
+    for c, hits in lower.items():
+        slides_txt = ", ".join(str(n) for n, _ in hits[:12]) + (f", … ({len(hits)} slides)" if len(hits) > 12 else "")
+        note = (f"{c!r} is also a real layout code in this deck — check these slides" if c in real_codes
+                else f"{c!r} is not a layout code here (template leftover)")
+        warnings.append(f"stacked layout-code chips: {c!r} sits under the visible code on slide(s) {slides_txt}; "
+                        f"topmost used. {note}")
 
     # ---- pair recipe slides to photo slides: layout code first, adjacency as fallback
     photo_codes = {r["code"] for r in photo_recs if r["code"]}
@@ -1401,6 +1445,8 @@ def write_js_file(out_path, shoot_type_label, items, generated_date, dropbox_url
         f"// Shoot: {shoot_type_label}",
         f"// Generated: {generated_date.isoformat()}",
         f"// Items: {len(items)}",
+        *([f"// Template profile: {', '.join(dict.fromkeys(i['_profile'] for i in items if i.get('_profile')))}"]
+          if any(i.get("_profile") for i in items) else []),
         "",
         f"const {var_name} = [",
     ]
@@ -1470,6 +1516,7 @@ def load_deck_pair(yymm, recipe_path, preprod_path, rprs, profile, pprs):
     warnings.extend(f"[{yymm}] {w}" for w in item_warnings)
     for item in items:
         item["_deck"] = yymm
+        item["_profile"] = profile.name
     print(f"[{yymm}]   -> {len(items)} items extracted")
 
     for line in summarize_overview(items, parse_overview(prs)):
@@ -1910,7 +1957,8 @@ def suggest_group_name(item):
     the bolded brand(s) in the caption (up to 3, joined with " & ")."""
     rest = _GROUP_PREFIX_RE.sub("", item["layoutName"]).strip()
     rest = re.sub(r"^[\s(]+|[\s)]+$", "", rest)  # drop wrapping parentheses
-    if rest and not _GENERIC_GROUP_RE.search(rest) and normalize_title(rest) not in ("", "summer"):
+    if (rest and not _GENERIC_GROUP_RE.search(rest)
+            and normalize_title(rest) not in ("", "summer", "food", "non food", "nonfood", "mixed", "lifestyle")):
         return rest
     brands = item["brand"]
     if 1 <= len(brands) <= 3:

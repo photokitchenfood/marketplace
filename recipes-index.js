@@ -1,6 +1,6 @@
 // PhotoKitchen Recipes Index
 // Auto-generated — do not edit manually
-// Last updated: 2026-10-09
+// Last updated: 2026-10-13
 
 const RECIPES_INDEX = [
   {
@@ -146,6 +146,87 @@ const RECIPES_INDEX = [
     "month": 1,
     "file": "recipes/2601-Australian-Festival.js",
     "count": 9
+  },
+  {
+    "id": "2510-TMP-Anniversary",
+    "label": "TMP Anniversary",
+    "type": "photo",
+    "year": 2025,
+    "month": 10,
+    "file": "recipes/2510-TMP-Anniversary.js",
+    "count": 7
+  },
+  {
+    "id": "2509-September-IG",
+    "label": "September IG",
+    "type": "photo",
+    "year": 2025,
+    "month": 9,
+    "file": "recipes/2509-September-IG.js",
+    "count": 5
+  },
+  {
+    "id": "2509-European-Festival",
+    "label": "European Festival",
+    "type": "photo",
+    "year": 2025,
+    "month": 9,
+    "file": "recipes/2509-European-Festival.js",
+    "count": 9
+  },
+  {
+    "id": "2509-Cheese-Festival",
+    "label": "Cheese Festival",
+    "type": "photo",
+    "year": 2025,
+    "month": 9,
+    "file": "recipes/2509-Cheese-Festival.js",
+    "count": 6
+  },
+  {
+    "id": "2509-Breakfast-Fair",
+    "label": "Breakfast Fair",
+    "type": "photo",
+    "year": 2025,
+    "month": 9,
+    "file": "recipes/2509-Breakfast-Fair.js",
+    "count": 19
+  },
+  {
+    "id": "2508-Lifestyle",
+    "label": "Lifestyle",
+    "type": "photo",
+    "year": 2025,
+    "month": 8,
+    "file": "recipes/2508-Lifestyle.js",
+    "count": 2
+  },
+  {
+    "id": "2508-Back-To-School",
+    "label": "Back To School",
+    "type": "photo",
+    "year": 2025,
+    "month": 8,
+    "file": "recipes/2508-Back-To-School.js",
+    "count": 7
+  },
+  {
+    "id": "2508-Asian-Festival-Videos",
+    "label": "Asian Festival (Videos)",
+    "type": "video",
+    "year": 2025,
+    "month": 8,
+    "file": "recipes/2508-Asian-Festival-Videos.js",
+    "count": 2
+  },
+  {
+    "id": "2508-Asian-Festival-Photos",
+    "label": "Asian Festival (Photos)",
+    "type": "photo",
+    "year": 2025,
+    "month": 8,
+    "file": "recipes/2508-Asian-Festival-Photos.js",
+    "count": 16
   },
   {
     "id": "2507-US-Festival",
