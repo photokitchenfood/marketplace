@@ -481,13 +481,103 @@ const RECIPES_INDEX = [
     "count": 1
   },
   {
-    "id": "2406-US-Festival",
+    "id": "2409-September-IG",
+    "label": "September IG",
+    "type": "photo",
+    "year": 2024,
+    "month": 9,
+    "file": "recipes/2409-September-IG.js",
+    "count": 7
+  },
+  {
+    "id": "2409-Grandparents-Day",
+    "label": "Grandparents Day",
+    "type": "photo",
+    "year": 2024,
+    "month": 9,
+    "file": "recipes/2409-Grandparents-Day.js",
+    "count": 4
+  },
+  {
+    "id": "2409-European-Festival-Videos",
+    "label": "European Festival (Videos)",
+    "type": "video",
+    "year": 2024,
+    "month": 9,
+    "file": "recipes/2409-European-Festival-Videos.js",
+    "count": 1
+  },
+  {
+    "id": "2409-European-Festival-Photos",
+    "label": "European Festival (Photos)",
+    "type": "photo",
+    "year": 2024,
+    "month": 9,
+    "file": "recipes/2409-European-Festival-Photos.js",
+    "count": 6
+  },
+  {
+    "id": "2408-Back-to-School-Videos",
+    "label": "Back to School (Videos)",
+    "type": "video",
+    "year": 2024,
+    "month": 8,
+    "file": "recipes/2408-Back-to-School-Videos.js",
+    "count": 2
+  },
+  {
+    "id": "2408-Back-to-School-Photos",
+    "label": "Back to School (Photos)",
+    "type": "photo",
+    "year": 2024,
+    "month": 8,
+    "file": "recipes/2408-Back-to-School-Photos.js",
+    "count": 9
+  },
+  {
+    "id": "2408-Asian-Festival-Videos",
+    "label": "Asian Festival (Videos)",
+    "type": "video",
+    "year": 2024,
+    "month": 8,
+    "file": "recipes/2408-Asian-Festival-Videos.js",
+    "count": 1
+  },
+  {
+    "id": "2408-Asian-Festival-Photos",
+    "label": "Asian Festival (Photos)",
+    "type": "photo",
+    "year": 2024,
+    "month": 8,
+    "file": "recipes/2408-Asian-Festival-Photos.js",
+    "count": 5
+  },
+  {
+    "id": "2407-US-Festival",
     "label": "US Festival",
     "type": "photo",
     "year": 2024,
-    "month": 6,
-    "file": "recipes/2406-US-Festival.js",
-    "count": 2
+    "month": 7,
+    "file": "recipes/2407-US-Festival.js",
+    "count": 6
+  },
+  {
+    "id": "2407-Snack-Festival",
+    "label": "Snack Festival",
+    "type": "photo",
+    "year": 2024,
+    "month": 7,
+    "file": "recipes/2407-Snack-Festival.js",
+    "count": 4
+  },
+  {
+    "id": "2407-July-IG",
+    "label": "July IG",
+    "type": "photo",
+    "year": 2024,
+    "month": 7,
+    "file": "recipes/2407-July-IG.js",
+    "count": 5
   },
   {
     "id": "2406-Midyear-Wine",
@@ -515,42 +605,6 @@ const RECIPES_INDEX = [
     "month": 6,
     "file": "recipes/2406-Fathers-Day.js",
     "count": 2
-  },
-  {
-    "id": "2406-Back-to-School-Videos",
-    "label": "Back to School (Videos)",
-    "type": "video",
-    "year": 2024,
-    "month": 6,
-    "file": "recipes/2406-Back-to-School-Videos.js",
-    "count": 2
-  },
-  {
-    "id": "2406-Back-to-School-Photos",
-    "label": "Back to School (Photos)",
-    "type": "photo",
-    "year": 2024,
-    "month": 6,
-    "file": "recipes/2406-Back-to-School-Photos.js",
-    "count": 9
-  },
-  {
-    "id": "2406-Asian-Festival-Videos",
-    "label": "Asian Festival (Videos)",
-    "type": "video",
-    "year": 2024,
-    "month": 6,
-    "file": "recipes/2406-Asian-Festival-Videos.js",
-    "count": 1
-  },
-  {
-    "id": "2406-Asian-Festival-Photos",
-    "label": "Asian Festival (Photos)",
-    "type": "photo",
-    "year": 2024,
-    "month": 6,
-    "file": "recipes/2406-Asian-Festival-Photos.js",
-    "count": 5
   },
   {
     "id": "2405-Mothers-Day",

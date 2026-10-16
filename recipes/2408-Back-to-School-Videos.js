@@ -50,5 +50,6 @@ const BACK_TO_SCHOOL_VIDEOS_DATA = [
     "needsPhotoSwap": true
   }
 ];
+BACK_TO_SCHOOL_VIDEOS_DATA.dropboxUrl = "https://www.dropbox.com/scl/fo/bp1lnsrbc5o15vbe925xo/AMB-W8wh52WBCDmmWaQyPTo?rlkey=oy6hc4t6uzifcgcvvylhp6zdm&st=nyb5vlwc&dl=0";
 
 if (typeof window !== 'undefined') window.__recipesData = BACK_TO_SCHOOL_VIDEOS_DATA;

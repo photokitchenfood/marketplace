@@ -216,7 +216,7 @@ class TemplateProfile:
         stray chip (e.g. a leftover '1') is rejected by the code pattern."""
         valid, rejected = [], []
         for shape in self._autoshapes_in(slide, self.zone_code):
-            text = shape_text(shape).strip()
+            text = re.sub(r"\s+", "", shape_text(shape))  # a chip can wrap ("EF-\nEAP")
             if self.code_re.fullmatch(text):
                 valid.append(text)
             elif text:
@@ -425,10 +425,24 @@ PROFILE_2025_09_TEXTBOX_TITLES = TextBoxTitleProfile(
     zone_badge=PROFILE_2023_2026.zone_badge,
 )
 
+# The Sep 2024 deck: same template but the campaign banner sits further right
+# (left edge ~2.6in, text carries a year, e.g. "EUROPEAN FESTIVAL 2024") and the
+# layout name is a text box just left of the 0.85in title zone.
+PROFILE_2024_09_WIDE_BANNER = TextBoxTitleProfile(
+    name="TMP 2024-09 (wide banner, text-box titles)",
+    slide_size_in=PROFILE_2023_2026.slide_size_in,
+    code_re=PROFILE_2023_2026.code_re,
+    zone_code=PROFILE_2023_2026.zone_code,
+    zone_banner=dict(left=(2.30, 2.90), top=(-0.05, 0.15)),
+    zone_photo=PROFILE_2023_2026.zone_photo,
+    zone_badge=PROFILE_2023_2026.zone_badge,
+    zone_title=dict(left=(0.70, 1.15), top=(0.45, 0.70)),
+)
+
 # Order matters: the first profile a deck matches is used, so a deck that fits the
 # standard template never falls through to a variant.
 # Add 2021 / 2022 profiles here (bare-number codes, category printed on each slide, ...).
-PROFILES = [PROFILE_2023_2026, PROFILE_2025_09_TEXTBOX_TITLES]
+PROFILES = [PROFILE_2023_2026, PROFILE_2025_09_TEXTBOX_TITLES, PROFILE_2024_09_WIDE_BANNER]
 
 
 def detect_profile(prs, label, kind="recipe"):
