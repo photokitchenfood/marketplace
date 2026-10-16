@@ -5,7 +5,7 @@
 const JUNE_IG_DATA = [
   {
     "layoutCode": "IG1",
-    "layoutName": "Emborg",
+    "layoutName": "Emborg (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
@@ -49,7 +49,7 @@ const JUNE_IG_DATA = [
   },
   {
     "layoutCode": "IG3",
-    "layoutName": "Monde Cream Puffs",
+    "layoutName": "Monde (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
@@ -68,7 +68,7 @@ const JUNE_IG_DATA = [
   },
   {
     "layoutCode": "IG4",
-    "layoutName": "Magnolia Ice Cream",
+    "layoutName": "Magnolia (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",

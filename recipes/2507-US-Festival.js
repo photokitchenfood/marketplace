@@ -940,7 +940,7 @@ const US_FESTIVAL_DATA = [
   },
   {
     "layoutCode": "US40",
-    "layoutName": "Oreo Group Shot",
+    "layoutName": "Oreo, Chips Ahoy (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
@@ -960,7 +960,7 @@ const US_FESTIVAL_DATA = [
   },
   {
     "layoutCode": "US41",
-    "layoutName": "Hershey's and Reese's Group Shot",
+    "layoutName": "Hershey’s, Reese’s (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
@@ -980,7 +980,7 @@ const US_FESTIVAL_DATA = [
   },
   {
     "layoutCode": "US42",
-    "layoutName": "Milk Land Hokkaido Group Shot",
+    "layoutName": "MILK LAND (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",

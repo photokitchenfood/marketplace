@@ -112,7 +112,7 @@ const JULY_IG_DATA = [
   },
   {
     "layoutCode": "IG06",
-    "layoutName": "Megmilk Snow Brand",
+    "layoutName": "Megmilk Snow (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
@@ -131,7 +131,7 @@ const JULY_IG_DATA = [
   },
   {
     "layoutCode": "IG07",
-    "layoutName": "Cheer Cheese",
+    "layoutName": "Cheer (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
@@ -150,7 +150,7 @@ const JULY_IG_DATA = [
   },
   {
     "layoutCode": "IG08",
-    "layoutName": "Chino’s",
+    "layoutName": "Chino’s Deli (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",

@@ -646,7 +646,7 @@ const NOVEMBER_IG_DATA = [
   },
   {
     "layoutCode": "DH27",
-    "layoutName": "Magnolia Chicken (Group Shot)",
+    "layoutName": "Magnolia (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
@@ -665,7 +665,7 @@ const NOVEMBER_IG_DATA = [
   },
   {
     "layoutCode": "DH28",
-    "layoutName": "Dutchmill (Group Shot)",
+    "layoutName": "Dutch Mill (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
@@ -684,7 +684,7 @@ const NOVEMBER_IG_DATA = [
   },
   {
     "layoutCode": "DH29",
-    "layoutName": "Pascual & DVF (Group Shot)",
+    "layoutName": "Pascual, DVF Dairy Farms (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",

@@ -99,7 +99,7 @@ const APRIL_IG_DATA = [
   },
   {
     "layoutCode": "IG5",
-    "layoutName": "Propitious Ice Creams",
+    "layoutName": "Propitious Ice Creams (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",

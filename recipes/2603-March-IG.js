@@ -85,7 +85,7 @@ const MARCH_IG_DATA = [
   },
   {
     "layoutCode": "MH5",
-    "layoutName": "Ensure Gold & Glucerna Group Shot",
+    "layoutName": "Ensure, Glucerna (Group Shot)",
     "category": "GROUP SHOT",
     "campaign": "MARCH IG",
     "caption": "Looking after your health can be as simple as what you reach for each day. 🌱\n\nEnsure Gold is formulated to support strength and vitality, with high-quality protein, HMB and essential nutrients to help maintain muscle and energy as you go about your routine. For those keeping an eye on blood sugar, Glucerna offers a more tailored option, designed with a slow-release carbohydrate system to support better glucose control while still delivering balanced nutrition.\n\nTwo thoughtful choices, depending on what your body needs. Find them at The Marketplace. 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",

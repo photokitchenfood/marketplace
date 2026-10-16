@@ -207,7 +207,7 @@ const EUROPEAN_FESTIVAL_DATA = [
   },
   {
     "layoutCode": "EF9",
-    "layoutName": "European Festival Group Shot",
+    "layoutName": "European Festival (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",

@@ -1,0 +1,346 @@
+[
+ {
+  "file": "2401-Australian-Festival-Photos",
+  "code": "AF1",
+  "old": "Quaker Group Shot",
+  "oldCategory": "GROUP SHOT",
+  "new": "Quaker (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2401-Australian-Festival-Photos",
+  "code": "AF2",
+  "old": "OX and Palm Group Shot",
+  "oldCategory": "GROUP SHOT",
+  "new": "Ox and Palm (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2402-Exclusive-Selections",
+  "code": "ES1",
+  "old": "Exclusive Selections Group Shot",
+  "oldCategory": "GROUP SHOT",
+  "new": "Exclusive Selections (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2502-February-IG",
+  "code": "IG1",
+  "old": "Group Shot A",
+  "oldCategory": "GROUP SHOT",
+  "new": "Fortune (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2503-March-IG",
+  "code": "IG1",
+  "old": "Tempura + Mushroom Sisig",
+  "oldCategory": "GROUP SHOT",
+  "new": "The Kabute Farm, Pacific Bay (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2503-March-IG",
+  "code": "IG2",
+  "old": "Farm Fresh 100% Australian Milk",
+  "oldCategory": "GROUP SHOT",
+  "new": "Farm Fresh (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2503-Summer-Photos",
+  "code": "SM9",
+  "old": "Summer Group Shot",
+  "oldCategory": "GROUP SHOT",
+  "new": "Libby’s, Casino, Meadows, Tide (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2504-April-IG",
+  "code": "IG5",
+  "old": "Propitious Ice Creams",
+  "oldCategory": "GROUP SHOT",
+  "new": "Propitious Ice Creams (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2505-May-IG",
+  "code": "IG5",
+  "old": "Nestle Ice Cream",
+  "oldCategory": "GROUP SHOT",
+  "new": "Nestlé (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2506-June-IG",
+  "code": "IG1",
+  "old": "Emborg",
+  "oldCategory": "GROUP SHOT",
+  "new": "Emborg (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2506-June-IG",
+  "code": "IG3",
+  "old": "Monde Cream Puffs",
+  "oldCategory": "GROUP SHOT",
+  "new": "Monde (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2506-June-IG",
+  "code": "IG4",
+  "old": "Magnolia Ice Cream",
+  "oldCategory": "GROUP SHOT",
+  "new": "Magnolia (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2507-July-IG",
+  "code": "IG06",
+  "old": "Megmilk Snow Brand",
+  "oldCategory": "GROUP SHOT",
+  "new": "Megmilk Snow (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2507-July-IG",
+  "code": "IG07",
+  "old": "Cheer Cheese",
+  "oldCategory": "GROUP SHOT",
+  "new": "Cheer (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2507-July-IG",
+  "code": "IG08",
+  "old": "Chino’s",
+  "oldCategory": "GROUP SHOT",
+  "new": "Chino’s Deli (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2507-US-Festival",
+  "code": "US40",
+  "old": "Oreo Group Shot",
+  "oldCategory": "GROUP SHOT",
+  "new": "Oreo, Chips Ahoy (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2507-US-Festival",
+  "code": "US41",
+  "old": "Hershey's and Reese's Group Shot",
+  "oldCategory": "GROUP SHOT",
+  "new": "Hershey’s, Reese’s (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2507-US-Festival",
+  "code": "US42",
+  "old": "Milk Land Hokkaido Group Shot",
+  "oldCategory": "GROUP SHOT",
+  "new": "MILK LAND (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2508-Asian-Festival-Photos",
+  "code": "AF8",
+  "old": "UCC",
+  "oldCategory": "GROUP SHOT",
+  "new": "UCC (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2508-Asian-Festival-Photos",
+  "code": "AF9",
+  "old": "Welch’s",
+  "oldCategory": "GROUP SHOT",
+  "new": "Welch’s (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2508-Asian-Festival-Photos",
+  "code": "AF10",
+  "old": "Paldo",
+  "oldCategory": "GROUP SHOT",
+  "new": "Paldo (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2508-Asian-Festival-Photos",
+  "code": "AF11",
+  "old": "San Marino",
+  "oldCategory": "GROUP SHOT",
+  "new": "San Marino (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2508-Asian-Festival-Photos",
+  "code": "AF12",
+  "old": "Luncheon Meat",
+  "oldCategory": "GROUP SHOT",
+  "new": "Royal Smokehouse, Lotte, Ma Ling (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2508-Asian-Festival-Photos",
+  "code": "AF13",
+  "old": "Ramen",
+  "oldCategory": "GROUP SHOT",
+  "new": "Hwangtae Ramen (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2508-Asian-Festival-Photos",
+  "code": "AF14",
+  "old": "Enso",
+  "oldCategory": "GROUP SHOT",
+  "new": "Enso (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2508-Asian-Festival-Photos",
+  "code": "AF15",
+  "old": "Siam",
+  "oldCategory": "GROUP SHOT",
+  "new": "Siam (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2508-Back-To-School",
+  "code": "BTS6",
+  "old": "Group Shot A (Non-Food)",
+  "oldCategory": "GROUP SHOT",
+  "new": "Meadows, Tide, Hydro Flask (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2508-Back-To-School",
+  "code": "BTS7",
+  "old": "Group Shot B (Food)",
+  "oldCategory": "GROUP SHOT",
+  "new": "Waitrose, Meadows, Casino, Tender Juicy (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2509-European-Festival",
+  "code": "EF9",
+  "old": "European Festival Group Shot",
+  "oldCategory": "GROUP SHOT",
+  "new": "European Festival (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2510-Shop-Collect-Photos",
+  "code": "SC4",
+  "old": "Ariel & Downy Group Shot",
+  "oldCategory": "GROUP SHOT",
+  "new": "Ariel, Downy (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2510-Wine-Fair",
+  "code": "WF1",
+  "old": "Wine Fair (Group Shot)",
+  "oldCategory": "GROUP SHOT",
+  "new": "Calon Ségur, Victoire, Australian Gold, Meadows (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2511-November-IG",
+  "code": "DH27",
+  "old": "Magnolia Chicken (Group Shot)",
+  "oldCategory": "GROUP SHOT",
+  "new": "Magnolia (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2511-November-IG",
+  "code": "DH28",
+  "old": "Dutchmill (Group Shot)",
+  "oldCategory": "GROUP SHOT",
+  "new": "Dutch Mill (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2511-November-IG",
+  "code": "DH29",
+  "old": "Pascual & DVF (Group Shot)",
+  "oldCategory": "GROUP SHOT",
+  "new": "Pascual, DVF Dairy Farms (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2512-Christmas",
+  "code": "CH9",
+  "old": "Non-food (Group Shot)",
+  "oldCategory": "GROUP SHOT",
+  "new": "Tide, Joy, Glade, Sanicare (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2512-December-IG",
+  "code": "DH9",
+  "old": "Arce & BTIC (Group Shot)",
+  "oldCategory": "GROUP SHOT",
+  "new": "Arce Dairy, BTIC (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2512-December-IG",
+  "code": "DH10",
+  "old": "Cibo Pizza Romana (Group Shot)",
+  "oldCategory": "GROUP SHOT",
+  "new": "Cibo (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2601-Australian-Festival",
+  "code": "AF9",
+  "old": "Quaker Oats Group Shot",
+  "oldCategory": "GROUP SHOT",
+  "new": "Quaker (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2603-March-IG",
+  "code": "MH5",
+  "old": "Ensure Gold & Glucerna Group Shot",
+  "oldCategory": "GROUP SHOT",
+  "new": "Ensure, Glucerna (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2603-Summer-Campaign",
+  "code": "SC9",
+  "old": "Summer Group Shot",
+  "oldCategory": "GROUP SHOT",
+  "new": "Summer (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2604-April-IG",
+  "code": "IG3",
+  "old": "Dinner Bell Cheese Group Shot",
+  "oldCategory": "OUT OF PACK W/ FOOD STYLING",
+  "new": "Dinner Bell (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2604-April-IG",
+  "code": "IG4",
+  "old": "Meiji Group Shot",
+  "oldCategory": "OUT OF PACK W/ FOOD STYLING",
+  "new": "Meiji (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ },
+ {
+  "file": "2604-April-IG",
+  "code": "IG5",
+  "old": "Selecta Ice Cream Group Shot",
+  "oldCategory": "OUT OF PACK W/ FOOD STYLING",
+  "new": "Selecta (Group Shot)",
+  "newCategory": "GROUP SHOT"
+ }
+]

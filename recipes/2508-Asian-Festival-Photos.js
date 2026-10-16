@@ -175,7 +175,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
   },
   {
     "layoutCode": "AF8",
-    "layoutName": "UCC",
+    "layoutName": "UCC (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
@@ -194,7 +194,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
   },
   {
     "layoutCode": "AF9",
-    "layoutName": "Welch’s",
+    "layoutName": "Welch’s (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
@@ -213,7 +213,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
   },
   {
     "layoutCode": "AF10",
-    "layoutName": "Paldo",
+    "layoutName": "Paldo (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
@@ -232,7 +232,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
   },
   {
     "layoutCode": "AF11",
-    "layoutName": "San Marino",
+    "layoutName": "San Marino (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
@@ -251,7 +251,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
   },
   {
     "layoutCode": "AF12",
-    "layoutName": "Luncheon Meat",
+    "layoutName": "Royal Smokehouse, Lotte, Ma Ling (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
@@ -272,7 +272,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
   },
   {
     "layoutCode": "AF13",
-    "layoutName": "Ramen",
+    "layoutName": "Hwangtae Ramen (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
@@ -292,7 +292,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
   },
   {
     "layoutCode": "AF14",
-    "layoutName": "Enso",
+    "layoutName": "Enso (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
@@ -311,7 +311,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
   },
   {
     "layoutCode": "AF15",
-    "layoutName": "Siam",
+    "layoutName": "Siam (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",

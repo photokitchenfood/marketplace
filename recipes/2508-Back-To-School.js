@@ -113,7 +113,7 @@ const BACK_TO_SCHOOL_DATA = [
   },
   {
     "layoutCode": "BTS6",
-    "layoutName": "Group Shot A (Non-Food)",
+    "layoutName": "Meadows, Tide, Hydro Flask (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
@@ -135,7 +135,7 @@ const BACK_TO_SCHOOL_DATA = [
   },
   {
     "layoutCode": "BTS7",
-    "layoutName": "Group Shot B (Food)",
+    "layoutName": "Waitrose, Meadows, Casino, Tender Juicy (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",

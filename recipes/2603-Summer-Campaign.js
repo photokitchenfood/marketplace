@@ -160,7 +160,7 @@ const SUMMER_CAMPAIGN_DATA = [
   },
   {
     "layoutCode": "SC9",
-    "layoutName": "Summer Group Shot",
+    "layoutName": "Summer (Group Shot)",
     "category": "GROUP SHOT",
     "campaign": "SUMMER CAMPAIGN",
     "caption": "A small switch for a bigger impact! 🐋\n\nThis tote bag does more than carry your groceries; it supports a cause, helping spread awareness on protecting our sea cows, while cutting down on single-use waste.\n\nFind it the next time you’re at The Marketplace and fill it with everyday essentials that do their part, too: Ariel Power Liquid for a thorough clean with a fresh finish, pantry staples and snacks for easy meals, and quality picks like well-marbled steak and reliable wine to round things out.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",

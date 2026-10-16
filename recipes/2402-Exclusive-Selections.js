@@ -6,7 +6,7 @@
 const EXCLUSIVE_SELECTIONS_DATA = [
   {
     "layoutCode": "ES1",
-    "layoutName": "Exclusive Selections Group Shot",
+    "layoutName": "Exclusive Selections (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",

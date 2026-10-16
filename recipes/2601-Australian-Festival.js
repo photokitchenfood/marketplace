@@ -189,7 +189,7 @@ const AUSTRALIAN_FESTIVAL_DATA = [
   },
   {
     "layoutCode": "AF9",
-    "layoutName": "Quaker Oats Group Shot",
+    "layoutName": "Quaker (Group Shot)",
     "category": "GROUP SHOT",
     "campaign": "AUSTRALIAN FESTIVAL",
     "caption": "Stocking the pantry starts here! 🥣🇦🇺\n\nQuaker Oats — an Aussie favorite — are a reliable staple you’ll keep reaching for, whether it’s for creamy overnight oats, comforting savory bowls or classic oatmeal cookies fresh from the oven. 🍪✨Simple, versatile and always dependable, make sure that you always have some within reach!\n\nPick up your go-to packs at The Marketplace and keep good breakfasts (and snacks) readily available. 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",

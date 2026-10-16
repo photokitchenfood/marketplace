@@ -6,7 +6,7 @@
 const AUSTRALIAN_FESTIVAL_PHOTOS_DATA = [
   {
     "layoutCode": "AF1",
-    "layoutName": "Quaker Group Shot",
+    "layoutName": "Quaker (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
@@ -25,7 +25,7 @@ const AUSTRALIAN_FESTIVAL_PHOTOS_DATA = [
   },
   {
     "layoutCode": "AF2",
-    "layoutName": "OX and Palm Group Shot",
+    "layoutName": "Ox and Palm (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",

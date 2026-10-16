@@ -5,7 +5,7 @@
 const MARCH_IG_DATA = [
   {
     "layoutCode": "IG1",
-    "layoutName": "Tempura + Mushroom Sisig",
+    "layoutName": "The Kabute Farm, Pacific Bay (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
@@ -25,7 +25,7 @@ const MARCH_IG_DATA = [
   },
   {
     "layoutCode": "IG2",
-    "layoutName": "Farm Fresh 100% Australian Milk",
+    "layoutName": "Farm Fresh (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",

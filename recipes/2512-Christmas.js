@@ -177,7 +177,7 @@ const CHRISTMAS_DATA = [
   },
   {
     "layoutCode": "CH9",
-    "layoutName": "Non-food (Group Shot)",
+    "layoutName": "Tide, Joy, Glade, Sanicare (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",

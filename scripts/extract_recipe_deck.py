@@ -55,6 +55,7 @@ Usage:
 import argparse
 import base64
 import io
+import collections
 import json
 import re
 import sys
@@ -1954,50 +1955,108 @@ def run_backtest(loaded_specs, tune_through):
 _GENERIC_GROUP_RE = re.compile(r"\bgroup\s+(?:shots?|photos?|layouts?)\b", re.IGNORECASE)
 
 
-_GROUP_PREFIX_RE = re.compile(r"^\s*group\s+(?:shots?|photos?|layouts?)\b\s*[A-Za-z0-9]?\s*[-–—|:]*\s*", re.IGNORECASE)
+GROUP_SHOT_SUFFIX = " (Group Shot)"
+# The catalog UI tags brand-less items "! Generic"; it is never a real brand.
+_NO_BRAND_TAG = "! Generic"
+_CATALOG_BRANDS = None
 
 
-def is_generic_group_name(item):
-    """True for a layout whose name is "Group Shot" in the generic sense: the
-    catalog wants the featured product's name instead. That covers a bare
-    "Group Shot" / "Group Shot B" / "Summer Group Shot", and the same with
-    the product bolted on ("Group Shot A - Emborg", "Group Shot B — (Cheer
-    Cheese)"). "Dinner Bell Cheese Group Shot" (product first) is fine."""
-    name = item["layoutName"]
-    if _GROUP_PREFIX_RE.match(name):
-        return True
-    name = re.sub(r"\([^)]*\)", " ", name)
-    if not _GENERIC_GROUP_RE.search(name):
-        return False
-    campaign_words = set(normalize_title(item["campaign"]).split()) | {"campaign", "ig"}
-    rest = _GENERIC_GROUP_RE.sub(" ", name)
-    words = [w for w in normalize_title(rest).split() if len(w) > 1 and w not in campaign_words]
-    return not words
+def _brand_key(text):
+    return re.sub(r"[^a-z0-9]+", "", text.lower().replace("’", "'").replace("é", "e"))
 
 
-def suggest_group_name(item):
-    """A product-based replacement name, or None when there isn't a clear
-    one. Prefers the product already in the name ("Group Shot A - Emborg" ->
-    "Emborg", "Group Shot B — (Cheer Cheese)" -> "Cheer Cheese"); otherwise
-    the bolded brand(s) in the caption (up to 3, joined with " & ")."""
-    rest = _GROUP_PREFIX_RE.sub("", item["layoutName"]).strip()
-    rest = re.sub(r"^[\s(]+|[\s)]+$", "", rest)  # drop wrapping parentheses
-    if (rest and not _GENERIC_GROUP_RE.search(rest)
-            and normalize_title(rest) not in ("", "summer", "food", "non food", "nonfood", "mixed", "lifestyle")):
-        return rest
-    brands = item["brand"]
-    if 1 <= len(brands) <= 3 and len(" & ".join(brands)) <= 48:
-        return " & ".join(brands)
-    return None
+def catalog_brands():
+    """Counter of every brand string already in recipes/*.js (curly apostrophes), for
+    trimming bold product phrases to the known brand and spotting spelling variants."""
+    global _CATALOG_BRANDS
+    if _CATALOG_BRANDS is None:
+        found = collections.Counter()
+        for f in (Path(__file__).resolve().parent.parent / "recipes").glob("*.js"):
+            for m in re.finditer(r'"brand": (\[[^\]]*\])', f.read_text(encoding="utf-8")):
+                try:
+                    found.update(b.replace("'", "’") for b in json.loads(m.group(1)) if b != _NO_BRAND_TAG)
+                except ValueError:
+                    pass
+        _CATALOG_BRANDS = found
+    return _CATALOG_BRANDS
 
 
-def generic_name_warning(item):
-    featured = "; ".join(item["brand"]) or "(no bolded brand in caption)"
-    sug = suggest_group_name(item)
-    return (f"[{item['_deck']}] {item['layoutCode']}: layout name {item['layoutName']!r} is a generic Group Shot "
-            f"name — use the featured product instead"
-            + (f" (suggested: {sug!r})" if sug else "")
-            + f" [bolded in caption: {featured}]")
+def campaign_display_name(item):
+    """'SUMMER CAMPAIGN' -> 'Summer'; the fallback name for brand-less group shots."""
+    name = re.sub(r"\s*\bcampaign\s*$", "", item["campaign"], flags=re.IGNORECASE).strip() or item["campaign"]
+    return " ".join(w.upper() if w.upper() in ("IG", "TMP") else w[:1].upper() + w[1:].lower() for w in name.split())
+
+
+def group_shot_name(item):
+    """(layout name, [review notes]) for a Group Shot layout.
+
+    Brand takes priority: "[Brand(s)] (Group Shot)" from the bolded brand(s)
+    in the caption (curly apostrophes, joined with ", "); only when no brand
+    is found, "[Campaign Name] (Group Shot)". Notes list anything a person
+    should eyeball: fallbacks, several brands, odd bold runs, spelling that
+    differs from the same brand elsewhere in the catalog."""
+    notes = []
+    known = catalog_brands()
+    brands = []
+    for b in item.get("brand") or []:
+        b = b.replace("'", "’").strip()
+        if not b or b == _NO_BRAND_TAG:
+            continue
+        # A bolded product phrase ("Fortune Soya Beancurd") is trimmed to the brand
+        # the catalog already uses ("Fortune"): most common known prefix wins.
+        exact = any(k.lower() == b.lower() for k in known)
+        prefixes = [] if exact else [k for k in known if b.lower().startswith(k.lower() + " ")]
+        if prefixes:
+            trimmed = max(prefixes, key=lambda k: (known[k], -len(k)))
+            notes.append(f"{b!r} trimmed to catalog brand {trimmed!r}")
+            b = trimmed
+        if b.lower() not in [x.lower() for x in brands]:
+            brands.append(b)
+    if brands:
+        name = ", ".join(brands)
+        if len(brands) > 1:
+            notes.append(f"{len(brands)} brands joined with ', '")
+        if len(brands) >= 4:
+            notes.append("long name (4+ brands)")
+        for b in brands:
+            if b[:1].islower() or len(b.split()) > 3:
+                notes.append(f"bold phrase {b!r} looks split/partial or is a product name — trim to the brand?")
+            for k in known:
+                if k != b and _brand_key(k) == _brand_key(b):
+                    notes.append(f"{b!r} is spelled {k!r} elsewhere in the catalog")
+                    break
+    else:
+        name = campaign_display_name(item)
+        notes.append("no bolded brand in caption — fell back to the campaign name")
+    return name + GROUP_SHOT_SUFFIX, notes
+
+
+def apply_group_shot_names(items):
+    """Standard Group Shot naming for every GROUP SHOT layout (all template
+    profiles). A name set by hand with --rename is left alone. Returns review
+    warnings, including group shots that would share a name within a campaign."""
+    warnings, seen = [], {}
+    for it in items:
+        if it["category"] != "GROUP SHOT":
+            continue
+        if it.get("_manualName"):
+            new, notes = it["layoutName"], []
+        else:
+            new, notes = group_shot_name(it)
+            if new != it["layoutName"]:
+                print(f"  group-shot name [{it['_deck']}] {it['layoutCode']}: {it['layoutName']!r} -> {new!r}")
+            it["layoutName"] = new
+        seen.setdefault((it["campaign"], new.lower()), []).append(it)
+        featured = "; ".join(it.get("brand") or []) or "(none)"
+        if notes:
+            warnings.append(f"[{it['_deck']}] {it['layoutCode']}: group shot {new!r} — review: "
+                            + "; ".join(notes) + f" [bolded in caption: {featured}]")
+    for (_, name), group in seen.items():
+        if len(group) > 1:
+            codes = ", ".join(g["layoutCode"] for g in group)
+            warnings.append(f"[{group[0]['_deck']}] group shots {codes} would all be named {group[0]['layoutName']!r} "
+                            f"in {group[0]['campaign']} — rename one with --rename")
+    return warnings
 
 
 def _parse_override(raw, option):
@@ -2018,6 +2077,7 @@ def apply_item_overrides(items, renames, recampaigns, groups=(), categories=()):
             raise SystemExit(f"--rename {raw!r}: no layout {code} in the {yymm} deck")
         print(f"  renamed [{yymm}] {code}: {it['layoutName']!r} -> {value!r}")
         it["layoutName"] = value
+        it["_manualName"] = True
     for raw in recampaigns:
         yymm, code, value = _parse_override(raw, "--recampaign")
         it = by_key.get((yymm, code))
@@ -2041,22 +2101,6 @@ def apply_item_overrides(items, renames, recampaigns, groups=(), categories=()):
             raise SystemExit(f"--category {raw!r}: {value!r} is not one of {KNOWN_CATEGORIES}")
         print(f"  category [{yymm}] {code}: {it['category']!r} -> {value.upper()!r} (manual)")
         it["category"], it["categorySource"], it["categoryConfidence"] = value.upper(), "manual", "high"
-
-
-def prompt_generic_renames(items):
-    """Ask for a product-based name for each generic "Group Shot" layout
-    still left (blank keeps it)."""
-    for it in items:
-        if not is_generic_group_name(it):
-            continue
-        print(f"\n[{it['_deck']}] {it['layoutCode']} is named {it['layoutName']!r} — caption: {it['caption'][:160]!r}")
-        print(f"    bolded in caption: {it['brand'] or '(none)'}")
-        sug = suggest_group_name(it)
-        new = input(f"    layout name (the featured product; blank {'= ' + repr(sug) if sug else 'keeps it'}): ").strip()
-        if new:
-            it["layoutName"] = new
-        elif sug:
-            it["layoutName"] = sug
 
 
 def pair_decks(recipe_decks, preprod_decks):
@@ -2104,8 +2148,6 @@ def main():
                         help="Set a layout's category by hand (categorySource=manual, protected on re-runs)")
     parser.add_argument("--skip", action="append", default=[], metavar="YYMM:CODE",
                         help="Leave a layout out of the output (repeatable), e.g. a copy carried over from another deck")
-    parser.add_argument("--rename-group-shots", action="store_true",
-                        help="Rename every generic Group Shot layout still left to its suggested product-based name")
     parser.add_argument("--only", action="append", default=[], metavar="CAMPAIGN",
                         help="Only write these campaigns/groups (repeatable, after overrides); everything else extracted "
                              "this run is ignored and its files are left untouched")
@@ -2169,19 +2211,14 @@ def main():
     if args.rename or args.recampaign or args.group or args.category:
         print("\nApplying overrides:")
         apply_item_overrides(items, args.rename, args.recampaign, args.group, args.category)
-    if args.rename_group_shots:
-        for it in items:
-            if is_generic_group_name(it) and suggest_group_name(it):
-                new = suggest_group_name(it)
-                print(f"  renamed [{it['_deck']}] {it['layoutCode']}: {it['layoutName']!r} -> {new!r} (group-shot rule)")
-                it["layoutName"] = new
+    print("\nGroup Shot naming:")
+    warnings.extend(apply_group_shot_names(items))
     dropbox_overrides = {}
     for raw in args.dropbox_url:
         name, sep, url = raw.partition("=")
         if not sep or not url.startswith("http"):
             raise SystemExit(f"--dropbox-url expects CAMPAIGN=URL, got {raw!r}")
         dropbox_overrides[normalize_campaign(name)] = url.strip()
-    warnings.extend(generic_name_warning(it) for it in items if is_generic_group_name(it))
 
     campaigns = collect_campaigns(pairs)
     warnings.extend(assign_dropbox_urls(campaigns, pairs, dropbox_overrides))
@@ -2210,7 +2247,6 @@ def main():
         if input("\nReview the list above. Continue to month mapping? [y/N]: ").strip().lower() not in ("y", "yes"):
             plan = None
         else:
-            prompt_generic_renames(items)
             plan = prompt_campaign_mapping(campaigns, mappable, out_dir, args.append_existing,
                                            set(dropbox_overrides.values()))
     except (EOFError, KeyboardInterrupt):

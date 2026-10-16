@@ -199,7 +199,7 @@ const SUMMER_PHOTOS_DATA = [
   },
   {
     "layoutCode": "SM9",
-    "layoutName": "Summer Group Shot",
+    "layoutName": "Libby’s, Casino, Meadows, Tide (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",

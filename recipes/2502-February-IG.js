@@ -5,7 +5,7 @@
 const FEBRUARY_IG_DATA = [
   {
     "layoutCode": "IG1",
-    "layoutName": "Group Shot A",
+    "layoutName": "Fortune (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",

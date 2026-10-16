@@ -6,7 +6,7 @@
 const WINE_FAIR_DATA = [
   {
     "layoutCode": "WF1",
-    "layoutName": "Wine Fair (Group Shot)",
+    "layoutName": "Calon Ségur, Victoire, Australian Gold, Meadows (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",

@@ -99,7 +99,7 @@ const MAY_IG_DATA = [
   },
   {
     "layoutCode": "IG5",
-    "layoutName": "Nestle Ice Cream",
+    "layoutName": "Nestlé (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",

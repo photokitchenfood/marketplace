@@ -69,7 +69,7 @@ const SHOP_COLLECT_PHOTOS_DATA = [
   },
   {
     "layoutCode": "SC4",
-    "layoutName": "Ariel & Downy Group Shot",
+    "layoutName": "Ariel, Downy (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",

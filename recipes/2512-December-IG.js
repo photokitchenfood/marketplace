@@ -169,7 +169,7 @@ const DECEMBER_IG_DATA = [
   },
   {
     "layoutCode": "DH9",
-    "layoutName": "Arce & BTIC (Group Shot)",
+    "layoutName": "Arce Dairy, BTIC (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
@@ -189,7 +189,7 @@ const DECEMBER_IG_DATA = [
   },
   {
     "layoutCode": "DH10",
-    "layoutName": "Cibo Pizza Romana (Group Shot)",
+    "layoutName": "Cibo (Group Shot)",
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
