@@ -1,6 +1,6 @@
 // PhotoKitchen Recipes Index
 // Auto-generated — do not edit manually
-// Last updated: 2026-10-13
+// Last updated: 2026-10-16
 
 const RECIPES_INDEX = [
   {
@@ -479,6 +479,69 @@ const RECIPES_INDEX = [
     "month": 1,
     "file": "recipes/2501-Chinese-New-Year.js",
     "count": 1
+  },
+  {
+    "id": "2403-Summer",
+    "label": "Summer",
+    "type": "photo",
+    "year": 2024,
+    "month": 3,
+    "file": "recipes/2403-Summer.js",
+    "count": 3
+  },
+  {
+    "id": "2403-Seafood-Feast",
+    "label": "Seafood Feast",
+    "type": "photo",
+    "year": 2024,
+    "month": 3,
+    "file": "recipes/2403-Seafood-Feast.js",
+    "count": 7
+  },
+  {
+    "id": "2402-Love-Food-Videos",
+    "label": "Love Food (Videos)",
+    "type": "video",
+    "year": 2024,
+    "month": 2,
+    "file": "recipes/2402-Love-Food-Videos.js",
+    "count": 1
+  },
+  {
+    "id": "2402-Love-Food-Photos",
+    "label": "Love Food (Photos)",
+    "type": "photo",
+    "year": 2024,
+    "month": 2,
+    "file": "recipes/2402-Love-Food-Photos.js",
+    "count": 12
+  },
+  {
+    "id": "2402-Exclusive-Selections",
+    "label": "Exclusive Selections",
+    "type": "photo",
+    "year": 2024,
+    "month": 2,
+    "file": "recipes/2402-Exclusive-Selections.js",
+    "count": 1
+  },
+  {
+    "id": "2401-Australian-Festival-Videos",
+    "label": "Australian Festival (Videos)",
+    "type": "video",
+    "year": 2024,
+    "month": 1,
+    "file": "recipes/2401-Australian-Festival-Videos.js",
+    "count": 1
+  },
+  {
+    "id": "2401-Australian-Festival-Photos",
+    "label": "Australian Festival (Photos)",
+    "type": "photo",
+    "year": 2024,
+    "month": 1,
+    "file": "recipes/2401-Australian-Festival-Photos.js",
+    "count": 9
   }
 ];
 
