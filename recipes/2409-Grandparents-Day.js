@@ -32,9 +32,9 @@ const GRANDPARENTS_DAY_DATA = [
   {
     "layoutCode": "GD2",
     "layoutName": "Cleene",
-    "category": "OUT OF PACK",
-    "categorySource": "inferred",
-    "categoryConfidence": "low",
+    "category": "NON-FOOD",
+    "categorySource": "manual",
+    "categoryConfidence": "high",
     "campaign": "GRANDPARENTS DAY 2024",
     "caption": "Name an item that each and every household must have: Cleene Cotton Balls!\n\nVersatile and made for many uses, Cleene Cotton Balls have been a trusted brand for generations thanks to its superior quality that’s strong, soft, and super-absorbent. Find it at #TheMarketplace, along with other daily hygiene essentials!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
