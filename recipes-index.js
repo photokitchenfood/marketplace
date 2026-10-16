@@ -481,13 +481,157 @@ const RECIPES_INDEX = [
     "count": 1
   },
   {
-    "id": "2403-Summer",
-    "label": "Summer",
+    "id": "2406-US-Festival",
+    "label": "US Festival",
+    "type": "photo",
+    "year": 2024,
+    "month": 6,
+    "file": "recipes/2406-US-Festival.js",
+    "count": 2
+  },
+  {
+    "id": "2406-Midyear-Wine",
+    "label": "Midyear Wine",
+    "type": "photo",
+    "year": 2024,
+    "month": 6,
+    "file": "recipes/2406-Midyear-Wine.js",
+    "count": 3
+  },
+  {
+    "id": "2406-June-IG",
+    "label": "June IG",
+    "type": "photo",
+    "year": 2024,
+    "month": 6,
+    "file": "recipes/2406-June-IG.js",
+    "count": 4
+  },
+  {
+    "id": "2406-Fathers-Day",
+    "label": "Fathers Day",
+    "type": "photo",
+    "year": 2024,
+    "month": 6,
+    "file": "recipes/2406-Fathers-Day.js",
+    "count": 2
+  },
+  {
+    "id": "2406-Back-to-School-Videos",
+    "label": "Back to School (Videos)",
+    "type": "video",
+    "year": 2024,
+    "month": 6,
+    "file": "recipes/2406-Back-to-School-Videos.js",
+    "count": 2
+  },
+  {
+    "id": "2406-Back-to-School-Photos",
+    "label": "Back to School (Photos)",
+    "type": "photo",
+    "year": 2024,
+    "month": 6,
+    "file": "recipes/2406-Back-to-School-Photos.js",
+    "count": 9
+  },
+  {
+    "id": "2406-Asian-Festival-Videos",
+    "label": "Asian Festival (Videos)",
+    "type": "video",
+    "year": 2024,
+    "month": 6,
+    "file": "recipes/2406-Asian-Festival-Videos.js",
+    "count": 1
+  },
+  {
+    "id": "2406-Asian-Festival-Photos",
+    "label": "Asian Festival (Photos)",
+    "type": "photo",
+    "year": 2024,
+    "month": 6,
+    "file": "recipes/2406-Asian-Festival-Photos.js",
+    "count": 5
+  },
+  {
+    "id": "2405-Mothers-Day",
+    "label": "Mothers Day",
+    "type": "photo",
+    "year": 2024,
+    "month": 5,
+    "file": "recipes/2405-Mothers-Day.js",
+    "count": 6
+  },
+  {
+    "id": "2405-May-IG",
+    "label": "May IG",
+    "type": "photo",
+    "year": 2024,
+    "month": 5,
+    "file": "recipes/2405-May-IG.js",
+    "count": 7
+  },
+  {
+    "id": "2405-Health-Wellness-Videos",
+    "label": "Health & Wellness (Videos)",
+    "type": "video",
+    "year": 2024,
+    "month": 5,
+    "file": "recipes/2405-Health-Wellness-Videos.js",
+    "count": 2
+  },
+  {
+    "id": "2405-Health-Wellness-Photos",
+    "label": "Health & Wellness (Photos)",
+    "type": "photo",
+    "year": 2024,
+    "month": 5,
+    "file": "recipes/2405-Health-Wellness-Photos.js",
+    "count": 4
+  },
+  {
+    "id": "2404-Lent-Videos",
+    "label": "Lent (Videos)",
+    "type": "video",
+    "year": 2024,
+    "month": 4,
+    "file": "recipes/2404-Lent-Videos.js",
+    "count": 1
+  },
+  {
+    "id": "2404-Easter",
+    "label": "Easter",
+    "type": "photo",
+    "year": 2024,
+    "month": 4,
+    "file": "recipes/2404-Easter.js",
+    "count": 7
+  },
+  {
+    "id": "2404-April-IG",
+    "label": "April IG",
+    "type": "photo",
+    "year": 2024,
+    "month": 4,
+    "file": "recipes/2404-April-IG.js",
+    "count": 3
+  },
+  {
+    "id": "2403-Summer-Videos",
+    "label": "Summer (Videos)",
+    "type": "video",
+    "year": 2024,
+    "month": 3,
+    "file": "recipes/2403-Summer-Videos.js",
+    "count": 1
+  },
+  {
+    "id": "2403-Summer-Photos",
+    "label": "Summer (Photos)",
     "type": "photo",
     "year": 2024,
     "month": 3,
-    "file": "recipes/2403-Summer.js",
-    "count": 3
+    "file": "recipes/2403-Summer-Photos.js",
+    "count": 13
   },
   {
     "id": "2403-Seafood-Feast",

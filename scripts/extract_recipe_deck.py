@@ -386,7 +386,7 @@ class TemplateProfile:
 PROFILE_2023_2026 = TemplateProfile(
     name="TMP 2023-2026",
     slide_size_in=(10.0, 5.625),
-    code_re=re.compile(r"[A-Za-z]{1,6}\d{1,3}|[A-Za-z]{1,6}-EAP"),
+    code_re=re.compile(r"[A-Za-z]{1,6}\d{1,3}|[A-Za-z]{1,6}-(?:EAP\d{0,2}|SM\d{0,2})"),
     zone_code=dict(left=(0.10, 0.65), top=(0.40, 0.90)),
     zone_banner=dict(left=(0.95, 1.85), top=(-0.05, 0.15)),
     zone_photo=dict(left=(0.10, 0.65), top=(0.90, 1.65)),
