@@ -472,12 +472,138 @@ const RECIPES_INDEX = [
     "count": 2
   },
   {
+    "id": "2501-January-IG",
+    "label": "January IG",
+    "type": "photo",
+    "year": 2025,
+    "month": 1,
+    "file": "recipes/2501-January-IG.js",
+    "count": 2
+  },
+  {
     "id": "2501-Chinese-New-Year",
     "label": "Chinese New Year",
     "type": "photo",
     "year": 2025,
     "month": 1,
     "file": "recipes/2501-Chinese-New-Year.js",
+    "count": 1
+  },
+  {
+    "id": "2501-Australian-Festival-Videos",
+    "label": "Australian Festival (Videos)",
+    "type": "video",
+    "year": 2025,
+    "month": 1,
+    "file": "recipes/2501-Australian-Festival-Videos.js",
+    "count": 2
+  },
+  {
+    "id": "2501-Australian-Festival-Photos",
+    "label": "Australian Festival (Photos)",
+    "type": "photo",
+    "year": 2025,
+    "month": 1,
+    "file": "recipes/2501-Australian-Festival-Photos.js",
+    "count": 14
+  },
+  {
+    "id": "2412-December-IG",
+    "label": "December IG",
+    "type": "photo",
+    "year": 2024,
+    "month": 12,
+    "file": "recipes/2412-December-IG.js",
+    "count": 21
+  },
+  {
+    "id": "2412-Christmas-Videos",
+    "label": "Christmas (Videos)",
+    "type": "video",
+    "year": 2024,
+    "month": 12,
+    "file": "recipes/2412-Christmas-Videos.js",
+    "count": 6
+  },
+  {
+    "id": "2412-Christmas-Photos",
+    "label": "Christmas (Photos)",
+    "type": "photo",
+    "year": 2024,
+    "month": 12,
+    "file": "recipes/2412-Christmas-Photos.js",
+    "count": 9
+  },
+  {
+    "id": "2411-Pet-Month",
+    "label": "Pet Month",
+    "type": "photo",
+    "year": 2024,
+    "month": 11,
+    "file": "recipes/2411-Pet-Month.js",
+    "count": 10
+  },
+  {
+    "id": "2411-November-IG",
+    "label": "November IG",
+    "type": "photo",
+    "year": 2024,
+    "month": 11,
+    "file": "recipes/2411-November-IG.js",
+    "count": 13
+  },
+  {
+    "id": "2410-World-of-Wine",
+    "label": "World of Wine",
+    "type": "photo",
+    "year": 2024,
+    "month": 10,
+    "file": "recipes/2410-World-of-Wine.js",
+    "count": 10
+  },
+  {
+    "id": "2410-TMP-Anniversary-Videos",
+    "label": "TMP Anniversary (Videos)",
+    "type": "video",
+    "year": 2024,
+    "month": 10,
+    "file": "recipes/2410-TMP-Anniversary-Videos.js",
+    "count": 3
+  },
+  {
+    "id": "2410-TMP-Anniversary-Photos",
+    "label": "TMP Anniversary (Photos)",
+    "type": "photo",
+    "year": 2024,
+    "month": 10,
+    "file": "recipes/2410-TMP-Anniversary-Photos.js",
+    "count": 8
+  },
+  {
+    "id": "2410-October-IG",
+    "label": "October IG",
+    "type": "photo",
+    "year": 2024,
+    "month": 10,
+    "file": "recipes/2410-October-IG.js",
+    "count": 8
+  },
+  {
+    "id": "2410-Halloween",
+    "label": "Halloween",
+    "type": "photo",
+    "year": 2024,
+    "month": 10,
+    "file": "recipes/2410-Halloween.js",
+    "count": 3
+  },
+  {
+    "id": "2410-Canadian-Festival-Videos",
+    "label": "Canadian Festival (Videos)",
+    "type": "video",
+    "year": 2024,
+    "month": 10,
+    "file": "recipes/2410-Canadian-Festival-Videos.js",
     "count": 1
   },
   {
@@ -515,6 +641,24 @@ const RECIPES_INDEX = [
     "month": 9,
     "file": "recipes/2409-European-Festival-Photos.js",
     "count": 6
+  },
+  {
+    "id": "2409-Eat-Right-Live-Healthy",
+    "label": "Eat Right Live Healthy",
+    "type": "photo",
+    "year": 2024,
+    "month": 9,
+    "file": "recipes/2409-Eat-Right-Live-Healthy.js",
+    "count": 13
+  },
+  {
+    "id": "2409-Cheese-Festival",
+    "label": "Cheese Festival",
+    "type": "photo",
+    "year": 2024,
+    "month": 9,
+    "file": "recipes/2409-Cheese-Festival.js",
+    "count": 2
   },
   {
     "id": "2408-Back-to-School-Videos",

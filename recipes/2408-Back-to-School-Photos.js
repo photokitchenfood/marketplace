@@ -89,9 +89,9 @@ const BACK_TO_SCHOOL_PHOTOS_DATA = [
   {
     "layoutCode": "BTS5",
     "layoutName": "Vitapet Cat Mackerel Salmon Pouch",
-    "category": "OUT OF PACK",
-    "categorySource": "inferred",
-    "categoryConfidence": "low",
+    "category": "NON-FOOD",
+    "categorySource": "manual",
+    "categoryConfidence": "high",
     "campaign": "BACK TO SCHOOL",
     "caption": "Feed your feline friends something healthy and nutritious in an instant with VitaPet Cat Food in Mackerel & Salmon flavor!\n\nMade from real fish, each serving is guaranteed to be nutritionally balanced and complete. No additional flavourings are included, making it as natural-tasting as possible. Find VitaPet Cat Food in #TheMarketplace, along with other everyday pet essentials!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [

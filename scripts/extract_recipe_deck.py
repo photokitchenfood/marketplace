@@ -78,6 +78,12 @@ THUMB_JPEG_QUALITY = 85
 # decks where it shifts by one or two.
 DROPBOX_LINK_SCAN_SLIDES = 10
 
+# Fallback photo position (plain picture) on EAP video slides.
+ALT_PHOTO_ZONE = dict(left=(0.10, 0.90), top=(2.50, 3.30))
+
+# Campaigns whose layout-code chips are a bare number ("1", "2", ...): banner prefix -> code prefix.
+BARE_NUMBER_PREFIXES = {"TMP ANNIVERSARY": "TMP", "DECEMBER IG": "IG"}
+
 KNOWN_CATEGORIES = [
     "RECIPE",
     "OUT OF PACK W/ FOOD STYLING",  # check before "OUT OF PACK" (substring)
@@ -217,6 +223,9 @@ class TemplateProfile:
         valid, rejected = [], []
         for shape in self._autoshapes_in(slide, self.zone_code):
             text = re.sub(r"\s+", "", shape_text(shape))  # a chip can wrap ("EF-\nEAP")
+            if not self.code_re.fullmatch(text):
+                # "CAF EAP" / "CAFEAP" -> "CAF-EAP" (hyphen dropped in some decks)
+                text = re.sub(r"^([A-Za-z]{1,6}?)-?(EAP\d{0,2}|SM\d{0,2})$", r"\1-\2", text)
             if self.code_re.fullmatch(text):
                 valid.append(text)
             elif text:
@@ -230,6 +239,14 @@ class TemplateProfile:
         so PPM-derived output doesn't change."""
         valid, rejected = self.codes_in_zone(slide)
         if not valid:
+            # Some campaigns (TMP Anniversary, Oct 2024) number their chips with a
+            # bare digit; give those the same prefix the 2025 Anniversary file used.
+            digits = [t for t in rejected if t.isdigit()]
+            banner = self.banner_of(slide, ppm=ppm)
+            prefix = next((v for k, v in BARE_NUMBER_PREFIXES.items()
+                           if banner is not None and shape_text(banner).strip().upper().startswith(k)), None)
+            if digits and prefix:
+                return prefix + digits[-1], rejected
             return "", rejected
         return (valid[0] if ppm else valid[-1]), rejected
 
@@ -273,7 +290,14 @@ class TemplateProfile:
                     and sh.width and sh.width >= Emu(int(2 * 914400))]
         if pictures:
             return max(pictures, key=lambda sh: sh.width * sh.height)
-        return placeholders[0] if placeholders else None
+        if placeholders:
+            return placeholders[0]
+        # EAP video slides (Oct 2024) carry their still as a plain picture lower on
+        # the slide; only used when nothing sits in the normal photo position.
+        low = [sh for sh in slide.shapes
+               if sh.shape_type == MSO_SHAPE_TYPE.PICTURE and in_zone(sh, ALT_PHOTO_ZONE)
+               and sh.width and sh.width >= Emu(int(2 * 914400))]
+        return max(low, key=lambda sh: sh.width * sh.height) if low else None
 
     def badge_texts(self, slide):
         return [shape_text(s).strip() for s in self._autoshapes_in(slide, self.zone_badge)]
