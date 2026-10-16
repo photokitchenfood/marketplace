@@ -543,11 +543,25 @@ function loadLastUpdated(){
   xhr.send();
 }
 
-async function loadShootData(entry){
-  if(shootDataCache[entry.id]) return shootDataCache[entry.id];
-  window.__recipesData = undefined;
-  await loadScript(entry.file);
-  const data = window.__recipesData || [];
+// Each shoot file declares a top-level `const <NAME>_DATA`, and the same name recurs across
+// years (HALLOWEEN_DATA in 2410 and 2510, ...). As a classic <script> the 2nd file throws
+// "Identifier already declared", never runs, and the shared window.__recipesData still holds the
+// PREVIOUS shoot's array — so that shoot silently shows (and shares objects with) another one.
+// Fix: fetch the file and run it inside its own function scope with a private `window`, so there
+// are no global names to collide and no shared handoff global to race on.
+// Caches the in-flight promise (not just the result) so concurrent callers share one load.
+const shootLoadPromises = {};
+function loadShootData(entry){
+  if(!shootLoadPromises[entry.id]) shootLoadPromises[entry.id] = readShootFile(entry);
+  return shootLoadPromises[entry.id];
+}
+async function readShootFile(entry){
+  const res = await fetch(entry.file + "?v=" + Date.now());
+  if(!res.ok) throw new Error("Failed to load " + entry.file);
+  const scope = {};
+  new Function("window", (await res.text()) + "\n;return window.__recipesData;")(scope);
+  const data = scope.__recipesData || [];
+  if(data.length !== entry.count) console.error(`[recipes] ${entry.id}: index says ${entry.count} items, file has ${data.length}`);
   // Tag each item with its source year/month and dropboxUrl in place (not a
   // copy) so the Shuffler's Year/Month filters and the Dropbox button can
   // work without losing the shared object identity that photo-swap edits
@@ -556,7 +570,9 @@ async function loadShootData(entry){
   // onto every item here — the one place every item still remembers which
   // shoot's array it came from.
   const dropboxUrl = data.dropboxUrl || null;
-  data.forEach(it => { it._year = entry.year; it._month = entry.month; it._dropboxUrl = dropboxUrl; it._shootId = entry.id; });
+  // _uid is the stable unique key for an item across the whole catalog (shoot id + position
+  // in its own file). Every click resolves through it, never through a position in a filtered list.
+  data.forEach((it, i) => { it._year = entry.year; it._month = entry.month; it._dropboxUrl = dropboxUrl; it._shootId = entry.id; it._uid = entry.id + "#" + i; });
   shootDataCache[entry.id] = data;
   return data;
 }
@@ -599,6 +615,7 @@ const CATEGORY_META = {
 };
 
 let currentShoot = null; // {id,label,type,varName,data}
+let selectionToken = 0;  // bumps on every folder click; drops out-of-order async results
 
 // Unsaved edits (photo swap, "Made with AI") by shoot id. Save Changes shows whenever any
 // exist, in any view, and exports every edited shoot's file; with none, it still shows in
@@ -854,7 +871,9 @@ async function selectShoot(entry, nodeEl, crumbParts){
   document.getElementById("catalogSearch").value = "";
   document.getElementById("catalogSearchRow").classList.add("show");
   renderLoading(document.getElementById("catalogGrid"));
+  const token = ++selectionToken;
   const data = await loadShootData(entry);
+  if(token !== selectionToken) return; // a newer folder click superseded this one
   currentShoot = {id: entry.id, label: entry.label, data};
   renderGrid(document.getElementById("catalogGrid"), data.filter(it => matchesFilters(it, "")));
   updateSaveBtn();
@@ -873,7 +892,9 @@ async function selectGroup(entries, nodeEl, crumbParts){
   document.getElementById("catalogSearch").value = "";
   document.getElementById("catalogSearchRow").classList.add("show");
   renderLoading(document.getElementById("catalogGrid"));
+  const token = ++selectionToken;
   const dataArrays = await Promise.all(entries.map(loadShootData));
+  if(token !== selectionToken) return;
   const items = dataArrays.flat();
   currentShoot = {data: items, isGroup: true};
   updateSaveBtn();
@@ -943,7 +964,7 @@ function badgesHTML(item){
 
 function cardHTML(item, idx, sourceArrRef){
   const meta = CATEGORY_META[item.category] || {cls:"nonfood", label:item.category || "—"};
-  return `<div class="card" data-idx="${idx}">
+  return `<div class="card" data-uid="${escapeHTML(item._uid || "")}">
     <div class="card-img">
       <img src="data:image/jpeg;base64,${item.photo.image_data}">
       ${badgesHTML(item)}
@@ -1011,8 +1032,9 @@ function renderGrid(gridEl, items){
     return;
   }
   gridEl.innerHTML = items.map((it, i) => cardHTML(it, i)).join("");
+  const byUid = new Map(items.map(it => [it._uid, it]));
   gridEl.querySelectorAll(".card").forEach(cardEl => {
-    cardEl.onclick = () => openModal(items[parseInt(cardEl.dataset.idx)]);
+    cardEl.onclick = () => openModal(byUid.get(cardEl.dataset.uid));
   });
 }
 
@@ -1021,14 +1043,16 @@ const typeFilters = new Set(); // selected CATEGORY_META keys; empty = no Type f
 
 function matchesQuery(item, q){
   if(!q) return true;
-  q = q.toLowerCase();
+  const terms = q.toLowerCase().split(/\s+/).filter(Boolean);
+  if(!terms.length) return true;
   const hay = [
     item.layoutName, item.category, item.campaign, shortShootName(item.campaign), item.caption,
+    (Array.isArray(item.brand) ? item.brand.join(" ") : ""),
     item.recipe ? item.recipe.ingredients : "",
     item.recipe ? item.recipe.procedure : "",
     item.recipe ? item.recipe.tips : ""
   ].join(" ").toLowerCase();
-  return hay.includes(q);
+  return terms.every(t => hay.includes(t));
 }
 
 function matchesFilters(item, q){
@@ -1418,7 +1442,7 @@ function applyCroppedPhoto(dataUrl){
   markDirty(modalItem);
   document.getElementById("modalImg").src = dataUrl;
   if(currentTab === "catalog" && currentShoot){
-    renderGrid(document.getElementById("catalogGrid"), currentShoot.data.filter(it => matchesQuery(it, document.getElementById("catalogSearch").value)));
+    renderGrid(document.getElementById("catalogGrid"), currentShoot.data.filter(it => matchesFilters(it, document.getElementById("catalogSearch").value)));
   } else if(currentTab === "shuffler"){
     renderGrid(document.getElementById("shufflerGrid"), shufflerBase.filter(it => matchesShufflerFilters(it, document.getElementById("shufflerSearch").value)));
   }
@@ -1487,7 +1511,7 @@ function buildShootJS(id, label, data){
   // Strip the internal _year/_month/_dropboxUrl/_shootId tags (added for the Shuffler's
   // Year/Month filters, the Dropbox button and Save Changes) before writing back out —
   // they aren't part of the real schema.
-  const cleanData = data.map(({_year, _month, _dropboxUrl, _shootId, ...rest}) => rest);
+  const cleanData = data.map(({_year, _month, _dropboxUrl, _shootId, _uid, ...rest}) => rest);
   // .map() returns a fresh array, so array-level custom properties on the
   // original (e.g. dropboxUrl, attached by extract_recipe_deck.py's
   // write_js_file()) don't carry over on their own — re-attach whatever
