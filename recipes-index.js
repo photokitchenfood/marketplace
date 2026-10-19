@@ -886,6 +886,69 @@ const RECIPES_INDEX = [
     "count": 9
   },
   {
+    "id": "2309-World-of-Wine",
+    "label": "World of Wine",
+    "type": "photo",
+    "year": 2023,
+    "month": 9,
+    "file": "recipes/2309-World-of-Wine.js",
+    "count": 4
+  },
+  {
+    "id": "2309-September-IG",
+    "label": "September IG",
+    "type": "photo",
+    "year": 2023,
+    "month": 9,
+    "file": "recipes/2309-September-IG.js",
+    "count": 14
+  },
+  {
+    "id": "2309-Grandparents-Day",
+    "label": "Grandparents Day",
+    "type": "photo",
+    "year": 2023,
+    "month": 9,
+    "file": "recipes/2309-Grandparents-Day.js",
+    "count": 1
+  },
+  {
+    "id": "2309-European-Festival-Videos",
+    "label": "European Festival (Videos)",
+    "type": "video",
+    "year": 2023,
+    "month": 9,
+    "file": "recipes/2309-European-Festival-Videos.js",
+    "count": 1
+  },
+  {
+    "id": "2309-European-Festival-Photos",
+    "label": "European Festival (Photos)",
+    "type": "photo",
+    "year": 2023,
+    "month": 9,
+    "file": "recipes/2309-European-Festival-Photos.js",
+    "count": 8
+  },
+  {
+    "id": "2309-Eat-Right-Live-Healthy",
+    "label": "Eat Right Live Healthy",
+    "type": "photo",
+    "year": 2023,
+    "month": 9,
+    "file": "recipes/2309-Eat-Right-Live-Healthy.js",
+    "count": 2
+  },
+  {
+    "id": "2309-Cheese-Festival",
+    "label": "Cheese Festival",
+    "type": "photo",
+    "year": 2023,
+    "month": 9,
+    "file": "recipes/2309-Cheese-Festival.js",
+    "count": 5
+  },
+  {
     "id": "2308-Wagyu-Festival-Videos",
     "label": "Wagyu Festival (Videos)",
     "type": "video",
