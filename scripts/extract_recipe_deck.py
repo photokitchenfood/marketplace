@@ -582,6 +582,33 @@ PROFILE_2022_03_TEXTBOX_TITLES = Layout2022TextBoxTitleProfile(
     zone_badge=PROFILE_2023_2026.zone_badge,
 )
 
+@dataclass(frozen=True)
+class Layout2022TextBoxTitleCaptionProfile(Layout2022TextBoxTitleProfile):
+    """The 2022 layout where titles AND captions may be plain text boxes
+    (Oct 2022 decks); only the title and caption lookups differ."""
+    zone_caption: dict = field(default_factory=lambda: dict(left=(4.9, 5.7), top=(-0.1, 1.0)))
+
+    def caption_of(self, slide):
+        placeholder = TemplateProfile.caption_of(self, slide)
+        if placeholder is not None and shape_text(placeholder).strip():
+            return placeholder
+        boxes = [sh for sh in slide.shapes
+                 if sh.shape_type == MSO_SHAPE_TYPE.TEXT_BOX and sh.has_text_frame
+                 and shape_text(sh).lstrip("\ufeff \n\x0b").lower().startswith("caption")
+                 and in_zone(sh, self._zs(self.zone_caption))]
+        return boxes[-1] if boxes else placeholder
+
+
+PROFILE_2022_10_TEXTBOX_TITLE_CAPTION = Layout2022TextBoxTitleCaptionProfile(
+    name="TMP 2022-10 (layout-type chip, text-box titles + captions)",
+    slide_size_in=PROFILE_2023_2026.slide_size_in,
+    code_re=PROFILE_2023_2026.code_re,
+    zone_code=PROFILE_2023_2026.zone_code,
+    zone_banner=PROFILE_2023_2026.zone_banner,
+    zone_photo=PROFILE_2023_2026.zone_photo,
+    zone_badge=PROFILE_2023_2026.zone_badge,
+)
+
 # The Feb 2022 deck: the same template built at 26.67 x 15in (2.667x).
 PROFILE_2022_02_LARGE = Layout2022Profile(
     name="TMP 2022-02 (26.67in slide, layout-type chip)",
@@ -627,7 +654,8 @@ PROFILE_2024_09_WIDE_BANNER = TextBoxTitleProfile(
 PROFILES = [PROFILE_2023_2026, PROFILE_2025_09_TEXTBOX_TITLES, PROFILE_2024_09_WIDE_BANNER,
             PROFILE_2023_01_TEXTBOX_CAPTIONS, PROFILE_2023_07_DOUBLE_SIZE,
             PROFILE_2023_11_TEXTBOX_TITLE_CAPTION, PROFILE_2022_01_LAYOUT_TYPE_CHIP,
-            PROFILE_2022_02_LARGE, PROFILE_2022_03_TEXTBOX_TITLES]
+            PROFILE_2022_02_LARGE, PROFILE_2022_03_TEXTBOX_TITLES,
+            PROFILE_2022_10_TEXTBOX_TITLE_CAPTION]
 
 
 def detect_profile(prs, label, kind="recipe"):
