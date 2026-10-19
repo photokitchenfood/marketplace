@@ -131,7 +131,9 @@ const APRIL_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "APRIL IG & FB",
     "caption": "You’ll never cook a Spanish Tortilla the same way again after you’ve tried this recipe using The King’s Deli Sea Salt and Balsamic Vinegar Potato Chips!\n\nApart from an addictive crunch, expect depth in flavor thanks to the homemade garlic aioli balanced out with the tangy and rich tortilla. It’s definitely a party on the palate, so do try it at home soon! The best part? It takes less than 20 minutes to prepare and serves up to five hungry folks. It’s definitely a perfect summer dish. Find all the ingredients you need only at #TheMarketplace!\n\nServing Time: 12 minutes\nYield: 4-5 serving\n\nIngredients\n\n(For the Garlic Aioli)\n½ cup mayonnaise\n1 tbsp. lemon juice\n2 tbsps. garlic, minced\nSalt and pepper to taste\n\n(For the Potato Chip Spanish Tortilla)\n8 large eggs\n4 cups The King’s Deli Sea Salt and Balsamic Vinegar Potato Chips\n2 tbsps. olive oil\n2 tbsps. spring onions\n\nProcedure\n\n1. Combine  mayonnaise, lemon juice, and garlic. Season with salt and pepper, then set aside.\n2. Beat eggs until whites and yellows are well combined, then season with salt and pepper. Fold in The King’s Deli Sea Salt and Balsamic Vinegar Potato Chips. \n3. Set pan over medium low heat, then add olive oil and tortilla batter\n4. Mix from time to time. When mostly set, cover for 3 minutes to fully cook the tortilla. \n5. Top each serving with garlic aioli and spring onions. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": {
       "servingTime": "12 minutes",
       "yield": "4-5 servings",
@@ -205,7 +207,7 @@ const APRIL_IG_DATA = [
     "campaign": "APRIL IG & FB",
     "caption": "Dispose your trash responsibly while taking care of the planet with Edison Biodegradable Garbage Bags. Sturdy and Earth-friendly, these are definitely a must-have in every home. They also come in various sizes depending on your trash bins.\n\nFind Edison Biodegradable Garbage Bags and other cleaning materials at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Cheers"
+      "! Generic"
     ],
     "recipe": null,
     "photo": {

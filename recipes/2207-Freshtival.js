@@ -63,7 +63,7 @@ const FRESHTIVAL_DATA = [
     "campaign": "FRESHTIVAL",
     "caption": "Hosting a lunch or dinner and want some tasty appetizers (or you’re just in the mood for a classy snack)?\n\nMake these Candied Bacon Breadsticks made with Pampanga’s Best Brickle Bacon for a sweet-and-salty treat. The crisp, caramelized bacon lends an unforgettable crunch — make a lot, because these will surely run out fast! Find all the ingredients you need at #TheMarketplace! \n\nServing Time: 25 minutes\nYield: 10 pieces\n\nIngredients\n\n1 (240g) pack Pampanga’s Best Brickle Bacon\n20 breadsticks \n1 cup light brown sugar \n\nProcedure\n\n1. Preheat oven to 180°C. \n2. Wrap 2 pieces of breadsticks with 1-2 pieces of Pampanga’s Best Brickle Bacon. \n3. Roll bacon-wrapped breadsticks in light brown sugar. Make sure bacon is well coated. \n4. Bake for 12-15 minutes, or until bacon is nicely browned and sugar is caramelized. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Pampanga’s Best"
+      "Pampanga's Best"
     ],
     "recipe": {
       "servingTime": "25 minutes",
@@ -88,7 +88,7 @@ const FRESHTIVAL_DATA = [
     "campaign": "FRESHTIVAL",
     "caption": "Make your mornings even better by sitting down to this hearty breakfast of Sausage & Sweet Potato Hash Baked Eggs, minus the meat, thanks to Unmeat Sausages!\n\nFree from trans-fat, cholesterol, and eggs, Unmeat sausages are plant-based and so juicy, you’ll almost forget there’s no meat in them! Find Unmeat products, along with other meat-free alternatives, at #TheMarketplace!\n\nServing Time: 20 minutes\nYield: 3-4 servings\n\nIngredients\n\n3 tbsps. vegetable oil \n1 (200g) pack Unmeat Sausages, sliced\n2 medium-sized sweet potatoes, diced \n1 medium-sized red bell pepper, diced \n1 medium-sized green bell pepper, diced \nSalt and pepper to taste \n3 eggs \n1 tbsp. parsley, chopped\n\nProcedure\n\n1. Add vegetable oil in a frying pan over medium heat. Fry Unmeat Sausages until nicely browned on both sides. Set aside while retaining oil in the pan. \n2. Sauté sweet potatoes and bell peppers until soft. Season with salt and pepper. \n3. Add back fried Unmeat Sausages, then make space for 3 eggs.\n4. Lower heat, then crack the eggs into the empty spaces. Cover for 3-5 minutes, or until eggs are cooked according to your liking. \n5. Garnish with parsley. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "UnMeat"
+      "Unmeat"
     ],
     "recipe": {
       "servingTime": "20 minutes",

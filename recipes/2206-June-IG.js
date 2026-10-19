@@ -13,7 +13,7 @@ const JUNE_IG_DATA = [
     "campaign": "JUNE IG & FB",
     "caption": "Tickle your sweet tooth with the irresistible combination of salted caramel and dark chocolate in this recipe for Salted Caramel Brownies made with Hershey’s Cocoa Creations Dark Salted Caramel! Crisp on the outside and fudgy on the inside, bake a batch to share or to store for personal indulgence.\n\nShop at #TheMarketplace for a fine selection of chocolates that include Hershey’s products and more!\n\nServing Time: 35 minutes\nYield: 16 bars\n\nIngredients\n\n1 cup flour\n3/4 cup cocoa powder\n¼ tsp. baking powder\n½ cup butter, melted\n¾ cup sugar\n2 eggs\n1 cup Hershey’s Cocoa Creations Dark Salted Caramel, chopped\n¼ cup caramel fudge\n½ tbsp. flaky salt\n\nProcedure\n\n1. Preheat oven to 175°C. Grease a 9’x9” pan. \n2. In a large bowl, combine flour, cocoa powder and baking powder. Set aside.\n3. Using an electric mixer, cream butter and sugar. Add eggs, then mix until well combined.\n4. Slowly add dry mixture into the wet mixture. Mix until smooth, then mix in Hershey’s Cocoa Creations Dark Salted Caramel.\n5. Transfer to the lined baking pan. Drizzle caramel fudge on top, and bake for 20-25 minutes.\n6. Sprinkle with flaky salt on top while hot. Let cool before cutting into 16 bars.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Hershey’s"
+      "Hershey's"
     ],
     "recipe": {
       "servingTime": "35 minutes",
@@ -57,7 +57,7 @@ const JUNE_IG_DATA = [
     "campaign": "JUNE IG & FB",
     "caption": "Easy to change while providing unbeatable dryness, Pampers Toddler Pants provide up to 12 hours of protection. It’s perfect for your active toddler, especially with the soft, elastic waistband that allows for free and comfortable movement.\n\nPampers Toddler Pants are available at #TheMarketplace, along with other essentials for your little ones. Shop now!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Pampers Toddler Pants"
+      "Pampers"
     ],
     "recipe": null,
     "photo": {
@@ -258,7 +258,7 @@ const JUNE_IG_DATA = [
     "campaign": "JUNE IG & FB",
     "caption": "Give your sandwich a Korean twist with these mouthwatering Beef Bulgogi Sandwiches!\n\nIt takes only 10 minutes to prepare! Simply reheat a thawed pack of My 5 Minute Oriental Dish by Chef Boy Logro Bulgogi and layer with cheese,  spring onions, and toasted sesame seeds. Best paired with an ice-cold bottle of your favorite soju!\n\nRecreate this recipe at home and buy a pack of My 5 Minute Oriental Dish by Chef Boy Logro Bulgogi at #TheMarketplace today!\n\nServing Time: 10 minutes\nYield: 2 servings\n\nIngredients\n\n1 tbsp. sesame oil\n1 pack My 5 Minute Oriental Dish by Chef Boy Logro Bulgogi, thawed\n2 baguettes\n6 sandwich cheese slices\n¼ cup spring onions, chopped\n2 tbsps. sesame seeds, toasted\n\nProcedure\n\n1. Set a pan over medium heat, then add sesame oil. Reheat My 5 Minute Oriental Dish by Chef Boy Logro Bulgogi. \n2. Slice baguette lengthwise, then place 3 cheese slices on each, then top with reheated bulgogi.\n3. Garnish with spring onions and sesame seeds.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "My 5"
+      "! Generic"
     ],
     "recipe": {
       "servingTime": "10 minutes",
@@ -282,7 +282,9 @@ const JUNE_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "JUNE IG & FB",
     "caption": "A classic cocktail that never runs out of style, the martini gets a tangy and sweet twist in this recipe for Lemon Drop Martini with the help of Double Dutch Lemon Tonic.\n\nCreate this cocktail with a citrusy kick with friends, or whenever you just want a nice tipple to unwind with. Get all the ingredients you need at #TheMarketplace!\n\nServing Time: 5 minutes\nYield: 2 servings\n\nIngredients\n\n2 tbsps. white sugar\n1 tbsp. brown sugar\n1 tsp. lemon zest\n1 cup ice\n2 shots vodka\n⅛ cup lemon juice\n¾ cup Double Dutch Lemon Tonic\n2 pcs. lemon peel spiral\n\nProcedure\n\n1. Combine white sugar, brown sugar and lemon zest, then transfer to a plate. Dip the rim of each martini glass into some water, then into the lemon sugar until the rim is well coated. \n2. Fill a cocktail shaker with ice. Add vodka, lemon juice and Double Dutch Lemon Tonic.\n3. Strain ice, then transfer the cocktail into martini glasses. Garnish each with a lemon peel spiral.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": {
       "servingTime": "5 minutes",
       "yield": "2 servings",

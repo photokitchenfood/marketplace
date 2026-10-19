@@ -12,7 +12,9 @@ const MARCH_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "MAR IG & FB",
     "caption": "There’s no denying that the best part of paella is, of course, the rice! But with extra rice may come an extra amount of guilt, which is why Oh Crop! is here to save the day in this recipe for Adlai Paella. \n\nAdlai is known to be a great whole grain alternative especially because it has a low glycemic index, making it the better grain choice if you’re looking to indulge without bounds in some paella. This easy recipe takes less than an hour to prepare and comfortably serves four to six, which makes it good for leftovers and meal planning!\n\nFind Oh Crop! adlai rice, and other grain alternatives from premium brands, only at #TheMarketplace!\n\nServing Time: 45 minutes\nYield: 4-6 servings\n\nIngredients\n\n1 cup chorizo, sliced \n1 tbsp. olive oil \n1 white onion, diced \n5 cloves garlic, minced \n1 red bell pepper, diced \n1 tsp. paprika \n2 tbsps. tomato paste \n2 cups adlai \n4 cups chicken stock \nSalt and pepper to taste \n½ cup shrimp\n½ cup mussels \n\nProcedure\n\n1. Pre-heat paella pan over medium heat. Add in chorizo, and cook until it releases oil and it’s nicely browned. Set aside chorizo while retaining the rendered fat in the pan. \n2. Add in olive oil, then sauté onion, garlic and pepper until soft. Mix in paprika and tomato paste. Cook for 2 minutes. \n3. Mix in adlai. Add 2 cups of chicken stock. Once it boils, lower fire to a simmer. Stir from time to time and and add chicken stock little by little. Season with salt and pepper. \n4. When adlai is almost cooked, mix in green peas, and add shrimp and mussels on top. Cover for 8-10 minutes. Uncover and cook for another 3 minutes. \n5. Serve with lemon wedges. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Oh Crop!"
+    ],
     "recipe": {
       "servingTime": "45 minutes",
       "yield": "4-6 servings",
@@ -162,7 +164,7 @@ const MARCH_IG_DATA = [
     "campaign": "MAR IG & FB",
     "caption": "Have you checked our Gourmet to Go meals at #TheMarketpalce?\n\nIf you’re rushing and are in need of a quick and healthy bite, grab a pack of our Classic Chef’s Salad that comes complete with all the fixings and guaranteed super-fresh. Perfect for on-the-go folks!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Gourmet-to-Go"
+      "Gourmet to Go"
     ],
     "recipe": null,
     "photo": {
@@ -181,7 +183,7 @@ const MARCH_IG_DATA = [
     "campaign": "MAR IG & FB",
     "caption": "Craving some salad but have no time to prepare one? Head over to #TheMarketplace and pick up one of our Gourmet to Go Greek Salad & Herbed Chicken bowls! Each salad bowl comes filled with all the ingredients needed for a delicious and nutritious meal, all packed separately for ultimate freshness on the go!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Gourmet-to-Go"
+      "Gourmet to Go"
     ],
     "recipe": null,
     "photo": {
@@ -200,7 +202,7 @@ const MARCH_IG_DATA = [
     "campaign": "MAR IG & FB",
     "caption": "For your next #MeatlessMonday, grab a pack of Quorn Mince from #TheMarketplace and prepare these smoky and zesty Quorn Mince-Stuffed Bell Peppers! We swear, you won’t believe this dish does not contain meat at all. This Mexican-inspired recipe takes less than half an hour to make, so it’s perfect if you need a quick lunch idea, while keeping to the meat-free route. \n\nQuorn products are readily available at #TheMarketplace, along with other meat-free alternatives. \n\nServing Time: 18 minutes\nYield: 6 pieces\n\nIngredients\n\n2 tbsps. olive oil \n1 white onion, diced\n3 cloves garlic, chopped\n½ tsp. paprika\n½ tsp. cumin\n1 tsp. oregano \n1 pack Quorn Mince\n½ cup corn kernels \nSalt and pepper to taste\n¼ cup cilantro leaves, chopped \n3 bell peppers\n½ cup mozzarella cheese, grated \n\nProcedure\n\n1. Preheat oven to 180°C. \n2. Set a pan over medium heat, then add olive oil. Sauté onion and garlic until soft. Mix in paprika, cumin and oregano. \n3. Add Quorn Mince and corn kernels, then season with salt and pepper. Turn off heat, then mix in cilantro. \n4. Slice each bell pepper vertically, then deseed. Add Quorn Mince inside, then top with mozzarella cheese. Repeat for the remaining bell peppers and Quorn Mince, then transfer to a baking dish. \n5. Bake for 8-10 minutes, or until bell peppers are soft. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Quorn Mince"
+      "Quorn"
     ],
     "recipe": {
       "servingTime": "18 minutes",

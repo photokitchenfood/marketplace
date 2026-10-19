@@ -88,7 +88,9 @@ const JANUARY_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "JAN IG & FB",
     "caption": "We have the best snacks, milk, tea, and other pantry essentials the world has to offer. Start the year right with a well-stocked pantry!\n\nFind a wide selection of snacks from imported brands at #TheMarketplace and tell us your favorites in the comments section below!\n\nDid you know? You can now get your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FB4.jpg",
@@ -131,7 +133,9 @@ const JANUARY_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "JAN IG & FB",
     "caption": "If you’re looking for a fiber-rich breakfast, look no further and get all the ingredients below for this Tropical Chia Pudding at #TheMarketplace!\n\nUsing Red Tractor Black Chia Seeds, which are rich in fiber, we’ve swapped whole milk for coconut milk as a dairy-free alternative. Feel free to customize the fruits depending on what’s in season, or according to your preference, for a delicious and healthy way to start your day!\n\nServing Time: 1 hour\nYield: 2 servings\n\nIngredients\n\n8 tbsps. Red Tractor Chia Black Seeds\n2 cups coconut milk\n4 tbsps. honey\n1 tsp. vanilla \n1 cup orange segments\n1 cup mango, diced\n½ cup almonds, roughly chopped\n2 tbsps. desiccated coconut\n\nProcedure\n\n1. Combine Red Tractor Chia Seeds, milk, honey and vanilla in a bowl. Let bloom for 45-50 minutes.\n2. Fill two bowls with bloomed chia pudding. Top with orange segments, mangoes, almonds and desiccated coconut before serving.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Red Tractor"
+    ],
     "recipe": {
       "servingTime": "1 hour",
       "yield": "2 servings",

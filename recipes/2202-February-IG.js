@@ -51,7 +51,7 @@ const FEBRUARY_IG_DATA = [
     "campaign": "FEB 2022 IG & FB",
     "caption": "If you’re transitioning into a plant-based diet but missing the taste of meat, look no further because Heura Plant-Based Chunks are here to curb your cravings!\n\nAvailable at #TheMarketplace, Heura Chunks are meaty, versatile, and make a delicious “Chicken” Chow Mein. Because it looks like meat and tastes like meat, no one will be able to tell the difference. Stock up now!\n\nServing Time: 45 minutes\nYield: 3 servings\n\nIngredients\n\n2 tbsps. soy sauce\n2 tbsps. oyster sauce \n2 tbsps. Chinese cooking wine \n1 tsp. brown sugar \n2 tsps. cornstarch\n1 pack Heura Plant-Based Chunks, thawed\n2 tbsps. sesame oil\n1 white onion, chopped\n3 cloves garlic, chopped\n2 cups cabbage, shredded\n1 cup carrots, julienned\n200g egg noodles, cooked according to package instructions\nSalt and pepper to taste\n2 tbsps. spring onions, chopped\n\nProcedure\n\n1. Whisk together soy sauce, oyster sauce, Chinese cooking wine, brown sugar and cornstarch. Add 2 tbsps. of this sauce to coat Heura Plant-Based Chunks well. Marinate for 10 minutes.\n2. Using a wok over medium heat, add in sesame oil. Sauté onions and garlic until soft. Add in marinated Heura Plant-Based Chunks, and cook until lightly browned, but still undercooked. \n3. Add in carrots and cook for 2-3 minutes, or until carrots are tender. Add cabbage next, and cook for another minute. Mix in cooked egg noodles and the rest of the sauce.\n4. Season with salt and pepper to taste. Mix in spring onions before serving.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Heura Plant-Based"
+      "Heura"
     ],
     "recipe": {
       "servingTime": "45 minutes",
@@ -100,7 +100,9 @@ const FEBRUARY_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "FEB 2022 IG & FB",
     "caption": "For those days when you just need a lasagna fix but don’t have time to cook: OurKitchen’s Ready-to-Eat Lasagna Supreme is now available at #TheMarketplace. Indulge in the classic, mouthwatering combination of tangy tomato sauce, meaty beef, cream, and cheese layered between sheets of al dente pasta. Buon appetito!\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FB5.jpg",

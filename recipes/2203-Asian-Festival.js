@@ -64,7 +64,7 @@ const ASIAN_FESTIVAL_DATA = [
     "campaign": "ASIAN FESTIVAL",
     "caption": "We just love the versatility of canned corned beef, and in this recipe, we’ll show you how to make Corned Beef Quesadillas with using Highlands Gold Corned Beef.\n\nSimple and satisfying, these quesadillas are perfect to prepare any time of the day. Serve with salsa on the side to add a burst of freshness in every bite. Head over to #TheMarketplace now, grab all the ingredients you need, and get cooking!\n\nServing Time: 20-25 minutes\nYield: 2 servings\n\nIngredients\n\n3 cans Highlands Gold Corned Beef \n2 tortilla wraps\n1½ cup mozzarella cheese\n¼ cup cilantro\n½ cup lime wedges\n\nProcedure\n\n1. Set a pan over medium heat. Add Highland Gold Corned Beef, and cook until liquid is reduced and corned beef is a bit toasted.\n2. To assemble, add an even layer of mozzarella cheese on a tortilla wrap. Add corned beef top, another layer of cheese and cover with another tortilla wrap.\n3. Place the quesadilla in a pan over medium-high heat, and toast until tortillas are golden and cheese is melted. Cut into 6 triangles.\n4. Serve alongside tomato salsa and lime wedges.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Highlands Gold Corned Beef"
+      "Highlands Gold"
     ],
     "recipe": {
       "servingTime": "20-25 minutes",

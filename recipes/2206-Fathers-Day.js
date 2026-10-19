@@ -201,7 +201,9 @@ const FATHERS_DAY_DATA = [
     "categoryConfidence": "high",
     "campaign": "FATHER’S DAY",
     "caption": "Craving a fruity refreshment that’s alcohol-free? This Cranberry Cordial made with Bottlegreen Ginger & Lemongrass Cordial is the answer.\n\nSimply fill a shaker with ice, and then add cranberry juice, the cordial, and lime juice. The exotic blend of fragrant lemongrass and aromatic ginger adds character to the fruity flavors of cranberry and tangy lime. Find Bottlegreen products at #TheMarketplace, along with other non-alcoholic alternatives for a fun time at home with friends and family.\n\nServing Time: 3 minutes\nYield: 2 servings\n\nIngredients\n\n1 cup ice\n¼ cup cranberry juice\n½ cup Bottlegreen Ginger & Lemongrass Cordial\n1 tbsp. lime juice\n⅓ cup frozen cranberries\n2 lime slices\n2 rosemary sprigs\n\nProcedure\n\n1. Fill a cocktail shaker with ice. Add cranberry juice, Bottlegreen Ginger & Lemongrass Cordial and lime juice.\n2. Fill glasses with ice and frozen cranberries. Pour over the cocktail, then garnish each with a lime slice and a rosemary sprig.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Bottlegreen"
+    ],
     "recipe": {
       "servingTime": "3 minutes",
       "yield": "2 servings",

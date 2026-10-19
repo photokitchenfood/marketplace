@@ -38,7 +38,7 @@ const SUMMER_DATA = [
     "campaign": "SUMMER",
     "caption": "A Tiramisu Affogato might sound like an overkill, but trust us when we say it’s the best way to perk up a dreary afternoon.\n\nGet out of that mid-day funk and scoop some Grom Gelato Al Tiramisu in a cup, and layer with ladyfingers, chocolate syrup, and whipped cream. Sprinkle with some chopped chocolate and drown your decadent creation with some hot, robust espresso. You can thank us later. \n\nTry it out with other Grom Gelato flavors, too, and out our treasure trove of ice creams at #TheMarketplace! \n\nServing Time: 5 minutes\nYield: 2 servings\n\nIngredients\n\n6 scoops Grom Gelato Al Tiramisu\n2 cups ladyfingers, crumbled\n½ cup chocolate syrup \n1 cup whipped cream\n3 tbsps. chocolate, chopped\n2 shots of espresso\n\nProcedure\n\n1. Add 2 scoops of Grom Gelato Al Tiramisu in a dessert glass, layered with crumbled ladyfingers. Drizzle with chocolate syrup and add a layer of whipped cream.\n2. Top with another scoop of Tiramisu Gelato and sprinkle with chopped chocolate. Serve with a shot of espresso on the side. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Grom Gelato"
+      "Grom"
     ],
     "recipe": {
       "servingTime": "5 minutes",
@@ -62,7 +62,9 @@ const SUMMER_DATA = [
     "categoryConfidence": "high",
     "campaign": "SUMMER",
     "caption": "Baja fish tacos are a popular choice in taquerias, so we thought of adding a Filipino touch by using bangus instead! If you have some Sealections Marinated Boneless Bangus, fire up your stove and prepare this healthy taco recipe in minutes. They’re great for a weekend lunch, and they’re also easy to transport for picnics and packed lunches. Just store the sauce separately! These bangus tacos are really tasty and topping them with some feta cheese makes a world of a difference. Add these ingredients to your list for the next time you shop at #TheMarketplace!\n\nServing Time: 20 minutes\nYield: 2-3 servings\nOptional: Serve with feta cheese.\n\nIngredients\n\n(For the taco sauce:)\n½ cup sour cream\n⅓ cup mayo\n2 tbsps. garlic, minced\n1 tbsp. lime juice\n½ tsp. paprika\n½ tsp. hot sauce\nSalt and pepper to taste\n(For the bangus tacos:)\nOil for frying\n1 pack Marinated Boneless Bangus\n6 tortilla wraps\n2 cups cabbage, shredded\n½ cup tomatoes, diced\n½ cup yellow bell peppers\n½ cup cilantro leaves\n½ cup lime wedges\n\nProcedure\n\n1. In a bowl, combine sour cream, mayo, garlic, lime juice, paprika and hot sauce. Season with salt and pepper then set aside.\n2. Set a pan over medium heat, then add oil and fry Marinated Boneless Bangus until golden brown. Set aside to cool then flake into chunks.\n3. To assemble the tacos, fill the tortilla wrap with cabbage, tomatoes, bell peppers and flaked bangus. Top with cilantro leaves.\n4. Serve with lime wedges.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": {
       "servingTime": "20 minutes",
       "yield": "2-3 servings",

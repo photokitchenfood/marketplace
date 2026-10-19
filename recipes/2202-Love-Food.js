@@ -13,7 +13,7 @@ const LOVE_FOOD_DATA = [
     "campaign": "LOVE, FOOD",
     "caption": "Valentine’s Day is in the air, and what better way to celebrate than with this homemade Strawberry and Chocolate Cheesecake made with kisses…Hershey’s Kisses, that is!\n\nThe classic strawberry cheesecake gets a decadent, chocolatey twist in this easy recipe that takes some time to prepare, but is worth every single bite. Get all the ingredients you need at #TheMarketplace!\n\nServing Time: 8 hours\nYield: 1 9-inch cake\n\nIngredients\n\n2 cups graham cracker crumbs\n¼ cup butter, melted \n¼ cup heavy cream \n3 tbsps. brown sugar \n1 tsp. salt \n4 bars of 8 oz cream cheese, softened \n1 cup white sugar\n3 eggs\n½ cup heavy whipping cream \n½ cup sour cream \n2 tsps. vanilla\n2 tbsps. flour\n1 cup strawberry sauce \n½ cup strawberries, halved \n1 pack Hershey’s Kisses Holiday Mix \n\nProcedure\n\n1. Preheat oven to 175°C. Line a 9-inch springform pan with parchment paper on the sides and at the base. \n2. Combine graham cracker crumbs, butter, heavy cream, brown sugar and salt. Press onto the lined springform pan. Bake for 10 minutes, then let cool completely. \n3. Lower the temperature of your oven to 160°C. \n4. Using a stand mixer fitted with a paddle attachment, beat cream cheese and sugar together until smooth. Add in eggs one at a time. Beat in whipping cream, sour cream, vanilla and flour. \n5. Add in half of the strawberry sauce into the cheesecake batter, then transfer to the springform pan. Place dollops of the remaining strawberry sauce on top, then swirl using a spoon or chopstick. \n6. Bake for 55 minutes up to 1 hour, or until top is lightly browned with no cracks. The cheesecake should be firm with a slight jiggle when moved. Turn off oven, then let cheesecake cool inside with the door open to prevent it from cracking. Once cooled, chill for at least 6 hours. \n7. Top with halved strawberries and Hershey’s Kisses before serving. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Hershey’s"
+      "Hershey's"
     ],
     "recipe": {
       "servingTime": "8 hours",
@@ -38,7 +38,7 @@ const LOVE_FOOD_DATA = [
     "campaign": "LOVE, FOOD",
     "caption": "Nothing beats the iconic Ferrero Rocher when it comes to romantic sweets. This season of hearts, prepare this Ferrero Trifle that’s perfect for two. \n\nEnjoy it while having some quality time after Valentine’s dinner, or as you binge through your favorite romantic comedies this February! Find all the ingredients you need at #TheMarketplace.\n\nServing Time: 15 minutes\nYield: 2 servings\n\nIngredients\n\n1 cup chocolate biscuits, crushed \n1 cup vanilla biscuits, crushed \n3 tbsps. butter, melted\n1 cup whipping cream, chilled\n¼ cup chocolate syrup \n16 pcs. Ferrero Rocher \n\nProcedure\n\n1. Combine chocolate biscuits, vanilla biscuits and butter. Divide into 2 trifle glasses. \n2. Beat whipping cream until soft peaks form. Divide into half. \n3. Mix half of the whipped cream with chocolate syrup. \n4. Roughly chop 6 pieces of Ferrero, then fold into the remaining whipped cream.\n5. Top biscuits with chocolate whipped cream, then Ferrero chocolates, Ferrero whipped cream and finally, more Ferrero on top. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Ferrero Rocher"
+      "Ferrero"
     ],
     "recipe": {
       "servingTime": "15 minutes",
@@ -88,8 +88,7 @@ const LOVE_FOOD_DATA = [
     "campaign": "LOVE, FOOD",
     "caption": "Elevate the humble Cloud 9 chocolate bar in this recipe for Cloud 9 Cookie Skillet! Definitely made for sharing, tuck into this ooey, gooey, luscious dessert that’s best paired with a glass of cold, full-cream milk.\n\nWe topped it with vanilla ice cream, but feel free to try out other flavours, too! #TheMarketplace is home to a wide selection of local and international chocolate bars and sweet treats, so get creative with your sweet tooth and shop some sweets today!\n\nServing Time: 45 minutes\nYield: 6-8 servings\n\nIngredients\n\n1 cup unsalted butter, softened\n1 cup white sugar \n¾ cup brown sugar \n3 eggs \n2 tsps. vanilla \n3 cups all-purpose flour\n1 tsp. salt \n1 tsp. baking powder\n1 tsp. baking soda \n1 cup semi-sweet chocolate chips \n4 pcs. Classic Cloud 9, chopped\n2 scoops vanilla ice cream \n\nProcedure\n\n1. Preheat oven to 175°C. \n2. Beat together butter, white sugar and brown sugar until smooth. Mix in eggs one at a time, then add the vanilla. Beat together until fluffy and pale yellow in color. \n3. In a separate bowl, whisk together flour, salt, baking powder and baking soda. Add to the wet mixture, and mix until just combined.\n4. Fold in semi-sweet chocolate chips and half of the chopped Cloud 9 chocolates. \n5. Transfer to a skillet, then top with remaining Cloud 9 pieces. Bake for 30-35 minutes. Top with vanilla ice cream, and serve immediately. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Cloud 9",
-      "Classic Cloud"
+      "Cloud 9"
     ],
     "recipe": {
       "servingTime": "45 minutes",
@@ -114,7 +113,7 @@ const LOVE_FOOD_DATA = [
     "campaign": "LOVE, FOOD",
     "caption": "A great alternative to brownies are blondie bars, which boast flavors of vanilla and a light caramel because of brown sugar. If you’re looking to sweeten someone’s day this February, then these homemade M&M’s Valentine’s Blondies should do just the trick.\n\nRegular M&M’s work perfectly with this recipe already, but if you want to add more bite, play around with the peanut variant, or do a mix of both! All the ingredients you need are readily available at #TheMarketplace.\n\nServing Time: 50 minutes\nYield: 24 bars\n\nIngredients\n\n2 ½ cups all-purpose flour \n1 tsp. baking soda \n1 tbsp. cornstarch \n1 tsp. salt\n¾ cup unsalted butter, melted \n1 cup brown sugar \n⅔ cup white sugar \n2 large eggs\n1 tbsp. vanilla \n½ cup white chocolate chips\n½ cup M&M’s \n\nProcedure\n\n1. Preheat oven to 175°C. Line a 9x9 baking pan with parchment paper. \n2. Whisk together flour, baking soda, cornstarch and salt. In a separate bowl, whisk together butter, brown sugar, white sugar, eggs and vanilla. Mix together dry and wet ingredients until just combined. Fold in white chocolate chips and M&M’s. \n3. Transfer to the lined baking pan, then bake for 30-35 minutes. \n4. Let cool, then slice into bars. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "M&M’s"
+      "M&M's"
     ],
     "recipe": {
       "servingTime": "50 minutes",

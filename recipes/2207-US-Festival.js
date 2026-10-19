@@ -57,7 +57,7 @@ const US_FESTIVAL_DATA = [
     "campaign": "US FEST",
     "caption": "Nothing beats the comfort that a piping-hot bowl of soup brings. Grab a can of Campbell’s New England Clam Chowder the next time you visit #TheMarketplace, and sit down to a nourishing soup with real clams. Creamy, rich, and sure to warm up the soul.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Campbell’s"
+      "Campbell's"
     ],
     "recipe": null,
     "photo": {

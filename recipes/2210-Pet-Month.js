@@ -51,7 +51,7 @@ const PET_MONTH_DATA = [
     "campaign": "PET MONTH",
     "caption": "For your furry friends who need extra attention for their coat, Purina’s Supercoat dog food is specially formulated for small breed dogs, keeping in mind their unique metabolism levels.\n\nPurina also combines high-quality ingredients blended with 21 essential vitamins and minerals to meet your pet’s nutritional needs, so give it a try the next time you go to #TheMarketplace as you shop for your pet’s essentials!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
-      "Supercoat Adult"
+      "Supercoat"
     ],
     "recipe": null,
     "photo": {
@@ -70,7 +70,7 @@ const PET_MONTH_DATA = [
     "campaign": "PET MONTH",
     "caption": "SureBuy Puppy Dog Food provides a balanced meal for your pets and is suitable for all dog breeds, making it an ideal choice if you have a family of dogs to feed.\n\nFortified with a blend of essential fatty acids such as high-grade Omega 3 & 6 to help maintain a healthy coat and to promote a strong immune system, SureBuy Puppy Dog Food keeps dogs both happy and healthy. Head over to #TheMarketplace now and grab a bag!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
-      "Surebuy"
+      "SureBuy"
     ],
     "recipe": null,
     "photo": {
@@ -89,7 +89,7 @@ const PET_MONTH_DATA = [
     "campaign": "PET MONTH",
     "caption": "SureBuy Adult Dog Food Maintenance is an all-natural dog food that does not contain any artificial colorings or flavorings. Instead, it is packed with vitamins and nutrients suited for adult dogs. Available in two-kilogram bags, grab SureBuy Adult Dog Food to maintain your dog’s optimal health. Find it in #TheMarketplace, along with other pet essentials fit for your canine companions.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
-      "Surebuy"
+      "SureBuy"
     ],
     "recipe": null,
     "photo": {

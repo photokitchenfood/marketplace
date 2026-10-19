@@ -13,8 +13,7 @@ const HALLOWEEN_DATA = [
     "campaign": "HALLOWEEN",
     "caption": "This Halloween, serve up some edible squid game with this gigantic creature-inspired goodness in the form of Korean Grilled Squid!\n\n#TheMarketplace is home to a variety of fresh seafood, including giant squid! Simply marinate with gochujang, sugar, sesame oil, soy sauce, garlic, ginger, and gochugaru before broiling. Serve with an assortment of veggies, and you're good to go.\n\nServing Time: 1 hour and 45 minutes\nYield: 5-6 servings\n\nIngredients\n\n¾ cup gochujang\n4 tbsps. sugar\n3 tbsps. sesame oil\n4 tbsps. soy sauce\n2 tbsps. garlic, grated\n1 tbsp. ginger, grated\n3 tbsps. gochugaru\n1 pc. Giant Squid\nSalt and pepper to taste\n3 bunches bok choy\n3 cups shimeji mushrooms\n4 cups shiitake mushrooms\n\nProcedure\n\n1. Preheat oven to 200°C.\n2. In a small bowl, combine gochujang, sugar, sesame oil, soy sauce, garlic, ginger and gochugaru. \n3. Pat dry Giant Squid with paper towels, and season with salt and pepper. Marinate the squid in the gochujang mixture for at least an hour.\n4. Let excess marinade drip into a bowl, then broil squid for 20 minutes while basting with remaining marinade from time to time. \n5. Toss in bok choy, shimeji mushroom, and shiitake mushroom, then broil again for another 10 minutes.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
-      "1 pc. Giant Squid",
-      "Giant Squid"
+      "! Generic"
     ],
     "recipe": {
       "servingTime": "1 hour 45 minutes",
@@ -39,8 +38,7 @@ const HALLOWEEN_DATA = [
     "campaign": "HALLOWEEN",
     "caption": "If you're looking for a simple and delicious fish recipe, head over to #TheMarketplace and grab a pack of Pacific Bay Halibut Fillet and make this Lemon Caper Halibut at home!\n\nReady in less than 30 minutes and serves 4-6, Halibut is known for its mild and sweet-tasting flesh, similar to tilapia. The tangy flavors of lemon and caper instantly elevate the fish in the most elegant way. \n\nServing Time: 20-25 minutes\nYield: 4-6 servings\n\nIngredients\n\n1 (1kg) pack Pacific Bay Halibut Fillet\nSalt and pepper to taste\n1 cup flour\n3 tbsps. olive oil\n⅓ cup butter\n3 tbsps. capers\n4 tbsps. lemon juice \n½ tbsp. lemon zest\n4 sprigs thyme\n1 pc. lemon, sliced\n\nProcedure\n\n1. Pat dry Pacific Bay Halibut Fillet with paper towels. Season with salt and pepper, then lightly coat with flour. \n2. Set a pan over medium heat. Add olive oil, and pan fry halibut pieces until nicely golden brown on both sides. Do this in batches to avoid overcrowding. \n3. Using the same pan, add in butter, capers, lemon juice, lemon zest and thyme sprigs. Simmer for 1-2 minutes, then add back cooked halibut.\n4. Baste halibut with lemon caper sauce for 2-3 minutes, then transfer to a serving plate. Garnish with lemon slices. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
-      "1 (1kg) pack Pacific Bay Halibut Fillet",
-      "Pacific Bay Halibut Fillet"
+      "Pacific Bay"
     ],
     "recipe": {
       "servingTime": "20-25 minutes",
@@ -65,7 +63,6 @@ const HALLOWEEN_DATA = [
     "campaign": "HALLOWEEN",
     "caption": "Bake the spookiest sweets using Maltesers in this recipe for Malteser Spider Cookies.\n\nA great Halloween activity for both kids and kids-at-heart, these cookies are best served warm and with a refreshing glass of milk in a skull cup for an extra scare! Find Maltesers, along with all the other ingredients you need for this recipe at #TheMarketplace!\n\nServing Time: 1 hour and 45 minutes\nYield: 1 dozen\n\nIngredients\n\n2 ½ cups flour\n½ tsp. salt\n1 tsp. baking soda\n1 cup butter, softened\n1 cup brown sugar, packed\n¾ cup white sugar\n2 eggs\n2 cups Maltesers \n1 cup semi-sweet chocolate, melted\n¾ cup white chocolate, melted\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. In a large bowl, sift together flour, salt and baking soda. Set aside.\n3. In another bowl, cream together butter and sugar. Add in eggs, and mix until light and fluffy. Mix in flour mixture until just combined. \n4. Create a ball using a tablespoon of cookie dough, then line up in a parchment-lined tray about an inch part.\n5. Bake for 6-8 minutes. While hot, add two pieces of Maltesers to create the body of the spiders.\n6. Transfer melted semi-sweet chocolate and white chocolate in  two separate piping bags. Use this to create spider legs and eyes.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
-      "2 cups Maltesers",
       "Maltesers"
     ],
     "recipe": {
@@ -91,8 +88,7 @@ const HALLOWEEN_DATA = [
     "campaign": "HALLOWEEN",
     "caption": "Make your Halloween a most happy one indeed with these KitKat S'mores Bars!\n\nThe wafer-y, biscuit-y crunch from Nestlé KitKat adds that familiar bite and extra character to your regular s'mores. Head over to #TheMarketplace now and stock up on your annual Halloween candy today!\n\nServing Time: 1 hour\nYield: 12 bars\n\nIngredients\n\n1 ½ cups dark chocolate, chopped\n½ cup butter, cubed\n1 cup sugar\n2 eggs\n½ tsp. salt\n1 tsp. vanilla extract\n¾ cup flour, sifted\n¼ cup cocoa powder, sifted\n2 cups Nestlé KitKat Chocolate Wafer Biscuits, chopped\n1 ½ cup small marshmallows \n\nProcedure\n\n1. Preheat oven to 175°C.\n2. Add dark chocolate and butter in a large heatproof bowl, then melt using a double boiler.\n3. Once melted, remove from the heat, then whisk in sugar, eggs, salt and vanilla extract until smooth. Mix in flour and cocoa powder until well combined. \n4. Transfer to a greased 7x11-inch baking pan, and bake for 20 minutes. \n5. Remove from the oven, then immediately top with marshmallows and chopped Nestlé KitKat Chocolate Wafer Biscuits. Broil for another 5-8 minutes. \n6. Let cool before cutting.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
-      "2 cups Nestlé KitKat Chocolate Wafer Biscuits, chopped",
-      "Nestlé KitKat Chocolate Wafer Biscuits"
+      "Nestlé KitKat"
     ],
     "recipe": {
       "servingTime": "1 hour",
@@ -117,8 +113,7 @@ const HALLOWEEN_DATA = [
     "campaign": "HALLOWEEN",
     "caption": "A word of caution: these Cloud 9 Mummy Treats might be too cute to eat!\n\nMade with Cloud 9 Gold Caramel Nut Crisp, these chocolatey corpses are crispy, crunchy, and the opposite of creepy. Have these laid out on your Halloween table spread, and get all the ingredients you need for this sweet treat at #TheMarketplace!\n\nServing Time: 1 hour\nYield: 16 pieces\n\nIngredients\n\n2 sheets puff pastry\n16 pcs. Cloud 9 Gold Caramel Nut Crisp\n1 egg\n¼ cup cream\n1 cup semi-sweet chocolate, melted\n¾ cup white chocolate, melted\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. Cut puff pastry into 8 strips. Wrap each piece of Cloud 9 Gold Caramel Nut Crisp with a strip of puff pastry. Set aside. \n3. Line a baking tray with parchment paper. In a small bowl, whisk together egg and cream.\n4. Transfer wrapped Cloud 9 Gold Caramel Nut Crisp pieces into the lined baking tray, brush with egg wash, then bake for 15-20 minutes, or until puff pastry is golden brown.\n5. Transfer melted semi-sweet chocolate and white chocolate in  two separate piping bags. Use this to create the eyes of the mummies. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
-      "16 pcs. Cloud 9 Gold Caramel Nut Crisp",
-      "Cloud 9 Gold Caramel Nut Crisp"
+      "Cloud 9"
     ],
     "recipe": {
       "servingTime": "1 hour",
@@ -162,8 +157,7 @@ const HALLOWEEN_DATA = [
     "campaign": "HALLOWEEN",
     "caption": "Can these deviled eggs get even more devious? Yes, they can!\n\nMade with Mega Tuna Premium Flakes in Spicy Lemon, these Halloween Tuna Deviled Eggs also pack a spicy kick to them. Decorated with black olives, peppercorns, and chillies for a Halloween touch, head over to #TheMarketplace before October 31st hits and get all the items you need to make this devilish dish!\n\nServing Time: 30-40 minutes\nYield: 2 dozen\n\nIngredients\n\n1 dozen eggs, hard-boiled\n2 cans Mega Tuna Premium Flakes in Spicy Lemon, drained\n⅓ cup mayonnaise\n2 tbsps. mustard\n1 tbsp. lemon juice\n2 tbsps. sriracha sauce\n½ tbsp. paprika\nSalt and pepper to taste\n¼ cup black olives\n1 tbsp. black peppercorns\n¼ cup red chillies\n\nProcedure\n\n1. Peel boiled eggs, slice each in half vertically, then remove egg yolks. Transfer egg yolks in a large bowl, and set aside egg whites.\n2. Mash egg yolks with drained Mega Tuna Premium Flakes in Spicy Lemon.\n3. Add in mayonnaise, mustard, lemon juice, sriracha and paprika. Season with salt and pepper. Mix until well incorporated and transfer to a piping bag.\n4. Fill each egg white with the tuna-egg yolk mixture. Garnish with olives, black peppercorns and red chilies to create Halloween-themed faces.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
-      "2 cans Mega Tuna Premium Flakes in Spicy Lemon, drained",
-      "Mega Tuna Premium Flakes in Spicy Lemon"
+      "Mega Tuna"
     ],
     "recipe": {
       "servingTime": "30-40 minutes",
@@ -188,8 +182,7 @@ const HALLOWEEN_DATA = [
     "campaign": "HALLOWEEN",
     "caption": "If you love pairing your corned beef with egg and cheese, then you’ll definitely enjoy this recipe for Corned Beef Omurice made with none other than Highlands Gold Corned Beef.\n\nThis dish is a cross between the popular Japanese omelette and a very Pinoy corned beef-silog. And because we’re using Highlands Corned Beef, expect premium chunks of pure Angus beef in every bite! Grab all the ingredients you need at #TheMarketplace.\n\nServing Time: 30 minutes\nYield: 3 servings\n\nIngredients\n\n2 tbsps. margarine\n1 white onion, diced \n3 (150g) cans Highlands Gold Corned Beef   \n3 cups cooked white rice \n8 tbsps. ketchup\n1 tbsp. soy sauce \nSalt and pepper, to taste \n6 eggs \n¼ cup quick-melting cheese, grated \n1 tbsp. cream\n3 tbsps. butter\n6 tbsps. Japanese mayonnaise\n3 tbsps. scallions, sliced\n\nProcedure\n\n1. Sauté onions in margarine. Once translucent, add in Highlands Gold Corned Beef, and fry until most of the liquid has reduced. \n2. Mix in white rice, 2 tbsps. ketchup and soy sauce. Season with salt and pepper to taste. \n3. Divide into 3, and mold into rounds. \n4. Whisk together eggs, cheese and cream. Season with salt and pepper. This will be for 3 servings of omelette. \n5. For every omelette serving, melt 1 tbsp. of butter in a small non-stick frying pan over medium heat. Add in 1 batch of beaten eggs, then push around immediately to avoid big curdles from forming. Once mostly set, but still very moist, slide out the egg onto one molded rice. \n6. Repeat for remaining 2 servings. \n7. Drizzle each with ketchup and mayonnaise. Garnish with scallions. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
-      "3 (150g) cans Highlands Gold Corned Beef",
-      "Highlands Gold Corned Beef"
+      "Highlands Gold"
     ],
     "recipe": {
       "servingTime": "30 minutes",
@@ -214,8 +207,7 @@ const HALLOWEEN_DATA = [
     "campaign": "HALLOWEEN",
     "caption": "A simple way to enjoy caldereta is by adding grated cheese. A quick and easy way to enjoy it at home is by grabbing two cans of Delimondo Caldereta Corned Beef, topping it with a medley of cheeses, and popping it into the oven to broil.\n\nThe result is a plate of delicious corned beef oozing with creamy, cheesy flavors, ready to be devoured in minutes. Delimondo corned beef, along with other premium corned beef from both local and international brands, are available at #TheMarketplace!\n\nServing Time: 45 minutes\nYield: 4-6 servings\n\nIngredients\n\n2 cans Delimondo Caldereta Corned Beef\n¼ cup butter \n1 white onion, diced\n5 cloves garlic, minced \n2 tbsps. flour \n3 cups milk \n1 cup cream \n½ cup cheddar cheese, grated\n½ cup parmesan cheese  \n1 cup mozzarella cheese, grated \nPinch of nutmeg \n½ tsp. paprika \nSalt and pepper to taste\n500g macaroni noodles, boiled according to package instructions\n\nProcedure\n\n1. Fry Delimondo Caldereta Corned Beef until most of the liquid has evaporated. Set aside corned beef.\n2. In the same pan, sauté onions and garlic in butter. Once soft and fragrant, mix in flour, and cook until slightly darkened, Slowly whisk in milk and cream until smooth.\n3. Mix in cheddar, parmesan and half of the mozzarella cheese. Season nutmeg, paprika, salt and pepper. \n4. Preheat oven to 190C. \n5. Add back Delimondo Caldereta Corned Beef, and mix in cooked macaroni noodles. \n6. Transfer to a baking dish, then top with remaining mozzarella cheese. Broil for 5-8 minutes. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
-      "2 cans Delimondo Caldereta Corned Beef",
-      "Delimondo Caldereta Corned Beef"
+      "Delimondo"
     ],
     "recipe": {
       "servingTime": "45 minutes",

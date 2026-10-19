@@ -120,7 +120,7 @@ const MAY_IG_DATA = [
     "campaign": "MAY IG & FB",
     "caption": "Made better for you and for the planet, #unMEAT is a 100% plant-based protein made with non-gmo soy. It’s preservative-free and high in fiber and protein. #unPIZZA is also available for those meat pizza cravings…without the meat! Find #unMEAT products and other meat alternatives at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "unPizza"
+      "unMEAT"
     ],
     "recipe": null,
     "photo": {
@@ -138,7 +138,9 @@ const MAY_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "MAY IG & FB",
     "caption": "Inspired by the popular Japanese dessert, this recipe for Japanese Coffee Jelly uses Macro Organic Fairtrade Ground Coffee, which you can find at #TheMarketplace. Once brewed, combine with some sugar, gelatin, whipped cream, and cocoa powder. It’s definitely a refreshing way to cool down with a caffeinated touch this summer!\n\nServing Time: 2 hours\nYield: 2-3 servings\n\nIngredients\n\n2 cups brewed Macro Organic Fairtrade Ground Coffee \n2 tbsps. sugar \n¼ cup room temperature water\n1 tbsp. gelatin powder \n1 cup whipped cream\nCocoa powder for dusting\n\nProcedure\n\n1. In a saucepan, combine brewed Macro Organic Fairtrade Ground Coffee and sugar. Bring to a simmer. \n2. Dissolve gelatin powder into the water, then whisk into the coffee mixture. \n3. Transfer to an 8” baking dish, then let set in the chiller for at least 1 hour. \n4. Once set, cut into cubes. Transfer to serving glasses, then top with whipped cream and cocoa powder. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": {
       "servingTime": "2 hours",
       "yield": "2-3 servings",
@@ -162,7 +164,7 @@ const MAY_IG_DATA = [
     "campaign": "MAY IG & FB",
     "caption": "In this recipe for Blueberry Cream Cheese French Toast, the irresistible combination of blueberries and cream cheese is cleverly turned into a delicious breakfast that’s worth waking up early for!\n\nThe secret to this recipe is the use of El Corte Inglés Blueberry Jam, which is made from the freshest and juiciest Spanish blueberries. The sweetness of the berries contrasted with the tangy cream cheese, sandwiched in between cinnamon-sugar French toast is a match made in heaven. Find all the ingredients you need for this recipe at #TheMarketplace!\n\nServing Time: 20 minutes\nYield: 8 servings\n\nIngredients\n\n2 eggs\n1 cup milk \n1 tsp. cinnamon \n1 tsp. vanilla \n2 tbsps. brown sugar \n¼ cup butter\n8 slices sandwich bread \n1 bar cream cheese, softened \n2 cups El Corte Inglés Blueberry Jam \n3 tbsps. honey\nPowdered sugar for dusting\n\nProcedure\n\n1. In a bowl, whisk together eggs, milk, cinnamon, vanilla and brown sugar. \n2. Melt about ½ a tbsp. of butter in a frying pan. \n3. Briefly dip each bread into the egg mixture, then fry in the melted butter until golden brown on both sides. Repeat for all bread slices. \n4. Combine cream cheese, 1 cup blueberry El Corte Inglés Blueberry Jam and honey. Top 4 slices of French Toast with the cream cheese mixture, then with blueberry jam. Cover each with another slice of French Toast. \n5. Slice into triangles, then dust with powdered sugar. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "El Corte Ingles"
+      "El Corte Inglés"
     ],
     "recipe": {
       "servingTime": "20 minutes",
@@ -244,7 +246,7 @@ const MAY_IG_DATA = [
     "campaign": "MAY IG & FB",
     "caption": "Busy day? Don’t let that stop you from enjoying a filling and delicious meal! Available at #TheMarketplace, check out our selection of scrumptious, ready-to-eat delights goods such as Gourmet To Go quiches and other baked savory goods that come piping hot upon serving. Your tummy will thank you later.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Gourmet-to-Go"
+      "! Generic"
     ],
     "recipe": null,
     "photo": {
@@ -282,7 +284,7 @@ const MAY_IG_DATA = [
     "campaign": "MAY IG & FB",
     "caption": "For your next home café project, try making a dozen Strawberry Jam Danish Pastries using El Corte Inglés Strawberry Jam, available at #TheMarketplace!\n\nBecause the jam is made of premium, juicy Spanish strawberries, it balances out the rich, buttery puff pastry, resulting to a batch of bakes that’s oozing with natural flavors. We can’t think of a better summer pastry. #TheMarketplace is home to a lot of international jam and preserve brands. Check them out on your next visit!\n\nServing Time: 45 minutes\nYield: 12 pieces\n\nIngredients\n\nFlour for dusting\n2 sheets puff pastry\n2 cups El Corte Inglés Strawberry Jam \n1 egg yolk \n¼ cup heavy cream \n½ cup brown sugar \n¼ cup strawberries, sliced \n\nProcedure\n\n1. Preheat oven to 175°C. \n2. Dust a clean surface with some flour. Roll out puff pastry until ¼” thick, then divide into squares.\n3. Add a dollop of El Corte Inglés Strawberry Jam into each square, while leaving a border of puff pastry blank.\n4. Whisk together egg yolk and heavy cream. Brush this mixture into the puff pastry borders, then sprinkle with brown sugar on top. \n5. Bake for 15-20 minutes, or until puff pastry is golden brown. \n6. Let cool, then top each with a strawberry slice. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "El Corte Ingles"
+      "El Corte Inglés"
     ],
     "recipe": {
       "servingTime": "45 minutes",

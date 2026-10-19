@@ -13,7 +13,7 @@ const BREAKFAST_FAIR_DATA = [
     "campaign": "BREAKFAST FAIR",
     "caption": "While there are many stories about the origin of Shakshuka, we can all agree that it is hearty, delicious, and makes for a comforting brunch.\n\nThis recipe for Shakshuka is made using Hunt’s Pork and Beans for ease and for some added familiarity. Don’t forget to crumble some feta cheese on top and serve! We like it best when the yolk is gooey. Find all the ingredients you need for this recipe at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 2-3 servings\n\nIngredients\n\n2 tbsp. olive oil\n1 cup white onions\n1 tbsp. garlic, minced\n2 tbsps. tomato paste\n2 cans Hunt’s Pork and Beans\n½ tsp. cumin\n½ tsp. paprika\nSalt and pepper to taste\n2 eggs\n¼ cup feta, crumbled\n⅓ cup cilantro leaves\n\nProcedure\n\n1. Preheat oven to 175°C\n2. Set a cast iron pan over medium heat, then sauté onions and garlic until soft. Add in tomato paste, and cook until slightly darkened. Mix in Hunt’s Pork and Beans.\n3. Mix in cumin, paprika, then season with salt and pepper. Let simmer for 4 minutes.\n4. Create 2 wells, then add in eggs. Bake for 3-5 minutes, or until eggs are cooked to your desired doneness. Remove from the oven, and top with feta and cilantro leaves.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Hunt’s Pork and Beans"
+      "Hunt’s"
     ],
     "recipe": {
       "servingTime": "15 minutes",
@@ -132,7 +132,7 @@ const BREAKFAST_FAIR_DATA = [
     "campaign": "BREAKFAST FAIR",
     "caption": "Getting bored of cornflakes and milk? This recipe for Cornflake-Apple Pancakes will change your mornings for the better!\n\nUsing Kellogg’s Cornflakes for crunch, the delicious cornflake flavor makes its way into the pancake batter and is made fruitier with the addition of apples. Grab your box of Kellogg’s Corn Flakes, along with other breakfast essentials, when you shop at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 2-3 servings\n\nIngredients\n\n1 cup flour\n2 tsps. baking powder\n¼ tsp. salt\n1½ tbsps. sugar\n1 cup Kellogg’s Corn Flakes\n3 tbsps. butter, melted, plus more for frying\n1½ cup milk\n⅔ cup red apples, sliced\n⅓ cup maple syrup\n\nProcedure\n\n1. In a bowl, combine flour, baking powder, salt, sugar, and Kellogg’s Corn Flakes. Make a well in the center, then add butter and milk. Mix until just combined.\n2. Set a pan over medium heat. Grease with butter, then add ½ cup of the batter. Wait for bubbles to form on top before flipping, then cook for another 1 minute on the other side.\n3. Top with apples, and serve alongside maple syrup.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Kellogg’s"
+      "Kellogg's"
     ],
     "recipe": {
       "servingTime": "15 minutes",
@@ -175,7 +175,9 @@ const BREAKFAST_FAIR_DATA = [
     "categoryConfidence": "medium",
     "campaign": "BREAKFAST FAIR",
     "caption": "Get creative with Locally Dalandan Juice by making this Dalandan-Mango Slushie!\n\nSimply combine the dalandan juice with mango, mint, ice, and honey in a blender, pulse until smooth, and be prepared to awaken your senses to the bright flavors of summer in every sip!\n\nLocally Dalandan Juice is available in #TheMarketplace, along with other delicious juices and fruit drinks.\n\nServing Time: 5 minutes\nYield: 3-4 servings\n\nIngredients\n\n2 (240mL) bottles Locally Dalandan Juice, chilled \n1 mango, flesh cubed \n¼ cup mint leaves\n1 cup ice \n1 tbsp. honey\n\nProcedure\n\n1. In a blender, combine Locally Dalandan Juice, mango cubes, mint leaves, ice and honey. Process until smooth. \n2. Enjoy immediately to maintain slushie texture.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": {
       "servingTime": "5 minutes",
       "yield": "3-4 servings",
@@ -243,7 +245,7 @@ const BREAKFAST_FAIR_DATA = [
     "campaign": "BREAKFAST FAIR",
     "caption": "One of Hawaii’s most iconic dishes may seem quite basic, but it’s loaded with a lot of goodness.\n\nLoco Moco is a dish of rice, a burger patty, gravy, and topped with an egg. It sounds like our very own burger steak, but with the addition of the egg, sesame seeds, and leeks. Using Highlands Classic Mushroom and Beef Patties, here’s a taste of Hawaii that you can enjoy right at home.\n\nGet all the ingredients you need for this recipe only at #TheMarketplace.\n\nServing Time: 20 minutes\nYield: 1 serving\n\nIngredients\n\n2 tbsps. olive oil\n2 Highlands Classic Mushroom and Beef Patties\n2 tbsps. butter\n2 tbsps. flour\n1 cup beef stock\n1 tbsp. worcestershire sauce\n1 cup rice, cooked\n1 egg, cooked sunny side up \n2 tbsps. leeks, sliced\n1 tbsp. sesame seeds\n\nProcedure\n\n1. Set a pan over medium heat, then add olive oil. Sear Highlands Classic Mushroom and Beef Patties until nicely browned on both sides. Set aside.\n2. Using the same pan, add butter and flour to make a roux. Slowly mix in beef stock and worcestershire sauce. Let simmer until thickened. \n3. Place rice on a bowl, then top with cooked Highlands Classic Mushroom and Beef Patties. Pour over gravy, then top with egg.\n4. Top with leeks and sesame seeds before serving.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Highlands Classic"
+      "Highlands"
     ],
     "recipe": {
       "servingTime": "20 minutes",
@@ -400,7 +402,7 @@ const BREAKFAST_FAIR_DATA = [
     "campaign": "BREAKFAST FAIR",
     "caption": "We made our own version of the popular and trending Cheese Ramen with Eden Cheese. \n\nAll you need is some ramen noodles, butter, garlic, and the ramen seasoning, along with some flour and milk to give your regular noodles a creamy upgrade. Hungry yet? Add these ingredients to your shopping list for the next time you visit #TheMarketplace!\n\nServing Time: 12 minutes\nYield: 2 servings\n\nIngredients\n\n2 rounds ramen noodles\n¼ cup butter \n3 cloves garlic, minced\n2 tbsps. flour \n2 cups milk \n1 cup Eden Cheese, grated\n2 packets ramen seasoning \n2 tsps. furikake seasoning\nSpring onions for garnish\n\nProcedure\n\n1. Cook ramen noodles in boiling water for 3-4 minutes, or until noodles have softened. Set aside ½ cup boiling water, then drain noodles. \n2. Sauté garlic in butter. Once softened, mix in flour and cook for 1-2 minutes, or until flour has slightly darkened and a paste has formed. \n3. Whisk in milk and reserved boiling water. Mix in Eden Cheese and ramen seasoning. Let simmer until thick. \n4. Mix in cooked ramen noodles. Top with furikake seasoning, and garnish with spring onions. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Eden Cheese"
+      "Eden"
     ],
     "recipe": {
       "servingTime": "12 minutes",

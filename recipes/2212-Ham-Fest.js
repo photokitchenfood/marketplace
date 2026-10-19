@@ -13,8 +13,7 @@ const HAM_FEST_DATA = [
     "campaign": "HAM FESTIVAL",
     "caption": "Whether you get some Purefoods Brick Ham for the holidays, or simply have some in the fridge, this Ham & Cheese Danish is a great way to maximize your ham!\n\nUsing sheets of puff pastry, slice out a hole from the top layer and fill in with this delicious, ham filling. Add an extra bite with mushrooms, or slip in some red chili flakes for a bit of heat! Find Purefoods Brick Ham, along with all the other ingredients you need for this recipe, at #TheMarketplace!\n\nServing Time: 45 minutes\nYield: 12 pieces\n\nIngredients\n\n2 egg yolks \n¼ cup cream\nSalt and pepper to taste\n6 sheets puff pastry \n3 tbsps. butter \n2 cups Purefoods Brick Ham, diced \n1 cup gruyere cheese, grated \n1 cup cheddar cheese, grated\n½ cup parmesan cheese\n\nProcedure\n\n1. Preheat oven to 180C. \n2. Whisk together egg yolk and cream. Season with salt and pepper. \n3. Lightly brush 3 sheets of puff pastry with egg wash. Top each with one puff pastry sheet, then gently press together. \n4. Slice into equal rectangles. Slice out a hole from the top pastry layer of each piece. Chill while making the filling. \n5. Sauté Purefoods Brick Ham in butter until caramelized. Remove from the heat, then combine with gruyere and cheddar cheese. \n6. Fill each danish with the ham & cheese mixture, then brush with egg wash on top, and sprinkle with parmesan cheese. \n7. Bake for 15-18 minutes, or until pastry is crisp and golden brown. \nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "2 cups Purefoods Brick Ham, diced",
-      "Purefoods Brick Ham"
+      "Purefoods"
     ],
     "recipe": {
       "servingTime": "45 minutes",
@@ -39,7 +38,7 @@ const HAM_FEST_DATA = [
     "campaign": "HAM FESTIVAL",
     "caption": "Bring out the French cook in you and make these Fiesta Ham Crepes that are deserving of a chef’s kiss!\n\nUsing Purefoods Fiesta Ham, these crepes are definitely a fancier rendition of a ham and cheese sandwich. Trust us, preparing the crepes from scratch makes all the difference.\n\nShop holiday hams and get all the items you need for this recipe at #TheMarketplace!\n\nServing Time: 45 minutes\nYield: 12 pieces\n\nIngredients\n\nCREPES\n\n1 cup flour\n½ tsp. salt\n1 tbsp. sugar \n2 tbsps. butter, melted \n2 eggs\n½ cup milk\n¾ cup water\n\nFILLING\n\n3 tbsps. olive oil \n500g Purefoods Fiesta Ham, pre-sliced\n1 cup shiitake mushrooms, sliced \n12 sandwich cheddar cheese slices \n\nProcedure\n\n1. Whisk together all crepe ingredients until smooth. \n2. Add about ¼ cup of the crepe batter into a greased pan over medium heat. Immediately swirl to spread thinly. Flip once the bottom is nicely browned, then cook for another minute. Repeat until the batter is finished. \n3. Fry Purefoods Fiesta Ham slices in olive oil until caramelized, then set aside. In the same pan, sauté shiitake mushrooms until soft. Season with salt and pepper. \n4. To assemble, fill crepes with cheddar cheese slices, Purefoods Fiesta Ham slices and sauteed mushrooms. \nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Purefoods Fiesta Ham"
+      "Purefoods"
     ],
     "recipe": {
       "servingTime": "45 minutes",
@@ -121,7 +120,7 @@ const HAM_FEST_DATA = [
     "campaign": "HAM FESTIVAL",
     "caption": "Now available at #TheMarketplace, Earle’s Delicatessen’s Premium Signature Ham is bursting with smoky and savory porky flavors, draped with a sweet pineapple glaze.\n\nWith a balanced ratio of fat and meat, it does so great on the holiday dinner table, you’ll be lucky if you have leftovers. Shop now and stock up before the festive frenzy!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Earle’s"
+      "Earle's"
     ],
     "recipe": null,
     "photo": {

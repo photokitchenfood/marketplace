@@ -51,7 +51,7 @@ const HEALTH_WELLNESS_DATA = [
     "campaign": "HEALTH AND WELLNESS",
     "caption": "With groovy and fun designs on each pad and with a honeycomb-shaped liquid-locker that’s designed to keep leaks at bay, Kotex Luxe also promises up to three times better absorption, while providing both intimate protection and ultra comfort.\n\nGrab you Kotex Luxe pads at #TheMarketplace and other feminine hygiene essentials!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Kotex Luxe"
+      "Kotex"
     ],
     "recipe": null,
     "photo": {
@@ -70,7 +70,7 @@ const HEALTH_WELLNESS_DATA = [
     "campaign": "HEALTH AND WELLNESS",
     "caption": "With a special oat oil-infused formula, Aveeno Rapid Skin Relief Lotion is a must-have for nourished and moisturized skin. With natural shea butter to relieve and protect our skin’s barrier, it’s perfect especially for those with sensitive skin.\n\nSave PHP 300 when you head down to #TheMarketplace and purchase the twin pack! Each comes with two 354mL Skin Relief Moisturizing Lotion bottles.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Aveeno Lotion"
+      "Aveeno"
     ],
     "recipe": null,
     "photo": {

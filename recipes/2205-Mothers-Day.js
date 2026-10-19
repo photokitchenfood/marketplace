@@ -189,7 +189,7 @@ const MOTHERS_DAY_DATA = [
     "campaign": "MOTHER’S DAY",
     "caption": "An essential wine to have at home, Shiraz constitutes a deep-bodied flavor that offers aromas and notes of jammy berries. It goes perfectly with meats, burgers, barbecues, especially roasted legs of lamb. Great for meal pairings or on its own, head over to #TheMarketplace and grab a bottle of Oxford Landing Shiraz today!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Philippine Wine Merchant"
+      "! Generic"
     ],
     "recipe": null,
     "photo": {
@@ -227,7 +227,7 @@ const MOTHERS_DAY_DATA = [
     "campaign": "MOTHER’S DAY",
     "caption": "Kimchi fried rice seems to have won the hearts of many. So much so that it has become a common sight in most home-cooked meals.\n\nIf you’re looking for a tasty and fun twist to your Kimchi Fried Rice, head over to #TheMarketplace and get a bag of Oh So Healthy Kimchi Crisps, which concentrate the tangy and spicy flavors of kimchi into delightfully thin crisps! The texture with the fried rice makes a world of a difference.\n\nServing Time: 15-20 minutes\nYield: 3 servings\n\nIngredients\n\n3 tbsps. sesame oil\n1 cup bean sprouts\nSalt and pepper to taste\n¼ cup white onions, diced\n2 tbsps. garlic, minced\n1 cup kimchi, chopped\n1 tbsp. gochujang\n1 tbsp. soy sauce\n3 cups day old rice\n½ cup scallions, chopped\n1 cup Oh So Healthy Kimchi Crisps\n3 eggs, sunny side up\n\nProcedure\n\n1. Set pan over medium heat, then add 1 tablespoon of sesame oil. Sauté bean sprouts and season with salt and pepper. Set aside.\n2. Using the same pan, add the rest of sesame oil and sauté onions and garlic until fragrant.\n3. Add kimchi, gochujang, and soy sauce. Mix in day old rice. \n4. Transfer to a bowl. Top with scallions, Oh So Healthy Kimchi Crisps, bean sprouts and a sunny side up egg.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Oh So"
+      "Oh So Healthy"
     ],
     "recipe": {
       "servingTime": "15-20 minutes",
@@ -252,7 +252,7 @@ const MOTHERS_DAY_DATA = [
     "campaign": "MOTHER’S DAY",
     "caption": "Celebrate life a bit more deliciously with this recipe for Lechon Macaroni Bake.\n\nPerfect for Sunday lunches or weekend potlucks, the inclusion of Elarz Corned Lechon into a tray of extra-cheesy baked macaroni not only adds texture, but also the deep porcine flavors cut through the creaminess and round off each bite with loads of umami. List down all the ingredients you need for this recipe and shop for them at #TheMarketplace!\n\nServing Time: 30-40 minutes\nYield: 5-6 servings\n\nIngredients\n\n400g elbow macaroni\n2 cans Elarz Corned Lechon\n3 tbsps. butter\n3 tbsps. flour\n1 cup milk\n1 cup heavy cream\n1 cup white cheddar cheese, grated\n1 cup mozzarella cheese, grated\n⅛ tsp. nutmeg\nSalt and pepper to taste\n½ cup bread crumbs, toasted\n⅛ cup parsley, chopped\n\nProcedure\n\n1. Cook pasta according to package instructions. Drain, then set aside.\n2. Set a pan over medium heat, then add Elarz Corned Lechon. Cook until its juices has reduced.\n3. Set a pot over medium heat, then add combine melted butter and flour to create a roux. Slowly add in milk while continuously mixing to avoid lumps.\n4. Add heavy cream, white cheddar cheese and mozzarella. Mix until well combined and smooth.\n5. Mix in nutmeg and season with salt and pepper. Mix in cooked elbow macaroni. \n6. Transfer to a serving dish, then top with Elarz Corned Lechon, toasted bread crumbs and parsley.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Elarz Corned"
+      "Elarz"
     ],
     "recipe": {
       "servingTime": "30-40 minutes",

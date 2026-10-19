@@ -182,7 +182,7 @@ const SEPTEMBER_IG_DATA = [
     "campaign": "SEPT IG & FB",
     "caption": "Apart from its famous corned beef, did you know that Delimondo now carries its own canned tuna? That’s right! And we’ve turned Delimondo’s Yellowfin Tuna Chunks in Extra Virgin Olive Oil into these yummy and buttery Tuna Danish pastries,\n\nPacked with flavor and bursting with the familiar and comforting flavors of mayonnaise, garlic powder, onion, and cream, these are the ideal pika-pikas to have on a lazy weekend afternoon. Find all the ingredients you need for this recipe, along with a wide selection of Delimondo products, only at #TheMarketplace!\n\nServing Time: 1 hour\nYield: 8 servings\n\nIngredients\n\n¼ cup flour\n2 sheets puff pastry, rolled out\n1 egg yolk\n2 tbsps. heavy cream\n3 cans Delimondo Yellowfin Tuna Chunks in Extra Virgin Olive Oil, drained\n½ cup mayonnaise\n½ tsp. garlic powder\n½ tsp. onion powder\nSalt and pepper to taste\n1 cup cherry tomatoes, sliced\n¼ cup spring onions\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. Dust puff pastry with flour, then cut into four squares. Make 2 letter ‘V’ incisions on the upper corner and lower corner of each square, then fold to the other side while overlapping to form a frame. Crimp the edges using a fork to secure, then poke several holes in the middle to prevent from bubbling. \n3. Combine egg yolk and heavy cream. Brush the sides of the formed puff pastry with egg wash, and bake for 15-20 minutes, or nicely golden browned. Let cool. \n4. In a bowl, combine Delimondo Yellowfin Tuna Chunks in Extra Virgin Olive Oil, mayonnaise, garlic powder, and onion powder. Season with salt and pepper, then mix. Set aside.\n5. Fill each baked puff pastry with tuna spread and top with cherry tomatoes and spring onions.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Delimondo Yellowfin"
+      "Delimondo"
     ],
     "recipe": {
       "servingTime": "1 hour",
@@ -232,7 +232,7 @@ const SEPTEMBER_IG_DATA = [
     "campaign": "SEPT IG & FB",
     "caption": "Because even toddlers need long-lasting protection, and with Pampers Toddler Pants, front-to-back absorption is guaranteed, with anti-leak guards and an anti-irritation layer so your child is free to explore all day without having to worry about accidents and irritation to the delicate area. Pampers Toddler Pants, along with other essentials for your growing child, are available in #TheMarketplace! \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Pampers Toddler Pants"
+      "Pampers"
     ],
     "recipe": null,
     "photo": {

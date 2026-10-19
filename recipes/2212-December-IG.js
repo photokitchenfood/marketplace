@@ -51,8 +51,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "DEC IG & FB",
     "caption": "Asian food is always the way to go, and if you’re in the mood for something familiar — salty, peppery, and with a hint of citrus — get cooking! Head over to #TheMarketplace and stock up on the ingredients that you need for this Salt and Pepper Pork Belly made with Lunn Himalayan Salt and Pepper!\n\nDepending if you like it mild and savory, or hot and spicy, dress your pork belly with as many chilies as you want for a kick of heat. This meal is best enjoyed with an ice-cold drink and lots of steaming, hot rice.\n\nServing Time: 2 hours\nYield: 4-6 servings\n\nIngredients\n\n1kg pork belly, sliced into 2-inch pieces\n¼ cup Lunn Himalayan Salt and Pepper \n2 tbsps. calamansi juice\n1 cup cornstarch\n1 cup flour \nCanola oil for deep-frying\n2 tbsps. sesame oil\n1 tbsp. red chili, sliced\n¼ cup red bell pepper, sliced into chunks\n¼ cup green bell pepper, sliced into chunks\n\nProcedure\n\n1. Marinate pork belly in 3 tbsps. Lunn Himalayan Salt and Pepper and calamansi juice for at least 1 hour.  \n2. Preheat oil for deep-frying. \n3. Combine cornstarch and flour. Dredge marinated pork belly in this mix, then deep-fry until golden brown--about 5 minutes. \n4. Sauté red chili and bell peppers in sesame oil, then add in fried pork belly. Season with remaining 1 tbsp. of Lunn Himalayan Salt and Pepper.",
     "brand": [
-      "¼ cup Lunn Himalayan Salt and Pepper",
-      "Lunn Himalayan Salt and Pepper"
+      "Lunn"
     ],
     "recipe": {
       "servingTime": "2 hours",
@@ -77,8 +76,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "DEC IG & FB",
     "caption": "A delicate snack that’s simple yet contains so much depth in flavor, olive oil cakes are trendy for a reason, and this recipe for Lemon Olive Oil Loaf uses Valencia Organic Pure Olive Oil to give it that fruity flavor, while keeping the loaf moist.\n\nLemons, yoghurt, and vanilla add richness and a hint of tartness to this loaf, along with a fragrant aroma, making it hard to resist. Gift it, serve it, or have it for your afternoon snack, this Lemon Olive Oil Loaf is good to have any time of the year. Head over to #TheMarketplace now and get all the ingredients you need for this recipe today!\n\nServing Time: 2 hours\nYield: 1 8x4-inch loaf\n\nIngredients\n\n(CAKE)\n1¾ cups all-purpose flour \n2 tsps. baking powder \n½ tsp. salt\n1 cup white sugar\nZest of 2 lemons \n¾ cup yoghurt \n2 eggs \n1 tbsp. vanilla\n½ cup Valencia Organic Pure Olive Oil\n\n(GLAZE)\n1 ½ cups powdered sugar \n1 tbsp. lemon juice \n1 tbsp. heavy cream\nZest of 1 lemon\n\nProcedure\n\n1. Preheat oven to 175C. Grease an 8x4-inch loaf pan. \n2. Whisk together flour, baking powder salt and sugar. \n3. In a separate bowl, whisk together lemon zest, yoghurt, eggs, vanilla and Valencia Organic Pure Olive Oil. \n4. Add the wet ingredients into the dry ingredients, and mix until just combined.\n5. Transfer the batter into the greased loaf pan, then bake for 1 hour. Let cool in the pan for 15 minutes, before unmolding and letting the cake cool on a wire rack.\n6. To make the glaze, combine powdered sugar, lemon juice, heavy cream and lemon zest. \n7. Once cake is cool, top with glaze.",
     "brand": [
-      "½ cup Valencia Organic Pure Olive Oil",
-      "Valencia Organic Pure Olive Oil"
+      "Valencia"
     ],
     "recipe": {
       "servingTime": "2 hours",
@@ -122,8 +120,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "DEC IG & FB",
     "caption": "Add a milky twist to the traditional mango float in this recipe for Graham de Leche made with Dizon Leche Flan!\n\nSilky, smooth, and bursting with rich, caramel flavors, Dizon Leche Flan not only serves as a holiday dessert centrepiece, but also the star of this dessert where the tropical flavors of mango and creamy textures of leche flan collide. Make this for your holiday spread — it’s a dessert that your guests will keep talking about. Find Dizon Leche Flan and all the ingredients you need for this sweet treat at #TheMarketplace!\n\nServing Time: 2 hours\nYield: 4-6 servings\n\nIngredients\n\n3 cups whipping cream, chilled \n1 ½ cups condensed milk\n1 tbsp. vanilla \n2 cups diced mangoes \n16 pcs. graham crackers \n1 Dizon Leche Flan\n\nProcedure\n\n1. Whip together cream, condensed milk and vanilla until medium peaks form. \n2. In a serving tray, arrange graham crackers in a single layer. Top with half of the cream mixture and half of the mangoes. Repeat for another layer. \n3. Add Dizon Leche Flan in the middle. \n4. Chill for at least 1 hour before serving.",
     "brand": [
-      "1 Dizon Leche Flan",
-      "Dizon Leche Flan"
+      "Dizon"
     ],
     "recipe": {
       "servingTime": "2 hours",
@@ -148,7 +145,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "DEC IG & FB",
     "caption": "Add a pop of color to your festive dessert spread with Dizon’s Assorted Fruit Cathedral. Because it’s ready to eat, you can take this straight from the fridge when it’s ready to serve. An iconic Filipino dessert, Cathedral Windows are reminiscent of church windows that truly bring us back to the reason for the season. Head over to #TheMarketplace for all your holiday needs and more!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Dizon Assorted"
+      "Dizon"
     ],
     "recipe": null,
     "photo": {
@@ -167,7 +164,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "DEC IG & FB",
     "caption": "Would you believe that Hueza Crisps are made locally?\n\nWith their beautifully designed packaging, these super-thin nut crisps come in a variety of flavors such as Oatmeal Almond, Toffee Macadamia, Brownie Almond, and more! Perfect for pica-picas or if you’re feeling peckish and are in need of a light bite. Find Hueza Crisps, along with other premium locally made snacks, at #TheMarketplace! These are ideal for gifting, too, by the way!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Hueza Oatmeal"
+      "Hueza"
     ],
     "recipe": null,
     "photo": {
@@ -186,8 +183,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "DEC IG & FB",
     "caption": "When it comes to milk tea, one cannot deny that Hong Kong has some of the most delicious and distinct-tasting ones — all thanks to their not-so-secret ingredient that abounds in Hong Kong style cafés that are locally known as cha chaan tengs: Black & White Evaporated Milk.\n\nAvailable at #TheMarketplace, Black & White Evaporated Milk gives milk tea that distinct Hong Kong touch. As for the tea variety, Ceylon is the one that gives it the most similar flavor, but feel free to experiment and tell us how you like this recipe in the comments section!\n\nServing Time: 20 minutes\nYield: 4 servings\n\nIngredients\n\n6 cups hot water\n⅓ cup black tea leaves \n1 ⅓ cups Black & White Evaporated Milk\n¼ cup condensed milk\n\nProcedure\n\n1. Simmer together hot water and black tea leaves for 15 minutes. \n2. Pour the tea through a fine-meshed strainer. \n3. Combine black tea, Black & White Evaporated Milk and condensed milk.",
     "brand": [
-      "1 ⅓ cups Black & White Evaporated Milk",
-      "Black & White Evaporated Milk"
+      "Black & White"
     ],
     "recipe": {
       "servingTime": "20 minutes",
@@ -212,8 +208,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "DEC IG & FB",
     "caption": "This holiday season is all about balance — and the same goes with our food intake.\n\nThe next time you find yourself at #TheMarketplace, pick up a pack of Magnolia Chicken Tenderloin and prepare this simple yet tasty salad with a Mexican twist: Cilantro Lime Chicken Tenders.\n\nTruth be told, you can easily enjoy this with rice as well, but hey, we’re trying to still champion health this holiday season. Enjoy!\n\nServing Time: 1 hour and 30 minutes\nYield: 2-3 servings\nTips (Optional) - Serve with a side salad. \n\nIngredients\n\n1 lime\n4 cloves garlic, minced\n½ tsp cumin\n⅛ tsp. paprika\n⅓ cup olive oil \nSalt and pepper to taste\n1 pack Magnolia Chicken Tenderloin Cut\n1 cup cilantro sprigs\n\nProcedure\n\n1. Zest one lime, then squeeze its juice into a bowl. Add in garlic, cumin, paprika and olive oil. Season with salt and pepper, then mix well.\n2. Add in Magnolia Chicken Tenderloin Cut, and mix to coat well with the marinade. Cover and let marinate for at least 1 hour.\n3. Set a grill pan over medium heat. Cook marinated chicken until nicely browned and cooked through, about 6 minutes.\n4. Garnish with cilantro sprigs.",
     "brand": [
-      "1 pack Magnolia Chicken Tenderloin Cut",
-      "Magnolia Chicken Tenderloin Cut"
+      "Magnolia"
     ],
     "recipe": {
       "servingTime": "1 hour and 30 minutes",
@@ -238,8 +233,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "DEC IG & FB",
     "caption": "A dish hailing from Tuscany in Italy, Tuscan Chicken is a dish using chicken breasts paired with a creamy combination of cheese, spinach, and sun-dried tomatoes.\n\nThis holiday season, up your hostess with the mostest game by preparing this Stuffed Tuscan Chicken made with deboned Magnolia Chicken Breasts. It takes less than an hour to cook, so it’s quite a simple yet very satisfying dish to warm up the soul with. In fact, we’re sure you’ll continue to make this even after the holidays! Get all the ingredients you need for this recipe at #TheMarketplace!\n\nServing Time: 45 minutes\nYield: 2 servings\n\nIngredients\n\n1 pack Magnolia Chicken Breast, deboned\nSalt and pepper to taste\n¾ cup cream cheese, softened\n¼ cup mozzarella cheese, grated\n¼ cup sun-dried tomatoes, chopped\n1 cup spinach, blanched & chopped\n¼ tsp. Italian seasoning\n2 tbsps. basil leaves, julienned\n3 tbsps. olive oil \n\nProcedure\n\n1. Preheat oven to 175°C.\n2. Slice Magnolia Chicken Breast fillets horizontally, creating a pocket. Season with salt and pepper, then set aside.\n3. In a bowl, combine cream cheese, mozzarella cheese, sun-dried tomatoes, spinach, italian seasoning and basil. Mix well and season with salt and pepper.\n4. Stuff each chicken breast with the cream cheese mixture. \n5. Preheat a cast-iron pan over medium high heat, then sear stuffed chicken pieces in olive oil until nicely browned on both sides. \n6. Bake for 10 minutes, or until chicken is fully cooked through.",
     "brand": [
-      "1 pack Magnolia Chicken Breast, deboned",
-      "Magnolia Chicken Breast"
+      "Magnolia"
     ],
     "recipe": {
       "servingTime": "45 minutes",
@@ -264,8 +258,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "DEC IG & FB",
     "caption": "Salted egg was once all the craze, but there are some dishes that never run out of style like these Salted Egg Wings made with Magnolia Chicken Wings!\n\nAnd while salted egg mixes and powders are easily accessible, the salted egg sauce used in this recipe is made from scratch, making it more special and delicious. Magnolia Chicken Wings are always certified fresh, so they are meaty and fry well without any aftertaste. Head over to #TheMarketplace, where the poultry is always fresh — grab all the ingredients you need for this recipe as well while you’re at it!\n\nServing Time: 1 hour and 40 minutes\nYield: 2-3 servings\n\nIngredients\n\n3 tbsps. fish sauce\n4 tbsps. calamansi juice\n½ tsp. pepper \n1 tsp. salt\n1 pack Magnolia Chicken Wings \nOil for deep-frying\n¾ cup flour\n¾ cup cornstarch\nSalt and pepper to taste\n3 tbsps. butter\n4 pcs. salted egg yolks\n2 tbsps. red chili, chopped\n2 tbsps. curry leaves\n\nProcedure\n\n1. In a large bowl, combine fish sauce, calamansi juice, salt and pepper. Mix in Magnolia Chicken Wings, and marinate for at least 1 hour.\n2. Preheat oil to 175°C.\n3. In another bowl, combine flour and cornstarch. Season with salt and pepper.\n4. Dredge each chicken with breading, then deep fry until golden brown and cooked through on the inside. Drain and set aside.\n5. Set a pan over medium low heat, then add in butter followed by salted egg yolks, red chili and curry leaves. Mash and cook until foamy. \n6. Toss in cooked chicken to coat evenly.",
     "brand": [
-      "1 pack Magnolia Chicken Wings",
-      "Magnolia Chicken Wings"
+      "Magnolia"
     ],
     "recipe": {
       "servingTime": "1 hour and 40 minutes",
@@ -309,8 +302,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "DEC IG & FB",
     "caption": "Got some leftover white bread that you need to consume before the expiry date? Here’s a fun way to use it — Burger Bread Tartlets.\n\nMade with Monde Fluffy Bread, these bread “cups” hold the ground beef pretty well with the bread absorbing tons of flavor. Try out this burger version, or experiment with other recipes such as taco! These are not only tasty, but also fun to munch on. Add the ingredients to your grocery list for the next time you shop at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 4-5 servings\n\nIngredients\n\n12 pcs. Monde Fluffy Bread\n2 tbsps. olive oil\n½ cup red onion, diced\n2 cloves garlic, minced\n1 tbsp. tomato paste\n½ kg ground beef\n¾ cup tomato sauce\nSalt and pepper to taste\n1 cup corn kernels\n1 cup cheese\n⅓ cup spring onions\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. Flatten each slice of Monde Fluffy Bread and mold onto a greased cupcake pan. Bake for 5 minutes.\n3. Set a pan over medium heat. Sauté onions and garlic in olive oil. Add in tomato paste and cook for about 2-3 minutes.\n4. Add in ground beef, and cook until browned. Mix in tomato sauce, then cover and simmer for 5 minutes. Season with salt and pepper. \n5. Add about 2 tablespoons of cooked ground beef into the bread cups, then add corn kernels and top with cheese and spring onions.",
     "brand": [
-      "12 pcs. Monde Fluffy Bread",
-      "Monde Fluffy Bread"
+      "Monde"
     ],
     "recipe": {
       "servingTime": "30 minutes",
@@ -335,8 +327,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "DEC IG & FB",
     "caption": "If you want burgers that come with a scrumptious crunch, then try these Puff Pastry Burgers made with Kawan Puff Pastry Square! \n\nWhen we think of the word “pastry”, we automatically think of sweet creations, but puff pastry squares are actually so versatile, you can use them for a number of savory dishes as well! In this recipe, we’ve swapped burger buns and used pastry squares instead. Not only is it lighter, but it also carries the flavors of the meat and and its components pretty well!\n\nFind Kawan Puff Pastry Squares, along with other baking needs, at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 2 servings\n\nIngredients\n\n4 sheets Kawan Puff Pastry Square \n2 tbsps. egg wash \n1 tsp. sesame seeds \n2 tsps. parmesan cheese\n½ avocado, mashed\n1 tsp. lemon juice\nSalt and pepper to taste\n2 tbsps. olive oil \n2 burger patties\n2 cheddar cheese slices\n½ cup arugula \n2 tomato slices\n\nProcedure\n\n1. Preheat oven to 190C. Using a round pastry cutter, make 4 round shapes from the Kawan Puff Pastry Square sheets. Brush with egg wash, then top with sesame seeds and parmesan cheese. Bake for 10 minutes.  \n2. Combine mashed avocado and lemon juice. Season with salt and pepper to taste. Set aside. \n3. Fry burger patties until nicely browned on both sides. Top each with a cheddar cheese slice. \n4. To assemble, spread some mashed avocado on bottom puff pastry buns, then top with arugula, tomato slice and a burger patty each. Place remaining puff pastry buns on top.",
     "brand": [
-      "4 sheets Kawan Puff Pastry Square",
-      "Kawan Puff Pastry Square"
+      "Kawan"
     ],
     "recipe": {
       "servingTime": "30 minutes",
@@ -361,8 +352,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "DEC IG & FB",
     "caption": "When we think “holiday dessert”, we think of graham crackers. And if you want to make something with M.Y. San Crushed Grahams other than refrigerator cake, then try your hand at this sophisticated yet simple-to-make Orange-Cranberry Graham Tart!\n\nThis citrusy, cheesy tart comes bursting with the juicy flavors of cranberry as well — and don’t you just love that pretty pink hue? Bring it to your holiday gathering, gift it to a friend, or make one to keep in the fridge for a sweet pick-me-up! Find all the ingredients you need for this recipe at #TheMarketplace!\n\nServing Time: 4 hours\nYield: 1 10-inch tart\nTips (Optional): Top with additional cranberries, orange slices and rosemary sprigs.  \n\nIngredients\n\n(CRUST)\n3 cups M.Y. San Crushed Grahams \n½ cup white sugar\n1 tsp. salt\n½ cup butter, melted\n\n(FILLING)\n¼ cup orange juice\n1 cup frozen cranberries\n1 block cream cheese\n1 cup white sugar\n½ cup whipping cream \n\nProcedure\n\n1. Combine M.Y. San Crushed Grahams, sugar, salt and butter. Press into a 10-inch tart pan, then freeze while you make the filling. \n2. Blend together orange juice and frozen cranberries. Set aside. \n3. Beat cream cheese and sugar until smooth. Mix in orange-cranberry mixture and whipping cream, then whip until light and fluffy. \n4. Add filling into the crust, then chill for at least 3 hours before serving.",
     "brand": [
-      "3 cups M.Y. San Crushed Grahams",
-      "M.Y. San Crushed Grahams"
+      "M.Y. San"
     ],
     "recipe": {
       "servingTime": "4 hours",
@@ -387,8 +377,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "DEC IG & FB",
     "caption": "This Cheesy Corn Garlic Bread made with Elsie’s sliced Garlic Bread is a quick and tasty snack that you can prepare in less than 30 minutes.\n\nCreamy, garlicky, and packed with corn and cilantro bits for texture and flavor, this will surely be your next favorite go-to snack anytime of the day.\n\nTry out this recipe soon and get all the ingredients you need at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 10 pieces\n\nIngredients\n\n1 pack Elsie’s Garlic Bread, sliced \n1 tbsp. olive oil\n5 cloves garlic, minced \n1 red onion, chopped \n1 cup corn kernels \n1 block cream cheese, softened \nSalt and pepper to taste\n1 cup mozzarella cheese, grated\n¼ cup cilantro, chopped \n\nProcedure\n\n1. Preheat oven to 180C. Arrange Elsie’s Garlic Bread slices on a parchment-lined baking tray. \n2. Sauté garlic and red onions in olive oil. Once soft, add in corn kernels. \n3. Mix together cream cheese and sautéed corn. Season with salt and pepper\n4. Spread the cheesy corn mixture on top of the bread slices, then top with mozzarella cheese. \n5. Bake for 8 minutes, or until bread is crisp and cheese is melted. \n6. Garnish with cilantro. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "1 pack Elsie’s Garlic Bread, sliced",
-      "Elsie’s Garlic Bread slices"
+      "Elsie’s"
     ],
     "recipe": {
       "servingTime": "15 minutes",
@@ -413,8 +402,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "DEC IG & FB",
     "caption": "Make this delicious breakfast sandwich with Marby Whole Wheat Bread in a matter of minutes! We’ve taken the idea of an Egg-in-a-Hole or Toad-in-a-Hole and made it even more luscious with the addition of bacon, ham, tomato, and lettuce.\n\nEasy to prepare and so fun to eat, experiment with your favorite sandwich ingredients and deli meats, and get all the ingredients you need for this recipe at #TheMarketplace! Tell us your sandwich ideas in the comments section below!\n\nServing Time: 15 minutes\nYield: 1 serving\n\nIngredients\n\n3 strips bacon\n2 slices Marby Whole Wheat Bread\n1 egg\n3 tbsps. mayonnaise\n4 pcs. sandwich ham slices\n2 pcs. sandwich tomato slices\n2 pcs. curly lettuce leaves\n\nProcedure\n\n1. Fry bacon strips until crisp. Set aside while retaining rendered bacon fat in the same pan. \n2. Slice out a hole in one of the Marby Whole Wheat Bread slices. \n3. Toast the bread slices in the rendered bacon fat. Once one side is toasted, flip, then add an egg into the hole of the carved out bread slice. \n4. To assemble, spread mayonnaise on the uncarved bread slice, then top with curly lettuce, tomatoes, ham, bacon and the top bread slice with the egg. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "2 slices Marby Whole Wheat Bread",
-      "Marby Whole Wheat Bread"
+      "Marby"
     ],
     "recipe": {
       "servingTime": "15 minutes",

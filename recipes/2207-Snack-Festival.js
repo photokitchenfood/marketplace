@@ -120,7 +120,7 @@ const SNACK_FESTIVAL_DATA = [
     "campaign": "SNACK FEST",
     "caption": "Lightly salted and full of flavor, Oishi’s Grab Nuts in Roasted Almond are the perfect snack to munch on. Make sure to have one in handy at home, in the office, or in your bag!\n\nOishi’s Grab Nuts in Roasted Almond is available in #TheMarketplace, along with other variants to choose from!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Grab Nuts"
+      "Oishi"
     ],
     "recipe": null,
     "photo": {
@@ -139,7 +139,7 @@ const SNACK_FESTIVAL_DATA = [
     "campaign": "SNACK FEST",
     "caption": "Looking for another way to enjoy Delimondo Corned Beef? Have it as a Cheesy Corned Beef Caldereta Dip! The Delimondo Corned Beef Caldereta is the perfect pick for this cheesy dip as it provides the spicy, tomato-forward flavors of the Filipino classic. Spice it up with bell peppers, garlic, and onions, before broiling with cheese.\n\nGrab a can or two of Delimondo the next time you shop at #TheMarketplace and tell us how you like this dip in the comments section!\n\nServing Time: 12 minutes\nYield: 3-5 servings\n\nIngredients\n\n1 tbsp. olive oil \n2 tsps. garlic, minced \n1 tbsp. red onions, minced\n¼ cup red bell peppers, diced\n¼ cup green bell peppers, diced\n2 (260g) cans Delimondo Corned Beef Caldereta \n¼ cup mozzarella cheese \n¼ cup cheddar cheese\n\nProcedure\n\n1. Preheat oven at 200°C, broil setting. \n2. Sauté garlic and red onions in olive oil until soft and fragrant. Mix in red and green bell peppers. Cook for 2 minutes. \n3. Mix in Delimondo Corned Beef Caldereta, and let simmer for 4-5 minutes, or until sauce has slightly thickened. \n4. Mix in mozzarella and cheddar cheese. Broil for 3-5 minutes, or until cheese is fully melted and browned. \n5. Serve with preferred chips or crackers. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Delimondo Corned"
+      "Delimondo"
     ],
     "recipe": {
       "servingTime": "12 minutes",
@@ -233,7 +233,7 @@ const SNACK_FESTIVAL_DATA = [
     "campaign": "SNACK FEST",
     "caption": "This Whipped Feta with Pistachio Pesto made with Wonderful Pistachios might just be your next favorite snack dip!\n\nPistachios, compared to pine nuts, provide a buttery taste to the pesto, while the tanginess from the whipped feta balances the flavors perfectly. Serve with your favorite water crackers, breadsticks, and more! Find all the ingredients you need at #TheMarketplace!\n\nServing Time: 18 minutes\nYield: 3-5 servings\n\nIngredients\n\n(For the Pistachio Pesto)\n⅓ cup Wonderful Pistachios\n2 cups basil leaves \n½ cup extra virgin olive oil \n¼ cup parmesan cheese \n1 tbsp. lemon juice\n1 tbsp. garlic, chopped  \nSalt and pepper to taste \n\n(For the Whipped Feta)\n1 (225g) block feta cheese\n¾ cup Greek yoghurt \n2 tbsps. extra virgin olive oil \n\nProcedure\n\n1. Preheat oven to 175°C,. Roast Wonderful Pistachios for 8 minutes. Let cool. \n2. Blend together roasted Wonderful Pistachios, basil, extra virgin olive oil, parmesan cheese, lemon juice and garlic. Season with salt and pepper to taste. Set aside. \n3. Blend together feta cheese, Greek yoghurt and olive oil until smooth. Season with salt and pepper. \n4. Top whipped feta with pistachio pesto. Serve with preferred crackers. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Wonderful Pistachios"
+      "Wonderful"
     ],
     "recipe": {
       "servingTime": "18 minutes",

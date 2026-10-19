@@ -13,7 +13,7 @@ const HOLIDAY_SEAFOOD_FEAST_DATA = [
     "campaign": "HOLIDAY SEAFOOD FEAST",
     "caption": "Prefer a lighter dish on your holiday spread? Swap the meat for fish and prepare this Grilled Sole in Jalapeño Dill Salsa with Cold Storage Sole Fillet!\n\nSweet and delicate, sole is known for its flaky texture, making it the perfect fish for this herby and spicy jalapeño dill salsa, which you can also enjoy with other proteins such as chicken, shrimp, beef and even lamb. Grab all the items you need for this recipe at #TheMarketplace! \n\nServing Time: 20 minutes\nYield: 4-6 servings\n\nIngredients\n\n1 (1kg) pack Cold Storage Sole Fillet, thawed and pat-dried\nSalt and pepper to taste\n½ cup olive oil \n½ cup jalapeños, diced \n1 tbsp. red onions, diced\n1 tbsp. garlic, minced\n¼ cup dill, chopped\n3 tbsps. lemon juice \n\nProcedure\n\n1. Season Cold Storage Sole Fillet with salt and pepper. Preheat a grill pan over medium-high heat. \n2. Add in ¼ cup olive oil. Once smoking, pan-grill fish for 3 minutes on each side. Set aside. \n3. Combine remaining olive oil, jalapeños, red onions, garlic, dill and lemon juice. Season with salt and pepper. \n4. Top grilled Sole with the Jalapeño Dill Salsa. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Cold Storage Sole Fillet"
+      "Cold Storage"
     ],
     "recipe": {
       "servingTime": "20 minutes",
@@ -38,8 +38,7 @@ const HOLIDAY_SEAFOOD_FEAST_DATA = [
     "campaign": "HOLIDAY SEAFOOD FEAST",
     "caption": "Craving a dish that’s hearty and light this holiday season?\n\nHead over to #TheMarketplace and find the freshest White Shrimp in our seafood area and whip up this Chilli Garlic Shrimp Linguini.\n\nBursting with aromatics such as garlic, sun-dried tomatoes, anchovies, and a spritz of zesty lemon, enjoy this pasta recipe even when the holidays are over. Make it as spicy or as mild as you want with a sprinkle of chili flakes, too! \n\nServing Time: 20 minutes\nYield: 4-6 servings\n\nIngredients\n\n500g medium-sized White Shrimp, peeled and deveined\nSalt and pepper to taste\n3 tbsps. olive oil \n3 tbsps. butter\n1 tbsp. chili flakes \n¼ cup garlic, minced \n3 pcs. Anchovy fillets \n1 cup sundried tomatoes, sliced\n3 cups spinach leaves \n500g linguine, cooked according to package instructions\n2 tbsps. lemon juice\n\nProcedure\n\n1. Season White Shrimp with salt and pepper. \n2. Heat up olive oil in a large pan over medium-high heat. Sear shrimp in batches. Set aside while retaining olive oil in the pan. \n3. Lower the heat, then add in butter, chili flakes, garlic and anchovies. Once softened, add in sundried tomatoes, spinach and cooked linguine.\n4. Season with salt and pepper. Turn off the heat, then mix in lemon juice. \nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "500g medium-sized White Shrimp, peeled and deveined",
-      "White Shrimp"
+      "! Generic"
     ],
     "recipe": {
       "servingTime": "20 minutes",
@@ -64,8 +63,7 @@ const HOLIDAY_SEAFOOD_FEAST_DATA = [
     "campaign": "HOLIDAY SEAFOOD FEAST",
     "caption": "Cook this BBQ Shrimp Pizza in less than the time it takes to have one ordered and delivered!\n\nMade with Sarangani Bay Raw White Shrimp, the great thing about creating your own pizza is that you can watch the ingredients you add in and be as creative as you can with the toppings!\n\nThis recipe calls for some barbecue sauce, feta cheese, and some onions, for a medley of smoky, sweet, and tangy flavors. Find Sarangani products, along with other fresh seafood, at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 2-3 servings\n\nIngredients\n\n1 puff pastry sheet, thawed \n1 egg yolk \n2 tbsps. cream \n2 tbsps. olive oil\n1 tbsp. garlic, minced \n200g Sarangani Bay Raw White Shrimp\nSalt and pepper to taste\n1 tsp. lemon juice\n½ cup barbecue sauce\n3 tbsps. red onions, sliced\n¼ cup feta cheese, crumbled\n\nProcedure\n\n1. Preheat oven to 180C. \n2. Fold the edges of the puff pastry sheet inward to create a rough round shape. Using a fork, punch holes all over the puff pastry crust. Brush with egg wash, then bake for 15 minutes, or until nicely browned and crisp. \n3. Sauté garlic in olive oil, then add in Sarangani Bay Raw White Shrimp. Season with salt, pepper and lemon juice. \n4. Spread barbecue sauce on pizza crust, then top with red onions, garlic shrimp and feta cheese. \nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "200g Sarangani Bay Raw White Shrimp",
-      "Sarangani Bay Raw White Shrimp"
+      "Sarangani"
     ],
     "recipe": {
       "servingTime": "30 minutes",
@@ -90,8 +88,7 @@ const HOLIDAY_SEAFOOD_FEAST_DATA = [
     "campaign": "HOLIDAY SEAFOOD FEAST",
     "caption": "For a healthier alternative, swap your beef steaks for salmon steaks. Our pick is Pacific Bay Salmon Steaks because they’re filling and always fresh!\n\nThis recipe for Lemon Caper Salmon Steaks makes for the perfect seafood dinner, with the tangy flavors of lemons and capers mingling with the delicious salmon. Hungry yet? Head over to #TheMarketplace now and get all the ingredients you need for this recipe today!\n\nServing Time: 20 minutes\nYield: 2-3 servings\n\nIngredients\n\n1 (500g) pack Pacific Bay Salmon Steaks, thawed and pat-dried\nSalt and pepper to taste\n1 tsp. dried thyme \n3 tbsps. olive oil \n3 tbsps. butter\n1 tbsp. garlic, minced\n¼ cup capers\n2 tbsps. lemon juice\n\nProcedure\n\n1. Season Pacific Bay Salmon Steaks with salt, pepper and thyme. \n2. Preheat a non-stick pan over medium heat, then add in olive oil. Sear salmon steaks until nicely browned on both sides. Set aside while retaining oil in the pan.\n3. Add in butter, then sauté garlic and capers. \n4. Add back seared salmon steaks, then baste with butter sauce. \n5. Turn off the heat, then add in lemon juice. \nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "1 (500g) pack Pacific Bay Salmon Steaks, thawed and pat-dried",
-      "Pacific Bay Salmon Steaks"
+      "Pacific Bay"
     ],
     "recipe": {
       "servingTime": "20 minutes",
@@ -116,8 +113,7 @@ const HOLIDAY_SEAFOOD_FEAST_DATA = [
     "campaign": "HOLIDAY SEAFOOD FEAST",
     "caption": "Here’s a quick fish recipe that caters to the Asian palate!\n\nMade with Galleon Depot’s Fish Fillet, the sauce is an explosion of umami flavors thanks to mirin, ginger, scallions, and soy sauce. Lay the fish on a bed of bok choy and enjoy! Extra rice to mop up the sauce with is highly recommended.\n\nFind Galleon Depot fish fillet, along with other delicious seafood, at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 4-5 servings\n\nIngredients\n\n1 pack The Galleon Depot Frozen Fish Fillet, thawed and pat-dried\nSalt and pepper to taste\n¼ cup mirin\n2 tbsps. canola oil\n1 tbsp. sesame oil\n¼ cup ginger, julienned\n¼ cup scallions, julienned\n¼ cup red bell peppers, julienne \n⅓ cup soy sauce\n3 cups bok choy, blanched\n\nProcedure\n\n1. Season The Galleon Depot frozen Fish Fillet with salt and pepper. Transfer to a tray, and add mirin, then marinate for at least 15 minutes.\n2. Set a pan over medium heat, then add sesame oil and canola oil. Pan fry fish until golden on both sides. Set aside while retaining oil in the pan.\n3. In the same pan, sauté half of ginger, scallions and bell peppers. Add in soy sauce, then transfer back seared fish.\n4. Add ⅛ cup water, then cover. Let steam for 2-3 minutes.\n5. In a serving plate, add a bed of blanched bok choy, and top with cooked fish. Garnish with the remaining ginger, scallions, and bell peppers.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "1 pack The Galleon Depot Frozen Fish Fillet, thawed and pat-dried",
-      "The Galleon Depot frozen Fish Fillet"
+      "The Galleon Depot"
     ],
     "recipe": {
       "servingTime": "30 minutes",
@@ -142,8 +138,7 @@ const HOLIDAY_SEAFOOD_FEAST_DATA = [
     "campaign": "HOLIDAY SEAFOOD FEAST",
     "caption": "Recreate one of Singapore’s most iconic dishes — Cereal Prawn — at the comfort of your home!\n\nUsing the freshest prawns that you can get at #TheMarketplace, the tip to this recipe is to keep an eye as to when the prawns become golden brown. Underfrying won’t cook the shrimp through, and overfrying yields to burnt shrimp.\n\nMake sure to prepare more than a batch of these cereal prawns because not only are they addictive, but they’re also pretty darn delicious!\n\nServing Time: 40 minutes\nYield: 2-3 servings\n\nIngredients\n\nVegetable oil for deep-frying\n1 kg Prawns, peeled\nSalt and pepper to taste\n1 pc. egg white\n¼ cup potato starch\n¼ cup butter\n2 tbsps. red chili, chopped \n⅛ cup curry leaves\n½ cup bread crumbs\n1 cup cornflakes, crushed\n\nProcedure\n\n1. Preheat oil to 175°C.\n2. In a bowl, add in peeled Prawns, then season with salt and pepper. Add in egg white and potato starch, then toss to coat the prawns. \n3. Deep-fry until golden brown. Set aside.\n4. Set a pan over medium heat, then add in butter, red chilis curry leaves, bread crumbs, and cornflakes. Toast until golden brown. Mix in cooked shrimp, and season with salt and pepper.\n5. Transfer to a plate and garnish with red chillies.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "1 kg Prawns, peeled",
-      "Prawns"
+      "! Generic"
     ],
     "recipe": {
       "servingTime": "40 minutes",
@@ -168,8 +163,7 @@ const HOLIDAY_SEAFOOD_FEAST_DATA = [
     "campaign": "HOLIDAY SEAFOOD FEAST",
     "caption": "Impress your guests with this beautiful Lemon-Thyme Roasted Red Snapper!\n\nServed with marbled potatoes and a variety of bell peppers, this is one showstopper of a centerpiece that will surely impress even the pickiest of palates.\n\nGet your fresh red snapper at #TheMarketplace, along with all the other ingredients that you need for this recipe! \n\nServing Time: 40-45 minutes\nYield: 3-4 servings\n\nIngredients\n\n1 pc. lemon\n1 pc. Red Snapper, medium-sized\nSalt and pepper to taste\n4 tbsps. olive oil \n2 tbsps. thyme\n3 cups marbled potatoes, halved\n⅓ cup red bell peppers, sliced \n⅓ cup green bell peppers, sliced\n⅓ cup yellow bell peppers, sliced\n½ cup red onions, sliced\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. Juice half of the lemon. For the remaining half, slice thinly. \n3. Score Red Snapper, then season with salt and pepper. Insert slices of lemon. Transfer to a lined baking tray. \n4. In a small bowl, combine olive oil, lemon juice, thyme. Season with salt and pepper. Drizzle half of the lemon thyme mixture all over the fish.\n5. In a large bowl, add in potatoes, bell peppers and red onions. Coat with the remaining lemon-thyme marinade.\n6. Transfer alongside the fish. Bake for 20-25 minutes.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "1 pc. Red Snapper",
-      "Red Snapper"
+      "! Generic"
     ],
     "recipe": {
       "servingTime": "40-45 minutes",

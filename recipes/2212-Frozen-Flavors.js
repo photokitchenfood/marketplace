@@ -13,8 +13,7 @@ const FROZEN_FLAVORS_DATA = [
     "campaign": "FROZEN FLAVORS",
     "caption": "Keep cool in this sweater weather with this Strawberry Matcha Affogato made with Grom Strawberry Gelato!\n\nWhat’s great about affogatos is not only does the ice cream add a sweet touch, but it also adds a creamy element! The balance of the sweet and tangy strawberry gelato and earthy matcha creates a beverage dessert that’s reminiscent of slow days in Japan.\n\nFind Grom Gelato and other ice cream brands only at #TheMarketplace!\n\nServing Time: 3 minutes\nYield: 1 serving\n\nIngredients\n\n1 tbsp. ceremonial grade matcha powder \n¼ cup warm water \n2 scoops Grom Strawberry Gelato\n\nProcedure\n\n1. Whisk together matcha powder and warm water until smooth. \n2. Place scoops of Grom Strawberry Gelato in a serving glass. \n3. When ready to eat, pour over matcha espresso over the gelato. Consume immediately. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Grom Strawberry Gelato",
-      "Grom Gelato Strawberry"
+      "Grom"
     ],
     "recipe": {
       "servingTime": "3 minutes",
@@ -39,7 +38,7 @@ const FROZEN_FLAVORS_DATA = [
     "campaign": "FROZEN FLAVORS",
     "caption": "Love the deep, bold, and chocolatey flavors of tiramisu? Then consider making this Tiramisu Affogato soon!\n\nMade with Grom Tiramisu Gelato, tuck into layers of creamy chocolate and Guatemala coffee, rounded off by sweet-and-savory mascarpone cheese. If you’ve been yearning a trip to Italy, then we hope this treat satisfies those cravings!\n\nGet all the ingredients that you need to create this delightful dessert at #TheMarketplace!\n\nServing Time: 10 minutes\nYield: 1 serving\n\nIngredients\n\n1 tbsp. mascarpone cheese\n1 tbsp. heavy cream \n2 tsps. white sugar \n1 tsp. vanilla \n2 tbsps. dark chocolate, chopped\n2 tsp. cocoa powder \n2 scoops Grom Tiramisu Gelato\n2 pcs. broas\n1 shot espresso \n\nProcedure\n\n1. Whisk together mascarpone, cream, sugar and vanilla until smooth and fluffy. \n2. In a serving cup, add in dark chocolate. Top with the whipped mascarpone, then dust with 1 tsp. cocoa powder. \n3. Add scoops of Grom Tiramisu Gelato into the serving vessel. Top with broas and a dusting of remaining cocoa powder. \n4. Serve with espresso. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Grom Tiramisu Gelato"
+      "Grom"
     ],
     "recipe": {
       "servingTime": "10 minutes",
@@ -64,7 +63,7 @@ const FROZEN_FLAVORS_DATA = [
     "campaign": "FROZEN FLAVORS",
     "caption": "If you’ve got some cold brew coffee lying around in the fridge, spruce it up with some Grom Coffee Gelato for a creamy remix!\n\nThink of it as a caffeinated float, with that robust coffee flavor keeping sure that you’re up and alert when you have to! The simple combination of Guatemalan coffee and fresh, whole milk is what makes Grom Coffee Gelato what it is. A fun fact is that the Grom creators were so careful as to not make this coffee gelato taste like a latte or a cappuccino, so prepare for a stronger, more forward coffee taste! Explore #TheMarketplace for more Grom Gelato flavours!\n\nServing Time: 13 hours\nYield: 1 serving\n\nIngredients\n\n⅓ cup medium-coarse ground coffee\n½ tsp. cinnamon\n1 ½ cups cold water \n¼ cup whipping cream \n2 tsps. white sugar \n1 tsp. vanilla \n1 scoop Grom Coffee Gelato\n3 tbsps. chocolate syrup \n2 pcs. maraschino cherries\n\nProcedure\n\n1. Combine ground coffee, cinnamon and cold water in a jar or in a French Press. Let rest at room temperature for at least 12 hours. Drain when ready to use.\n2. Whip together cream, sugar and vanilla until medium peaks. \n3. Fill a glass with ice, then pour in the cold brew. \n4. Top with whipped cream, chocolate syrup, Grom Coffee Gelato and maraschino cherries.  \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Grom Coffee Gelato"
+      "Grom"
     ],
     "recipe": {
       "servingTime": "13 hours",
@@ -89,7 +88,7 @@ const FROZEN_FLAVORS_DATA = [
     "campaign": "FROZEN FLAVORS",
     "caption": "Ever tried making your own ice cream sandwiches at home? Fret not and don’t let the task intimidate you! All you need are chocolate wafers, dark chocolate, pistachios, and Grom Pistachio Gelato to make these Pistachio Ice Cream Sandwiches.\n\nThere’s something so comforting about buttery pistachio ice cream, and Grom Gelato certainly does not hold back on quality. Different pistachios from different origins and states of maturity were put together to  churn out the most delicious pistachio gelato that you can easily find at #TheMarketplace!\n\nServing Time: 4 hours\nYield: 10 pieces\n\nIngredients\n\n1 (460mL) tub Grom Pistachio Gelato\n20 pcs. chocolate wafers\n1 cup dark chocolate, chopped\n¼ cup pistachios, peeled & chopped\n\nProcedure\n\n1. Transfer Grom Pistachio Gelato into a parchment-lined tray. Freeze until firm, about 2 hours. \n2. Once gelato is firm, divide into 10 squares. Place gelato squares in between 2 chocolate wafers, then freeze again. \n3. Meanwhile, melt dark chocolate in a double boiler. Let cool slightly. \n4. Dip each gelato sandwich into the melted chocolate, then sprinkle pistachios on top. Freeze again for at least 30 minutes. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Grom Pistachio Gelato"
+      "Grom"
     ],
     "recipe": {
       "servingTime": "4 hours",
@@ -114,7 +113,7 @@ const FROZEN_FLAVORS_DATA = [
     "campaign": "FROZEN FLAVORS",
     "caption": "Ah, the all-time favorite sweet treat: s’mores.\n\nWe know that s’mores are usually enjoyed around the campfire, so why not try out its frozen cousin? This S’mores Ice Cream is so easy to put together, all you need are three ingredients — graham crackers, mini marshmallows, and Magnum Classic ice cream.\n\nMake sure you have these ingredients lying around when the craving hits! Find all the ingredients you need at #TheMarketplace!\n\nServing Time: 3 minutes\nYield: 2 servings\n\nIngredients\n\n2 pcs. graham crackers\n1 tub (440mL) Magnum Classic\n¼ cup mini marshmallows \n\nProcedure\n\nRoughly break apart graham crackers, and put in a serving glass with scoops of Magnum Classic and marshmallows. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Magnum Classic"
+      "Magnum"
     ],
     "recipe": {
       "servingTime": "3 minutes",
@@ -139,7 +138,7 @@ const FROZEN_FLAVORS_DATA = [
     "campaign": "FROZEN FLAVORS",
     "caption": "Make these super-easy and super-yummy Cookies & Cream Crepes with Nestle Temptations Ice Cream Extra Creamy Cookies & Cream!\n\nThe secret to making the perfect crepes is to keep an eye out for them. This crepe batter contains cacao in it, too, for an even chocolatier touch to contrast the vanilla-based ice cream. Have this any time of the day — even breakfast — for a light yet sweet treat. All the ingredients you need for this recipe are available at #TheMarketplace!\n\nServing Time: 40 minutes\nYield: 3-5 servings\n\nIngredients\n\n1 cup flour \n2 tbsps. cocoa powder \nPinch of salt \n¼ cup. butter, melted \n2 eggs \n¾ cup milk \n¾ cup water\n3 scoops Nestle Temptations Ice Cream Extra Creamy Cookies & Cream\n\nProcedure\n\n1. Whisk together flour, cocoa powder, salt, 2 tbsps. butter, eggs, milk and water until smooth. \n2. Use remaining butter for greasing a non-stick pan over medium heat. \n3. Add ¼ cup of the crepe batter, then immediately swirl to spread. Cook for 2-3 minutes, or until bubbles begin to form. Flip, then cook for another 1 minute. Repeat until you finish the batter. \n4. To serve, top folded crepes with Nestle Temptations Ice Cream Extra Creamy Cookies & Cream",
     "brand": [
-      "Nestle Temptations Ice Cream Extra Creamy Cookies & Cream"
+      "Nestle Temptations"
     ],
     "recipe": {
       "servingTime": "40 minutes",
@@ -183,7 +182,7 @@ const FROZEN_FLAVORS_DATA = [
     "campaign": "FROZEN FLAVORS",
     "caption": "Love turon and ice cream? Why not combine the best of both worlds in this recipe for Coffee Turon ala Mode made with Arce Dairy Coffee Crumble Ice Cream?\n\nNow you might think that the combination of coffee crumble and bananas sounds weird, but give us a chance. Arce Dairy’s Coffee Crumble Ice Cream boasts genuine coffee ice cream with the addition of chocolate chips and cashew nuts. Paired with chocolate syrup and sweet bananas, this is definitely a merienda that you have to try soon. Find all the ingredients for this recipe — including a range of Arce Dairy ice creams to explore — at #TheMarketplace!\n\nServing Time: 20-25 minutes\nYield: 3 servings\n\nIngredients\n\n1 tsp. cornstarch\n3 tbsps. water\n3 pcs. saba\n4 tbsps. brown sugar\n12 pcs. lumpia wrapper\nCooking oil for deep-frying\n3 scoops Arce Dairy Coffee Crumble Ice Cream\n5 tbsps. chocolate syrup\n3 tbsps. mint leaves\n\nProcedure\n\n1. In a small bowl, mix cornstarch and water. Microwave for 30 seconds until it forms a paste. Set aside.\n2. Slice each saba into 4 lengthwise. Lightly coat each piece with brown sugar.\n3. Wrap the sugar-coated saba with lumpia wrapper, then secure edges with the cornstarch paste.\n4. Preheat oil to 170°C. Deep fry turon until golden brown. Set aside.\n5. Transfer 4 pieces of turon on a plate, and top with a scoop of Arce Dairy Coffee Crumble Ice Cream. Drizzle with chocolate syrup and garnish with mint leaves.",
     "brand": [
-      "Arce Dairy Coffee Crumble Ice Cream"
+      "Arce Dairy"
     ],
     "recipe": {
       "servingTime": "20-25 minutes",
@@ -208,7 +207,7 @@ const FROZEN_FLAVORS_DATA = [
     "campaign": "FROZEN FLAVORS",
     "caption": "One of the best feelings ever is being able to conjure something special from ingredients that you have in your pantry or fridge. If you have some graham crackers, yoghurt, and a tub of Ben & Jerry’s Strawberry Cheesecake Ice Cream, then you have everything you need to make this Strawberry Cheesecake Parfait that’s bursting with sweet, tangy, and fruity flavors!\n\nWould you believe it takes less than 15 minutes to prepare? Get scooping and try this recipe out with other Ben & Jerry’s ice cream flavors that you can easily find at #TheMarketplace!\n\nServing Time: 12 minutes\nYield: 3-4 servings\n\nIngredients\n\n1 cup graham cracker crumbs \n1 tbsp. white sugar \n½ tsp. salt\n3 tbsps. butter, melted\n1 (458 mL) tub Ben & Jerry’s Strawberry Cheesecake Ice Cream\n¼ cup strawberry yoghurt\n¼ cup strawberries, diced\n\nProcedure\n\n1. Combine graham cracker crumbs, sugar, salt and butter until sandy in texture.\n2. Cream together 2 scoops of Ben & Jerry’s Strawberry Cheesecake Ice Cream with strawberry yoghurt until smooth. Chill until ready to use. \n3. In a serving glass, add half of the graham crumbs, topped with the creamed Ben & Jerry’s Strawberry Cheesecake Ice Cream mixture. Top with remaining graham crumbs, strawberries and 3 scoops of Ben & Jerry’s Strawberry Cheesecake Ice Cream.",
     "brand": [
-      "Ben & Jerry’s Strawberry Cheesecake Ice Cream"
+      "Ben & Jerry's"
     ],
     "recipe": {
       "servingTime": "12 minutes",
@@ -233,8 +232,7 @@ const FROZEN_FLAVORS_DATA = [
     "campaign": "FROZEN FLAVORS",
     "caption": "Ever heard (or tried) a Freakshake before?\n\nCall it over-the-top, but it makes for one insanely photogenic dessert, and if you’re smart about what you put in it, you’ll end up with a delicious and enjoyable dessert, such as this Biscuits N’ Cream Freakshake made with Häagen-Dazs Biscuit Caramel Biscuit and Cream Ice Cream.\n\nThere’s nothing cloying about this recipe, especially since it uses only four ingredients. Give this a try over the weekend, and let us know what you think! Find all the ingredients you need for this recipe at #TheMarketplace!\n\n\nServing Time: 10 minutes\nYield: 1 serving\n\nIngredients\n\n1 cup Lotus biscuits\n⅛ cup caramel fudge\n1 pint Häagen-Dazs Biscuit Caramel Biscuit and Cream Ice Cream\n¾ cup milk\n\nProcedure\n\n1. Crush ¼ cup of Lotus biscuits, then set aside. \n2. Coat the inside and outside rim of a milkshake glass with caramel fudge. Dip the outer rim of the glass into the crushed biscuits.\n3. Set aside one scoop of Häagen-Dazs Biscuit Caramel Biscuit and Cream Ice Cream\n to freeze.\n4. Combine the remaining ice cream, Lotus biscuits and milk in a blender. Process until smooth.\n5. Transfer to biscuit-coated milkshake glass, then top with the last scoop of Häagen-Dazs Biscuit Caramel Biscuit and Cream Ice Cream.",
     "brand": [
-      "Häagen-Dazs Biscuit Caramel Biscuit and Cream Ice Cream",
-      "Häagen-Dazs Biscuit Cream Ice Cream"
+      "Häagen-Dazs"
     ],
     "recipe": {
       "servingTime": "10 minutes",
@@ -278,7 +276,8 @@ const FROZEN_FLAVORS_DATA = [
     "campaign": "FROZEN FLAVORS",
     "caption": "For your next K-drama binge, try this refreshing Melona Soju Cocktail, made of course with everybody’s favorite K-ice cream: Melona!\n\nWhat mellows out the alcoholic flavor from the soju is a splash of lemon-lime soda, plus it adds some extra fun and fizz to this delicious cocktail! Remember to enjoy responsibly. Go ahead and experiment with other soju flavors as well! Get all the ingredients you need for this recipe at #TheMarketplace! \n\nServing Time: 3 minutes\nYield: 1 serving\n\nIngredients\n\n2 shots soju, chilled\n¾ cup lemon lime soda, chilled\n1 pack Binggrae Melona Melon Ice Cream Bar\n\nProcedure\n\n1. In a glass, add soju and lemon lime soda. \n2. Finish off with Binggrae Melona Melon Ice Cream Bar, and consume immediately.",
     "brand": [
-      "Binggrae Melona Melon Ice Cream Bar"
+      "Binggrae",
+      "Melona"
     ],
     "recipe": {
       "servingTime": "3 minutes",
@@ -303,7 +302,7 @@ const FROZEN_FLAVORS_DATA = [
     "campaign": "FROZEN FLAVORS",
     "caption": "Love Black Forest cake? Then you’ll certainly enjoy this Black Forest Sundae made with Bulla Creamy Classics Chocolate Chip Real Ice Cream.\n\nBulla takes pride in describing their ice cream as “real” since it’s made from fresh milk and cream. Bulla Chocolate Chip ice cream, cherries, cookies, and whipped cream are all you need to turn this into a satisfying sundae. If you happen to have some cherry liquor (Kirsch) lying around, then feel free to add a splash or two. Head over to #TheMarketplace now and get all the ingredients you need for this recipe today!\n\nServing Time: 3 minutes\nYield: 1 serving\n\nIngredients\n\n¼ cup chocolate cookies, crushed \n½ cup whipped cream \n¼ cup cherries, sliced \n1 scoop Bulla Creamy Classics Chocolate Chip Real Ice Cream \n\nProcedure\n\nIn a sundae glass, add half of the crushed chocolate cookies. Top with half of the whipped cream, then the cherries, another layer of chocolate cookies, whipped cream and finally--a scoop of Bulla Creamy Classics Chocolate Chip Real Ice Cream.",
     "brand": [
-      "Bulla Creamy Classics Chocolate Chip Real Ice Cream"
+      "Bulla"
     ],
     "recipe": {
       "servingTime": "3 minutes",

@@ -63,7 +63,7 @@ const BACK_TO_SCHOOL_DATA = [
     "campaign": "BACK TO SCHOOL",
     "caption": "Most of the time, a huge factor that gets kids to eat is the way a dish looks.\n\nThese Chicken & Bacon Pinwheels made with Lady’s Choice Chicken Spread rank high in our kiddie-approval meter. Not only do the pinwheels look fun to eat, but also the luscious combination of creamy chicken spread, crunchy bacon bits, and crisp celery is a flavor profile that’s friendly to young palates.\n\nDon’t forget to follow us on Instagram for more creative recipe ideas using ingredients found at #TheMarketplace! \n\nServing Time: 10 minutes\nYield: 4-5 servings\n\nIngredients\n\n2 cups boiled chicken, shredded\n¾ cup bacon bits, fried\n¾ cup celery, chopped\n1½ cup Lady’s Choice Chicken Spread\nSalt and pepper to taste\n3 tortilla wraps\n\nProcedure\n\n1. In a large bowl, combine chicken, bacon bits, celery, and Lady’s Choice Chicken Spread. Season with salt and pepper, set aside.\n2. Spread a layer of chicken spread all over over a tortilla wrap and roll to create a log. Secure with toothpicks.\n3. Cut into six, then serve with extra Lady’s Choice Chicken Spread.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Lady’s Choice Chicken Spread"
+      "Lady’s Choice"
     ],
     "recipe": {
       "servingTime": "10 minutes",

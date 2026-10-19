@@ -13,7 +13,7 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
     "campaign": "INTERNATIONAL COFFEE DAY",
     "caption": "As we celebrate all things coffee, let’s get creative in the kitchen and whip up these Chocolate Coffee Cookies made with Cartwright & Butler Café York Fine Blend Coffee!\n\nMade with 100% Arabica coffee, this medium-roasted blend delivers clean flavors and a complex finish, giving it the perfect contrast to rich and creamy white chocolate chips. This definitely isn’t your ordinary chocolate chip cookie! Find Cartwright & Butler coffee products at #TheMarketplace and try baking these cookies for the upcoming weekend!\n\nServing Time: 30 minutes\nYield: 16 pieces\n\nIngredients\n\n2 ½ cups flour\n½ tsp. salt\n1 tsp. baking soda\n2 tbsps. Cartwright & Butler Café York Fine Blend Coffee\n1 cup butter, softened\n1 cup brown sugar, packed\n¾ cup white sugar\n2 eggs\n1 ¼ cups white chocolate chips\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. In a large bowl, sift together flour, salt, baking soda, as well as Cartwright & Butler Café York Fine Blend Coffee.\n3. In another bowl, cream together butter, brown sugar, and white sugar until light and fluffy. Add in eggs, and mix well.\n4. Combine dry mixture and wet mixture, then fold in 1 cup white chocolate chips.\n5. Create a ball with a tablespoon of cookie dough. Add to a parchment-lined baking tray. Bake for 6-8 minutes.\n6. While hot, top with the remaining white chocolate chips.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
-      "Cartwright & Butler Café York Fine Blend Coffee"
+      "Cartwright & Butler"
     ],
     "recipe": {
       "servingTime": "30 minutes",
@@ -38,9 +38,7 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
     "campaign": "INTERNATIONAL COFFEE DAY",
     "caption": "One of coffee’s most popular pairings is with chocolate, and in this recipe for Mocha Cupcakes, we used Nescafé Taster’s Choice French Roast Instant Coffee in a buttercream frosting to top a batch of luscious chocolate cupcakes with.\n\nThe coffee deepens the flavors of the cocoa, transforming the common chocolate cupcake into a more complex dessert that’s perfect for more mature palates and for those who don’t like their treats too sweet.\n\nPerfect for baking and for drinking, find Nescafé Taster’s Choice French Roast Instant Coffee at #TheMarketplace, along with other tasty instant coffee brands.\n\nServing Time: 1 hour and 30 minutes\nYield: 12 cupcakes\n\nIngredients\n\nChocolate Cupcakes\n⅓ cup cocoa powder\n¾ cup flour\n½ tsp. salt\n¼ tsp. baking soda\n1 ½  cup sugar\n2 eggs\n½ tbsp. vanilla extract\n¼ cup milk \n\nCoffee Buttercream Frosting\n2 tbsps. Nescafé Taster’s Choice French Roast Instant Coffee\n1 tbsps. hot water\n1 cup butter, softened\n2 cups confectioners sugar\n½ cup chocolate sprinkles\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. Sift together cocoa powder, flour, salt and baking soda. Whisk in sugar, eggs, vanilla extract and add milk. Mix until smooth.\n3. Line a 12-piece cupcake pan with liners, then fill each halfway with the batter. Bake for 15-18 minutes. Remove from the oven, then let cool.\n4. Dissolve Nescafé Taster’s Choice French Roast Instant Coffee with hot water, then let cool. \n5. Using a stand mixer fitted with a whisk attachment, beat butter until it becomes light and fluffy. Whisk in confectioners sugar and dissolved coffee until well combined. Chill for at least 30 minutes.\n6. Transfer Coffee Buttercream Frosting to a piping bag. Top cupcakes with a swirl of the frosting and chocolate sprinkles. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
-      "Chocolate Cupcakes",
-      "Coffee Buttercream Frosting",
-      "Nescafé Taster’s Choice French Roast Instant Coffee"
+      "Nescafé"
     ],
     "recipe": {
       "servingTime": "1 hour and 30 minutes",
@@ -65,7 +63,7 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
     "campaign": "INTERNATIONAL COFFEE DAY",
     "caption": "If you enjoy the silky texture of pudding, try making this Coffee Pudding with B Coffee Co. Colombia Americano Coffee.\n\nWith predominantly floral and fruity notes, this coffee pairs so well with cream, you won’t be able to get enough of this pudding. Best enjoyed with a cup of B Coffee Co. Colombia Americano Coffee, too!\n\nFind B Coffee Co. products, along with other capsule coffee brands, at #TheMarketplace!\n\nServing Time: 1 hour and 30 minutes\nYield: 3-4 servings\n\nIngredients\n\n2 cups milk\n2 shots B Coffee Co. Colombia Americano Coffee\n½ cup heavy cream\n1 egg\n2 egg yolks\n½ cup sugar\n2 tbsps. cornstarch\n1 tbsp. butter\n⅛ cup chocolate shavings\n\nProcedure\n\n1. Combine milk, B Coffee Co. Colombia Americano Coffee and heavy cream in a saucepan over medium low heat. As soon as it boils, turn off the heat. \n2. Whisk together egg, egg yolk, sugar and cornstarch. Pour a small amount of the coffee-milk mixture into the eggs, then whisk immediately.\n3. Add the egg mixture to the rest of the coffee-milk mixture in the same saucepan. Over low heat, continue to whisk until it thickens, about 8-10 minutes. Remove from the heat, then whisk in butter. \n4. Chill for at least 45 minutes. \n5. Transfer coffee puding to a dessert glass, and top with chocolate shavings.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
-      "B Coffee Co. Colombia Americano Coffee"
+      "B Coffee Co."
     ],
     "recipe": {
       "servingTime": "1 hour and 30 minutes",
@@ -90,7 +88,7 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
     "campaign": "INTERNATIONAL COFFEE DAY",
     "caption": "Add a refreshing and citrusy twist to your iced coffee with this recipe for Iced Coffee Lemonade!\n\nOur coffee of choice for this drink is from local brand Artisans Roasted Coffee Original Blend because of its strong flavor and mild aftertaste, which pairs so well with lemon juice. Think of it as a caffeinated lemonade — have it as sweet or as bold as you want with the addition of simple syrup on the side.\n\nFind all the ingredients you need for this refreshing beverage at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 3-4 glasses\n\nIngredients\n\n¼ cup lemon juice\n3 tbsps. simple syrup\n2 cups cold water\n2 cups brewed Artisans Roasted Coffee Original Blend\n2 cups ice\n¼ cup lemon slices\n\nProcedure\n\n1. In a small pitcher, combine lemon juice, simple syrup, and cold water.\n2. Fill glass with ice and add ⅓ cup of lemonade. Fill the rest of the glass with brewed Artisans Roasted Coffee Original Blend.\n3. Garnish with a slice of lemon before serving.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
-      "Artisans Roasted Coffee Original Blend"
+      "Artisans Roasted Coffee"
     ],
     "recipe": {
       "servingTime": "15 minutes",
@@ -115,7 +113,7 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
     "campaign": "INTERNATIONAL COFFEE DAY",
     "caption": "If you’re thinking of a way to up your coffee game, grab some Culinary Exchange Premium Roast Coffee the next time you shop at #TheMarketplace and make this Coffee Jelly Affogato that will surely impress!\n\nA proud product of the Philippines, expect robust and bold coffee flavors that will balance out the sweetness of the vanilla ice cream. Enjoy this on a lazy weekend afternoon, or make the jelly in advance and indulge anytime of the day.\n\nServing Time: 1 hour and 15 minutes\nYield: 4 servings\n\nIngredients\n\n4 tbsps. gelatin\n4 tbsps. cold water\n3 cups brewed Culinary Exchange Premium Roast Coffee\n1 cup white sugar\n4 scoops vanilla ice cream\n\nProcedure\n\n1. In a small bowl, mix gelatin and cold water. Set aside to bloom.\n2. Set a pot over medium heat, then add 3 cups of brewed Culinary Exchange Premium Roast Coffee. Whisk in bloomed gelatin and sugar, and let simmer until well combined.\n3. Transfer to a rectangular container, and let set for at least an hour in the chiller.\n4. Once fully set, cut into small cubes.\n5. Fill serving glasses with coffee jelly cubes, and top with vanilla ice cream.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
-      "Culinary Exchange Premium Roast Coffee"
+      "Culinary Exchange"
     ],
     "recipe": {
       "servingTime": "1 hour and 15 minutes",
@@ -140,7 +138,7 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
     "campaign": "INTERNATIONAL COFFEE DAY",
     "caption": "Remember when Dalgona Coffee was all the craze?\n\nThis recipe for Mocha Dalgona Coffee made with UCC The Blend 114 Coffee adds a chocolatey twist to the popular Korean coffee drink. When it comes to making Dalgona Coffee, the secret lies in aerating the coffee and sugar mixture, which demands a bit of an arm workout. But trust us, it’s worth all the effort.\n\nFind UCC coffee products, along with all the other ingredients you need for this recipe, at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 2 servings\n\nIngredients\n\n5 tbsps. UCC The Blend 114 Coffee\n½ cup hot water\n2 tbsps. white sugar\n¾ cup cold water\n1 cup chocolate milk\n\nProcedure\n\n1. In a bowl, mix together 2 tablespoons of UCC The Blend 114 Coffee, 2 tablespoons hot water and white sugar. Whisk until stiff peaks form, about 8-10 minutes.\n2. Dissolve remaining 3 tbsps. UCC The Blend 114 Coffee with remaining hot water, then mix in cold water.\n3. Fill ⅓ of the glass with cold coffee and fill up the rest with chocolate milk. Top with whipped coffee.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
-      "UCC The Blend 114 Coffee"
+      "UCC"
     ],
     "recipe": {
       "servingTime": "15 minutes",
@@ -165,7 +163,7 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
     "campaign": "INTERNATIONAL COFFEE DAY",
     "caption": "Why not have your coffee and snack in one bite? Prepare this Cloud Macchiato Chia Pudding and hit two birds with one stone.\n\nUsing all-local Kick-Start Coffee Your Daily Lift, which is a mild-tasting blend of Arabica and Robusta beans, with chia seeds to create the pudding base, it is topped off with whipped cream and caramel fudge for a light and delicious snack that you can enjoy any time of the day. Find all the ingredients you need for this recipe at #TheMarketplace!\n\nServing Time: 1 hour and 10 minutes\nYield: 2-3 servings\n\nIngredients\n\n¼ cup milk\n¾ cup brewed Kick-Start Coffee Your Daily Lift\n3 tbsps. simple syrup\n5 tbsps. chia seeds\n½ cup whipped cream\n¼ cup caramel fudge\n\nProcedure\n\n1. In a large bowl, combine milk, brewed Kick-Start Coffee Your Daily Lift, simple syrup and chia seeds. Mix until well incorporated.\n2. Cover, and refrigerate for at least an hour. \n3. Transfer to a dessert glass, then top with whipped cream and caramel fudge.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
-      "Kick-Start Coffee Your Daily Lift"
+      "Kick-Start Coffee"
     ],
     "recipe": {
       "servingTime": "1 hour and 10 minutes",
@@ -190,7 +188,7 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
     "campaign": "INTERNATIONAL COFFEE DAY",
     "caption": "Had a long day? Wind down with some Coffee Bean & Tea Leaf Chamomile Tea, which you can find at #TheMarketplace.\n\nApart from helping relax the mind and ease the body, did you know that chamomile tea has other benefits that include reducing inflammation and treating cold symptoms? That’s right! So make sure you always have some chamomile tea within your reach!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
-      "Coffee"
+      "Coffee Bean & Tea Leaf"
     ],
     "recipe": null,
     "photo": {
@@ -209,7 +207,7 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
     "campaign": "INTERNATIONAL COFFEE DAY",
     "caption": "Apart from being a must-have morning beverage, did you know that coffee can also be used as an ingredient for savory dishes?\n\nCoffee, similar to cacao, can add a deeper and more robust flavor to stews and casseroles, and in this recipe for Beef Coffee Stew, we used Gourmet Farms Premium Coffee Blend to deepen the meaty flavors of the beef in this slow-cooked meal. The result is a comforting dish that’s rich and full of flavor. Best paired with some mashed potatoes or rice! Shop Gourmet Farms products, along with other local coffee brands, at #TheMarketplace!\n\nServing Time: 2 hours\nYield: 3-4 servings\n\nIngredients\n\n500g beef chuck cubes\nSalt and pepper to taste\n¼ cup cornstarch\n3 tbsps. oil\n2 tbsps. butter\n2 red onions, sliced into chunks\n5 cloves garlic, minced\n1 pc. bay leaf\n2 pcs. potato, sliced into chunks\n2 pcs. carrots, sliced into chunks\n¼ cup red wine vinegar\n1 ½ cups beef stock\n½ cup brewed Gourmet Farms Premium Blend Coffee\n3 tbsps. honey\n⅛ cup soy sauce\n1 tbsp. worcestershire sauce\n\nProcedure\n\n1. Season beef cubes with salt and pepper, then thinly coat with cornstarch. Set aside.\n2. Set a large pot over medium heat. Add oil, and sear beef until nicely browned on all sides. Do this in batches to avoid overcrowding the pot. Set aside beef while retaining oil in the pan. \n3. Using the same pot, sauté onion, garlic, and bay leaf in butter. Cook until fragrant and translucent. Add in the potatoes, carrots and seared beef.\n4. Deglaze the pot with vinegar, then add in beef stock, brewed Gourmet Farms Premium Blend Coffee, honey, soy sauce, and worcestershire sauce. Mix well, then cover. Reduce heat to low, and cook for 1 hour and 30 minutes, or until beef is fork-tender.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
-      "Gourmet Farms Premium Blend Coffee"
+      "Gourmet Farms"
     ],
     "recipe": {
       "servingTime": "2 hours",
@@ -234,10 +232,8 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
     "campaign": "INTERNATIONAL COFFEE DAY",
     "caption": "A simple way to up your brownie game is by topping them with a coffee cream cheese frosting made with none other than Nescafé Classic Instant Coffee!\n\nWith flavors almost similar to a tiramisu sans the booze, let these Coffee Brownies be your new favorite way to enjoy the classic chocolate-based baked treat. All the ingredients you need for this recipe are available at #TheMarketplace!\n\nServing Time: 1 hour and 30 minutes\nYield: 16 bars\n\nIngredients\n\nBrownies\n1 ½ cup dark chocolate, chopped\n½ cup butter\n1 cup sugar\n2 eggs\n½ tsp. salt\n1 tsp. vanilla extract\n¾ cup flour\n¼ cup cocoa powder\n\nCoffee Cream Cheese Frosting\n½ cup cream cheese, softened\n¼ cup butter, softened\n1 ½ cup confectioners sugar\n2 tbsps. Nescafé Classic Instant Coffee\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. Using a double boiler, melt dark chocolate and butter. Remove from the heat, then whisk in sugar, eggs, salt and vanilla extract. Mix until smooth.\n3. Sift together flour and cocoa powder, then add to the wet ingredients, and mix again until well combined.\n4. Pour brownie batter into a greased or lined 8x8-inch baking pan. Bake for 25-30 minutes. Remove from the oven, then let cool completely.\n5. Using stand mixer, cream together cream cheese and butter. Mix in confectioners sugar and Nescafé Classic Instant Coffee.\n6. Top the brownies with an even layer of coffee cream cheese frosting. Let set for 15 minutes in the chiller before slicing. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
-      "Brownies",
-      "Coffee Cream Cheese Frosting",
-      "Nescafé Classic Instant Coffee",
-      "Nescafé Classic Instant Coffee.6"
+      "! Generic",
+      "Nescafé"
     ],
     "recipe": {
       "servingTime": "1 hour 30 minutes",

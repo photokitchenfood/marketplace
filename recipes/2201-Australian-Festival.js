@@ -37,7 +37,9 @@ const AUSTRALIAN_FESTIVAL_DATA = [
     "categoryConfidence": "high",
     "campaign": "AUSTRALIAN FESTIVAL",
     "caption": "If you love Japanese food, then you’ll surely take comfort in this recipe for Beef Sukiyaki.\n\n#TheMarketplace carries the freshest raw meats from Australia with sukiyaki cuts available. Simply follow the recipe below and unwind to a hearty bowl of this popular Japanese soup. Itadakimasu!\n\nServing Time: 20-30 minutes\nYield: 2 servings\n\nIngredients\n\n150g vermicelli noodles\n3 cups dashi stock\n2 tbsps. white miso\n2 tbsps. soy sauce\n½ cup carrots, julienned\n¾ cup cabbage\n¾ cup shiitake mushrooms\n½ cup enoki mushrooms\n½ cup tofu\n300g Beef Sukiyaki\n1 egg yolk\n\nProcedure\n\n1. Boil water, then cook vermicelli noodles for 5-6 minutes. Drain and set aside.\n2. Combine dashi stock, white miso and soy sauce in a saucepan. Let boil for 2-3 minutes.\n3. Transfer cooked noodles in a bowl. Top with carrots, cabbage, shiitake mushrooms, enoki mushrooms, tofu, and Beef Sukiyaki.\n4. Place an egg yolk in the middle. Pour hot stock right before serving.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": {
       "servingTime": "20-30 minutes",
       "yield": "2 servings",
@@ -60,7 +62,9 @@ const AUSTRALIAN_FESTIVAL_DATA = [
     "categoryConfidence": "high",
     "campaign": "AUSTRALIAN FESTIVAL",
     "caption": "Add a zingy touch to your lamb with this recipe for Chimichurri Grilled Lamb Chops!\n\nWith this classic blend of parsley, cilantro, garlic, and red wine vinegar, make an extra batch of chimichurri to keep for your other meats dishes such as steak and chicken! We feel that the spice and tang balances out the lamb’s gamey flavors in a similar way that mint does. Get the freshest Australian lamb chops, along with other high-quality meats, at #TheMarketplace!\n\nServing Time: 15-20 minutes\nYield: 3 servings\n\nIngredients\n\n1 cup parsley \n1 cup cilantro\n2 tbsps. garlic\n2 tbsps. red pepper flakes\n2 tbsps. red wine vinegar\n¾ cup olive oil\nSalt and pepper to taste \n3 Lamb Chops\n\nProcedure\n\n1. Combine parsley, cilantro, garlic, red pepper flakes and red wine vinegar in a food processor. Stream in olive oil, then season with salt and pepper. Set aside.\n2. Pat dry lamb chops, then season with salt and pepper.\n3. Set a cast iron pan over medium high heat. Add olive oil, then sear Lamb Chops for 3 minutes, or until nicely browned. Flip and cook for another 2 minutes.\n4. Transfer to a plate and drizzle with chimichurri sauce.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": {
       "servingTime": "15-20 minutes",
       "yield": "3 servings",
@@ -158,7 +162,9 @@ const AUSTRALIAN_FESTIVAL_DATA = [
     "categoryConfidence": "high",
     "campaign": "AUSTRALIAN FESTIVAL",
     "caption": "Here at #TheMarketplace, we always keep our grocery selection interesting by including brands from other countries such as Australia!\n\nHead on over to a #TheMarketplace near you or visit our online grocery and discover new brands and products from the Land Down Under! You’ll definitely find something you’ll love.\n\nDid you know? You can now get your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": null,
     "photo": {
       "filename": "AU7.jpg",

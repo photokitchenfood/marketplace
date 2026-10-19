@@ -63,7 +63,7 @@ const EASTER_DATA = [
     "campaign": "EASTER",
     "caption": "Ginger contains a ton of benefits and is known to be one of the most common remedies to ease an itchy throat.\n\nGingerbon conveniently provides the soothing benefits of ginger, in the form of a delicious treat that’ll surely be an instant favorite. Find Gingerbon and other confectionery at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Gingerbons"
+      "Gingerbon"
     ],
     "recipe": null,
     "photo": {

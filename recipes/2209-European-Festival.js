@@ -138,7 +138,7 @@ const EUROPEAN_FESTIVAL_DATA = [
     "campaign": "EUROPEAN FESTIVAL",
     "caption": "Nothing spells fancy like Red Wine Poached Pears, and if you’re in the mood to create a sophisticated dessert, grab a bottle of Clos Du Marquis at #TheMarketplace along with some spices and fresh pears.\n\nBiting into these pears reminds us of mulled wine infused into the delicious, sweet fruit. It’s actually a great dessert to whip up for the upcoming holidays, but it never hurts to give it a try first this coming weekend, don’t you think? \n\nServing Time: 1 hour\nYield: 2 servings\n\nIngredients\n\n1 bottle Clos Du Marquis\n1½ cups sugar\nPeel of 1 orange\n½ cup orange juice\n1 cinnamon stick\n3 pcs. star anise\n5 pcs. cloves\n½ tbsp. black peppercorn\n6 pears, peeled\n1/2 cup whipped cream\nMint for garnish\n\nProcedure\n\n1. In a large pot, add in Clos Du Marquis, sugar, orange peel, orange juice, cinnamon stick, star anise, cloves and black peppercorns. Bring to boil. \n2. Add in peeled pears. Reduce to a simmer, and cook pears for 30 to 40 minutes.\n3. Remove the pears and let the wine mixture continue to boil until reduced and syrupy, about 8 minutes. \n4. Transfer pears to a serving plate, and pour over reduced red wine sauce.\n5. Garnish with whipped cream and mint leaves.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Clos Du"
+      "Clos Du Marquis"
     ],
     "recipe": {
       "servingTime": "1 hour",

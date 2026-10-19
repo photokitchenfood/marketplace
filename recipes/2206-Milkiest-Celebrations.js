@@ -38,7 +38,7 @@ const MILKIEST_CELEBRATIONS_DATA = [
     "campaign": "MILKIEST CELEBRATIONS",
     "caption": "Pancakes are often associated with sweet condiments such as maple syrup, compotes, and chocolate, but have you ever tried to cook them in a savory manner?\n\nIn this pancake recipe made with Maya Fluffy n’ Tasty Hotcake Mix, ham, spring onions, eggs, and butter, are combined into the pancake mix. The result is a sweet-and-savory dish that is perfect for brunch. Try out this recipe and get all the ingredients you need at #TheMarketplace!\n\nServing Time: 30-35 minutes\nYield: 10 pancakes\n\nIngredients\n\n1 pack Maya Fluffy n’ Tasty Hotcake Mix\n1 egg\n2 tbsps. oil\n¾ cup water\nSalt and pepper to taste\n1 cup ham, diced\n½ cup spring onions, chopped\n2 tbsps. Butter\n1 egg, fried\n\nProcedure\n\n1. Combine Maya Fluffy n’ Tasty Hotcake Mix, egg, oil and water. Whisk together until smooth. Mix in half of diced ham and chopped spring onions. Season with salt and pepper.\n2. Set a non-stick pan over medium heat, then add a small amount of butter at time. Pour ¼ cup of the batter. Flip the pancake once you see bubbles on the surface of the pancake. Repeat for the remaining batter. \n3. Top with a sunny-side-up egg, spring onions, and serve with extra diced ham.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Maya Fluffy"
+      "Maya"
     ],
     "recipe": {
       "servingTime": "30-35 minutes",

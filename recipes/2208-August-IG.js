@@ -38,7 +38,7 @@ const AUGUST_IG_DATA = [
     "campaign": "AUG IG & FB",
     "caption": "Spatchcocking, also known as “butterflying” a chicken, is an easy kitchen technique where a chicken’s backbone is removed so that the bird lays flat. Using Bounty Fresh’s Sweet Roast Gourmet Chicken, we’ve combined flavors of citrusy orange and spicy chili to prepare a delicious main course that will definitely see some repeats on the dinner table.\n\nFind Bounty Fresh gourmet chickens, along with all the other ingredients you need for this recipe, at #TheMarketplace! \n\nServing Time: 1 hour and 15 minutes\nYield: 4-5 servings\n\nIngredients\n\n1 whole Bounty Fresh Sweet Roast Gourmet Chicken\n¼ cup butter, softened\n2 tbsps. garlic, minced \n1 tbsp. orange zest \n2 tbsps. chili flakes \nSalt and pepper to taste\n2 tbsps. oyster sauce\n3 tbsps. soy sauce\n2 tbsps. orange juice\n1 whole orange, sliced\n½ cup rosemary sprigs\n1-3 pcs. of whole red chili\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. Place whole Bounty Fresh Sweet Roast Gourmet Chicken breast-side down on a chopping board. Cut through both sides of the neck to remove the spine. Flip the chicken over, then press down to open up and flatten.\n3. Combine butter, garlic, orange zest and chili flakes. Season with salt and pepper to taste. Insert this mixture under the skin and all over the chicken. \n4. In a small bowl, combine oyster sauce, soy sauce and orange juice. \n5. Roast the marinated chicken for 45 minutes while basting every 15 minutes. After roasting, let rest for 10 minutes.\n6. Garnish with orange slices, rosemary sprigs and red chili.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Bounty"
+      "Bounty Fresh"
     ],
     "recipe": {
       "servingTime": "1 hour and 15 minutes",
@@ -107,7 +107,7 @@ const AUGUST_IG_DATA = [
     "campaign": "AUG IG & FB",
     "caption": "An exceptionally fresh-smelling fabric softener that leaves a long-lasting fragrance on your clothes, Del’s Gentle Protect Fabric Softener not only provides 24-hour antibacterial protection, but it’s also hypoallergenic, making it ideal to use for baby’s sensitive skin. Use it as the final step of your laundry routine, and get your clothes extra fragrant and extra soft.\n\nFind Del products, along with other laundry essentials, at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Del Fabric Softener"
+      "Del"
     ],
     "recipe": null,
     "photo": {
