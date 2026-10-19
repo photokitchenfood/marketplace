@@ -33,5 +33,6 @@ const ASIAN_FESTIVAL_VIDEOS_DATA = [
     "needsPhotoSwap": true
   }
 ];
+ASIAN_FESTIVAL_VIDEOS_DATA.dropboxUrl = "https://www.dropbox.com/scl/fo/iwoj2ml8t97en34gtkhvd/h?rlkey=yx9tr855a1k6tll2ty3cuuybp&st=61k10dhy&dl=0";
 
 if (typeof window !== 'undefined') window.__recipesData = ASIAN_FESTIVAL_VIDEOS_DATA;

@@ -31,5 +31,6 @@ const WAGYU_FESTIVAL_VIDEOS_DATA = [
     "needsPhotoSwap": true
   }
 ];
+WAGYU_FESTIVAL_VIDEOS_DATA.dropboxUrl = "https://www.dropbox.com/scl/fo/3i45ucwbtp64br1int2ew/h?rlkey=wq4im184zu64jh9fq3gyqxqqr&st=vmsjuqav&dl=0";
 
 if (typeof window !== 'undefined') window.__recipesData = WAGYU_FESTIVAL_VIDEOS_DATA;
