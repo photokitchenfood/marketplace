@@ -44,5 +44,6 @@ const TMP_ANNIVERSARY_VIDEOS_DATA = [
     "needsPhotoSwap": true
   }
 ];
+TMP_ANNIVERSARY_VIDEOS_DATA.dropboxUrl = "https://www.dropbox.com/scl/fo/hiqva3lw3h5qu2v5n3n0t/h?rlkey=6wj5iy7tyxbeu17ffwa570fow&st=09kh73a9&dl=0";
 
 if (typeof window !== 'undefined') window.__recipesData = TMP_ANNIVERSARY_VIDEOS_DATA;
