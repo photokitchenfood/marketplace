@@ -13,9 +13,7 @@ const CHEESE_FESTIVAL_DATA = [
     "campaign": "CHEESE FESTIVAL",
     "caption": "Got some leftover ham?\n\nHead over to #TheMarketplace and grab so puff pastry sheets to make these Ham & Gouda Puff Pastry using Arla Natural Gouda! Dijon mustard gives it a zingy kick, while asparagus mellows out the flavors. Enjoy for breakfast or as an afternoon snack! Best served warm. Shop for Arla dairy products, along with all the other ingredients that you need for this recipe, at #TheMarketplace!\nServing Time: 30 minutes\nYield: 8 pieces\nIngredients\n1 large puff pastry sheet\n8 slices Arla Natural Gouda\n¼ cup Dijon mustard\n½ cup diced ham\n8 pcs. asparagus, trimmed and blanched\n1 beaten egg for egg wash\nFresh ground black pepper to taste\nProcedure\n1. Preheat oven to 200°C. Line a baking tray with parchment.\n2. Cut puff pastry into eight 4x4\" squares and place on the baking tray. Make 2 L-shaped slits on the corners then fold to form a diamond.\n3. Lightly spread Dijon mustard in the center of each puff pastry. Top with Arla Natural Gouda Slices, ham, and asparagus. Add a pinch of black pepper as desired.\n4. Brush pastry with egg wash. Bake for 15-20 mins. or until golden.\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Arla Natural Gouda",
-      "8 slices Arla Natural Gouda",
-      "Arla Natural Gouda Slices"
+      "Arla"
     ],
     "recipe": {
       "servingTime": "30 minutes",
@@ -40,9 +38,7 @@ const CHEESE_FESTIVAL_DATA = [
     "campaign": "CHEESE FESTIVAL",
     "caption": "One of the simplest yet most delightful combinations is the simple blend of tomato and cheese. And in this recipe for Grilled Cheese Roll-ups with Tomato Dip, we used President Natural Cheddar to complement the creamy and delicate tomato sauce.\n\nFried to a golden crisp, dip those cheese logs in that scrumptious tomato sauce for a satisfying afternoon snack or pre-dinner pika-pika! Get all the ingredients that you need for this recipe at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 12 pieces\nIngredients\n12 slices white sandwich bread\n12 slices President Burger with Cheddar\n¼ cup melted butter\nTomato dip to serve\n\nProcedure\n1. Flatten bread slices with a rolling pin and remove the crust. Top with President Natural Cheddar and roll into logs.\n2. Brush melted butter all over the roll-ups. Place seam-side down on a frying pan over medium heat.\n3. Fry until golden and crisp, rotating as needed. Serve hot with tomato dip on the side.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "President Natural Cheddar",
-      "12 slices President Burger with Cheddar",
-      "President Burger with Cheddar"
+      "President"
     ],
     "recipe": {
       "servingTime": "30 minutes",
@@ -67,8 +63,7 @@ const CHEESE_FESTIVAL_DATA = [
     "campaign": "CHEESE FESTIVAL",
     "caption": "Make these no-bake Rich Berry Cheesecake Cups in a fraction of the time it’ll take for you to bake one!\n\nUsing Emina Cheese Dessert Rich Berry, we’ve concocted a dessert filling that’s tangy, sweet, and bursting with berry flavor! For the crust, simply use crushed graham crackers and unsalted butter. Easy to make and ready to serve, this recipe makes two cups, but may we suggest preparing more of these? You’ll definitely reach out for seconds or thirds. Head over to #TheMarketplace now and find all the ingredients that you need to prepare this fuss-free dessert!\n\nServing Time: 20 minutes\nYield: 2 cheesecake cups\nIngredients\n1 pack Emina Cheese Dessert Rich Berry\n½ cup cold heavy cream\n1-2 tbsps. powdered sugar\n½ cup mixed berries of choice\n½ cup crushed graham crackers\n¼ cup melted unsalted butter\n1 tbsp. brown sugar\nFresh mint leaves to garnish\nProcedure\n\n1. Stir crushed graham crackers with melted butter and brown sugar until crumbly. Spoon into 2 serving glasses.\n2. Whisk Emina Cheese Dessert Rich Berry in a bowl until smooth. Add heavy cream and powdered sugar to taste. Whip until thick and blended.\n3. Spoon berry cheesecake mixture over the graham crumble. Top with mixed berries and garnish with fresh mint leaves.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Emina Cheese Dessert Rich Berry",
-      "1 pack Emina Cheese Dessert Rich Berry"
+      "Emina"
     ],
     "recipe": {
       "servingTime": "20 minutes",
@@ -93,8 +88,7 @@ const CHEESE_FESTIVAL_DATA = [
     "campaign": "CHEESE FESTIVAL",
     "caption": "Now that the weather is getting cooler, there’s no better way to warm up the body than with a hearty bowl of classic French Onion Soup.\nOne of the best things about this French dish is the cheese pull that not only adds an appetising factor, but also provides a richness and nutty flavor to this clear and savory soup. This recipe calls for Gruyère cheese, which you can easily find at the in-house cheese section at #TheMarketplace, where you can shop your favorite cheeses and cold cuts, too. Enjoy!\nServing Time: 1 hour\nYield: 6 servings\nIngredients\n4 large yellow onions, thinly sliced\n3 tbsps. unsalted butter\n2 tbsps. olive oil\n2 cloves garlic, minced\n2 tbsps. all-purpose flour\n½ cup dry white wine, optional\n6 cups beef broth\n2 sprigs fresh thyme\nSalt and pepper to taste\n2 cups Gruyère, shredded\nFrench bread, sliced and toasted\nProcedure\n1. Melt butter and olive oil in a large pot. Sauté onions over low-medium heat for 30 mins. until caramelized. Stir in garlic and flour. Cook for 2-3 mins.\n2. Pour dry white wine and stir to deglaze. Add beef broth and thyme sprigs. Season to taste then simmer for 30 mins. Meanwhile, preheat oven broiler.\n3. Remove thyme. Ladle soup into oven-safe bowls, about ¾ full. Top with sliced bread and generous amounts of shredded Gruyère.\n4. Broil for 2-3 mins. or until the cheese is bubbly and golden. Serve immediately.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Gruyère",
-      "2 cups Gruyère, shredded"
+      "! Generic"
     ],
     "recipe": {
       "servingTime": "1 hour",
@@ -119,9 +113,7 @@ const CHEESE_FESTIVAL_DATA = [
     "campaign": "CHEESE FESTIVAL",
     "caption": "Anyone craving some Cheese Crusted Potatoes? Yes, please!\n\nIf the name alone doesn’t make your mouth water, then it’s all the more reason for you to try this recipe. The best cheese to use for this is Perfect Italiano’s Shredded Mozzarella because it provides that crisp, gooey texture to go with the herb-seasoned potatoes. Once they’re golden brown and crisp, enjoy the potatoes on their own or as a side to go with steaks, chicken, fish, and even salads. Get your ingredients fresh from #TheMarketplace!\nServing Time: 45 minutes\nYield: 4-6 servings\nIngredients\n500g baby potatoes, washed and halved\n1 cup Perfect Italiano Mozzarella Shredded Cheese\n¼ cup Parmesan cheese, grated\n3 cloves garlic, minced\n2 tbsps. olive oil, plus more for brushing\n2 tsps. dried oregano\n1 tsp. chili flakes\nSalt and pepper to taste\nFreshly chopped parsley to garnish\nProcedure\n1. Preheat oven to 200°C. Line a baking sheet with parchment and sprinkle Perfect Italiano Mozzarella Shredded Cheese and grated parmesan all over.\n2. Score the flesh of the halved baby potatoes. Toss in a bowl of olive oil, minced garlic, dried basil, chili flakes, salt and pepper until well-coated. Arrange potatoes flesh-side down onto the cheese and brush with more oil. \n3. Bake for 30-40 mins. or until crisp and golden brown. Garnish with chopped parsley.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Perfect Italiano’s Shredded Mozzarella",
-      "1 cup Perfect Italiano Mozzarella Shredded Cheese",
-      "Perfect Italiano Mozzarella Shredded Cheese"
+      "Perfect Italiano"
     ],
     "recipe": {
       "servingTime": "45 minutes",

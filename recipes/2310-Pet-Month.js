@@ -13,8 +13,7 @@ const PET_MONTH_DATA = [
     "campaign": "PET MONTH",
     "caption": "It’s important for pets to get the same quality of nutrition and food as humans. And with VitaPet Cat Food in Seafood Flavor, you can be assured that your feline friends get a complete and balanced diet.\n\nDevoid of any artificial flavorings and made with real fish, which helps strengthens teeth and bones, VitaPet Cat Food also keeps your cat’s coat healthy. VitaPet products are available at #TheMarketplace at affordable price points, along with other pet care essentials.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "VitaPet Cat Food in Seafood Flavor",
-      "VitaPet Cat Food"
+      "VitaPet"
     ],
     "recipe": null,
     "photo": {
@@ -33,7 +32,7 @@ const PET_MONTH_DATA = [
     "campaign": "PET MONTH",
     "caption": "Looking to change up your cat’s chow?\n\nHead over to #TheMarketplace and check out Smartheart Chicken and Tuna! With DHA & Choline to enhance brain development and the nervous system, Smartheart Chicken and Tuna is also rich in Omega-3 fatty acids for a healthy heart. It also helps nourish the vision thanks to taurine, and calcium strengthens the bones and teeth. \n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Smartheart Chicken and Tuna"
+      "Smartheart"
     ],
     "recipe": null,
     "photo": {
@@ -52,7 +51,7 @@ const PET_MONTH_DATA = [
     "campaign": "PET MONTH",
     "caption": "Providing 100% of your cat’s daily needs, Purina Felix Mackerel Jelly contains tasty, meaty mackerel chunks in a jelly that your kitties will surely love.\n\nNot only is it enriched with Vitamins D&E, but it’s also a source of essential Omega 6 fatty acids. Grab some packets at #TheMarketplace today, along with other essentials for your cat companions!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Purina Felix Mackerel Jelly"
+      "Purina Felix"
     ],
     "recipe": null,
     "photo": {
@@ -71,8 +70,7 @@ const PET_MONTH_DATA = [
     "campaign": "PET MONTH",
     "caption": "If you’re in the market for a new food brand to feed your canine companion with, head over to #TheMarketplace and grab a bag of VitaPet Dog Food in Chicken Flavor.\n\nApart from supporting the immune system, VitaPet Dog Food also helps keep your dog’s teeth and bones strong, while maintaining a radiant coat and skin. Explore their wide range of dog food and choose the one that suits your needs best!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "VitaPet Dog Food in Chicken Flavor",
-      "VitaPet Dog Food"
+      "VitaPet"
     ],
     "recipe": null,
     "photo": {

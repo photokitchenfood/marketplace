@@ -13,8 +13,7 @@ const SEPTEMBER_IG_DATA = [
     "campaign": "SEPT IG & FB",
     "caption": "Bacalao a la Vizcaina is a fish stew that hails from the Basque region. While this is a common stew found in Spanish-speaking countries, did you know that each country has their own style of serving this fish dish? For example, in Mexico, this fish stew is served during Christmas and New Year’s; while in Puerto Rico, it’s a must-have during Lent.\n\nWhatever the occasion, this seafood stew is perfect all-year-round, especially on chillier days. Indulge in the hearty combination of tomatoes, pimientos, aromatics, and for the fish, simply use Pacific Bay Bacalao Loins, which are both convenient and delicious! Find Pacific Bay products at #TheMarketplace, along with other seafood items that you’d like to include in this stew.\n\nServing Time: 45 minutes\nYield: 4-6 servings\nOptional: Serve with baguette slices. \n\nIngredients\n\n3 tbsps. olive oil\n1 (500g) pack Pacific Bay Bacalao Loins, pat-dried\n2 tbsps. butter\n1 white onion, chopped\n4 cloves garlic, minced\n1/2 cup white wine\n1 (411g) can whole plum tomatoes, crushed by hand\n1 (113g) can pimientos, drained and chopped \n1 bay leaf\n1 tsp. sweet paprika\n1/4 tsp. salt \n1/4 tsp. ground black pepper\n1/4 cup chopped parsley\n\nProcedure\n\n1. Heat olive oil in a large skillet over medium heat.\n2. Sear Pacific Bay Bacalao Loins until nicely browned on each side. Do this in batches to avoid overcrowding the pan. Set aside.\n3. Using the same pan, add in butter, and sauté the onion and garlic until softened, about 3 minutes.\n4. Deglaze with white wine. Once the wine has reduced to about half, add the tomatoes, pimientos, bay leaf and paprika. \n5. Bring to a simmer and cook for 15 minutes, or until the sauce has thickened. Season with salt and pepper.\n6. Add the cod and cook until heated through, about 5 minutes more.\n7. Turn off the heat, then mix in parsley. \n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Pacific Bay Bacalao Loins",
-      "1 (500g) pack Pacific Bay Bacalao Loins, pat-dried"
+      "Pacific Bay"
     ],
     "recipe": {
       "servingTime": "45 minutes",
@@ -39,9 +38,7 @@ const SEPTEMBER_IG_DATA = [
     "campaign": "SEPT IG & FB",
     "caption": "Perfect for pika-pika, these Grilled Shrimp Skewers are a cinch to prepare and in under 20 minutes, too!\n\nThread some Pacific Bay Cooked & Peeled Shrimp alternatingly with bell peppers and chorizo on bamboo sticks for the tastiest handheld snack. Add other veggies — or pineapples for a sweet touch — if you desire!\n\nFind all the ingredients that you need for this recipe, along with other pika-pika essentials, at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 4-6 servings\n\nIngredients\n\n1 (500g) pack Pacific Bay Cooked & Peeled Shrimp\n1 green bell pepper, cut into 1-inch pieces\n2 pcs. chorizo, sliced thinly\n1/4 cup olive oil\n1 tbsp. chili powder\n1 tsp. cumin\n1/2 tsp. salt\n1/4 teaspoon black pepper\nZest of 1 lime\n12 bamboo skewers, soaked in water for 30 minutes\n\nProcedure\n\n1. In a large bowl, combine the Pacific Bay Shrimp, bell pepper,s chorizo, olive oil, chili powder, cumin, salt, pepper and lime. Toss to coat.\n2. Thread the shrimp, bell pepper, and sausage onto the skewers.\n3. Heat a grill or grill pan over medium heat. Grill the skewers for 5-7 minutes per side, or until the vegetables are tender\n4. Serve hot with your favorite salsa or marinara sauce.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Pacific Bay Cooked & Peeled Shrimp",
-      "1 (500g) pack Pacific Bay Cooked & Peeled Shrimp",
-      "Pacific Bay Shrimp"
+      "Pacific Bay"
     ],
     "recipe": {
       "servingTime": "15 minutes",
@@ -66,8 +63,7 @@ const SEPTEMBER_IG_DATA = [
     "campaign": "SEPT IG & FB",
     "caption": "In this recipe for Bananas Foster Bread Pudding, we’ve combined a New Orleans favorite with an English classic. Typically made with bananas, vanilla ice cream, rum, and butter, blending the Bananas Foster combination over bread pudding — made even more special with Monde Mamon — is a match made in dessert heaven.\n\nHead over to #TheMarketplace and gather all the ingredients that you need for this yummy sweet snack!\n\nServing Time: 50 minutes\nYield: 4-6 servings\n\nIngredients\n\n12 pcs. Monde Mamon, quartered\n1 cup milk\n1 cup heavy cream\n4 eggs\n1/2 cup white sugar\n1 tsp. vanilla extract\n1/2 tsp. ground cinnamon\n1/4 tsp. salt\n4 bananas, sliced\n1/2 cup brown sugar\n2 tbsps. butter\n1 tbsp. dark rum\n1 tbsp. banana liqueur\n\nProcedure\n\n1. Preheat oven to 175C. Grease a 9x13 inch baking dish.\n2. Arrange Monde Mamon chunks on the greased baking dish. \n3. In a large bowl, whisk together milk, heavy cream, eggs, white sugar, vanilla extract, cinnamon and salt. \n4. Pour the mixture onto the mamon. Arrange banana slices on top, and sprinkle with ¼ cup brown sugar.\n5. Bake for 30-35 minutes, or until the bread pudding is set and the top is golden brown.\n6. In a small saucepan, melt the butter over medium heat. Add the remaining brown sugar and cook, stirring constantly, until the sugar is dissolved. Stir in the rum and banana liqueur.\n7. Pour the sauce over the bread pudding.\n8. Serve warm.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Monde Mamon",
-      "12 pcs. Monde Mamon, quartered"
+      "Monde"
     ],
     "recipe": {
       "servingTime": "50 minutes",
@@ -92,7 +88,7 @@ const SEPTEMBER_IG_DATA = [
     "campaign": "SEPT IG & FB",
     "caption": "Now that the weather is getting cooler, more insects tend to gather, which is why every household must have a spray bottle of Baygon Multi-Insect Killer handy!\n\nDesigned to eliminate flying, crawling, and garden insects, Baygon’s water-based formula leaves no odor and doesn’t damage plants when used as directed.\n\nFind it at #TheMarketplace, along with other pest-eliminating solutions!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Baygon Multi-Insect Killer"
+      "Baygon"
     ],
     "recipe": null,
     "photo": {
@@ -111,7 +107,7 @@ const SEPTEMBER_IG_DATA = [
     "campaign": "SEPT IG & FB",
     "caption": "With its deep-action gel formula that kills 99% of germs, Mr. Muscle Toilet Bowl Cleaner coats toilet bowls and dissolves limescale and eliminates odors. It guarantees a long-lasting clean and leaves a pleasant lavender scent, too!\n\nGrab a bottle at #TheMarketplace when you stock up on your toilet cleaning essentials!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Mr. Muscle Toilet Bowl Cleaner"
+      "Mr. Muscle"
     ],
     "recipe": null,
     "photo": {
@@ -130,7 +126,7 @@ const SEPTEMBER_IG_DATA = [
     "campaign": "SEPT IG & FB",
     "caption": "Made with 100% natural essential oils, Downy Fresh Bouquet Fabric Conditioner provides a long-lasting clean scent from violets, roses, and crisp green apples. It’s no surprise why it’s one of the top-selling fabric conditioners in the market today! Always gentle on the skin and on fabrics, grab a bottle and refill packs during your next laundry essentials run at #TheMarketplace.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Downy Fresh Bouquet Fabric Conditioner"
+      "Downy"
     ],
     "recipe": null,
     "photo": {
@@ -149,7 +145,7 @@ const SEPTEMBER_IG_DATA = [
     "campaign": "SEPT IG & FB",
     "caption": "Need a quick Starbucks pick-me-up but are not in the mood to queue?\n\nHead over to #TheMarketplace and stock up on the popular café chain’s ready-to-drink items such as cans and bottles of Starbucks Frappuccinos & Double Shot Espresso. Enjoy a blend of 100% Arabica coffee, along with smooth, creamy milk. With a wide variety of flavor options to choose from, make sure you always have one within your reach!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Starbucks Frappuccinos & Double Shot Espresso"
+      "Starbucks"
     ],
     "recipe": null,
     "photo": {
@@ -168,9 +164,7 @@ const SEPTEMBER_IG_DATA = [
     "campaign": "SEPT IG & FB",
     "caption": "Espresso tonics are all the craze, so why not making it more exciting with the help of raspberries?\n\nPrepare some espresso with Illy Roasted Coffee Beans and then add it to a cocktail shaker with some muddled raspberries for a fun and fizzy caffeinated drink!\n\nHead over to #TheMarketplace now and grab your hands on some Illy Coffee Beans and raspberries, and try making this drink over the weekend.\n\nServing Time: 10 minutes\nYield: 1-2 servings\n\nIngredients\n\n2 shots of espresso, made with Illy Roasted Coffee Beans\n1 cup tonic water\n½ cup raspberries, fresh or frozen\n1/4 cup sugar\n2 tbsps. lemon juice\nIce\n\nProcedure\n\n1. To make the espresso, grind 18 grams of Illy Roasted Coffee Beans into a fine powder. Tamp the ground coffee into the portafilter of an espresso machine. Brew the espresso according to the manufacturer's instructions.\n2. In a cocktail shaker, muddle the raspberries with the sugar and lemon juice.\n3. Pour over ice in a glass. Add the raspberry syrup, followed by the espresso shots, and finally, top with tonic water. \n4. Garnish with a raspberries and lemon slices. \n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Illy Roasted Coffee Beans",
-      "Illy Coffee Beans",
-      "2 shots of espresso, made with Illy Roasted Coffee Beans"
+      "Illy"
     ],
     "recipe": {
       "servingTime": "10 minutes",
@@ -195,8 +189,7 @@ const SEPTEMBER_IG_DATA = [
     "campaign": "SEPT IG & FB",
     "caption": "Add a coconut twist to your latte in this Coco Latte coffee recipe made with Key Coffee Instant Granules!\n\nYou’ll be surprised at how the sweet, fragrant coconut flavor blends so well with coffee. Don’t forget to top with some toasted desiccated coconut for extra smokiness and aroma! Key Coffee products are now available at #TheMarketplace, so don’t forget to check out their whole range while you’re there.\n\nServing Time: 12 minutes\nYield: 2 servings\n\nIngredients\n\n1 cup coconut milk \n1 cup water\n2 tbsps. Key Coffee Instant Granules\n2 tbsps. coconut sugar (adjust to taste)\n1/2 tsp. vanilla extract \n1/4 cup coconut cream (from the top of a can of full-fat coconut milk)\n2 tbsps. powdered sugar \nToasted desiccated coconut\n\nProcedure\n\n1. In a small saucepan over medium heat, combine the coconut milk and water. Once the mixture is warm, add the Key Coffee Instant Granules, coconut sugar, vanilla, and stir until completely dissolved.\n2. Open a can of full-fat coconut milk without shaking it. The cream will have separated and risen to the top. Carefully scoop out about 1/4 cup of the coconut cream from the top of the can.\n3. In a mixing bowl, combine the coconut cream and powdered sugar. Using an electric mixer or a whisk, beat the mixture until it becomes light and fluffy, forming soft peaks.\n4. Pour the hot coconut latte into serving cups, leaving some space at the top for the foam. Spoon a generous amount of the sweet coconut cream foam on top of each latte.\n5. Sprinkle toasted desiccated coconut over the foam, adding as much or as little as you like.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Key Coffee Instant Granules",
-      "2 tbsps. Key Coffee Instant Granules"
+      "Key Coffee"
     ],
     "recipe": {
       "servingTime": "12 minutes",
@@ -221,8 +214,7 @@ const SEPTEMBER_IG_DATA = [
     "campaign": "SEPT IG & FB",
     "caption": "Enjoy a café-quality coffee drink at home with this Hojicha Frappuccino made using UCC Hojicha Latte Instant Mix.\n\nUsing premium roasted tea leaves from Japan, this instant hojicha mix boasts richness in both aroma and flavor. Prepare in just five minutes and indulge! Extra hojicha powder is a must to add a bit more of a roasted tea flavor. Find UCC products at #TheMarketplace, and experiment with this recipe using other UCC tea latte mixes as well! \n\nServing Time: 5 minutes\nYield: 1 serving\n\nIngredients\n\n1 packet of UCC Hojicha Latte Instant Mix\n1/2 cup of hot water\n1 cup milk\n1/2 cup of ice cubes\nWhipped cream, for topping (optional)\nHojicha powder, for topping (optional)\n\nProcedure\n\n1. In a blender, combine UCC Hojicha Latte Instant Mix and hot water. Blend until the powder is dissolved.\n2. Add the milk and ice cubes. Blend until smooth.\n3. Pour into a glass and top with whipped cream and extra hojicha powder, if desired.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "UCC Hojicha Latte Instant Mix",
-      "1 packet of UCC Hojicha Latte Instant Mix"
+      "UCC"
     ],
     "recipe": {
       "servingTime": "5 minutes",
@@ -247,10 +239,7 @@ const SEPTEMBER_IG_DATA = [
     "campaign": "SEPT IG & FB",
     "caption": "Mango and coffee? If you feel that this blend of flavors might sound a wee bit too playful, allow us to change your mind with this Cold Mango Coffee with Sweet Cream made with Delonghi Premium Blend.\n\nUnlike most of our coffee beverage recipes, this one requires a bit of time to prepare since we’re making cold brew from scratch, so we recommend preparing it a day in advance. When it’s done, simply layer with the sweet mango purée, take a sip, and wonder why you questioned this super fun and fruity combination in the first place.\n\nBest enjoyed on a lazy Sunday afternoon with a good book in tow! All the ingredients that you need for this recipe are available at #TheMarketplace. Bottoms up!\n\nServing Time: 12 hours and 15 minutes\nYield: 2 servings\n\nIngredients\n\nFOR THE COLD BREW\n1 cup Delonghi Premium Blend\n4 cups water\n\nFOR THE COLD MANGO COFFEE WITH SWEET CREAM\n1/4 cup sweetened condensed milk\n1/4 cup heavy cream\n1 tsp. vanilla extract\n1/4 tsp. salt\n1 cup Delonghi Premium Blend, cold brew\n1 ⅓ cup mango purée, fresh or frozen\n2 tbsps. mango syrup\n2 tbsps. mint leaves\n\nProcedure\n\n1. Grind Delonghi Premium Blend beans to a coarse grind.\n2. Add coffee grounds and water into a french press. Stir to combine. Cover and let steep in the refrigerator for 12-24 hours.\n3. Combine the heavy cream, sweetened condensed milk, vanilla extract, and salt in a jar with a lid. Shake vigorously until the mixture is thick and foamy.\n4. Fill each glass with ⅔ cup of mango purée and ½ cup of Delonghi Premium Blend Cold Brew.\n5. Top with sweet cream foam, then drizzle mango syrup on top, and garnish with mint leaves\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Delonghi Premium Blend",
-      "1 cup Delonghi Premium Blend",
-      "1 cup Delonghi Premium Blend, cold brew",
-      "Delonghi Premium Blend Cold Brew"
+      "Delonghi"
     ],
     "recipe": {
       "servingTime": "12 hours and 15 minutes",
@@ -275,8 +264,7 @@ const SEPTEMBER_IG_DATA = [
     "campaign": "SEPT IG & FB",
     "caption": "Getting ready for a fun night at home with friends?\n\nPrepare these Reuben Quesadillas with Aguila Corned Beef for a delicious meal that’s best paired with some chips and beer! A Reuben typically combines corned beef and cheese in a sandwich, but we’ve made it lighter and more satisfying by using tortilla wraps instead. Serve with sauerkraut and gherkins for a fun, briny zing in between bites. Get cooking and start by heading to #TheMarketplace and get all the ingredients that you need.\n\nServing Time: 20 minutes\nYield: 2-3 servings\n\nIngredients\n\n1 can Aguila Corned Beef\nSalt and pepper to taste\n1 tbsp. butter\n2 pcs. tortilla wrap, large\n½ cup swiss cheese, shredded\n½ cup sauerkraut, drained\n½ cup mozzarella cheese, shredded\n½ cup pickles, halved\n¼ cup thousand island dressing\n\nProcedure\n\n1. Set a pan over medium heat. Add in Aguila Corned Beef. Cook until reduced, then season with salt and pepper. Set aside.\n2. Set another large pan over medium low heat. Add in butter, and let it melt.\n3. To assemble, place a tortilla wrap on the heated pan. Sprinkle swiss cheese evenly, then top with Aguila Corned Beef. Add a layer of sauerkraut, then sprinkle mozzarella cheese on top. Place the other piece of tortilla on top. \n4. Cover with a lid for about 1-2 minutes, and flip to toast the other side for another 2-3 minutes.\n5. Remove from the pan, then cut into 6 triangles. Serve while hot, alongside pickles and thousand island dressing.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Aguila Corned Beef",
-      "1 can Aguila Corned Beef"
+      "Aguila"
     ],
     "recipe": {
       "servingTime": "20 minutes",
@@ -301,8 +289,7 @@ const SEPTEMBER_IG_DATA = [
     "campaign": "SEPT IG & FB",
     "caption": "Craving meat but feeling a bit on the fence about consuming it?\n\nMake your way to #TheMarketplace and stock up on UnMeat Meat-free Chick’n Patties and make these Korean Chicken Rice Bowls! Simply cook your UnMeat Chick’n Patties with gochujang, mirin, honey, and all the other Korean essentials, top on piping hot bowls of rice, and indulge! They’re so good that carnivores won’t be able to tell the difference.\n\nServing Time: 30 minutes\nYield: 2 servings\n\nIngredients\n\n1 tbsp. gochujang\n½ tbsp. soy sauce\n½ tbsp. mirin\n1 tbsp. honey\n½ cup sesame oil\n2 cups vegetable oil\n1 pack UnMeat Meat-free Chick’n Patties\n½ cup carrots, julienned\nSalt and pepper to taste\n½ cup mushrooms, sliced\n¾ cup spinach\n½ cup bean sprouts\n½ cup red bell pepper, julienned\n2 cups rice, cooked\n1 tbsp. sesame seeds\n2 tbsps. scallions, chopped\n\nProcedure\n\n1. In a small bowl, combine gochujang, soy sauce, mirin, honey and ½ tablespoon sesame oil. Set aside.\n2. Preheat oil to 175°C. Deep fry UnMeat Meat-free Chick’n Patties for 4-5 minutes, or until golden brown. Set aside.\n3. Set a pan over medium heat. Add about a tablespoon of sesame oil, and sauté vegetables and mushrooms in batches. Season with salt and pepper. Set aside.\n4. Fill serving bowl with rice, the top with cooked vegetables and mushrooms.\n5. Slice fried UnMeat Meat-free Chick’n Patties, and place on top of the rice beside the vegetables.\n6. Garnish with sesame seeds and scallions. Serve alongside gochujang sauce.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "UnMeat Meat-free Chick’n Patties",
-      "1 pack UnMeat Meat-free Chick’n Patties"
+      "UnMeat"
     ],
     "recipe": {
       "servingTime": "30 minutes",
@@ -327,8 +314,7 @@ const SEPTEMBER_IG_DATA = [
     "campaign": "SEPT IG & FB",
     "caption": "As we enter the -ber months and the weather gets cooler, put together a Korean Fish Cake Stew party with Nuri Korean Fishcakes! Hearty, delicious, and nourishing for the soul, this meal sets the stage for a wonderful weekend dinner at home with friends and family. Enjoy with bottles of yakult soju or iced barley tea! Find Nuri Korean Fishcakes, along with other Korean essentials, at #TheMarketplace.\n\nServing Time: 25-30 minutes\nYield: 3-4 servings\n\nIngredients\n\n2 tbsps. canola oil\n1 pc. white onion, chopped\n2 cloves garlic, minced\n1 tbsp. ginger, minced\n6 cups chicken broth\n1 tbsp. soy sauce\n1 tsp. sesame oil\n1/2 tsp. black pepper\n1 pack Nuri Korean Fishcakes, skewered\n1 cup bok choy, halved\n1/2 cup shiitake mushrooms\n\nProcedure\n\n1. In a large pot, heat oil over medium heat. Add the onions, and cook until softened, about 5 minutes. Add the garlic and ginger, and cook for 1 minute more.\n2. Add the green bell peppers, and cook until softened, about 5 minutes more.\n3. Add the chicken broth, soy sauce, sesame oil, and black pepper. Bring to a boil, then reduce heat and simmer for 10 minutes.\n4. Add the Nuri Korean Fishcakes, bok choy, and mushrooms. Simmer for 5 minutes more, or until heated through.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Nuri Korean Fishcakes",
-      "1 pack Nuri Korean Fishcakes, skewered"
+      "Nuri"
     ],
     "recipe": {
       "servingTime": "25-30 minutes",

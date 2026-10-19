@@ -13,8 +13,7 @@ const HALLOWEEN_DATA = [
     "campaign": "HALLOWEEN",
     "caption": "This Halloween, give your cocktail a spooky and spicy spin with this Bloody Orange Margarita!\n\nMade with Sunnyphil Seedless Oranges, grenadine adds a vibrant red hue to this boozy beverage, making it the perfect accompaniment to your Halloween get-togethers. Don’t forget to coat the rim with some chili-lime powder for a fiery jolt that’ll make the taste buds tingle! Try it frozen, too.\n\nMake your way to #TheMarketplace and get all the ingredients that you need for these Bloody Orange Margaritas today!\n\nServing Time: 10 minutes\nYield: 2 glasses\n\nIngredients\n\n3 shots tequila\n2 shots Triple Sec\n3 Sunnyphil Seedless Oranges, plus more to garnish\n1 fresh lemon\n2 tbsps. Grenadine syrup\nIce cubes\nChili-lime powder\n\nProcedure\n1. Rim 2 glasses with an orange wedge and dip in chili-lime powder. Drizzle Grenadine on the sides and fill with ice.\n2. Squeeze Sunnyphil Seedless Oranges into a pitcher to obtain 1 cup fresh orange juice. Add juice of one lemon, tequila, and Triple Sec. Stir to combine.\n3. Pour margarita into the spicy rimmed glasses. Garnish with fresh orange slices.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Sunnyphil Seedless Oranges",
-      "3 Sunnyphil Seedless Oranges, plus more to garnish"
+      "Sunnyphil"
     ],
     "recipe": {
       "servingTime": "10 minutes",
@@ -39,8 +38,7 @@ const HALLOWEEN_DATA = [
     "campaign": "HALLOWEEN",
     "caption": "There’s no doubt that pumpkin spice is the main flavor that marks the season of fall and Halloween.\n\nVersatile and bursting with the comforting flavors of cinnamon and ginger, we discovered that pumpkin spice also works great with sangria! Move over, lattes.\n\nConcocted with M. Cellars Marlborough Sauvignon Blanc, add in some oranges, apples, frozen cranberries, as well as some ginger beer, pumpkin spice, and pumpkin purée, to make a refreshing pitcher. Head over to #TheMarketplace and stock up on ingredients for this special sangria!\n\nServing Time: 2 hours 5 minutes \nYield: 6 servings\n\nIngredients\n\n1 bottle (750 ml) M. Cellars Marlborough Sauvignon Blanc\n½ cup pumpkin puree\n1 tsp. pumpkin spice\n2 cinnamon sticks, plus more to garnish\n1 cup frozen cranberries\n1 large orange, thinly sliced\n2 apples, cored and diced\n1 cup ginger beer, chilled\nIce cubes\n\nProcedure\n\n1. In a pitcher or punch bowl, stir M. Cellars Marlborough Sauvignon Blanc, pumpkin puree, and pumpkin spice until well-combined. Add cinnamon sticks, frozen cranberries, oranges, and apples. Chill for at least 2 hours. \n2. Before serving, add ginger beer. Pour into ice-filled glasses and garnish with extra cinnamon sticks and sliced fruit.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "M. Cellars Marlborough Sauvignon Blanc",
-      "1 bottle (750 ml) M. Cellars Marlborough Sauvignon Blanc"
+      "M. Cellars"
     ],
     "recipe": {
       "servingTime": "2 hours 5 minutes",
@@ -65,9 +63,7 @@ const HALLOWEEN_DATA = [
     "campaign": "HALLOWEEN",
     "caption": "These Salted Caramel Spider Web Brownies are the perfect Halloween treat to snack on and to give to trick-or-treaters!\n\nIt starts off as a simple brownie recipe made even more special with Meadows Milk Chocolate with Salted Caramel, and then wildly decorated with sugary spider webs. Bite into these rich, chocolatey brownies studded with hints of salted caramel — and keep an eye out for the spiders!\n\n#TheMarketplace has everything that you need to prepare these Salted Caramel Spider Web Brownies, so hop on over now and add them to your grocery cart!\n\nServing Time: 45 minutes \nYield: 16 brownies\n\nIngredients\n\n1 ½ cups dark chocolate, chopped\n½ cup unsalted butter\n½ cup all-purpose flour\n¼ cup unsweetened cocoa powder\n½ tsp. salt\n3 large eggs\n¾ cup granulated sugar\n1 tsp. vanilla extract\n1 pack (190g) Meadows Milk Chocolate Salted Caramel, chopped into chunks\n1 cup white marshmallows\nCandy eyeballs for decoration\n\nProcedure\n\n1. Preheat oven to 180°C. Line an 8x8\" baking pan with parchment.\n2. Sift flour, baking powder, and salt. Set aside. Over a double boiler, melt dark chocolate and butter. Set aside to cool.\n3. In a large bowl, whisk eggs, sugar, and vanilla until frothy. Fold in the melted chocolate, followed by the dry mixture.\n4. Spread half of the batter into the pan. Add Meadows Milk Chocolate Salted Caramel chunks and pour the remaining batter. Bake for 28-30 mins. until set. \n5. Heat marshmallows until spreadable. Drizzle webs over the brownies with a fork and attach candy eyes. Cool before slicing.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Meadows Milk Chocolate with Salted Caramel",
-      "1 pack (190g) Meadows Milk Chocolate Salted Caramel, chopped into chunks",
-      "Meadows Milk Chocolate Salted Caramel"
+      "Meadows"
     ],
     "recipe": {
       "servingTime": "45 minutes",
@@ -92,8 +88,7 @@ const HALLOWEEN_DATA = [
     "campaign": "HALLOWEEN",
     "caption": "Imagine the thrilling delight of opening the fridge and being greeted by these Bat Biscoff Truffles!\n\nThese spice-packed biscuits that are ground up for the truffle filling are coated with a chocolate shell made with Meadows Milk Chocolate Mini Bars. We find that the mini chocolate bars work best for this recipe as their smaller size allows them to melt faster. Making these truffles is also a great bonding activity with the little ones or loved ones!\n\nVery fitting for this Halloween season, head over to #TheMarketplace and add the ingredients below to your cart!\n\nServing Time: 2 hours 15 minutes \nYield: 14 servings\n\nIngredients\n\n1 cup Biscoff spread, warmed\n1 cup Biscoff cookies, finely crushed\nPinch of salt\n2 packs (352g) Meadows Milk Chocolate Mini Bars\n1 tbsp. coconut oil\nCandy eyeballs for decoration\n\nProcedure\n\n1. Line 2 baking trays with parchment. Draw batwings on one sheet and place ink-side down.\n2. Mix Biscoff spread, crushed Biscoff cookies, and salt. Scoop 1-inch balls onto one tray. Freeze for 30 mins.\n3. Melt Meadows Milk Chocolate Mini Bars with coconut oil over a double boiler. Dip frozen Biscoff balls into the chocolate and place back on the tray. Pipe remaining melted chocolate into batwings, saving a small amount for later. Chill trays for 1 hour or until set.\n4. Attach batwings and candy eyes using the saved melted chocolate. Chill for 30 mins. or until set.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Meadows Milk Chocolate Mini Bars",
-      "2 packs (352g) Meadows Milk Chocolate Mini Bars"
+      "Meadows"
     ],
     "recipe": {
       "servingTime": "2 hours 15 minutes",
@@ -118,8 +113,7 @@ const HALLOWEEN_DATA = [
     "campaign": "HALLOWEEN",
     "caption": "Thinking of a fun Halloween activity?\n\nBake batches of these Dark Chocolate Spooky Cupcakes with Meadows Belgian Dark Chocolate! While the cupcakes bake, prepare the colored buttercreams and décor. Candies are welcome, too! We love using colors such as orange, white, green, and purple to really bring out the ghouly Halloween spirit…with a touch of sweetness. Tag us at @themarketplacefresh and share your Halloween cupcake creations with us!\n\nHead over to #TheMarketplace and stock up on trick-or-treat candies and all the items that you need for this delicious dessert!\n\nServing Time: 1 hour \nYield: 12 cupcakes\n\nIngredients\n\nFor the dark chocolate cupcakes:\n1 cup all-purpose flour\n½ tsp. baking powder\n¼ tsp. baking soda\n¾ tsp. salt\n1 pack (190g) Meadows Belgian Dark Chocolate, chopped\n½ cup unsalted butter\n1 cup granulated sugar\n1 tsp. vanilla extract\n½ cup buttermilk\n2 large eggs\n\nFor the buttercream and decor:\n1 cup unsalted butter, softened\n2 cups powdered sugar\n2 tbsps. heavy cream\n2 tsps. vanilla extract\nPinch of salt\nGel food coloring as needed\nSpooky candy for decoration\n\nProcedure\n\n1. Preheat oven to 175°C and prepare a cupcake tin with liners. Sift together flour, baking powder, baking soda, and salt. Set aside.\n2. Melt Meadows Belgian Dark Chocolate and butter over a double boiler. Cool slightly, then whisk in sugar, vanilla, buttermilk, and eggs. Once incorporated, fold in dry mixture. \n3. Pour batter into liners and bake for 18-20 mins. or until set.\n4. Whip buttercream ingredients in a stand mixer using the paddle attachment. Color to your liking. Frost over cooled cupcakes and top with spooky candy.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Meadows Belgian Dark Chocolate",
-      "1 pack (190g) Meadows Belgian Dark Chocolate, chopped"
+      "Meadows"
     ],
     "recipe": {
       "servingTime": "1 hour",
@@ -144,8 +138,7 @@ const HALLOWEEN_DATA = [
     "campaign": "HALLOWEEN",
     "caption": "These Poisoned Mini Caramel Apples are an ode to one of the most iconic Grimms fairy tales. Can you guess which one?\n\nObviously, they are not literally poisoned, but the half-red half-green apples depict the sinister fruit used to poison a certain princess.\n\nHave fun making these with your little ones or prepare them for Halloween dinner spreads for a fun dessert! Get all the ingredients that you need for this recipe at #TheMarketplace!\n\nServing Time: 1 hour 30 minutes \nYield: 12 servings\n\nIngredients\n\n2 large Granny Smith apples, cold\n1 cup granulated sugar\n⅓ cup unsalted butter, softened\n½ cup heavy cream, warmed\nPinch of salt\nRed food coloring\n1 pack (100g) Meadows Baked Walnuts & Whole Almonds\n\nProcedure\n\n1. Line a baking sheet with parchment. Roughly chop Meadows Baked Walnuts & Whole Almonds and place in a bowl.\n2. Rinse apples and wipe dry. Scoop apple rounds with a melon baller and pierce with cocktail skewers. Set aside.\n3. Melt sugar in a saucepan over low-medium heat until amber in color, swirling occasionally. Remove from heat and whisk in butter, heavy cream, salt, and red food coloring until well-combined.\n4. Dip balled apples in red caramel and coat with chopped nuts. Place on parchment and chill for 1 hour or until set.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "1 pack (100g) Meadows Baked Walnuts & Whole Almonds",
-      "Meadows Baked Walnuts & Whole Almonds"
+      "Meadows"
     ],
     "recipe": {
       "servingTime": "1 hour 30 minutes",

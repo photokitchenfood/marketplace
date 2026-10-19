@@ -13,7 +13,7 @@ const HAM_FEST_DATA = [
     "campaign": "HAM FEST",
     "caption": "You’ll definitely be getting a lot of ham this holiday season, and one way to jazz it up is by making this Ham & Pineapple Bake that’s smoky, sweet, savory, and everything delightful in one bite.\n\nUsing Purefoods Brick Ham that already comes lightly glazed, assemble alternatingly with pineapple slices and then coat with a pineapple and brown sugar glaze. Bake and watch as the sugar caramelizes the dish, providing a nice char and sweet flavor. It’s also great way to make the most out of your leftover ham! Order your Purefoods Brick Ham at #TheMarketplace, and don’t forget to add in the other ingredients that you need for this recipe — including some pan de sal and kesong puti, too!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Purefoods Brick Ham"
+      "Purefoods"
     ],
     "recipe": {
       "servingTime": "50 minutes",

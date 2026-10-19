@@ -13,7 +13,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "campaign": "EAT RIGHT LIVE HEALTHY",
     "caption": "If you haven’t tried Minute Maid’s Nutri+ Orange Mango yet, then head over to #TheMarketplace and grab a can or two.\n\nThis low-calorie juice drink is packed with Vitamin C, providing you with your daily boost of immunity. It’s also refreshing and comes in juicy orange! What are you waiting for? Go try it today!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Minute Maid’s Nutri+ Orange Mango"
+      "Minute Maid"
     ],
     "recipe": null,
     "photo": {
@@ -32,7 +32,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "campaign": "EAT RIGHT LIVE HEALTHY",
     "caption": "It’s important to hydrate especially after a workout, and Gatorade’s Blue Bolt now comes in a sugar-free option, allowing you to replenish your body’s electrolytes without worrying too much about your sugar intake.\n\nStock up on bottles at #TheMarketplace, and make sure you have a Gatorade ready before you work out!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Gatorade’s Blue Bolt"
+      "Gatorade"
     ],
     "recipe": null,
     "photo": {

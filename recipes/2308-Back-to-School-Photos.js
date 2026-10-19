@@ -13,7 +13,7 @@ const BACK_TO_SCHOOL_PHOTOS_DATA = [
     "campaign": "BACK TO SCHOOL",
     "caption": "Made with an ultra-concentrated formula that works twice as hard to get rid of stains, Ariel Power Gel in Sunrise Fresh deeply penetrates into fabrics to remove stains better. It also comes in a refreshingly clean scent!\n\nFun fact: it also works so much better than powder as it dissolves easier and provides better color care. Find it at #TheMarketplace along with other laundry essentials! Refills available, too.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Ariel Power Gel"
+      "Ariel"
     ],
     "recipe": null,
     "photo": {
@@ -32,8 +32,7 @@ const BACK_TO_SCHOOL_PHOTOS_DATA = [
     "campaign": "BACK TO SCHOOL",
     "caption": "Aren’t these Kiddie Cat Sandwiches simply the cutest?\n\nPerfect for your little one’s back-to-school baon, these sandwiches made with Lady’s Choice Mayonnaise are easy to prepare and shape. Sneak in some veggies and watch your kids relish each bite. It’s 100% a meowsome snack!\n\nHead over to #TheMarketplace now and stock up on your baon essentials for the upcoming school year and keep your eyes on this space for recipe ideas that you and your little ones will surely love.\n\nServing Time: 30 minutes\nYield: 5 pieces\n\nIngredients\n\n10 pcs. white sandwich bread\n5 pcs. sandwich ham \n5 pcs. sandwich cheese slices\n1 cup Lady’s Choice Mayonnaise \nSpring onions, for garnish (optional)\n\nProcedure\n\n1. Slice off the crusts of the bread, then shape into cats. You can start by using a round cookie cutter, then trimming the upper portion to create ears. \n2. Follow the cat shape of the bread slices for the ham and cheese slices. Make triangle eyes and ears from the leftover ham and cheese. \n3. Spread a thick layer of Lady’s Choice Mayonnaise on 5 pcs. of bread, then top with cheese, ham and another piece of bread. \n4. Make 2 dots of mayonnaise for eyes, topped with triangle-shaped ham. Use triangle-shaped cheese for the nose and spring onions for whiskers. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Lady’s Choice Mayonnaise",
-      "1 cup Lady’s Choice Mayonnaise"
+      "Lady’s Choice"
     ],
     "recipe": {
       "servingTime": "30 minutes",
@@ -58,7 +57,7 @@ const BACK_TO_SCHOOL_PHOTOS_DATA = [
     "campaign": "BACK TO SCHOOL",
     "caption": "It’s perfectly fine to indulge every once in a while, and a great reward for your child — that also couples as precious bonding time — is an ice cream break with Selecta Magnum Classic in tow. Nothing beats the crackle from the chocolate shell and digging into creamy, velvety ice cream. Don’t forget to stock up on these heavenly pints the next time you make a trip to #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Selecta Magnum Classic"
+      "Selecta Magnum"
     ],
     "recipe": null,
     "photo": {
@@ -77,8 +76,7 @@ const BACK_TO_SCHOOL_PHOTOS_DATA = [
     "campaign": "BACK TO SCHOOL",
     "caption": "Make meriendas more exciting with these Hotdog Egg Boats made with Tender Juicy Classic Hotdogs!\n\nFun-shaped and stuffed with creamy scrambled eggs, these delicious boats are a yummy welcome home snack after a busy day at school. Pair with a cold glass of orange juice on the side, and don’t forget to make extras for yourself to enjoy, too! Grab some Tender Juicy Hotdogs the next time you visit #TheMarketplace and tell us how you like this recipe in the comments section!\n\nServing Time: 20-30 minutes\nYield: 5-6 servings\n\nIngredients\n\n5 eggs\n1 tbsp. Mayonnaise\nSalt and pepper to taste\n2 tbsps. butter\n12 pcs. Tender Juicy Classic Hotdog\n¼ cup water\n2 tbsps. Oil\n¼ cup spring onions chopped\n\nProcedure\n\n1. In a large bowl, beat eggs and mayonnaise together. Season with salt and pepper.\n2. Set a pan over low heat, then add butter. Once melted, add in beaten eggs. Stir continuously until mostly set. Set aside. \n3. Create a long vertical slit on the Tender Juicy Classic Hotdogs such that when you push the ends together, the hotdog opens up and a boat shape forms. \n4. Set a pan over medium heat, then add water and prepared hotdogs. Move the hotdogs around until the water has fully evaporated.\n5. Add oil, and fry for 1-2 minutes. Push the ends of each hotdog to open up the slit, then fill the center with prepared scrambled eggs. Cover the pan for 1-2 minutes. \n6. Transfer to a plate and garnish with spring onions.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Tender Juicy Classic Hotdogs",
-      "12 pcs. Tender Juicy Classic Hotdog"
+      "Tender Juicy"
     ],
     "recipe": {
       "servingTime": "20-30 minutes",
@@ -103,8 +101,7 @@ const BACK_TO_SCHOOL_PHOTOS_DATA = [
     "campaign": "BACK TO SCHOOL",
     "caption": "Aglio olio may be one of the simplest pasta recipes, and it’s always a foolproof one that is easily enjoyable for anyone of any age.\n\nAdd a tasty addition to the classic aglio olio the next time you make it with some Pampanga’s Best Chicken Longaniza! Garlicky, meaty, and a perfect protein complement to the garlic-based pasta, this dish is easy to pack as well. So much so that it might just be of one of the best baons you’ve ever prepared! Get shopping and head over to #TheMarketplace to stock up on ingredients!\n\nServing Time: 15-20 minutes\nYield: 3-4 servings\n\nIngredients\n\n400g linguine\n1 pack Pampanga’s Best Chicken Longaniza\n4 tbsps. olive oil\n10 cloves garlic, minced\nSalt and pepper to taste\n¼ cup parsley, chopped\n\nProcedure\n\n1. Cook linguine according to the package directions.\n2. While the pasta is cooking, heat the olive oil in a large skillet over medium heat.\n3. Remove the casing of Pampanga’s Best Chicken Longaniza, and chop roughly. Add to the pan, and cook while stirring occasionally until nicely browned and cooked through.\n4. Add the garlic, and sauté for another 2 minutes. Drain the pasta, and directly toss into the skillet with longaniza.\n5. Season with salt and pepper to taste, then mix in parsley.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Pampanga’s Best Chicken Longaniza",
-      "1 pack Pampanga’s Best Chicken Longaniza"
+      "Pampanga’s Best"
     ],
     "recipe": {
       "servingTime": "15-20 minutes",
@@ -129,8 +126,7 @@ const BACK_TO_SCHOOL_PHOTOS_DATA = [
     "campaign": "BACK TO SCHOOL",
     "caption": "Grouchy mornings, begone! Prepare these Mixed Berry and Crunch Pancakes with Casino Red Berry Muesli and have the best start to your day.\n\nIt may be tempting to use pre-packaged pancake mixes, but nothing beats a handmade touch to the classic breakfast staple. The muesli adds in tons of fiber, texture, and berry flavour. Enjoy with butter and maple syrup — or honey, if you’re feeling it! Find all the ingredients that you need for this delicious breakfast dish at #TheMarketplace!\n\nServing Time: 25-30 minutes\nYield: 2-3 servings\nOptional: Serve alongside butter and maple syrup.\n\nIngredients\n\n2 cups Casino Red Berry Muesli \n1 cup rolled oats\n1/2 cup all-purpose flour\n1 tsp. baking powder\n1/2 tsp. baking soda\n1/4 tsp. salt\n1 egg\n1 cup milk\n3 tbsps. melted butter\n\nProcedure\n\n1. In a large bowl, combine 1 cup Casino Red Berry Muesli, rolled oats, flour, baking powder, baking soda and salt.\n2. In a separate bowl, whisk together egg, milk, and melted butter.\n3. Pour the wet ingredients into the dry ingredients, and whisk until just combined.\n4. Heat a lightly greased griddle or frying pan over medium heat.\n5. Pour 1/4 cup of the batter onto the hot griddle. Cook for 2-3 minutes per side, or until golden brown. Repeat until you finish the pancake batter. \n6. Top with the remaining Casino Red Berry Muesli. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Casino Red Berry Muesli",
-      "2 cups Casino Red Berry Muesli"
+      "Casino"
     ],
     "recipe": {
       "servingTime": "25-30 minutes",
@@ -155,9 +151,7 @@ const BACK_TO_SCHOOL_PHOTOS_DATA = [
     "campaign": "BACK TO SCHOOL",
     "caption": "Elevate these snackable El Corte Ingles Toasts with Garlic & Parsley into Bacon Avocado Toasts with the help of a few pantry staples such as bacon, avocado, garlic powder, lemon juice, and red pepper flakes!\n\nSo addictive to nibble on and so flavorful, make these in big batches to satiate every snack-hungry belly! Try making these for the upcoming week; head over to #TheMarketplace and stock up El Corte Ingles products today.\n\nServing Time: 15 minutes\nYield: 4-5 servings\n\nIngredients\n\n3 cups bacon, sliced\n2 cups avocado\n½ tsp. garlic powder\n1 tbsp. lemon juice\nSalt and pepper to taste\n1 pack El Corte Ingles Toast with Garlic & Parsley \n1 tbsp. red pepper flakes\n\nProcedure\n\n1. Set a pan over medium heat, then fry bacon until crispy. Drain the fat, and set aside.\n2. In a bowl, mash avocado. Mix in garlic powder, lemon juice, and season with salt and pepper.\n3. Spread about a tablespoon of mashed avocado over each El Corte Ingles Toast with Garlic & Parsley. Top with crispy bacon and red pepper flakes.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "El Corte Ingles Toasts with Garlic & Parsley",
-      "1 pack El Corte Ingles Toast with Garlic & Parsley",
-      "El Corte Ingles Toast with Garlic & Parsley"
+      "El Corte Ingles"
     ],
     "recipe": {
       "servingTime": "15 minutes",
@@ -182,9 +176,8 @@ const BACK_TO_SCHOOL_PHOTOS_DATA = [
     "campaign": "BACK TO SCHOOL",
     "caption": "Why settle for over-the-counter chocolates, when you can make these decadent Oreo Truffles at home? Now, these aren’t super sweet because they come with a tangy hint of cream cheese to balance out all the chocolatey flavours.\n\nBe sure to head to #TheMarketplace and grab a bag of Waitrose & Partners Belgian Dark Chocolate, as this is the ideal chocolate to use as a base — not to sweet and not too bitter. It’s the perfect canvas to all the sweeter paraphernalia that make these truffles simply the best.\n\nServing Time: 1 hour\nYield: 18 truffles\n\nIngredients\n\n⅔ cup cream cheese, softened\n3 tbsps. condensed milk\n3 cups crushed Oreo cookies\n1 pack Waitrose & Partners Belgian Dark Chocolate, chopped\n2 tbsps. rainbow sprinkles\n\nProcedure\n\n1. In a large bowl, beat together cream cheese, condensed milk, and crushed Oreo cookies. Mix until it forms a dough. \n2. Use a small ice cream scooper to create evenly-sized balls, and place on a lined baking tray. Refrigerate until firm, about 30 minutes.\n3. Using a double boiler, melt Waitrose Belgian Dark Chocolate. \n4. Coat Oreo truffles with melted dark chocolate and top with rainbow sprinkles.\n5. Chill until the dark chocolate sets, about 15 minutes.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Waitrose & Partners Belgian Dark Chocolate",
-      "1 pack Waitrose & Partners Belgian Dark Chocolate, chopped",
-      "Waitrose Belgian Dark Chocolate"
+      "Waitrose & Partners",
+      "Waitrose"
     ],
     "recipe": {
       "servingTime": "1 hour",
@@ -209,8 +202,7 @@ const BACK_TO_SCHOOL_PHOTOS_DATA = [
     "campaign": "BACK TO SCHOOL",
     "caption": "This might just be the best homemade matcha drink you’ve ever made.\n\nUsing Natura Vanilla Almond Milk that you can find at #TheMarketplace, this Mango Matcha Latte blends together the earthy flavors of Japanese matcha and the tropical flavors of mangoes. Delightful, sweet, and so refreshing, you’ll want to reach out for this beverage once a day. Sit back, relax, and enjoy!\n\nServing Time: 5 minutes\nYield: 1 serving\n\nIngredients\n\n1 cup Natura Vanilla Almond Milk\n1 1/2 tsps. matcha powder\n1/4 cup fresh or frozen mango, pureed\n1/2 tsp. Sugar\nIce cubes\n\nProcedure\n\n1. Start by heating the Natura Vanilla Almond Milk. You can either do this on the stovetop or in the microwave. If you're heating it on the stovetop, bring it to a simmer over medium heat. If you're microwaving it, heat it in 30-second intervals, stirring in between, until it's just heated through.\n2. While the almond milk is heating up, combine the matcha powder, mango puree, and sugar in a small bowl. Whisk until smooth.\n3. Once the almond milk is heated, add it to the matcha mixture and stir until well combined.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Natura Vanilla Almond Milk",
-      "1 cup Natura Vanilla Almond Milk"
+      "Natura"
     ],
     "recipe": {
       "servingTime": "5 minutes",
@@ -235,8 +227,7 @@ const BACK_TO_SCHOOL_PHOTOS_DATA = [
     "campaign": "BACK TO SCHOOL",
     "caption": "Everyone could use a cupcake once in a while — especially when days get a bit hectic.\n\nThese Chocolate Pretzel Peanut Butter Cupcakes are sure to impress with their moist base, sweet nutty frosting, and a salty-sweet chocolate pretzel sitting on top. We used Nature’s Garden Milk Chocolate Pretzels, by the way! Best enjoyed with a cold glass of milk or coffee.\n\nFind Nature’s Garden Milk Chocolate Pretzels, along with all the other ingredients that you need for these cupcakes, at #TheMarketplace!\n\nServing Time: 1 hour\nYield: 12 cupcakes\n\nIngredients\n\nFOR THE CUPCAKES:\n2 cups all-purpose flour\n1 tsp. baking soda\n1/2 tsp. salt\n1 cup granulated sugar\n1 cup packed light brown sugar\n1/2 cup unsalted butter, softened\n2 large eggs\n1 tsp. vanilla extract\n1/2 cup peanut butter\n1/2 cup milk chocolate chips\n\nFOR THE FROSTING:\n1 cup unsalted butter, softened\n3 cups powdered sugar\n1 tsp. vanilla extract\n1/4 cup milk\n\nFOR THE TOPPINGS:\n1/2 cup peanut butter\n1/4 cup powdered sugar\n1/4 cup milk\n2 (100g) packs Nature’s Garden Milk Chocolate Pretzels\n\nProcedure\n\nFOR THE CUPCAKES:\n1. Preheat oven to 175C. Line a muffin pan with paper liners.\n2. In a medium bowl, whisk together flour, baking soda and salt.\n3. In a large bowl, cream together the granulated sugar, brown sugar, and butter until light and fluffy. Beat in the eggs one at a time, then stir in the vanilla extract. Beat in the peanut butter until well combined.\n4. Gradually beat in the dry ingredients until just combined. Stir in the milk chocolate chips.\n5. Fill the prepared muffin cups 2/3 full. Bake for 20-25 minutes, or until  a toothpick inserted into the center comes out clean. Let cool completely in the pan before frosting.\nFOR THE FROSTING AND TOPPINGS:\n1. In a large bowl, cream together the butter and powdered sugar until light and fluffy. Beat in the vanilla extract and milk until frosting reaches desired consistency.\n2. In a small bowl, whisk together the peanut butter, powdered sugar, and milk until smooth.\n3. Frost the cooled cupcakes. Drizzle with peanut butter drizzle, and top with Nature’s Garden Milk Chocolate Pretzels. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Nature’s Garden Milk Chocolate Pretzels",
-      "2 (100g) packs Nature’s Garden Milk Chocolate Pretzels"
+      "Nature’s Garden"
     ],
     "recipe": {
       "servingTime": "1 hour",
@@ -261,7 +252,7 @@ const BACK_TO_SCHOOL_PHOTOS_DATA = [
     "campaign": "BACK TO SCHOOL",
     "caption": "Known as a nutrition superstar, Kale boasts a cocktail of vitamins and minerals such as vitamins A, B6, C, K, folate, fiber, carotenoids, manganese, and may more. \n\nHowever, kale might not be everyone’s favorite leafy green, and that’s why you need to head to #TheMarketplace today and grab bottles of Sommer Naturals Hail Kale, which incorporates the goodness and kale with a refreshing blend of fruit juices.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Sommer Naturals Hail Kale"
+      "Sommer Naturals"
     ],
     "recipe": null,
     "photo": {
