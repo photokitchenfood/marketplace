@@ -61,5 +61,6 @@ const SHOP_COLLECT_VIDEOS_DATA = [
     "needsPhotoSwap": true
   }
 ];
+SHOP_COLLECT_VIDEOS_DATA.dropboxUrl = "https://www.dropbox.com/scl/fo/071jwnhj2wqfz474yd8jm/AJGXn1h2OgXfc4YuQ5O7z5Q?rlkey=gotl514fv27infk52xolp2o1a&st=ysajgi2c&dl=0";
 
 if (typeof window !== 'undefined') window.__recipesData = SHOP_COLLECT_VIDEOS_DATA;
