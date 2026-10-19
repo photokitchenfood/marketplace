@@ -886,6 +886,87 @@ const RECIPES_INDEX = [
     "count": 9
   },
   {
+    "id": "2308-Wagyu-Festival-Videos",
+    "label": "Wagyu Festival (Videos)",
+    "type": "video",
+    "year": 2023,
+    "month": 8,
+    "file": "recipes/2308-Wagyu-Festival-Videos.js",
+    "count": 1
+  },
+  {
+    "id": "2308-Wagyu-Festival-Photos",
+    "label": "Wagyu Festival (Photos)",
+    "type": "photo",
+    "year": 2023,
+    "month": 8,
+    "file": "recipes/2308-Wagyu-Festival-Photos.js",
+    "count": 1
+  },
+  {
+    "id": "2308-Dish-of-the-Month",
+    "label": "Dish of the Month",
+    "type": "photo",
+    "year": 2023,
+    "month": 8,
+    "file": "recipes/2308-Dish-of-the-Month.js",
+    "count": 2
+  },
+  {
+    "id": "2308-Breakfast-Fair",
+    "label": "Breakfast Fair",
+    "type": "photo",
+    "year": 2023,
+    "month": 8,
+    "file": "recipes/2308-Breakfast-Fair.js",
+    "count": 16
+  },
+  {
+    "id": "2308-Back-to-School-Videos",
+    "label": "Back to School (Videos)",
+    "type": "video",
+    "year": 2023,
+    "month": 8,
+    "file": "recipes/2308-Back-to-School-Videos.js",
+    "count": 2
+  },
+  {
+    "id": "2308-Back-to-School-Photos",
+    "label": "Back to School (Photos)",
+    "type": "photo",
+    "year": 2023,
+    "month": 8,
+    "file": "recipes/2308-Back-to-School-Photos.js",
+    "count": 11
+  },
+  {
+    "id": "2308-August-IG",
+    "label": "August IG",
+    "type": "photo",
+    "year": 2023,
+    "month": 8,
+    "file": "recipes/2308-August-IG.js",
+    "count": 7
+  },
+  {
+    "id": "2308-Asian-Festival-Videos",
+    "label": "Asian Festival (Videos)",
+    "type": "video",
+    "year": 2023,
+    "month": 8,
+    "file": "recipes/2308-Asian-Festival-Videos.js",
+    "count": 1
+  },
+  {
+    "id": "2308-Asian-Festival-Photos",
+    "label": "Asian Festival (Photos)",
+    "type": "photo",
+    "year": 2023,
+    "month": 8,
+    "file": "recipes/2308-Asian-Festival-Photos.js",
+    "count": 8
+  },
+  {
     "id": "2307-July-IG",
     "label": "July IG",
     "type": "photo",
