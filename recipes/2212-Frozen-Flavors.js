@@ -13,7 +13,6 @@ const FROZEN_FLAVORS_DATA = [
     "campaign": "FROZEN FLAVORS",
     "caption": "Keep cool in this sweater weather with this Strawberry Matcha Affogato made with Grom Strawberry Gelato!\n\nWhat’s great about affogatos is not only does the ice cream add a sweet touch, but it also adds a creamy element! The balance of the sweet and tangy strawberry gelato and earthy matcha creates a beverage dessert that’s reminiscent of slow days in Japan.\n\nFind Grom Gelato and other ice cream brands only at #TheMarketplace!\n\nServing Time: 3 minutes\nYield: 1 serving\n\nIngredients\n\n1 tbsp. ceremonial grade matcha powder \n¼ cup warm water \n2 scoops Grom Strawberry Gelato\n\nProcedure\n\n1. Whisk together matcha powder and warm water until smooth. \n2. Place scoops of Grom Strawberry Gelato in a serving glass. \n3. When ready to eat, pour over matcha espresso over the gelato. Consume immediately. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Grom Strawberry GelatoProcedure",
       "Grom Strawberry Gelato",
       "Grom Gelato Strawberry"
     ],
@@ -140,7 +139,6 @@ const FROZEN_FLAVORS_DATA = [
     "campaign": "FROZEN FLAVORS",
     "caption": "Make these super-easy and super-yummy Cookies & Cream Crepes with Nestle Temptations Ice Cream Extra Creamy Cookies & Cream!\n\nThe secret to making the perfect crepes is to keep an eye out for them. This crepe batter contains cacao in it, too, for an even chocolatier touch to contrast the vanilla-based ice cream. Have this any time of the day — even breakfast — for a light yet sweet treat. All the ingredients you need for this recipe are available at #TheMarketplace!\n\nServing Time: 40 minutes\nYield: 3-5 servings\n\nIngredients\n\n1 cup flour \n2 tbsps. cocoa powder \nPinch of salt \n¼ cup. butter, melted \n2 eggs \n¾ cup milk \n¾ cup water\n3 scoops Nestle Temptations Ice Cream Extra Creamy Cookies & Cream\n\nProcedure\n\n1. Whisk together flour, cocoa powder, salt, 2 tbsps. butter, eggs, milk and water until smooth. \n2. Use remaining butter for greasing a non-stick pan over medium heat. \n3. Add ¼ cup of the crepe batter, then immediately swirl to spread. Cook for 2-3 minutes, or until bubbles begin to form. Flip, then cook for another 1 minute. Repeat until you finish the batter. \n4. To serve, top folded crepes with Nestle Temptations Ice Cream Extra Creamy Cookies & Cream",
     "brand": [
-      "Nestle Temptations Ice Cream Extra Creamy Cookies & CreamProcedure",
       "Nestle Temptations Ice Cream Extra Creamy Cookies & Cream"
     ],
     "recipe": {
@@ -208,8 +206,7 @@ const FROZEN_FLAVORS_DATA = [
     "campaign": "FROZEN FLAVORS",
     "caption": "One of the best feelings ever is being able to conjure something special from ingredients that you have in your pantry or fridge. If you have some graham crackers, yoghurt, and a tub of Ben & Jerry’s Strawberry Cheesecake Ice Cream, then you have everything you need to make this Strawberry Cheesecake Parfait that’s bursting with sweet, tangy, and fruity flavors!\n\nWould you believe it takes less than 15 minutes to prepare? Get scooping and try this recipe out with other Ben & Jerry’s ice cream flavors that you can easily find at #TheMarketplace!\n\nServing Time: 12 minutes\nYield: 3-4 servings\n\nIngredients\n\n1 cup graham cracker crumbs \n1 tbsp. white sugar \n½ tsp. salt\n3 tbsps. butter, melted\n1 (458 mL) tub Ben & Jerry’s Strawberry Cheesecake Ice Cream\n¼ cup strawberry yoghurt\n¼ cup strawberries, diced\n\nProcedure\n\n1. Combine graham cracker crumbs, sugar, salt and butter until sandy in texture.\n2. Cream together 2 scoops of Ben & Jerry’s Strawberry Cheesecake Ice Cream with strawberry yoghurt until smooth. Chill until ready to use. \n3. In a serving glass, add half of the graham crumbs, topped with the creamed Ben & Jerry’s Strawberry Cheesecake Ice Cream mixture. Top with remaining graham crumbs, strawberries and 3 scoops of Ben & Jerry’s Strawberry Cheesecake Ice Cream.",
     "brand": [
-      "Ben & Jerry’s Strawberry Cheesecake Ice Cream",
-      "Procedure1"
+      "Ben & Jerry’s Strawberry Cheesecake Ice Cream"
     ],
     "recipe": {
       "servingTime": "12 minutes",
@@ -277,7 +274,6 @@ const FROZEN_FLAVORS_DATA = [
     "campaign": "FROZEN FLAVORS",
     "caption": "For your next K-drama binge, try this refreshing Melona Soju Cocktail, made of course with everybody’s favorite K-ice cream: Melona!\n\nWhat mellows out the alcoholic flavor from the soju is a splash of lemon-lime soda, plus it adds some extra fun and fizz to this delicious cocktail! Remember to enjoy responsibly. Go ahead and experiment with other soju flavors as well! Get all the ingredients you need for this recipe at #TheMarketplace! \n\nServing Time: 3 minutes\nYield: 1 serving\n\nIngredients\n\n2 shots soju, chilled\n¾ cup lemon lime soda, chilled\n1 pack Binggrae Melona Melon Ice Cream Bar\n\nProcedure\n\n1. In a glass, add soju and lemon lime soda. \n2. Finish off with Binggrae Melona Melon Ice Cream Bar, and consume immediately.",
     "brand": [
-      "Binggrae Melona Melon Ice Cream BarProcedure",
       "Binggrae Melona Melon Ice Cream Bar"
     ],
     "recipe": {
@@ -303,7 +299,6 @@ const FROZEN_FLAVORS_DATA = [
     "campaign": "FROZEN FLAVORS",
     "caption": "Love Black Forest cake? Then you’ll certainly enjoy this Black Forest Sundae made with Bulla Creamy Classics Chocolate Chip Real Ice Cream.\n\nBulla takes pride in describing their ice cream as “real” since it’s made from fresh milk and cream. Bulla Chocolate Chip ice cream, cherries, cookies, and whipped cream are all you need to turn this into a satisfying sundae. If you happen to have some cherry liquor (Kirsch) lying around, then feel free to add a splash or two. Head over to #TheMarketplace now and get all the ingredients you need for this recipe today!\n\nServing Time: 3 minutes\nYield: 1 serving\n\nIngredients\n\n¼ cup chocolate cookies, crushed \n½ cup whipped cream \n¼ cup cherries, sliced \n1 scoop Bulla Creamy Classics Chocolate Chip Real Ice Cream \n\nProcedure\n\nIn a sundae glass, add half of the crushed chocolate cookies. Top with half of the whipped cream, then the cherries, another layer of chocolate cookies, whipped cream and finally--a scoop of Bulla Creamy Classics Chocolate Chip Real Ice Cream.",
     "brand": [
-      "Bulla Creamy Classics Chocolate Chip Real Ice Cream Procedure",
       "Bulla Creamy Classics Chocolate Chip Real Ice Cream"
     ],
     "recipe": {

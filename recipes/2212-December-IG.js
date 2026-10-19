@@ -116,7 +116,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "DEC IG & FB",
     "caption": "Add a milky twist to the traditional mango float in this recipe for Graham de Leche made with Dizon Leche Flan!\n\nSilky, smooth, and bursting with rich, caramel flavors, Dizon Leche Flan not only serves as a holiday dessert centrepiece, but also the star of this dessert where the tropical flavors of mango and creamy textures of leche flan collide. Make this for your holiday spread — it’s a dessert that your guests will keep talking about. Find Dizon Leche Flan and all the ingredients you need for this sweet treat at #TheMarketplace!\n\nServing Time: 2 hours\nYield: 4-6 servings\n\nIngredients\n\n3 cups whipping cream, chilled \n1 ½ cups condensed milk\n1 tbsp. vanilla \n2 cups diced mangoes \n16 pcs. graham crackers \n1 Dizon Leche Flan\n\nProcedure\n\n1. Whip together cream, condensed milk and vanilla until medium peaks form. \n2. In a serving tray, arrange graham crackers in a single layer. Top with half of the cream mixture and half of the mangoes. Repeat for another layer. \n3. Add Dizon Leche Flan in the middle. \n4. Chill for at least 1 hour before serving.",
     "brand": [
-      "1 Dizon Leche FlanProcedure",
+      "1 Dizon Leche Flan",
       "Dizon Leche Flan"
     ],
     "recipe": {
