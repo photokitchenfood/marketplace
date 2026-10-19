@@ -1,6 +1,6 @@
 // PhotoKitchen Recipes Index
 // Auto-generated — do not edit manually
-// Last updated: 2026-10-16
+// Last updated: 2026-10-19
 
 const RECIPES_INDEX = [
   {
@@ -884,6 +884,24 @@ const RECIPES_INDEX = [
     "month": 1,
     "file": "recipes/2401-Australian-Festival-Photos.js",
     "count": 9
+  },
+  {
+    "id": "2301-January-IG-FB",
+    "label": "January IG & FB",
+    "type": "photo",
+    "year": 2023,
+    "month": 1,
+    "file": "recipes/2301-January-IG-FB.js",
+    "count": 8
+  },
+  {
+    "id": "2301-Australian-Festival",
+    "label": "Australian Festival",
+    "type": "photo",
+    "year": 2023,
+    "month": 1,
+    "file": "recipes/2301-Australian-Festival.js",
+    "count": 10
   }
 ];
 
