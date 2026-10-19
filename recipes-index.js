@@ -904,13 +904,22 @@ const RECIPES_INDEX = [
     "count": 4
   },
   {
-    "id": "2306-June-IG-Addendum",
-    "label": "June IG Addendum",
+    "id": "2306-Milkiest-Day",
+    "label": "Milkiest Day",
     "type": "photo",
     "year": 2023,
     "month": 6,
-    "file": "recipes/2306-June-IG-Addendum.js",
-    "count": 2
+    "file": "recipes/2306-Milkiest-Day.js",
+    "count": 4
+  },
+  {
+    "id": "2306-June-IG",
+    "label": "June IG",
+    "type": "photo",
+    "year": 2023,
+    "month": 6,
+    "file": "recipes/2306-June-IG.js",
+    "count": 8
   },
   {
     "id": "2306-International-Sushi",
@@ -920,6 +929,15 @@ const RECIPES_INDEX = [
     "month": 6,
     "file": "recipes/2306-International-Sushi.js",
     "count": 2
+  },
+  {
+    "id": "2306-Fathers-Day",
+    "label": "Fathers Day",
+    "type": "photo",
+    "year": 2023,
+    "month": 6,
+    "file": "recipes/2306-Fathers-Day.js",
+    "count": 3
   },
   {
     "id": "2305-Mothers-Day",
