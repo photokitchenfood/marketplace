@@ -886,6 +886,60 @@ const RECIPES_INDEX = [
     "count": 9
   },
   {
+    "id": "2310-TMP-Anniversary-Videos",
+    "label": "TMP Anniversary (Videos)",
+    "type": "video",
+    "year": 2023,
+    "month": 10,
+    "file": "recipes/2310-TMP-Anniversary-Videos.js",
+    "count": 2
+  },
+  {
+    "id": "2310-TMP-Anniversary-Photos",
+    "label": "TMP Anniversary (Photos)",
+    "type": "photo",
+    "year": 2023,
+    "month": 10,
+    "file": "recipes/2310-TMP-Anniversary-Photos.js",
+    "count": 7
+  },
+  {
+    "id": "2310-Pet-Month",
+    "label": "Pet Month",
+    "type": "photo",
+    "year": 2023,
+    "month": 10,
+    "file": "recipes/2310-Pet-Month.js",
+    "count": 4
+  },
+  {
+    "id": "2310-October-IG",
+    "label": "October IG",
+    "type": "photo",
+    "year": 2023,
+    "month": 10,
+    "file": "recipes/2310-October-IG.js",
+    "count": 9
+  },
+  {
+    "id": "2310-International-Coffee-Day",
+    "label": "International Coffee Day",
+    "type": "photo",
+    "year": 2023,
+    "month": 10,
+    "file": "recipes/2310-International-Coffee-Day.js",
+    "count": 3
+  },
+  {
+    "id": "2310-Halloween",
+    "label": "Halloween",
+    "type": "photo",
+    "year": 2023,
+    "month": 10,
+    "file": "recipes/2310-Halloween.js",
+    "count": 6
+  },
+  {
     "id": "2309-World-of-Wine",
     "label": "World of Wine",
     "type": "photo",
