@@ -12,7 +12,9 @@ const DISH_OF_THE_MONTH_DATA = [
     "categoryConfidence": "low",
     "campaign": "DISH OF THE MONTH",
     "caption": "#TheMarketplace is also home to a wide variety of ready-to-eat meals that are both satisfying and wallet-friendly.\n\nTake this Ratatouille, for example, that’s loaded with delicious vegetables and is cooked to perfection with garlic and herbs. Have a tray on standby for those days when you don’t feel like cooking, or bring them along to barbecues and potlucks as well. Enjoy!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": null,
     "photo": {
       "filename": "DOTM.jpg",

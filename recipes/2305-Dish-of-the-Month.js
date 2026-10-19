@@ -13,7 +13,7 @@ const DISH_OF_THE_MONTH_DATA = [
     "campaign": "DISH OF THE MONTH",
     "caption": "Here’s a twist on a classic pasta dish! Available at #TheMarketplace, this grab-and-go Mexican Chicken Chili Lasagna is definitely a lighter alternative to the classic Italian one.\n\nUsing chicken and packed with delicious and punchy Mexican flavors, it’s the perfect dish to unwind with after a long day.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Mexican Chicken Chili Lasagna"
+      "! Generic"
     ],
     "recipe": null,
     "photo": {

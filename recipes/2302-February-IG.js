@@ -13,8 +13,7 @@ const FEBRUARY_IG_DATA = [
     "campaign": "FEB IG & FB",
     "caption": "Turn your mornings into a Mexican fiesta with these Breakfast Sausage Burritos made with Butterball All-Natural Turkey Breakfast Sausage Patties!\n\nNaturally less in fat because of the use of turkey, these come with a peppery kick, mellowed out with eggs, sour cream, and cheese.\n\nHead over now to #TheMarketplace and stock up on Butterball Sausage Patties!\n\nServing Time: 30 minutes\nYield: 1 serving\n\nIngredients\n\n3 pcs. Butterball All-Natural Turkey Breakfast Sausage Patties\n2 tbsps. vegetable oil \n3 tbsps. red bell peppers, diced\n3 tbsps. green bell peppers, diced \nSalt and pepper to taste\n2 tbsps. butter \n2 pcs. eggs, whisked \n¼ cup sour cream \n1 tbsp. garlic, minced \n1 large tortilla\n½ cup sharp cheddar cheese, grated\n\nProcedure\n\n1. Crumble Butterball All-Natural Turkey Breakfast Sausage Patties into bite-sized chunks. Fry in vegetable oil until nicely browned, then set aside. \n2. In the same pan, sauté red and green bell peppers until soft. Season with salt and pepper. Set aside.\n3. Add in butter, then cook eggs until desired doneness. Season with salt and pepper. \n4. Combine sour cream and garlic. Season with salt and pepper. \n5. To assemble, spread garlic sour cream in the center of the tortilla. Top with scrambled eggs, crumbled sausage and sauteéd bell peppers. Fold the sides over the filling, then roll tightly to secure into a burrito. \n6. Top with cheddar cheese, then broil for 5 minutes. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "3 pcs. Butterball All-Natural Turkey Breakfast Sausage Patties",
-      "Butterball All-Natural Turkey Breakfast Sausage Patties"
+      "Butterball"
     ],
     "recipe": {
       "servingTime": "30 minutes",
@@ -39,8 +38,7 @@ const FEBRUARY_IG_DATA = [
     "campaign": "FEB IG & FB",
     "caption": "We’re all familiar with the Philly Cheesesteak Sandwich, but have you tried a Pinoy Style Cheesesteak Sandwich?\n\nUsing Rosa Bistek Tagalog, the classic cheesesteak gets that familiar tangy taste that we Filipinos love. Sandwiched into a baguette and garnished with cilantro, tomatoes, garlic, and cheese, this is a must-try sandwich that many will love. Get all the ingredients that you need for this recipe at #TheMarketplace!\n\nServing Time: 20 minutes\nYield: 6 servings\n\nIngredients\n\n3 tbsps. vegetable oil\n1 pack Rosa Bistek Tagalog \n2 tbsps. garlic minced\n1 cup tomatoes, deseeded and sliced \n½ cup cilantro, chopped \n3 pcs. Baguette\n¼ cup butter, softened\n18 pcs. sandwich cheese slices\n\nProcedure\n\n1. Fry Rosa Bistek Tagalog in vegetable oil until cooked through. Mix in garlic and tomatoes, then sauté for 1-2 minutes. Turn off heat, then mix in cilantro.\n2. Preheat oven to 180C. Divide each baguette into 2, making a total of 6 baguette halves. Slice each open. \n3. Brush butter inside each baguette. Top with 3 sandwich cheese slices per baguette half, then add a generous serving of the sauteéd Rosa Bistek Tagalog. \n4. Bake for 8-10 minutes. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "1 pack Rosa Bistek Tagalog",
-      "Rosa Bistek Tagalog"
+      "Rosa"
     ],
     "recipe": {
       "servingTime": "20 minutes",
@@ -64,7 +62,9 @@ const FEBRUARY_IG_DATA = [
     "categoryConfidence": "low",
     "campaign": "FEB IG & FB",
     "caption": "If you have a busy week ahead, then head over to #TheMarketplace and stock up on Our Kitchen ready-to-eat meals, such as this Baked Macaroni!\n\nThere’s nothing like a sumptuous meal to warm the soul after a long day, and Our Kitchen’s meals deliver that homecooked touch in an instant.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FB1.jpg",
@@ -82,8 +82,7 @@ const FEBRUARY_IG_DATA = [
     "campaign": "FEB IG & FB",
     "caption": "Have a hankering for some cheesy comfort food? Get cooking and prepare this Herbed Cheddar Cannelloni made with Rogue’s Creamery Herbed Cheese!\n\nWhat we love about this herbed cheese is that it packs not only the richness of cheese, but also the herbs that add an extra punch and character. Grab your Rogue’s Creamery Herbed Cheese, which comes in many variants, at #TheMarketplace!\n\nServing Time: 20 minutes\nYield: 2-3 servings\n\nIngredients\n\n3 tbsps. butter\n3 tbsps. flour\n2 cups full cream milk\n1 pack Rogue’s Creamery Herbed Cheese, grated\n½ tsp. nutmeg \n1 tsp. thyme \nSalt and pepper to taste\n250g cannelloni, cooked al dente \n½ cup mozzarella cheese, grated\n\nProcedure\n\n1. Melt butter in a saucepan. Mix in flour, and toast until the color deepens. Slowly whisk in milk until smooth and creamy. \n2. Mix in Rogue’s Creamy Herbed Cheese, nutmeg and thyme. Season with salt and pepper. \n3. Let cream mixture slightly cool. Preheat oven to 180C. \n4. Transfer cream mixture into a piping bag, then fill each cannelloni with it.\n5. Add a layer of cream mixture in the bottom of a baking dish, then position filled cannelloni pieces upright. Top with more cream mixture and mozzarella.\n6. Broil for 6-8 minutes. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "1 pack Rogue’s Creamery Herbed Cheese, grated",
-      "Rogue’s Creamy Herbed Cheese"
+      "Rogue's Creamery"
     ],
     "recipe": {
       "servingTime": "20 minutes",
@@ -107,7 +106,9 @@ const FEBRUARY_IG_DATA = [
     "categoryConfidence": "medium",
     "campaign": "FEB IG & FB",
     "caption": "Looking for an effective bleach that not only kills bacteria but also cares for your colored clothes? Zonrox Color-Safe Bleach is your answer.\n\nAffordable, effective, gentle, and fresh-smelling, Zonrox Color-Safe Bleach is a must-have laundry essential in every home. Find it at #TheMarketplace, along with other laundry needs.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Zonrox"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FB3.jpg",

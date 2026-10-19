@@ -13,9 +13,7 @@ const FEAST_FROM_THE_SEA_DATA = [
     "campaign": "FEAST FROM THE SEA",
     "caption": "In the mood for something meaty yet light? Grab some Cold Storage Salmon Steaks from #TheMarketplace and prepare this Seared Salmon with Tomato-Corn Salsa for dinner this week!\n\nSeasoned with paprika, cumin, and oregano, this salmon dish is bursting with tons of flavor and healthy goodness. Don’t forget to enjoy it with some tomato-corn salsa on the side!\n\nServing Time: 30 minutes\nYield: 4-5 servings\n\nIngredients\n\n1 tsp. paprika\n½ tsp. cumin\n½ tsp. oregano\n1 pack Cold Storage Salmon Steak\nSalt and pepper to taste\n3 tbsps. olive oil\n1 cup corn kernels\n1 cup tomato, diced\n⅔ cup red onions, diced\n1 tbsp. lime juice\n⅛ cup cilantro sprigs\n½ cup lime wedges\n\nProcedure\n\n1. In a small bowl, combine paprika, cumin and oregano. Set aside.\n2. Pat dry Cold Storage Salmon Steak with paper towels. Season with salt, pepper and premade seasoning.\n3. Set a non-stick pan over medium heat. Add olive oil, and sear seasoned salmon steak for 3 minutes on each side, or until nicely browned and cooked through. \n4. In an another bowl, combine corn kernels, tomatoes, red onions and lime juice. Season with salt and pepper.\n5. To assemble, add a bed of corn salsa on a plate and place cooked salmon on top. Garnish with cilantro sprigs and lime wedges.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Cold Storage Salmon Steaks",
-      "1 pack Cold Storage Salmon Steak",
-      "Cold Storage Salmon Steak"
+      "Cold Storage"
     ],
     "recipe": {
       "servingTime": "30 minutes",
@@ -40,8 +38,7 @@ const FEAST_FROM_THE_SEA_DATA = [
     "campaign": "FEAST FROM THE SEA",
     "caption": "If you have a hankering for a bowl of comfort, try your hand at making this Coconut Cream Poached Sea Bass with Pacific Bay Chilean Sea Bass Steak.\n\nFilled to the brim with the comforting Asian flavors of coconut, fish sauce, lime, lemongrass, and garlic, enjoy this dish to your heart’s content! Find your favorite Pacific Bay seafood products at #TheMarketplace.\n\nServing Time: 20-25 minutes\nYield: 3-4 servings\n\nIngredients\n\n2 cups coconut cream\n1 tbsp. brown sugar\n2 tbsps. fish sauce\n2 tbsps. lime juice\n1 tbsp. lime zest\n5 cloves garlic, minced\n1 red onion, diced\n2 tbsps. lemongrass, chopped\n3 pcs. red chilies, chopped\n1 pack Pacific Bay Chilean Sea Bass Steak, sliced\n2 cups bok choy\nSalt and pepper to taste\n⅛ cup coconut flakes, toasted\n\nProcedure\n\n1. In a saucepan, combine coconut cream, brown sugar, fish sauce, lime juice, lime zest, garlic, onions, lemongrass and red chilies. Let simmer over low heat.\n2. Pat dry Pacific Bay Chilean Sea Bass Steak, then add into the simmering coconut sauce. Poach for 8-10 minutes.\n3. Add in bok choy, and season with salt and pepper. Simmer for another 3 minutes. \n4. Transfer to a serving dish, and garnish with toasted coconut flakes.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Pacific Bay Chilean Sea Bass Steak",
-      "1 pack Pacific Bay Chilean Sea Bass Steak"
+      "Pacific Bay"
     ],
     "recipe": {
       "servingTime": "20-25 minutes",
@@ -66,9 +63,7 @@ const FEAST_FROM_THE_SEA_DATA = [
     "campaign": "FEAST FROM THE SEA",
     "caption": "Inspired by a popular Chinese fast-food chain bestseller, this Honey Walnut Shrimp can be easily prepared at home with the help of Mik Large Suahe, which you could find fresh at #TheMarketplace!\n\nThe sweet-savory and umami-packed combination of butter, honey, and soy sauce, along with the smokiness of toasted walnuts, is enough for this dish to merit second or third servings. It really is as delicious as it sounds. Try it out and let us know how you like it in the comments section below!\n\nServing Time: 40 minutes\nYield: 3-4 servings\n\nIngredients\n\n1 kg Mik Suahe Large, peeled \n1 tbsp. mirin\nSalt and pepper to taste\nVegetable oil for deep-frying\n1 cup potato starch\n¾ cup walnut\n⅛ cup butter\n⅔ cup honey\n1 tbsp. soy sauce\n4 cups rice, cooked\n1 tbsp. black sesame seeds\n¼ cup scallions, curled\n\nProcedure\n\n1. Marinate peeled Mik Suahe Large in mirin, salt and pepper. Cover and chill for 15 minutes.\n2. Preheat oil to 170°C.\n3. Coat peeled suahe with potato starch, then deep fry until lightly golden.\n4. Let cool for for 10 minutes, then refry at 190°C until golden brown and crispy. Set aside.\n5. In a dry pan, toast walnuts. Set aside.\n6. Using the same pan, combine butter, honey and soy sauce. Mix until thick and well combined. Remove from the heat, then toss in fried shrimp and toasted walnuts.\n7. Fill bowl with rice and top with black sesame seeds. Add Honey Walnut Shrimp on top. Garnish with curled scallions.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Mik Large Suahe",
-      "1 kg Mik Suahe Large, peeled",
-      "Mik Suahe Large"
+      "! Generic"
     ],
     "recipe": {
       "servingTime": "40 minutes",

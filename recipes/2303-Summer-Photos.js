@@ -13,8 +13,7 @@ const SUMMER_PHOTOS_DATA = [
     "campaign": "SUMMER",
     "caption": "Get ready to dig into a plate of comfort with this Corned Beef Tater Tots Casserole made with a classic pantry staple — Libby’s Black Corned Beef!\nLibby’s Black Corned Beef’s texture, especially when baked, becomes crunchy and crisp. Layered with tater tots and cheese, this 4-ingredient baked dish is nothing but divine. Enjoy with friends or save it for your next cheat day! Have it with some nacho chips as well, if you prefer. Get your cans of Libby’s Corned Beef at #TheMarketplace!\nServing Time: 25 minutes\nYield: 4 servings\n\nIngredients\n1 can (340g) Libby's Corned Beef Black\n1 cup frozen tater tots\n½ cup sharp cheddar cheese, shredded\nSpring onions to garnish\n\nProcedure\n1. Preheat oven to 200°C.\n2. Spread Libby's Corned Beef Black in a cast iron pan. Top with shredded sharp cheddar cheese and a layer of frozen tater tots.\n3. Bake for 20 mins. or until golden brown. Set aside to cool and garnish with spring onions.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "1 can (340g) Libby's Corned Beef Black",
-      "Libby's Corned Beef Black"
+      "Libby's"
     ],
     "recipe": {
       "servingTime": "25 minutes",
@@ -39,8 +38,7 @@ const SUMMER_PHOTOS_DATA = [
     "campaign": "SUMMER",
     "caption": "Typically made with bread, sliced cooked poultry, BLT, and mayo, a Clubhouse Sandwich is a classic combination that can be found in most diners.\nIn today’s recipe, we decided to add a Pinoy touch by using Purefoods Chicken Inasal as the poultry of choice to add a smoky, tangy touch. Who knew it would work so well in a Clubhouse Sandwich? Trust us, you’ll never have it the same way again. Check out Purefoods chicken products at #TheMarketplace, and get creative by trying out various styles in your sandwich!\nServing Time: 20 minutes\nYield: 4 sandwiches\n\nIngredients\n1 pack (360g) Purefoods Chicken Inasal\n2 eggs\n8 sandwich bread slices\n8 tbsps. Mayonnaise\n4 lettuce leaves\n4 cheese slices\n4 ham slices\n2 tomatoes, sliced\n1 tbsp. butter\nSalt and pepper to taste\n\nProcedure\n1. Cook Purefoods Chicken Inasal according to package instructions. Shred with a fork and set aside.\n2. Beat eggs and season with salt and pepper. In a nonstick pan over low-medium heat, melt butter and add eggs. Once the bottom is dry, flip to cook the other side. Slice the omelette into strips then toss with shredded Chicken Inasal.\n3. To assemble, toast bread slices and spread 1 tbsp. mayonnaise on top.\n4. On 4 bread slices, layer lettuce, cheese, ham, tomatoes, and Chicken Inasal with omelette. Top with remaining bread, mayo side facing down. Secure sandwiches with cocktail picks then slice in half diagonally.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "1 pack (360g) Purefoods Chicken Inasal",
-      "Purefoods Chicken Inasal"
+      "Purefoods"
     ],
     "recipe": {
       "servingTime": "20 minutes",
@@ -64,7 +62,9 @@ const SUMMER_PHOTOS_DATA = [
     "categoryConfidence": "low",
     "campaign": "SUMMER",
     "caption": "There are days when all we want is a bite of Magnum Ice Cream, but we often hold back because we feel that a Magnum is meant for a cheat or treat day.\nMagnum Mini is the answer to this dilemma. Available in various flavors — including everyone’s favorite — Almond — Magnum Mini is the perfect mini treat, without overindulging. Find it at #TheMarketplace’s frozen dessert section! \nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Magnum"
+    ],
     "recipe": null,
     "photo": {
       "filename": "SUM3.jpg",
@@ -82,8 +82,7 @@ const SUMMER_PHOTOS_DATA = [
     "campaign": "SUMMER",
     "caption": "Give your Nestlé Temptations ice cream a luscious upgrade with this recipe for Chocolate Ice Cream Tartufo!\nPrepare this for your next dinner party, or if you’re in the mood for an elevated dessert. We used chocolate ice cream for this, but feel free to try it out with other Nestlé Temptations ice cream flavors such as Vanilla or Double Dutch! Head over to #TheMarketplace and check out our selection of ice creams today.\nServing Time: 30 minutes\nYield: 2-4 servings\n\nIngredients\n4 scoops Nestle Temptations Extra Creamy Chocolate Ice Cream\n½ cup chocolate cookies, finely crushed\n½ cup semisweet chocolate, chopped\n1 tbsp. coconut oil\n2 Maraschino cherries\n\nProcedure\n1. Line 2 small bowls with cling wrap. Fill with Nestle Temptations Chocolate Ice Cream, pressing down with a spoon to pack tightly. Freeze for at least 20 mins.\n2. Meanwhile, melt chocolate with coconut oil in the microwave. Stir and set aside to cool to room temperature. In a separate bowl, place crushed cookies.\n3. Unmold ice cream onto a wire rack set over a tray. Pour melted chocolate over the ice cream to coat completely, and return to the freezer to set.\n4. Roll the frozen tartufo in cookie crumbs and cover completely. Transfer to a plate and top with Maraschino cherries.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "4 scoops Nestle Temptations Extra Creamy Chocolate Ice Cream",
-      "Nestle Temptations Extra Creamy Chocolate Ice Cream"
+      "Nestle Temptations"
     ],
     "recipe": {
       "servingTime": "30 minutes",
@@ -108,8 +107,7 @@ const SUMMER_PHOTOS_DATA = [
     "campaign": "SUMMER",
     "caption": "This Apple Cinnamon Gin Fizz, made with Casino Apple Juice, tastes exactly like apple pie…with a bit of a kick and fizz thanks to the addition of gin and some tonic water.\nThis concoction also works great as a mocktail, so if you’re not in the mood for hard spirits, feel free to skip the gin! It’s a great way to jazz up your regular apple juice, and perfect for the upcoming summer season. Head over to #TheMarketplace today and shop all the ingredients you need for this beverage!\nServing Time: 2 minutes\nYield: 1 glass\n\nIngredients\n½ cup Casino Apple Juice, chilled\n1 shot gin\n¼ cup tonic water\nIce\nCinnamon sugar to rim glass\nCinnamon stick, star anise, apple slices to garnish\n\nProcedure\n\n1. Rim a cocktail glass with cinnamon sugar and fill with ice.\n2. Pour Casino Apple Juice, gin, tonic water and stir. Garnish with apple slices, star anise, and a cinnamon stick.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "½ cup Casino Apple Juice, chilled",
-      "Casino Apple Juice"
+      "Casino"
     ],
     "recipe": {
       "servingTime": "2 minutes",
@@ -134,9 +132,7 @@ const SUMMER_PHOTOS_DATA = [
     "campaign": "SUMMER",
     "caption": "Feel like you need a bit of a detox? Make this refreshing Detox Matcha Iced Tea with El Corte Inglés Detox Refreshing Gluten-Free Juice, matcha powder, honey, lime, and mint!\nSit back, relax, and take slow sips of this invigorating beverage. Summer is here, and we are ready for it! Find El Corte Inglés juices at #TheMarketplace!\nServing Time: 5 minutes\nYield: 4 glasses\n\nIngredients\n4 cups El Corte Inglés Detox Refreshing Gluten-Free Juice\n4 tsps. unsweetened matcha powder\nHoney to taste\n2 cups ice\nLime slices and mint sprigs to garnish\n\nProcedure\n\n1. In a large pitcher, pour 1 cup of El Corte Inglés Detox Refreshing Gluten-Free Juice and add matcha powder. Mix with a frother until matcha is dissolved, then pour in the remaining juice. Stir in honey to taste.\n2. Pour into glasses filled with ice. Garnish with lime slices and mint sprigs before serving.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "4 cups El Corte Inglés Detox Refreshing Gluten-Free Juice",
-      "El Corte Inglés Detox Refreshing Gluten-Free Juice",
-      "Elcorteingles Detox Refreshing Gluten-Free Juice"
+      "El Corte Inglés"
     ],
     "recipe": {
       "servingTime": "5 minutes",
@@ -161,8 +157,7 @@ const SUMMER_PHOTOS_DATA = [
     "campaign": "SUMMER",
     "caption": "Love it or hate it, the sweet and savory pairing for potato chips and chocolate is here to stay.\nIn this recipe for Potato Chip Fudge, we combined two types of chocolate — bittersweet and semisweet —with some condensed milk and vanilla before topping them with Woolworths Original Stacked Chips and flaky sea salt. These are so addictive, you’ll keep craving more! Make this Potato Chip Fudge this weekend and get all the ingredients you need for this yummy treat at #TheMarketplace!\nServing Time: 75 minutes\nYield: 16 bars\n\nIngredients\n1 cup semisweet chocolate, chopped\n1 cup bittersweet chocolate, chopped\n1 can sweetened condensed milk\n1 tsp. vanilla extract\n1 pack (160g) Woolworths Original Stacked Chips, crushed\nFlaky sea salt to garnish\n\nProcedure\n1. Line an 8x8-inch baking pan with parchment.\n2. In a medium saucepan over low heat, stir bittersweet chocolate, semisweet chocolate, and condensed milk until melted and smooth. Remove from heat and add vanilla extract. \n3. Mix in crushed Woolworths Original Stacked Potato Chips, saving 2 tbsps. for the top. Pour fudge mixture into the lined baking pan and flatten to an even layer. Top with flaky salt and more crushed potato chips.\n4. Cover and chill for at least 1 hour. Once set, unmold from the baking pan and slice into 1-inch bars.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "1 pack (160g) Woolworths Original Stacked Chips, crushed",
-      "Woolworths Original Stacked Potato Chips"
+      "Woolworths"
     ],
     "recipe": {
       "servingTime": "75 minutes",

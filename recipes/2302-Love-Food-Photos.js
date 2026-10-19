@@ -13,9 +13,7 @@ const LOVE_FOOD_PHOTOS_DATA = [
     "campaign": "LOVE, FOOD",
     "caption": "Share the best kisses with those you love with these tangy-and-sweet Cherry Kiss Cookies made with Hershey’s Kisses!\n\nCherries and chocolate are a classic flavor combination that never goes out of style, and these cookies also have a nice tinge of red to celebrate the season of hearts.\n\n#TheMarketplace is home to a range of chocolates from both local and international brands, so shop your favorites today!\n\nServing Time: 18 minutes\nYield: 48 pieces\n\nIngredients\n\n1 cup butter, softened \n½ cup granulated white sugar\n½ cup granulated brown sugar \n⅛ tsp. salt \n2 tsps. maraschino cherry juice \n¼ tsp. vanilla extract \n2 cups all-purpose flour \n58 pcs. Hershey’s Kisses Classic, peeled\n\nProcedure\n\n1. Preheat oven to 175C. \n2. Cream together butter, sugars, salt, cherry juice and vanilla until smooth and creamy. Mix in flour until just combined. \n3. Roll into 1 inch balls, then arrange on a lined baking tray 2 inches apart. Bake for 8-10 minutes. \n4. Immediately after removing from the oven, top each with a Hershey’s Kiss.\n5. Melt remaining Hershey’s Kisses, then drizzle on top of the Cherry Kiss Cookies.  \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "58 pcs. Hershey’s Kisses Classic, peeled",
-      "Hershey’s Kiss",
-      "Hershey’s Kisses"
+      "Hershey's"
     ],
     "recipe": {
       "servingTime": "18 minutes",
@@ -40,7 +38,6 @@ const LOVE_FOOD_PHOTOS_DATA = [
     "campaign": "LOVE, FOOD",
     "caption": "An easy way to enjoy and share cake is by turning it into cake pops, and what better way to make the experience even more fun than with the use of Pocky Chocolate Sticks!\n\nMake these Chocolate Pocky Pops for that special someone this Valentine’s Day and say how much you care in the sweetest way! Head over to #TheMarketplace and grab all the ingredients you need to prepare this recipe!\n\nServing Time: 3 hours and 30 minutes\nYield: 16 cake pops\n\nIngredients\n\n1 ⅛ cups flour\n1 cup sugar\n⅓ cup cocoa powder\n1 tsp. baking soda\n½ tsp. salt\n2 eggs\n⅓ cup butter, melted\n1 tsp. vanilla extract\n½ cup warm water\n1 ½ cups chocolate frosting\n2 packs Pocky Chocolate\n2 cups dark chocolate, chopped\n½ cup red sprinkles\n½ cup sugar crystals\n¾ cup heart sprinkles\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. In a large bowl, combine flour, sugar, cocoa powder, baking soda and salt. Set aside.\n3. In another bowl, whisk together eggs, butter, vanilla extract and warm water until well combined. Add in dry mixture and, mix until smooth.\n4. Line an 8 inch baking pan with parchment paper and pour in cake batter. Bake for 24-26 minutes. Once cooked, chill for 15-20 minutes.\n5. Unmold cooled chocolate cake into a large bowl, then break apart and mash. Add chocolate frosting, and mix until it forms a dough. Use an ice cream scooper to form into balls. Refrigerate for at least 30 minutes.\n6. Insert Pocky stick into the center of each chilled cake balls. Freeze for another 10 minutes or until firm.\n7. Melt dark chocolate in a double boiler. Dip cake ball in melted chocolate until fully coated. Then coat with desired sprinkles. Place back on baking sheet and freeze for an hour of until it sets.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "2 packs Pocky Chocolate",
       "Pocky"
     ],
     "recipe": {
@@ -65,7 +62,9 @@ const LOVE_FOOD_PHOTOS_DATA = [
     "categoryConfidence": "low",
     "campaign": "LOVE, FOOD",
     "caption": "Running out of romantic ideas to impress your date?\n\nGrab one of these Mixed Deli Platters at #TheMarketplace, along with a bottle of bubbly, and you’re all set!\n\nIf you’re opting for “Galentines” with your girlfriends, this is also a perfect set to munch on with your gal pals as you play your favorite chick flick.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": null,
     "photo": {
       "filename": "LF3.jpg",
@@ -82,7 +81,9 @@ const LOVE_FOOD_PHOTOS_DATA = [
     "categoryConfidence": "low",
     "campaign": "LOVE, FOOD",
     "caption": "Get cozy around the table and enjoy this pre-made Cheese Platter from #TheMarketplace with your Valentine! Best enjoyed with some wine, this cheesy line-up makes a great appetizer before indulging in dinner. Light some candles, and you’re all set!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": null,
     "photo": {
       "filename": "LF4.jpg",
@@ -100,8 +101,7 @@ const LOVE_FOOD_PHOTOS_DATA = [
     "campaign": "LOVE, FOOD",
     "caption": "A great use of red wine, especially since the month of hearts calls for it, is in this recipe for Creamy Red Wine Spaghetti, made with Penfolds Koonunga Hill Cabernet Sauvignon and a touch of cream. Plus, you can sip on the extra wine as you dine!\n\nRed wine adds depth to this cream-based sauce as it brings out more of the aromatic flavors found in the garlic and basil. The toasted slivered almonds add a buttery touch! Grab all the ingredients you need for this romantic dinner at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 3-5 servings\n\nIngredients\n\n450g spaghetti noodles \nSalt to taste\n¼ cup olive oil \n10 cloves garlic, thinly sliced \n2 tsps. chili flakes \n2 cups Penfolds Koonunga Hill Cabernet Sauvignon\n¾ cup cream \n½ cup parmesan cheese, grated\n½ cup basil leaves\n½ cup slivered almonds, toasted  \n\nProcedure\n\n1. Par-boil spaghetti noodles in heavily salted water for 3 minutes, or until flexible. Save ½ cup pasta water. \n2. In a large pan, heat up olive oil for medium heat. Mix in garlic and chili flakes, and cook until lightly toasted. Add in Penfolds Koonunga Hill Cabernet Sauvignon, and bring to a boil. \n3. Mix in par-boiled spaghetti, and toss to coat. Continue to cook for 5 minutes, or until al dente. Add pasta water if needed. \n4. Mix in cream, half of the parmesan cheese and half of the basil leaves. Season with salt to taste. \n5. Top with remaining parmesan cheese, basil leaves and almonds when serving. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "2 cups Penfolds Koonunga Hill Cabernet Sauvignon",
-      "Penfolds Koonunga Hill Cabernet Sauvignon"
+      "Penfolds"
     ],
     "recipe": {
       "servingTime": "15 minutes",
@@ -126,8 +126,7 @@ const LOVE_FOOD_PHOTOS_DATA = [
     "campaign": "LOVE, FOOD",
     "caption": "If cooking is your love language, then try your hand at this Osso Buco with Polenta recipe made with Wolf Blass Platinum Shiraz.\n\nOsso Buco might seem like an intimidating dish to prepare, but it really is simple. All you need is a lot of love, patience, and a bottle of good wine (it also doesn’t hurt to take some sips in between!).\n\nMake it this Valentine’s Day and express yourself best with this delicious dish to remember. Head over to #TheMarketplace today and stock up on the ingredients below!\n\nServing Time: 3 hours\nYield: 2 servings\nTips (Optional): Serve over polenta.\n\nIngredients\n\n4 pcs. beef shanks, pat-dried \nSalt and pepper to taste \n3 tbsps. olive oil \n¼ cup carrots, diced \n¼ cup celery stalks, diced \n¼ cup white onions, diced \n2 tbsps. garlic, minced\n1 tbsp. tomato paste\n2 pcs. bay leaves \n1 tbsp. thyme leaves \n1 cup Wolf Blass Platinum Shiraz \n2 cups beef stock \n1 cup crushed tomatoes\n\nProcedure\n\n1. Season beef shanks with salt and pepper.  \n2. Preheat a Dutch oven over medium-high heat. Sear beef shanks in olive oil until nicely browned on both sides. Set aside. \n3. In the same pot, sweat carrots, celery and onions until soft. Mix in garlic, tomato paste, bay leaves and thyme. Cook until tomato paste deepens in color. \n4. Deglaze with Wolf Blass Platinum Shiraz. When ½ of the wine has reduced, mix in beef stock and crushed tomatoes.\n5. Bring to a simmer, then add in seared beef shanks. Cover and let cook over low heat for 1-2 hours, or until beef shanks are fork-tender. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "1 cup Wolf Blass Platinum Shiraz",
-      "Wolf Blass Platinum Shiraz"
+      "Wolf Blass"
     ],
     "recipe": {
       "servingTime": "3 hours",
@@ -152,8 +151,7 @@ const LOVE_FOOD_PHOTOS_DATA = [
     "campaign": "LOVE, FOOD",
     "caption": "Does your special someone love sweets? Make this KitKat Ice Cream Cake as a surprise treat this Valentine’s Day!\n\nThis easy-to-make ice cream cake makes use of everyone’s favorite KitKat, vanilla ice cream, toasted almond slivers, and red sprinkles since the occasion calls for it! Get all the ingredients you need for this love-filled dessert at #TheMarketplace!\n\nServing Time: 3 hours and 20 minutes\nYield: 6-8 servings\n\nIngredients\n\n1 cup chocolate cookies, crushed\n⅔ cup butter, melted\n6 pcs. 4F-Kitkat packs\n6 cups vanilla ice cream, softened\n2 tbsps. red sprinkles\n½ cup almond slivers, toasted\n\nProcedure\n\n1. In a bowl, combine crushed chocolate cookies and melted butter. Set aside.\n2. Line a loaf pan with parchment paper. Add a layer of Kitkat Fingers, then fill the loaf pan halfway full with vanilla ice cream. Repeat to create another layer. Finish with a layer of crushed chocolate cookies.\n3. Freeze for at least 3 hours. \n4. Remove from the loaf pan and top with red sprinkles. Cover the bottom edges with toasted almonds, and serve immediately.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "6 pcs. 4F-Kitkat packs",
-      "Kitkat Fingers"
+      "KitKat"
     ],
     "recipe": {
       "servingTime": "3 hours and 20 minutes",
@@ -178,7 +176,6 @@ const LOVE_FOOD_PHOTOS_DATA = [
     "campaign": "LOVE, FOOD",
     "caption": "Nutty, chocolatey, and oh-so-cheesy, these Cloud 9 Cheesecake Cups will put you in a dream-like state.\n\nThe tangy cheesecake base balances out the sweet candy bar, making these bite-sized treats perfect to give as presents to loved ones and friends, especially during this month of love. Head over to #TheMarketplace and get all the items you need to whip up this treat!\n\nServing Time: 2 hours\nYield: 16 pieces\n\nIngredients\n\n2 cups crushed graham\n¾ cup butter, melted\n1 tsp. salt\n1 ¼ cups cream cheese, softened\n¾ cup confectioners sugar\n1 cup whipping cream\n1 tsp. vanilla extract \n3 cups Cloud 9 Classic, chopped\n1 cup caramel fudge\n\nProcedure\n\n1. In a bowl, combine crushed grahams, butter and salt. \n2. Beat together cream cheese and confectioners sugar until smooth. Add in whipping cream and vanilla extract, then beat until medium peaks. \n3. Gently fold in 2 cups of chopped Cloud 9.\n4. Fill the bottom of a lined cupcake tray with graham mixture. Freeze for 10 minutes. \n5. Top with cream cheese mixture, then freeze for at least 1 hour. \n6. Top cheesecake cups with caramel fudge and remaining chopped Cloud 9.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "3 cups Cloud 9 Classic, chopped",
       "Cloud 9"
     ],
     "recipe": {
@@ -204,7 +201,6 @@ const LOVE_FOOD_PHOTOS_DATA = [
     "campaign": "LOVE, FOOD",
     "caption": "Love is in the air, so whip up this Maltesers Banoffee Pie for someone special to show them how much you care.\n\nThere’s nothing like a good ole banoffee pie, and the addition of chopped Maltesers makes it all the more special. The unique, malty crunch goes so well with the smooth and creamy banana-based pie.\n\nDrop by #TheMarketplace and shop for all the ingredients you need to make this recipe. Tell us what you think of it in the comments section below!\n\nServing Time: 3 hours and 45 minutes\nYield: 6-8 servings\n\nIngredients\n\n2 cups graham crackers, crushed\n2 tbsps. sugar\n1 cup butter, melted \n1 cup whipping cream\n½ cup confectioners sugar\n1 tsp. vanilla extract\n2 cups dulce de leche\n4 cups banana, sliced\n⅔ cup caramel fudge\n1 cup Maltesers, chopped\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. In a bowl, combines graham crackers, sugar and butter. Fill the sides and bottom of an 8-inch springform pan to form a crust. Bake for 10 minutes, then let cool.\n3. Using an electric mixer, beat together the whipping cream, confectioners sugar and vanilla until medium peaks form.\n4. Spread dulce de leche over the cooled graham crust. Top with an even layer of bananas, then cover with whipped cream. Top with caramel fudge and Maltesers. Refrigerate for at least 1 hour.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "1 cup Maltesers, chopped",
       "Maltesers"
     ],
     "recipe": {
@@ -230,8 +226,7 @@ const LOVE_FOOD_PHOTOS_DATA = [
     "campaign": "LOVE, FOOD",
     "caption": "Ferrero Rocher — the iconic Valentine’s Day chocolate.\n\nUsually encased in a heart-shaped box, we’ve taken the liberty of unwrapping our share of Ferrero chocolates and incorporating them into this Ferrero Chocolate Mousse Cake!\n\nThe result? Creamy and velvety mousse with hints of hazelnut crunch. It’s so good, you might want to consider making an additional cake for your personal stash.\n\nFind Ferrero Rocher, along with other chocolates that are perfect for Valentine’s Day, at #TheMarketplace!\n\nServing Time: 4 hours\nYield: 6-8 servings\n\nIngredients\n\n1 ⅔ cups chocolate cookies, crushed\n¾ cup butter, melted\n1 1/2 cups dark chocolate, chopped\n2 ¼ cups heavy cream\n1 tbsp. gelatin\n2 tbsp. water \n2 ½ cups heavy cream\n¾ cup confectioner’s sugar\n14 pcs. Ferrero Chocolate\n1 cup white roses royal icing topper\n¼ cup red roses royal icing topper\n2 tbsp. sugar crystal\n\nProcedure\n\n1. Combine chocolate cookies and butter. Fill the bottom of an 8-inch springform pan with the cookie mixture, and press it in to form a crust. Chill for 30 minutes.\n2. Using a double boiler, melt dark chocolate until smooth.\n3. In a small bowl, whisk together gelatin and water, then let bloom. \n4. Pour ½ cup heavy cream in a small pot, then bring to a bare simmer. Mix in bloomed gelatin, and whisk until fully dissolved. Mix in melted chocolate.\n5. Whip remaining heavy cream and confectioners sugar until stiff peaks form.\n6. Gently fold in chocolate mixture into the whipped cream. \n7. Slice 4 pcs. of Ferrero Chocolate in half, then stick onto the sides of an 8 inch springform pan. Carefully fill the pan with the chocolate mousse, then smoothen the top. Chill for 3 hours, \n8. Top with more Ferrero Chocolate, royal icing roses and sugar crystals.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "14 pcs. Ferrero Chocolate",
-      "Ferrero Chocolate"
+      "Ferrero"
     ],
     "recipe": {
       "servingTime": "4 hours",
@@ -256,8 +251,7 @@ const LOVE_FOOD_PHOTOS_DATA = [
     "campaign": "LOVE, FOOD",
     "caption": "Ever wanted to design your own chocolate bar? Here’s an idea.\n\nMelt some chopped Waitrose Belgian Dark Chocolate and sprinkle it with almonds and dried cranberries before drizzling with melted white chocolate, sugar crystals, and red sprinkles for that Valentine’s Day feel. Of course, you can go ahead and experiment with other ingredients and toppings of your choice!\n\n#TheMarketplace is the exclusive distributor of Waitrose products, so head over now and create your own chocolate bark! Share your recipe with us in the comments section below!\n\nServing Time: 1 hour and 15 minutes\nYield: 6-8 servings\n\nIngredients\n\n2 cups Waitrose Belgian Dark Chocolate, chopped\n1 cup white chocolate, chopped\n¾ cup almonds, toasted\n½ cup dried cranberries\n1 tbsp. sugar crystals\n1 tbsp. red sprinkles\n\nProcedure\n\n1. Using a double boiler, melt Waitrose Belgian Dark Chocolate until smooth.\n2. Evenly spread melted chocolate on a lined baking tray. Top with almonds and dried cranberries. \n3. Melt white chocolate in a double boiler, then drizzle on top of the chocolate bark. \n4. Sprinkle sugar crystals and red sprinkles on top.\n5. Chill for 1 hour. Break apart to create barks. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "2 cups Waitrose Belgian Dark Chocolate, chopped",
-      "Waitrose Belgian Dark Chocolate"
+      "Waitrose"
     ],
     "recipe": {
       "servingTime": "1 hour and 15 minutes",
@@ -282,8 +276,8 @@ const LOVE_FOOD_PHOTOS_DATA = [
     "campaign": "LOVE, FOOD",
     "caption": "Strawberries and chocolate are an iconic combination that exudes romance, and in this recipe for Strawberry Milk Chocolate Ombre Cupcakes, we’ve combined them both in a delicious cupcake with an enticing look and topped with premium Côte D’or Mignonnette Lait Melk shavings.\n\nBake these for your family or share them with your friends! Love comes in many forms, and dessert is definitely one of them. Get all the ingredients you need for this recipe at #TheMarketplace!\n\nServing Time: 1 hour and 15 minutes\nYield: 1 dozen\n\nIngredients\n\nCUPCAKES:\n1 ⅛ cups flour\n1 cup sugar\n½ tsp. baking soda\n¼ tsp. salt\n⅓ cup butter, melted\n2 eggs\n½ tbsp. vanilla extract\n½ cup buttermilk\n¼ cup water\n\nWHITE CHOCOLATE FROSTING:\n1 cup butter, softened\n1 cup white chocolate, melted\n1 ¼ cup powdered sugar\n½ tsp. vanilla extract\n½ tsp. strawberry flavor\n4 drops pink food coloring\n\nTOPPINGS:\n¾ cup Côte D’or Mignonnette Lait Melk, shavings\n¼ cup heart sprinkles\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. In a large bowl, combine flour, sugar, baking soda and salt. In another bowl, whisk together together butter, eggs, vanilla extract and buttermilk. \n3. Add wet mixture into the dry mixture, then mix until well combined. Whisk in water.\n4. Line a cupcake baking pan with cupcake liners, then fill each cup half-way through with the batter. Bake for 16-18 minutes, then let cool completely.\n5. Using a stand mixer, beat butter on medium speed until light in color and creamy. Slowly add in melted white chocolate. Once well combined, beat in powdered sugar. Mix until smooth.\n6. Split white chocolate frosting into two. Add vanilla extract to the first half and strawberry flavor and pink food coloring to the remaining half.\n7. Transfer both flavors of frosting on a sheet of cling wrap to form one log each. Tightly roll the cling wrap, then put inside a piping bag fitted with a star tip.\n8. Pipe the frosting on each cupcake, then top with Côte D’or Mignonnette Lait Melk shavings and heart sprinkles.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Côte D’or Mignonnette Lait Melk, shavings",
-      "Côte D’or Mignonnette Lait Melk shavings"
+      "Côte D’or",
+      "! Generic"
     ],
     "recipe": {
       "servingTime": "1 hour and 15 minutes",

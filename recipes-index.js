@@ -886,6 +886,42 @@ const RECIPES_INDEX = [
     "count": 9
   },
   {
+    "id": "2306-US-Festival",
+    "label": "US Festival",
+    "type": "photo",
+    "year": 2023,
+    "month": 6,
+    "file": "recipes/2306-US-Festival.js",
+    "count": 6
+  },
+  {
+    "id": "2306-Snack-Festival",
+    "label": "Snack Festival",
+    "type": "photo",
+    "year": 2023,
+    "month": 6,
+    "file": "recipes/2306-Snack-Festival.js",
+    "count": 4
+  },
+  {
+    "id": "2306-June-IG-Addendum",
+    "label": "June IG Addendum",
+    "type": "photo",
+    "year": 2023,
+    "month": 6,
+    "file": "recipes/2306-June-IG-Addendum.js",
+    "count": 2
+  },
+  {
+    "id": "2306-International-Sushi",
+    "label": "International Sushi",
+    "type": "photo",
+    "year": 2023,
+    "month": 6,
+    "file": "recipes/2306-International-Sushi.js",
+    "count": 2
+  },
+  {
     "id": "2305-Mothers-Day",
     "label": "Mothers Day",
     "type": "photo",
