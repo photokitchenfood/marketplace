@@ -211,10 +211,14 @@ class TemplateProfile:
     zone_badge: dict                 # Pre-Prod deck only
     min_share: float = 0.9           # share of item slides that must satisfy each fingerprint check
     size_tol_in: float = 0.05
+    scale: float = 1.0               # >1 for decks built at a larger slide size (positions scale with it)
+
+    def _zs(self, zone):
+        return {k: (a * self.scale, b * self.scale) for k, (a, b) in zone.items()} if self.scale != 1.0 else zone
 
     # -- element lookup ------------------------------------------------
     def _autoshapes_in(self, slide, zone):
-        return find_shape_in_zone(slide, zone, {MSO_SHAPE_TYPE.AUTO_SHAPE})
+        return find_shape_in_zone(slide, self._zs(zone), {MSO_SHAPE_TYPE.AUTO_SHAPE})
 
     def codes_in_zone(self, slide):
         """(valid codes in z-order bottom->top, rejected texts). Decks are
@@ -277,7 +281,7 @@ class TemplateProfile:
         placeholders = []
         for shape in slide.shapes:
             idx, ptype = placeholder_idx_type(shape)
-            if ptype == PP_PLACEHOLDER.PICTURE and in_zone(shape, self.zone_photo):
+            if ptype == PP_PLACEHOLDER.PICTURE and in_zone(shape, self._zs(self.zone_photo)):
                 placeholders.append(shape)
         for shape in reversed(placeholders):
             if hasattr(shape, "image"):
@@ -288,7 +292,7 @@ class TemplateProfile:
                     pass
         # some slides carry the photo as a plain picture instead of a placeholder
         pictures = [sh for sh in slide.shapes
-                    if sh.shape_type == MSO_SHAPE_TYPE.PICTURE and in_zone(sh, self.zone_photo)
+                    if sh.shape_type == MSO_SHAPE_TYPE.PICTURE and in_zone(sh, self._zs(self.zone_photo))
                     and sh.width and sh.width >= Emu(int(2 * 914400))]
         if pictures:
             return max(pictures, key=lambda sh: sh.width * sh.height)
@@ -297,7 +301,7 @@ class TemplateProfile:
         # EAP video slides (Oct 2024) carry their still as a plain picture lower on
         # the slide; only used when nothing sits in the normal photo position.
         low = [sh for sh in slide.shapes
-               if sh.shape_type == MSO_SHAPE_TYPE.PICTURE and in_zone(sh, ALT_PHOTO_ZONE)
+               if sh.shape_type == MSO_SHAPE_TYPE.PICTURE and in_zone(sh, self._zs(ALT_PHOTO_ZONE))
                and sh.width and sh.width >= Emu(int(2 * 914400))]
         return max(low, key=lambda sh: sh.width * sh.height) if low else None
 
@@ -358,7 +362,7 @@ class TemplateProfile:
         fails = []
         w, h = Emu(prs.slide_width).inches, Emu(prs.slide_height).inches
         ew, eh = self.slide_size_in
-        if abs(w - ew) > self.size_tol_in or abs(h - eh) > self.size_tol_in:
+        if abs(w - ew) > self.size_tol_in * self.scale or abs(h - eh) > self.size_tol_in * self.scale:
             fails.append(f"slide size is {w:.2f} x {h:.2f} in, expected {ew} x {eh} in")
 
         if kind == "ppm":
@@ -437,7 +441,7 @@ class TextBoxTitleProfile(TemplateProfile):
             return placeholder
         boxes = [sh for sh in slide.shapes
                  if sh.shape_type == MSO_SHAPE_TYPE.TEXT_BOX and sh.has_text_frame
-                 and shape_text(sh).strip() and in_zone(sh, self.zone_title)]
+                 and shape_text(sh).strip() and in_zone(sh, self._zs(self.zone_title))]
         return boxes[-1] if boxes else placeholder  # topmost text box wins if several are stacked
 
 
@@ -465,7 +469,7 @@ class TextBoxCaptionProfile(TemplateProfile):
         boxes = [sh for sh in slide.shapes
                  if sh.shape_type == MSO_SHAPE_TYPE.TEXT_BOX and sh.has_text_frame
                  and shape_text(sh).lstrip("\ufeff \n\x0b").lower().startswith("caption")
-                 and in_zone(sh, self.zone_caption)]
+                 and in_zone(sh, self._zs(self.zone_caption))]
         return boxes[-1] if boxes else placeholder
 
 
@@ -477,6 +481,19 @@ PROFILE_2023_01_TEXTBOX_CAPTIONS = TextBoxCaptionProfile(
     zone_banner=PROFILE_2023_2026.zone_banner,
     zone_photo=PROFILE_2023_2026.zone_photo,
     zone_badge=PROFILE_2023_2026.zone_badge,
+)
+
+# The Jul 2023 deck (filed Aug 2023) was built at 20 x 11.25in: the text-box-caption
+# template with every position doubled.
+PROFILE_2023_07_DOUBLE_SIZE = TextBoxCaptionProfile(
+    name="TMP 2023-07 (20in slide, text-box captions)",
+    slide_size_in=(20.0, 11.25),
+    code_re=PROFILE_2023_2026.code_re,
+    zone_code=PROFILE_2023_2026.zone_code,
+    zone_banner=PROFILE_2023_2026.zone_banner,
+    zone_photo=PROFILE_2023_2026.zone_photo,
+    zone_badge=PROFILE_2023_2026.zone_badge,
+    scale=2.0,
 )
 
 # The Sep 2024 deck: same template but the campaign banner sits further right
@@ -497,7 +514,7 @@ PROFILE_2024_09_WIDE_BANNER = TextBoxTitleProfile(
 # standard template never falls through to a variant.
 # Add 2021 / 2022 profiles here (bare-number codes, category printed on each slide, ...).
 PROFILES = [PROFILE_2023_2026, PROFILE_2025_09_TEXTBOX_TITLES, PROFILE_2024_09_WIDE_BANNER,
-            PROFILE_2023_01_TEXTBOX_CAPTIONS]
+            PROFILE_2023_01_TEXTBOX_CAPTIONS, PROFILE_2023_07_DOUBLE_SIZE]
 
 
 def detect_profile(prs, label, kind="recipe"):
