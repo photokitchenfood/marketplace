@@ -1462,6 +1462,51 @@ const RECIPES_INDEX = [
     "count": 10
   },
   {
+    "id": "2212-Holiday-Seafood-Feast",
+    "label": "Holiday Seafood Feast",
+    "type": "photo",
+    "year": 2022,
+    "month": 12,
+    "file": "recipes/2212-Holiday-Seafood-Feast.js",
+    "count": 7
+  },
+  {
+    "id": "2212-Ham-Fest",
+    "label": "Ham Fest",
+    "type": "photo",
+    "year": 2022,
+    "month": 12,
+    "file": "recipes/2212-Ham-Fest.js",
+    "count": 6
+  },
+  {
+    "id": "2212-Frozen-Flavors",
+    "label": "Frozen Flavors",
+    "type": "photo",
+    "year": 2022,
+    "month": 12,
+    "file": "recipes/2212-Frozen-Flavors.js",
+    "count": 13
+  },
+  {
+    "id": "2212-December-IG",
+    "label": "December IG",
+    "type": "photo",
+    "year": 2022,
+    "month": 12,
+    "file": "recipes/2212-December-IG.js",
+    "count": 18
+  },
+  {
+    "id": "2212-Christmas",
+    "label": "Christmas",
+    "type": "photo",
+    "year": 2022,
+    "month": 12,
+    "file": "recipes/2212-Christmas.js",
+    "count": 12
+  },
+  {
     "id": "2211-November-IG",
     "label": "November IG",
     "type": "photo",
@@ -1478,15 +1523,6 @@ const RECIPES_INDEX = [
     "month": 11,
     "file": "recipes/2211-Korean-Festival.js",
     "count": 12
-  },
-  {
-    "id": "2211-Christmas",
-    "label": "Christmas",
-    "type": "photo",
-    "year": 2022,
-    "month": 11,
-    "file": "recipes/2211-Christmas.js",
-    "count": 10
   },
   {
     "id": "2210-World-of-Wine",
