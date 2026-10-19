@@ -886,6 +886,24 @@ const RECIPES_INDEX = [
     "count": 9
   },
   {
+    "id": "2311-Rice-Awareness",
+    "label": "Rice Awareness",
+    "type": "photo",
+    "year": 2023,
+    "month": 11,
+    "file": "recipes/2311-Rice-Awareness.js",
+    "count": 1
+  },
+  {
+    "id": "2311-November-IG",
+    "label": "November IG",
+    "type": "photo",
+    "year": 2023,
+    "month": 11,
+    "file": "recipes/2311-November-IG.js",
+    "count": 17
+  },
+  {
     "id": "2310-TMP-Anniversary-Videos",
     "label": "TMP Anniversary (Videos)",
     "type": "video",
