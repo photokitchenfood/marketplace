@@ -886,6 +886,78 @@ const RECIPES_INDEX = [
     "count": 9
   },
   {
+    "id": "2312-Meadows-Videos",
+    "label": "Meadows (Videos)",
+    "type": "video",
+    "year": 2023,
+    "month": 12,
+    "file": "recipes/2312-Meadows-Videos.js",
+    "count": 1
+  },
+  {
+    "id": "2312-Meadows-Photos",
+    "label": "Meadows (Photos)",
+    "type": "photo",
+    "year": 2023,
+    "month": 12,
+    "file": "recipes/2312-Meadows-Photos.js",
+    "count": 1
+  },
+  {
+    "id": "2312-Launchpad",
+    "label": "Launchpad",
+    "type": "photo",
+    "year": 2023,
+    "month": 12,
+    "file": "recipes/2312-Launchpad.js",
+    "count": 1
+  },
+  {
+    "id": "2312-Ham-Fest",
+    "label": "Ham Fest",
+    "type": "photo",
+    "year": 2023,
+    "month": 12,
+    "file": "recipes/2312-Ham-Fest.js",
+    "count": 1
+  },
+  {
+    "id": "2312-Frozen-Flavors",
+    "label": "Frozen Flavors",
+    "type": "photo",
+    "year": 2023,
+    "month": 12,
+    "file": "recipes/2312-Frozen-Flavors.js",
+    "count": 2
+  },
+  {
+    "id": "2312-December-IG",
+    "label": "December IG",
+    "type": "photo",
+    "year": 2023,
+    "month": 12,
+    "file": "recipes/2312-December-IG.js",
+    "count": 20
+  },
+  {
+    "id": "2312-Christmas-Videos",
+    "label": "Christmas (Videos)",
+    "type": "video",
+    "year": 2023,
+    "month": 12,
+    "file": "recipes/2312-Christmas-Videos.js",
+    "count": 1
+  },
+  {
+    "id": "2312-Christmas-Photos",
+    "label": "Christmas (Photos)",
+    "type": "photo",
+    "year": 2023,
+    "month": 12,
+    "file": "recipes/2312-Christmas-Photos.js",
+    "count": 11
+  },
+  {
     "id": "2311-Rice-Awareness",
     "label": "Rice Awareness",
     "type": "photo",
