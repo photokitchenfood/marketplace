@@ -1489,6 +1489,51 @@ const RECIPES_INDEX = [
     "count": 6
   },
   {
+    "id": "2208-Wagyu-Festival",
+    "label": "Wagyu Festival",
+    "type": "photo",
+    "year": 2022,
+    "month": 8,
+    "file": "recipes/2208-Wagyu-Festival.js",
+    "count": 1
+  },
+  {
+    "id": "2208-Health-Wellness",
+    "label": "Health & Wellness",
+    "type": "photo",
+    "year": 2022,
+    "month": 8,
+    "file": "recipes/2208-Health-Wellness.js",
+    "count": 4
+  },
+  {
+    "id": "2208-Cheese-Festival",
+    "label": "Cheese Festival",
+    "type": "photo",
+    "year": 2022,
+    "month": 8,
+    "file": "recipes/2208-Cheese-Festival.js",
+    "count": 1
+  },
+  {
+    "id": "2208-Breakfast-Fair",
+    "label": "Breakfast Fair",
+    "type": "photo",
+    "year": 2022,
+    "month": 8,
+    "file": "recipes/2208-Breakfast-Fair.js",
+    "count": 1
+  },
+  {
+    "id": "2208-August-IG",
+    "label": "August IG",
+    "type": "photo",
+    "year": 2022,
+    "month": 8,
+    "file": "recipes/2208-August-IG.js",
+    "count": 6
+  },
+  {
     "id": "2207-US-Festival",
     "label": "US Festival",
     "type": "photo",
