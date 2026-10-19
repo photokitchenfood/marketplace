@@ -886,6 +886,42 @@ const RECIPES_INDEX = [
     "count": 9
   },
   {
+    "id": "2304-Summer-Delights",
+    "label": "Summer Delights",
+    "type": "photo",
+    "year": 2023,
+    "month": 4,
+    "file": "recipes/2304-Summer-Delights.js",
+    "count": 3
+  },
+  {
+    "id": "2304-Feast-from-the-Sea",
+    "label": "Feast from the Sea",
+    "type": "photo",
+    "year": 2023,
+    "month": 4,
+    "file": "recipes/2304-Feast-from-the-Sea.js",
+    "count": 3
+  },
+  {
+    "id": "2304-Easter",
+    "label": "Easter",
+    "type": "photo",
+    "year": 2023,
+    "month": 4,
+    "file": "recipes/2304-Easter.js",
+    "count": 5
+  },
+  {
+    "id": "2304-April-IG",
+    "label": "April IG",
+    "type": "photo",
+    "year": 2023,
+    "month": 4,
+    "file": "recipes/2304-April-IG.js",
+    "count": 7
+  },
+  {
     "id": "2303-Summer-Videos",
     "label": "Summer (Videos)",
     "type": "video",
