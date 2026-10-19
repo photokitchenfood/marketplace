@@ -1462,6 +1462,33 @@ const RECIPES_INDEX = [
     "count": 10
   },
   {
+    "id": "2207-US-Festival",
+    "label": "US Festival",
+    "type": "photo",
+    "year": 2022,
+    "month": 7,
+    "file": "recipes/2207-US-Festival.js",
+    "count": 6
+  },
+  {
+    "id": "2207-Snack-Festival",
+    "label": "Snack Festival",
+    "type": "photo",
+    "year": 2022,
+    "month": 7,
+    "file": "recipes/2207-Snack-Festival.js",
+    "count": 12
+  },
+  {
+    "id": "2207-July-IG",
+    "label": "July IG",
+    "type": "photo",
+    "year": 2022,
+    "month": 7,
+    "file": "recipes/2207-July-IG.js",
+    "count": 9
+  },
+  {
     "id": "2207-International-Fried-Chicken-Day",
     "label": "International Fried Chicken Day",
     "type": "photo",
