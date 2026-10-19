@@ -6,10 +6,10 @@
 const PRIVATE_SELECTIONS_DATA = [
   {
     "layoutCode": "PS1",
-    "layoutName": "Private Selections",
-    "category": "OUT OF PACK",
-    "categorySource": "inferred",
-    "categoryConfidence": "low",
+    "layoutName": "Private Selections (Group Shot)",
+    "category": "GROUP SHOT",
+    "categorySource": "manual",
+    "categoryConfidence": "high",
     "campaign": "PRIVATE SELECTIONS",
     "caption": "We at #TheMarketplace take so much pride in our offerings, especially our range of international delights. Head over and explore the Private Selections category and try something new!\n\nMindful curation is always exercised and exhibited when it comes to these exclusive offers. Discover a new favorite, or grab new item from your trusted brands!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [

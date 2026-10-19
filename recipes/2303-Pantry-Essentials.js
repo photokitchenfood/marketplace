@@ -6,10 +6,10 @@
 const PANTRY_ESSENTIALS_DATA = [
   {
     "layoutCode": "ES1",
-    "layoutName": "Pantry Essentials",
-    "category": "OUT OF PACK",
-    "categorySource": "inferred",
-    "categoryConfidence": "low",
+    "layoutName": "Pantry Essentials (Group Shot)",
+    "category": "GROUP SHOT",
+    "categorySource": "manual",
+    "categoryConfidence": "high",
     "campaign": "PANTRY ESSENTIALS",
     "caption": "What’s in your pantry?\n\nMake sure that you’re all stocked up with the essentials such as canned vegetables, sauces, proteins, snacks, chocolates and more! Add a touch of creativity to your meals by adding something special, and have something tasty within arm’s reach. We exclusively carry a wide selection of international brands such as Waitrose, Casino, Woolworths, and more!\n\nIn need of ideas? Head over to #TheMarketplace and shop from our wide array of both local and international brands that’ll surely jazz up your dishes. Enjoy!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
