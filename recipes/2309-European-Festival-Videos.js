@@ -33,5 +33,6 @@ const EUROPEAN_FESTIVAL_VIDEOS_DATA = [
     "needsPhotoSwap": true
   }
 ];
+EUROPEAN_FESTIVAL_VIDEOS_DATA.dropboxUrl = "https://www.dropbox.com/scl/fo/77t9tcp56ja1wx7nhlbkn/h?rlkey=ne7gh84jgzheyd71s44yrqobi&st=d433aens&dl=0";
 
 if (typeof window !== 'undefined') window.__recipesData = EUROPEAN_FESTIVAL_VIDEOS_DATA;
