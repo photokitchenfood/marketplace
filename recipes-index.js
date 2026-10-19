@@ -1462,6 +1462,33 @@ const RECIPES_INDEX = [
     "count": 10
   },
   {
+    "id": "2207-International-Fried-Chicken-Day",
+    "label": "International Fried Chicken Day",
+    "type": "photo",
+    "year": 2022,
+    "month": 7,
+    "file": "recipes/2207-International-Fried-Chicken-Day.js",
+    "count": 9
+  },
+  {
+    "id": "2207-Freshtival",
+    "label": "Freshtival",
+    "type": "photo",
+    "year": 2022,
+    "month": 7,
+    "file": "recipes/2207-Freshtival.js",
+    "count": 5
+  },
+  {
+    "id": "2207-Breakfast-Fair",
+    "label": "Breakfast Fair",
+    "type": "photo",
+    "year": 2022,
+    "month": 7,
+    "file": "recipes/2207-Breakfast-Fair.js",
+    "count": 20
+  },
+  {
     "id": "2206-Milkiest-Celebrations",
     "label": "Milkiest Celebrations",
     "type": "photo",
