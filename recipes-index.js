@@ -1462,6 +1462,24 @@ const RECIPES_INDEX = [
     "count": 10
   },
   {
+    "id": "2204-Easter",
+    "label": "Easter",
+    "type": "photo",
+    "year": 2022,
+    "month": 4,
+    "file": "recipes/2204-Easter.js",
+    "count": 3
+  },
+  {
+    "id": "2204-April-IG",
+    "label": "April IG",
+    "type": "photo",
+    "year": 2022,
+    "month": 4,
+    "file": "recipes/2204-April-IG.js",
+    "count": 14
+  },
+  {
     "id": "2203-Summer",
     "label": "Summer",
     "type": "photo",
