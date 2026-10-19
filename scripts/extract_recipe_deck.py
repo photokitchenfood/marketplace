@@ -560,7 +560,7 @@ PROFILE_2022_01_LAYOUT_TYPE_CHIP = Layout2022Profile(
 class Layout2022TextBoxTitleProfile(Layout2022Profile):
     """The 2022 layout where the title is sometimes a plain text box
     (Mar 2022 deck); only the title lookup differs."""
-    zone_title: dict = field(default_factory=lambda: dict(left=(0.85, 1.15), top=(0.45, 0.70)))
+    zone_title: dict = field(default_factory=lambda: dict(left=(0.75, 1.15), top=(0.40, 0.70)))
 
     def title_of(self, slide):
         placeholder = TemplateProfile.title_of(self, slide)
