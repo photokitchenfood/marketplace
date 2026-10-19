@@ -1462,6 +1462,33 @@ const RECIPES_INDEX = [
     "count": 10
   },
   {
+    "id": "2203-Summer",
+    "label": "Summer",
+    "type": "photo",
+    "year": 2022,
+    "month": 3,
+    "file": "recipes/2203-Summer.js",
+    "count": 6
+  },
+  {
+    "id": "2203-March-IG",
+    "label": "March IG",
+    "type": "photo",
+    "year": 2022,
+    "month": 3,
+    "file": "recipes/2203-March-IG.js",
+    "count": 12
+  },
+  {
+    "id": "2203-Asian-Festival",
+    "label": "Asian Festival",
+    "type": "photo",
+    "year": 2022,
+    "month": 3,
+    "file": "recipes/2203-Asian-Festival.js",
+    "count": 4
+  },
+  {
     "id": "2202-Love-Food",
     "label": "Love Food",
     "type": "photo",
