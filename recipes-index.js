@@ -1462,6 +1462,105 @@ const RECIPES_INDEX = [
     "count": 10
   },
   {
+    "id": "2211-November-IG",
+    "label": "November IG",
+    "type": "photo",
+    "year": 2022,
+    "month": 11,
+    "file": "recipes/2211-November-IG.js",
+    "count": 18
+  },
+  {
+    "id": "2211-Korean-Festival",
+    "label": "Korean Festival",
+    "type": "photo",
+    "year": 2022,
+    "month": 11,
+    "file": "recipes/2211-Korean-Festival.js",
+    "count": 12
+  },
+  {
+    "id": "2211-Christmas",
+    "label": "Christmas",
+    "type": "photo",
+    "year": 2022,
+    "month": 11,
+    "file": "recipes/2211-Christmas.js",
+    "count": 10
+  },
+  {
+    "id": "2210-World-of-Wine",
+    "label": "World of Wine",
+    "type": "photo",
+    "year": 2022,
+    "month": 10,
+    "file": "recipes/2210-World-of-Wine.js",
+    "count": 11
+  },
+  {
+    "id": "2210-TMP-Anniversary",
+    "label": "TMP Anniversary",
+    "type": "photo",
+    "year": 2022,
+    "month": 10,
+    "file": "recipes/2210-TMP-Anniversary.js",
+    "count": 12
+  },
+  {
+    "id": "2210-Pet-Month",
+    "label": "Pet Month",
+    "type": "photo",
+    "year": 2022,
+    "month": 10,
+    "file": "recipes/2210-Pet-Month.js",
+    "count": 7
+  },
+  {
+    "id": "2210-October-IG",
+    "label": "October IG",
+    "type": "photo",
+    "year": 2022,
+    "month": 10,
+    "file": "recipes/2210-October-IG.js",
+    "count": 16
+  },
+  {
+    "id": "2210-International-Coffee-Day",
+    "label": "International Coffee Day",
+    "type": "photo",
+    "year": 2022,
+    "month": 10,
+    "file": "recipes/2210-International-Coffee-Day.js",
+    "count": 10
+  },
+  {
+    "id": "2210-Halloween",
+    "label": "Halloween",
+    "type": "photo",
+    "year": 2022,
+    "month": 10,
+    "file": "recipes/2210-Halloween.js",
+    "count": 10
+  },
+  {
+    "id": "2210-Eat-Right-Live-Healthy",
+    "label": "Eat Right Live Healthy",
+    "type": "photo",
+    "year": 2022,
+    "month": 10,
+    "file": "recipes/2210-Eat-Right-Live-Healthy.js",
+    "count": 11
+  },
+  {
+    "id": "2210-Canadian-Festival",
+    "label": "Canadian Festival",
+    "type": "photo",
+    "year": 2022,
+    "month": 10,
+    "file": "recipes/2210-Canadian-Festival.js",
+    "count": 4
+  },
+  {
     "id": "2209-September-IG",
     "label": "September IG",
     "type": "photo",
