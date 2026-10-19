@@ -1462,6 +1462,33 @@ const RECIPES_INDEX = [
     "count": 10
   },
   {
+    "id": "2202-Love-Food",
+    "label": "Love Food",
+    "type": "photo",
+    "year": 2022,
+    "month": 2,
+    "file": "recipes/2202-Love-Food.js",
+    "count": 9
+  },
+  {
+    "id": "2202-February-IG",
+    "label": "February IG",
+    "type": "photo",
+    "year": 2022,
+    "month": 2,
+    "file": "recipes/2202-February-IG.js",
+    "count": 6
+  },
+  {
+    "id": "2202-Chinese-New-Year",
+    "label": "Chinese New Year",
+    "type": "photo",
+    "year": 2022,
+    "month": 2,
+    "file": "recipes/2202-Chinese-New-Year.js",
+    "count": 1
+  },
+  {
     "id": "2201-January-IG",
     "label": "January IG",
     "type": "photo",
