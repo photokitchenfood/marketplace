@@ -1462,6 +1462,60 @@ const RECIPES_INDEX = [
     "count": 10
   },
   {
+    "id": "2206-Milkiest-Celebrations",
+    "label": "Milkiest Celebrations",
+    "type": "photo",
+    "year": 2022,
+    "month": 6,
+    "file": "recipes/2206-Milkiest-Celebrations.js",
+    "count": 4
+  },
+  {
+    "id": "2206-June-IG",
+    "label": "June IG",
+    "type": "photo",
+    "year": 2022,
+    "month": 6,
+    "file": "recipes/2206-June-IG.js",
+    "count": 13
+  },
+  {
+    "id": "2206-Fathers-Day",
+    "label": "Fathers Day",
+    "type": "photo",
+    "year": 2022,
+    "month": 6,
+    "file": "recipes/2206-Fathers-Day.js",
+    "count": 10
+  },
+  {
+    "id": "2205-Mothers-Day",
+    "label": "Mothers Day",
+    "type": "photo",
+    "year": 2022,
+    "month": 5,
+    "file": "recipes/2205-Mothers-Day.js",
+    "count": 12
+  },
+  {
+    "id": "2205-May-IG",
+    "label": "May IG",
+    "type": "photo",
+    "year": 2022,
+    "month": 5,
+    "file": "recipes/2205-May-IG.js",
+    "count": 16
+  },
+  {
+    "id": "2205-Back-to-School",
+    "label": "Back to School",
+    "type": "photo",
+    "year": 2022,
+    "month": 5,
+    "file": "recipes/2205-Back-to-School.js",
+    "count": 5
+  },
+  {
     "id": "2204-Easter",
     "label": "Easter",
     "type": "photo",
