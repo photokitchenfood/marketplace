@@ -54,6 +54,7 @@ Usage:
 
 import argparse
 import base64
+import hashlib
 import io
 import collections
 import json
@@ -77,6 +78,9 @@ THUMB_JPEG_QUALITY = 85
 # (and sometimes per stray asset). Scanning a few slides past that covers
 # decks where it shifts by one or two.
 DROPBOX_LINK_SCAN_SLIDES = 10
+
+# md5 of the template's gray "PLACEHOLDER" camera picture (stacked under the real photo in some decks).
+PLACEHOLDER_IMAGE_MD5 = {"b1a52ab2d975816cfbc9ba4904a7ef19"}
 
 # Fallback photo position (plain picture) on EAP video slides.
 ALT_PHOTO_ZONE = dict(left=(0.10, 0.90), top=(2.50, 3.30))
@@ -296,7 +300,16 @@ class TemplateProfile:
                     if sh.shape_type == MSO_SHAPE_TYPE.PICTURE and in_zone(sh, self._zs(self.zone_photo))
                     and sh.width and sh.width >= Emu(int(2 * 914400))]
         if pictures:
-            return max(pictures, key=lambda sh: sh.width * sh.height)
+            # decks often stack the template's gray "PLACEHOLDER" camera graphic under the real
+            # photo (same size): skip the known graphic, and among equals take the topmost
+            def _is_placeholder_graphic(sh):
+                try:
+                    return hashlib.md5(sh.image.blob).hexdigest() in PLACEHOLDER_IMAGE_MD5
+                except Exception:
+                    return False
+            real = [sh for sh in pictures if not _is_placeholder_graphic(sh)] or pictures
+            best = max(sh.width * sh.height for sh in real)
+            return [sh for sh in real if sh.width * sh.height == best][-1]
         if placeholders:
             return placeholders[0]
         # EAP video slides (Oct 2024) carry their still as a plain picture lower on
