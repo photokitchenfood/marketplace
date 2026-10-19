@@ -886,6 +886,51 @@ const RECIPES_INDEX = [
     "count": 9
   },
   {
+    "id": "2303-Summer-Videos",
+    "label": "Summer (Videos)",
+    "type": "video",
+    "year": 2023,
+    "month": 3,
+    "file": "recipes/2303-Summer-Videos.js",
+    "count": 2
+  },
+  {
+    "id": "2303-Summer-Photos",
+    "label": "Summer (Photos)",
+    "type": "photo",
+    "year": 2023,
+    "month": 3,
+    "file": "recipes/2303-Summer-Photos.js",
+    "count": 7
+  },
+  {
+    "id": "2303-Pantry-Essentials",
+    "label": "Pantry Essentials",
+    "type": "photo",
+    "year": 2023,
+    "month": 3,
+    "file": "recipes/2303-Pantry-Essentials.js",
+    "count": 1
+  },
+  {
+    "id": "2303-March-IG",
+    "label": "March IG",
+    "type": "photo",
+    "year": 2023,
+    "month": 3,
+    "file": "recipes/2303-March-IG.js",
+    "count": 5
+  },
+  {
+    "id": "2303-Dish-of-the-Month",
+    "label": "Dish of the Month",
+    "type": "photo",
+    "year": 2023,
+    "month": 3,
+    "file": "recipes/2303-Dish-of-the-Month.js",
+    "count": 2
+  },
+  {
     "id": "2302-Private-Selections",
     "label": "Private Selections",
     "type": "photo",
@@ -931,6 +976,15 @@ const RECIPES_INDEX = [
     "count": 1
   },
   {
+    "id": "2302-Chinese-New-Year-Videos",
+    "label": "Chinese New Year (Videos)",
+    "type": "video",
+    "year": 2023,
+    "month": 2,
+    "file": "recipes/2302-Chinese-New-Year-Videos.js",
+    "count": 1
+  },
+  {
     "id": "2301-January-IG",
     "label": "January IG",
     "type": "photo",
@@ -938,15 +992,6 @@ const RECIPES_INDEX = [
     "month": 1,
     "file": "recipes/2301-January-IG.js",
     "count": 8
-  },
-  {
-    "id": "2301-Chinese-New-Year-Videos",
-    "label": "Chinese New Year (Videos)",
-    "type": "video",
-    "year": 2023,
-    "month": 1,
-    "file": "recipes/2301-Chinese-New-Year-Videos.js",
-    "count": 1
   },
   {
     "id": "2301-Australian-Festival",
