@@ -886,13 +886,49 @@ const RECIPES_INDEX = [
     "count": 9
   },
   {
+    "id": "2307-July-IG",
+    "label": "July IG",
+    "type": "photo",
+    "year": 2023,
+    "month": 7,
+    "file": "recipes/2307-July-IG.js",
+    "count": 4
+  },
+  {
+    "id": "2307-International-Fried-Chicken-Day-Videos",
+    "label": "International Fried Chicken Day (Videos)",
+    "type": "video",
+    "year": 2023,
+    "month": 7,
+    "file": "recipes/2307-International-Fried-Chicken-Day-Videos.js",
+    "count": 4
+  },
+  {
+    "id": "2307-Fresh-Market",
+    "label": "Fresh Market",
+    "type": "photo",
+    "year": 2023,
+    "month": 7,
+    "file": "recipes/2307-Fresh-Market.js",
+    "count": 7
+  },
+  {
+    "id": "2307-Dish-of-the-Month",
+    "label": "Dish of the Month",
+    "type": "photo",
+    "year": 2023,
+    "month": 7,
+    "file": "recipes/2307-Dish-of-the-Month.js",
+    "count": 1
+  },
+  {
     "id": "2306-US-Festival",
     "label": "US Festival",
     "type": "photo",
     "year": 2023,
     "month": 6,
     "file": "recipes/2306-US-Festival.js",
-    "count": 6
+    "count": 12
   },
   {
     "id": "2306-Snack-Festival",
