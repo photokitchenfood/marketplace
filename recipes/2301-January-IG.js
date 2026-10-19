@@ -1,9 +1,9 @@
-// Shoot: January IG & FB
+// Shoot: January IG
 // Generated: 2026-10-19
 // Items: 8
-// Template profile: TMP 2023-01 (text-box captions)
+// Template profile: TMP 2023-2026
 
-const JANUARY_IG_FB_DATA = [
+const JANUARY_IG_DATA = [
   {
     "layoutCode": "IG1",
     "layoutName": "Kundal Natural Balancing Shampoo Honey & Macadamia",
@@ -193,6 +193,6 @@ const JANUARY_IG_FB_DATA = [
     "needsPhotoSwap": true
   }
 ];
-JANUARY_IG_FB_DATA.dropboxUrl = "https://www.dropbox.com/scl/fo/ohai587t3f8uzpg42yzb6/h?dl=0&rlkey=rxoqba56lu8u07pn7fxv0uyxt";
+JANUARY_IG_DATA.dropboxUrl = "https://www.dropbox.com/scl/fo/ohai587t3f8uzpg42yzb6/h?dl=0&rlkey=rxoqba56lu8u07pn7fxv0uyxt";
 
-if (typeof window !== 'undefined') window.__recipesData = JANUARY_IG_FB_DATA;
+if (typeof window !== 'undefined') window.__recipesData = JANUARY_IG_DATA;
