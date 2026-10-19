@@ -1462,6 +1462,33 @@ const RECIPES_INDEX = [
     "count": 10
   },
   {
+    "id": "2209-September-IG",
+    "label": "September IG",
+    "type": "photo",
+    "year": 2022,
+    "month": 9,
+    "file": "recipes/2209-September-IG.js",
+    "count": 12
+  },
+  {
+    "id": "2209-Grandparents-Day",
+    "label": "Grandparents Day",
+    "type": "photo",
+    "year": 2022,
+    "month": 9,
+    "file": "recipes/2209-Grandparents-Day.js",
+    "count": 3
+  },
+  {
+    "id": "2209-European-Festival",
+    "label": "European Festival",
+    "type": "photo",
+    "year": 2022,
+    "month": 9,
+    "file": "recipes/2209-European-Festival.js",
+    "count": 6
+  },
+  {
     "id": "2207-US-Festival",
     "label": "US Festival",
     "type": "photo",
