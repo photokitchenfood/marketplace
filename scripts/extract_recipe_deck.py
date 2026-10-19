@@ -449,6 +449,34 @@ PROFILE_2025_09_TEXTBOX_TITLES = TextBoxTitleProfile(
     zone_badge=PROFILE_2023_2026.zone_badge,
 )
 
+@dataclass(frozen=True)
+class TextBoxCaptionProfile(TemplateProfile):
+    """Same template, except the caption is a plain text box (starting with
+    "Caption:") at the caption position instead of a body placeholder (seen in
+    the Dec 2022 / Jan 2023 decks). The caption lookup is the ONLY difference."""
+    zone_caption: dict = field(default_factory=lambda: dict(left=(4.9, 5.6), top=(-0.1, 0.7)))
+
+    def caption_of(self, slide):
+        placeholder = super().caption_of(slide)
+        if placeholder is not None and shape_text(placeholder).strip():
+            return placeholder
+        boxes = [sh for sh in slide.shapes
+                 if sh.shape_type == MSO_SHAPE_TYPE.TEXT_BOX and sh.has_text_frame
+                 and shape_text(sh).lstrip("\ufeff \n\x0b").lower().startswith("caption")
+                 and in_zone(sh, self.zone_caption)]
+        return boxes[-1] if boxes else placeholder
+
+
+PROFILE_2023_01_TEXTBOX_CAPTIONS = TextBoxCaptionProfile(
+    name="TMP 2023-01 (text-box captions)",
+    slide_size_in=PROFILE_2023_2026.slide_size_in,
+    code_re=PROFILE_2023_2026.code_re,
+    zone_code=PROFILE_2023_2026.zone_code,
+    zone_banner=PROFILE_2023_2026.zone_banner,
+    zone_photo=PROFILE_2023_2026.zone_photo,
+    zone_badge=PROFILE_2023_2026.zone_badge,
+)
+
 # The Sep 2024 deck: same template but the campaign banner sits further right
 # (left edge ~2.6in, text carries a year, e.g. "EUROPEAN FESTIVAL 2024") and the
 # layout name is a text box just left of the 0.85in title zone.
@@ -466,7 +494,8 @@ PROFILE_2024_09_WIDE_BANNER = TextBoxTitleProfile(
 # Order matters: the first profile a deck matches is used, so a deck that fits the
 # standard template never falls through to a variant.
 # Add 2021 / 2022 profiles here (bare-number codes, category printed on each slide, ...).
-PROFILES = [PROFILE_2023_2026, PROFILE_2025_09_TEXTBOX_TITLES, PROFILE_2024_09_WIDE_BANNER]
+PROFILES = [PROFILE_2023_2026, PROFILE_2025_09_TEXTBOX_TITLES, PROFILE_2024_09_WIDE_BANNER,
+            PROFILE_2023_01_TEXTBOX_CAPTIONS]
 
 
 def detect_profile(prs, label, kind="recipe"):
