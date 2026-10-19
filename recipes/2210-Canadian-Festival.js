@@ -38,7 +38,9 @@ const CANADIAN_FESTIVAL_DATA = [
     "categoryConfidence": "low",
     "campaign": "CANADIAN FESTIVAL",
     "caption": "Every country has their favorite brand of potato chips. Covered Bridge is Canada’s. This is their original flavor, classic Sea Salt. It’s been their best-seller for years. \n\nThe secret to these beloved Canadian chips is they’re all-natural; there’s no preservatives here at all. They’re cooked the old fashioned way: sliced super thin, and fried in a hot kettle, with just a pinch of sea salt after straining for that traditional, homemade taste. \n\nOnce you’ve had a taste of these, you’ll want to keep bags of them stocked in your pantry. \n\nNow, there’s no need to go out to get some of these. Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Covered Bridge"
+    ],
     "recipe": null,
     "photo": {
       "filename": "CF2.jpg",

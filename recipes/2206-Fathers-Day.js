@@ -12,7 +12,9 @@ const FATHERS_DAY_DATA = [
     "categoryConfidence": "high",
     "campaign": "FATHER’S DAY",
     "caption": "Enjoy a luscious Cola Float without much of the guilt by using Coke Zero instead, which contains zero sugar! Top with vanilla ice cream, along with your toppings of choice! We used maraschino cherries, chocolate syrup, and slivered almonds, but feel free to use others such as chocolate chips, marshmallows, candy sprinkles, and more! Find your favorite sodas at #TheMarketplace, and get creative with your version of a soda float!\n\nServing Time: 3 minutes\nYield: 2 servings\n\nIngredients\n\n2 cups ice\n2 cups Coke Zero\n2 cups vanilla ice cream\n½ cup maraschino cherries\n½ cup chocolate syrup\n¼ cup almonds, slivered\n\nProcedure\n\n1. Fill glass with ice and Coke Zero. Top with ice cream.\n2. Drizzle with chocolate syrup, then top with a maraschino cherry each and slivered almonds.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Coke Zero"
+    ],
     "recipe": {
       "servingTime": "3 minutes",
       "yield": "2 servings",
@@ -35,7 +37,9 @@ const FATHERS_DAY_DATA = [
     "categoryConfidence": "high",
     "campaign": "FATHER’S DAY",
     "caption": "Craft a sophisticated cocktail in just three minutes using UCC The Blend 117 instant coffee! Sweet, rich, and smooth, think of this Coffee Martini as a post-dinner tipple with a caffeinated kick.\n\nExplore #TheMarketplace’s coffee selection for a wide range of brands, including UCC!\n\nServing Time: 3 minutes\nYield: 1 serving\n\nIngredients\n\n2 sachets UCC The Blend 117\n⅓ cup hot water\n1 cup ice\n1 shot vodka\n1 shot coffee liqueur\n\nProcedure\n\n1. Dissolve one sachet of UCC The Blend 117 in hot water. Set aside.\n2. Transfer the other sachet of UCC The Blend 117 on a plate. Dip the rim of a martini glass in water, then into the coffee powder until the rim is well coated.\n3. Fill a cocktail shaker with ice. Add in vodka, coffee liqueur and the dissolved UCC The Blend 117.\n4. Strain ice, then transfer the cocktail into a martini glass. Dust with more coffee powder on top. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "UCC"
+    ],
     "recipe": {
       "servingTime": "3 minutes",
       "yield": "1 serving",
@@ -58,7 +62,9 @@ const FATHERS_DAY_DATA = [
     "categoryConfidence": "high",
     "campaign": "FATHER’S DAY",
     "caption": "Unleash your “wild side” all day long with Old Spice Wolfthorn Shower Gel! The 2-in-1 hydrating formula leaves the skin feeling smooth and refreshed.\n\nOld Spice products, along with other men’s grooming essentials, can be found at #TheMarketplace. Head over and shop today!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Old Spice"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FD3.jpg",
@@ -75,7 +81,9 @@ const FATHERS_DAY_DATA = [
     "categoryConfidence": "high",
     "campaign": "FATHER’S DAY",
     "caption": "Have you ever tried making a Noodle Pancake?\n\nGrab a pack of Nongshim Shin Ramyun Stir Fry Spicy Noodles the next time you shop at #TheMarketplace, and prepare this spicy, filling, and delicious dish that’s bursting with umami flavors with a fiery kick! Enjoy it with your favorite ice-cold Korean drink!\n\nServing Time: 30 minutes\nYield: 2-3 servings\n\nIngredients\n\n2 packs Nongshim Shin Ramyun Stir Fry Spicy Noodles\n2 tbsps. oil\n2 tbsps. soy sauce\n2 tbsps. oyster sauce\n1 tbsp. mirin\n1 tbsp. sugar\n2 tbsps. sesame oil\n2 chicken breast fillets, sliced into cubes\n¼ cup carrots, julienned\n¼ cup red onions, julienned\n¼ cup cilantro sprigs\n2 tbsps. sesame seeds\n\nProcedure\n\n1. Cook noodles of Nongshim Shin Ramyun Stir Fry Spicy Noodles in boiling water. Set aside flavoring packets for later. Drain noodles and set aside.\n2. Set a pan over medium heat. Add oil, then scatter cooked noodles evenly, and fry until golden brown. Set aside.\n3. In a bowl, combine soy sauce, oyster sauce, mirin, sugar, sesame oil and flavoring packets. \n4. Coat chicken with half of the sauce mixture, and marinate for 10 minutes. Cook marinated chicken until cooked through and caramelized. .\n5. To assemble, top crispy noodles with remaining sauce, cooked chicken, carrots and red onions. Garnish with cilantro sprigs and sesame seeds.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Nongshim"
+    ],
     "recipe": {
       "servingTime": "30 minutes",
       "yield": "2-3 servings",
@@ -98,7 +106,9 @@ const FATHERS_DAY_DATA = [
     "categoryConfidence": "high",
     "campaign": "FATHER’S DAY",
     "caption": "Got some leftover lasagna noodles at home? Don’t wait for an occasion to cook a huge tray and make this Open Pesto Lasagna instead, using Clara Olé Cheesy Pesto, green peas, and asparagus!\n\nThis dish is summer on a plate. Bursting with fresh flavors and vibrant colors, you’ll never view lasagna the same way again!\n\n#TheMarketplace is home to a wide variety of pasta sauces and pasta noodles. Shop your favorites in-store or through the comfort of your home by shopping online today!\n\nServing Time: 20-25 minutes\nYield: 4-5 servings\n\nIngredients\n\n1 (454g) pack lasagna\n4 tbsps. butter\n1 cup green peas\n1 ½ cup asparagus\nSalt and pepper to taste\n2 tbsps. flour\n2 cups milk\n¾ cup cream cheese, softened\n1 cup parmesan cheese\n2 packs Clara Olé Cheesy Pesto\n1 lemon, sliced into wedges\n\nProcedure\n\n1. Cook lasagna in heavily salted water until al dente. Drain then set aside.\n2. Set a pan over medium heat, then add 2 tbsps. of butter. Sauté green peas and asparagus. Season with salt and pepper. Set aside.\n3. Using the same pan, add the remaining butter and flour to create a roux. Slowly add in milk, and whisk until thickened. Mix in cream cheese and half of parmesan cheese. Season with salt and pepper.\n4. To assemble, transfer lasagna noodles into a serving plate. Top with Clara Olé Cheesy Pesto, cream cheese sauce, as well as the sautéed green peas and asparagus. Garnish with remaining parmesan cheese, and serve with lemon wedges.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Clara Olé"
+    ],
     "recipe": {
       "servingTime": "20-25 minutes",
       "yield": "4-5 servings",
@@ -121,7 +131,9 @@ const FATHERS_DAY_DATA = [
     "categoryConfidence": "high",
     "campaign": "FATHER’S DAY",
     "caption": "Love bread and vegetables? Then this Panzanella is the recipe for you.\n\nPanzanella is a Tuscan chopped salad made with coated bread. In this case, we used Fuwa Fuwa Wheat Bread and coated it with olive oil and Italian seasoning before toasting it. Once done, simply toss with vegetables and a simple vinaigrette to complete the dish!\n\nEnjoy the wide selection of both freshly baked and pre-packaged bread at #TheMarketplace and prepare your Panzanella the way you want to! \n\nServing Time: 10 minutes\nYield: 2-3 servings\n\nIngredients\n\n¼ cup olive oil\n4 slices Fuwa Fuwa Wheat Bread, sliced into cubes\n1 tsp. Italian seasoning\nSalt and pepper to taste\n1 cup romaine lettuce, sliced\n½ cup cucumber, sliced\n½ cup cherry tomatoes, halved\n⅛ cup bell pepper strips\n1 tbsp. balsamic vinegar\n1 tsp. Dijon mustard\n3 tbsps. olive oil\n\nProcedure\n\n1. Coat Fuwa Fuwa Wheat Bread with olive oil and Italian seasoning. Season with salt and pepper. Toast until golden brown. \n2. Place lettuce, toasted bread, cucumber, cherry tomatoes and bell peppers in a serving platter.\n3. Whisk together balsamic vinegar, dijon mustard and olive oil. Season with salt pepper. Serve alongside panzanella salad. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Fuwa Fuwa"
+    ],
     "recipe": {
       "servingTime": "10 minutes",
       "yield": "2-3 servings",
@@ -144,7 +156,9 @@ const FATHERS_DAY_DATA = [
     "categoryConfidence": "low",
     "campaign": "FATHER’S DAY",
     "caption": "Providing everything you need for everyday strength, Ensure Gold is not only plant-based, but it is also packed with a triple protein blend, as well as 28 vitamins and minerals for complete and balanced nutrition. Choose the almond flavor if you’d like a hint of nuttiness in your drink! Ensure Gold is available at #TheMarketplace, along with other adult nutritional supplements. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Ensure"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FD7.jpg",
@@ -161,7 +175,10 @@ const FATHERS_DAY_DATA = [
     "categoryConfidence": "high",
     "campaign": "FATHER’S DAY",
     "caption": "Known as one of the most sophisticated cocktails and often associated with jazz, a classic Old Fashioned uses whiskey as its spirit and is mixed with other ingredients such as ice, bitters, and sugar.\n\nIf you have a bottle Chivas Regal at home, grab some bitters, orange slices, and maraschino cherries and craft this classy cocktail right at the comfort of home. Perfect to cheers with Dad this Father’s Day, too!\n\nFind Chivas Regal, along with other premium spirits, when you shop at #TheMarketplace, and remember to drink responsibly!\n\nServing Time: 3 minutes\nYield: 1 serving\n\nIngredients\n\n1 cup ice\n2 shots Chivas Regal\n1 tbsp. orange bitters\n2 orange slices\n1 maraschino cherry\n\nProcedure\n\n1. Line a 10x15” baking pan with parchment. \n2. In a saucepan, combine corn syrup and white sugar. Let boil. Once sugar is fully melted, mix in peanut butter and honey. \n3. Transfer Nestlé Gold Honey & Berries into the lined baking ban. Top with cranberries and white chocolate chips. \n4. Pour corn syrup mixture all over the cereal, making sure to coat everything. \n5. Let set in the chiller for 12-15 minutes. \n6. Once firm, slice into bars. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Chivas Regal",
+      "Nestlé"
+    ],
     "recipe": {
       "servingTime": "3 minutes",
       "yield": "1 serving",
@@ -207,7 +224,9 @@ const FATHERS_DAY_DATA = [
     "categoryConfidence": "high",
     "campaign": "FATHER’S DAY",
     "caption": "We often associate olive oil with cooking and salads, but did you know that olive oil adds an extra dimension to cakes, too?\n\nRegular olive oils and extra virgin olive oils have a more pronounced fruit and olive flavor, which is why we opted for Papa Alfredo Pomace Olive Oil in this recipe for Lemon Rosemary Olive Oil Cake. Pomace Olive Oil has pretty much no taste, but still yields a cake with a fuller mouthfeel. The herbaceous and tangy blend of rosemary and lemons give it its vibrance, and the cream cheese frosting adds familiarity and decadence.\n\nTry your hand at baking this delicious cake! Head over to #TheMarketplace now and find all the ingredients you need.\n\nServing Time: 1 hour and 15 minutes\nYield: 1 9-inch cake\n\nIngredients\n\n1⅓ cups flour\n1 tsp. baking powder\n½ tsp. baking soda\n¼ tsp. salt\n4 tbsps. lemon zest\n2 tbsps. rosemary, chopped\n2 eggs\n¾ cup sugar\n⅛ cup lemon juice\n½ cup Papa Alfredo Pomace Olive Oil\n½ cup cream cheese, softened\n1 cup powdered sugar\n¼ tsp. Vanilla extract\n1 lemon, sliced\n½ cup rosemary sprigs\n\nProcedure\n\n1. Preheat oven to 175°C. Grease a 9-inch cake pan. \n2. In a large bowl, combine flour, baking powder, baking soda, salt, lemon zest and rosemary. Set aside.\n3. In another bowl, combine eggs, sugar, lemon juice and Papa Alfredo Pomace Olive Oil.\n4. Using an electric mixer, combine the dry mixture and the wet mixture until smooth.\n5. Transfer cake batter into the greased cake pan. Bake for 30-35 minutes, or until a toothpick inserted in the middle comes out clean. Let cool completely.\n6. Mix together cream cheese, powdered sugar and vanilla extract until smooth.\n7. Unmold the Olive Oil Cake, then top with the cream cheese frosting. Garnish with lemon slices and rosemary sprigs\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Papa Alfredo"
+    ],
     "recipe": {
       "servingTime": "1 hour and 15 minutes",
       "yield": "1 9-inch cake",

@@ -142,7 +142,9 @@ const HALLOWEEN_DATA = [
     "categoryConfidence": "high",
     "campaign": "HALLOWEEN",
     "caption": "Here's an easy Halloween decoration idea using Edison Wax Candles that you can easily find at #TheMarketplace!\n\nSimply cut out some Jack-o'-lantern features with black paper, and paste them on the candles — just like in the photo above! Tag us at @themarketplacefresh and show us your creepy candle creations!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Edison"
+    ],
     "recipe": null,
     "photo": {
       "filename": "HL6.jpg",
@@ -237,7 +239,9 @@ const HALLOWEEN_DATA = [
     "categoryConfidence": "low",
     "campaign": "HALLOWEEN",
     "caption": "There’s nothing like a ritual of cookies and milk, which is why you have to grab a bag of Woolworths Fully Loaded Cookies in Salted Caramel the next time you visit #TheMarketplace, as it is a grocery exclusive.\n\nImagine a triple treat of salted caramel cream encased in a crumbly dark chocolate cookie, dipped in chocolate. Best paired with a cold glass of milk — or your favorite iced coffee!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Woolworths"
+    ],
     "recipe": null,
     "photo": {
       "filename": "HL10.jpg",

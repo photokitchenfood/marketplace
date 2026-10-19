@@ -170,7 +170,9 @@ const KOREAN_FESTIVAL_DATA = [
     "categoryConfidence": "low",
     "campaign": "KOREAN FESTIVAL",
     "caption": "Enjoy the flavors of Korea anytime you want with Esotukk Sweet & Spicy Topokki Fish Cake! One of the most popular street foods in Korea, this topokki is laced with an addictive sweet and spicy sauce that will instantly transport you to the streets of Seoul. Find it at #TheMarketplace, along with other instant Korean food!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Topokki"
+    ],
     "recipe": null,
     "photo": {
       "filename": "KF7.jpg",
@@ -187,7 +189,9 @@ const KOREAN_FESTIVAL_DATA = [
     "categoryConfidence": "medium",
     "campaign": "KOREAN FESTIVAL",
     "caption": "Using seed extracts from macadamia nuts and honey, Kundal Honey and Macadamia shampoo in Cherry Blossom is blended with a special redberry mix to provide a charming cherry blossom scent. Stay fresh and keep your hydrated all day with Kundal shampoos imported from Korea! Find them at #TheMarketplace, along with other bath needs.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Kundal"
+    ],
     "recipe": null,
     "photo": {
       "filename": "KF8.jpg",
@@ -204,7 +208,9 @@ const KOREAN_FESTIVAL_DATA = [
     "categoryConfidence": "medium",
     "campaign": "KOREAN FESTIVAL",
     "caption": "Tea tree oil is not only beneficial for the skin, but it is also a wonder product for the hair. Tea tree is known to have antibacterial and antifungal properties, as well as being transformative in making hair follicles more receptive to nutrition, resulting to overall hair growth.\n\nGrab a bottle of Kundal Tea Tree & Macadamia Shampoo in White Musk the next time you shop at #TheMarketplace! \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Kundal"
+    ],
     "recipe": null,
     "photo": {
       "filename": "KF9.jpg",
@@ -247,7 +253,9 @@ const KOREAN_FESTIVAL_DATA = [
     "categoryConfidence": "low",
     "campaign": "KOREAN FESTIVAL",
     "caption": "A classic Korean comfort dish, No Brand’s Anchovy Flavor Rice Noodle comes with chewy noodles and a soul-warming anchovy broth. It’s simple, straightforward, and so convenient. Make sure you have a pack or two ready in your pantry for an easy and filling meal! Find No Brand products at #TheMarketplace, along with other Korean brands! \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "No Brand"
+    ],
     "recipe": null,
     "photo": {
       "filename": "KF11.jpg",
@@ -264,7 +272,9 @@ const KOREAN_FESTIVAL_DATA = [
     "categoryConfidence": "low",
     "campaign": "KOREAN FESTIVAL",
     "caption": "There is a good reason Nut Bar is Korea’s best selling energy bar!\n\nThis grab-and-go cereal bar comes with gobs of chocolate and is studded with almonds to keep you energized and satisfied. Made with a nutritious and delicious combination of grains, make sure to carry one around with you always! Find Nut Bar at #TheMarketplace, along with other delicious cereal bars.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Nutbar Choco Almond"
+    ],
     "recipe": null,
     "photo": {
       "filename": "KF12.jpg",

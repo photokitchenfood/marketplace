@@ -115,7 +115,9 @@ const NOVEMBER_IG_DATA = [
     "categoryConfidence": "medium",
     "campaign": "NOV 2022 IG & FB",
     "caption": "Powerful, fresh-smelling, and capable of killing 99.9% of common household germs and viruses, Family Guard Disinfectant Spray is a must-have in every household.\n\nProtect those you love the most, including yourself, by ensuring you have a clean, germ-free home. Shop Family Guard Disinfectant Spray, along with other household cleaning products, at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Family Guard"
+    ],
     "recipe": null,
     "photo": {
       "filename": "IG5.jpg",
@@ -132,7 +134,9 @@ const NOVEMBER_IG_DATA = [
     "categoryConfidence": "low",
     "campaign": "NOV 2022 IG & FB",
     "caption": "Imported from Spain, El Corte Dark Chocolate boasts pure flavors of cacao in each delicate bar. Brimming with the finest taste of cacao, this Spanish chocolate brand might just be your next favorite one, especially if you’re a fan of dark chocolate.\n\nEl Corte Dark Chocolate is available at #TheMarketplace, along with a wide variety of imported chocolate brands. Head over now and get your chocolate fix!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "El Corte"
+    ],
     "recipe": null,
     "photo": {
       "filename": "IG6.jpg",
@@ -149,7 +153,9 @@ const NOVEMBER_IG_DATA = [
     "categoryConfidence": "low",
     "campaign": "NOV 2022 IG & FB",
     "caption": "Surprisingly local, Lemon-Dou Devil Lemon may be one of the hippest and hottest beverages around — and yes! We have it in stock at #TheMarketplace!\n\nPacked with bold lemon flavor, this refreshing chu-hi is refreshing and full-bodied. Drink responsibly!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Lemon-Dou Devil Lemon"
+    ],
     "recipe": null,
     "photo": {
       "filename": "IG7.jpg",
@@ -244,7 +250,9 @@ const NOVEMBER_IG_DATA = [
     "categoryConfidence": "low",
     "campaign": "NOV 2022 IG & FB",
     "caption": "Want something quick and easy to warm the soul and nourish the body this time of the year? Head over to #TheMarketplace and grab a box or two of Our Kitchen’s Ready-to-Eat Korean Beef Stew. It’s instant satisfaction that’s best paired with a steaming bowl of rice. Make sure to always have one in the fridge for when the cravings kick in!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Our Kitchen"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FB4.jpg",
@@ -287,7 +295,9 @@ const NOVEMBER_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "NOV 2022 IG & FB",
     "caption": "If you’re looking for a natural deodorant to complement your busy and active lifestyle, grab Milcu Sports Deodorant the next time you visit #TheMarketplace! Made with potash alum to neutralize body odor, use it for your underarms and even on your feet! Its formulation also makes it skin-neutral, does not darken skin, and does not stain clothes. Try it out!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Milcu Sports Deodorant"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FB6.jpg",
@@ -304,7 +314,9 @@ const NOVEMBER_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "NOV 2022 IG & FB",
     "caption": "Made with a unique blend of virgin fibers, Kleenex Ultra Soft Tissue promises ultimate comfort as you clean. Smooth and delicate to the touch, it’s a great product to use especially for those with sensitive skin. #TheMarketplace is home to a wide variety of tissue brands so that you can choose the one that fits your lifestyle best. Head over now!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Kleenex"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FB7.jpg",
@@ -399,7 +411,9 @@ const NOVEMBER_IG_DATA = [
     "categoryConfidence": "low",
     "campaign": "NOV 2022 IG & FB",
     "caption": "Who would’ve thought that a simple combination of sugar or honey, whipped egg whites, and roasted nuts would yield something as delicious as nougat?\n\nIf you’re a fan of this sweet treat, head over to #TheMarketplace today and grab a box or two (or three) of El Corte Alicante Nougat that’s bursting with roasted almonds. Make sure you have a lot of these because they can disappear quite quickly!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "El Corte"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FB11.jpg",

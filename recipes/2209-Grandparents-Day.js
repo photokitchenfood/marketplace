@@ -12,7 +12,9 @@ const GRANDPARENTS_DAY_DATA = [
     "categoryConfidence": "low",
     "campaign": "GRANDPARENTS’ DAY",
     "caption": "Loaded with all nutrients and minerals to support adult health, Ensure Gold in Chocolate flavor is a great drink to kick-start the day with.\n\nApart from having it on its own, other creative ways to enjoy it are by blending it with bananas for a chocolate-banana smoothie, or having it with coffee for an instant mocha.\n\nFind Ensure Gold, which is also available in vanilla flavour, along with other supplements at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Ensure"
+    ],
     "recipe": null,
     "photo": {
       "filename": "GD1.jpg",
@@ -29,7 +31,9 @@ const GRANDPARENTS_DAY_DATA = [
     "categoryConfidence": "medium",
     "campaign": "GRANDPARENTS’ DAY",
     "caption": "Another popular style of egg sandwich is the one from Hong Kong, which is made by layering velvety smooth scrambled eggs and ham in between slices of fluffy milk bread.\n\nNaturally, we used Fuwa Fuwa Premium Loaf to make these Hong Kong Style Ham and Egg Sandwiches because of both the bread’s texture and flavor that highly complement the savory ham and the creamy scrambled egg. The secret to making the eggs extra tasty is a dash of chicken powder and sesame oil, while the cornstarch slurry gives it its unique texture.\n\nHave a taste of Hong Kong and grab all the ingredients you need for this recipe at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 3 servings\n\nIngredients\n\n½ cup butter\n6 slices Fuwa Fuwa Premium Loaf \n6 slices ham\n6 eggs, beaten\n½ tsp. chicken powder\n1 tsp. sesame oil\n1 tsp. milk\n1 tsp. cornstarch slurry\n\nProcedure\n\n1. Slice off the crusts of the Fuwa Fuwa Premium Loaf. \n2. Set a pan over medium heat, then add a tablespoon of butter and toast one side of bread. Repeat for all 6 slices. \n3. Using the same pan, lightly sear ham and set aside.\n4. Whisk together eggs, chicken powder, sesame oil, milk and cornstarch slurry. Using the same pan, add remaining butter. Pour over beaten eggs, and mix continuously to make small curds. Let form into a creamy omelette. Once cooked to your desired doneness, divide into 3 portions. \n5. To assemble, place 1 serving of omelette on top of 1 Fuwa Fuwa Bread. Add 2 slices of ham on top, and cover with another slice of bread. Cut into half before serving.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Fuwa Fuwa"
+    ],
     "recipe": {
       "servingTime": "15 minutes",
       "yield": "3 servings",
@@ -52,7 +56,9 @@ const GRANDPARENTS_DAY_DATA = [
     "categoryConfidence": "medium",
     "campaign": "GRANDPARENTS’ DAY",
     "caption": "This recipe for Pineapple Crumble is perfect as the months get cooler. Made with Waitrose Essential Fruit and Fibre Cereal, another delicious way to enjoy this is by having it with your favorite vanilla ice cream. Pineapples remind us of the tropical summer weather as we welcome the -ber months, while the flavors of cinnamon and brown sugar add comfort and warmth. Excited to try this recipe out? Head over to #TheMarketplace and shop all the ingredients you need for this recipe today!\n\nServing Time: 40 minutes\nYield: 3-4 servings\n\nIngredients\n\n3 cups Waitrose Essential Fruit and Fibre Cereal\n½ cup flour\n1 cup white sugar \n1 cup butter, melted\n½ tbsp. cinnamon\n¾ cup brown sugar\n3 tbsps. cornstarch\n4 cups pineapple chunks, drained\n1 cup whipped cream\nMint leaves for garnish\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. Crush 1½ cups of Waitrose Essential Fruit and Fibre Cereal. Add into a large bowl together with the remaining cereal, flour, white sugar and melted butter. Mix until well combined.\n3. In a separate bowl, toss together cinnamon, brown sugar, cornstarch and pineapple chunks until well combined.\n4. Transfer to an oven safe dish, and top with with Essential Waitrose Fruit and Fibre Cereal crumble. \n5. Bake for 20-30 minutes. Let cool before serving. Top with whipped cream and mint leaves.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Waitrose"
+    ],
     "recipe": {
       "servingTime": "40 minutes",
       "yield": "3-4 servings",

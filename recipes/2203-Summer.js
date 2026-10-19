@@ -12,7 +12,9 @@ const SUMMER_DATA = [
     "categoryConfidence": "high",
     "campaign": "SUMMER",
     "caption": "Waking up to the smell of Tender Juicy Hotdogs frying away is always a great way to start the day.\n\nIf you’re looking to jazz up your Tender Juicy Jumbo Hotdogs, a delicious way to prepare them is by making this Hotdog Breakfast Hash with potatoes and bell peppers. Try it out for breakfast, and don’t forget to serve with some sunny side up eggs. All the ingredients you need for this recipe are available at #TheMarketplace!\n\nServing Time: 30-35 minutes\nYield: 2-3 servings\n\nIngredients\n\n2 cups potatoes, sliced into chunks\n2 tbsps. olive oil\n6 Tender Juicy Jumbo Hotdogs, sliced\n2 tbsps. butter\n¾ cup red bell peppers\n¾ cup green bell peppers\nSalt and pepper to taste\n¼ cup cilantro leaves\n\nProcedure\n\n1. Set a small pot over medium heat. Boil potatoes in salted water. Let cook until fork tender.\n2. Set a pan over medium heat, then add oil. Pan-fry drained potato chunks until golden brown. Set aside.\n3. Using the same pan, fry sliced Tender Juicy Jumbo Hotdogs. Set aside.\n4. Add butter to the pan, then sauté red and green bell peppers. Season with salt and pepper. Add back cooked hotdog and potatoes. Garnish with cilantro.\n5. Serve alongside fried eggs and bread.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Tender Juicy"
+    ],
     "recipe": {
       "servingTime": "30-35 minutes",
       "yield": "2-3 servings",
@@ -35,7 +37,9 @@ const SUMMER_DATA = [
     "categoryConfidence": "high",
     "campaign": "SUMMER",
     "caption": "A Tiramisu Affogato might sound like an overkill, but trust us when we say it’s the best way to perk up a dreary afternoon.\n\nGet out of that mid-day funk and scoop some Grom Gelato Al Tiramisu in a cup, and layer with ladyfingers, chocolate syrup, and whipped cream. Sprinkle with some chopped chocolate and drown your decadent creation with some hot, robust espresso. You can thank us later. \n\nTry it out with other Grom Gelato flavors, too, and out our treasure trove of ice creams at #TheMarketplace! \n\nServing Time: 5 minutes\nYield: 2 servings\n\nIngredients\n\n6 scoops Grom Gelato Al Tiramisu\n2 cups ladyfingers, crumbled\n½ cup chocolate syrup \n1 cup whipped cream\n3 tbsps. chocolate, chopped\n2 shots of espresso\n\nProcedure\n\n1. Add 2 scoops of Grom Gelato Al Tiramisu in a dessert glass, layered with crumbled ladyfingers. Drizzle with chocolate syrup and add a layer of whipped cream.\n2. Top with another scoop of Tiramisu Gelato and sprinkle with chopped chocolate. Serve with a shot of espresso on the side. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Grom Gelato"
+    ],
     "recipe": {
       "servingTime": "5 minutes",
       "yield": "2 servings",
@@ -81,7 +85,9 @@ const SUMMER_DATA = [
     "categoryConfidence": "high",
     "campaign": "SUMMER",
     "caption": "There’s nothing like a creamy, cheesy, mushroom omelette. Made with Narcissus Pieces and Stems Mushrooms, this classic brunch dish is made even more special by lightly broiling the cheese on top. Garlicky, creamy, and just waiting to be tucked into, balance out the richness of this omelette by serving a salad on the side. Shop at #TheMarketplace for a wide selection of canned vegetables and more!\n\nServing Time: 15 minutes\nYield: 2-3 servings\nOptional: Lightly broil the cheese on top.\n\nIngredients\n\n2 tbsps. olive oil\n1 clove garlic, minced\n1 can Narcissus Pieces and Stems Mushrooms\nSalt and pepper to taste\n3 tbsps. butter\n5 eggs, beaten\n¾ cup mozzarella cheese, slices\n2 tbsps. parsley, chopped\n\nProcedure\n\n1. Set a non-stick pan over medium heat. Sauté garlic until lightly browned. Add the can of Narcissus Pieces and Stems Mushrooms, then season with salt and pepper. Cook until tender. Transfer to a bowl and set aside.\n2. Add salt to beaten eggs. Using the same pan, add 2 tablespoons of butter followed by beaten eggs. Stir continuously until fluffy, then add the remaining butter and stir again.\n3. Evenly distribute scrambled eggs in the pan and add ¼ cup mozzarella cheese and sautéed mushrooms. \n4. Cover for 2 minutes and flip the other side to create a pocket. Add the rest of cheese and cover again for another minute.\n5. Transfer to a plate and garnish with chopped parsley.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Narcissus"
+    ],
     "recipe": {
       "servingTime": "15 minutes",
       "yield": "2-3 servings",
@@ -104,7 +110,9 @@ const SUMMER_DATA = [
     "categoryConfidence": "high",
     "campaign": "SUMMER",
     "caption": "Can we tempt you with this Ube Milkshake made with Nestlé Temptations Extra Creamy Ube Ice Cream? And what is an ube dessert without cheese, right? So yes, we’re adding some grated cheese into this dreamy milkshake that’ll surely bring everyone to your yard.\n\nDiscover new ice cream favorites at #TheMarketplace and explore our wide selection of ice creams from both local and imported brands!\n\nServing Time: 5 minutes\nYield: 2 servings\n\nIngredients\n\n3 cups Nestlé Temptations Extra Creamy Ube Ice Cream\n1 cup full cream milk\n1 cup cheese, grated\n4 tbsps. ube halaya\n\nProcedure\n\n1. Using a blender, combine Nestlé Temptations Extra Creamy Ube Ice Cream, milk and half cup grated cheese until smooth and creamy.\n2. Coat the inside of the glass with 2 tablespoons of ube halaya, then fill with ube milkshake.\n3. Top milkshake with remaining half of grated cheese before serving.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Nestlé"
+    ],
     "recipe": {
       "servingTime": "5 minutes",
       "yield": "2 servings",
@@ -127,7 +135,9 @@ const SUMMER_DATA = [
     "categoryConfidence": "high",
     "campaign": "SUMMER",
     "caption": "With summer rolling in, nothing flaunts the season as sweetly as tropical fruit desserts do!\n\nPrepare this Fruity Panna Cotta, made with Alaska Evaporada, for those lazy, hazy afternoons, or for a refreshing dessert! A tropical fruit blend of mangos, avocados, honeydews, watermelons, and banana lay atop creamy, vanilla panna cotta — ready to be tucked into when the mood calls for it. Find the freshest fruits and everything else that you need for this recipe at #TheMarketplace!\n\nServing Time: 2 hours\nYield: 4 servings\n\nIngredients\n\n1 can (370 ml) Alaska Evaporada\n2 tbsps. gelatin powder\n1 cup heavy cream \n1 cup white sugar \n1 tsp. vanilla extract\n½ tsp. lemon zest\n1 mango, flesh cubed \n1 avocado, flesh cubed \n¼ honeydew melon, flesh balled\n¼ watermelon, flesh balled \n1 banana, sliced \n\nProcedure\n\n1. Bloom gelatin powder in ¼ cup Alaska Evaporada. Set aside. \n2. In a saucepan, combine remaining Alaska Evaporada, heavy cream, sugar, vanilla and lemon zest. Bring to a boil and stir until sugar is well dissolved. Mix in bloomed gelatin. Transfer to serving glasses and chill for at least 1 hour. \n3. Top with mangoes, avocados, melons and bananas. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Alaska"
+    ],
     "recipe": {
       "servingTime": "2 hours",
       "yield": "4 servings",

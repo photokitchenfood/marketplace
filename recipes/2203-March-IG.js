@@ -35,7 +35,9 @@ const MARCH_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "MAR IG & FB",
     "caption": "If you’re in the mood for a protein-packed meal, easily whip up this recipe for Hickory-Smoked Bacon-Wrapped Chicken, made with Burgers’ Smokehouse Peppered Hickory Smoked Bacon! The secret to this delicious chicken dish is the double smokiness brought by the bacon and barbecue sauce. Skip the rice, and enjoy with some mashed potatoes on the side and an arugula salad for a complete and balanced meal. Find all the ingredients you need at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 6 pieces\nOptional: Serve with mashed potatoes and an arugula salad.  \n\nIngredients\n\n6 chicken breast fillets\nSalt and pepper to taste \n3 tbsps. olive oil \n1 pack Burgers’ Smokehouse Peppered Hickory Smoked Bacon \n1 cup barbecue sauce \n\nProcedure\n\n1. Season chicken breast fillet with salt and pepper. Preheat oven to 180°C. \n2. Heat up a frying pan over medium-high heat. Sear chicken in batches until you get a nice color on both sides. \n3. Wrap each chicken breast fillet with 2-3 pieces of Burgers’ Smokehouse Peppered Hickory Smoked Bacon, then coat well with barbecue sauce. \n4. Transfer bacon-wrapped chicken in an oven-safe dish, then bake for 10-12 minutes, or until chicken is cook through and bacon is nicely browned. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Burgers’ Smokehouse"
+    ],
     "recipe": {
       "servingTime": "30 minutes",
       "yield": "6 pieces",
@@ -58,7 +60,9 @@ const MARCH_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "MAR IG & FB",
     "caption": "Not only are cockroaches an unpleasant sight, but they also carry a lot of germs that can cause sickness. Stop the cockroach infestation and put their breeding to a halt with Baygon’s 24-hour Roach Killer that destroys not only cockroaches, but their nests, too.\n\nHead to #TheMarketplace now to stock up and keep your home a clean and healthy one.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Baygon"
+    ],
     "recipe": null,
     "photo": {
       "filename": "IG3.jpg",
@@ -75,7 +79,9 @@ const MARCH_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "MAR IG & FB",
     "caption": "Give your feline friends a tasty treat with Sheba’s Melty Tuna hand feed.\n\nMade with the same recipe as Japan’s, each sachet comes with flaked meat swirled in a delicious gravy that provides complete nutrition for your kitty. Get your pet needs and more at #TheMarketplace and have them delivered to your doorstep as well!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Sheba"
+    ],
     "recipe": null,
     "photo": {
       "filename": "IG4.jpg",
@@ -92,7 +98,9 @@ const MARCH_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "MAR IG & FB",
     "caption": "There are days that can only be completed with a mouthwatering, luscious, and juicy hamburger, don’t you agree?\n\nIf you’ve caved into your craving and planning to make a burger, we recommend adding a dollop of Essential Waitrose Creamed Horseradish Sauce for a touch of creaminess and a kick of heat. Definitely an essential to every kitchen cupboard and pantry, this sauce is versatile and works excellently with smoked fish, roast beef, and cold cut sandwiches. \n\nDiscover Waitrose products, along with other grocery items from trusted imported brands, only at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 1 burger\nOptional: Serve with extra Creamed Horseradish Sauce on the side.\n\nIngredients\n\n1 tbsp. canola oil\n1 beef burger patty\n1 slice cheddar cheese\n1 tbsp. butter \n1 burger bun, halved \n2 tbsps. Essential Waitrose Creamed Horseradish Sauce \n2-3 pcs. curly leaf lettuce \n3 slices tomato \n3 slices red onion \n\nProcedure\n\n1. Heat up a pan over medium-high heat, then add oil. Sear beef burger patty for 2-3 minutes on each side. Top with cheese and cover for another 2 minutes. Set aside beef. \n2. In the same pan, melt butter. Toast burger buns cut side down. \n3. To assemble, spread Essential Waitrose Creamed Horseradish Sauce on each burger bun. Top bottom bun with lettuce, tomato slices, red onion slice, beef burger patty with cheese and finally, the top bun.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Waitrose"
+    ],
     "recipe": {
       "servingTime": "15 minutes",
       "yield": "1 burger",
@@ -115,7 +123,9 @@ const MARCH_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "MAR IG & FB",
     "caption": "Give your canine companion the best care available with Alpo’s Adult Chicken Liver and Vegetable dry dog food. Providing complete and balanced nutrition, as well as promoting healthy skin and a shiny coat, you can be sure of a happy dog that’s healthy on the inside. \n\nShop at #TheMarketplace for Alpo products and other pet essentials!\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Alpo"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FB1.jpg",
@@ -132,7 +142,9 @@ const MARCH_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "MAR IG & FB",
     "caption": "For those busy nights or those days when back-to-back Zoom calls cut your lunch time short, always make sure to have Purefoods ready-to-eat meals stored in your fridge.\n\nThe Pininyahang Manok contains fully cooked bone-in chicken that’s cut up and stewed in a blend of coconut milk and pineapple juice, complete with bell peppers and pineapple bits. All you need is some steaming hot rice! Grab your Purefoods meals now at #TheMarketplace.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Purefoods"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FB2.jpg",
@@ -149,7 +161,9 @@ const MARCH_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "MAR IG & FB",
     "caption": "Have you checked our Gourmet to Go meals at #TheMarketpalce?\n\nIf you’re rushing and are in need of a quick and healthy bite, grab a pack of our Classic Chef’s Salad that comes complete with all the fixings and guaranteed super-fresh. Perfect for on-the-go folks!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Gourmet-to-Go"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FB3.jpg",
@@ -166,7 +180,9 @@ const MARCH_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "MAR IG & FB",
     "caption": "Craving some salad but have no time to prepare one? Head over to #TheMarketplace and pick up one of our Gourmet to Go Greek Salad & Herbed Chicken bowls! Each salad bowl comes filled with all the ingredients needed for a delicious and nutritious meal, all packed separately for ultimate freshness on the go!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Gourmet-to-Go"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FB4.jpg",
@@ -183,7 +199,9 @@ const MARCH_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "MAR IG & FB",
     "caption": "For your next #MeatlessMonday, grab a pack of Quorn Mince from #TheMarketplace and prepare these smoky and zesty Quorn Mince-Stuffed Bell Peppers! We swear, you won’t believe this dish does not contain meat at all. This Mexican-inspired recipe takes less than half an hour to make, so it’s perfect if you need a quick lunch idea, while keeping to the meat-free route. \n\nQuorn products are readily available at #TheMarketplace, along with other meat-free alternatives. \n\nServing Time: 18 minutes\nYield: 6 pieces\n\nIngredients\n\n2 tbsps. olive oil \n1 white onion, diced\n3 cloves garlic, chopped\n½ tsp. paprika\n½ tsp. cumin\n1 tsp. oregano \n1 pack Quorn Mince\n½ cup corn kernels \nSalt and pepper to taste\n¼ cup cilantro leaves, chopped \n3 bell peppers\n½ cup mozzarella cheese, grated \n\nProcedure\n\n1. Preheat oven to 180°C. \n2. Set a pan over medium heat, then add olive oil. Sauté onion and garlic until soft. Mix in paprika, cumin and oregano. \n3. Add Quorn Mince and corn kernels, then season with salt and pepper. Turn off heat, then mix in cilantro. \n4. Slice each bell pepper vertically, then deseed. Add Quorn Mince inside, then top with mozzarella cheese. Repeat for the remaining bell peppers and Quorn Mince, then transfer to a baking dish. \n5. Bake for 8-10 minutes, or until bell peppers are soft. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Quorn Mince"
+    ],
     "recipe": {
       "servingTime": "18 minutes",
       "yield": "6 pieces",
@@ -206,7 +224,9 @@ const MARCH_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "MAR IG & FB",
     "caption": "Long day?\n\nPrepare this Golden Milk Tea made with Sekaya Easy Nightcap tea before bed to soothe your soul. Made with turmeric, which is known to improve heart health, elevate the mood, and prevent Alzheimer’s disease and cancer, and cinnamon to add a cozy touch, make this evening beverage your go-to before you drift off to dreamland. \nTry Sekaya Easy Nightcap before bed and level it up by adding turmeric for a Golden Milk Tea to soothe the soul. Sekaya Easy Nightcap contains chamomile flowers and catnip leaves that helps induce a more relaxing sleep. \nAll the ingredients you need are available at #TheMarketplace.\n\nServing Time: 8 minutes\nYield: 1 serving\n\nIngredients\n\n1 cup plant-based milk \n1 Sekaya Easy Nightcap tea bag \n½ tsp. ground turmeric \n½ tsp. ground cinnamon \n½ tsp. honey\n\nProcedure\n\n1. Heat up milk. Steep Sekaya Easy Nightcap tea bag for 5 minutes.\n2. Remove tea bag, then whisk in turmeric, cinnamon and honey. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Sekaya Easy"
+    ],
     "recipe": {
       "servingTime": "8 minutes",
       "yield": "1 serving",
@@ -229,7 +249,9 @@ const MARCH_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "MAR IG & FB",
     "caption": "A usually overlooked condiment that is a must-have in every home is mustard, and Essential Waitrose’s Wholegrain Mustard is not only premium, but it’s also so versatile and adds an extra lift to pork chops. As a bonus, mustard is also a superfood!\n\nIn this recipe for Braised Pork Chops in Mustard Sauce, mustard adds a tangy and addictive taste to the pork, and the addition of white wine, butter, herbs, and aromatics transform the humble pork chop into something truly lip-smacking and spectacular. No need to scramble, head over to #TheMarketplace now and shop for all the ingredients you need there.\n\nServing Time: 20 minutes\nYield: 4 servings\n\nIngredients\n\n4 pork chops\nSalt and pepper to taste\n3 tbsps. olive oil \n¼ cup dry white wine\n2 tbsps. butter\n1 white onion, diced\n3 cloves garlic, minced \n3 tbsps. Essential Waitrose Wholegrain Mustard \n¼ cup capers, drained \n½ cup chicken stock \n½ cup milk \n2 sprigs rosemary \n\nProcedure\n\n1. Season pork chops with salt and pepper on both sides. \n2. Heat up a pan over medium heat, then add in olive oil. Sear pork chops until nicely browned on both sides. Set aside pork chops while retaining oil in the pan. \n3. Deglaze pan with white wine. Once most of it evaporates, add in butter. Sauté onion and garlic until soft. Mix in Essential Waitrose Wholegrain Mustard, capers, chicken stock, milk and rosemary. Season with salt and pepper to taste. \n4. Add back seared pork chops and coat well with the sauce. Cook for another 3-5 minutes, or until pork chops are cooked through and sauce has thickened slightly. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Essential Waitrose"
+    ],
     "recipe": {
       "servingTime": "20 minutes",
       "yield": "4 servings",

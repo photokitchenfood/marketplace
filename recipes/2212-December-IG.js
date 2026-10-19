@@ -12,7 +12,9 @@ const DECEMBER_IG_DATA = [
     "categoryConfidence": "medium",
     "campaign": "DEC IG & FB",
     "caption": "Sleek, stylish, and keeps your room smelling so good, Glade Automatic Spray quickly fills your room with fragrance for up to 60 days. Perfect especially for the holidays when entertaining is a must!\n\nGet all your holiday hosting essentials and choose your favorite Glade Automatic Spray at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Glade"
+    ],
     "recipe": null,
     "photo": {
       "filename": "IG3.jpg",
@@ -29,7 +31,9 @@ const DECEMBER_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "DEC IG & FB",
     "caption": "This holiday season, we’re sure that there will be a lot of get togethers where eating and reunions are inevitable. For those moments when you need a quick clean-up, make sure you have boxes of Sanicare Facial Tissue handy — they even come in these cute decorative packages that are perfect for the festivities!\n\nSoft to the touch and delicate on the skin, these are definitely a must-have for every holiday host. Find Sanicare Facial Tissues, along with other facial tissue brands, at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Sanicare"
+    ],
     "recipe": null,
     "photo": {
       "filename": "IG4.jpg",
@@ -98,7 +102,9 @@ const DECEMBER_IG_DATA = [
     "categoryConfidence": "low",
     "campaign": "DEC IG & FB",
     "caption": "For sweet nibbles and small bites, have a jar of Cadbury Old Gold Dark Chocolate Peanut & Honeycomb at bay! Made for moments worth savoring, enjoy Cadbury’s fan-favorite Old Gold dark chocolate recipe that’s coated on honeycomb pieces and crunchy roasted peanuts. Find Cadbury Old Gold chocolates at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Cadbury"
+    ],
     "recipe": null,
     "photo": {
       "filename": "IG7.jpg",
@@ -141,7 +147,9 @@ const DECEMBER_IG_DATA = [
     "categoryConfidence": "low",
     "campaign": "DEC IG & FB",
     "caption": "Add a pop of color to your festive dessert spread with Dizon’s Assorted Fruit Cathedral. Because it’s ready to eat, you can take this straight from the fridge when it’s ready to serve. An iconic Filipino dessert, Cathedral Windows are reminiscent of church windows that truly bring us back to the reason for the season. Head over to #TheMarketplace for all your holiday needs and more!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Dizon Assorted"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FB2.jpg",
@@ -158,7 +166,9 @@ const DECEMBER_IG_DATA = [
     "categoryConfidence": "low",
     "campaign": "DEC IG & FB",
     "caption": "Would you believe that Hueza Crisps are made locally?\n\nWith their beautifully designed packaging, these super-thin nut crisps come in a variety of flavors such as Oatmeal Almond, Toffee Macadamia, Brownie Almond, and more! Perfect for pica-picas or if you’re feeling peckish and are in need of a light bite. Find Hueza Crisps, along with other premium locally made snacks, at #TheMarketplace! These are ideal for gifting, too, by the way!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Hueza Oatmeal"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FB3.jpg",
@@ -279,7 +289,9 @@ const DECEMBER_IG_DATA = [
     "categoryConfidence": "low",
     "campaign": "DEC IG & FB",
     "caption": "Made with Cadbury’s classic Old Gold Dark Chocolate recipe, these Dark Chocolate Coated Almonds are so good, it’ll be hard to stop eating them.\n\nEnjoy these as a snack with moderate indulgence, or use them as toppings for your favorite desserts such as cake and ice cream! Find Cadbury Old Gold products at #TheMarketplace, along with other imported chocolates.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Cadbury"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FB8.jpg",

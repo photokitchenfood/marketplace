@@ -12,7 +12,9 @@ const BREAKFAST_FAIR_DATA = [
     "categoryConfidence": "medium",
     "campaign": "BREAKFAST FAIR",
     "caption": "While there are many stories about the origin of Shakshuka, we can all agree that it is hearty, delicious, and makes for a comforting brunch.\n\nThis recipe for Shakshuka is made using Hunt’s Pork and Beans for ease and for some added familiarity. Don’t forget to crumble some feta cheese on top and serve! We like it best when the yolk is gooey. Find all the ingredients you need for this recipe at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 2-3 servings\n\nIngredients\n\n2 tbsp. olive oil\n1 cup white onions\n1 tbsp. garlic, minced\n2 tbsps. tomato paste\n2 cans Hunt’s Pork and Beans\n½ tsp. cumin\n½ tsp. paprika\nSalt and pepper to taste\n2 eggs\n¼ cup feta, crumbled\n⅓ cup cilantro leaves\n\nProcedure\n\n1. Preheat oven to 175°C\n2. Set a cast iron pan over medium heat, then sauté onions and garlic until soft. Add in tomato paste, and cook until slightly darkened. Mix in Hunt’s Pork and Beans.\n3. Mix in cumin, paprika, then season with salt and pepper. Let simmer for 4 minutes.\n4. Create 2 wells, then add in eggs. Bake for 3-5 minutes, or until eggs are cooked to your desired doneness. Remove from the oven, and top with feta and cilantro leaves.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Hunt’s Pork and Beans"
+    ],
     "recipe": {
       "servingTime": "15 minutes",
       "yield": "2-3 servings",
@@ -35,7 +37,9 @@ const BREAKFAST_FAIR_DATA = [
     "categoryConfidence": "medium",
     "campaign": "BREAKFAST FAIR",
     "caption": "If you’re a fan of chocolate and overnight oats, then you’ll love this recipe for Chocolate & Strawberry Overnight Oats made with Almond Breeze Chocolate Almond Milk.\n\nAlmond milk is rich in Vitamin E and other health benefits, plus the addition of chocolate and chocolate chips enhances the yumminess level of this wholesome breakfast.\n\nAlmond Breeze is available at #TheMarketplace, along with other dairy-free alternatives. Shop today!\n\nServing Time: 2 hours\nYield: 1 serving\n\nIngredients\n\n½ cup rolled oats\n1 tsp. chia seeds\n⅔ cup Almond Breeze Chocolate Almond Milk\n¼ cup strawberries, sliced \n2 tbsps. chocolate chips\n\nProcedure\n\n1. In a mason jar, combine rolled oats, chia seeds and Almond Breeze Chocolate Almond Milk. Cover, and chill for at least 2 hours, or ideally overnight\n2. Right before consumption, top with strawberries and chocolate chips. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Almond Breeze"
+    ],
     "recipe": {
       "servingTime": "2 hours",
       "yield": "1 serving",
@@ -58,7 +62,9 @@ const BREAKFAST_FAIR_DATA = [
     "categoryConfidence": "low",
     "campaign": "BREAKFAST FAIR",
     "caption": "Get the same goodness of fresh cow’s milk for only 90 calories a glass with Nestlé Non-Fat Milk!\n\nAn excellent source of calcium and protein to build, repair, and maintain bones, muscles, and teeth, Nestlé Non-Fat Milk also contains less than 1g of fat per serving. Grab this essential today at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Nestlé"
+    ],
     "recipe": null,
     "photo": {
       "filename": "BF3.jpg",
@@ -75,7 +81,9 @@ const BREAKFAST_FAIR_DATA = [
     "categoryConfidence": "medium",
     "campaign": "BREAKFAST FAIR",
     "caption": "Add some chocolatey crunch to your champorado with the addition of Koko Krunch Cereal!\n\nThis recipe for Koko Krunch Champorado is so simple and easy to prepare, surely enjoyed by both kids and kids-at-heart. Make it this weekend and enjoy that extra krrrunch! Find all the ingredients you need for this recipe at #TheMarketplace.\n\nServing Time: 30-40 minutes\nYield: 2-3 servings\n\nIngredients\n\n½ cup sticky rice\n⅓ cup cocoa powder\n½ cup sugar\n1 tsp. salt\n2 cups water\n½ cup condensed milk\n2 cups Koko Krunch Cereal\n\nProcedure\n\n1. Combine sticky rice, cocoa powder, sugar, salt, and water in a pot and set it over medium heat. Let it boil and continuously stir to avoid sticking.\n2. Cook for 20-30 minutes or until rice is cooked and thickened.\n3. Transfer to a bowl, drizzle with condensed milk and top with Koko Krunch before serving.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Koko Krunch"
+    ],
     "recipe": {
       "servingTime": "30-40mins",
       "yield": "2-3 servings",
@@ -98,7 +106,9 @@ const BREAKFAST_FAIR_DATA = [
     "categoryConfidence": "medium",
     "campaign": "BREAKFAST FAIR",
     "caption": "They say breakfast is the most important part of the day, and it doesn’t hurt to make it creative!\n\nThese Chocolate Oatmeal Muffins make use of Quaker Chocolate Instant Oatmeal, providing an extra boost of protein and fiber in each ooey, gooey, chocolatey cupcake. Bake these fresh, or make-ahead for those days when you need a breakfast muffin on-the-go! All the ingredients you need for this recipe are available at #TheMarketplace, so shop now!\n\nServing Time: 30 minutes\nYield: 1 dozen\n\nIngredients\n\n1 cup Quaker Chocolate Instant Oatmeal\n¾ cup flour\n¼ cup cocoa powder\n⅔ cup sugar\n½ tsp. baking powder\n¼ tsp. baking soda\n½ tsp. salt \n2 eggs\n½ cup butter, melted\n⅓ cup milk\n\nProcedure\n\n1. Preheat oven to 175°C. Grease a muffin tray. \n2. In a large bowl, combine Quaker Chocolate Instant Oatmeal, flour, cocoa powder, sugar, baking powder, baking soda and salt.\n3. In a separate bowl, whisk together eggs, melted butter, and milk. Carefully add the wet mixture into the dry mixture, then mix until just combined .\n4. Add about ¼ cup of the batter into each muffin slot, then bake for 20 minutes.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Quaker"
+    ],
     "recipe": {
       "servingTime": "30 minutes",
       "yield": "1 dozen",
@@ -121,7 +131,9 @@ const BREAKFAST_FAIR_DATA = [
     "categoryConfidence": "medium",
     "campaign": "BREAKFAST FAIR",
     "caption": "Getting bored of cornflakes and milk? This recipe for Cornflake-Apple Pancakes will change your mornings for the better!\n\nUsing Kellogg’s Cornflakes for crunch, the delicious cornflake flavor makes its way into the pancake batter and is made fruitier with the addition of apples. Grab your box of Kellogg’s Corn Flakes, along with other breakfast essentials, when you shop at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 2-3 servings\n\nIngredients\n\n1 cup flour\n2 tsps. baking powder\n¼ tsp. salt\n1½ tbsps. sugar\n1 cup Kellogg’s Corn Flakes\n3 tbsps. butter, melted, plus more for frying\n1½ cup milk\n⅔ cup red apples, sliced\n⅓ cup maple syrup\n\nProcedure\n\n1. In a bowl, combine flour, baking powder, salt, sugar, and Kellogg’s Corn Flakes. Make a well in the center, then add butter and milk. Mix until just combined.\n2. Set a pan over medium heat. Grease with butter, then add ½ cup of the batter. Wait for bubbles to form on top before flipping, then cook for another 1 minute on the other side.\n3. Top with apples, and serve alongside maple syrup.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Kellogg’s"
+    ],
     "recipe": {
       "servingTime": "15 minutes",
       "yield": "2-3 servings",
@@ -144,7 +156,9 @@ const BREAKFAST_FAIR_DATA = [
     "categoryConfidence": "low",
     "campaign": "BREAKFAST FAIR",
     "caption": "Packed with B-vitamins and real fruit flavor, Minute Maid Fresh Mango Juice Drink is a refreshing way to start your morning! Always handy to have in the fridge, enjoy it any time of the day that you need a fruity fix.\n\nFind Minute Maid Fresh, along with other ready-to-drink juices, at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Minute Maid"
+    ],
     "recipe": null,
     "photo": {
       "filename": "BF7.jpg",
@@ -184,7 +198,9 @@ const BREAKFAST_FAIR_DATA = [
     "categoryConfidence": "medium",
     "campaign": "BREAKFAST FAIR",
     "caption": "Make this Creamy Tuyo Pesto in a matter of minutes with Gustazo Gourmet Tuyo!\n\nEarthy pesto combined with cream softens its herbaceous flavor, while the tuyo adds an umami-packed punch. Have it for lunch or dinner for a light yet filling meal — get all the ingredients you need at #TheMarketplace!\n\nServing Time: 25 minutes\nYield: 3-5 servings\n\nIngredients\n\n3 tbsps. butter \n1 red onion, diced \n5 cloves garlic, minced \n1 (225g) bottle Gustazo Gourmet Tuyo, oil drained \n1 cup pesto \n1 cup cream \n½ cup reserved pasta water \nSalt and pepper to taste\n500g spaghetti, cooked according to package instructions \n¼ cup parmesan cheese\n¼ cup basil leaves, julienned\n\nProcedure\n\n1. Sautè red onion and garlic in butter. Once aromatics are soft, add in Gustazo Gourmet Tuyo. Cook for 1-2 minutes while breaking tuyo into pieces. \n2. Mix in pesto, cream and reserved pasta water. Season with salt and pepper to taste. \n3. Add cooked spaghetti, and toss to coat well with the sauce. Mix in parmesan cheese. Turn off the heat, then add basil. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Gustazo Gourmet"
+    ],
     "recipe": {
       "servingTime": "25 minutes",
       "yield": "3-5 servings",
@@ -207,7 +223,9 @@ const BREAKFAST_FAIR_DATA = [
     "categoryConfidence": "low",
     "campaign": "BREAKFAST FAIR",
     "caption": "According to Arla, it’s the best cows that produce the best milk. And at the Arla farms, the cows are pampered and loved. This is precisely why Arla Full Cream Milk is rich, smooth, creamy, and packed a lot of vitamins and minerals. Get this top-of-line full cream milk and explore other brands at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Arla"
+    ],
     "recipe": null,
     "photo": {
       "filename": "BF10.jpg",
@@ -224,7 +242,9 @@ const BREAKFAST_FAIR_DATA = [
     "categoryConfidence": "medium",
     "campaign": "BREAKFAST FAIR",
     "caption": "One of Hawaii’s most iconic dishes may seem quite basic, but it’s loaded with a lot of goodness.\n\nLoco Moco is a dish of rice, a burger patty, gravy, and topped with an egg. It sounds like our very own burger steak, but with the addition of the egg, sesame seeds, and leeks. Using Highlands Classic Mushroom and Beef Patties, here’s a taste of Hawaii that you can enjoy right at home.\n\nGet all the ingredients you need for this recipe only at #TheMarketplace.\n\nServing Time: 20 minutes\nYield: 1 serving\n\nIngredients\n\n2 tbsps. olive oil\n2 Highlands Classic Mushroom and Beef Patties\n2 tbsps. butter\n2 tbsps. flour\n1 cup beef stock\n1 tbsp. worcestershire sauce\n1 cup rice, cooked\n1 egg, cooked sunny side up \n2 tbsps. leeks, sliced\n1 tbsp. sesame seeds\n\nProcedure\n\n1. Set a pan over medium heat, then add olive oil. Sear Highlands Classic Mushroom and Beef Patties until nicely browned on both sides. Set aside.\n2. Using the same pan, add butter and flour to make a roux. Slowly mix in beef stock and worcestershire sauce. Let simmer until thickened. \n3. Place rice on a bowl, then top with cooked Highlands Classic Mushroom and Beef Patties. Pour over gravy, then top with egg.\n4. Top with leeks and sesame seeds before serving.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Highlands Classic"
+    ],
     "recipe": {
       "servingTime": "20 minutes",
       "yield": "1 serving",
@@ -247,7 +267,9 @@ const BREAKFAST_FAIR_DATA = [
     "categoryConfidence": "low",
     "campaign": "BREAKFAST FAIR",
     "caption": "Trix now comes with six exciting fruity flavors: orange, raspberries, blueberries, watermelon, lemon, and grapes, for a fruit-packed spoonful of wholegrain goodness. Trix is also a good source of Vitamin C, B Vitamins, and Zinc.\n\nFind Trix, along with your favorite cereals, at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Trix"
+    ],
     "recipe": null,
     "photo": {
       "filename": "BF12.jpg",
@@ -264,7 +286,9 @@ const BREAKFAST_FAIR_DATA = [
     "categoryConfidence": "medium",
     "campaign": "BREAKFAST FAIR",
     "caption": "Enliven your morning coffee with this Good Morning Coffee Smoothie made with Old Town Classic White Coffee, some bananas, milk, and chia seeds.\n\nYou might think bananas and coffee are an odd combination, but they surprisingly work so well together. #TheMarketplace is home to a wide variety of instant coffee brands, so feel free to take your pick!\n\nServing Time: 5 minutes\nYield: 2-3 servings\n\nIngredients\n\n2 (40g) sachets Old Town Classic \n¼ cup hot water \n3 ripe bananas, frozen \n1 cup milk \n1 tbsp. chia seeds \n\nProcedure\n\n1. Dissolve Old Town Classic in hot water. Let cool. \n2. In a blender, combine dissolved Old Town Classic, bananas, milk and chia seeds. Process until smooth. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Old Town"
+    ],
     "recipe": {
       "servingTime": "5 minutes",
       "yield": "2-3 servings",
@@ -287,7 +311,9 @@ const BREAKFAST_FAIR_DATA = [
     "categoryConfidence": "medium",
     "campaign": "BREAKFAST FAIR",
     "caption": "Here’s another idea to enjoy your Great Taste White Coffee — make these Caramel Latte Pancakes!\n\nBursting with rich vanilla and caramel flavors, the Great Taste White Coffee gives these pancakes their sweet and enjoyable taste. Get your Great Taste White Coffee at #TheMarketplace.\n\nServing Time: 18 minutes\nYield: 8 pieces\nOptional: Top with whipped cream and a drizzle of caramel syrup for a decadent dessert.  \n\nIngredients\n\n1¾ cups all-purpose flour \n3 tsps. baking powder \n½ tsp. salt \n1¼ cups milk \n1 egg\n3 tbsps. butter, melted, plus more for frying\n2 (30g) packs Great Taste White Coffee\n\nProcedure\n\n1. Whisk together all-purpose flour, baking powder and salt. Make a well in the center, then add milk, egg and melted butter. Mix until just combined. \n2. Dissolve Great Taste White Coffee in ¼ cup warm water. Mix into the pancake batter. \n3. Melt some butter in a non-stick pan, then add ¼ cup of the pancake batter. Once bubbles form on the surface of the pancake, then it’s ready to flip. Cook for another 1 minute. Repeat for remaining pancake batter. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Great Taste"
+    ],
     "recipe": {
       "servingTime": "18 minutes",
       "yield": "8 pcs.",
@@ -310,7 +336,9 @@ const BREAKFAST_FAIR_DATA = [
     "categoryConfidence": "low",
     "campaign": "BREAKFAST FAIR",
     "caption": "Ginga green tea comes packed with L-Carnatine and Ginseng, making it an ideal choice for those who want to get healthy or lose weight. Find it at #TheMarketplace along with other healthy drinks.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Ginga"
+    ],
     "recipe": null,
     "photo": {
       "filename": "BF15.jpg",
@@ -327,7 +355,9 @@ const BREAKFAST_FAIR_DATA = [
     "categoryConfidence": "low",
     "campaign": "BREAKFAST FAIR",
     "caption": "Now with a new-and-improved formula, Nestlé Coffeemate Creamer is tastier, richer, and creamier than ever before. Definitely a must-have on the breakfast table. Head over to #TheMarketplace and stock up on it it now.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Nestlé"
+    ],
     "recipe": null,
     "photo": {
       "filename": "BF16.jpg",
@@ -344,7 +374,9 @@ const BREAKFAST_FAIR_DATA = [
     "categoryConfidence": "medium",
     "campaign": "BREAKFAST FAIR",
     "caption": "Have a cheesy start to your day with these Cheezee Breakfast Tartlets made with Magnolia Cheezee Spread and four other simple ingredients.\n\nThis definitely gives your regular cheese sandwich a boost, so make them today and get all the ingredients you need at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 6 pieces\n\nIngredients\n\n6 slices white loaf bread, crust removed \n6 tbsps. butter, softened \n6 eggs \n1 cup Magnolia Cheezee Spread\nSpring onions for garnish, chopped\n\nProcedure\n\n1. Preheat oven to 175°C. \n2. Flatten each bread with a rolling pin, then spread softened butter on both sides. Place on a muffin pan to form tartlets. \n3. Add 1 egg on each bread tartlet. Bake for 8-10 minutes, or until eggs are cooked to your liking and bread is toasted. \n4. Drizzle a generous amount of Magnolia Cheezee Spread on top. Garnish with spring onions. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Magnolia"
+    ],
     "recipe": {
       "servingTime": "15 minutes",
       "yield": "6 pcs.",
@@ -367,7 +399,9 @@ const BREAKFAST_FAIR_DATA = [
     "categoryConfidence": "medium",
     "campaign": "BREAKFAST FAIR",
     "caption": "We made our own version of the popular and trending Cheese Ramen with Eden Cheese. \n\nAll you need is some ramen noodles, butter, garlic, and the ramen seasoning, along with some flour and milk to give your regular noodles a creamy upgrade. Hungry yet? Add these ingredients to your shopping list for the next time you visit #TheMarketplace!\n\nServing Time: 12 minutes\nYield: 2 servings\n\nIngredients\n\n2 rounds ramen noodles\n¼ cup butter \n3 cloves garlic, minced\n2 tbsps. flour \n2 cups milk \n1 cup Eden Cheese, grated\n2 packets ramen seasoning \n2 tsps. furikake seasoning\nSpring onions for garnish\n\nProcedure\n\n1. Cook ramen noodles in boiling water for 3-4 minutes, or until noodles have softened. Set aside ½ cup boiling water, then drain noodles. \n2. Sauté garlic in butter. Once softened, mix in flour and cook for 1-2 minutes, or until flour has slightly darkened and a paste has formed. \n3. Whisk in milk and reserved boiling water. Mix in Eden Cheese and ramen seasoning. Let simmer until thick. \n4. Mix in cooked ramen noodles. Top with furikake seasoning, and garnish with spring onions. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Eden Cheese"
+    ],
     "recipe": {
       "servingTime": "12 minutes",
       "yield": "2 servings",
@@ -390,7 +424,9 @@ const BREAKFAST_FAIR_DATA = [
     "categoryConfidence": "medium",
     "campaign": "BREAKFAST FAIR",
     "caption": "Nothing beats the classic combination of ham, cheese, and tomatoes. Stuffed inside a buttery croissant using Emborg Swiss Slices, it’s a perfect and easy grab-and-go breakfast. Find all the ingredients you need for this recipe at #TheMarketplace!\n\nServing Time: 7 minutes\nYield: 3 servings\n\nIngredients\n\n3 croissants, halved \n1 (200g) pack Emborg Swiss Slices\n2 medium sized tomatoes, sliced \n9 slices sandwich ham\n\nProcedure\n\n1. Fill each croissant with Emborg Swiss Slices, tomatoes and sandwich ham slices. \n2. Toast for 3-5 minutes, or until the croissant is crisp and Emborg Swiss Slices have melted. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Emborg"
+    ],
     "recipe": {
       "servingTime": "7 minutes",
       "yield": "3 servings",
@@ -413,7 +449,9 @@ const BREAKFAST_FAIR_DATA = [
     "categoryConfidence": "medium",
     "campaign": "BREAKFAST FAIR",
     "caption": "There’s something about that tanginess of tomatoes and the richness of cream that make this Sundried Tomato Cream Cheese Pasta a frequent favorite.\n\nMade with Eden Cream Cheese and studded with sundried tomatoes, this savory pasta comes with a hint of sweetness, lots of boldness, and robust tomato flavors. Find all the ingredients you need for this recipe today at #TheMarketplace!\n\nServing Time: 20 minutes\nYield: 4-5 servings\n\nIngredients\n\n2 tbsps. olive oil \n3 tbsps. butter\n1 white onion, diced \n5 cloves garlic, minced \n1 tbsp. tomato paste\n2 tbsps. flour\n1 cup milk \n1 cup reserved pasta water\n1 (225g) bar Eden Cream Cheese, softened \n1 cup sundried tomatoes, sliced \n1 cup spinach, blanched \n500g spaghetti, cooked according to package instructions \nSalt and pepper to taste\n\nProcedure\n\n1. Sauté onion and garlic in a mixture of olive oil and butter. Once aromatics have softened, mix in tomato paste and cook until slightly darkened. \n2. Mix in flour next. Once a paste has formed, slowly whisk in milk and reserved pasta water. Add Eden Cream Cheese, and mix until cheese has fully melted and the sauce is well incorporated. Mix in sundried tomatoes, and let simmer for 2-3 minutes. \n3. Mix in spinach and cooked spaghetti. Season with salt and pepper to taste. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Eden"
+    ],
     "recipe": {
       "servingTime": "20 minutes",
       "yield": "4-5 servings",

@@ -137,7 +137,9 @@ const OCTOBER_IG_DATA = [
     "categoryConfidence": "low",
     "campaign": "OCT IG & FB",
     "caption": "There’s nothing like a soft, spongy mamon to instantly make you feel like a kid again. But don’t worry if you live somewhere without a traditional Pinoy bakery, you can still enjoy this delicious childhood snack with Monde’s version of it. Their Special Mamon is light, pillowy, and sweetened just right. \n\nThese delightful goodies are made with real ingredients, and expertly packaged to retain their freshly-baked flavor. Keep a box of these stocked for a quick snack that you can enjoy at any time of the day. It’s best served with coffee or milk for maximum enjoyment.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Monde"
+    ],
     "recipe": null,
     "photo": {
       "filename": "IG6.jpg",
@@ -154,7 +156,9 @@ const OCTOBER_IG_DATA = [
     "categoryConfidence": "low",
     "campaign": "OCT IG & FB",
     "caption": "Quinoa probably isn’t the first ingredient that comes to mind when you’re thinking of snack puffs. But you’d be surprised at how good these ones from Go Go Quinoa are. They’ve got a bold, spicy taste, crunchy texture, and the nutritional goodness of 6g of protein and 3g of fiber per serving. \n\nThese tasty Sriracha puffs are gluten-free and vegan friendly, so they’re perfect for serial snackers who want to indulge their junk food addiction without compromising their diet. Trust us, you’ll want bags of these stocked after trying them.\n\nPlanning your next house party? Stay home and order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Go Go"
+    ],
     "recipe": null,
     "photo": {
       "filename": "IG7.jpg",
@@ -221,7 +225,9 @@ const OCTOBER_IG_DATA = [
     "categoryConfidence": "low",
     "campaign": "OCT IG & FB",
     "caption": "Let’s face it: getting your kids to drink their milk can be quite a challenge sometimes. Good thing Similac has a ready to drink version of their Gain School formula. It has all the essential nutrients for immunity, and 10 key brain nutrients for faster learning. All these in a delicious vanilla flavor that your kids will love.  \n\nPut a pack of these in their lunch box, so you can rest easy knowing they’re getting the nutrition their rapidly growing bodies need. \n \nNeed to get groceries delivered? Just order online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Similac Gain"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FB3.jpg",
@@ -238,7 +244,9 @@ const OCTOBER_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "OCT IG & FB",
     "caption": "Keeping your hyperactive toddler dry and comfortable is a challenge for any Mom. Thankfully, MamyPoko Extra Dry is here to help. Its plush, cotton-like material protects against rash and irritation, so your little one can stay comfortable for long periods of time. How long, you might ask? Up to 12 hours or 5 glasses worth of leaks–which is pretty impressive.\n\nThis super absorbent quality lets kids to be kids. It also means less changings for you, so you have more time to be productive. Order a pack and see the difference today. \n\nNeed to get more essentials for your kid? Just order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Mamypoko"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FB4.jpg",
@@ -255,7 +263,9 @@ const OCTOBER_IG_DATA = [
     "categoryConfidence": "medium",
     "campaign": "OCT IG & FB",
     "caption": "Does your scalp tend to dry out? Then an all-natural shampoo like Daila Gugo might be for you. There’s no harsh chemicals in it–just pure, organic ingredients like a coconut based surfactant, aloe vera extract, green tea, and of course, gugo bark. \n\nThis shampoo leaves hair feeling soft and smooth, so there’s no need for conditioners afterwards. And to maximize the benefits of this product, just let your dry naturally after towelling, as air dryers can damage your hair follicles. Make this part of your hair care routine now!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Daila Gugo Shampoo"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FB5.jpg",
@@ -272,7 +282,9 @@ const OCTOBER_IG_DATA = [
     "categoryConfidence": "medium",
     "campaign": "OCT IG & FB",
     "caption": "Isn’t it annoying to have a good meal interrupted by painful tingling in your teeth? Well, Sensodyne is here to help with that. It repairs and protects teeth, as well as builds a protective layer that reduces sensitivity and tooth pain. No wonder it’s the #1 dentist recommended toothpaste brand for sensitive teeth–it just works that well. \n\nKeep these in stock at all times if you too hate pausing between bites of your favorite hot meals or cold treats. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Sensodyne Toothpaste"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FB6.jpg",
@@ -289,7 +301,9 @@ const OCTOBER_IG_DATA = [
     "categoryConfidence": "medium",
     "campaign": "OCT IG & FB",
     "caption": "On long, busy days, you’ll need a heavy duty deodorant to keep you feeling fresh and dry. Arm & Hammer Deodorant Stick is made for that job. It gives long lasting protection (up to a whopping 48 hours) that doesn’t leave any residue on clothes.\n\nAnd did we mention it’s also unscented? This lack of fragrance makes it perfect for unisex use. Buy one for yourself, and another for your partner so you can both go about your day with no worries. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Arm &"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FB7.jpg",

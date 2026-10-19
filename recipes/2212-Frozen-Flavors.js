@@ -163,7 +163,9 @@ const FROZEN_FLAVORS_DATA = [
     "categoryConfidence": "low",
     "campaign": "FROZEN FLAVORS",
     "caption": "What’s better than Oreo cookies? Perhaps it might just be Oreo Ice Cream!\n\nEveryone’s favourite milk-and-cookies combination is now in ice cream form. Why not make the enjoyment even more pleasurable by pairing Oreo Ice Cream with Oreo cookies? Now that sounds like a fun weekend idea. Find all things Oreo — including both cookies and ice cream — at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Oreo"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FF7.jpg",
@@ -256,7 +258,9 @@ const FROZEN_FLAVORS_DATA = [
     "categoryConfidence": "low",
     "campaign": "FROZEN FLAVORS",
     "caption": "Can’t decide whether you want avocado, chocolate, or coffee ice cream? Head over to #TheMarketplace now and grab a tub of Magnolia Gold Label Avocado Macchiato!\n\nImagine thick and creamy avocado ice cream blended with ground tablea bits and a coffee ripple. We’re sure you’ll find the balance of all three flavors immeasurably pleasurable.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Magnolia"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FF11.jpg",

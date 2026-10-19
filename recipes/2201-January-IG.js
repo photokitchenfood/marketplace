@@ -12,7 +12,9 @@ const JANUARY_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "JAN IG & FB",
     "caption": "Sundried tomato pasta is usually enjoyed as it is, so we decided to add a playful twist and add a splash of cream! \n\nUsing Always Fresh Sundried Tomato Strips, you get tangy-sweet bites of tomato balanced out by the richness of cream and Parmesan cheese. Find all the ingredients you need fresh only at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 4-6 servings\n\nIngredients\n\n1 tbsp. olive oil \n3 tbsps. butter \n5 cloves garlic, chopped\n1 white onion, chopped \n1 (220g) bottle Always Fresh Sundried Tomato Strips\n3 cups culinary cream \n½ cup Parmesan cheese, grated \n1 tsp. Italian seasoning\n500g penne pasta, cooked according to package instructions \nSalt and pepper to taste \n¼ cup basil leaves \n\nProcedure\n\n1. In a large pan over medium heat, add in olive oil and butter. Sauté garlic and onion until soft and fragrant. \n2. Add Always Fresh Sundried Tomato Strips, culinary cream, Parmesan cheese and Italian seasoning. Let simmer for 3-5 minutes or until thickened. \n3. Mix in penne pasta and season with salt and pepper to taste. \n4. Turn off heat, then mix in basil. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Always Fresh"
+    ],
     "recipe": {
       "servingTime": "15 minutes",
       "yield": "4-6 servings",
@@ -35,7 +37,10 @@ const JANUARY_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "JAN IG & FB",
     "caption": "In case you were wondering, Niçoise is pronounced “nee-swaz” and refers to the salad whose origin hails from the city of Nice in France. \n\nA Salad Niçoise usually also refers to a bowl of greens whose dressing comprises olive oil, lemon juice, and mustard. In this recipe, we’re using Woolworths Wild Alaskan Salmon for the protein, along with some marbled potatoes and French beans for extra bite, color, and yumminess. Find Waitrose ingredients, along with everything else you need for this recipe, at #TheMarketplace!\n\nServing Time: 8 minutes\nYield: 2-3 servings\n\nIngredients\n\n1 tsp. Dijon mustard\n2 tbsps. lemon juice\n3 tbsps. olive oil\n2 cloves garlic, grated\n1 tbsp. capers, minced\n2 tbsps. parsley\nSalt and pepper to taste\n2 cups romaine lettuce\n½ cup French beans, blanched\n½ cup marbled potatoes, boiled\n¼ red radish, sliced thinly\n1 egg, boiled\n1 can Waitrose Wild Alaskan Salmon\n2 lemon wedges\n\nProcedure\n\n1. Whisk together Dijon mustard, lemon juice, olive oil and garlic until emulsified. Mix in capers and parsley, then season with salt and pepper to taste. \n2. Arrange lettuce, French beans, marbled potatoes, red radish, egg, Waitrose Wild Alaskan Salmon and lemons in a serving platter.\n3. Serve with caper vinaigrette. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Woolworths",
+      "Waitrose"
+    ],
     "recipe": {
       "servingTime": "8 minutes",
       "yield": "2-3 servings",
@@ -58,7 +63,9 @@ const JANUARY_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "JAN IG & FB",
     "caption": "If you’re a fan of K-dramas, then you know how popular these Korean Corndogs are!\n\nThe great thing about them is that you can make your own version at home using Tender Juicy Cheesy Corndogs! Simply coat in breadcrumbs, flour, and eggs, and then fry! Don’t forget to drizzle with white sugar for that signature Korean corndog experience. Get all the ingredients you need at #TheMarketplace!\n\nServing Time: 25-30 minutes\nYield: 6 pieces\n\nIngredients\n\n2 eggs, beaten\n½ cup flour\n1 cup breadcrumbs\n1 pack Tender Juicy Cheesy Corndogs\nOil for frying\n1 cup white sugar\n1 cup banana ketchup\n1 cup mustard\n\nProcedure\n\n1. Place eggs, flour and breadcrumbs in separate containers.\n2. Coat each Tender Juicy Cheesy Corndog with flour, then eggs, then finally with breadcrumbs until well coated. Freeze for at least 15 minutes. \n3. Meanwhile, preheat oil to 180°C in a tall pot large enough to accommodate the corndogs. \n4. Deep-fry corndogs for 3-4 minutes or until golden brown.\n5. Drizzle with white sugar immediately after removing from the oil. Top with banana ketchup and mustard. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Tender Juicy"
+    ],
     "recipe": {
       "servingTime": "25-30 minutes",
       "yield": "6 pieces",
@@ -98,7 +105,10 @@ const JANUARY_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "JAN IG & FB",
     "caption": "We’re all familiar with French onion soup, but have you tried having French onion in the form of a dip?\n\nThis simple and easy recipe makes use of a few ingredients to create a chip dip that goes a long, long way. Using Woolworths Stacked Original Potato Chips as our spud of choice, try it with other chip varieties and tell us how you like it! Also works well with burgers and French fries!\n\nFind Woolworths snacks, along with other imported brands, at #TheMarketplace!\n\nServing Time: 12-15 minutes\nYield: 4-5 servings\n\nIngredients\n\n2 tbsps. butter\n2 cups white onion, sliced thinly\nSalt and pepper to taste\n1 cup mayonnaise\n1¼ cups sour cream\n½ tsp. garlic powder\n¼ tsp. paprika\n2 tbsps. spring onions, chopped\n1 can Woolworths Stacked Original Potato Chips\n\nProcedure\n\n1. Set pan over medium low heat, then add butter and onions. Season with salt, and cook onion until soft and caramelized.\n2. In a bowl, mix together mayonnaise, sour cream, garlic powder, paprika, and caramelized onions. Season with salt and pepper, then mix in spring onions.\n3. Serve alongside Woolworths Stacked Original Potato Chips.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Woolworths",
+      "Waitrose"
+    ],
     "recipe": {
       "servingTime": "12-15 minutes",
       "yield": "4-5 servings",
@@ -144,7 +154,9 @@ const JANUARY_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "JAN IG & FB",
     "caption": "Going meat-free? Try out this recipe for Tocino Bibimbap made with Veega Meat-free Tocino!\n\nMade with plant-based meat, you’re sure to get the same satisfaction without missing out on the meat. Dressed with bibimbap veggies such as carrots, zucchini, and shimeji, feel free to add some gochujang as well for a spicy kick.\n\n#TheMarketplace carries Veega plant-based meat products along with other meat alternatives, so don’t forget to check them out!\n\nServing Time: 15 minutes\nYield: 2 servings\n\nIngredients\n\n2 tbsps. sesame oil\n¾ cup carrot strips \nSalt to taste\n1 cup zucchini slices\n1 cup shimeji mushrooms\n2 tbsps. vegetable oil\n2 eggs\n1 pack Veega Meat-free Tocino\n2 cups rice, cooked\n1 tbsp. sesame seeds, toasted\n\nProcedure\n\n1. Set a frying pan over medium heat, then add sesame oil. Sauté carrots until soft and season with salt. Set aside. \n2. Using the same pan, sauté zucchini and shimeji mushrooms separately. \n3. Set another pan over medium heat and add oil. Cook sunny-side up eggs then set aside. Reheat Veega Meat-free Tocino. \n4. Put one cup of rice in each bowl.\n5. Top the rice with sautéd carrots, zucchini, mushrooms, egg and Veega Meat-free Tocino. Garnish with toasted sesame seeds.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Veega"
+    ],
     "recipe": {
       "servingTime": "15 minutes",
       "yield": "2 servings",

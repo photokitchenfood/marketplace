@@ -12,7 +12,9 @@ const BACK_TO_SCHOOL_DATA = [
     "categoryConfidence": "high",
     "campaign": "BACK TO SCHOOL",
     "caption": "A popular snack well-loved by kids and kids at heart, these Sausage Rolls made with everyone’s favorite Purefoods German Franks take cues from the classic Pigs in a Blanket.\n\nRolled with puff pastry and baked until crisp, these Sausage Rolls are the perfect merienda for yourself and the little ones. Don’t forget to serve with your condiments of choice such as ketchup, mustard, or mayonnaise! Find all the ingredients you need for this recipe and for your kids’ snacks at #TheMarketplace!\n\nServing Time: 30-45 minutes\nYield: 1 dozen sausage rolls\n\nIngredients\n\n3 sheets frozen puff pastry\n12 pcs. Purefoods German Franks\n1 egg, beaten\n1 tbsp. milk\n2 tbsps. sesame seeds\n\nProcedure\n\n1. Preheat oven to 350°F.\n2. Roll out puff pastry until ¼” thick, then cut into four squares. To assemble, put a piece of Purefoods German Franks over a piece of puff pastry, then fold to meet both ends.\n3. Combine egg and milk. Brush over rolled sausages and top with sesame seeds.\n4. Bake for 12-15 minutes, or until golden brown. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Purefoods"
+    ],
     "recipe": {
       "servingTime": "30-45 minutes",
       "yield": "1 dozen sausage rolls",
@@ -35,7 +37,9 @@ const BACK_TO_SCHOOL_DATA = [
     "categoryConfidence": "high",
     "campaign": "BACK TO SCHOOL",
     "caption": "There’s nothing like Corned Beef Sliders to appease picky eaters!\n\nEspecially for kids who can be quite particular with what they eat, these sliders made with Purefoods Corned Beef and mozzarella cheese will surely be devoured in a matter of minutes. Easy to prepare and pack, these sliders hold well in lunch boxes and will retain its yumminess throughout the afternoon.\n\nFind Purefoods Corned Beef along with other premium canned goods at #TheMarketplace and get creative with your child’s baon!\n\nServing Time: 30 minutes\nYield: 2-3 servings\n\nIngredients\n\n2 cans Purefoods Corned Beef\n¼ cup sesame seeds\n8 dinner rolls\n6 slices mozzarella cheese\n2 tbsps. butter, melted\n1 tbsp. garlic powder\nParsley, chopped\n\nProcedure\n\n1. Preheat oven to 175°F.\n2. Set a pan over medium heat. Add Purefoods Corned Beef, and cook until its juices has reduced. Mix in sesame seeds.\n3. Cut dinner rolls crosswise and add a layer of mozzarella cheese. Top with reduced corned beef and cover with the other half of dinner rolls.\n4. Combine butter, garlic powder and chopped parsley. Brush the top of dinner rolls and bake for 8 minutes, or until cheese is melted and bread is toasted.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Purefoods"
+    ],
     "recipe": {
       "servingTime": "30 minutes",
       "yield": "2-3 servings",
@@ -58,7 +62,9 @@ const BACK_TO_SCHOOL_DATA = [
     "categoryConfidence": "high",
     "campaign": "BACK TO SCHOOL",
     "caption": "Most of the time, a huge factor that gets kids to eat is the way a dish looks.\n\nThese Chicken & Bacon Pinwheels made with Lady’s Choice Chicken Spread rank high in our kiddie-approval meter. Not only do the pinwheels look fun to eat, but also the luscious combination of creamy chicken spread, crunchy bacon bits, and crisp celery is a flavor profile that’s friendly to young palates.\n\nDon’t forget to follow us on Instagram for more creative recipe ideas using ingredients found at #TheMarketplace! \n\nServing Time: 10 minutes\nYield: 4-5 servings\n\nIngredients\n\n2 cups boiled chicken, shredded\n¾ cup bacon bits, fried\n¾ cup celery, chopped\n1½ cup Lady’s Choice Chicken Spread\nSalt and pepper to taste\n3 tortilla wraps\n\nProcedure\n\n1. In a large bowl, combine chicken, bacon bits, celery, and Lady’s Choice Chicken Spread. Season with salt and pepper, set aside.\n2. Spread a layer of chicken spread all over over a tortilla wrap and roll to create a log. Secure with toothpicks.\n3. Cut into six, then serve with extra Lady’s Choice Chicken Spread.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Lady’s Choice Chicken Spread"
+    ],
     "recipe": {
       "servingTime": "10 minutes",
       "yield": "4-5 servings",
@@ -81,7 +87,9 @@ const BACK_TO_SCHOOL_DATA = [
     "categoryConfidence": "high",
     "campaign": "BACK TO SCHOOL",
     "caption": "You can never go wrong with smoky, shattering-crisp bacon.\n\nThis recipe for Bacon Aglio Olio is a great meal that can be enjoyed by everyone of all ages around the dining table. Made with Pampanga’s Best Brickle Bacon, the smokiness from the meat is enhanced by the aromatic flavors of garlic, resulting to a hearty pasta dish that’s quick, easy, and super yummy. Find Pampanga’s Best Brickle Bacon, along with other bacon brands, at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 2-3 servings\n\nIngredients\n\n300g spaghetti noodles\n2 cups Pampanga’s Best Brickle Bacon, chopped\n½ cup olive oil\n6 cloves garlic, sliced\nSalt and pepper to taste\n¼ cup parsley, chopped\n\nProcedure\n\n1. Cook pasta according to package instructions. Save one cup pasta water, then drain and set aside.\n2. Set a pan over medium heat. Fry Pampanga’s Best Brickle Bacon until golden brown then set aside. Using the same pan, add olive oil and garlic. Cook garlic until slightly golden.\n3. Slowly add ¾ cup pasta water. Let simmer. Season with salt and pepper, then add cooked pasta, bacon, and parsley. Mix until well combined.\n4. Transfer to a plate, and top with more bacon and parsley.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Pampanga’s Best"
+    ],
     "recipe": {
       "servingTime": "30 minutes",
       "yield": "2-3 servings",
@@ -104,7 +112,9 @@ const BACK_TO_SCHOOL_DATA = [
     "categoryConfidence": "low",
     "campaign": "BACK TO SCHOOL",
     "caption": "Your favorite Magnum ice cream now comes in a pint for maximum indulgence. Vanilla ice cream is studded with almond pieces and chocolate shards, all covered in the signature Magnum cracking chocolate shell. Available at #TheMarketplace, along with other irresistible ice cream brands! Pick up something sweet today!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Magnum"
+    ],
     "recipe": null,
     "photo": {
       "filename": "BS6.jpg",

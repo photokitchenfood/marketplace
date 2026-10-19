@@ -12,7 +12,9 @@ const AUSTRALIAN_FESTIVAL_DATA = [
     "categoryConfidence": "high",
     "campaign": "AUSTRALIAN FESTIVAL",
     "caption": "There’s no need to buy granola when you can make this Peanut Butter & Banana Baked Oatmeal at home using Quaker Banana & Honey Instant Oatmeal!\n\nJust like granola, baked oatmeal has a similar cereal-like taste, and you can create your own flavor combinations, too! Add some chocolate chips or mini marshmallows (or both!) if you prefer a sweeter batch. Feel free to explore with other Quaker Instant Oatmeal flavours, too. Find all the ingredients you need for this recipe at #TheMarketplace!\n\nServing Time: 40-45 minutes\nYield: 4-5 servings\n\nIngredients\n\n1½ cups Quaker Banana & Honey Instant Oatmeal\n1 cup flour\n1 tsp. baking soda\n⅛ tsp. salt\n3 ripe bananas, sliced \n⅔ cup brown sugar\n½ cup butter\n1 egg\n½ cup milk\n½ cup peanut butter\n½ tsp vanilla extract\n½ cup walnuts, chopped\n\nProcedure\n\n1. Preheat oven to 350°F. Line an 8” x 12” pan with parchment paper. \n2. In a large bowl, combine Quaker Banana Honey Instant Oatmeal, flour, baking soda, and salt. \n3. In another bowl, mash 2 bananas. Add in brown sugar, butter, egg, milk, peanut butter and vanilla extract. Mix until well combined.\n4. Add the dry mixture into the wet mixture in 2 batches. Mix until well incorporated.\n5. Transfer the batter into the lined baking pan. Top with walnuts and remaining sliced bananas.\n6. Bake for 20-25 minutes. Let cool before slicing.\n\nDid you know? You can now get your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Quaker"
+    ],
     "recipe": {
       "servingTime": "40-45 minutes",
       "yield": "4-5 servings",
@@ -81,7 +83,9 @@ const AUSTRALIAN_FESTIVAL_DATA = [
     "categoryConfidence": "high",
     "campaign": "AUSTRALIAN FESTIVAL",
     "caption": "Honey butter chips were once the craze, so we tried adapting a similar flavor profile to salmon, and the result was stunning!\n\nThis recipe for Honey Butter Salmon makes use of Australian Capilano honey, which is 100% pure and real. Mix it with some garlic, soy sauce, and butter to baste on the salmon as it cooks and enjoy with pleasure. Explore the widest range of Australian products at #TheMarketplace and find your favorites!\n\nServing Time: 20 minutes\nYield: 2 servings\n\nIngredients\n\n2 tbsps. Capilano Honey\n3 tbsps. garlic, minced\n3 tbsps. soy sauce\n3 tbsps. butter, melted\n2 salmon fillets\nSalt and pepper to taste\n2 tbsps. olive oil\n3 cups lettuce\n1 cup orange, segments\n½ cup red radish, sliced thinly\n½ cup almonds\n\nProcedure\n\n1. In a small bowl, combine Capilano Honey, garlic, soy sauce and butter. Set aside.\n2. Pat dry salmon fillet and season with salt and pepper. Set pan over medium heat, then add olive oil. Sear salmon until golden brown on both sides. \n3. Add in honey garlic butter, and baste the salmon fillet with the sauce.\n4. In a large bowl, combine lettuce, orange, red radish, and almonds.\n5. Serve honey garlic butter salmon with the side salad. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Capilano"
+    ],
     "recipe": {
       "servingTime": "20 minutes",
       "yield": "2 servings",
@@ -104,7 +108,9 @@ const AUSTRALIAN_FESTIVAL_DATA = [
     "categoryConfidence": "high",
     "campaign": "AUSTRALIAN FESTIVAL",
     "caption": "If you’re looking for a dairy-free sweet treat to relax with after a long day, then whip up this Dairy-Free Hot Chocolate at home using So Good Almond Milk!\n\nThis hot chocolate requires only 10 minutes to prepare, and the nutty flavors from this Australian almond milk brand really complement the cacao nicely. Don’t forget to top it off with a sprinkle of mini marshmallows! Discover great Australian grocery brands and more only at #TheMarketplace!\n\nServing Time: 10 minutes\nYield: 2 servings\n\nIngredients\n\n2½ cups So Good Original Almond MIlk\n1 cup semi-sweet chocolate, chopped\n¼ cup cacao powder\n2 tbsps. sugar\n1 cup mini marshmallows\n\nProcedure\n\n1. In a small pot, add So Good Original Almond Milk and let simmer. Turn off heat, then add semi-sweet chocolate, cacao powder and sugar.\n2. Mix until chocolate is fully dissolved. Transfer to a cup and top with marshmallows and sprinkle with more cacao powder.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "So Good"
+    ],
     "recipe": {
       "servingTime": "10 minutes",
       "yield": "2 servings",
@@ -127,7 +133,9 @@ const AUSTRALIAN_FESTIVAL_DATA = [
     "categoryConfidence": "high",
     "campaign": "AUSTRALIAN FESTIVAL",
     "caption": "Want to add more vegetables to your diet? Start with this recipe for Spinach Pasta Carbonara, made with San Remo Spinach Fettuccine.\n\nApart from the pasta noodles themselves being made with actual spinach, the blend of spinach and green peas brighten up the carbonara sauce and balance out the rich and smoky flavors of the bacon and cheese quite tastefully. Add some edamame too, if you like! Get all the ingredients you need for this recipe at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 3-4 servings\n\nIngredients\n\n1 pack San Remo Spinach Fettuccine\nSalt and pepper to taste\n2 cups bacon \n½ cup onions, diced\n2 tbsps. garlic, minced\n1½  cup cooking cream\n1 cup green peas \n1 cup spinach\n1 cup parmesan cheese\n2 egg yolks \n\nProcedure\n\n1. Cook San Remo Spinach Fettuccine until al dente in heavily salted water. Save 1 cup pasta water before draining.\n2. Set pan over medium heat. Cook bacon until crispy and golden brown. Set it aside.\n3. Using the same pan with bacon fat, sauté onions and garlic until soft. Add cooking cream and ½ cup pasta water. \n4. Season with salt and pepper, then add green peas and spinach. Let simmer for 2-3 minutes. Add cooked Fettuccine and toss well to coat.\n5. In a separate bowl, whisk together parmesan cheese, eggs and ½ cup pasta water. Season with salt and pepper\n6. Turn off heat, then mix in cheese and egg mixture into the fettuccine. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "San Remo"
+    ],
     "recipe": {
       "servingTime": "30 minutes",
       "yield": "3-4 servings",

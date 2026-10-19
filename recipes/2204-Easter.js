@@ -12,7 +12,9 @@ const EASTER_DATA = [
     "categoryConfidence": "high",
     "campaign": "EASTER",
     "caption": "Summer is the season for strawberries, and if you’d like to make a healthy snack that’s fitting for the season (and is beach body friendly, too!), then prepare these Yogurt-Covered Strawberries made with Farmers Union Greek Style Strawberry Yogurt!\n\nTaking cues from chocolate-covered strawberries, these yogurt coated ones not only carry a hint of tanginess and sweetness, but because we’re using Greek yogurt, you can also make sure that you get a boost of protein. Pistachios add a buttery taste and a satisfying crunch. Find the freshest produce for all your fruity summer cravings only at #TheMarketplace!\n\nServing Time: 1 hour\nYield: 2-3 servings\n\nIngredients\n\n400g fresh strawberries\n3 packs Farmers Union Greek Style Strawberry Yogurt\n1 cup pistachios, chopped\n\nProcedure\n\n1. Wash fresh strawberries, drain, and dry completely.\n2. Transfer Farmers Union Greek Style Strawberry Yogurt in a bowl.\n3. Dip each strawberry in yogurt then coat with chopped pistachios. Place in a lined tray and freeze for at least 45 minutes to an hour before serving.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Farmers Union"
+    ],
     "recipe": {
       "servingTime": "1 hour",
       "yield": "2-3 servings",
@@ -35,7 +37,9 @@ const EASTER_DATA = [
     "categoryConfidence": "high",
     "campaign": "EASTER",
     "caption": "These Lemon Butter Chicken Thighs made with Pauls Unsalted Australian Butter are the ultimate comfort food to indulge in. Guaranteed to nourish the soul and satisfy the pickiest palate, this dish is bursting with the goodness of butter, lemon, aromatics, and herbs. Don’t forget to enjoy it with some baked buttery marble potatoes, or some steaming hot rice, to complete your meal!\n\nFind Pauls products, along with other premium dairy goods, only at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 2-3 servings\n\nIngredients\n\n500g chicken thigh fillet\nSalt and pepper to taste\n½ bar Pauls Unsalted Australian Butter \n½ cup flour\n3 tbsps. garlic, minced\n4 sprigs thyme\n¼ cup lemon juice\n¼ cup chicken stock\n2 cups french beans\n1 lemon, sliced into wedges\n\nProcedure\n\n1. Preheat oven to 175°C. Pat dry chicken fillets, then season with salt and pepper.\n2. Set a cast iron pan over medium heat, then add 2 tbsps. Pauls Unsalted Australian Butter. Lightly coat seasoned chicken fillet with flour and pan fry until nicely browned on both sides. Set aside. \n3. In the same pan, add remaining butter, then sauté garlic and thyme. Deglaze pan with lemon juice and chicken stock. Season with salt and pepper. \n4. Transfer back chicken fillet, and add french beans. Cover with foil, then bake for 10-15 minutes.\n5. Serve with lemon wedges and roasted potatoes.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Pauls"
+    ],
     "recipe": {
       "servingTime": "30 minutes",
       "yield": "2-3 servings",
@@ -58,7 +62,9 @@ const EASTER_DATA = [
     "categoryConfidence": "high",
     "campaign": "EASTER",
     "caption": "Ginger contains a ton of benefits and is known to be one of the most common remedies to ease an itchy throat.\n\nGingerbon conveniently provides the soothing benefits of ginger, in the form of a delicious treat that’ll surely be an instant favorite. Find Gingerbon and other confectionery at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Gingerbons"
+    ],
     "recipe": null,
     "photo": {
       "filename": "E3.jpg",

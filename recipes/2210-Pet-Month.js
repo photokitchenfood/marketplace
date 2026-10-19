@@ -12,7 +12,9 @@ const PET_MONTH_DATA = [
     "categoryConfidence": "high",
     "campaign": "PET MONTH",
     "caption": "Made for smaller dogs, Pedigree Mini in Beef, Lamb, and Vegetable flavor is made with tinier-sized kibbles that are big on meaty taste and nutrients. With Omega 6 and Zinc for a shinier coat, Pedigree Mini also contains Protein for stronger muscles, Calcium and Phosphorus for stronger bones and teeth, and Fiber for a healthier digestive system. Find Pedigree products at #TheMarketplace along with other pet essentials!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Pedigree"
+    ],
     "recipe": null,
     "photo": {
       "filename": "PM1.jpg",
@@ -29,7 +31,9 @@ const PET_MONTH_DATA = [
     "categoryConfidence": "high",
     "campaign": "PET MONTH",
     "caption": "Get the best nutrition for your feline friends with SmartHeart’s Adult cat food in Chicken and Tuna flavor.\n\nThis dry food is packed with full-on flavor and vitamins and minerals to help enhance your pet’s brain development, vision, memory, and intelligence. Grab some SmartHeart Adult Cat Food the next time you shop at #TheMarketplace and make sure your kitties are in tip-top shape!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "SmartHeart"
+    ],
     "recipe": null,
     "photo": {
       "filename": "PM2.jpg",
@@ -46,7 +50,9 @@ const PET_MONTH_DATA = [
     "categoryConfidence": "high",
     "campaign": "PET MONTH",
     "caption": "For your furry friends who need extra attention for their coat, Purina’s Supercoat dog food is specially formulated for small breed dogs, keeping in mind their unique metabolism levels.\n\nPurina also combines high-quality ingredients blended with 21 essential vitamins and minerals to meet your pet’s nutritional needs, so give it a try the next time you go to #TheMarketplace as you shop for your pet’s essentials!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Supercoat Adult"
+    ],
     "recipe": null,
     "photo": {
       "filename": "PM3.jpg",
@@ -63,7 +69,9 @@ const PET_MONTH_DATA = [
     "categoryConfidence": "high",
     "campaign": "PET MONTH",
     "caption": "SureBuy Puppy Dog Food provides a balanced meal for your pets and is suitable for all dog breeds, making it an ideal choice if you have a family of dogs to feed.\n\nFortified with a blend of essential fatty acids such as high-grade Omega 3 & 6 to help maintain a healthy coat and to promote a strong immune system, SureBuy Puppy Dog Food keeps dogs both happy and healthy. Head over to #TheMarketplace now and grab a bag!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Surebuy"
+    ],
     "recipe": null,
     "photo": {
       "filename": "PM4.jpg",
@@ -80,7 +88,9 @@ const PET_MONTH_DATA = [
     "categoryConfidence": "high",
     "campaign": "PET MONTH",
     "caption": "SureBuy Adult Dog Food Maintenance is an all-natural dog food that does not contain any artificial colorings or flavorings. Instead, it is packed with vitamins and nutrients suited for adult dogs. Available in two-kilogram bags, grab SureBuy Adult Dog Food to maintain your dog’s optimal health. Find it in #TheMarketplace, along with other pet essentials fit for your canine companions.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Surebuy"
+    ],
     "recipe": null,
     "photo": {
       "filename": "PM5.jpg",
@@ -97,7 +107,9 @@ const PET_MONTH_DATA = [
     "categoryConfidence": "high",
     "campaign": "PET MONTH",
     "caption": "Designed for adult cats, VitaPet’s Cat Food in Seafood Flavor is made with smaller kibbles for easy consumption and digestion. It also contains 10 benefits to support the immune system for a healthy cat, including essential vitamins and minerals to support your pet’s metabolism needs. Find VitaPet products, along with other feline essentials, at #TheMarketplace! \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "VitaPet"
+    ],
     "recipe": null,
     "photo": {
       "filename": "PM6.jpg",
@@ -114,7 +126,9 @@ const PET_MONTH_DATA = [
     "categoryConfidence": "high",
     "campaign": "PET MONTH",
     "caption": "Bursting with delicious flavors of chicken and turkey, VitaPet’s Wet Food for Adult Dogs is packed with high quality proteins to help with muscle growth, along with vitamins and minerals to nourish your most precious canine friend. Because it’s full of delicious meat chunks, your dog will surely enjoy all the goodness of chicken and turkey, while getting the balanced nutrition he or she needs.\n\nFind VitaPet products, along with other essentials for your most beloved pets, at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "VitaPet"
+    ],
     "recipe": null,
     "photo": {
       "filename": "PM7.jpg",

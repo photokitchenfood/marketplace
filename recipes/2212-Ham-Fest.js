@@ -63,7 +63,9 @@ const HAM_FEST_DATA = [
     "categoryConfidence": "low",
     "campaign": "HAM FESTIVAL",
     "caption": "What makes Swift Festival Ham stand out from the sea of holiday hams is that it uses whole muscle — that’s right, no fillers or extenders.\n\nNever restructured, this ham is smoked straight after it is netted and cured to preserve its smoky flavor. Gift it to your nearest and dearest, or have some in your fridge for the festive season. Head over to #TheMarketplace and shop from our array of holiday hams. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Swift"
+    ],
     "recipe": null,
     "photo": {
       "filename": "HF3.jpg",
@@ -80,7 +82,9 @@ const HAM_FEST_DATA = [
     "categoryConfidence": "low",
     "campaign": "HAM FESTIVAL",
     "caption": "Affordable, delicious, and always a hit on the dinner table, CDO Pear-Shaped Ham is a great addition to have at any festive celebration and gathering.\n\nSlice it, sandwich it with pan de sal, or fry it until caramelized, there are so many ways to amp up this holiday staple. Find CDO Pear-Shaped Ham at #TheMarketplace, along with other festive essentials!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "CDO"
+    ],
     "recipe": null,
     "photo": {
       "filename": "HF4.jpg",
@@ -97,7 +101,9 @@ const HAM_FEST_DATA = [
     "categoryConfidence": "low",
     "campaign": "HAM FESTIVAL",
     "caption": "If you’re looking for a holiday ham that is both smoky and sweet, Aguila Country Ham is your best bet.\n\nWith caramel-like flavors mingling with smoky, savory meat, this crowd pleaser makes a festive centerpiece for any celebratory gathering.\n\nFind Aguila Country Ham, along with other festive ham options that cater to your budget and tastes, at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Aguila"
+    ],
     "recipe": null,
     "photo": {
       "filename": "HF5.jpg",
@@ -114,7 +120,9 @@ const HAM_FEST_DATA = [
     "categoryConfidence": "low",
     "campaign": "HAM FESTIVAL",
     "caption": "Now available at #TheMarketplace, Earle’s Delicatessen’s Premium Signature Ham is bursting with smoky and savory porky flavors, draped with a sweet pineapple glaze.\n\nWith a balanced ratio of fat and meat, it does so great on the holiday dinner table, you’ll be lucky if you have leftovers. Shop now and stock up before the festive frenzy!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Earle’s"
+    ],
     "recipe": null,
     "photo": {
       "filename": "HF6.jpg",

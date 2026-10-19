@@ -12,7 +12,9 @@ const MILKIEST_CELEBRATIONS_DATA = [
     "categoryConfidence": "high",
     "campaign": "MILKIEST CELEBRATIONS",
     "caption": "Elevate the humble mango graham dessert and give it a creamier touch in this recipe for Mango Graham Panna Cotta.\n\nMade with Nestlé Fresh Milk, delight in the tropical flavors of mango paired with rich, luscious vanilla. This dessert will certainly be enjoyed by many, so make sure to have room for seconds! #TheMarketplace is home to a wide selection of dairy brands, including Nestlé and more!\n\nServing Time: 40-45 minutes\nYield: 4 servings\n\nIngredients\n\n3 tbsps. gelatin powder\n1 cup Nestlé Fresh Milk\n2 cups heavy cream\n¾ cup sugar\n½ tsp. vanilla extract \n2 cups mango, diced\n½ cup mango juice\n3 tbsps. sugar\n1 tsp. lemon juice\n2 tbsps. Cornstarch slurry\n1 ½ cup graham cracker crumbs \n¼ cup mint leaves\n\nProcedure\n\n1. Dissolve gelatin powder in Nestlé Fresh Milk. Set aside.\n2. Combine heavy cream and sugar in a saucepan, then place over medium heat while stirring continuously.\n3. Once the heavy cream is simmering, mix in the gelatin mixture and vanilla extract. Transfer to your preferred molds, then refrigerate until set.\n4. Set a small saucepan over medium low heat, then add diced mangoes, mango juice, sugar and lemon juice. Let simmer, then add slurry and mix until thickened.\n5. To assemble, add crushed grahams on a plate and unmold the panna cotta on top. Drizzle mango sauce on top and garnish with mint leaves.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Nestlé"
+    ],
     "recipe": {
       "servingTime": "40-45 minutes",
       "yield": "4 servings",
@@ -35,7 +37,9 @@ const MILKIEST_CELEBRATIONS_DATA = [
     "categoryConfidence": "high",
     "campaign": "MILKIEST CELEBRATIONS",
     "caption": "Pancakes are often associated with sweet condiments such as maple syrup, compotes, and chocolate, but have you ever tried to cook them in a savory manner?\n\nIn this pancake recipe made with Maya Fluffy n’ Tasty Hotcake Mix, ham, spring onions, eggs, and butter, are combined into the pancake mix. The result is a sweet-and-savory dish that is perfect for brunch. Try out this recipe and get all the ingredients you need at #TheMarketplace!\n\nServing Time: 30-35 minutes\nYield: 10 pancakes\n\nIngredients\n\n1 pack Maya Fluffy n’ Tasty Hotcake Mix\n1 egg\n2 tbsps. oil\n¾ cup water\nSalt and pepper to taste\n1 cup ham, diced\n½ cup spring onions, chopped\n2 tbsps. Butter\n1 egg, fried\n\nProcedure\n\n1. Combine Maya Fluffy n’ Tasty Hotcake Mix, egg, oil and water. Whisk together until smooth. Mix in half of diced ham and chopped spring onions. Season with salt and pepper.\n2. Set a non-stick pan over medium heat, then add a small amount of butter at time. Pour ¼ cup of the batter. Flip the pancake once you see bubbles on the surface of the pancake. Repeat for the remaining batter. \n3. Top with a sunny-side-up egg, spring onions, and serve with extra diced ham.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Maya Fluffy"
+    ],
     "recipe": {
       "servingTime": "30-35 minutes",
       "yield": "10 pancakes",
@@ -58,7 +62,9 @@ const MILKIEST_CELEBRATIONS_DATA = [
     "categoryConfidence": "high",
     "campaign": "MILKIEST CELEBRATIONS",
     "caption": "Bear Brand Adult Plus is a high-calcium milk that’s fortified with nutrients to help you stay productive at work. Transform this milk powder into a fun snack by turning it into pastillas! That’s right. Simply mix in some condensed milk into your Bear Brand Adult Plus Powdered Milk until a dough forms. Shape into balls, and then coat with white sugar. Make a batch and pop them into the fridge, so you’ll always have them ready when you want!\n\nShop Bear Brand Adult Plus Powdered Milk, along with other supplements, at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 20 pastillas balls\n\nIngredients\n\n3 cups Bear Brand Adult Plus Powdered Milk\n¾ cup condensed milk\n⅔ cup white sugar\n\nProcedure\n\n1. In a large bowl, combine Bear Brand Adult Plus Powdered Milk and condensed milk. Mix until a dough forms.\n2. Form into balls, then coat in white sugar.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Bear Brand"
+    ],
     "recipe": {
       "servingTime": "30 minutes",
       "yield": "20 pastillas balls",
@@ -81,7 +87,9 @@ const MILKIEST_CELEBRATIONS_DATA = [
     "categoryConfidence": "low",
     "campaign": "MILKIEST CELEBRATIONS",
     "caption": "As your little one grows and prepares himself or herself for the world beyond, the mind gets curious and the body becomes more active. Promil Gold Four is here to support your child at this particular stage of life, with nutrients and minerals to support cognitive and visual development, as well as growth nutrients and more.\n\nPromil Gold Four is available at #TheMarketplace, along with other nutritional supplements for your most precious ones.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Promil"
+    ],
     "recipe": null,
     "photo": {
       "filename": "MC4.jpg",

@@ -267,7 +267,9 @@ const WORLD_OF_WINE_DATA = [
     "categoryConfidence": "low",
     "campaign": "WORLD OF WINE",
     "caption": "Wine and cheese parties will never go out of style, because you can make them different each time. The fun is in discovering new varieties and combinations you’ve never had before.\n\nThat’s why we’ve got a wide gourmet section at The Marketplace, as we know you love getting creative with your grazing boards. For your next party, try pairing our cheeses with Meadows Berry Cherry and Nuts Mix for some nice textural contrast, and Meadows Cellar Cabernet Sauvignon to cleanse your palate for that next flavorful bite. \n\nPlanning your next home gathering? Order you groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Meadows"
+    ],
     "recipe": null,
     "photo": {
       "filename": "WW11.jpg",

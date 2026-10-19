@@ -12,7 +12,9 @@ const APRIL_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "APRIL IG & FB",
     "caption": "With the heat of summer making its warmth known, a fruity twist on a classic cocktail is the way to go. \n\nWhip up this Cranberry Whiskey Sour in a matter of minutes using Ceres Cranberry Juice, and you’ve got yourself a tipple that will surely be your favorite summer treat.\n\nFind all the ingredients you need for this delicious drink at #TheMarketplace!\n\nServing Time: 5 minutes\nYield: 2 servings\n\nIngredients\n\n1 cup Ceres Cranberry Juice\n4 shots whiskey\n2 tbsps. orange juice\n¼ cup tonic water\n1 egg white\n1 cup ice\n3 rosemary sprigs\n3 pcs. orange zest, curled\n¼ cup frozen cranberries, skewered\n\nProcedure\n\n1. Fill a cocktail shaker with Ceres Cranberry Juice, whiskey, orange juice, tonic water, egg white and ice. Shake until chilled and frothy.\n2. Transfer to a cocktail glass and garnish with rosemary sprigs, orange zest and skewered frozen cranberries.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Ceres"
+    ],
     "recipe": {
       "servingTime": "5 minutes",
       "yield": "2 servings",
@@ -35,7 +37,9 @@ const APRIL_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "APRIL IG & FB",
     "caption": "If you thought tres leches couldn’t get any better, think again!\n\nElevate Monde Cheese Bars and turn them into a tray of Shortcut Cheese Tres Leches in just ten minutes! Monde Cheese Bars are the perfect vessel to soak up all the creamy goodness from the three milks — evaporated, coconut, and condensed — transforming the cheese bar into an indulgent dessert with a savory touch.\n\nGet all the ingredients you need for this recipe at #TheMarketplace!\n\nServing Time: 10 minutes\nYield: 10 servings\n\nIngredients\n\n½ cup evaporated milk\n½ cup coconut milk \n¾ cup condensed milk\n¼ tsp. vanilla extract\n10 Monde Cheese Bars\n2 cups whipped cream\n1 tsp. cinnamon powder\n1 cup cheese, grated\n\nProcedure\n\n1. Combine evaporated milk, coconut milk, condensed milk and vanilla extract. \n2. Transfer Monde Cheese Bars in a deep tray, and pour over milk mixture to soak. \n3. Transfer Monde Cheese Bars into serving plates, then top with whipped cream. Dust with cinnamon powder and garnish with grated cheese.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Monde"
+    ],
     "recipe": {
       "servingTime": "10 minutes",
       "yield": "10 servings",
@@ -58,7 +62,9 @@ const APRIL_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "APRIL IG & FB",
     "caption": "One of the most popular techniques when it comes to cooking chicken is to bake the bird in milk. This is because the calcium in the milk helps tenderize the chicken and, as a bonus, provides a creamy and deep-flavored sauce that’ll add more juiciness to the meat.\n\nFollow this simple recipe for Chicken in Milk made with a whole Magnolia Chicken for a memorable dinner that’ll surely see a lot of comebacks on the table. Get only the freshest meats and more at #TheMarketplace!\n\nServing Time: 2 hours\nYield: 4-5 servings\n\nIngredients\n\n1 whole Magnolia Chicken\nSalt and pepper to taste\n8 cloves garlic\n1 lemon, sliced into wedges\n¼ cup thyme sprigs\n3 tbsps. butter\n3 cups milk\n1 cup chicken stock\n¼ cup lemon juice\n2 tbsps. lemon zest\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. Pat dry whole Magnolia Chicken, and season with salt and pepper. Stuff half of the garlic cloves, half the thyme sprigs and lemon wedges inside the cavity of the chicken.\n3. Set an oven safe pot over medium heat, then add butter. Sear all the sides of chicken until nicely browned, then add the remaining garlic and thyme.\n4. Add milk, stock, lemon juice and lemon zest. Cover and let simmer for 8-10 minutes, turn of heat.\n5. Bake for 1 hour-1 hour and 30 minutes. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Magnolia"
+    ],
     "recipe": {
       "servingTime": "2 hours",
       "yield": "4-5 servings",
@@ -81,7 +87,9 @@ const APRIL_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "APRIL IG & FB",
     "caption": "Addictive, savory, smoky, and delicious, each pack of Harvest Box BBQ Crunch comes with a tasty combination of roasted almonds from Australia with the addition of crunchy, barbecued corn. Grab a bunch because you surely won’t be able to stop at just one! Find Harvest Box BBQ Crunch and shop for your other favorite snacks at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Harvest Box"
+    ],
     "recipe": null,
     "photo": {
       "filename": "IG4.jpg",
@@ -98,7 +106,9 @@ const APRIL_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "APRIL IG & FB",
     "caption": "The combination of sweet chocolate and salty potato chips might raise a few eyebrows, but there’s a reason why it has become a widely-enjoyed snack: it’s simply addictive and irresistible.\n\nGive it a go and grab a pack of Thins Original Potato Chips, coat them in some chocolate, and as an additional layer of texture and flavor, sprinkle on some chopped pistachios and almond slivers for a buttery crunch! Make this for the upcoming weekend and get all the ingredients you need only at #TheMarketplace!\n\nServing Time: 20-30 minutes\nYield: 2-3 servings\n\nIngredients\n2 cups melting chocolate \n1 pack Thins Original Potato Chips\n½ cup pistachios, chopped\n½ cup almond slivers, chopped\n\nProcedure\n\n1. Melt chocolate using a double boiler, or in a microwave.\n2. Dip Thins Original Potato Chips into the chocolate, then immediately top with pistachios and/or almonds. Chill and let set on a lined tray for at least 15 minutes.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Thins"
+    ],
     "recipe": {
       "servingTime": "20-30 minutes",
       "yield": "2-3 servings",
@@ -144,7 +154,9 @@ const APRIL_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "APRIL IG & FB",
     "caption": "Craving a hearty meal that takes less than 30 minutes to prepare? Here’s a quick recipe for Fish Tacos made with Pacific West Tempura Fish Fillets.\n\nConvenient and ready to fry, these Tempura Fish Fillets are so versatile and are great for these Fish Tacos. Simply prepare the sauce and gear up for a bite that’s packed with fresh, zingy, and familiar flavors. #TheMarketplace is home to a wide range of frozen goods that are created for ease, so head over and shop for groceries today!\n\nServing Time: 20 minutes\nYield: 2-3 servings\n\nIngredients\n\n(For the Taco Sauce)\n¾ cup mayonnaise\n½ cup sour cream\n2 tbsps. lime juice\n2½ tbsps. hot sauce\n1 tbsp. garlic powder\nSalt and pepper to taste\n\n(For the Fish Tacos)\nOil for deep-frying\n1 pack Pacific West Tempura Fish Fillets\n5 tortilla wraps\n2 cups lettuce\n½ cup red radish, sliced\n¾ cup corn kernels\n¼ cup feta cheese, crumbled\n¼ cup cilantro leaves\n\nProcedure\n\n1. Combine mayonnaise, sour cream, lime juice, hot sauce, and garlic powder in a bowl. Season with salt and pepper, then set aside.\n2. Deep fry Pacific West Tempura Fish Fillets until golden brown. Once golden brown and cooked through, drain on a wire-mesh rack and season with salt and pepper. \n3. To assemble, top each tortilla wrap with lettuce, a piece of fried fish fillets, red radish, corn kernels and feta cheese.\n4. Drizzle sauce on top and garnish with cilantro leaves. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Pacific West"
+    ],
     "recipe": {
       "servingTime": "20 minutes",
       "yield": "2-3 servings",
@@ -167,7 +179,9 @@ const APRIL_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "APRIL IG & FB",
     "caption": "Korean food is often associated with hearty, soupy, and fiery dishes that come in heavy pots and pans. \nIf you have a hankering for the cuisine first thing in the morning, then give this Korean Breakfast Sandwich a go.\n\nMade with Pauls Sandwich Slices, this easy and satisfying breakfast sandwich is quite popular amongst Koreans and is fuss-free to make, too. Head over to #TheMarketplace today and find all the ingredients you need and more!\n\nServing Time: 15 minutes\nYield: 2 servings\n\nIngredients\n\n6 eggs\n¼ cup milk\nSalt and pepper to taste \n4 slices ham\n3 tbsps. butter\n4 slices bread\n⅓ cup Japanese mayonnaise\n4 slices Pauls Sandwich Slices\n3 tbsps. spring onions, chopped\n\nProcedure\n\n1. Beat eggs and milk together until well combined. Season with salt and pepper. \n2. Set a non-stick pan over medium heat, then sear ham and set aside. Using the same pan, add butter and beaten eggs. Mix continuously until eggs are mostly set, but still creamy. \n3. Spread some mayonnaise over each slice of bread. Top with 2 slices of Pauls Sandwich Slice, 2 slices of ham and scrambled eggs. Cover with another slice of bread.\n4. Drizzle with more japanese mayo and garnish with spring onions.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Pauls"
+    ],
     "recipe": {
       "servingTime": "15 minutes",
       "yield": "2 servings",
@@ -190,7 +204,9 @@ const APRIL_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "APRIL IG & FB",
     "caption": "Dispose your trash responsibly while taking care of the planet with Edison Biodegradable Garbage Bags. Sturdy and Earth-friendly, these are definitely a must-have in every home. They also come in various sizes depending on your trash bins.\n\nFind Edison Biodegradable Garbage Bags and other cleaning materials at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Cheers"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FB2.jpg",
@@ -207,7 +223,9 @@ const APRIL_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "APRIL IG & FB",
     "caption": "Looking for a way to elevate your potato chips? Make these Blue Cheese and Bacon Potato Chips using Thins Sour Cream & Chives Potato Chips for a hearty snack that’s perfect to munch on any time of the day.\n\nWhether it’s a pool party you’re hosting, or simply a movie night with friends, the tangy and tasty combination of creamy blue cheese and smoky bacon is definitely a winner. You’re in for a treat! Get all the ingredients you need and shop a wide range of snacks at #TheMarketplace!\n\nServing Time: 10 minutes\nYield: 3-4 servings\n\nIngredients\n\n½ cup blue cheese\n3 tbsps. milk\n¼ cup mayonnaise\n3 tbsps. sour cream\n1 tbsp. lemon juice\n½ tsp. garlic powder\nSalt and pepper to taste\n1 tbsp. oil\n7 slices bacon, diced\n2 packs Thins Sour Cream & Chives Potato Chips\n¼ cup spring onions, chopped\n\nProcedure\n\n1. Mash blue cheese in a bowl. Add milk, mayonnaise, sour cream, lemon juice, and garlic powder. Mix until well combined. Season with salt and pepper.\n2. Set a pan over medium heat, then add oil and fry bacon until crispy. Drain oil and set aside.\n3. Fill your serving platter with Thins Sour Cream and Chives Potato Chips. Drizzle with blue cheese dressing, then top with bacon bits and spring onions.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Thins"
+    ],
     "recipe": {
       "servingTime": "10 minutes",
       "yield": "3-4 servings",
@@ -230,7 +248,9 @@ const APRIL_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "APRIL IG & FB",
     "caption": "Made with crunchy noodles and vegetables such as edamame, broccoli, shiitake mushrooms, and garlic, DJ&A Lunch Snack is a healthier alternative to your favourite potato chips. They’re also a yummy and filling way to get some greens into your system! Find DJ&A products, along with other vegetable-based snacks, at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "DJ&A"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FB4.jpg",
@@ -247,7 +267,9 @@ const APRIL_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "APRIL IG & FB",
     "caption": "Add a touch more indulgence to homemade and hearty casseroles in this recipe for Potato Chip Chicken Casserole!\n\nThe secret is to use crushed King’s Deli Cheese Potato Chips to effortlessly balance out the rich and creamy casserole. It’s definitely the dish to make if you’re looking for a winner, winner chicken dinner. Trust us on this one. Follow #TheMarketplace on Facebook and Instagram for more creative recipes and add more fun to your dishes.\n\nServing Time: 30-45 minutes\nYield: 2-3 servings\n\nIngredients\n\n2 tbsps. butter\n1 tbsp. olive oil \n½ cup white onion, diced\n2 cloves garlic, minced\n2½ cups shredded chicken\nSalt and pepper to taste \n1 cup frozen corn and carrots\n¾ cup cooking cream\n¼ cup milk \n1½ cup King’s Deli Cheese Potato Chips, crushed\n1½ cup cheddar cheese, grated\n1 tbsp. flat leaf parsley, chopped\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. Set a pan over medium heat, then add butter and olive oil. Sauté onions and garlic until soft. Add shredded chicken, then season with salt and pepper.\n3. Add in corn and carrots, and cook for 2-3 minutes. Mix in cooking cream, milk and ½ cup cheddar cheese. Let simmer for 2-3 minutes until slightly thickened.\n4. Transfer to an oven safe dish, then top with King’s Deli Cheese Potato Chips and cheddar cheese. Bake for 10-15 minutes. \n5. Garnish with parsley before serving. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "King’s Deli"
+    ],
     "recipe": {
       "servingTime": "30-45 minutes",
       "yield": "2-3 servings",
@@ -270,7 +292,9 @@ const APRIL_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "APRIL IG & FB",
     "caption": "Did you know that #TheMarketplace carries fresh sashimi? That’s right! Perfect for satisfying your Japanese food cravings or making Japanese dishes such as this delicious Salmon Don.\n\nWhen eating raw fish such as sashimi, freshness is really of utmost important; and at #TheMarketplace, you can count on our commitment to provide only the freshest and tastiest catch. This Salmon Don is an easy meal that is light, healthy, and most importantly, satisfying. Try it out today!\n\nServing Time: 15 minutes\nYield: 1 serving\n\nIngredients\n\n2 tbsps. soy sauce\n1 tbsp. mirin\n½ tbsp. sugar\n½ tbsp. sesame oil\n1 cup Japanese rice, cooked\n2 packs Cold Storage Sushi & Sashimi\n¼ cup Japanese mayonnaise\n2 tbsps. ikura\n¼ cup scallions, sliced\n\nProcedure\n\n1. Combine soy sauce, mirin, sugar and sesame oil, then set aside. \n2. Fill your serving bowl with rice and arrange salmon sashimi on top. Brush sashimi with japanese mayo and torch the top until lightly caramelized.\n3. Pour sauce over salmon and garnish with ikura and scallions.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Cold Storage"
+    ],
     "recipe": {
       "servingTime": "15 minutes",
       "yield": "1 serving",
@@ -293,7 +317,9 @@ const APRIL_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "APRIL IG & FB",
     "caption": "Don't let your busy days stop you from enjoying a delicious meal! Head over to #TheMarketplace and check out our Gourmet To Go section, where hearty and ready-to-eat meals are available to recharge and refuel your body, mind, and soul.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Gourmet-to-Go"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FB7.jpg",

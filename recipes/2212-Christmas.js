@@ -64,7 +64,10 @@ const CHRISTMAS_DATA = [
     "categoryConfidence": "medium",
     "campaign": "CHRISTMAS",
     "caption": "Tide Powder Detergent, which comes with a touch of Downy, is all you need for the perfect load as it leave fabrics brilliantly clean and softer. Added scent pearls also make them fresh-smelling, too! So for those stubborn tablecloth stains after your festive gatherings, make sure you have Tide Powder Detergent. Find it at #TheMarketplace, along with other laundry essentials!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Tide",
+      "Downy"
+    ],
     "recipe": null,
     "photo": {
       "filename": "CM3.jpg",
@@ -81,7 +84,9 @@ const CHRISTMAS_DATA = [
     "categoryConfidence": "medium",
     "campaign": "CHRISTMAS",
     "caption": "Made from two sheets of pure virgin pulp, Sanicare Hand Roll Towel is a must-have for dinner parties and festive celebrations. Sturdy and absorbent, these paper towels are guaranteed to mop up most spills and liquids. Make sure you’re stocked up before the holiday get-togethers roll in! Find Sanicare products at #TheMarketplace, along with other household cleaning essentials.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Sanicare"
+    ],
     "recipe": null,
     "photo": {
       "filename": "CM4.jpg",
@@ -98,7 +103,9 @@ const CHRISTMAS_DATA = [
     "categoryConfidence": "low",
     "campaign": "CHRISTMAS",
     "caption": "In preparation for the holiday feasting, it is only smart to balance one’s diet and opt for healthier alternatives when possible.\n\nDizon Tropical Salad Kit, available at #TheMarketplace, is the perfect grab-and-go salad that’s healthy, refreshing, and absolutely delicious. Packed with a mix of fruits and vegetables, it also contains crab sticks all laced with a lip-smacking strawberry vinaigrette. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Dizon Tropical"
+    ],
     "recipe": null,
     "photo": {
       "filename": "CM5.jpg",
@@ -115,7 +122,9 @@ const CHRISTMAS_DATA = [
     "categoryConfidence": "low",
     "campaign": "CHRISTMAS",
     "caption": "‘Tis the season where the calories do not count! Hence, it’s time to stock up your freezer with Magnum Belgian Chocolate Luxe!\nAvailable at #TheMarketplace, what makes this variant different from the regular Magnum bar is that it is chocolate ice cream covered in a cookie flavored shell that’s coated with sugar and butter cookies. Indulge now!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Magnum"
+    ],
     "recipe": null,
     "photo": {
       "filename": "CM6.jpg",
@@ -210,7 +219,9 @@ const CHRISTMAS_DATA = [
     "categoryConfidence": "medium",
     "campaign": "CHRISTMAS",
     "caption": "An effective way to get rid of home odors, especially post-holiday party, is by having Glade Automatic Spray handy. Not only does it look stylish, but it is also made from essential oils that add fragrance to any part of the room. Find it at #TheMarketplace and choose your favorite scent!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Glade"
+    ],
     "recipe": null,
     "photo": {
       "filename": "CM10.jpg",

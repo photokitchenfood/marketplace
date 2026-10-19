@@ -189,7 +189,9 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
     "categoryConfidence": "low",
     "campaign": "INTERNATIONAL COFFEE DAY",
     "caption": "Had a long day? Wind down with some Coffee Bean & Tea Leaf Chamomile Tea, which you can find at #TheMarketplace.\n\nApart from helping relax the mind and ease the body, did you know that chamomile tea has other benefits that include reducing inflammation and treating cold symptoms? That’s right! So make sure you always have some chamomile tea within your reach!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Coffee"
+    ],
     "recipe": null,
     "photo": {
       "filename": "CD8.jpg",

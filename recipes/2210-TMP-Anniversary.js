@@ -12,7 +12,9 @@ const TMP_ANNIVERSARY_DATA = [
     "categoryConfidence": "low",
     "campaign": "ANNIVERSARY",
     "caption": "The same Magnum ice cream you love — including the chocolate crackle — in pint form, is available at #TheMarketplace. The Magnum ice cream pint in almond comes with velvety vanilla ice cream, thick chocolate shards, and almond pieces, all encased in the signature Magnum Belgian chocolate shell. Perfect with everything!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Magnum"
+    ],
     "recipe": null,
     "photo": {
       "filename": "ANV1.jpg",
@@ -108,7 +110,9 @@ const TMP_ANNIVERSARY_DATA = [
     "categoryConfidence": "medium",
     "campaign": "ANNIVERSARY",
     "caption": "Bringing the delightful fragrance of lavender and vanilla indoors, Glade Automatic Spray is your home’s newest best friend. Designed to complement the décor of any room, this home essential instantly revitalizes and rejuvenates any space. Find Glade products, along with other household essentials, at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Glade"
+    ],
     "recipe": null,
     "photo": {
       "filename": "ANV5.jpg",
@@ -125,7 +129,9 @@ const TMP_ANNIVERSARY_DATA = [
     "categoryConfidence": "medium",
     "campaign": "ANNIVERSARY",
     "caption": "Shower times are sacred moments of healing, cleansing, and renewal. It’s important to immerse in a relaxing moment filled with rejuvenation and replenishing scents.\n\nThe next time you find yourself at #TheMarketplace, treat yourself to some relaxation in a bottle by grabbing some Balnea Milk & Honey Body Wash and enjoying the silky indulgence it offers while cleansing your body.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Balnea Body Wash"
+    ],
     "recipe": null,
     "photo": {
       "filename": "ANV6.jpg",
@@ -142,7 +148,9 @@ const TMP_ANNIVERSARY_DATA = [
     "categoryConfidence": "medium",
     "campaign": "ANNIVERSARY",
     "caption": "Another product from Woolworths, exclusively available at #TheMarketplace, is Strike Floor Cleaner in Mountain Splash. This alpine scented cleanser is tough on germs, making cleaning your home’s floors quick, easy, and with a brillant shine to finish.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Woolworths"
+    ],
     "recipe": null,
     "photo": {
       "filename": "ANV7.jpg",

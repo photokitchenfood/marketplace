@@ -38,7 +38,9 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "categoryConfidence": "low",
     "campaign": "EAT RIGHT LIVE HEALTHY",
     "caption": "The water brand most recommended by doctors and trusted by moms, Wilkins Distilled Water is committed to providing only the safest drinking water, supporting Filipinos with water products that are safe, clean, and internationally certified.\n\nFind Wilkins Distilled Water in various sizes depending on your needs at #TheMarketplace! \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Wilkins Distilled Water"
+    ],
     "recipe": null,
     "photo": {
       "filename": "ER2.jpg",
@@ -80,7 +82,9 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "categoryConfidence": "high",
     "campaign": "EAT RIGHT LIVE HEALTHY",
     "caption": "Providing the skin with the most luxurious comfort, Kotex Luxe Ultrathin is also committed to trustworthy absorbency, empowering all women to be at their best and unstoppable selves in any season of life.\n\nStock up on Kotex Luxe Ultrathin, which comes in groovy designs, along with other femenine hygiene needs only at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Kotex Luxe Ultrathin"
+    ],
     "recipe": null,
     "photo": {
       "filename": "ER4.jpg",
@@ -97,7 +101,9 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "categoryConfidence": "high",
     "campaign": "EAT RIGHT LIVE HEALTHY",
     "caption": "Apart from promising all-day protection against odor, bacteria, and sweat, Nivea Deodorant Spray Extra Brightening is enriched with eight superfood ingredients, including Vitamin C, adding a collagen boost to the skin. It also minimizes pores, nourishes, and smoothens damaged underarms.\n\nFind Nivea products, along with other femninie hygiene essentials, at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Nivea Deodorant Spray"
+    ],
     "recipe": null,
     "photo": {
       "filename": "ER5.jpg",
@@ -164,7 +170,9 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "categoryConfidence": "low",
     "campaign": "EAT RIGHT LIVE HEALTHY",
     "caption": "With ingredients such as collagen, magnesium, and zinc, Anlene MoveMax Chocolate Milk Powder is packed with a lot of nutrition and four times the amount of calcium compared to regular fresh milk! Did you know that Anlene is also made with other essential bone nutrients that enhance calcium absorption? That’s right! \n\nGrab some Anlene MoveMax now at #TheMarketplace and stay active and energetic.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Anlene Movemax"
+    ],
     "recipe": null,
     "photo": {
       "filename": "ER8.jpg",
@@ -181,7 +189,9 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "categoryConfidence": "low",
     "campaign": "EAT RIGHT LIVE HEALTHY",
     "caption": "Specially formulated to provide a balanced and complete nutrition for adults, Ensure Gold also contains 28 different vitamins and minerals, as well as high-quality protein and calcium to support different lifestyles.\n\nTake charge of your wellness and your life. Add some Ensure Gold to your cart the next time you shop at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Ensure"
+    ],
     "recipe": null,
     "photo": {
       "filename": "ER9.jpg",
@@ -198,7 +208,9 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "categoryConfidence": "low",
     "campaign": "EAT RIGHT LIVE HEALTHY",
     "caption": "For your growing ones who aren’t so little anymore, Promil Gold Four is made with the Promil’s most advanced formulation that focuses on speeding up brain connections and boosting the brain’s function through the use of alpha-lipids.\n\nIf you’re looking for a powdered milk formula for your little one that’s focused on cognition and brain function, head over to #TheMarketplace now and grab some Promil Gold Four today!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Promil Gold"
+    ],
     "recipe": null,
     "photo": {
       "filename": "ER10.jpg",

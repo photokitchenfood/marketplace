@@ -12,7 +12,9 @@ const FEBRUARY_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "FEB 2022 IG & FB",
     "caption": "An essential in every household, Zonrox delivers 99.9% antibacterial protection through its 6-in-1 formula that eliminates disease-causing germs, while whitening and deodorizing your home’s surfaces. Don’t forget to add a tub to your cart when you shop at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Zonrox"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FB1.jpg",
@@ -29,7 +31,9 @@ const FEBRUARY_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "FEB 2022 IG & FB",
     "caption": "As we slowly begin to safely venture out of our houses in a more comfortable manner, don’t forget to always carry a pack of Sanicare Clean Hands Alcohol Wipes! When soap and water are not available, these gentle, plant-based wipes are sure to kill 99.9% of germs. Don’t forget to grab a pack or two at #TheMarketplace!\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Sanicare"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FB2.jpg",
@@ -46,7 +50,9 @@ const FEBRUARY_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "FEB 2022 IG & FB",
     "caption": "If you’re transitioning into a plant-based diet but missing the taste of meat, look no further because Heura Plant-Based Chunks are here to curb your cravings!\n\nAvailable at #TheMarketplace, Heura Chunks are meaty, versatile, and make a delicious “Chicken” Chow Mein. Because it looks like meat and tastes like meat, no one will be able to tell the difference. Stock up now!\n\nServing Time: 45 minutes\nYield: 3 servings\n\nIngredients\n\n2 tbsps. soy sauce\n2 tbsps. oyster sauce \n2 tbsps. Chinese cooking wine \n1 tsp. brown sugar \n2 tsps. cornstarch\n1 pack Heura Plant-Based Chunks, thawed\n2 tbsps. sesame oil\n1 white onion, chopped\n3 cloves garlic, chopped\n2 cups cabbage, shredded\n1 cup carrots, julienned\n200g egg noodles, cooked according to package instructions\nSalt and pepper to taste\n2 tbsps. spring onions, chopped\n\nProcedure\n\n1. Whisk together soy sauce, oyster sauce, Chinese cooking wine, brown sugar and cornstarch. Add 2 tbsps. of this sauce to coat Heura Plant-Based Chunks well. Marinate for 10 minutes.\n2. Using a wok over medium heat, add in sesame oil. Sauté onions and garlic until soft. Add in marinated Heura Plant-Based Chunks, and cook until lightly browned, but still undercooked. \n3. Add in carrots and cook for 2-3 minutes, or until carrots are tender. Add cabbage next, and cook for another minute. Mix in cooked egg noodles and the rest of the sauce.\n4. Season with salt and pepper to taste. Mix in spring onions before serving.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Heura Plant-Based"
+    ],
     "recipe": {
       "servingTime": "45 minutes",
       "yield": "3 servings",
@@ -69,7 +75,9 @@ const FEBRUARY_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "FEB 2022 IG & FB",
     "caption": "Too busy to prepare a home-cooked meal?\n\nGrab a pack of Purefoods Ready-to-Eat Bistek Tagalog the next time you shop at #TheMarketplace, jazz it up with some broccoli, aromatics, and sesame oil, and transform it into a hearty and super-delicious Chinese Beef & Broccoli meal that can easily feed four. Perfect for family dinners or for your solo meal prep planning!\n\nServing Time: 15 minutes\nYield: 4 servings\n\nIngredients\n\n2 heads broccoli, cut into florets \n1 pack Purefoods Ready-to-Eat Bistek Tagalog\n2 tsps. ginger, minced\n3 cloves garlic, minced \n2 tsps. brown sugar\nSalt and pepper to taste\n2 tsps. sesame oil\n2 tbsps. cilantro, leaves picked\n\nProcedure\n\n1. Blanch broccoli in salted water. Once tender, drain and set aside.\n2. Place a pan over medium heat. Add in Purefoods Ready-to-Eat Bistek Tagalog. Let simmer until heated through and sauce has reduced slightly. \n3. Mix in ginger and garlic. Cook for 2-3 minutes. Mix in brown sugar, and season with salt and pepper to taste. \n4. Turn off heat, then finish off with sesame oil. Garnish with cilantro. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Purefoods"
+    ],
     "recipe": {
       "servingTime": "15 minutes",
       "yield": "4 servings",
@@ -109,7 +117,9 @@ const FEBRUARY_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "FEB 2022 IG & FB",
     "caption": "For those who love to cook, we understand that clean-up can be a challenge. The next time you shop at #TheMarketplace, don’t forget to add a bottle of Mr. Muscle’s Grime Destroyer. Its powerful formula lifts off grease and grime and leaves no harsh smells. A must-have for every kitchen, no matter what the size! \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Mr. Muscle"
+    ],
     "recipe": null,
     "photo": {
       "filename": "IG1.jpg",

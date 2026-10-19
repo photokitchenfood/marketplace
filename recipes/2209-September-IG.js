@@ -12,7 +12,9 @@ const SEPTEMBER_IG_DATA = [
     "categoryConfidence": "medium",
     "campaign": "SEPT IG & FB",
     "caption": "Suitable for all skin types, Cetaphil’s antimicrobial bar is mild and ideal for full body cleansing. If you’re a fan of Cetaphil’s facial products, then give this body bar a shot. It’s your skin’s new best friend that’s gentle for everyday use yet super-effective in both cleaning and soothing your skin.\n\nFind Cetaphil products, along with other bath essentials at #TheMarketplace! \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
-    "brand": [],
+    "brand": [
+      "Cetaphil"
+    ],
     "recipe": null,
     "photo": {
       "filename": "IG1.jpg",
@@ -29,7 +31,9 @@ const SEPTEMBER_IG_DATA = [
     "categoryConfidence": "medium",
     "campaign": "SEPT IG & FB",
     "caption": "Made with real bananas and a dash of chocolate chips, Monde Banana Bars are transformed into a delicious banana pudding.\n\nWith alternating layers of sweet whipped cream, Monde Banana Bars, and real bananas, this treat will be your favorite go-to when the craving for a creamy banana dessert hits. Not to mention, it’s super easy to make, too! Find Monde Banana Bars, along with other ready-to-eat snacks, at #TheMarketplace!\n\nServing Time: 1 hour\nYield: 2 servings\n\nIngredients\n\n1 cup milk \n1 tsp. vanilla extract \n¼ cup white sugar \n1 tbsp. cornstarch\nPinch of salt \n2 egg yolks \n1 tbsp. butter \n10 packs Monde Banana Bar\n2 cups whipped cream \n2 bananas, sliced\n\nProcedure\n\n1. Heat together milk and vanilla in a saucepan. In a heatproof bowl, whisk together sugar, cornstarch, salt, and egg yolks.\n2. Once the milk is hot, whisk in a small amount to the egg mixture just enough to temper the eggs. Add this to the remaining milk in the saucepan, then continue to whisk while on low heat until thick. \n3. Remove from the heat, then whisk in butter. Cover, then let cool completely, and chill until ready to use. \n4. Layer chunks of Monde Banana Bar, followed by pastry cream, whipped cream, then bananas in a serving glass. Repeat until filled. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Monde"
+    ],
     "recipe": {
       "servingTime": "1 hour",
       "yield": "2 servings",
@@ -52,7 +56,9 @@ const SEPTEMBER_IG_DATA = [
     "categoryConfidence": "medium",
     "campaign": "SEPT IG & FB",
     "caption": "Chicken Parmigiana, also known as Chicken Parmesan, is a super comforting dish to have, especially after a long day.\n\nIf you’re trying to cut down on your meat consumption, try substituting the poultry with UnMeat Chick’N Patties. This plant-based alternative is too close to the real thing, you’ll hardly tell the difference. The best part? It takes less than half an hour to prepare! Find all the ingredients you need for this recipe, along with other meat alternatives, at #TheMarketplace!\n\nServing Time: 18 minutes\nYield: 4 servings\n\nIngredients\n\nOil for shallow-frying\n1 pack UnMeat Chick’N Patties\n2 cups marinara sauce \n1 cup mozzarella, grated \nBasil sprigs for garnish\n\nProcedure\n\n1. Shallow-fry UnMeat Chick’N Patties until golden brown on both sides, about 4 minutes per side. Drain excess oil, then transfer to a baking tray.\n2. Top UnMeat Chick’N Patties with marinara sauce and mozzarella, then broil for 5 minutes, or until cheese is melted.\n3. Garnish with basil. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "UnMeat"
+    ],
     "recipe": {
       "servingTime": "18 minutes",
       "yield": "4 servings",
@@ -75,7 +81,9 @@ const SEPTEMBER_IG_DATA = [
     "categoryConfidence": "medium",
     "campaign": "SEPT IG & FB",
     "caption": "Ever wondered what Roka Salata means?\n\nWhen translated from Greek, it means “Rocket Salad”, with rocket referring to arugula and not the ones sent to space. This salad is so healthy and nourishing that you can make an extra batch of the dressing made with Essential Waitrose Balsamic Vinegar of Modena and pair it with other salad combinations or even chicken and fish! Make your own Roka Salata at home and grab all the ingredients you need fresh from #TheMarketplace.\n\nServing Time: 15 minutes\nYield: 2-3 servings\n\nIngredients\n\n1 tbsp. Dijon mustard \n2 tsps. Italian seasoning\n3 tbsps. honey \n¼ cup Essential Waitrose Balsamic Vinegar of Modena \n½ cup olive oil \nSalt and pepper to taste \n2 cups Romaine lettuce, roughly-chopped\n1 cup arugula\n½ cup sundried tomatoes, sliced\n½ cup candied walnuts \n½ cup parmesan shavings \n\nProcedure\n\n1. Whisk together Dijon mustard, Italian seasoning, honey and Essential Waitrose Balsamic Vinegar of Modena.\n2. Slowly stream in olive oil while whisking continuously to emulsify the dressing. Season with salt and pepper to taste. Chill and set aside.\n3. Combine Romaine lettuce, arugula and sundried tomatoes. Dress with the balsamic dressing, then top with candied walnuts and parmesan shavings.  \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Essential Waitrose"
+    ],
     "recipe": {
       "servingTime": "15 minutes",
       "yield": "2-3 servings",
@@ -98,7 +106,9 @@ const SEPTEMBER_IG_DATA = [
     "categoryConfidence": "medium",
     "campaign": "SEPT IG & FB",
     "caption": "If you’re thinking of another fun way to enjoy ramen, try this Ramen Noodle Salad made with Korean Nongshim Shin Ramyun Stir Fry Spicy Noodles.\n\nWith a simple dressing made with honey and sesame oil, it’s a great way to consume vegetables with that added crunch from the instant ramen. Not exactly the healthiest, but hey, it’s fun and delicious! Head over to #TheMarketplace now and stock up on Shin Ramyun and other Korean essentials — we have a wide selection so don’t miss out!\n\nServing Time: 15 minutes\nYield: 1-2 servings\n\nIngredients\n\n1 pack Nongshim Shin Ramyun Stir Fry Spicy Noodles\n2 tbsps. hot water\n2 tbsps. honey\n1 tbsp. sesame oil\n1 cup purple cabbage, shredded\n1 cup green cabbage, shredded\n1 cup carrot, julienned\n⅓ cup almonds, chopped\n¼ cup spring onions, chopped\n\nProcedure\n\n1. Break apart Nongshim Shin Ramyun Stir Fry Spicy Noodles into bite size pieces, then set aside.\n2. In a small bowl, dissolve seasoning packet in hot water. Whisk in honey and sesame oil. \n3. Combine cabbage, carrots and crushed Nongshim noodles in a bowl. Top with almonds and spring onions.\n4. Serve alongside dressing.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Nongshim"
+    ],
     "recipe": {
       "servingTime": "15 minutes",
       "yield": "1-2 servings",
@@ -121,7 +131,9 @@ const SEPTEMBER_IG_DATA = [
     "categoryConfidence": "medium",
     "campaign": "SEPT IG & FB",
     "caption": "There is a reason why Kerrygold Pure Irish Butter has become the ideal premium butter brand.\n\nGrass-fed cows produce milk that’s richer and creamier in flavor, and the slightly sweeter taste makes Kerrygold a solid choice. Its versatility in the kitchen spans from plain ‘ole toast, to culinary creations such as this Lemon Butter Pasta, where the sauce is so reliant on the butter itself. Make this dish at home and taste it for yourself. Kerrygold Pure Irish Butter is available at #TheMarketplace, along with other international dairy brands and products. \n\nServing Time: 20 minutes\nYield: 2-3 servings\n\nIngredients\n\n300g spaghetti noodles\nSalt and pepper to taste\n2 tbsps. olive oil\n5 tbsps. Kerrygold Pure Irish Butter\n5 cloves garlic, minced\n1 tbsp. lemon zest\n3 tbsps. lemon juice\n1 cup green peas\n⅓ cup parmesan cheese\n1 lemon, sliced into wedges\n2 tbsps. crispy garlic bits\n\nProcedure\n\n1. Cook pasta in heavily salted boiling water until al dente. Save 1 cup of pasta water before draining, then set aside.\n2. Set a pan over medium heat, then add olive oil and 3 tablespoons of Kerrygold Pure Irish Butter. Sauté garlic until lightly golden.\n3. Add in cooked pasta, followed by lemon zest, lemon juice and half of pasta water. Toss until well incorporated \n4. Add in green peas and parmesan cheese. Season with salt and pepper. Turn off the heat, then finish off with the remaining Kerrygold butter.\n5. Transfer to a plate and top with lemon slices and crispy garlic bits.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Kerrygold"
+    ],
     "recipe": {
       "servingTime": "20 minutes",
       "yield": "2-3 servings",
@@ -144,7 +156,9 @@ const SEPTEMBER_IG_DATA = [
     "categoryConfidence": "medium",
     "campaign": "SEPT IG & FB",
     "caption": "With more and more people claiming to be sensitive to lactose, #TheMarketplace has you covered with our array of dairy alternatives, such as Emborg Plant-based Original Slices. \n\nWe understand how cravings can kick in, especially indulgent ones such as a tasty grilled cheese sandwich. In this recipe for Vegan Grilled Cheese Roll-ups, we substituted the actual cheese for Emborg’s Plant-based Original Slices to make this dish easy on the tummy. Taste-wise, it still hits the spot. Find Emborg plant-based products, along with other dairy alternatives, at #TheMarketplace!\n\nServing Time: 20 minutes\nYield: 2-3 servings\n\nIngredients\n\n8 slices white bread\n1 pack Emborg Plant-based Original Slices\n3 tbsps. olive oil \n½ cup basil leaves\n\nProcedure\n\n1. Slice off the crusts of the bread, then flatten out using a rolling pin. Fill each with one slice of Emborg Plant-based Original Slices, roll into a log, then secure with a toothpick.\n2. Set a pan over medium heat. Add olive oil, then pan fry roll-ups until golden brown on all sides. Remove toothpicks. \n3. Transfer to a plate, and garnish with basil leaves. Serve alongside marinara sauce or tomato soup.\n\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Emborg"
+    ],
     "recipe": {
       "servingTime": "20 minutes",
       "yield": "2-3 servings",
@@ -167,7 +181,9 @@ const SEPTEMBER_IG_DATA = [
     "categoryConfidence": "medium",
     "campaign": "SEPT IG & FB",
     "caption": "Apart from its famous corned beef, did you know that Delimondo now carries its own canned tuna? That’s right! And we’ve turned Delimondo’s Yellowfin Tuna Chunks in Extra Virgin Olive Oil into these yummy and buttery Tuna Danish pastries,\n\nPacked with flavor and bursting with the familiar and comforting flavors of mayonnaise, garlic powder, onion, and cream, these are the ideal pika-pikas to have on a lazy weekend afternoon. Find all the ingredients you need for this recipe, along with a wide selection of Delimondo products, only at #TheMarketplace!\n\nServing Time: 1 hour\nYield: 8 servings\n\nIngredients\n\n¼ cup flour\n2 sheets puff pastry, rolled out\n1 egg yolk\n2 tbsps. heavy cream\n3 cans Delimondo Yellowfin Tuna Chunks in Extra Virgin Olive Oil, drained\n½ cup mayonnaise\n½ tsp. garlic powder\n½ tsp. onion powder\nSalt and pepper to taste\n1 cup cherry tomatoes, sliced\n¼ cup spring onions\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. Dust puff pastry with flour, then cut into four squares. Make 2 letter ‘V’ incisions on the upper corner and lower corner of each square, then fold to the other side while overlapping to form a frame. Crimp the edges using a fork to secure, then poke several holes in the middle to prevent from bubbling. \n3. Combine egg yolk and heavy cream. Brush the sides of the formed puff pastry with egg wash, and bake for 15-20 minutes, or nicely golden browned. Let cool. \n4. In a bowl, combine Delimondo Yellowfin Tuna Chunks in Extra Virgin Olive Oil, mayonnaise, garlic powder, and onion powder. Season with salt and pepper, then mix. Set aside.\n5. Fill each baked puff pastry with tuna spread and top with cherry tomatoes and spring onions.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Delimondo Yellowfin"
+    ],
     "recipe": {
       "servingTime": "1 hour",
       "yield": "8 servings",
@@ -190,7 +206,9 @@ const SEPTEMBER_IG_DATA = [
     "categoryConfidence": "medium",
     "campaign": "SEPT IG & FB",
     "caption": "Make some banana pancakes and pretend it’s the weekend now with these Vegan Banana Coconut Pancakes made with Sagana Coconut Spread. Imagine the textures of coco jam with soft and sweet bananas, turned into pancakes made with coconut-derived products. Sounds like an amazing weekend ahead. Get all the ingredients you need for this recipe, along with other vegan breakfast essentials, at #TheMarketplace!\n\nServing Time: 30-40 minutes\nYield: 2-3 servings\n\nIngredients\n\n2 cups flour\n1 tbsp. baking powder\n½ tsp. salt\n½ cup. maple syrup\n1 cup coconut milk\n2 tbsps. coconut oil\n½ cup Sagana Coconut Spread \n4 bananas, halved\n¼ cup coconut flakes\n2 tbsps. mint leaves\n\nProcedure\n\n1. In a large bowl, sift together flour, baking powder and salt. In another bowl, combine 2 tablespoons maple syrup, coconut milk and coconut oil. \n2. Mix together wet and dry ingredients until fully incorporated. \n3. Set pan over medium heat, then add a tablespoon of Sagana Coconut Spread. Pour ¼ cup of pancake batter. Wait until bubbles form before flipping. Repeat for remaining Sagana Coconut Spread and pancake batter. \n4. Using the same pan, pan fry until golden brown.\n5. Stack pancakes in a plate and top with fried bananas, coconut flakes, more Sagana Coconut Spread and mint.\n6. Serve alongside the remaining maple syrup.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Sagana"
+    ],
     "recipe": {
       "servingTime": "30-40 minutes",
       "yield": "2-3 servings",
@@ -213,7 +231,9 @@ const SEPTEMBER_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "SEPT IG & FB",
     "caption": "Because even toddlers need long-lasting protection, and with Pampers Toddler Pants, front-to-back absorption is guaranteed, with anti-leak guards and an anti-irritation layer so your child is free to explore all day without having to worry about accidents and irritation to the delicate area. Pampers Toddler Pants, along with other essentials for your growing child, are available in #TheMarketplace! \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Pampers Toddler Pants"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FB2.jpg",
@@ -230,7 +250,9 @@ const SEPTEMBER_IG_DATA = [
     "categoryConfidence": "medium",
     "campaign": "SEPT IG & FB",
     "caption": "Ever tried making your own biscuits at home? We’re not talking about the cracker-like ones; rather, these airy, bread-like biscuits that are great for dipping savory sauces with!\n\nCurious? These Red Cheddar Scallion Biscuits made with President Red British Cheddar Cheese are a great introductory recipe! Amazing when paired with gravies and even tomato soups, make sure to prepare a huge batch of these biscuits because they’ll surely be gone in a flash!\n\nFind President Red British Cheddar Cheese, along with other imported dairy goods, at #TheMarketplace!\n\nServing Time: 45 minutes\nYield: 4-5 servings\n\nIngredients\n\n2 cups flour\n1 tsp. sugar\n½ tbsp. salt\n1 tbsp. baking powder\n½ tsp. baking soda\n10 tbsps. butter, cubed\n1 cup President Red British Cheddar Cheese, grated\n½ cup spring onions\n1 cup heavy cream, chilled\n¼ cup butter, melted\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. Sift together flour, sugar, salt, baking powder and baking soda. Mix in cold butter and smash with your hands until flakes are formed.\n3. Add in President Red British Cheddar Cheese and spring onions, and mix. Add in chilled heavy cream, then lightly mix until a shaggy dough forms.\n4. Dust a clean surface with flour, then transfer dough here. Lightly knead to incorporate the dough more while forming it into a rectangle. Cut into squares. \n5. Brush the tops with melted butter, then bake for 15-20 minutes, or until golden brown.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "President"
+    ],
     "recipe": {
       "servingTime": "45 minutes",
       "yield": "4-5 servings",
@@ -253,7 +275,9 @@ const SEPTEMBER_IG_DATA = [
     "categoryConfidence": "medium",
     "campaign": "SEPT IG & FB",
     "caption": "When the word “squidgy” is used to describe a cookie, you know you can only expect good stuff.\n\nCadbury’s Squidgy Chocolate Cookie Mix when paired with peanut butter is a revelation. Sweet chocolate paired with salty-sweet gobs of peanut butter and sprinkled with almonds sounds like a combination that’ll send us to dessert heaven. Make these at home and pair with a glass of cold, creamy milk. Enjoy!\n\nFind Cadbury products, along with other imported cookie mix brands, at #TheMarketplace!\n\nServing Time: 30-45 minutes\nYield: 2-3 servings\n\nIngredients\n\n1 box Cadbury Squidgy Chocolate Cookie Mix\n3 tbsps. oil\n3 tbsps. semi-skimmed milk\n½ cup peanut butter\n1 tbsp. flour\n½ cup almonds, chopped\n\nProcedure\n\n1. Preheat oven to 180°C.\n2. In a large bowl, add Cadbury Squidgy Chocolate Cookie Mix, oil and semi-skimmed milk. Mix until well incorporated.\n3. In a small bowl combine peanut butter and flour. Fold this into the chocolate cookie dough.\n4. Form dough balls, then slightly flatten. Top with chopped almonds. \n5. Bake for 8-12 minutes.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Cadbury"
+    ],
     "recipe": {
       "servingTime": "30-45 minutes",
       "yield": "2-3 servings",
