@@ -211,6 +211,7 @@ class TemplateProfile:
     zone_badge: dict                 # Pre-Prod deck only
     min_share: float = 0.9           # share of item slides that must satisfy each fingerprint check
     size_tol_in: float = 0.05
+    requires_banner: bool = True     # False for decks with no campaign banner (campaign comes from the cover)
     scale: float = 1.0               # >1 for decks built at a larger slide size (positions scale with it)
 
     def _zs(self, zone):
@@ -393,7 +394,7 @@ class TemplateProfile:
 
         checks = [
             (f"layout-code chip matching {self.code_re.pattern!r}", lambda s: bool(self.code_of(s)[0])),
-            ("campaign banner text", banner_ok),
+            *([("campaign banner text", banner_ok)] if self.requires_banner else []),
             ("title placeholder", title_ok),
             ("caption text box starting with 'Caption:'",
              lambda s: self.caption_of(s) is not None
@@ -510,6 +511,49 @@ PROFILE_2023_11_TEXTBOX_TITLE_CAPTION = TextBoxTitleCaptionProfile(
     zone_badge=PROFILE_2023_2026.zone_badge,
 )
 
+@dataclass(frozen=True)
+class Layout2022Profile(TemplateProfile):
+    """Jan 2022 decks: no campaign banner (the campaign is the cover's
+    "<Campaign> 2022 Social Media Shoot" line) and a layout-type chip
+    (RECIPE / OUT OF PACK / ...) beside the caption on each photo slide.
+    Everything else (code chip, photo, title, caption positions) is the
+    standard template's."""
+    requires_banner: bool = False
+    zone_chip: dict = field(default_factory=lambda: dict(left=(5.40, 5.90), top=(0.30, 0.55)))
+
+    def banner_of(self, slide, ppm=False):
+        return None
+
+    def layout_type_of(self, slide):
+        for shape in find_shape_in_zone(slide, self._zs(self.zone_chip), {MSO_SHAPE_TYPE.AUTO_SHAPE}):
+            text = shape_text(shape).strip().upper()
+            if text in KNOWN_CATEGORIES:
+                return text
+        return None
+
+    def campaign_from_cover(self, prs):
+        """"Australian Festival 2022 Social Media Shoot" -> "Australian Festival"."""
+        for shape in prs.slides[0].shapes:
+            if not shape.has_text_frame:
+                continue
+            for para in shape.text_frame.paragraphs:
+                text = "".join(r.text for r in para.runs).strip()
+                if re.search(r"social media shoot", text, re.IGNORECASE):
+                    text = re.sub(r"\s*social media shoot.*$", "", text, flags=re.IGNORECASE)
+                    return re.sub(r"\s*\b20\d\d\b\s*", " ", text).strip()
+        return ""
+
+
+PROFILE_2022_01_LAYOUT_TYPE_CHIP = Layout2022Profile(
+    name="TMP 2022-01 (no banner, layout-type chip)",
+    slide_size_in=PROFILE_2023_2026.slide_size_in,
+    code_re=PROFILE_2023_2026.code_re,
+    zone_code=PROFILE_2023_2026.zone_code,
+    zone_banner=PROFILE_2023_2026.zone_banner,
+    zone_photo=PROFILE_2023_2026.zone_photo,
+    zone_badge=PROFILE_2023_2026.zone_badge,
+)
+
 # The Jul 2023 deck (filed Aug 2023) was built at 20 x 11.25in: the text-box-caption
 # template with every position doubled.
 PROFILE_2023_07_DOUBLE_SIZE = TextBoxCaptionProfile(
@@ -542,7 +586,7 @@ PROFILE_2024_09_WIDE_BANNER = TextBoxTitleProfile(
 # Add 2021 / 2022 profiles here (bare-number codes, category printed on each slide, ...).
 PROFILES = [PROFILE_2023_2026, PROFILE_2025_09_TEXTBOX_TITLES, PROFILE_2024_09_WIDE_BANNER,
             PROFILE_2023_01_TEXTBOX_CAPTIONS, PROFILE_2023_07_DOUBLE_SIZE,
-            PROFILE_2023_11_TEXTBOX_TITLE_CAPTION]
+            PROFILE_2023_11_TEXTBOX_TITLE_CAPTION, PROFILE_2022_01_LAYOUT_TYPE_CHIP]
 
 
 def detect_profile(prs, label, kind="recipe"):
@@ -1419,6 +1463,8 @@ def extract_items(prs, profile, ppm=None, warnings=None, with_photos=True):
         caption_ph = profile.caption_of(slide)
 
         campaign_raw = shape_text(banner).strip() if banner is not None else ""
+        if not campaign_raw and hasattr(profile, "campaign_from_cover"):
+            campaign_raw = profile.campaign_from_cover(prs)
         banner_color = banner_fill_color(banner) if banner is not None else None
         layout_name = shape_text(title_ph).strip() if title_ph else ""
         caption_raw = clean_multiline(shape_text(caption_ph)) if caption_ph else ""
@@ -1463,6 +1509,7 @@ def extract_items(prs, profile, ppm=None, warnings=None, with_photos=True):
             "_slides": 1,
             "_slideNo": i + 1,
             "_inlineRecipe": profile.has_recipe_content(slide),
+            "_layoutType": profile.layout_type_of(slide) if hasattr(profile, "layout_type_of") else None,
             "_pairMethod": rec["pair_method"],
             "_pairDisagree": rec["pair_disagree"],
             "_extraSlides": sum(1 for o in other_recs if o["code"] == layout_code),
@@ -1532,6 +1579,10 @@ def extract_items(prs, profile, ppm=None, warnings=None, with_photos=True):
                     category, confidence = "UNKNOWN", "low"
                 item["category"] = category
                 item["categoryConfidence"] = confidence
+            item["categorySource"] = "ppm"
+        elif item.get("_layoutType"):
+            # the deck labels its own layout type (2022 template): production-labelled, like a PPM label
+            item["category"], item["categoryConfidence"] = item["_layoutType"], "high"
             item["categorySource"] = "ppm"
         else:
             category, confidence, reason = infer_category(item)
