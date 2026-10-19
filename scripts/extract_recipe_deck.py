@@ -483,6 +483,33 @@ PROFILE_2023_01_TEXTBOX_CAPTIONS = TextBoxCaptionProfile(
     zone_badge=PROFILE_2023_2026.zone_badge,
 )
 
+@dataclass(frozen=True)
+class TextBoxTitleCaptionProfile(TextBoxTitleProfile):
+    """Text-box titles (as TextBoxTitleProfile) AND text-box captions (as
+    TextBoxCaptionProfile), seen in the Oct 2023 deck (filed Nov 2023)."""
+    zone_caption: dict = field(default_factory=lambda: dict(left=(4.9, 5.6), top=(-0.1, 0.7)))
+
+    def caption_of(self, slide):
+        placeholder = TemplateProfile.caption_of(self, slide)
+        if placeholder is not None and shape_text(placeholder).strip():
+            return placeholder
+        boxes = [sh for sh in slide.shapes
+                 if sh.shape_type == MSO_SHAPE_TYPE.TEXT_BOX and sh.has_text_frame
+                 and shape_text(sh).lstrip("\ufeff \n\x0b").lower().startswith("caption")
+                 and in_zone(sh, self._zs(self.zone_caption))]
+        return boxes[-1] if boxes else placeholder
+
+
+PROFILE_2023_11_TEXTBOX_TITLE_CAPTION = TextBoxTitleCaptionProfile(
+    name="TMP 2023-11 (text-box titles + captions)",
+    slide_size_in=PROFILE_2023_2026.slide_size_in,
+    code_re=PROFILE_2023_2026.code_re,
+    zone_code=PROFILE_2023_2026.zone_code,
+    zone_banner=PROFILE_2023_2026.zone_banner,
+    zone_photo=PROFILE_2023_2026.zone_photo,
+    zone_badge=PROFILE_2023_2026.zone_badge,
+)
+
 # The Jul 2023 deck (filed Aug 2023) was built at 20 x 11.25in: the text-box-caption
 # template with every position doubled.
 PROFILE_2023_07_DOUBLE_SIZE = TextBoxCaptionProfile(
@@ -514,7 +541,8 @@ PROFILE_2024_09_WIDE_BANNER = TextBoxTitleProfile(
 # standard template never falls through to a variant.
 # Add 2021 / 2022 profiles here (bare-number codes, category printed on each slide, ...).
 PROFILES = [PROFILE_2023_2026, PROFILE_2025_09_TEXTBOX_TITLES, PROFILE_2024_09_WIDE_BANNER,
-            PROFILE_2023_01_TEXTBOX_CAPTIONS, PROFILE_2023_07_DOUBLE_SIZE]
+            PROFILE_2023_01_TEXTBOX_CAPTIONS, PROFILE_2023_07_DOUBLE_SIZE,
+            PROFILE_2023_11_TEXTBOX_TITLE_CAPTION]
 
 
 def detect_profile(prs, label, kind="recipe"):
