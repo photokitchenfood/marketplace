@@ -1460,6 +1460,24 @@ const RECIPES_INDEX = [
     "month": 1,
     "file": "recipes/2301-Australian-Festival.js",
     "count": 10
+  },
+  {
+    "id": "2201-January-IG",
+    "label": "January IG",
+    "type": "photo",
+    "year": 2022,
+    "month": 1,
+    "file": "recipes/2201-January-IG.js",
+    "count": 7
+  },
+  {
+    "id": "2201-Australian-Festival",
+    "label": "Australian Festival",
+    "type": "photo",
+    "year": 2022,
+    "month": 1,
+    "file": "recipes/2201-Australian-Festival.js",
+    "count": 7
   }
 ];
 
