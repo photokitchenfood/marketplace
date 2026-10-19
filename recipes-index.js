@@ -886,6 +886,51 @@ const RECIPES_INDEX = [
     "count": 9
   },
   {
+    "id": "2305-Mothers-Day",
+    "label": "Mothers Day",
+    "type": "photo",
+    "year": 2023,
+    "month": 5,
+    "file": "recipes/2305-Mothers-Day.js",
+    "count": 6
+  },
+  {
+    "id": "2305-May-IG",
+    "label": "May IG",
+    "type": "photo",
+    "year": 2023,
+    "month": 5,
+    "file": "recipes/2305-May-IG.js",
+    "count": 10
+  },
+  {
+    "id": "2305-Health-Wellness",
+    "label": "Health & Wellness",
+    "type": "photo",
+    "year": 2023,
+    "month": 5,
+    "file": "recipes/2305-Health-Wellness.js",
+    "count": 6
+  },
+  {
+    "id": "2305-Dish-of-the-Month",
+    "label": "Dish of the Month",
+    "type": "photo",
+    "year": 2023,
+    "month": 5,
+    "file": "recipes/2305-Dish-of-the-Month.js",
+    "count": 1
+  },
+  {
+    "id": "2304-Tropical-Harvest-Videos",
+    "label": "Tropical Harvest (Videos)",
+    "type": "video",
+    "year": 2023,
+    "month": 4,
+    "file": "recipes/2304-Tropical-Harvest-Videos.js",
+    "count": 1
+  },
+  {
     "id": "2304-Summer-Delights",
     "label": "Summer Delights",
     "type": "photo",
