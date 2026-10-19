@@ -13,8 +13,7 @@ const US_FESTIVAL_DATA = [
     "campaign": "US FEST",
     "caption": "Ever had a Dirty Dr. Pepper Float before? Here’s how to make it!\n\nInstead of the plain ole vanilla ice cream and root beer combination, this one makes use of Dr. Pepper, with the addition of coconut, cherry, and a zingy hint of lime. Make it even dirtier with a splash or two of rum!\n\nCool down with this decadent treat this weekend. Head over to #TheMarketplace and find all the ingredients you need.\n\nServing Time: 10 minutes\nYield: 1-2 servings\n\nIngredients\n\n1 lime \n¼ cup desiccated coconut \n1 can Dr. Pepper\n1 tbsp. cherry syrup \n3 scoops coconut sorbet \nMaraschino cherry, for garnish (optional)\n\nProcedure\n\n1. Zest the lime, making sure to only get the green skin. Slice a lime wedge, and rub it along the rim of a tall glass. \n2. Combine the lime zest with the desiccated coconut on a small plate. Dip the rim of the glass into the mixture, twisting gently to ensure an even coating. \n3. Combine Dr. Pepper and cherry syrup. \n4. Add coconut sorbet into the prepared glass. Slowly pour the Dr. Pepper mixture over the coconut sorbet. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Dr. Pepper",
-      "1 can Dr. Pepper"
+      "Dr. Pepper"
     ],
     "recipe": {
       "servingTime": "10 minutes",
@@ -39,8 +38,7 @@ const US_FESTIVAL_DATA = [
     "campaign": "US FEST",
     "caption": "Sour cream became a popular ingredient to combine in cheesecakes because apart from lending more tanginess, it actually tempers the cream cheese and makes it softer in texture!\n\nWith that in mind, we whipped up this savory Sour Cream & Onion Cheesecake that’s baked with a crust made from Pringles Sour Cream & Onion. This super-cheesy treat is best enjoyed with, what else but, more sour cream and more chopped green onions. May we suggest more Pringles on the side, too?\n\nHead over to #TheMarketplace now and stock up on the ingredients you need for this recipe. Let us know how you like it by leaving a comment below!\n\nServing Time: 6 hours\nYield: 1 9-inch cheesecake\nOptional: Top with sour cream and more chopped green onions. \n\nIngredients\n\n2 cups Pringles Sour Cream & Onion, crushed\n¼ cup unsalted butter, melted\n1 bar cream cheese, softened \n1 cup sour cream\n3 large eggs, whisked \n1 cup cheddar cheese, grated \n½ cup green onions, finely chopped\n1 tsp. onion powder \n½ tsp. garlic powder \n½ tsp. salt \n¼ tsp. black pepper\n\nProcedure\n\n1. Preheat oven to 160C. Line the bottom of a 9-inch springform pan with parchment paper, then set aside. \n2. In a mixing bowl, combine crushed Pringles Sour Cream & Onion with melted butter. Press the Pringles mixture into the bottom and sides of the springform pan, forming an even crust. Use the back of a spoon or a measuring cup to press firmly. \n3. Bake the crust for 10 minutes, then let cool while preparing the filling. \n4. Beat the cream cheese until smooth. Mix in sour cream, eggs, cheddar cheese, green onions, onion powder, garlic powder, salt and black pepper. Beat until all the ingredients are well combined and mixture is smooth. \n5. Pour mixture over the cooled Pringles crust, then smooth the top with an offset spatula. \n6. Bake for 45-50 minutes, or until the center is set and edges are golden.\n7. Allow the cheesecake to cool completely at room temperature, then chill for at least 4 hours before serving. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Pringles Sour Cream & Onion",
-      "2 cups Pringles Sour Cream & Onion, crushed"
+      "Pringles"
     ],
     "recipe": {
       "servingTime": "6 hours",
@@ -65,8 +63,7 @@ const US_FESTIVAL_DATA = [
     "campaign": "US FEST",
     "caption": "Remember Revel Bars? Ah, the ultimate oaty, chocolatey recess snack that we would usually cop at our cafeterias.\n\nWith the help of Kirkland Milk Chocolate Raisins, we added more bite, chocolate flavor, and chew to this batch of Chocolate Raisin Revel Bars, making them the perfect snack to munch on any time of the day. Best enjoyed with some coffee or milk!\n\nGet all the ingredients you need for this recipe at #TheMarketplace, and remember to bake multiple batches because these will surely run out quick!\n\nServing Time: 45 minutes\nYield: 24 bars\n\nIngredients\n\nFor the Oat Layer:\n1 ½ cups all purpose flour \n1 ½ cups rolled oats \n1 cup brown sugar \n½ tsp. baking soda \n¼ tsp. salt \n¾ cup unsalted butter\n\nFor the Chocolate Layer:\n1 cup milk chocolate chips\n1 cup condensed milk \n2 tbsps. unsalted butter \n1 tsp. vanilla extract\n1 ½ cup Kirkland Milk Chocolate Raisins\n\nProcedure\n\n1. Preheat oven to 175C. Grease a 9x13-inch baking pan. \n2. Combine all of the oat layer ingredients until the mixture resembles sandy crumbs. Press ⅓ of his into the greased baking pan. Set aside remaining crumbs for topping. \n3. In a saucepan, combine milk chocolate, condensed milk, butter and vanilla. Stir over low heat until fully melted and mixture is smooth. \n4. Pour the chocolate mixture over the oat layer, then sprinkle 1 cup of Kirkland Milk Chocolate Raisins on top. \n5. Add dollops of the remaining oat mixture and the remaining Kirkland Milk Chocolate Raisins on top. \n6. Bake for 25-30 minutes. \n7. Allow the bars to cool completely before slicing into bars. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Kirkland Milk Chocolate Raisins",
-      "1 ½ cup Kirkland Milk Chocolate Raisins"
+      "Kirkland"
     ],
     "recipe": {
       "servingTime": "45 minutes",
@@ -91,8 +88,7 @@ const US_FESTIVAL_DATA = [
     "campaign": "US FEST",
     "caption": "Fancy a Western dish to unwind with this weekend?\n\nTry this helping of Smoked Sausage and Beans made with none other than Johnsonville Smoked Sausages! We love Johnsonville’s snappy crunch that super complements the moist, flavorful meat on the inside. Cook with aromatics and serve with slices of your favorite bread — wash down with an ice-cold beer, and take in all that satisfaction.\n\nFind your favorite variety of Johnsonville Sausages and all the other ingredients that you need for this recipe at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 3 servings\n\nIngredients\n\n3 tbsps. olive oil \n1 (360g) pack Johnsonville Smoked Sausage \n1 white onion, diced \n2 bell peppers, sliced \n5 cloves garlic, minced \n1 cup cherry tomatoes\n1 can white beans, drained and rinsed \n1 can diced tomatoes\n1 tsp. dried oregano\n½ tsp. smoked paprika \n4 sprigs thyme\nSalt and pepper to taste \n\nProcedure\n\n1. Fry Johnsonville Smoked Sausages in olive oil until nicely browned. Set aside sausages while retaining oil in the pan. \n2. In the same skillet, sautè onions and bell peppers until softened and slightly caramelized. Add in garlic and cherry tomatoes, and cook for 1-2 more minutes. \n3. Mix in white beans, diced tomatoes, oregano, paprika and thyme. Season with salt and pepper to taste. \n4. Add back cooked Johnsonville Smoked Sausages, and let simmer for 3 minutes. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Johnsonville Smoked Sausages",
-      "1 (360g) pack Johnsonville Smoked Sausage"
+      "Johnsonville"
     ],
     "recipe": {
       "servingTime": "15 minutes",
@@ -117,9 +113,7 @@ const US_FESTIVAL_DATA = [
     "campaign": "US FEST",
     "caption": "Add a buttery bite to your yoghurt dip with this super easy recipe for Pistachio Yoghurt Dip made with Wonderful Pistachios in Pepper & Garlic flavor. Pistachios are known to be a great source of healthy fats and antioxidants that help lower cholesterol.\n\nMixed with tangy Greek yoghurt and a bunch of aromatics, serve this dip with your favorite crudites and toasted bread for a healthful and filling snack or appetizer.\n\nGrab all the ingredients that you need for this tasty dip at #TheMarketplace!\n\nServing Time: 10 minutes\nYield: 2-3 servings\nOptional: Enjoy with crudites and toasted bread. \n\nIngredients\n\n1 cup plain Greek yoghurt\n½ cup Wonderful Pistachios Pepper & Garlic, shelled \n2 tbsps. lemon juice \n2 tbsps. extra virgin olive oil\n5 cloves garlic, minced \n¼ cup parsley, chopped\n¼ cup cilantro, chopped\n¼ cup dill, chopped \nSalt and pepper to taste\n\nProcedure\n\n1. In a food processor or blender, pulse Wonderful Pistachios Pepper & Garlic until they are finely chopped. Set aside 1 tbsp. of pistachios for garnish. \n2. Add in lemon juice, olive oil, garlic, parsley, cilantro and dill. Pulse until smooth and well combined. \n3. Season with salt and pepper to taste. \n4. Transfer to a serving bowl, and garnish with crushed pistachios. \n5. Chill for at least 30 minutes before serving. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Wonderful Pistachios in Pepper & Garlic",
-      "½ cup Wonderful Pistachios Pepper & Garlic, shelled",
-      "Wonderful Pistachios Pepper & Garlic"
+      "Wonderful Pistachios"
     ],
     "recipe": {
       "servingTime": "10 minutes",
@@ -144,7 +138,7 @@ const US_FESTIVAL_DATA = [
     "campaign": "US FEST",
     "caption": "Sometimes, we all just need a good and reliable Grilled Sausage Sandwich & Coke in Can. After an day of grocery shopping at #TheMarketplace, take a seat, relax, and indulge in this comforting combination. You deserve it!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Grilled Sausage Sandwich & Coke in Can"
+      "Coke"
     ],
     "recipe": null,
     "photo": {
