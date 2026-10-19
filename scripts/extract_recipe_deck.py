@@ -529,6 +529,8 @@ class Layout2022Profile(TemplateProfile):
             text = shape_text(shape).strip().upper()
             if text in KNOWN_CATEGORIES:
                 return text
+            if text.replace("-", " ") in KNOWN_CATEGORIES:  # "OUT-OF-PACK"
+                return text.replace("-", " ")
         return None
 
     def campaign_from_cover(self, prs):
@@ -552,6 +554,18 @@ PROFILE_2022_01_LAYOUT_TYPE_CHIP = Layout2022Profile(
     zone_banner=PROFILE_2023_2026.zone_banner,
     zone_photo=PROFILE_2023_2026.zone_photo,
     zone_badge=PROFILE_2023_2026.zone_badge,
+)
+
+# The Feb 2022 deck: the same template built at 26.67 x 15in (2.667x).
+PROFILE_2022_02_LARGE = Layout2022Profile(
+    name="TMP 2022-02 (26.67in slide, layout-type chip)",
+    slide_size_in=(80 / 3, 15.0),
+    code_re=PROFILE_2023_2026.code_re,
+    zone_code=PROFILE_2023_2026.zone_code,
+    zone_banner=PROFILE_2023_2026.zone_banner,
+    zone_photo=PROFILE_2023_2026.zone_photo,
+    zone_badge=PROFILE_2023_2026.zone_badge,
+    scale=8 / 3,
 )
 
 # The Jul 2023 deck (filed Aug 2023) was built at 20 x 11.25in: the text-box-caption
@@ -586,7 +600,8 @@ PROFILE_2024_09_WIDE_BANNER = TextBoxTitleProfile(
 # Add 2021 / 2022 profiles here (bare-number codes, category printed on each slide, ...).
 PROFILES = [PROFILE_2023_2026, PROFILE_2025_09_TEXTBOX_TITLES, PROFILE_2024_09_WIDE_BANNER,
             PROFILE_2023_01_TEXTBOX_CAPTIONS, PROFILE_2023_07_DOUBLE_SIZE,
-            PROFILE_2023_11_TEXTBOX_TITLE_CAPTION, PROFILE_2022_01_LAYOUT_TYPE_CHIP]
+            PROFILE_2023_11_TEXTBOX_TITLE_CAPTION, PROFILE_2022_01_LAYOUT_TYPE_CHIP,
+            PROFILE_2022_02_LARGE]
 
 
 def detect_profile(prs, label, kind="recipe"):
