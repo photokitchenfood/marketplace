@@ -223,6 +223,8 @@ class TemplateProfile:
         valid, rejected = [], []
         for shape in self._autoshapes_in(slide, self.zone_code):
             text = re.sub(r"\s+", "", shape_text(shape))  # a chip can wrap ("EF-\nEAP")
+            if re.fullmatch(r"[A-Za-z]{2,6}-\d{1,3}", text):
+                text = text.replace("-", "")  # "USGR-1" / "DOTM-1" / "EAP FCD-1" -> "USGR1" etc.
             if not self.code_re.fullmatch(text):
                 # "CAF EAP" / "CAFEAP" -> "CAF-EAP" (hyphen dropped in some decks)
                 text = re.sub(r"^([A-Za-z]{1,6}?)-?(EAP\d{0,2}|SM\d{0,2})$", r"\1-\2", text)
