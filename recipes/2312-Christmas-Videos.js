@@ -40,5 +40,6 @@ const CHRISTMAS_VIDEOS_DATA = [
     "needsPhotoSwap": true
   }
 ];
+CHRISTMAS_VIDEOS_DATA.dropboxUrl = "https://www.dropbox.com/scl/fo/md2ht3jrzvt832gvlsj84/h?rlkey=kb5o9ynktg4ani1zdduhat2h4&st=ban3dkth&dl=0";
 
 if (typeof window !== 'undefined') window.__recipesData = CHRISTMAS_VIDEOS_DATA;

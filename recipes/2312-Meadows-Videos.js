@@ -35,5 +35,6 @@ const MEADOWS_VIDEOS_DATA = [
     "needsPhotoSwap": true
   }
 ];
+MEADOWS_VIDEOS_DATA.dropboxUrl = "https://www.dropbox.com/scl/fo/wtn6vzuhf63cfhgzkgmn8/h?rlkey=8o2bc7g9wcz6ij07rmemfm94d&st=l37kyzcv&dl=0";
 
 if (typeof window !== 'undefined') window.__recipesData = MEADOWS_VIDEOS_DATA;
