@@ -622,6 +622,32 @@ PROFILE_2022_10_TEXTBOX_TITLE_CAPTION = Layout2022TextBoxTitleCaptionProfile(
     zone_badge=PROFILE_2023_2026.zone_badge,
 )
 
+@dataclass(frozen=True)
+class Layout2021Profile(Layout2022Profile):
+    """2021 "Recipe Card & Captions" decks: one campaign per deck, a bare-number code chip
+    ("1", "2", ...), and two chips top-right of the caption: the layout type
+    (RECIPE / OUT OF PACK / NON-FOOD) and the platform (INSTAGRAM / FACEBOOK / IG & FB),
+    in either order. Recipe slides carry only the bare number."""
+    zone_chip: dict = field(default_factory=lambda: dict(left=(5.40, 7.20), top=(0.60, 0.90)))
+
+    def platform_of(self, slide):
+        for shape in find_shape_in_zone(slide, self._zs(self.zone_chip), {MSO_SHAPE_TYPE.AUTO_SHAPE}):
+            text = re.sub(r"\s+", " ", shape_text(shape).strip().upper())
+            if text in ("INSTAGRAM", "FACEBOOK", "IG & FB", "IG&FB"):
+                return text
+        return None
+
+
+PROFILE_2021_02_RECIPE_CARD = Layout2021Profile(
+    name="TMP 2021-02 (recipe card deck, bare-number codes)",
+    slide_size_in=PROFILE_2023_2026.slide_size_in,
+    code_re=re.compile(r"\d{1,3}"),
+    zone_code=PROFILE_2023_2026.zone_code,
+    zone_banner=PROFILE_2023_2026.zone_banner,
+    zone_photo=PROFILE_2023_2026.zone_photo,
+    zone_badge=dict(left=(90.0, 91.0), top=(90.0, 91.0)),     # no Pre-Prod badge; keep the check off the chips
+)
+
 # The Feb 2022 deck: the same template built at 26.67 x 15in (2.667x).
 PROFILE_2022_02_LARGE = Layout2022Profile(
     name="TMP 2022-02 (26.67in slide, layout-type chip)",
@@ -668,7 +694,7 @@ PROFILES = [PROFILE_2023_2026, PROFILE_2025_09_TEXTBOX_TITLES, PROFILE_2024_09_W
             PROFILE_2023_01_TEXTBOX_CAPTIONS, PROFILE_2023_07_DOUBLE_SIZE,
             PROFILE_2023_11_TEXTBOX_TITLE_CAPTION, PROFILE_2022_01_LAYOUT_TYPE_CHIP,
             PROFILE_2022_02_LARGE, PROFILE_2022_03_TEXTBOX_TITLES,
-            PROFILE_2022_10_TEXTBOX_TITLE_CAPTION]
+            PROFILE_2022_10_TEXTBOX_TITLE_CAPTION, PROFILE_2021_02_RECIPE_CARD]
 
 
 def detect_profile(prs, label, kind="recipe"):
@@ -1592,6 +1618,7 @@ def extract_items(prs, profile, ppm=None, warnings=None, with_photos=True):
             "_slideNo": i + 1,
             "_inlineRecipe": profile.has_recipe_content(slide),
             "_layoutType": profile.layout_type_of(slide) if hasattr(profile, "layout_type_of") else None,
+            "_platform": profile.platform_of(slide) if hasattr(profile, "platform_of") else None,
             "_pairMethod": rec["pair_method"],
             "_pairDisagree": rec["pair_disagree"],
             "_extraSlides": sum(1 for o in other_recs if o["code"] == layout_code),
