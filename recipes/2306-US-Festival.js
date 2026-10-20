@@ -113,7 +113,7 @@ const US_FESTIVAL_DATA = [
     "campaign": "US FEST",
     "caption": "Add a buttery bite to your yoghurt dip with this super easy recipe for Pistachio Yoghurt Dip made with Wonderful Pistachios in Pepper & Garlic flavor. Pistachios are known to be a great source of healthy fats and antioxidants that help lower cholesterol.\n\nMixed with tangy Greek yoghurt and a bunch of aromatics, serve this dip with your favorite crudites and toasted bread for a healthful and filling snack or appetizer.\n\nGrab all the ingredients that you need for this tasty dip at #TheMarketplace!\n\nServing Time: 10 minutes\nYield: 2-3 servings\nOptional: Enjoy with crudites and toasted bread. \n\nIngredients\n\n1 cup plain Greek yoghurt\n½ cup Wonderful Pistachios Pepper & Garlic, shelled \n2 tbsps. lemon juice \n2 tbsps. extra virgin olive oil\n5 cloves garlic, minced \n¼ cup parsley, chopped\n¼ cup cilantro, chopped\n¼ cup dill, chopped \nSalt and pepper to taste\n\nProcedure\n\n1. In a food processor or blender, pulse Wonderful Pistachios Pepper & Garlic until they are finely chopped. Set aside 1 tbsp. of pistachios for garnish. \n2. Add in lemon juice, olive oil, garlic, parsley, cilantro and dill. Pulse until smooth and well combined. \n3. Season with salt and pepper to taste. \n4. Transfer to a serving bowl, and garnish with crushed pistachios. \n5. Chill for at least 30 minutes before serving. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Wonderful Pistachios"
+      "Wonderful"
     ],
     "recipe": {
       "servingTime": "10 minutes",
@@ -156,7 +156,9 @@ const US_FESTIVAL_DATA = [
     "categoryConfidence": "high",
     "campaign": "US FEST ADDENDUM",
     "caption": "Here at #TheMarketplace, we’ve got a stunning line-up of international goods from the United States for you to explore and enjoy. Shop our aisles and fridges for brands such as Johnsonville Hotdogs, Tillamook Ice Cream, and more! With the fourth of July coming up, why not prepare an American feast? Shop now!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": null,
     "photo": {
       "filename": "USGR1.jpg",
@@ -173,7 +175,9 @@ const US_FESTIVAL_DATA = [
     "categoryConfidence": "high",
     "campaign": "US FEST ADDENDUM",
     "caption": "A household brand, Kirkland products are now available at #TheMarketplace for you to stock up your pantry with. Shop from our wide and curated selection of Kirkland-branded dry goods, drinks, and other essential ingredients today!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "Kirkland"
+    ],
     "recipe": null,
     "photo": {
       "filename": "USGR2.jpg",
@@ -191,9 +195,7 @@ const US_FESTIVAL_DATA = [
     "campaign": "US FEST ADDENDUM",
     "caption": "These all-natural Pistachio Kisses Cookies are made with no food coloring. Matcha powder lends a delightful earthiness and color to the cookies, while buttery pistachios add a nutty touch. The best part? A solid Hershey’s Classic Milk Chocolate Kiss right smack in the center of each cookie to coat your taste buds with that familiar chocolate taste. Try your hand at making a batch or two this weekend! Get all the ingredients that you need for this recipe at #TheMarketplace today.\n\nServing Time: 45 minutes\nYield: 36 pieces\n\nIngredients\n\n1 cup unsalted butter, softened\n1 cup powdered sugar\n1 tbsp. matcha powder\n1 tsp. vanilla extract\n2 cups all-purpose flour\n1/2 tsp. salt\n1 cup shelled pistachios, chopped\n36 Hershey's Kisses Classic Milk Chocolate, unwrapped\n\nProcedure\n\n1. Preheat oven to 175°C. Line baking sheets with parchment paper, and set aside.\n2. In a large mixing bowl, cream together softened butter, powdered sugar and matcha powder until light and fluffy. Add in the vanilla extract.\n3. In a separate bowl, whisk together all-purpose flour and salt. Gradually add the dry ingredients to the butter mixture, mixing until well combined. Mix in ½ cup of the pistachios into the dough. \n4. Shape the dough into small balls, about 1 inch in diameter. Roll each ball in the remaining pistachios, ensuring they are evenly coated. Place the coated dough balls onto the prepared baking sheets, spacing them about 2 inches apart.\n5. Bake for 10-12 minutes, or until the edges are lightly golden. Remove from the oven, and let them cool for a couple of minutes on the baking sheets.\n6. While the cookies are still warm, gently press a Hershey's Kiss into the center of each cookie. The cookies will crack slightly around the edges, which is normal.\n7. Allow the cookies to cool completely on wire racks until the Hershey's Kisses Classic Milk Chocolate have set.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Hershey’s Classic Milk Chocolate Kiss",
-      "36 Hershey's Kisses Classic Milk Chocolate",
-      "Hershey's Kisses Classic Milk Chocolate"
+      "Hershey's"
     ],
     "recipe": {
       "servingTime": "45 minutes",
@@ -217,7 +219,9 @@ const US_FESTIVAL_DATA = [
     "categoryConfidence": "high",
     "campaign": "US FEST ADDENDUM",
     "caption": "Got a hankering for some pie? Whether it’s for your own personal stash or to bring over to a friend’s or family gathering, checkout the array of The Baker’s Selections pies available at #TheMarketplace! Choosing one might not be as easy as pie, but we promise you, each bite is worth every calorie.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": null,
     "photo": {
       "filename": "USGR4.jpg",
@@ -235,9 +239,7 @@ const US_FESTIVAL_DATA = [
     "campaign": "US FEST ADDENDUM",
     "caption": "Turn the iconic pie into a luscious sundae in this Coffee Almond Banoffee Sundae made with Tillamook Coffee Almond Fudge Ice Cream! Rich and creamy coffee ice cream is streaked with ribbons of fudge and tasty almond bits, set atop bananas and crushed grahams, and then finished off with some homemade toffee sauce.\n\nFind Tillamook ice cream at #TheMarketplace and discover your favorite flavor. Trust us, it’ll be tough to choose just one!\n\nServing Time: 15 minutes\nYield: 2 servings\n\nIngredients\n\nFor the Toffee Sauce: \n½ cup unsalted butter\n1 cup brown sugar\n1/2 cup heavy cream\n1 teaspoon vanilla extract\n¼ tsp. salt\n\nFor assembly:\n4 scoops Tillamook Coffee Almond Fudge Ice Cream\n2 ripe bananas, sliced \n1 cup crushed graham crackers \n\nProcedure\n\n1. In a saucepan, melt the butter over medium heat. Add the brown sugar, and stir until dissolved.\n2. Pour in the heavy cream and vanilla extract. Stir continuously until the sauce thickens and coats the back of a spoon. Season with salt, then remove from heat and set aside to cool.\n3. In serving glasses, start layering the sundae. Begin with a layer of crushed graham crackers at the bottom. Add a scoop of Tillamook Coffee Almond Fudge Ice Cream on top. Place a few sliced bananas over the ice cream.\n4. Repeat the layers with another layer of crushed graham crackers, another scoop of ice cream, and more sliced bananas.\n5. Drizzle toffee sauce generously on top. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Tillamook Coffee Almond Fudge Ice Cream",
-      "Tillamook",
-      "4 scoops Tillamook Coffee Almond Fudge Ice Cream"
+      "Tillamook"
     ],
     "recipe": {
       "servingTime": "15 minutes",
@@ -262,9 +264,7 @@ const US_FESTIVAL_DATA = [
     "campaign": "US FEST ADDENDUM",
     "caption": "If you’re in the mood for a hearty, meaty sandwich, head over to #TheMarketplace, grab a slab of Greater Omaha US Angus Beef Ribeye, and get cooking.\n\nThis Ribeye Steak Sandwich has all the fixings such as arugula, onion, and a side of zingy horseradish. It’s a simple, no-frills meal if you’re craving a satisfying sandwich to fill you up good. Pair this with some red wine, if you wish, as you wind down for the day, too!\n\nServing Time: 20-30 minutes\nYield: 3 servings\n\nIngredients\n\n1 slab Greater Omaha US Angus Beef Ribeye\nSalt and pepper to taste\n⅓ cup olive oil\n2 sprigs rosemary\n3 cloves garlic\n2 tbsps. butter\n2 cups onion, sliced\n2 cups arugula\n6 slices sourdough bread, toasted\n½ cup horseradish\n\nProcedure\n\n1. Pat dry Greater Omaha US Angus Beef Ribeye, and season with salt and pepper.\n2. Set a cast iron pan over high heat. Add ¼ cup olive oil, and sear seasoned Omaha Ribeye until nicely colored on both sides. Lower the heat to medium, then add rosemary sprigs, garlic cloves and butter. Cook for another 4-6 minutes while basting. Remove from the pan, and let rest for 8 minutes before slicing.\n3. Sauté onions in remaining olive oil until caramelized, then season with salt and pepper. Set aside.\n4. Thinly-slice cooked Omaha Ribeye. To assemble, spread a layer of horseradish on the sourdough bread, then top with arugula, ribeye slices and caramelized onions. Top with another slice of bread.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Greater Omaha US Angus Beef Ribeye",
-      "1 slab Greater Omaha US Angus Beef Ribeye",
-      "Omaha Ribeye"
+      "Greater Omaha"
     ],
     "recipe": {
       "servingTime": "20-30 minutes",
