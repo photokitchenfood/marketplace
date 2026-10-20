@@ -1731,6 +1731,8 @@ def write_js_file(out_path, shoot_type_label, items, generated_date, dropbox_url
     blocks = []
     for item in items:
         payload = {k: v for k, v in item.items() if k != "shootType" and not k.startswith("_")}
+        # card tag = the file's label without "(Photos)"/"(Videos)", e.g. "February IG" (matches the sidebar)
+        payload["campaign"] = re.sub(r"\s*\((?:Photos|Videos)\)\s*$", "", shoot_type_label).strip()
         block = json.dumps(payload, indent=2, ensure_ascii=False)
         blocks.append("\n".join("  " + line for line in block.split("\n")))
     lines.append(",\n".join(blocks))
