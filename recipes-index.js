@@ -1867,6 +1867,123 @@ const RECIPES_INDEX = [
     "count": 7
   },
   {
+    "id": "2112-December-IG",
+    "label": "December IG",
+    "type": "photo",
+    "year": 2021,
+    "month": 12,
+    "file": "recipes/2112-December-IG.js",
+    "count": 39
+  },
+  {
+    "id": "2112-Christmas",
+    "label": "Christmas",
+    "type": "photo",
+    "year": 2021,
+    "month": 12,
+    "file": "recipes/2112-Christmas.js",
+    "count": 28
+  },
+  {
+    "id": "2111-November-IG",
+    "label": "November IG",
+    "type": "photo",
+    "year": 2021,
+    "month": 11,
+    "file": "recipes/2111-November-IG.js",
+    "count": 25
+  },
+  {
+    "id": "2110-World-of-Wine",
+    "label": "World of Wine",
+    "type": "photo",
+    "year": 2021,
+    "month": 10,
+    "file": "recipes/2110-World-of-Wine.js",
+    "count": 6
+  },
+  {
+    "id": "2110-TMP-Anniversary",
+    "label": "TMP Anniversary",
+    "type": "photo",
+    "year": 2021,
+    "month": 10,
+    "file": "recipes/2110-TMP-Anniversary.js",
+    "count": 16
+  },
+  {
+    "id": "2110-October-IG",
+    "label": "October IG",
+    "type": "photo",
+    "year": 2021,
+    "month": 10,
+    "file": "recipes/2110-October-IG.js",
+    "count": 22
+  },
+  {
+    "id": "2110-International-Coffee-Day",
+    "label": "International Coffee Day",
+    "type": "photo",
+    "year": 2021,
+    "month": 10,
+    "file": "recipes/2110-International-Coffee-Day.js",
+    "count": 10
+  },
+  {
+    "id": "2110-Halloween",
+    "label": "Halloween",
+    "type": "photo",
+    "year": 2021,
+    "month": 10,
+    "file": "recipes/2110-Halloween.js",
+    "count": 15
+  },
+  {
+    "id": "2110-Better-For-You",
+    "label": "Better For You",
+    "type": "photo",
+    "year": 2021,
+    "month": 10,
+    "file": "recipes/2110-Better-For-You.js",
+    "count": 1
+  },
+  {
+    "id": "2109-September-IG",
+    "label": "September IG",
+    "type": "photo",
+    "year": 2021,
+    "month": 9,
+    "file": "recipes/2109-September-IG.js",
+    "count": 22
+  },
+  {
+    "id": "2109-Grandparents-Day",
+    "label": "Grandparents Day",
+    "type": "photo",
+    "year": 2021,
+    "month": 9,
+    "file": "recipes/2109-Grandparents-Day.js",
+    "count": 2
+  },
+  {
+    "id": "2109-European-Festival",
+    "label": "European Festival",
+    "type": "photo",
+    "year": 2021,
+    "month": 9,
+    "file": "recipes/2109-European-Festival.js",
+    "count": 5
+  },
+  {
+    "id": "2109-Eat-Right-Live-Healthy",
+    "label": "Eat Right Live Healthy",
+    "type": "photo",
+    "year": 2021,
+    "month": 9,
+    "file": "recipes/2109-Eat-Right-Live-Healthy.js",
+    "count": 3
+  },
+  {
     "id": "2108-Wagyu-Festival",
     "label": "Wagyu Festival",
     "type": "photo",
