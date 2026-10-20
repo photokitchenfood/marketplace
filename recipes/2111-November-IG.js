@@ -13,7 +13,7 @@ const NOVEMBER_IG_DATA = [
     "campaign": "November IG",
     "caption": "Coconut milk is a key ingredient in a lot of Thai dishes, and we’re using it in this recipe for a delicious Coconut Milk Braised Chicken that the family will surely enjoy.\n\nMade with Bounty Fresh’s Family Feast Whole Chicken, experience a play of vibrant aromatics on the palate balanced out with fragrant coconut milk. Make sure to cook extra rice because your family will definitely come back for seconds! Get the freshest poultry and other Bounty Fresh chicken products at #TheMarketplace!\n\nServing Time: 45 minutes\nYield: 3-5 servings\n\nIngredients\n\n3 tbsps. vegetable oil\n1 pack Bounty Fresh Family Feast Whole Chicken\n5 cloves garlic, chopped \n1 red onion, chopped \n2 red chilies\n3 tbsps. tanglad stalks, chopped \n3 tbsps. red curry paste \n2 cups coconut milk\n1 cup chicken stock \n1 tbsp. fish sauce\n½ tsp. pepper\n4 pcs. bokchoy, halved \n1 red bell pepper, sliced\n1 tbsp. lime juice\n\nProcedure\n\n1. In a large pot over medium heat, add oil. Sear Bounty Fresh Family Feast Whole Chicken until nicely browned. Set aside chicken while retaining oil in the pan. \n2. Sauté garlic, onion, chili and tanglad stalks until softened. Mix in red curry paste and cook until lightly browned. \n3. Mix in coconut milk, chicken stock fish sauce and pepper. Add back seared chicken, then let simmer covered for 20 minutes. \n4. Add in bok choy and bell peppers. Let simmer covered for another 8 minutes or until veggies are cooked through. \n5. Turn off heat, then mix in lime juice. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Bounty"
+      "Bounty Fresh"
     ],
     "recipe": {
       "servingTime": "45 minutes",
@@ -182,7 +182,7 @@ const NOVEMBER_IG_DATA = [
     "campaign": "November IG",
     "caption": "A dainty and delicate dessert that’s versatile and light, this recipe for Chocolate-filled Crepes makes use of Caotina Swiss Chocolate Spread and a fruity combination of bananas and strawberries to add some sweetness and tang. Find Caotina chocolate spreads, along with other delicious jams and fillings, at #TheMarketplace! \n\nServing Time: 15 minutes\nYield: 2 servings\n\nIngredients\n\n½ cup all-purpose flour \n1 egg \n¼ cup milk\n¼ cup water \n⅛ tsp. salt \n1 tbsp. butter, melted plus more for frying\n½ cup Caotina Swiss Chocolate Spread \n1 banana, sliced \n6 strawberries, sliced\n\nProcedure\n\n1. Whisk together flour, egg, milk, water, salt and butter.\n2. Grease a non-stick frying with some butter. Heat up over medium heat, then add ¼ cup of the crepe batter and immediately swirl. Once it starts to bubble, flip and let cook for another 45 seconds. Repeat for remaining batter. \n3. Spread ¼ cup of Caotina Swiss Chocolate Spread on each crepe, then top with ½ of the bananas and ½ of the strawberries. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Caotina Swiss"
+      "Caotina"
     ],
     "recipe": {
       "servingTime": "15 minutes",
@@ -207,7 +207,7 @@ const NOVEMBER_IG_DATA = [
     "campaign": "November IG",
     "caption": "Here’s a snack that you won’t be able to resist!\n\nThis Cheesy Spinach Dip comes with Crisp Whole Wheat Finger Sticks to make dipping more delicious! Using Gold Series Whole Wheat Loaf, tuck into this hot dip that’s oozing with cheesy goodness and some spinach for texture and color. Get all the ingredients you need for this recipe fresh from #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 3-4 servings\n\nIngredients\n\n4 slices Gold Series Whole Wheat Loaf \n2 tbsps. butter, softened \n¼ cup cream cheese \n227g frozen spinach, chopped\n½ cup cooking cream \n¼ cup cheddar cheese, grated \n¼ cup mozzarella cheese, grated plus more for topping\nSalt and pepper to taste \n\nProcedure\n\n1. Spread butter on each side of the bread slices. Slice each into 4 sticks. Toast until crisp. \n2. In a non-stick pan over medium heat, melt cream cheese. Mix in spinach, cream, cheddar cheese and mozzarella cheese. Cook over low fire until cheeses are fully melted. \n3. Transfer to an ovenproof dish, then sprinkle with additional mozzarella cheese. Broil until cheese is melted and lightly browned. \n4. Serve dip with crisp Gold Series Whole Wheat Loaf fingers. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Gold Series"
+      "! Generic"
     ],
     "recipe": {
       "servingTime": "15 minutes",
@@ -251,7 +251,7 @@ const NOVEMBER_IG_DATA = [
     "campaign": "November IG",
     "caption": "These tiny Keto Pancake Cereals made with a blend of almond and coconut flours and sweetened by Naturals Monk Fruit Sweetener are the perfect breakfast to have if you’re craving pancakes but want to keep it light. Have them with milk, with butter and maple syrup, or treat them as blinis and top with your favorite preserved fruits and jams. #TheMarketplace is always stocked with healthier alternatives to suit your dietary needs, so shop now!\n\nServing Time: 20 minutes\nYield: 1-2 servings\n\nIngredients\n\n½ cup almond flour \n½ cup coconut flour\n2 tsps. baking powder \n1 tbsp. Naturals Monk Fruit Sweetener \n3 eggs\n⅓ cup milk, unsweetened\n3 tbsps. butter\n\nProcedure\n\n1. In a bowl, whisk together almond flour, coconut flour, baking powder and Naturals Monk Fruit Sweetener. In a separate bowl, whisk together eggs and milk. \n2. Mix dry ingredients and wet ingredients until just combined. \n3. Set a non-stick pan over medium heat. Melt some butter just enough to lightly grease the pan, then place 1 tbsp. dollops of the pancake batter around the pan. \n4. Once you see bubbles, flip, and cook for another 15 seconds. Repeat for remaining batter. \n5. Optional: Serve with butter cubes and maple syrup. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Naturals Monk"
+      "Naturals"
     ],
     "recipe": {
       "servingTime": "20 minutes",
@@ -276,7 +276,7 @@ const NOVEMBER_IG_DATA = [
     "campaign": "November IG",
     "caption": "Now available in convenient tetra packs, PediaSure Plus is your partner in ensuring that your child’s nutritional needs are addressed. With triple protein complex, growth nutrients, and immunity support, PediaSure Plus is here to help your child reach his or her fullest potential. Find this and other nutritional supplements at #TheMarketplace!\n\nDid you know? You can now get your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Pediasure"
+      "PediaSure"
     ],
     "recipe": null,
     "photo": {
@@ -338,7 +338,9 @@ const NOVEMBER_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "November IG",
     "caption": "This meat-free recipe for Crunchy Sisig Tacos tastes just like the real thing, you won’t even look for the pork. Made with The Good Meat’s meat-free sisig, simply heat on a pan and stuff into crispy taco shells. Don’t forget to add tomatoes, lettuce, and cheddar cheese for a true taco experience. Find The Good Meat products, along with other meat alternatives, at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 4 servings\n\nIngredients\n\n2 packs The Good Meat Sisig\n8 taco shells\n3 cups lettuce, shredded\n1 ½ cup tomatoes, diced\n1 cup cheddar cheese, grated\n\nProcedure\n\n1. Set a pan over medium heat, then add The Good Meat Sisig. Cook until liquid is reduced and sisig is nicely browned.\n2. To assemble, fill taco shells with shredded lettuce, then add cooked sisig. Top with tomatoes and cheddar cheese.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": {
       "servingTime": "15 minutes",
       "yield": "4 servings",
@@ -469,7 +471,7 @@ const NOVEMBER_IG_DATA = [
     "campaign": "November IG",
     "caption": "Craving a dessert that’s tangy and sweet? These Cranberry Swirl Cheesecake Bars will surely meet your expectations. With the addition of instant oats for texture and fiber, this easy-to-bake recipe blends the delicious tanginess of cream cheese with sweet cranberries from Ocean Spray’s Jellied Cranberry Sauce. Have it for dessert, or as a snack to go with your afternoon cup of coffee or tea. Find Ocean Spray products, along with other fruit-based items, at #TheMarketplace!\n\nServing Time: 5 hours\nYield: 4-6 servings\n\nIngredients\n\n2 cups instant oats \n½ cup brown sugar \n½ tsp. salt \n½ cup butter, melted\n2 tbsps. milk \n1 bar cream cheese, softened \n1 tbsp. vanilla \n1 cup powdered sugar \n½ cup whipping cream\n2 tsps. gelatin, bloomed in 3 tbsps. Water\n1 can Ocean Spray Jellied Cranberry Sauce \n\nProcedure\n\n1. Preheat oven to 175°C. \n2. In a bowl, combine oats, brown sugar, salt, milk and butter. Press into an 11x8-inch pan. Bake for 10-12 minutes. Let cool. \n3. Beat together cream cheese, vanilla and powdered sugar until smooth. Whisk in whipping cream and bloomed gelatin. \n4. In a saucepan, heat up Ocean Spray Jellied Cranberry Sauce until melted. Let slightly cool. \n5. Add cream cheese mixture on top of the oat crust. Place dollops of cranberry sauce all over, then swirl. \n6. Chill in the refrigerator to set for at least 4 hours. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Ocean"
+      "Ocean Spray"
     ],
     "recipe": {
       "servingTime": "5 hours",
@@ -493,7 +495,9 @@ const NOVEMBER_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "November IG",
     "caption": "Enjoy your lasagna in this fun, rolled-up form with these Spinach Lasagna Roll-ups. Made with all the good stuff such as spinach, cream cheese, and mozzarella, we used Ragú’s Chunky Sauce in Parmesan & Romano for ease and to add an extra cheesy kick. Find your favorite pasta products and discover more instant pasta sauces and brands at #TheMarketplace!\n\nServing Time: 45 minutes\nYield: 4-5 servings\n\nIngredients\n\n500g lasagna noodles\nSalt and pepper to taste\n24 oz. cream cheese\n½ cup milk\n2 cups frozen spinach, squeezed dry & chopped\n2 tbsps. garlic powder\n680g Ragú Chunky Sauce\n1 ½ cup mozzarella cheese, grated\n⅛ cup flat leaf parsley leaves\n\nProcedure\n\n1. Preheat oven to 350°F.\n2. Cook lasagna noodles in heavily salted water according to package instructions. Drain, then set aside.\n3. In a large bowl, mix together cream cheese, milk, spinach and garlic powder. Season with salt and pepper. \n4. Spread about 3 tablespoons of cream cheese mixture over a piece of lasagna, then roll to secure filling.\n5. Fill the bottom of a baking dish with ⅓ cup of Ragu Chunky Sauce then add lasagna roll-ups.\n6.  Cover the lasagna with the rest of Ragu Sauce and top with mozzarella cheese.\n7. Bake for 15-20 minutes, or until mozzarella is melted and golden.\n8. Garnish with flat leaf parsley.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": {
       "servingTime": "45 minutes",
       "yield": "4-5 servings",

@@ -12,7 +12,9 @@ const WORLD_OF_WINE_DATA = [
     "categoryConfidence": "high",
     "campaign": "World of Wine",
     "caption": "The temperature’s been getting cooler these days, and what better way to warm up the body than with some gamey meat and a well-bodied glass of cabernet?\n\nIf you love lamb, prepare these Sage-Garlic Lamb Chops at home for a special night, or if you just want to splurge on a home-cooked meal. The earthy sage and the spicy garlic elevate the gamey, meaty flavors of the lamb. Pair it with a glass of Montes Alpha Special Cuveé Cabernet Sauvignon if preferred! The oaky, peppery notes of the wine work wonders with the meat. Get all the items you need fresh from #TheMarketplace!\n\nServing Time: 40-45 minutes\nYield: 2-3 servings\nOptional: Serve with Montes Alpha Special Cuveé Cabernet Sauvignon.\n\nIngredients\n\n2 potatoes, cut into chunks\n2 cups brussels sprouts, halved\n4 tbsps. olive oil\n2 tbsps. garlic, minced \nSalt and pepper to taste\n1kg lamb chops, frenched\n4 cloves garlic\n4 sprigs sage\n1 tbsp. butter\n\nProcedure\n\n1. Place potatoes and brussels sprouts on a baking tray. Drizzle with 2 tbsps. olive oil and mix in garlic. Season with salt and pepper.\n2. Cook in a 175°C preheated oven for 20-25 minutes.\n3. Pat dry lamb chops, then season with salt and pepper on both sides.\n4. Set a pan over medium heat. Add remaining 2 tbsps. olive oil and sear lamb chops on both sides.\n5. Add garlic cloves, sage and butter. Baste for 3-5 minutes or until desired doneness.\n6. Plate lamb chops with roasted vegetables and garnish with sage.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
-    "brand": [],
+    "brand": [
+      "Montes Alpha"
+    ],
     "recipe": {
       "servingTime": "40-45 minutes",
       "yield": "2-3 servings",
@@ -35,7 +37,9 @@ const WORLD_OF_WINE_DATA = [
     "categoryConfidence": "high",
     "campaign": "World of Wine",
     "caption": "There’s nothing like coming home to a hearty meal, and this Creamy Shrimp Risotto is definitely flavorful and foolproof. To add a touch of sophistication, serve with a glass of Cielo e Terra Pinot Grigio Blush Castelli. This pink wine is bursting with berry and citrus notes that add a nice afterthought to each bite of the creamy risotto. Find all the ingredients you need, including the wine, at #TheMarketplace!\n\nServing Time: 45 minutes\nYield: 2 servings\nOptional: Serve with Cielo e Terra Pinot Grigio Blush Castelli\n\nIngredients\n\n3 tbsps. olive oil \n8 shrimps, peeled and deveined \n3 tbsps. butter\n1 white onion, diced \n3 cloves garlic, minced \n1 tbsp. tomato paste\n1 tsp. Spanish paprika  \n¼ cup dry white wine or rosé\n1 cup arborio rice \n2½ cups chicken stock \n¼ cup green peas \n½ cup heavy cream\nSalt and pepper to taste\n\nProcedure\n\n1. In a large pan, heat up olive oil over medium-high heat. Sear shrimp on both sides. Set aside shrimp while retaining oil in the pan. \n2. Add 1 tbsp. butter then sweat onions and garlic. Once softened, mix in tomato paste and paprika. Cook until lightly browned. \n3. Deglaze with wine, then let most of the liquid evaporate. \n4. Mix in arborio rice. Add chicken stock in increments of ¼ cup while stirring continuously. \n5. When rice is almost cooked, add in green peas and heavy cream. Season with salt and pepper. \n6. Mix in remaining 2 tbsps. butter. \n7. Top each serving of risotto with seared shrimp. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
-    "brand": [],
+    "brand": [
+      "Cielo e Terra"
+    ],
     "recipe": {
       "servingTime": "45 minutes",
       "yield": "2 servings",
@@ -58,7 +62,9 @@ const WORLD_OF_WINE_DATA = [
     "categoryConfidence": "high",
     "campaign": "World of Wine",
     "caption": "This recipe for Braised Short Ribs truly defines comfort. Tuck into succulent, fall-off-the-bone ribs doused in a thick sauce made with tomatoes and a touch of red wine. A perfect dish to prepare as the holidays roll in, make this meal even more memorable with a tasty glass of Bordeaux that’s bursting with deep notes of plum and spice. Find the wine you love and the ingredients for this delicious dish only at #TheMarketplace!\n\nServing Time: 4 hours\nYield: 4-5 servings\nOptional: Serve with Château Demazel Bordeaux Rouge.\n\nIngredients\n\n2 kgs. beef short ribs\nSalt and pepper to taste\n3 tbsps. vegetable oil\n1 celery rib, cut into chunks\n1 carrot, cut into chunks\n1 white onion, quartered\n6 garlic cloves, smashed \n2 tbsps. tomato paste\n3 tbsps. flour \n2 cups dry red wine \n\nProcedure\n1. Preheat oven to 175°C. Pat dry beef short ribs, then season all sides with salt and pepper. \n2. In a large dutch oven or an oven-safe pot, heat up oil over medium high-heat. Sear beef short ribs in batches until all sides are nicely browned. Set aside beef while retaining oil in the pan. \n3. Add in celery, carrots, white onions and garlic. Cook until softened, about 3 minutes. Mix in tomato paste and flour. Cook until darkened. \n4. Add wine, stock, bay leaves, thyme and seared beef short ribs. Cover, then roast for about 3 hours or until beef is fork-tender. \n5. Remove beef short ribs from the braising liquid, and set aside in a bowl or tray covered with foil. Strain the liquid, then let simmer until thickened. Season with salt and pepper to taste. Add back the beef short ribs and glaze with reduced liquid. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
-    "brand": [],
+    "brand": [
+      "Château Demazel"
+    ],
     "recipe": {
       "servingTime": "4 hours",
       "yield": "4-5 servings",
@@ -81,7 +87,9 @@ const WORLD_OF_WINE_DATA = [
     "categoryConfidence": "high",
     "campaign": "World of Wine",
     "caption": "Have you ever tried pairing wine with Asian food? Grab a bottle of Cavalieri Reali Puglia Primitivo at #TheMarketplace, and enjoy its oaky, coffee-like notes paired with Asian-Style Sticky Pork Belly and rice. The aromatics from this dish play off nicely with the wine, adding depth and a touch of sass to your weekday dinner.\n\nServing Time: 1 hour\nYield: 2-3 servings\nOptional: Serve alongside Cavalieri Reali Puglia Primitivo.\n\nIngredients\n\n1kg. pork belly slab\n1 cinnamon stick\n2 bay leaves\n3 cloves garlic\n½ tbsp. peppercorns\n2 tbsps. oil\n1 tbsp. rice wine\n2 tbsps. soy sauce\n2 tbsps. oyster sauce\n2 tbsps. sugar\n2 tbsps. honey\n1 tbsp. ginger, grated\n1 tbsp. garlic, grated\n2 tbsps. red chili, sliced\n3 tbsp. leeks, sliced into strips \n\nProcedure\n1. Boil pork belly with cinnamon stick, bay leaves, garlic, peppercorns and water enough to cover the pork over medium heat for 30 minutes.\n2. Drain pork belly, and pat dry excess moisture. Slice into 1-inch thick cubes.\n3. Set a pan over medium heat,  then add oil. Sear pork belly until nicely browned on all sides. Set aside.\n4. Using the same pan, remove excess oil, then add in rice wine, soy sauce, oyster sauce, sugar, honey, ginger and garlic. \n5. Let simmer until slightly thickened. Add pork belly and coat with the glaze.\n6. Garnish with red chili and leeks. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
-    "brand": [],
+    "brand": [
+      "Cavalieri Reali"
+    ],
     "recipe": {
       "servingTime": "1 hour",
       "yield": "2-3 servings",
@@ -129,7 +137,9 @@ const WORLD_OF_WINE_DATA = [
     "categoryConfidence": "high",
     "campaign": "World of Wine",
     "caption": "The classic pairing of white wine and seafood never fails to impress. With weather that beckons for a luscious Seafood Stew that hugs the belly like a warm embrace, complete your meal with a bottle of Adega Ponte da Boga Albarino white wine. Exuding flavors of honey and stone fruit, each sip is tapered off with a citrus finish. It’s absolutely the perfect wine for a hearty stew such as this one. Grab a bottle of white wine, along with all the ingredients you need for this indulgent Seafood Stew, only at #TheMarketplace!\n\nServing Time: 15-20 minutes\nYield: 3 servings\nOptional: Serve alongside Adega Ponte da Boga Albarino. \n\nIngredients\n\n2 tbsps. olive oil \n1 white onion, diced \n3 cloves of garlic, minced \n1 red bell pepper, diced \n1 tsp. paprika \n1 tsp. dried oregano\nPinch of saffron \n1½ cups diced tomatoes \n1 cup fish stock \n4 sprigs thyme \n2 bay leaves \nSalt and pepper to taste\n100g clams \n100g mussels \n1 squid, sliced into rings\n200g shrimp, peeled and deveined \n100g fish fillet, sliced into chunks\n\nProcedure\n\n1. Heat up olive oil in a pot over medium heat. Add in onion, garlic and bell peppers. Cook until softened, about 3 minutes. \n2. Mix in paprika, oregano and saffron. Make sure aromatics are well coated with the spices. \n3. Add diced tomatoes, fish stock, thyme and bay leaves. Let boil, then bring down to a simmer. Cover and let simmer for 8 minutes. Season with salt and pepper to taste. \n4. Add in clams and mussels, then cover. Let cook for 2 minutes. Once the shells have opened, add in squid, shrimp and fish. Let cook for another 2 minutes. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
-    "brand": [],
+    "brand": [
+      "Adega"
+    ],
     "recipe": {
       "servingTime": "15-20 minutes",
       "yield": "3 servings",

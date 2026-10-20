@@ -251,7 +251,7 @@ const SNACK_FESTIVAL_DATA = [
     "campaign": "Snack Festival",
     "caption": "Inspired by the iconic German dessert, these Black Forest Loacker Parfaits contain the heavenly pairing between chocolate and cherries, with an unexpected yet delicious surprise. \n\nWe layered each section with Loacker Quadratini Napolitaner wafers for extra crunch and a nice, dark chocolate hazelnut flavor that marries this dessert together. We don’t expect you to finish the whole bag of Loacker, so you’ll definitely still have some leftover for snacking or to top on your ice creams and other treats. Add these items to your list when you next shop at #TheMarketplace!  \n\nServing Time: 7 minutes\nYield: 2 servings\n\nIngredients\n\n1 cup chocolate syrup\n1 cup cherry syrup \n2 cups Loacker Quadratini\n1 cup fresh cherries \n1 cup whipped cream\n\nProcedure\n\n1. Combine chocolate and cherry syrup. Divide into two serving glasses. \n2. Top each glass with Loacker Quadratini, fresh cherries, then whipped cream.\n\nPrefer to order your groceries online and have them delivered to you instead? Visit #TheMarketplace online at http://bit.ly/OrderTheMarketplace! Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Loacker Quadratini"
+      "Loacker"
     ],
     "recipe": {
       "servingTime": "7 minutes",
@@ -358,8 +358,8 @@ const SNACK_FESTIVAL_DATA = [
     "campaign": "Snack Festival",
     "caption": "If you enjoy munching on crunchy seaweed, try having it as a more filling meal by turning it into a salad!\n\nUsing Korean No Brand Tuna Steak and Laverland Crunch Seaweed Strips with Almonds, this Crunchy Seaweed Salad with Tuna is packed with the goodness of fresh vegetables, meaty tuna, and crunchy seaweed, all tossed with your favorite roasted sesame dressing.\n\nGrab all these ingredients and other Korean grocery items at #TheMarketplace!\n\nServing Time: 6 minutes\nYield: 2 servings\n\nIngredients\n\n1 cup green cabbage, shredded\n1 cup purple cabbage, shredded\n½ cup carrots, fine julienned\n1 can No Brand Tuna Steak\n½ cup Laverland Crunch Seaweed Strips Almond\n⅛ cup spring onions, chopped\n¼ cup roasted sesame dressing \n\nProcedure\n\n1. Combine green and purple cabbage in an ice bath for 3 minutes, then drain.\n2. In a large bowl, mix drained cabbage and carrots. Toss in No Brand Tuna Steak.\n3. Top with Laverland Crunch Seaweed Strips Almond and garnish with spring onions.\n4. Serve alongside roasted sesame dressing.\n\nDid you know? You can now get your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "No Brand",
-      "Laverland Crunch"
+      "! Generic",
+      "Laverland"
     ],
     "recipe": {
       "servingTime": "6 minutes",

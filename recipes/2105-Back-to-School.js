@@ -37,7 +37,9 @@ const BACK_TO_SCHOOL_DATA = [
     "categoryConfidence": "high",
     "campaign": "Back to School",
     "caption": "Dining out can be a challenge nowadays, so if you’re craving some Chinese-style steamed fish, this Soy-Ginger Steamed Pampano is similar to the ones served at Chinese restaurants!\n\nHealthy and delicious, prepare this for your family dinners any day of the week! Don’t forget the extra rice because that tasty sauce is really worth finishing down to the last drop. Get all your ingredients fresh at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 2-3 servings\n\nIngredients\n\n1 Pampano\nSalt & pepper to taste \n3 tbsps. ginger, julienned \n3 tbsps. leeks, julienned \n1 tbsp. sesame oil \n¼ cup soy sauce\n1 tbsp. rice wine\n1 tsp. sesame seeds, toasted  \n\nProcedure\n\n1. Season Pampano with salt and pepper. Transfer to a foil-lined steamer basket.\n2. Top with ginger and leeks. Cover with foil and steam for 10-12 minutes.\n3. Combine sesame oil, soy sauce and rice wine. Drizzle all over cooked fish.\n4. Garnish with sesame seeds. \nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": {
       "servingTime": "15 minutes",
       "yield": "2-3 servings",
@@ -85,7 +87,9 @@ const BACK_TO_SCHOOL_DATA = [
     "categoryConfidence": "high",
     "campaign": "Back to School",
     "caption": "This quick and easy Asian Soy-Glazed Salmon makes for a satisfying lunch or dinner that’s bursting with comforting flavors.\nThe combination of sweet and savory with fragrant ginger and sesame oil makes this dish a hit for any person of any age. Have it this week and get all the ingredients you need fresh at #TheMarketplace!\n\nServing Time: 18 minutes\nYield: 3 servings\n\nIngredients\n\n3pcs. salmon steak-cuts\nSalt & pepper to taste \n2 tbsps. soy sauce \n1 tbsp. oyster sauce\n1 tbsp. honey \n1 tsp. sesame oil \n1 tsp. ginger, grated \n\nProcedure\n\n1. Preheat oven to 175°C. Combine soy sauce, oyster sauce, honey, sesame oil and ginger. Set aside.\n2. Pat-dry salmon steak-cuts and season with salt and pepper on both sides.\n3. Brush Asian soy glaze all over salmon steak-cuts.\n4. Bake salmon for 12-15 minutes.\n5. Optional: serve with roasted veggies. \nNow you can simply head online and order your groceries at http://bit.ly/OrderTheMarketplace. We’re also on Viber! Join our community via https://bit.ly/TheMarketplaceCommunity.",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": {
       "servingTime": "18 minutes",
       "yield": "3 servings",
@@ -310,7 +314,9 @@ const BACK_TO_SCHOOL_DATA = [
     "categoryConfidence": "high",
     "campaign": "Back to School",
     "caption": "Save the Philippine Seas while you shop at #TheMarketplace!\n\nOur country relies heavily on the sea for its livelihood, and here at #TheMarketplace, it is part of our social mission to help conserve the Philippine seas.\n\nStarting this summer, let’s all do our part in taking greener steps together. Proceeds for our sea-themed eco-friendly bags will go to @savephseas. Grab one now before you go shopping at #TheMarketplace because the Philippines is worth diving for. \n\nPrefer to order your groceries online and have them delivered to you instead? Visit #TheMarketplace online at http://bit.ly/OrderTheMarketplace! Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": null,
     "photo": {
       "filename": "BS14.jpg",

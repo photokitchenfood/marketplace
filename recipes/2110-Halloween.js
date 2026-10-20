@@ -37,7 +37,9 @@ const HALLOWEEN_DATA = [
     "categoryConfidence": "high",
     "campaign": "Halloween",
     "caption": "The warm and cozy flavors of fall come together in this easy recipe for Cinnamon Baked Pears. Stuffed with granola and dusted with the comforting blend of brown sugar and cinnamon, the key to this recipe is a bit of patience and lots of love. We used fresh Ya Pears for this recipe, and you can find them at #TheMarketplace, along with the other ingredients needed!\n\nServing Time: 40-45 minutes\nYield: 3-4 servings\n\nIngredients\n\n3 Ya Pears, halved\n2 tbsps. lemon juice\n½ cup brown sugar\n1 tsp. cinnamon powder\n1 cup granola\n3 tbsps. honey\n¼ tsp. flaky salt\n\nProcedure\n\n1. Preheat oven to 350°F.\n2. Using a melon baller, remove the seeds of Ya Pears. Brush with lemon juice to avoid browning.\n3. Mix together sugar and cinnamon powder, then sprinkle all over the pears.\n4. Transfer pears into a baking sheet and cover with foil. Bake for about 15 minutes.\n5. Remove the foil, then sprinkle pears with cinnamon sugar again. Bake for another 12 minutes uncovered.\n6. Mix granola and honey until well incorporated, then add flaky salt.\n7. Top pears with granola and serve with honey on the side.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": {
       "servingTime": "40-45 minutes",
       "yield": "3-4 servings",
@@ -111,7 +113,7 @@ const HALLOWEEN_DATA = [
     "campaign": "Halloween",
     "caption": "The taste of cinnamon-sugar marks the coming of colder months, and the signature flavor of a Hershey’s Kiss adds a sweeter touch to snickerdoodles. Bake a batch of these Snickerdoodle Kiss Cookies for Halloween to give away or to keep in your cookie jar! Find all the ingredients you need at #TheMarketplace! \n\nServing Time: 1 hour\nYield: 40 cookies\n\nIngredients\n\n(For the Cookies)\n1 cup unsalted butter, softened \n1 cup white sugar \n1 cup brown sugar \n2 eggs \n2 tsps. vanilla \n3 cups all-purpose flour\n1 tsp. salt \n2 tsps. cinnamon \n1 tsp. baking powder\n1 tsp. baking soda\n(For the Cookie Topping)\n⅓ cup brown sugar\n2 tsps. Cinnamon \n40 Hershey’s Kisses, unwrapped  \n\nProcedure\n1. Preheat oven to 175°C. Line a baking pan with parchment paper. \n2. Cream together butter, white sugar and brown sugar until smooth. Mix in eggs and vanilla until it becomes fluffy and pale yellow. \n3. In a separate bowl, whisk together flour, salt, cinnamon, baking powder and baking soda. \n4. Combine egg mixture and flour mixture. Chill dough for 30 minutes.\n5. Meanwhile, combine brown sugar and cinnamon for topping. \n6. Shape dough into 1-inch balls. Coat with cinnamon sugar then arrange on the lined baking pan 2-inches apart. \n7. Bake for 12 minutes, then immediately top each cookie with 1 Hershey’s Kiss fresh out of the oven. Let cool completely.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Hershey’s"
+      "Hershey's"
     ],
     "recipe": {
       "servingTime": "1 hour",
@@ -293,7 +295,9 @@ const HALLOWEEN_DATA = [
     "categoryConfidence": "high",
     "campaign": "Halloween",
     "caption": "Halloween is here, and what better way to liven up your home and your surroundings than with some Halloween pumpkins to add that signature streak of orange that’s fitting for the season. Find them at #TheMarketplace, along with other Halloween décor! You can always turn them into pumpkin soup after.\n\nDid you know? You can now get your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": null,
     "photo": {
       "filename": "HA13.jpg",

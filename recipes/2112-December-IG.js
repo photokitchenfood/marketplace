@@ -32,7 +32,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "December IG",
     "caption": "A fiber-rich alternative to rice, adlai, an heirloom grain, has a texture similar to barley, making it a great ingredient to use for a Mushroom Risotto.\n\nWe cooked some Hineleban Adlai with stock and added aromatics, as well as a variety of mushrooms for this recipe. Parmesan cheese adds a nutty flavor and a creamy pull. Want it a little more luxe? Add a drizzle of truffle oil before serving. Find all the ingredients you need at #TheMarketplace and don’t forget to check out the delivery options as well!\n\nServing Time: 35 minutes\nYield: 2 servings\n\nIngredients\n\n3 tbsps. olive oil \n1 cup shiitake mushrooms, sliced \n1 cup shimeji mushrooms \n3 tbsps. unsalted butter\n1 white onion, chopped \n4 garlic cloves, minced \n3 thyme sprigs \n1 cup Hineleban Adlai, washed \n1 ½ cup stock (chicken or vegetable)\n1 cup cream\n¼ cup parmesan cheese\nSalt and pepper to taste\n\nProcedure\n\n1. In a large pan over medium-high heat, add in olive oil. Sear shiitake mushrooms in batches until nicely browned on both sides. Do the same for the shimeji mushrooms. Set aside mushrooms.\n2. Using the same pan, melt butter. Add in onions, garlic and thyme. Sweat over medium-low heat. Once aromatics are soft and translucent, mix in Hineleban Adlai. \n3. Keep your flame low, then add stock ½ cup at a time while mixing continuously to prevent the bottom from scorching. \n4. When the stock is finished, mix in cream, parmesan cheese and cooked mushrooms. Let simmer until adlai is fully cooked, then season with salt and pepper. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Hineleban Adlai"
+      "Hineleban"
     ],
     "recipe": {
       "servingTime": "35 minutes",
@@ -256,7 +256,9 @@ const DECEMBER_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "December IG",
     "caption": "Maja Blanca is a delicious local dessert bursting with coconut and corn. Usually served during the holidays and a common sight during fiestas and get-togethers as well, here’s a simple recipe using Cream Pure Cornstarch that you can make and take with you to your next gathering! Find all the ingredients you need from #TheMarketplace.\n\nServing Time: 3-4 hours\nYield: 8 servings\n\nIngredients\n\n2 cans coconut milk \n½ cup sugar\n1 can corn kernels\n½ cup Cream Pure Cornstarch\n¼ cup desiccated coconut\n\nProcedure\n\n1. Set pot over medium heat. Add coconut milk and sugar then let boil.\n2. Drain corn kernels and save ¼ cup of water from the corn and add Cream Pure Cornstarch. Mix until fully dissolved.\n3. Slowly add cornstarch mixture into the coconut milk while continuously stirring until it thickens.\n4. Add corn kernels and mix. Transfer to a lined tray and spread evenly. Refrigerate for at least 2-3 hours.\n5. In a non-stick pan, toast desiccated coconut until golden brown.\n6. Cut fully set Maja Blanca and top with toasted coconut before serving.\n\nDid you know? You can now get your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": {
       "servingTime": "3-4 hours",
       "yield": "8 servings",
@@ -355,7 +357,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "December IG",
     "caption": "Ever heard of a Meat-Free Meatball Sandwich? \n\nBeyond Meatballs are now available at #TheMarketplace, and this recipe contains a medley of rich and moreish flavors such as marinara sauce and mozzarella cheese served in between slices of toasted ciabatta. Don’t forget to enjoy this hearty sandwich with your favorite potato chips!\n\nServing Time: 20 minutes\nYield: 1-2 servings\n\nIngredients\n\n2 tbsps. olive oil\n1 pack Beyond Meatballs\n1 pc. ciabatta bread\n⅓ cup marinara sauce\n½ cup mozzarella cheese, shredded\n1 tbsp. parsley, chopped\n\nProcedure\n\n1. Preheat oven to 350°F.\n2. Set pan over medium heat. Add olive oil, then fry Beyond Meatballs until nicely browned. Set aside.\n3. Slice ciabatta bread in half and toast. Spread half of the marinara sauce and add the cooked meatballs on top.\n4. Cover meatballs with the remaining sauce and top with mozzarella cheese.\n5. Bake for 5-7 minutes until cheese is golden brown. Garnish with chopped parsley.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Beyond Meatballs"
+      "Beyond Meat"
     ],
     "recipe": {
       "servingTime": "20 minutes",
@@ -554,7 +556,9 @@ const DECEMBER_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "December IG",
     "caption": "Had a busy day at work? Unwind and take a break from the kitchen by grabbing these ready-to-serve Crispy Pork Knuckles by The Good Meat at #TheMarketplace!\n\nThese Crispy Pork Knuckles are tender and juicy on the inside and crackling on the outside, making it the perfect match for an ice-cold glass of beer if you’re in the mood for it. \n\nYou can now get your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "The Good Meat"
+    ],
     "recipe": null,
     "photo": {
       "filename": "IG23.jpg",
@@ -571,7 +575,9 @@ const DECEMBER_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "December IG",
     "caption": "Craving some crispy pork sandwiches? Give them an Oriental touch and try out this recipe for Crispy Pork Bao Buns made with The Good Meat’s Crispy Pork Roll.\n\nSimply fry the pork roll slices in a pan and layer with cucumber, mayonnaise, sriracha, carrots, chili, and cilantro in between freshly steamed mantou buns. You’ll get delightful and satisfying bao buns bursting with refreshing flavors and contrasting textures. Get all the ingredients you need for this recipe at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 4-6 pieces\n\nIngredients\n\n½ cup mayonnaise\n2 tbsps. sriracha\nSalt and pepper to taste\n½ cup canola oil \n1 pack The Good Meat Crispy Pork Roll\n4 mantou buns\n¾ cup cucumber, slices\n1 cup carrot, julienned\n⅛ cup red chili, sliced\n½ cup cilantro sprigs\n\nProcedure\n\n1. Combine mayonnaise and sriracha. Season with salt and pepper. \n2. In a frying pan over medium-high heat, add in canola oil. Fry The Good Meat Crispy Pork Rolls until crispy and golden brown on both sides, about 2 minutes per side. \n3. Microwave or steam mantou buns for 4 minutes. Once cool enough to handle, slice in half. \n4. To assemble, spread a layer of sriracha mayonnaise on mantou buns. Fill with The Good Meat Crispy Pork Roll, cucumber, carrots, red chili and cilantro. \n5. Serve remaining sriracha mayonnaise on the side. \n\nDid you know? You can now get your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
-    "brand": [],
+    "brand": [
+      "The Good Meat"
+    ],
     "recipe": {
       "servingTime": "15 minutes",
       "yield": "4-6 pieces",
@@ -639,8 +645,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "December IG",
     "caption": "Try this fun and creative way to enjoy spaghetti!\n\nShape the noodles into nests and top them off with PureFoods Tender Juicy Spaghetti Sauce! Make them as cheesy as you desire, pop them in the oven, and enjoy the crunchy textures that are bursting with the familiar and nostalgic spaghetti-and-hotdog combination we all love. Find all the ingredients you need at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 12-16 pieces\n\nIngredients\n\n1 pack (1kg) Purefoods Tender Juicy Spaghetti Sauce \n1kg spaghetti noodles, cooked according to package instructions\nSalt and pepper to taste\n1 cup mozzarella cheese\n1 cup parmesan cheese \n2 eggs, whisked\nBasil sprigs for garnish \n\nProcedure\n\n1. Preheat oven to 200°C. Grease a muffin pan.\n2. In a large pot, heat up Purefoods Tender Juicy Spaghetti Sauce. Reserve 2 cups of the sauce for topping later on. Mix in cooked spaghetti noodles. Season with salt and pepper. \n3. Turn off the heat, then mix in mozzarella cheese, parmesan cheese and eggs. Toss together with the sauce and noodles until well combined. \n4. Divide spaghetti into the greased muffin pans. Bake for 15-18 minutes.\n5. Top with more spaghetti sauce and garnish with basil sprigs. \n\nDid you know? You can now get your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Purefoods",
-      "Tender Juicy"
+      "PureFoods"
     ],
     "recipe": {
       "servingTime": "30 minutes",
@@ -665,7 +670,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "December IG",
     "caption": "Craving a warm, home-cooked meal but got no time to prepare?\n\nGrab packets of PureFoods ready-to-eat meals at #TheMarketplace! They’re simple, satisfying, and oh-so-delicious. With variants such as Kare-Kare, Bistek, and Lechon Paksiw, all you need to worry about is the rice. \n\nYou can now get your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Purefoods"
+      "PureFoods"
     ],
     "recipe": null,
     "photo": {
@@ -709,7 +714,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "December IG",
     "caption": "Get a fuller, bigger, and meatier pizza bite with these Pizza Cups made with Beretta Salame Piccante!\n\nFiery, smoky, and bursting with robust flavors, this brand of salami pairs so well with mozzarella cheese and marinara. #TheMarketplace carries Beretta Salame Piccante, along with other imported premium meats. Shop now and try this easy recipe today!\n\nServing Time: 15 minutes\nYield: 12 pieces\n\nIngredients\n\n1 pack Beretta Salame Piccante, sliced \n12 pcs. mini tortilla \n1 cup marinara sauce \n2 cups mozzarella cheese\nBasil sprigs for garnish \n\nProcedure\n\n1. Preheat oven to 175°C. Grease a muffin pan. \n2. In a dry pan over medium-high heat, fry sliced Beretta Salame Piccante until toasted.\n3. Cut tortillas into rounds just big enough to fit the slots in the muffin pan. \n4. Place tortilla rounds into the slots, pressing each into the mold. Top with marinara sauce, then mozzarella cheese and finally, with the Beretta Salame Piccante. \n5. Bake for 8-10 minutes, or until cheese is melted and tortilla is nicely toasted. \n6. Garnish with basil right before serving. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Beretta Salame"
+      "Beretta"
     ],
     "recipe": {
       "servingTime": "15 minutes",

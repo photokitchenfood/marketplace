@@ -13,7 +13,7 @@ const FATHERS_DAY_DATA = [
     "campaign": "Fathers Day",
     "caption": "For all your important oral care needs, Closeup’s All Around Fresh toothpaste is here!\nBe on top of your game and smile with confidence. This refreshed formulation is designed to clean deeply, fight bacteria, lift plaque, prevent cavities, and refresh your mouth all at the same time!\nGrab it along with all your other oral hygiene needs at #TheMarketplace.\nPrefer to order your groceries online and have them delivered to you instead? Visit #TheMarketplace online at http://bit.ly/OrderTheMarketplace! Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Close-up"
+      "Closeup"
     ],
     "recipe": null,
     "photo": {
@@ -89,7 +89,7 @@ const FATHERS_DAY_DATA = [
     "campaign": "Fathers Day",
     "caption": "This Father’s Day season, prepare Dad’s favorite tacos, but maybe opt for a lighter and healthier protein by swapping the beef for Century Tuna Flakes in Sunflower Oil. \n\nDressed with lots of veggies and served in crunchy taco shells, this is definitely a healthier alternative to your regular tacos, without compromising on flavor. Grab all the ingredients you need at #TheMarketplace!\n\nServing Time: 5 minutes\nYield: 1-2 servings\n\nIngredients\n\n3 pcs. lettuce, shredded\n3 taco shells\n1 can Century Tuna Flakes in Sunflower Oil\n1 cup tomato, diced\n1 onion, sliced\n2 lime wedges\n\nProcedure\n\n1. Assemble lettuce in taco shells.\n2. Add Century Tuna Flakes in Sunflower Oil. Top with tomatoes and onions.\n3. Serve with lime wedges on the side.\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Century"
+      "Century Tuna"
     ],
     "recipe": {
       "servingTime": "5 minutes",
@@ -239,7 +239,7 @@ const FATHERS_DAY_DATA = [
     "campaign": "Fathers Day",
     "caption": "Love iced creamy coffee? Prepare these Coffee Popsicles in advance and enjoy one of these caffeinated treats whenever you need a sweet pick-me-up that’ll boost your mood!\n\nMade with Basilio Coffee for its robust flavor, the addition of condensed milk and vanilla makes this coffee-based treat into a perfect dessert or afternoon snack. Shop for all the ingredients you need at #TheMarketplace!\n\nServing Time: 6-8 hours\nYield: 6 servings\n\nIngredients\n\n3 packets Basilio Coffee Single Cup Brew\n450ml water\n¾ cup condensed milk\n1 cup cream\n1 tsp vanilla\n\nProcedure\n\n1. Brew Basilio Coffee and set aside.\n2. Fill ¾ of each popsicle mold with Basilio Coffee and freeze for at least an hour.\n3. While waiting, mix condensed milk, cream, and vanilla.\n4. Fill popsicle molds with vanilla mixture, and freeze again for 6-7 hours before serving.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Basilio Coffee"
+      "Basilio"
     ],
     "recipe": {
       "servingTime": "6-8 hours",
@@ -339,7 +339,7 @@ const FATHERS_DAY_DATA = [
     "campaign": "Fathers Day",
     "caption": "An all-time classic, these Beer-Battered Fish & Chips make use of Japanese Kirin Ichiban beer. Perfect ice-cold for drinking, Kirin is a 100% malt beer that delivers a strong, rich flavor with herbal, spicy, and zesty hoppy notes. It works surprisingly well as a batter for deep-frying fish, too! Round off the whole meal with a delicious dipping sauce made with lemon mayonnaise and dill pickle relish. Try it next weekend for an unforgettable dinner with the family. Grab all the ingredients you need at #TheMarketplace! \n\nServing Time: 30-40 minutes\nYield: 2-3 servings\n\nIngredients\n\n400g cream dory fillet\nCooking oil for deep-frying\n1 cup flour\n1 tsp. garlic powder\n1 tsp. salt\n½ tsp. pepper\n1 egg\n1 bottle Kirin Ichiban Beer\n3 tbsps. mayonnaise\n1 tbsp. lemon juice\n2 tsps. pickle relish\n1 tsp. dill\nSalt & pepper to taste\nLemon wedges\n\nProcedure\n\n1. Pat dry cream dory fillet and slice into 1 ½ inch thick slices. Set aside.\n2. Preheat oil to 370°F.\n3. In a mixing bowl, combine flour, garlic powder, salt, and pepper.\n4. Beat egg, and combine with the dry mixture. Gradually add Kirin Ichiban Beer until batter consistency is achieved.\n5. Coat each strip of fish with batter, then immediately fry until golden brown.\n6. Mix mayonnaise, lemon juice, pickle relish and dill. Season with salt and pepper.\n7. Serve beer-battered fish alongside dipping sauce, lemon wedges and shoestring fries.\n\nYou can also order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Kirin Ichiban"
+      "Kirin"
     ],
     "recipe": {
       "servingTime": "30-40 minutes",

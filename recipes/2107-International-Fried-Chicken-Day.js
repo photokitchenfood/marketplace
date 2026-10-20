@@ -63,7 +63,7 @@ const INTERNATIONAL_FRIED_CHICKEN_DAY_DATA = [
     "campaign": "International Fried Chicken Day",
     "caption": "While we might always think that Korean Fried Chicken is limited to those tossed in either a soy-garlic or gochujang sauce, there is another version of it that has amassed a cult following in Korea: Snow Cheese Fried Chicken. \n\nGet Bounty Fresh’s Family Feast Chicken, cut it into pieces, fry until golden, and then sprinkle the finished product with a snow-like concoction of parmesan cheese, powdered milk, and cheese powder. It creates a mouthwatering salty-and-sweet coating that you won’t be able to get enough of. Try it for dinner this week! All the ingredients you need are available at #TheMarketplace!\n\nServing Time: 35 minutes\nYield: 4-6 servings\nOptional: Serve with sour cream and salsa. \n\nIngredients\n\nOil for deep-frying\n1 pack Bounty Fresh Family Feast Chicken, cut into pieces \n¾ cup parmesan cheese\n½ cup powdered milk\n1 tbsp. cheese powder\n\nProcedure\n\n1. In a pot, preheat oil to 170°C.\n2. Deep-fry chicken in batches until golden brown and cooked through inside. \n3. In a large bowl, combine parmesan cheese, powdered milk and cheese powder. \n4. Toss in chicken until well coated.\n\nDid you know? You can now get your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Bounty"
+      "Bounty Fresh"
     ],
     "recipe": {
       "servingTime": "35 minutes",

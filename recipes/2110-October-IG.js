@@ -82,7 +82,7 @@ const OCTOBER_IG_DATA = [
     "campaign": "October IG",
     "caption": "Formulated with premium ingredients to control odor and deodorize, Top2Tail 2-in-1 Dog Shampoo and Conditioner is a must-have for every dog owner. It also hydrates and nourishes the coat to reduce tangles and matts, for a more comfortable and happier pet. Find it along with other premium pet products at #TheMarketplace!\n\nDid you know? You can now get your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Top 2"
+      "Top2Tail"
     ],
     "recipe": null,
     "photo": {
@@ -225,7 +225,9 @@ const OCTOBER_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "October IG",
     "caption": "What’s better than crunchy, fresh-from-the-fryer onion rings? Bacon-wrapped ones, of course!\n\nAdd a bit of indulgence to your next movie night with this recipe for Bacon Onion Rings. Using The Good Meat’s Smoked Bacon, make sure to refrigerate the bacon-wrapped onion rings for an hour before frying them. This neat little trick will yield to a crunchy batch of this porky snack. Accompanied by a tangy-and-sweet honey mustard dip, this addictive treat is one that will definitely leave a lasting impression. Find all the ingredients you need at #TheMarketplace!\n\nServing Time: 2 hours\nYield: 2-3 servings\n\nIngredients\n\n(For the Bacon Onion Rings)\n3 white onions\n1 pack The Good Meat Smoked Bacon\n1 cup oil\n2 tbsps. parsley, chopped\n(For Honey Mustard Dip)\n⅓ cup mayonnaise\n3 tbsps. mustard\n2 tbsps. honey\n1 tbsp. lemon juice\n¼ tsp. cayenne pepper powder\nSalt and pepper to taste\n\nProcedure\n1. Peel and slice white onions into ½”  rings.\n2. Wrap each onion ring with The Good Meat Smoked Bacon, then secure the ends with toothpick and refrigerate for an hour.\n3. In a small bowl, combine mayonnaise, mustard, honey, lemon juice, and cayenne pepper. Season with salt and pepper, then set aside.\n4. Preheat oil to 170°C. Fry bacon onion rings until golden brown. Strain excess oil.\n5. Serve alongside honey mustard dip and garnish with parsley.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
-    "brand": [],
+    "brand": [
+      "The Good Meat"
+    ],
     "recipe": {
       "servingTime": "2 hours",
       "yield": "2-3 servings",
@@ -317,7 +319,9 @@ const OCTOBER_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "October IG",
     "caption": "Make yourself a glass of Cloud Caramel Macchiato, packed with all those pumpkin spice flavors, to blend in with the cozy autumn mood. With Taiwanese brand Mr. Brown’s bottled Caramel Macchiato as the base, create your sweet cloud foam using egg whites, some icing sugar, vanilla, and cinnamon. With this recipe, there’s no need to head out to the café! Find all the ingredients you need, including other international coffee brands, only at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 2 servings\n\nIngredients\n\n2 egg whites \n1 tbsp. icing sugar \n⅛ tsp. vanilla \n1 tbsp. water\n¼ cup caramel sauce \n1 bottle Mr. Brown Caramel Macchiato \n1 tsp. cinnamon\n\nProcedure\n\n1. Whip egg whites, icing sugar, vanilla and water until light and foamy. \n2. Drizzle caramel sauce inside serving glasses. Fill with ice cubes and with Mr. Brown Caramel Macchiato.\n3. Top with foamed egg whites and a sprinkling of cinnamon. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": {
       "servingTime": "15 minutes",
       "yield": "2 servings",
@@ -341,7 +345,7 @@ const OCTOBER_IG_DATA = [
     "campaign": "October IG",
     "caption": "Craving a mojito? Here’s one that you can easily whip up in just five minutes!\n\nUsing Nestea Cleanse, which is a delicious and refreshing lemon cucumber powdered green tea, all it takes is a splash of white rum, lemon juice, cucumbers, and a sprig of mint. Plus points because you get some extra fiber from Nestea Cleanse! Get your ingredients fresh, along with other delicious powdered beverages, at #TheMarketplace!\n\nServing Time: 5 minutes\nYield: 1 serving\n\nIngredients\n\n1 sprig mint\n2 tbsps. lemon juice\n1 tbsp. sugar\n2 cups ice\n2 shots white rum\n1 cup Nestea Cleanse\n2 cucumbers, ribboned\n1 lemon, sliced\n\nProcedure\n\n1. In a cocktail shaker, muddle mint sprigs with lemon juice and sugar.\n2. Add half of the ice then add white rum and Nestea Cleanse. Shake well.\n3. Place cucumber ribbon in a glass and fill with the remaining ice. Use a strainer when transferring the cocktail into the glass.\n4. Garnish with a cucumber ribbon and sliced lemon.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Nestea Cleanse"
+      "Nestea"
     ],
     "recipe": {
       "servingTime": "5 minutes",
@@ -510,7 +514,7 @@ const OCTOBER_IG_DATA = [
     "campaign": "October IG",
     "caption": "Known for its iconic square-shaped wafers, Loacker’s Tortina boasts a heart of smooth hazelnut cream captured between two light and crisp wafers before being covered with exquisite milk chocolate, making it the perfect base for ice cream sandwiches. Using the ice cream flavor of your choice (we used vanilla), sandwich a scoop in between two Loacker Tortinas and then cover with chopped hazelnuts for a decadently delightful dessert. Find all the ingredients you need for this sweet treat at #TheMarketplace.\n\nServing Time: 3 hours and 30 minutes\nYield: 4 sandwiches\n\nIngredients\n\n4 scoops vanilla ice cream \n8 pcs. Loacker Tortina Original\n¾ cup hazelnuts, chopped\n\nProcedure\n\n1. Place a scoop of vanilla ice cream over a piece of Loacker Tortina Original and cover it with another piece.\n2. Smoothen the edges of the ice cream sandwich, and cover with chopped hazelnuts.\n3. Freeze for at least 3 hours before serving. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Loacker Tortina"
+      "Loacker"
     ],
     "recipe": {
       "servingTime": "3 hours and 30 minutes",

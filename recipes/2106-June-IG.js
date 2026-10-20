@@ -163,7 +163,7 @@ const JUNE_IG_DATA = [
     "campaign": "June IG",
     "caption": "Thinking of whipping up a satisfying brunch that’s bursting with flavour but is easy to make? Grab a pack of Gotzinger Cheese Kransky Chipolata Sausages at #TheMarketplace for this hearty Sausage and Veggie Scramble!\nWe love these Gotzinger Cheese Kransky Chipolata Sausages as they’re zingy and bursting with flavors of paprika, pepper, and melty cheese. Perfect with buttery scrambled eggs and earthy mushrooms. Yum!\nServing Time: 12 minutes\nYield: 2-4 servings\nTip: Serve with garlic bread or buttered toast for a full meal!\n\nIngredients\n\n2 tbsps. olive oil\n5-8 Gotzinger Sausages, sliced\n6 tbsps. butter\n4 shiitake mushrooms, sliced\n6 eggs, beaten\nSalt and pepper to taste\nProcedure\n\n1. Heat up olive oil over medium heat. Sear Gotzinger Sausages until nicely browned on both sides. Set aside.\n2. In the same pan, melt 3 tbsps. of butter. Add mushrooms and cook until browned. Set aside.\n3. Also in the same pan, melt the remaining 3 tbsps. of butter over low heat. Add eggs and mix continuously until cooked and creamy.\n4. Add back cooked sausages and mushrooms. \n\nOrder your groceries safely and place them online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Gotzinger Sausages"
+      "Gotzinger"
     ],
     "recipe": {
       "servingTime": "12 minutes",
@@ -338,7 +338,9 @@ const JUNE_IG_DATA = [
     "categoryConfidence": "high",
     "campaign": "June IG",
     "caption": "Finding yourself in a bit of a time crunch with no room to prep dinner for the family? Fresh Habit is here to save the day!\nThese pre-cooked meals are frozen for freshness and ready to heat up when you need them. Not only are they so convenient, but they are also so tasty, it feels just like a home-cooked meal. Fresh Habit is available at #TheMarketplace, and it helps to always have a few meals in your freezer in case you need them!\nDid you know? You can now get your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
-    "brand": [],
+    "brand": [
+      "Fresh Habit"
+    ],
     "recipe": null,
     "photo": {
       "filename": "FB5.jpg",

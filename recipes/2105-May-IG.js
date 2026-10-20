@@ -88,7 +88,7 @@ const MAY_IG_DATA = [
     "campaign": "May IG",
     "caption": "Get fresher breath and boost your confidence with Closeup Red Hot Mouthwash!\n\nInfused with natural clove oil and anti-germ properties, Closeup’s alcohol-free formula gently cleanses the mouth without burning and drying. It prevents build-up and eliminates plaque as well for a beautiful, bright smile and fresh breath. Get it at #TheMarketplace along with your other oral hygiene essentials!\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Close-up"
+      "Closeup"
     ],
     "recipe": null,
     "photo": {
@@ -333,7 +333,7 @@ const MAY_IG_DATA = [
     "campaign": "May IG",
     "caption": "Enjoy a magical breakfast with your little ones with Kellogg’s Chocos Magic! \n\nWith each fun-shaped cereal piece bursting with tons of cocoa flavors to turn regular milk into chocolate milk, Kellogg’s keeps it wholesome with a whole grain recipe that’s high in fiber, calcium, and protein. Not forgetting the 10 essential vitamins and minerals! Come over to #TheMarketplace and grab a box; perfect for both kids and kids at heart.\n\nOrder your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Kellogg’s"
+      "Kellogg's"
     ],
     "recipe": null,
     "photo": {

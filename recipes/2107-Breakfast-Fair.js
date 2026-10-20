@@ -114,7 +114,7 @@ const BREAKFAST_FAIR_DATA = [
     "campaign": "Breakfast Fair",
     "caption": "Got some extra slices of bread in your pantry? Whip up this super easy and delicious breakfast bread pudding made with Kellogg’s Mueslix! Keeping to the breakfast theme, we used the Raisin & Almond Crunch variant for this recipe. \nThis breakfast pudding contains all the comforting flavors of vanilla, bread, and butter, with a sprinkle of fibre thanks to Kellogg’s Mueslix. Add a dash of cinnamon sugar if you prefer! Get a box of Mueslix now at #TheMarketplace!\n\nServing Time: 15-20 minutes\nYield: 3-4 servings\n\nIngredients\n\n4 eggs\n1 cup milk\n2 tbsps. sugar\n1 tsp. vanilla\n4-6 pcs. bread, cubed\n1 tbsp. butter, softened\n⅓ cup Kellogg’s Mueslix \n\nProcedure\n\n1. Preheat oven to 175°C.\n2. In a mixing bowl, beat the eggs. Add in milk, sugar, and vanilla.\n3. Soak bread cubes in the batter,\n4. Brush a baking tray with butter, then transfer the soaked bread here. .\n5. Top with Kellogg’s Mueslix and bake for 13-15 minutes, or until set and golden brown on top. .\n\nNow you can order your groceries online via http://bit.ly/OrderTheMarketplace. Join our Viber community as well at http://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Kellogg’s"
+      "Kellogg's"
     ],
     "recipe": {
       "servingTime": "15-20 minutes",

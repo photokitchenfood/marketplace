@@ -76,8 +76,8 @@ const US_FESTIVAL_DATA = [
     "campaign": "US Festival",
     "caption": "Turn your favorite banoffee pie into an equally decadent breakfast with this Banoffee Cereal Parfait!\n\nSimply layer Post’s Great Grains Cereal in Banana Nut Crunch with sliced bananas, chocolate chips, and yoghurt. Chill for 10 minutes and get ready to indulge! Find more Post cereals and other imported breakfast items only at #TheMarketplace!\n\nServing Time: 12 minutes\nYield: 1 serving\n\nIngredients\n\n½ cup Post Great Grains Banana Nut Crunch Cereal\n1 banana, sliced \n¼ cup chocolate chips\n¼ cup yoghurt\n\nProcedure\n\n1. In a serving glass or jar, layer together Post Great Grains Banana Nut Crunch Cereal, bananas, chocolate and yoghurt.\n2. Chill for at least 10 minutes. \nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Great Grains",
-      "Post"
+      "Post",
+      "Great Grains"
     ],
     "recipe": {
       "servingTime": "12 minutes",

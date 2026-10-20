@@ -264,7 +264,7 @@ const SEPTEMBER_IG_DATA = [
     "campaign": "September IG",
     "caption": "Inspired by your favorite ice cream flavors, Hershey’s newest chocolate bar collection comes in fun and playful variants such as Sprinkles ‘N’ Crème, Strawberries ‘N’ Crème, and Cookies ‘N’ Mint! Each bar comes with delectable inclusions such as sugar candy sprinkles, cookie bits, and strawberry flakes to add texture in every bite. Can’t decide? Grab all three at #TheMarketplace! \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Hershey’s"
+      "Hershey's"
     ],
     "recipe": null,
     "photo": {

@@ -38,7 +38,7 @@ const TMP_ANNIVERSARY_DATA = [
     "campaign": "TMP Anniversary",
     "caption": "Wake up to the familiar savory flavors of Pampanga’s Best Beef Tapa, all rolled up in a delicious wrap in this recipe for Tapsilog Burrito! Complete with scrambled eggs and garlic rice, opt to add a bit of creaminess with some cheese or Japanese mayonnaise, too. Perfect for packing along for your road trips or simply enjoyed with your morning cup of coffee. Get all the ingredients you need from #TheMarketplace!\n\nServing Time: 45 minutes\nYield: 4 burritos\n\nIngredients\n\n3 tbsps. butter\n5 cloves garlic, chopped\n2 cups cooked rice \nSalt and pepper to taste\n2 tbsps. spring onions, chopped\n1 tbsp. vegetable oil \n4 eggs, beaten \n4 large tortillas\n1 pack Pampanga’s Best Beef Tapa, cooked according to package instructions\n2 tomatoes, diced\n1 red onion, diced\n\nProcedure\n\n1. Heat up a pan over medium heat. Melt butter, then add garlic and fry until golden brown. Mix in rice, then season with salt and pepper to taste. Mix in spring onions. Set aside. \n2. Heat up oil over low heat. Add eggs and cook while continuously mixing. Cook until desired doneness of scrambled eggs. Set aside. \n3. Lay a tortilla on a chopping board. Arrange beef tapa, garlic rice and scrambled eggs on top, then fold on all sides to secure. \n4. Combine tomatoes and red onions. Season with salt and pepper to taste. Serve this with the Tapsilog Burrito. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Pampanga’s Best"
+      "Pampanga's Best"
     ],
     "recipe": {
       "servingTime": "45 minutes",
@@ -212,7 +212,9 @@ const TMP_ANNIVERSARY_DATA = [
     "categoryConfidence": "high",
     "campaign": "TMP Anniversary",
     "caption": "Known as “the world’s most edible fish”, the pompano is flat-bodied and very easy to eat. Not to mention, its versatility makes it an easy star on any dinner table. In this recipe for Grilled Pompano with Salsa Verde and Tomato Salad, the earthy and citrusy flavors from the salsa verde permeate through the grilled fish, resulting to a delicious merriment of smokey and bright flavors, with the tomato salad working its magic as a refreshing palate cleanser. At #TheMarketplace, we ensure that all the seafood we stock up on is from the freshest catch, so look no further and add these ingredients to your cart today!\n\nServing Time: 20 minutes\nYield: 2-3 servings\n\nIngredients\n\n1 pompano, gutted and cleaned \n2 tbsps. vegetable oil\nSalt and pepper to taste \n½ cup parsley, chopped\n½ cup cilantro, chopped \n1 tbsp. lemon juice\n1 tsp. chili flakes\n1 tsp. garlic, minced\n¼ cup olive oil \n5 tomatoes, diced\n1 red onion, sliced\n\nProcedure\n\n1. Spread oil all over pompano. Season with salt and pepper. Grill over medium flame until browned on both sides and cooked through on the inside, about 10 minutes. \n2. Combine parsley, cilantro, lemon juice, chili flakes, garlic and olive oil. Season with salt and pepper to taste. \n3. Combine tomatoes and onions. Season with salt and pepper to taste. \n4. Top grilled pompano with salsa verde, and serve with tomato salad. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": {
       "servingTime": "20 minutes",
       "yield": "2-3 servings",
@@ -336,7 +338,7 @@ const TMP_ANNIVERSARY_DATA = [
     "campaign": "TMP Anniversary",
     "caption": "Thai curries come in many different colors to differentiate them from each other in terms of flavor profile rather than by spice level. Red curry is versatile and carries a lot of depth in it, making it easy to pair with any protein. In this recipe, we used Seaking’s Keta Salmon Chunks to make a Salmon Red Curry, which is bursting with flavors of spice and the creaminess of coconut milk. If you’re looking to eat a bit healthier to make room for the Christmas feastings, consider making this recipe! All the ingredients you need can be found at #TheMarketplace!\n\nServing Time: 45 minutes\nYield: 2-3 servings\n\nIngredients\n\n1 pack Seaking Keta Salmon Chunks\n2 tbsps. oil \n⅓ cup onion, diced\n2 tbsps. garlic, minced\n2 tbsps. ginger, minced\n2 tbsps. red curry paste\n1 tbsp. yellow curry paste\n1 ½ cup coconut milk\n1 tbsp. fish sauce\nSalt and pepper to taste\n1 cup bok choy\n1 tbsp. red chili, sliced\n⅛ cup cilantro sprigs\n⅓ cup lime, wedges\n\nProcedure\n\n1. Remove excess moisture of Seaking Keta Salmon Chunks. Set a pan over medium heat, add oil and sear salmon chunks then set aside.\n2. Using the same pan, sauté onions, garlic and ginger until soft and fragrant.\n3. Add red curry, yellow curry and coconut milk. Mix well and add fish sauce, season with salt and pepper as needed.\n4. Add seared salmon and simmer for 5 minutes. Add bok choy and let simmer again for another 3 minutes.\n5. Garnish with red chilies and cilantro. Serve with lime wedges.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Seaking Keta"
+      "Seaking"
     ],
     "recipe": {
       "servingTime": "45 minutes",

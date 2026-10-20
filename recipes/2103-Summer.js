@@ -13,8 +13,7 @@ const SUMMER_DATA = [
     "campaign": "Summer",
     "caption": "Hola! Craving some Mexican but want to keep the carbs at bay?\n\nThis Cheesy Taco Salad is a fiesta on a plate! It’s also made more enjoyable (and more colorful) with Anchor Cheddar Cheese Slices. So good and so perfect for this summer season! Head over to #TheMarketplace and shop for ingredients now.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Anchor",
-      "So Good"
+      "Anchor"
     ],
     "recipe": {
       "servingTime": "10 minutes",
@@ -114,7 +113,9 @@ const SUMMER_DATA = [
     "categoryConfidence": "high",
     "campaign": "Summer",
     "caption": "Perk up your summer with this delicious dish of Roasted Pampano White with Summer Veggies!\n\nIn case you didn’t know, pampano is quite a versatile fish that holds together very well in different modes of cooking. In this recipe, we roasted the pampano, and paired it with a balsamic bell pepper salad. Don’t the colors simply remind you of a Tuscan summer? Get all the ingredients you need fresh from #TheMarketplace!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": {
       "servingTime": "18 minutes",
       "yield": "4-6 servings",
@@ -163,7 +164,7 @@ const SUMMER_DATA = [
     "campaign": "Summer",
     "caption": "Beat the heat this summer with these Mango-Passion Fruit Yoghurt Popsicles!\n\nAll you need are four ingredients—mango purée, passion fruit flesh, honey, and a bottle of Yili Greek-Style Mango & Passion Fruit Yoghurt. Not only does the Greek yoghurt add a creamy touch to your popsicles, but it’s also packed with protein. Head to #TheMarketplace now and get all the ingredients you need!\n\nYou can also opt to order your groceries online via http://bit.ly/OrderTheMarketplace. We’re also on Viber! Join our community today at https://bit.ly/TheMarketplaceCommunity.",
     "brand": [
-      "Yili Greek-Style"
+      "Yili"
     ],
     "recipe": {
       "servingTime": "1 day",

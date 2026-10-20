@@ -64,7 +64,7 @@ const EASTER_DATA = [
     "campaign": "Easter",
     "caption": "Nothing ushers in the Easter delight the way a Kinder Joy® egg does. Apart from that milky, creamy shell with crispy wafer bites tucked inside, each egg also contains a surprise toy. Perfect for your indoor Easter Egg hunt, don’t you think? Get your Kinder Joy® eggs at #TheMarketplace!\n\nAdd to cart and shop at #TheMarketplace online at http://bit.ly/OrderTheMarketplace. Don’t forget to join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Kinder Joy"
+      "Kinder"
     ],
     "recipe": null,
     "photo": {

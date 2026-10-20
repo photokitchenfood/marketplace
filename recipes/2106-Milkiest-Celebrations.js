@@ -39,7 +39,7 @@ const MILKIEST_CELEBRATIONS_DATA = [
     "caption": "Nestlé’s Boost Optimum Powder is a delicious adult nutritional supplement that comes packed with probiotics, high-quality protein, as well as vitamins and minerals. \n\nOne way to keep things exciting while enjoying it is by making this Hot Milk Cake that’s bursting with creamy milk flavors, as well as sweet and fragrant vanilla. It’s also quite a delicious way to consume your Nestlé Boost Optimum without realizing it’s even there! Find all the ingredients you need at #TheMarketplace!\n\nServing Time: 45 minutes\nYield: 4-6 servings\n\nIngredients\n\n4 eggs \n2 cups sugar \n1 tsp. vanilla \n½ tsp. salt\n2 cups cake flour \n2 tsps. baking powder \n1 cup Boost Optimum Vanilla milk\n1 cup unsalted butter \n\nProcedure\n\n1. Preheat oven to 175°C. Line a 13x9” pan with parchment paper.\n2. Beat eggs, sugar and vanilla together until light, fluffy and pale yellow in color. \n3. In a separate bowl, whisk together salt, flour and baking powder. Gradually add this to the egg mixture. Mix until smooth. \n4. In a saucepan, combine Boost Optimum Vanilla milk and butter. Let come to a simmer. Gradually add this to the batter, and mix until just combined. \n5. Pour batter into the baking pan. Bake for 25-30 minutes, or until a toothpick inserted in the center of the cake comes out clean. \n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Nestlé",
-      "Boost Optimum"
+      "Boost"
     ],
     "recipe": {
       "servingTime": "45 minutes",

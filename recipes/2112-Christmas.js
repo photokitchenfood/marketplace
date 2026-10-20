@@ -375,7 +375,9 @@ const CHRISTMAS_DATA = [
     "categoryConfidence": "high",
     "campaign": "Christmas",
     "caption": "Transform Lemon Square’s Lava Cakes into little bite-sized desserts in this recipe for Mini Black Forest Lava Cake! Simply pipe on some whipping cream onto each Lemon Square Lava Cake, top with Maraschino cherries, and drizzle with chocolate sauce. Layer on top of each other and impress your guests with this delicious dessert! Best part? Kids can enjoy it, too, because it’s alcohol-free! Find Lemon Square baked goods, along with other ready-to-eat cakes, at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 2 servings\n\nIngredients\n\n2 cups whipped cream\n4 pcs. Lemon Square Lava Cake\n2 cups whipped cream\n1 cup Maraschino cherries\n½ cup chocolate sauce\n2 tbsps. white chocolate shavings\n\nProcedure\n\n1. Using a piping bag with a star tip, add a layer of whipped cream over Lemon Square Lava Cake.\n2. Add Maraschino cherries on top and drizzle with chocolate sauce. Cover with another piece of lava cake and top with whipped cream. \n3. Garnish with maraschino cherry and white chocolate shavings before serving.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": {
       "servingTime": "15 minutes",
       "yield": "2 servings",
@@ -449,7 +451,7 @@ const CHRISTMAS_DATA = [
     "campaign": "Christmas",
     "caption": "Balance is always the key to a healthy, happy life. So if you’re dishing out rich dishes like lechon and creamy pasta bakes for your holiday dinners, don’t forget to throw in a salad as well!\n\nTaking its name from the Waldorf-Astoria hotel in New York City, a Waldorf Salad is a fruit and nut salad with apples and celery as its distinct ingredients. Dressed in mayonnaise, salt, and pepper, this simple recipe brings full-on flavor that’s bursting with freshness and texture. Shop at #TheMarketplace online for all the ingredients you need and have them delivered to your doorstep!\n\nServing Time: 20 minutes\nYield: 2-3 servings\n\nIngredients\n\nSalt and pepper to taste\n1 chicken breast\n3 Washington Red Apples, sliced into cubes \n½ cup grapes, halves \n½ cup walnuts, toasted and chopped \n¼ cup celery, sliced\n1 cup mayonnaise \n\nProcedure\n\n1. Boil water seasoned with salt and pepper. Poach chicken breast until cooked through, about 10 minutes. Set aside until cool enough to handle, then slice into cubes. \n2. Combine chicken cubes, Washington Red Apples, walnuts, celery and mayonnaise. Mix until everything is well coated with sauce. Season with salt and pepper to taste. \n3. Chill for at least 15 minutes. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Washington"
+      "! Generic"
     ],
     "recipe": {
       "servingTime": "20 minutes",
@@ -474,7 +476,7 @@ const CHRISTMAS_DATA = [
     "campaign": "Christmas",
     "caption": "Having a few back-to-back holiday feasts? Here’s a light dish to have in between!\n\nMade with Sarangani Bay Alaskan Pollock fish fillets, this recipe for Sticky Asian Pollock boasts oriental flavors such as sesame oil, Chinese five spice, and chilies, cooked in a sticky slurry that coats every fillet with a burst of flavor. Best paired with brown rice! Head over to #TheMarketplace and stock up on the freshest fish and other seafood for the holiday season!\n\nServing Time: 25 minutes\nYield: 3-5 servings\n\nIngredients\n\n2 tbsps. water \n¼ cup soy sauce \n2 tbsps. honey \n1 tbsp. rice vinegar \n1 tbsp. sesame oil \n1 tbsp. mirin \n½ tsp. Chinese five spice\n3 red chilies, sliced \n2 tbsps. cornstarch slurry\n500g Sarangani Bay Alaskan Pollock fish fillet\nCilantro for garnish\n\nProcedure\n\n1. Preheat oven to 180°C. \n2. In a saucepan set over medium heat, combine soy sauce, honey, rice vinegar, sesame oil, mirin, Chinese five spice and red chilis. Let boil for 2 minutes. Bring down to a simmer, then mix in cornstarch slurry. Let simmer until thick. \n3. Pat dry Pollock fillets. Season with salt and pepper on both sides, then transfer to a baking tray lined with foil. Generously brush with the glaze. \n4. Bake for 12 minutes. Switch oven settings to broil, then cook for another 5 minutes. \n5. Garnish with cilantro.  \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Sarangani"
+      "Sarangani Bay"
     ],
     "recipe": {
       "servingTime": "25 minutes",
@@ -548,7 +550,9 @@ const CHRISTMAS_DATA = [
     "categoryConfidence": "high",
     "campaign": "Christmas",
     "caption": "Swimming in a delicious tomato sauce and bursting with flavors of paprika, garlic, oregano, and feta cheese, these Greek Baked Shrimp are perfect to whip up if you’re craving a taste of the Mediterranean. Make sure to get your sugpo or large shrimp from #TheMarketplace for guaranteed freshness! This dish is best served with garlic bread, a simple garlic pasta, or some herbed rice, depending on your preference. \n\nServing Time: 20 minutes\nYield: 3-5 servings\n\nIngredients\n\n500g sugpo or large shrimp\nSalt and pepper to taste \n1 tsp. paprika \n3 tbsps. olive oil \n5 cloves garlic, minced\n1 red onion, minced \n1 tsp. oregano \n1 tsp. red chili flakes\n2 cups stewed tomatoes \n½ cup Greek feta cheese, crumbled\nBasil for garnish\n\nProcedure\n\n1. Pat dry sugpo. Season with salt, pepper and paprika. \n2. In a large pan over medium heat, heat up olive oil. Sear sugpo in batches. Set aside shrimp while retaining oil in the pan. \n3. Using the same pan, sauté garlic and onion. Mix in oregano, chili flakes and stewed tomatoes. Let simmer for 5 minutes. \n4. Season with salt and pepper, then add back Shrimp. Mix in feta cheese. \n5. Garnish with basil. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": {
       "servingTime": "20 minutes",
       "yield": "3-5 servings",
@@ -621,7 +625,9 @@ const CHRISTMAS_DATA = [
     "categoryConfidence": "high",
     "campaign": "Christmas",
     "caption": "One of the easiest and yummiest ways to prepare salmon is by cooking it teriyaki-style. With all the holiday feasting, it’s good to have some light meals every now and then!\n\nWe baked some Sea King Keta Salmon with a teriyaki sauce made with soy sauce, mirin, sesame oil, brown sugar, and garlic, and the result is an umami-packed meal that pairs really nicely with rice...or opt for salad greens with sesame dressing if you please! Find the most premium seafood brands only at #TheMarketplace!\n\nServing Time: 25-30 minutes\nYield: 2 servings\n\nIngredients\n\n¼ cup soy sauce \n2 tbsps. water \n3 tbsps. brown sugar \n2 tsps. mirin \n2 tsps. sesame oil \n1 tsp. ginger, grated\n1 tsp. garlic, grated \n1 tbsp. cornstarch slurry\nSalt and pepper to taste\n2 slabs Sea King Keta Salmon\n2 tsps. sesame seeds, toasted\n2 tsps. spring onions, chopped\n\nProcedure\n\n1. Preheat oven to 180°C. Line a baking tray with foil. \n2. In a saucepan, combine soy sauce, water, brown sugar, mirin, sesame oil, ginger and garlic. Let boil for 2 minutes, then bring down to a simmer. Mix in cornstarch slurry. Cook until thick. \n3. Arrange salmon slabs on a tray. Season with salt and pepper. Generously brush with the teriyaki glaze. \n4. Bake for 12 minutes. Switch oven settings to broil, then cook for another 3 minutes. \n5. Garnish with sesame seeds and spring onions.  \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": {
       "servingTime": "25-30 minutes",
       "yield": "2 servings",

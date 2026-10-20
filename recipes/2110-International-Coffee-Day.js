@@ -113,7 +113,7 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
     "campaign": "International Coffee Day",
     "caption": "Brewing coffee can be a meditative ritual, so why not begin your mornings with Kickstart Coffee’s Brewed Awakening coffee? Made with 100% Arabica beans, take a moment and enjoy a slow-brewed cup. Have a good one! Find Kickstart Coffee at #TheMarketplace, along with other coffee bean brands, to make your mornings brighter and better.\n\nDid you know? You can now get your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Kickstart"
+      "Kickstart Coffee"
     ],
     "recipe": null,
     "photo": {
@@ -157,7 +157,7 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
     "campaign": "International Coffee Day",
     "caption": "Ever tried Mexican Coffee before?\n\nMade with strong, freshly brewed Artisans Roasted Coffee and mixed with chocolate and cinnamon, this caffeinated concoction is topped off with heavy cream. You can think of it as a marriage between hot chocolate and coffee, but with a dash of cinnamon to spice things up. Whether enjoyed for breakfast or in the afternoon, this is definitely one decadent way to dress up your coffee. Shop at #TheMarketplace today for all your coffee-related needs and more!\n\nServing Time: 8 minutes\nYield: 1 serving\n\nIngredients\n\n½ cup Artisans Roasted Coffee, brewed \n¼ tsp. ground cloves\n¼ tsp. cinnamon\n1 tbsp. chocolate syrup \n¼ cup heavy cream \n1 tsp. white sugar \n\nProcedure\n\n1. Combine brewed Artisans Roasted Coffee, cloves, cinnamon and chocolate syrup. \n2. Using a handheld frother, beat heavy cream and sugar until thickened. \n3. Fill your glass with ice cubes. Add coffee mixture, then top with the cream mixture. Sprinkle with more cinnamon on top if desired. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Artisans Roasted Coffee"
+      "Artisans"
     ],
     "recipe": {
       "servingTime": "8 minutes",

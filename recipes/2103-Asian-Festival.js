@@ -38,7 +38,7 @@ const ASIAN_FESTIVAL_DATA = [
     "campaign": "Asian Festival",
     "caption": "Give your fajitas a familiar twist with Libby’s Chicken Vienna Sausages!\n\nPerfect for brunch (or really, any time of the day), this dish packs on a party with fiery peppers and meaty sausages, all rolled up in toasty tortillas. Find all the ingredients you need at #TheMarketplace! #AsianFestival\n\nGreat news! You can now order your groceries online at http://bit.ly/OrderTheMarketplace. Do come and join our Viber community as well at https://linktr.ee/TheMarketplace!",
     "brand": [
-      "Libby’s"
+      "Libby's"
     ],
     "recipe": {
       "servingTime": "20 mins",
@@ -63,7 +63,7 @@ const ASIAN_FESTIVAL_DATA = [
     "campaign": "Asian Festival",
     "caption": "Here’s an irresistible take on carbonara that’ll keep you coming for more!\n\nThe use of sisig levels up the umami in your typical carbonara, and let’s not forget the secret ingredient—SanSan’s Carcar Chicharon! Get all the ingredients you need only at #TheMarketplace! #AsianFestival\n\nDon’t forget! You can now order your groceries online at http://bit.ly/OrderTheMarketplace. For updates, do join our Viber group as well at https://linktr.ee/TheMarketplace!",
     "brand": [
-      "SanSan’s"
+      "SanSan"
     ],
     "recipe": {
       "servingTime": "45 mins",
@@ -138,7 +138,7 @@ const ASIAN_FESTIVAL_DATA = [
     "campaign": "Asian Festival",
     "caption": "Do you love nibbling on salty and sweet snacks? Try this popcorn recipe and satisfy your cravings! \n\nFor a gourmet touch, add some No Brand Crispy & Rosemary Almonds and combine with some cranberries and rosemary sprigs. Now who’s ready for a fancy movie night? Grab these ingredients on your next visit to #TheMarketplace! #AsianFestival\n\nGreat news! You can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and connect with our Viber community at https://linktr.ee/TheMarketplace!",
     "brand": [
-      "No Brand"
+      "! Generic"
     ],
     "recipe": {
       "servingTime": "5 mins",
@@ -163,7 +163,7 @@ const ASIAN_FESTIVAL_DATA = [
     "campaign": "Asian Festival",
     "caption": "Add some spice to your meal plan with these Spicy Chicken Skewers! Tangy, savory, and with a fiery kick, these chicken skewers will definitely please any palate that’s craving for some excitement! \n\nList down all the ingredients you need for your next visit to #TheMarketplace! #AsianFestival\n\nDid you know? You can now order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber group as well at https://linktr.ee/TheMarketplace for the freshest updates!",
     "brand": [
-      "No Brand"
+      "! Generic"
     ],
     "recipe": {
       "servingTime": "35-45 mins",
@@ -270,7 +270,7 @@ const ASIAN_FESTIVAL_DATA = [
     "campaign": "Asian Festival",
     "caption": "Do you absolutely love truffle-flavoured anything? If you answered “yes”, then this super easy Truffle Aioli with Truffle Chips will blow your mind (and your tastebuds!). \n\nNot only does the sour cream dip burst of truffle flavors; the chips do, too! Don’t forget to pick up all the ingredients you need and a bag of Natural Nectar’s Black Truffle Potato Chips when you next visit #TheMarketplace!\n\nYou’re just a few clicks away from restocking your pantry! Order your groceries online at http://bit.ly/OrderTheMarketplace. Do come and join our Viber community as well at https://linktr.ee/TheMarketplace.",
     "brand": [
-      "Natural Nectar’s"
+      "Natural Nectar"
     ],
     "recipe": {
       "servingTime": "3 mins",

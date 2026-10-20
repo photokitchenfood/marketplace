@@ -37,7 +37,9 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "categoryConfidence": "high",
     "campaign": "Eat Right Live Healthy",
     "caption": "If you’re fan of citrusy flavors, then you’ll surely fall in love with this Orange Upside Down Cake! Prepared with the same philosophy behind the classic pineapple upside down cake, tuck into this tangy, buttery cake that’s glazed with a whisper of lemon-orange brandy. All the ingredients you need are available at #TheMarketplace, so shop now!\n\nServing Time: 2 hours\nYield: 1 9-inch cake\n\nIngredients\n\n(For the Orange Cake)\n\n2 ¼ cups flour\n1 ½ tsp. baking powder\n¼ tsp. baking soda\n½ tsp. salt\n3 tbsps. orange zest\n1 cup sugar\n2 eggs\n½ cup butter\n⅓ cup milk\n2 tbsps. sour cream\n\n(For the Orange Base)\n\n2 tbsps. butter\n2 pcs. orange, sliced\n⅓ cup sugar\n\n(For the Orange Glaze)\n\n¼ cup sugar\n2 tbsps. orange juice\n2 tbsps. lemon juice\n1 tbsp. brandy\n\nProcedure\n\n1. In a mixing bowl, sift together flour, baking powder, baking soda and salt. Set aside.\n2. In a separate bowl, combine eggs, butter, milk, sour cream and orange zest. Slowly add in the dry mixture until well incorporated.\n3. Brush the bottom of a 9-inch round cake pan with butter. Evenly sprinkle sugar on top.\n4. Arrange orange slices in a spiral pattern, then gently pour over the cake batter on top.\n5. Bake for 40-45 minutes in a 350°F preheated oven. Let cool for 10 minutes, then invert onto a plate.\n6. In a small pot, add sugar, orange juice, and lemon juice. Dissolve in low heat and add brandy.\n7. Brush inverted cake with orange glaze before serving.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": {
       "servingTime": "2 hours",
       "yield": "1 9-inch cake",

@@ -39,7 +39,7 @@ const AUGUST_IG_DATA = [
     "campaign": "August IG",
     "caption": "Missing Japan?\n\nIf you’re craving some sushi or are planning to have some Japanese food this week, head over to #TheMarketplace and take home some of our curated Karafuru sushi platters to indulge in!\n\nEach platter consists of a fun and delicious mix of sushi rolls and sashimi. We only use the freshest ingredients, so you know you’re getting quality grade fare. Itadakimasu!\n\nDid you know? You can now get your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Karafuru"
+      "! Generic"
     ],
     "recipe": null,
     "photo": {

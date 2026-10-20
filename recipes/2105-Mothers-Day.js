@@ -333,7 +333,7 @@ const MOTHERS_DAY_DATA = [
     "campaign": "Mothers Day",
     "caption": "The ketogenic diet is on trend now, and if you happen to pass by #TheMarketplace anytime soon, do try out our Keto Chocolate Ice Cream that pairs so perfectly with these Keto Chocolate Pancakes. \n\nRecipe below! Make it in time for Mother’s Day for a sweet surprise that Mom will surely love.\n\nServing Time: 30 minutes\nYield: 1 serving\n\nIngredients\n\n1 cup flour\n¼ cup cocoa powder\n2 tsp. baking powder\n½ tsp. salt\n1 tbsp. sugar\n2 eggs\n2 tbsp. butter, melted\n¾ cup milk\n3 tbsp. butter\n1 scoop Keto Chocolate Ice Cream\n2 tbsp. almonds or any preferred nuts, chopped\n¼ cup caramel syrup\nProcedure\n\n1. In a mixing bowl, sift flour, cocoa powder, baking powder and salt.\n2. Mix sugar, eggs, butter and milk.\n3. Combine wet mixture to dry mixture until smooth.\n4. Over low heat, brush pan with butter. Pour ¼ cup batter, wait until small bubbles show up before flipping.\n5. Right before consumption, scoop Keto Chocolate Ice Cream over stack of pancakes,\n6. Top with chopped nuts and pour over caramel syrup.\n\nOrder your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Keto"
+      "! Generic"
     ],
     "recipe": {
       "servingTime": "30mins",
