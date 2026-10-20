@@ -10,7 +10,7 @@ const DISH_OF_THE_MONTH_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "DISH OF THE MONTH",
+    "campaign": "Dish of the Month",
     "caption": "If you’re in the mood for something quick, light, and refreshing, drop by #TheMarketplace’s ready-to-eat section and grab a serving of this Chicken, Apple & Walnut salad that’s made with the freshest ingredients. Also opt for takeaway and enjoy with your choice of home-cooked protein such as a steak, chicken breast, or salmon.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"

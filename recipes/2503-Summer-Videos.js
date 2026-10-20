@@ -9,7 +9,7 @@ const SUMMER_VIDEOS_DATA = [
     "category": "EAP",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "SUMMER",
+    "campaign": "Summer",
     "caption": "When your pantry is stocked with the right ingredients, a rich and hearty meal is just minutes away.\n\nThese Corned Beef Sloppy Joes bring together the bold flavors of Palm Corned Beef, the depth of Casino Provence Sauce, the warm spice of Meadows Peppercorn Medley, and the herby goodness of Meadows Parsley Flakes.\n\nSimmered until thick and spooned onto buttery toasted brioche buns, each bite is a balance of savory, tangy, and just a touch of sweetness. Topped with melty cheddar and mozzarella, it’s the kind of satisfying meal that turns simple pantry staples into something truly special. Everything you need is available at The Marketplace.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Palm",
@@ -36,7 +36,7 @@ const SUMMER_VIDEOS_DATA = [
     "category": "EAP",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "SUMMER",
+    "campaign": "Summer",
     "caption": "A pavlova is a lesson in patience, but the reward is a cloud-like meringue with a crisp shell and marshmallow-soft center, ready to be crowned with luscious Chantilly cream and macerated strawberries.\n\nThe Marketplace’s fresh strawberries shine in this delicate yet dramatic dessert, their sweetness deepened with a touch of balsamic and honey. \n\nIt bakes low and slow, demanding a little time and care, but when you finally break into that airy, melt-in-your-mouth center, you’ll know — it was absolutely worth it. Why not try your hand at making this perfect summer dessert? Shop for all the ingredients that you need today!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"

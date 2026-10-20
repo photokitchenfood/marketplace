@@ -10,7 +10,7 @@ const LOVE_FOOD_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "LOVE FOOD",
+    "campaign": "Love Food",
     "caption": "Valentine’s Day is in the air, and nothing evokes romance more than the combination of strawberries and chocolate.\n\nUsing bars of Lindt Swiss Milk Chocolate with Hazelnut, whip up these Strawberry and Hazelnut Cookie Cups that are sure to send your sweetheart into a sugar-coated dream. Head over to #TheMarketplace and shop our wide array of Lindt chocolate products and more!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Lindt"
@@ -35,7 +35,7 @@ const LOVE_FOOD_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "LOVE FOOD",
+    "campaign": "Love Food",
     "caption": "Aren’t these the cutest Reese’s ever?\n\nThese Reese’s Peanut Butter Hearts are always a hit, especially during Valentine’s! Grab bags of them at #TheMarketplace and make someone’s day a little bit sweeter, or chop them up and make these Valentine’s Reese’s Cookie Bars that are oozing with salty peanut butter and sweet chocolate. Make it even more indulgent by heating a cookie bar up and serving it with a scoop of your favorite ice cream!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Reese's"
@@ -60,7 +60,7 @@ const LOVE_FOOD_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "LOVE FOOD",
+    "campaign": "Love Food",
     "caption": "Pastel pinks are trending this Valentine’s Day, and what better way to show off this shade of blush than with a Pocky Cheesecake made with Pocky Strawberry Sticks!\n\nThis cheesecake is definitely a labor of love, and patience is a must-have, but trust us when we say it’s worth it. Light, creamy, and bursting with the tangy and sweet flavors of strawberries and cheese, it’s one of those desserts that’s too cute to eat, but ends up being devoured in no time. Find all the ingredients that you need to make this cute cheesecake at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Pocky"
@@ -85,7 +85,7 @@ const LOVE_FOOD_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "LOVE FOOD",
+    "campaign": "Love Food",
     "caption": "Planning a sweet and romantic movie date indoors with your special someone?\n\nMake these M&M’s Pretzels using M&M’s Milk Chocolate for a chocolatey twist to the salty, bready pretzels. Easy to prepare and extremely addictive, these are sure to be gone in a flash, so make plenty! Grab all the ingredients that you need for this recipe, along with other Valentine’s Day snacks, at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "M&M’s"
@@ -110,7 +110,7 @@ const LOVE_FOOD_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "LOVE FOOD",
+    "campaign": "Love Food",
     "caption": "Ah, Ferrero Rocher, the classic Valentine’s gift. This year, instead of simply handing them off, why not elevate this nostalgic sweet by making Ferrero Brownies?\n\nPerfect for gifting or for showing yourself some sweet self-love, these brownies are great to make anytime of the year, but baking them this month makes the effort extra special, don’t you think? Head over to #TheMarketplace now and find all the ingredients that you need for these irresistible brownies!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Ferrero Rocher"
@@ -135,7 +135,7 @@ const LOVE_FOOD_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "LOVE FOOD",
+    "campaign": "Love Food",
     "caption": "Make your own DIY Valentine’s Chocolate Fondue with help from Cadbury Dairy Milk Pop Out Heart Chocolates!\n\nThe great thing about fondue is that you can choose whatever dippables you want. For this spread, we’re using a medley of marshmallows, oreos, strawberries, bananas, biscotti bites, and yes, more Cadbury Dairy Milk Pop Out Heart Chocolates! Go ahead and indulge — head over to #TheMarketplace nearest you and get all the items that you need!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Cadbury"
@@ -160,7 +160,7 @@ const LOVE_FOOD_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "LOVE FOOD",
+    "campaign": "Love Food",
     "caption": "Tuck into these cupcakes that are bursting with the chocolatey goodness of Cloud 9 Gold Almond Fudge!\n\nSweet, nutty, and rich with flavors of milk chocolate, top it off with a homemade vanilla frosting and sprinkle the cupcakes with your choice of toppings! Because it’s the season of love, we used tiny heart-shaped sugar candies, but feel free to decorate them however you wish! #TheMarketplace has all the ingredients that you need to whip up these yummy bakes, so shop now! \n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Cloud 9"
@@ -185,7 +185,7 @@ const LOVE_FOOD_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "LOVE FOOD",
+    "campaign": "Love Food",
     "caption": "Toffifee contains everything good in a chocolate-filled bite: a crunchy hazelnut enrobed in caramel with nougat cream, topped off with a drop of dark chocolate.\n\nToffifee is the first chocolate snack of its kind in the world, and today, we jazzed them by making these Toffifee Cheesecake Jars that are layered with chocolate, caramel, and cheesecake! Make these ahead of time and pop them in the fridge for a sweet treat whenever you need one. Find all the ingredients for these Toffifee Cheesecake Jars at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Toffifee"
@@ -210,7 +210,7 @@ const LOVE_FOOD_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "LOVE FOOD",
+    "campaign": "Love Food",
     "caption": "Red Velvet is a treat that’s quite hard to turn down. Perhaps it’s the reddish hue that always woos, or the cacao flavors that subtly come through. \n\nRegardless, here’s a recipe for Hazelnut Red Velvet Truffles made with Meadows Belgian Milk Chocolate with Hazelnuts — a perfect creation this Valentine’s season made with crumbled red velvet cake and enrobed in chocolate.\n\nHead over to #TheMarketplace and get all the ingredients that you need for this recipe! Prepare multiple batches, or have some handy just in case you’re in the mood for a sweet bite that hits the spot.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Meadows"
@@ -235,7 +235,7 @@ const LOVE_FOOD_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "LOVE FOOD",
+    "campaign": "Love Food",
     "caption": "We love mug cakes because not only are they so easy to prepare, but you can also be as creative as you want with the recipe!\n\nThis February, we’re making these Chocolate Hazelnut Mug Cakes using Casino Milk Chocolate with Hazelnut Chips, which you can easily find at #TheMarketplace. Whip up these easy and luscious mug cakes in less than 15 minutes, top with your choice of ice cream for an extra sweet treat, and enjoy it with the person you love the most. Happy Valentine’s Day!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Casino"
@@ -260,7 +260,7 @@ const LOVE_FOOD_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "LOVE FOOD",
+    "campaign": "Love Food",
     "caption": "Thinking of whipping up a fancy feast this month of hearts?\n\nHead over to #TheMarketplace and grab some shrimp, polenta, a bottle of Fiorelli Pinot Chardonnay, and make this decadent yet sophisticated Venetian Shrimp with Polenta!\n\nCreamy, buttery, elegant, and with a nice kick of heat, this dish will definitely impress. Don’t forget to pair with more Fiorelli Pinot Chardonnay. Enjoy!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Fiorelli"
@@ -285,7 +285,7 @@ const LOVE_FOOD_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "LOVE FOOD",
+    "campaign": "Love Food",
     "caption": "In the mood for French?\n\nTransport yourselves to the city of love and prepare this Rib Eye Steak Tartare with a slab of Aussie Fresh Ribeye Steak, which you can find at its freshest at #TheMarketplace.\n\nA classic dish found in most French bistros and brasseries, the key is to get super-fresh beef. Here’s a tip: if you’re feeling squeamish about using raw meat, submerge the beef in boiling salt water for ten seconds, then drop it into a bucket of ice water for 10 more. Either way, it’s très délicieux!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Aussie Fresh"

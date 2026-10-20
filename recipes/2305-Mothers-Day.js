@@ -10,7 +10,7 @@ const MOTHERS_DAY_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MOTHERS DAY",
+    "campaign": "Mothers Day",
     "caption": "Beautiful and elegant just like Mom, sakura and water lilies inspire a timeless kind of love just like hers.\n\nGlade Sakura & Waterlily Air Freshener is the newest addition to the Glade fragrance line-up, bottling a bouquet of white florals, made even more vibrant with crisp apple notes. A fresh and warm scent, give your space a refresh with Glade — available at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Glade"
@@ -29,7 +29,7 @@ const MOTHERS_DAY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MOTHERS DAY",
+    "campaign": "Mothers Day",
     "caption": "History says that the origins of the St. Louis Gooey Butter Cake date back to the 1930s — a delicious accident made by a German baker who added the wrong proportions of ingredients to the batter he was preparing.\n\nThe result was a cake that encased an ooey, gooey, pudding-like filling. Made with only six ingredients, the key is to use good butter for this recipe, so reach out for some Anchor Unsalted Butter when you shop for ingredients at #TheMarketplace!\n\nServing Time: 1 hour and 20 minutes\nYield: 12 bars\n\nIngredients\n\n1 box yellow cake mix\n3 eggs\n½ cup Anchor Unsalted Butter, softened\n1 cup cream cheese, softened\n2 ¾ cup confectioners sugar\n2 tsps. vanilla\n\nProcedure\n\n1. Preheat oven to 170°C. Grease and line a 9x9-inch baking pan.\n2. In a large bowl, combine yellow cake mix, 2 eggs, and Anchor Unsalted Butter. Cream until mixture is smooth. Set aside.\n3. Cream together cream cheese, confectioners sugar, egg and vanilla. \n4. Transfer yellow cake batter into the prepared baking pan. Spread evenly. Top with the cream cheese mixture.\n5. Bake for 40-45 minutes, or until top is golden brown. Let cool, and lightly dust the top with confectioners sugar before slicing.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Anchor"
@@ -54,7 +54,7 @@ const MOTHERS_DAY_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MOTHERS DAY",
+    "campaign": "Mothers Day",
     "caption": "For most moms, the best kind of care is self-care, so the next time you shop at #TheMarketplace, grab a tube of Le Petit Olivier Hair Conditioner for her precious locks.\n\nFortified with all the good stuff such as olive, shea, and argan oils, this formula is perfect for dry and damaged hair. Pick up a bottle of Le Petit Olivier shampoo, too! Mom will surely love it.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Le Petit Olivier"
@@ -73,7 +73,7 @@ const MOTHERS_DAY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MOTHERS DAY",
+    "campaign": "Mothers Day",
     "caption": "Impress your mom on her special month with this sweet-and-salty Confetti & Pretzel Chocolate tart made with Casino Delices Dark Chocolate.\n\nRich, decadent, and — yup, you guessed it — not too sweet, bake this tart ahead of time for your Mother’s Day gatherings. Find all the ingredients that you need for this recipe at #TheMarketplace!\n\nServing Time: 4 hours and 30 minutes\nYield: 1 8-inch pie\n\nIngredients\n\n1 cup crushed grahams\n1 cup crushed pretzels\n2 tbsps. sugar\n½ cup butter, melted\n3 cups heavy cream\n3 (100g) bars Casino Delices Dark Chocolate, chopped\n⅓ cup confectioners sugar\n½ cup pecans\n½ cup pretzels\n1 tbsp. flaky salt\n\nProcedure\n\n1. Preheat oven to 175°C\n2. In a large bowl, combine crushed grahams, crushed pretzels, sugar and melted butter. Press onto an 8-inch pie pan. Bake for 10 minutes, then set aside to cool.\n3. Place 2 cups heavy cream in a small pot, and bring to a simmer. In a separate bowl, add in 2 bars of chopped Casino Delices Dark Chocolate. \n4. Pour heated cream over the chocolate, and let sit for 4-5 minutes. After, mix until chocolate is fully melted and mixture is smooth.\n5. Transfer chocolate ganache into the prepared pie crust and spread evenly. Refrigerate for at least 4 hours.\n6. Whip the remaining heavy cream with confectioners sugar until medium peaks.\n7. Once pie has set, top with whipped cream, remaining chopped Casino Delices Dark Chocolate, pecans, pretzels and flaky salt.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Casino Delices"
@@ -98,7 +98,7 @@ const MOTHERS_DAY_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "MOTHERS DAY",
+    "campaign": "Mothers Day",
     "caption": "Wind down after a long day with a pot of Waitrose Camomile, Limeflower, & Lavender Tea. Most of the time, nothing soothes the soul best than a warm beverage.\n\nLinger in this fragrant infusion with fresh and zesty notes. Shop at #TheMarketplace for Waitrose’s wide selection of teas. We hope you find one that you and mom can enjoy together this May!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Waitrose"
@@ -117,7 +117,7 @@ const MOTHERS_DAY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MOTHERS DAY",
+    "campaign": "Mothers Day",
     "caption": "Ah, a nostalgic snack that is now perceived as “too sweet” for the palate!\n\nRecreate your favorite childhood treat for yourself and mom this month of May using Casino Bio 85% Dark Chocolate! The rice crispy treat is made more grown-up thanks to the use of dark chocolate, while keeping its youthful feel with the addition of mini marshmallows.\n\nGrab all the ingredients you need for this recipe at #TheMarketplace!\n\nServing Time: 1 hour and 15 minutes\nYield: 9 bars\n\nIngredients\n\n⅛ cup butter\n1 (100g) pack Casino Bio 85% Dark Chocolate, chopped\n2 tbsps. cocoa powder\n3 cups white mini marshmallows\n4 cups rice krispies\n\nProcedure\n\n1. In a pot over low heat, combine butter, ½ of the Casino Bio 85% Dark Chocolate, cocoa powder and white mini marshmallows. \n2. Continuously stir until chocolate and marshmallows have melted and mixture is well combined.\n3. Remove from the heat, then add in rice krispies, and mix until well coated.\n4. Grease and line a 6x6-inch pan with parchment, then transfer coated rice krispies in. Press into the prepared pan, and let set for 15-20 minutes.\n5. Using a double boiler, melt the remaining Casino Bio 85% Dark chocolate until smooth.\n6. Spread evenly on top of rice krispies and let it set for another 30 minutes before slicing.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Casino"

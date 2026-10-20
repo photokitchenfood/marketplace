@@ -10,7 +10,7 @@ const EUROPEAN_FESTIVAL_VIDEOS_DATA = [
     "category": "EAP",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "EUROPEAN FESTIVAL 2024",
+    "campaign": "European Festival",
     "caption": "Combine the iconic French soup with fun pasta shapes in this recipe for French Onion Farfalle, made with Barilla Farfalle.\n\nFarfalle, Italian for \"butterfly,\" are rectangular or oval pasta shapes delicately pinched at the center. Baked with a hearty and creamy sauce inspired by French onion soup, each bite will leave your taste buds singing for more.\n\nHead over to #TheMarketplace and get your fill of Barilla pasta products, along with all the other ingredients that you need for this showstopper of a recipe. Buon appetito!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Barilla"

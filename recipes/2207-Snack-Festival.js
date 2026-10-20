@@ -10,7 +10,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "SNACK FEST",
+    "campaign": "Snack Festival",
     "caption": "The perfect afternoon pick-me-up for the kids (and kids at heart), Nestlé Chuckie is bursting with full-on chocolatey flavors that is fun, delicious, and packed with essential nutrients such as Iron and Zinc! Drop by #TheMarketplace and stock up on this yummy chocolate milk that’s always a must-have in the fridge or lunch box!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nestlé"
@@ -29,7 +29,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "SNACK FEST",
+    "campaign": "Snack Festival",
     "caption": "For that extra boost of energy for the mind and body, Red Bull is enjoyed by many worldwide. Its superior combination of Taurine, B-group Vitamins, and Caffeine provides that much-needed pick-me-up that gets you going.\n\nFind Red Bull, along with other energy drink brands, at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Red Bull"
@@ -48,7 +48,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "SNACK FEST",
+    "campaign": "Snack Festival",
     "caption": "Everyone loves Doritos. The classic Nacho Cheese has powerful and bold savory flavors and tons of umami. The punch of garlic makes these iconic chips perfect on their own or with your favorite dip. Don’t forget to grab a bag (or three) of Doritos the next time you shop at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Doritos"
@@ -67,7 +67,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SNACK FEST",
+    "campaign": "Snack Festival",
     "caption": "This is one sweet-and-savory snack that’s so addictive, you’ll keep wanting it for days to come. \n\nRocky Road Popcorn, made with Kettle Korn Sweet n’ Salty Popcorn, is a medley of almonds, marshmallows, pretzels, and popcorn, slathered in a rich dark chocolate. That’s all there is too it, really! You can thank us later.\n\nHead over to #TheMarketplace now and fill your cart with all the items you need to make this tantalizing treat!\n\nServing Time: 10 minutes\nYield: 2 servings\n\nIngredients\n\n2 cups melting dark chocolate, chopped\n1 (120g) pack Kettle Korn Sweet n’ Salty Popcorn \n½ cup mini marshmallows\n½ cup mini pretzels \n¼ cup almonds \n\nProcedure\n\n1. Melt dark chocolate in a double boiler. Once smooth and fully melted, toss to coat Kettle Korn Sweet n’ Salty Popcorn in the dark chocolate. \n2. Mix in marshmallows, pretzels and almonds. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Kettle Korn"
@@ -92,7 +92,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SNACK FEST",
+    "campaign": "Snack Festival",
     "caption": "Feeling fancy? Whip up this Honey Almond Baked Brie in a matter of minutes!\n\nBake some brie in the oven and top with chopped Sunkist premium almonds, which come dry roasted with a light sprinkling of salt. Add some rosemary for an herbaceous note, as well as a squiggle of honey for some sweetness. Add these ingredients to your cart the next time you shop at #TheMarketplace, and make this quick, easy, and sophisticated dip!\n\nMade with butter\n\nServing Time: 12 minutes\nYield: 2-3 servings\n\nIngredients\n\n1 pc. Brie cheese \n2 sprigs rosemary \n¼ cup honey \n¼ cup Sunkist Almonds, chopped \n\nProcedure\n\n1. Preheat oven to 180°C. \n2. Place Brie in a baking tray. Top with rosemary, honey and Sunkist Almonds. Bake for 8-10 minutes, or until almonds are toasted and cheese is softened. \n3. Serve with crostini or crackers. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Sunkist"
@@ -117,7 +117,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "SNACK FEST",
+    "campaign": "Snack Festival",
     "caption": "Lightly salted and full of flavor, Oishi’s Grab Nuts in Roasted Almond are the perfect snack to munch on. Make sure to have one in handy at home, in the office, or in your bag!\n\nOishi’s Grab Nuts in Roasted Almond is available in #TheMarketplace, along with other variants to choose from!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Oishi"
@@ -136,7 +136,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SNACK FEST",
+    "campaign": "Snack Festival",
     "caption": "Looking for another way to enjoy Delimondo Corned Beef? Have it as a Cheesy Corned Beef Caldereta Dip! The Delimondo Corned Beef Caldereta is the perfect pick for this cheesy dip as it provides the spicy, tomato-forward flavors of the Filipino classic. Spice it up with bell peppers, garlic, and onions, before broiling with cheese.\n\nGrab a can or two of Delimondo the next time you shop at #TheMarketplace and tell us how you like this dip in the comments section!\n\nServing Time: 12 minutes\nYield: 3-5 servings\n\nIngredients\n\n1 tbsp. olive oil \n2 tsps. garlic, minced \n1 tbsp. red onions, minced\n¼ cup red bell peppers, diced\n¼ cup green bell peppers, diced\n2 (260g) cans Delimondo Corned Beef Caldereta \n¼ cup mozzarella cheese \n¼ cup cheddar cheese\n\nProcedure\n\n1. Preheat oven at 200°C, broil setting. \n2. Sauté garlic and red onions in olive oil until soft and fragrant. Mix in red and green bell peppers. Cook for 2 minutes. \n3. Mix in Delimondo Corned Beef Caldereta, and let simmer for 4-5 minutes, or until sauce has slightly thickened. \n4. Mix in mozzarella and cheddar cheese. Broil for 3-5 minutes, or until cheese is fully melted and browned. \n5. Serve with preferred chips or crackers. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Delimondo"
@@ -161,7 +161,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SNACK FEST",
+    "campaign": "Snack Festival",
     "caption": "While olives seem to be the more widely used ingredient in tapenade, have you tried it with mushrooms?\n\nUsing Mega Prime Pieces & Stems Mushrooms, this Mushroom Tapenade is admittedly more palate-friendly as it uses more mushrooms, but it still has that nice brininess thanks to the black olives. Super easy and classy, add this to your next dinner party spread. Find all the ingredients that you need for this recipe at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 4-5 servings\n\nIngredients\n\n2 tbsps. butter \n3 tsps. garlic, minced \n1 tbsps. white onions, minced \n1 (425g) can Mega Prime Pieces & Stems Mushrooms \n4 sprigs thyme \n¼ cup black olives, pitted and sliced\n¼ cup olive oil \n1 tbsp. red wine vinegar \nSalt and pepper to taste\n\nProcedure\n\n1. Sauté garlic and white onions in butter until soft and fragrant. Add in Mega Prime Pieces & Stems Mushrooms and thyme. Cook until lightly browned, about 3 minutes. \n2. Transfer to a blender. Add in black olives, olive oil and red wine vinegar. Pulse 3-5 times, or until well incorporated, but still coarsely-chopped. Season with salt and pepper to taste.\n3. Serve with crostini or preferred crackers. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Mega Prime"
@@ -186,7 +186,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SNACK FEST",
+    "campaign": "Snack Festival",
     "caption": "A tribute to the French novel by Alexander Dumas, a Monte Cristo sandwich is deep-fried in an egg batter and then dusted with powdered sugar — essentially a savory and sweet sandwich.\n\nUsing Marby Whole Wheat Bread, we created our own twist with the Monte Cristo sandwich by turning it into roll-ups filled with ham, cheese, and strawberry jam. Make this your new favorite breakfast staple by getting all the ingredients you need at #TheMarketplace!\n\nServing Time: 20 minutes\nYield: 6 pieces\n\nIngredients\n\n1 egg \n½ cup milk \n1 tbsp. white sugar\n6 slices Marby Whole Wheat Bread \n6 ham slices \n6 sandwich cheese slices \n3 tbsps. butter\n¼ cup powdered sugar\n3 tbsps. strawberry jam \n\nProcedure\n\n1. Whisk together egg, milk and sugar. Set aside. \n2. Slice off crusts of Marby Whole Wheat Bread. Flatted with a rolling pin. Place one slice of ham and one slice of sandwich cheese on each bread, then roll tightly to secure. \n3. Dip each roll-up into the egg mixture then fry in butter until nicely browned on all sides. \n4. Dust with powdered sugar, and serve with strawberry jam on the side. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Marby"
@@ -211,7 +211,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "SNACK FEST",
+    "campaign": "Snack Festival",
     "caption": "Reach out for a wholesome snack of Meadows Walnuts & Whole Almonds! Known to be nutrient-dense foods, did you know that walnuts and almonds have beneficial effects on weight loss, blood sugar control, and brain and heart health? Yup, it’s true!\n\nStock up on Meadows products and other delicious and healthy snacks at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Meadows"
@@ -230,7 +230,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SNACK FEST",
+    "campaign": "Snack Festival",
     "caption": "This Whipped Feta with Pistachio Pesto made with Wonderful Pistachios might just be your next favorite snack dip!\n\nPistachios, compared to pine nuts, provide a buttery taste to the pesto, while the tanginess from the whipped feta balances the flavors perfectly. Serve with your favorite water crackers, breadsticks, and more! Find all the ingredients you need at #TheMarketplace!\n\nServing Time: 18 minutes\nYield: 3-5 servings\n\nIngredients\n\n(For the Pistachio Pesto)\n⅓ cup Wonderful Pistachios\n2 cups basil leaves \n½ cup extra virgin olive oil \n¼ cup parmesan cheese \n1 tbsp. lemon juice\n1 tbsp. garlic, chopped  \nSalt and pepper to taste \n\n(For the Whipped Feta)\n1 (225g) block feta cheese\n¾ cup Greek yoghurt \n2 tbsps. extra virgin olive oil \n\nProcedure\n\n1. Preheat oven to 175°C,. Roast Wonderful Pistachios for 8 minutes. Let cool. \n2. Blend together roasted Wonderful Pistachios, basil, extra virgin olive oil, parmesan cheese, lemon juice and garlic. Season with salt and pepper to taste. Set aside. \n3. Blend together feta cheese, Greek yoghurt and olive oil until smooth. Season with salt and pepper. \n4. Top whipped feta with pistachio pesto. Serve with preferred crackers. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Wonderful"
@@ -255,7 +255,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "SNACK FEST",
+    "campaign": "Snack Festival",
     "caption": "Always make sure that you have a box of No Brand’s Maple Cookies stocked in your pantry — goes excellently with your morning (or afternoon) coffee, or even when you’re feeling like munching on something mildly sweet.\n\nFind No Brand products, along with a wide selection of other Korean and international snacks, at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "No Brand"

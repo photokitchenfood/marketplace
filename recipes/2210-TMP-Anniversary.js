@@ -10,7 +10,7 @@ const TMP_ANNIVERSARY_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "ANNIVERSARY",
+    "campaign": "TMP Anniversary",
     "caption": "The same Magnum ice cream you love — including the chocolate crackle — in pint form, is available at #TheMarketplace. The Magnum ice cream pint in almond comes with velvety vanilla ice cream, thick chocolate shards, and almond pieces, all encased in the signature Magnum Belgian chocolate shell. Perfect with everything!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "Magnum"
@@ -29,7 +29,7 @@ const TMP_ANNIVERSARY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "ANNIVERSARY",
+    "campaign": "TMP Anniversary",
     "caption": "This Caramel Apple Crisp a la Mode takes the classic dessert into new heights with the addition of Nestlé Temptations Extra Creamy Vanilla ice cream, which you can find at #TheMarketplace!\n\nAutumn flavors of apple, cinnamon, and brown sugar come together in this comforting dessert that feels like a warm hug with every bite. Thanks to the Nestlé ice cream for the added indulgence!\n\nServing Time: 1 hour \nYield: 3-4 servings\n\nIngredients\n\nTopping:\n½ cup rolled oats \n½ cup all-purpose flour\n¼ cup brown sugar \nPinch of salt \n½ tsp. cinnamon\n½ cup cold butter, cubed\n\nFilling:\n2 tbsps. cornstarch \n3 tbsps. honey \n3 tbsps. brown sugar \n½ tsp. cinnamon \n1 tsp. salt\n1 tbsp. lemon juice\n1 tbsp. Vanilla\n5 Granny Smith apples, diced\n\n3 scoops Nestlé Temptations Extra Creamy Vanilla Ice Cream\n\nProcedure\n\n1. Preheat oven to 275C. \n2. Combine oats, flour, sugar, salt and cinnamon. Mix in cold butter cubes with a fork, or by pressing butter into the powder mix with your hands until sandy crumbs form. Set aside in the chiller. \n3. Whisk together cornstarch, honey, sugar, cinnamon, salt, lemon juice and vanilla. Add in apples, then toss to coat well. \n4. Transfer to a greased baking dish, then top with oat crumbs. Bake for 40-45 minutes, or until apples are bubbling and topping is golden brown. \n5. Serve with Nestlé Temptations Extra Creamy Vanilla Ice Cream. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "Nestlé Temptations"
@@ -54,7 +54,7 @@ const TMP_ANNIVERSARY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "ANNIVERSARY",
+    "campaign": "TMP Anniversary",
     "caption": "While Cacio e Pepe has become one of the most sought-after pastas, here’s a recipe for its pizza cousin. Made with Emborg Mozzarella Shredded Cheese and pecorino cheese, this Cacio e Pepe Pizza can be prepared in less than 30 minutes!\n\nHead over to #TheMarketplace today, grab the ingredients you need for this recipe, and whip this up for your next meal. Enjoy!\n\nServing Time: 18 minutes\nYield: 1 10-inch pizza\n\nIngredients\n\n1 tbsp. whole peppercorns\n1 10-inch pizza crust, store-bought\n¼ cup olive oil \n1 cup Emborg Mozzarella Shredded Cheese\n½ cup pecorino cheese\nSea salt to taste\n\nProcedure\n\n1. Toast peppercorns in a dry pan for 2-3 minutes. Transfer to a mortar and pestle, then crush into coarse flakes. \n2. Preheat oven to 200C. \n3. Brush pizza crust with 3 tbsps. olive oil, then top with Emborg Mozzarella Shredded Cheese, pecorino cheese and pepper. \n4. Bake for 8-10 minutes, or until cheese is bubbly and crust is golden. \n5. Remove from the oven, then season with sea salt and drizzle with remaining olive oil. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "Emborg"
@@ -79,7 +79,7 @@ const TMP_ANNIVERSARY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "ANNIVERSARY",
+    "campaign": "TMP Anniversary",
     "caption": "There’s something so utterly comforting about biting into soft, fluffy mantou buns. In this recipe for BBQ Liempo Mantou, we added a Pinoy twist to the beloved Asian buns by substituting the usual barbecued pork for Purefoods Pinoy BBQ Ala Liempo!\n\nSmoky, porky flavors paired with a sweet fluffy bun…what’s there to not love? Find all the ingredients you need for this recipe at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 12 pieces\n\nIngredients\n\n2 tbsps. canola oil\n1 (500g) pack Purefoods Pinoy BBQ Ala Liempo\n1 cup peanuts, chopped \n1 cup cilantro leaves, finely chopped\n3 red chilis chopped \n12 pcs. mantou buns, steamed\n¾ cup mayonnaise \n1 cup cucumber slices\n\nProcedure\n\n1. Preheat a grill pan with canola oil over medium heat. Grill Purefoods Pinoy BBQ Ala Liempo until nicely charred on both sides and warmed through about 3 minutes per side. \n2. Combine peanuts, cilantro and chili. Drizzle this all over liempo, then slice liempo into squares that will fit into the mantou buns. \n3. Spread some mayonnaise inside each mantou bun, then fill with cucumber slices and 1-2 pcs. of Purefoods Pinoy BBQ a la Liempo. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "Purefoods"
@@ -104,7 +104,7 @@ const TMP_ANNIVERSARY_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "ANNIVERSARY",
+    "campaign": "TMP Anniversary",
     "caption": "Bringing the delightful fragrance of lavender and vanilla indoors, Glade Automatic Spray is your home’s newest best friend. Designed to complement the décor of any room, this home essential instantly revitalizes and rejuvenates any space. Find Glade products, along with other household essentials, at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "Glade"
@@ -123,7 +123,7 @@ const TMP_ANNIVERSARY_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "ANNIVERSARY",
+    "campaign": "TMP Anniversary",
     "caption": "Shower times are sacred moments of healing, cleansing, and renewal. It’s important to immerse in a relaxing moment filled with rejuvenation and replenishing scents.\n\nThe next time you find yourself at #TheMarketplace, treat yourself to some relaxation in a bottle by grabbing some Balnea Milk & Honey Body Wash and enjoying the silky indulgence it offers while cleansing your body.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "Balnea"
@@ -142,7 +142,7 @@ const TMP_ANNIVERSARY_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "ANNIVERSARY",
+    "campaign": "TMP Anniversary",
     "caption": "Another product from Woolworths, exclusively available at #TheMarketplace, is Strike Floor Cleaner in Mountain Splash. This alpine scented cleanser is tough on germs, making cleaning your home’s floors quick, easy, and with a brillant shine to finish.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "Woolworths"
@@ -161,7 +161,7 @@ const TMP_ANNIVERSARY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "ANNIVERSARY",
+    "campaign": "TMP Anniversary",
     "caption": "Love Caesar salad? Then make this Caesar Pasta Salad at home and add a filling bite to your favorite green mix! Having this alone can satisfy both salad and pasta cravings, so it definitely satisfies two cravings at once.\n\nUsing Woolworths Macaroni Pasta, add a bit more of the dressing to coat each noodle and balance it out with the salad greens. Find Woolworths products exclusively at #TheMarketplace.\n\nServing Time: 25 minutes\nYield: 3-4 servings\n\nIngredients\n\n100g Woolworths Macaroni Pasta \n3 anchovy fillets \n5 cloves garlic, minced \n2 tbsps. dijon mustard\n3 egg yolks \n2 tbsps. worcestershire sauce \n3 tbsps. lemon juice \n¾ cup olive oil \n3 tbsps. parmesan cheese \nSalt and pepper to taste\n4 cups romaine lettuce leaves, chopped\n1 cup croutons\n½ cup parmesan shavings \n\nProcedure\n\n1. Boil Woolworths Macaroni Pasta in heavily salted water, then cook according to package instructions. Set aside and let cool. \n2. Mash together anchovies, garlic and some rock salt. Once pasty in texture, whisk in egg yolks, worcestershire sauce and lemon juice. Slowly stream in olive oil while whisking continuously to emulsify the dressing. Mix in parmesan cheese, then season with salt and pepper to taste. \n3. In a large bowl, toss together cooked Woolworths Macaroni Pasta, romaine lettuce, croutons and caesar dressing. \n4. Top with parmesan shavings. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "Woolworths"
@@ -186,7 +186,7 @@ const TMP_ANNIVERSARY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "ANNIVERSARY",
+    "campaign": "TMP Anniversary",
     "caption": "Impress your guests by crafting this sophisticated Honey Roasted Pear Mocktail at home with Meadows 100% Pure Australian Honey!\n\nAll this beverage takes is a bit of patience and a whole lot of love. Because it’s a mocktail, it doesn’t contain alcohol, but feel free to add a whisper of liquor if the occasion asks for it. Meadows products are exclusively available at #TheMarketplace, along with other international labels that you won’t find in other groceries. Head over today!\n\nServing Time: 40 minutes\nYield: 2 servings\n\nIngredients\n\n1/4 cup Meadows 100% Pure Australian Honey\n1 tsp. vanilla\n¼ tsp. cinnamon\n⅛ tsp. nutmeg\n3 Bartlett pears, quartered \n¼ cup water\n2 cups sparkling apple juice\n2 sprigs thyme\n\nProcedure\n\n1. Preheat oven to 200C. \n2. Whisk together Meadows 100% Pure Australian Honey, vanilla, cinnamon and nutmeg. Brush this all over the pears, then roast for 25 minutes. \n3. Set aside 2 honey-roasted-pear quarters for garnish, then remove the seeds from the rest and transfer to a blender, along with water. Puree until smooth. Mix in sparkling apple juice. \n4. Add 1 honey-roasted pear in each serving glass with ice, then fill with the mocktail. Garnish each with a sprig of thyme.  \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "Meadows"
@@ -211,7 +211,7 @@ const TMP_ANNIVERSARY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "ANNIVERSARY",
+    "campaign": "TMP Anniversary",
     "caption": "Thanks to TikTok, corn is all the rage these days, and this versatile ingredient makes for a deliciously tasty pasta in this recipe for Mexican Street Corn Pasta Salad made with Casino Delices Lumache pasta shapes.\n\nMexican corn has become quite a popular appetizer in most restaurants, and with these fun-shaped pasta, it can be elevated into a simple and satisfying meal! Smoky, savory, and with a bit of tang, we won’t be surprised if this pasta salad sees many appearances on your dining table.\n\nServing Time: 20 minutes\nYield: 3-4 servings\n\nIngredients\n\n200g Casino Delices Lumache\n3 ears corn, husked\n¼ cup olive oil \nSalt and pepper to taste \n⅓ cup mayonnaise \n1 cup sour cream\nZest of 1 lime \n1 tbsp, lime juice\n½ tsp. smoked paprika powder\n⅛ tsp. cumin powder\n5 cloves garlic, grated \n½ cup cilantro, chopped \n1 red onion, thinly sliced \n\nProcedure\n\n1. Boil Casino Delices Lumache in heavily salted water, then cook according to package instructions. Drain, then coat with 2 tbsps. olive oil. \n2. Brush corn with remaining olive oil, then grill until nicely charred and tender, about 8 minutes. Shuck corn kernels when cool enough to handle. \n3. Whisk together mayonnaise, sour cream, lime zest, lime juice, paprika, cumin, garlic and cilantro. \n4. Toss together cooked Casino Delices Lumache, grilled corn kernels, red onions and dressing. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "Casino Delices"
@@ -236,7 +236,7 @@ const TMP_ANNIVERSARY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "ANNIVERSARY",
+    "campaign": "TMP Anniversary",
     "caption": "Interesting textures and refreshing flavors abound in this Lentil Salad made with Waitrose Walnut Oil. Don’t be intimidated by the sound of walnut oil as what it merely provides is a nice, sweet, and delicately nutty aroma to the salad.\n\nFeta cheese, garlic, Dijon mustard, lemon, and honey contribute to this salad’s myriad of flavors, making it a delicious side to have with meats, or enjoy it on its own on a meatless Monday. Find Waitrose products when you shop exclusively at #TheMarketplace!\n\nServing Time: 45 minutes\nYield: 3-4 servings\n\nIngredients\n\n1 cup lentils, rinsed\n3 cups water \n2 bay leaves \n2 carrots, sliced into chunks\n¾ cup Waitrose Walnut Oil \nSalt and pepper to taste\n3 cloves garlic, grated\n2 tbsps. Dijon mustard \n3 tbsps. honey \n3 tbsps. lemon juice \n1 cup feta cheese, crumbled \n½ cup flat leaf parsley, chopped\n\nProcedure\n\n1. Preheat oven to 180C. \n2. Combine lentils, water and bay leaves in a saucepan, then bring to a boil. Reduce heat, then simmer for 25 minutes. Drain excess liquid.\n3. Coat carrots with ¼ cup Waitrose Walnut Oil, salt and pepper. Roast for 12-15 minutes, or until caramelized and tender. \n4. Whisk together garlic, dijon mustard, honey and lemon juice. Stream in remaining Waitrose Walnut Oil while whisking continuously to emulsify. \n5. In a bowl, toss together lentils, roasted carrots, feta cheese and parsley with the dressing. Serve extra dressing on the side. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "Waitrose"
@@ -261,7 +261,7 @@ const TMP_ANNIVERSARY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "ANNIVERSARY",
+    "campaign": "TMP Anniversary",
     "caption": "Turn Oven Roast Pork Belly Slices into a handy sandwich with the help of some veggies and baguette!\n\n#TheMarketplace is also home to rotisserie products that you can easily enjoy and get creative with! Add your favorite ingredients to this Roast Pork Belly Sandwich, dress it up however way you want, and make it your own. Share your sandwich ideas in the comments section below!\n\nServing Time: 12 minutes\nYield: 2 servings\n\nIngredients\n\n½ cup mayonnaise \n2 tbsps. hoisin sauce\n1 red chili, chopped \n150g Oven Roast Pork Belly slices\n1 full-sized baguette\n½ cup romaine lettuce leaves \n½ cup carrot strips \n½ cup cucumber slices\n\nProcedure\n\n1. Combine mayonnaise, hoisin and red chili. \n2. Reheat Oven Roast Pork Belly slices in an oven toaster for 7 minutes. \n3. Slice baguette in half to make 2 medium-sized bread rolls, then slice each again horizontally to open up. Toast for 3 minutes. \n4. Spread a layer of the hoisin-mayo inside each baguette half, then fill with lettuce, carrots, cucumber and Oven Roast Pork Belly slices. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "! Generic"

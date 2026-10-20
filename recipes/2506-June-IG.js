@@ -9,7 +9,7 @@ const JUNE_IG_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "JUNE IG",
+    "campaign": "June IG",
     "caption": "Craving something golden, crispy, and ridiculously easy to make? Emborg’s line of pre-fried potato favorites has your snack game sorted. \n\nFrom rustic Potato Wedges that are fluffy on the inside to crinkly, crunchy Crinkle Cut Fries made with European potatoes, there’s a shape (and crunch) for every mood. Keep it classic with Straight-Cut, or go full crispy with the extra-thin Shoestrings.\n\nAll ready to cook, all made with real, quality potatoes. Find them now at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Emborg"
@@ -28,7 +28,7 @@ const JUNE_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "JUNE IG",
+    "campaign": "June IG",
     "caption": "Beat the heat with something cool, crisp, and downright delightful. This Apple Pie Sparkler Mocktail made with chilled Ceres 100% Apple Fruit Juice is sweet, spiced, and fizzy in all the right ways.\n\nWith a cinnamon-sugar rim, juicy apple slices, and a splash of lemon, it’s the kind of drink that turns an ordinary afternoon into something special. Pick up Ceres products at The Marketplace and keep your summer sipping light, bright, and effortlessly refreshing.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Ceres"
@@ -53,7 +53,7 @@ const JUNE_IG_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "JUNE IG",
+    "campaign": "June IG",
     "caption": "Treat yourself (or someone you like a whole lot) to a sweet little pick-me-up with Monde Cream Puffs.\n\nWhether you go for the Custard Cream or Chocolate Cream filled variant, each puff is a perfect bite of crisp, melt-in-the-mouth pastry wrapped around a rich, velvety center. They’re great for sharing, but we won’t judge if you keep them all to yourself.\n\nFind them at The Marketplace! They’re ideal for tea time, snack time, or anytime you want to add a little bite of joy to your day.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Monde"
@@ -72,7 +72,7 @@ const JUNE_IG_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "JUNE IG",
+    "campaign": "June IG",
     "caption": "Scoop up something extra indulgent with Magnolia Gold Label Vanilla Collection ice creams — because everyday desserts deserve a little treat-yourself moment.\n\nGo bold with Affogato, where rich coffee ice cream meets a smooth espresso swirl. Craving that sweet-salty combo? The Vanilla Salted Caramel Sundae hits the spot with golden caramel ribbons and a hint of salt. And for something classic and cozy, Cookie Dough is loaded with creamy vanilla and plenty of chewy chocolate chip chunks.\n\nAll three are waiting at The Marketplace, and they’re totally worth making a little extra space in your freezer for.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Magnolia"
@@ -91,7 +91,7 @@ const JUNE_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "JUNE IG",
+    "campaign": "June IG",
     "caption": "Here’s a fresh take on a classic that’s perfect for warm nights and easy entertaining.\n\nThis Mango Kesong Puti Caprese swaps out mozzarella for creamy Carmen’s Best Kesong Puti and adds sweet, juicy mango for a tropical twist. Layered with basil and finished with a balsamic drizzle, it’s light, flavorful, and guaranteed to impress your dinner guests without breaking a sweat. Serve it up at your next summer gathering, and pick up Carmen’s Best Kesong Puti at The Marketplace while you’re at it.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Carmen's Best"
@@ -116,7 +116,7 @@ const JUNE_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "JUNE IG",
+    "campaign": "June IG",
     "caption": "Here’s a quick and delightful bite that works for merienda or as an easy party starter.\n\nThis Bridel Apple Walnut Toast takes under 15 minutes to make and delivers the perfect mix of creamy, crisp, and crunchy — thanks to Bridel Cheese Triangles, fresh apple slices, chopped walnuts, and a sweet drizzle of honey.\n\nTopped with a sprinkle of thyme, it’s a no-fuss dish that feels fresh and thoughtful. Find Bridel Cheese Triangles at The Marketplace and keep this one in rotation all season long.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Bridel"

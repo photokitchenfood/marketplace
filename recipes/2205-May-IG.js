@@ -10,7 +10,7 @@ const MAY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "MAY IG & FB",
+    "campaign": "May IG",
     "caption": "An easy, make-ahead recipe for those mornings when you need a grab-and-go breakfast, these No-Bake Cereal Bars made with Nestlé Gold Honey & Berries are gourmefied with the addition of peanut butter, cranberries, and white chocolate chips.\n\nPrepare them a day in advance, store them in an airtight container, and enjoy them as you start your day or as an afternoon pick-me up. Find all your favorite breakfast essentials and more only at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 24 bars\n\nIngredients\n\n1 cup light corn syrup \n1 cup white sugar \n1 cup peanut butter \n1 tsp. vanilla \n4 cups Nestlé Gold Honey & Berries\n½ cup cranberries\n¼ cup white chocolate chips\n\nProcedure\n\n1. Line a 10x15” baking pan with parchment. \n2. In a saucepan, combine corn syrup and white sugar. Let boil. Once sugar is fully melted, mix in peanut butter and honey. \n3. Transfer Nestlé Gold Honey & Berries into the lined baking ban. Top with cranberries and white chocolate chips. \n4. Pour corn syrup mixture all over the cereal, making sure to coat everything. \n5. Let set in the chiller for 12-15 minutes. \n6. Once firm, slice into bars. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nestlé"
@@ -35,7 +35,7 @@ const MAY_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "MAY IG & FB",
+    "campaign": "May IG",
     "caption": "If you’re trying to cut down on your daily fat intake, grab a bottle of Filippo Berio’s Extra Virgin Olive Oil spray! Available at #TheMarketplace, a few spritzes are enough to coat your pan for light cooking. This way, you get a better gauge of how much oil you use and consume! \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Filippo Berio"
@@ -54,7 +54,7 @@ const MAY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "MAY IG & FB",
+    "campaign": "May IG",
     "caption": "This Beef & Young Corn Veggie Stir-Fry is a classic Asian dish that is perfect for packed lunches and daily meals. Because it has a properly portioned amount of protein and vegetables, all you need is the appropriate serving of rice to make it a complete meal! \n\nFind all the ingredients you need, including Mega Prime Whole Young Corn, when you shop at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 2-3 servings\n\nIngredients\n\n250g beef sirloin, sliced into strips \nSalt and pepper, to taste\n2 tbsps. vegetable oil \n3 cloves garlic, minced\n1 red onion, chopped\n1 cup snow peas, ends trimmed \n1 cup bell peppers, sliced \n1 cup Mega Prime Whole Young Corn, sliced \n3 tbsps. soy sauce\n3 tbsps. oyster sauce\n1 tbsp. shaoxing wine\n1 tbsp. cornstarch slurry \n1 tbsp. sesame oil\n\nProcedure\n\n1. Pat-dry beef strips, then season with salt and pepper. \n2. Place a large pan or wok over high heat, then let oil heat through. Once smoking, add in beef and stir-fry until nicely browned. Set aside beef while retaining oil in the pan. \n3. In the same pan, sauté onions and garlic until soft. Add in snow peas, bell peppers and Mega Prime Whole Young Corn. Stir-fry for 2-3 minutes, or until veggies are tender. \n4. Add back beef strips, then mix in soy sauce, oyster sauce shaoxing wine and cornstarch slurry. Cook until sauce is slightly thickened and everything is well coated. \n5. Turn off the heat, then finish off with sesame oil.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Mega Prime"
@@ -79,7 +79,7 @@ const MAY_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MAY IG & FB",
+    "campaign": "May IG",
     "caption": "With its instant knockout formula that kills pests with just one spray, leave it to Baygon Cockroach Killer to keep your home squeaky clean, protected, and roach-free! Find Baygon products and other pest control items at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Baygon"
@@ -98,7 +98,7 @@ const MAY_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MAY IG & FB",
+    "campaign": "May IG",
     "caption": "Dentist-recommended Sensodyne toothpaste has always been a popular choice for those experiencing oral sensitivity. Clinically proven to relieve pain for sensitive teeth, Sensodyne also fights cavities and protects the mouth. Grab some Sensodyne at #TheMarketplace, along with other oral hygiene needs!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Sensodyne"
@@ -117,7 +117,7 @@ const MAY_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "MAY IG & FB",
+    "campaign": "May IG",
     "caption": "Made better for you and for the planet, #unMEAT is a 100% plant-based protein made with non-gmo soy. It’s preservative-free and high in fiber and protein. #unPIZZA is also available for those meat pizza cravings…without the meat! Find #unMEAT products and other meat alternatives at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "unMEAT"
@@ -136,7 +136,7 @@ const MAY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "MAY IG & FB",
+    "campaign": "May IG",
     "caption": "Inspired by the popular Japanese dessert, this recipe for Japanese Coffee Jelly uses Macro Organic Fairtrade Ground Coffee, which you can find at #TheMarketplace. Once brewed, combine with some sugar, gelatin, whipped cream, and cocoa powder. It’s definitely a refreshing way to cool down with a caffeinated touch this summer!\n\nServing Time: 2 hours\nYield: 2-3 servings\n\nIngredients\n\n2 cups brewed Macro Organic Fairtrade Ground Coffee \n2 tbsps. sugar \n¼ cup room temperature water\n1 tbsp. gelatin powder \n1 cup whipped cream\nCocoa powder for dusting\n\nProcedure\n\n1. In a saucepan, combine brewed Macro Organic Fairtrade Ground Coffee and sugar. Bring to a simmer. \n2. Dissolve gelatin powder into the water, then whisk into the coffee mixture. \n3. Transfer to an 8” baking dish, then let set in the chiller for at least 1 hour. \n4. Once set, cut into cubes. Transfer to serving glasses, then top with whipped cream and cocoa powder. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -161,7 +161,7 @@ const MAY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "MAY IG & FB",
+    "campaign": "May IG",
     "caption": "In this recipe for Blueberry Cream Cheese French Toast, the irresistible combination of blueberries and cream cheese is cleverly turned into a delicious breakfast that’s worth waking up early for!\n\nThe secret to this recipe is the use of El Corte Inglés Blueberry Jam, which is made from the freshest and juiciest Spanish blueberries. The sweetness of the berries contrasted with the tangy cream cheese, sandwiched in between cinnamon-sugar French toast is a match made in heaven. Find all the ingredients you need for this recipe at #TheMarketplace!\n\nServing Time: 20 minutes\nYield: 8 servings\n\nIngredients\n\n2 eggs\n1 cup milk \n1 tsp. cinnamon \n1 tsp. vanilla \n2 tbsps. brown sugar \n¼ cup butter\n8 slices sandwich bread \n1 bar cream cheese, softened \n2 cups El Corte Inglés Blueberry Jam \n3 tbsps. honey\nPowdered sugar for dusting\n\nProcedure\n\n1. In a bowl, whisk together eggs, milk, cinnamon, vanilla and brown sugar. \n2. Melt about ½ a tbsp. of butter in a frying pan. \n3. Briefly dip each bread into the egg mixture, then fry in the melted butter until golden brown on both sides. Repeat for all bread slices. \n4. Combine cream cheese, 1 cup blueberry El Corte Inglés Blueberry Jam and honey. Top 4 slices of French Toast with the cream cheese mixture, then with blueberry jam. Cover each with another slice of French Toast. \n5. Slice into triangles, then dust with powdered sugar. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "El Corte Inglés"
@@ -186,7 +186,7 @@ const MAY_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "MAY IG & FB",
+    "campaign": "May IG",
     "caption": "Delicious, light, and good for your gut, Yobick prebiotic yoghurt drink contains a lot of benefits. Apart from promoting healthy digestion, it also strengthens the immune system and reduces cholesterol, too. The fragrance of Sakura adds a Japanese touch to this refreshing beverage. Head over to #TheMarketplace and grab some bottles of Yobick today!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Yobick"
@@ -205,7 +205,7 @@ const MAY_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "MAY IG & FB",
+    "campaign": "May IG",
     "caption": "Climate change is an ongoing battle, and as individuals, small steps can make a huge difference.\n\nThe next time you head to #TheMarketplace, consider swapping your regular plastic straws to biodegradable ones such as these by Cheers. Odorless and taste-free, you can be assured that these straws won’t turn soggy quickly.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Cheers"
@@ -224,7 +224,7 @@ const MAY_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MAY IG & FB",
+    "campaign": "May IG",
     "caption": "Apart from relieving the pain in sensitive teeth, dentist-recommend Sensodyne also protects from cavities and bacteria. The new Sensodyne daily repair toothpaste goes deep into the gums and eases any sensitivity, while ensuring a well-protected mouth. Find Sensodyne at #TheMarketplace, along with other oral hygiene needs!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Sensodyne"
@@ -243,7 +243,7 @@ const MAY_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "MAY IG & FB",
+    "campaign": "May IG",
     "caption": "Busy day? Don’t let that stop you from enjoying a filling and delicious meal! Available at #TheMarketplace, check out our selection of scrumptious, ready-to-eat delights goods such as Gourmet To Go quiches and other baked savory goods that come piping hot upon serving. Your tummy will thank you later.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -262,7 +262,7 @@ const MAY_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "MAY IG & FB",
+    "campaign": "May IG",
     "caption": "An essential in every home, Purefoods Heat & Eat meal packs provide hearty, home-cooked meals in the most convenient format.\n\nFilipino favorites such as Pork Binagoongan make it to the table in minutes, ready to be enjoyed. Just remember to cook or heat the rice! Explore the different variants of Purefoods Heat & Eat at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Purefoods"
@@ -281,7 +281,7 @@ const MAY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "MAY IG & FB",
+    "campaign": "May IG",
     "caption": "For your next home café project, try making a dozen Strawberry Jam Danish Pastries using El Corte Inglés Strawberry Jam, available at #TheMarketplace!\n\nBecause the jam is made of premium, juicy Spanish strawberries, it balances out the rich, buttery puff pastry, resulting to a batch of bakes that’s oozing with natural flavors. We can’t think of a better summer pastry. #TheMarketplace is home to a lot of international jam and preserve brands. Check them out on your next visit!\n\nServing Time: 45 minutes\nYield: 12 pieces\n\nIngredients\n\nFlour for dusting\n2 sheets puff pastry\n2 cups El Corte Inglés Strawberry Jam \n1 egg yolk \n¼ cup heavy cream \n½ cup brown sugar \n¼ cup strawberries, sliced \n\nProcedure\n\n1. Preheat oven to 175°C. \n2. Dust a clean surface with some flour. Roll out puff pastry until ¼” thick, then divide into squares.\n3. Add a dollop of El Corte Inglés Strawberry Jam into each square, while leaving a border of puff pastry blank.\n4. Whisk together egg yolk and heavy cream. Brush this mixture into the puff pastry borders, then sprinkle with brown sugar on top. \n5. Bake for 15-20 minutes, or until puff pastry is golden brown. \n6. Let cool, then top each with a strawberry slice. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "El Corte Inglés"
@@ -306,7 +306,7 @@ const MAY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "MAY IG & FB",
+    "campaign": "May IG",
     "caption": "Have friends coming over? Impress them with this Brie and Olive Tapenade Bruschetta made with Casino Délices Green Olive Tapenade Sauce and buttery pistachios!\n\nPrepared in less than 15 minutes, lay the bruschetta out on a serving platter, coupled with some jamón, manchego, and a pitcher or two of sangria for a fun and relaxed tapas night at home.\n\nIn the need of gourmet items? Head over to #TheMarketplace and fill your cart with the ingredients for this recipe and more!\n\nServing Time: 10 minutes\nYield: 4-5 servings\n\nIngredients\n\n1 baguette, sliced \n3 tbsps. olive oil \n1 round brie, sliced\n1 bottle Casino Délices Green Olive Tapenade Sauce\n¼ cup pistachios, chopped \n\nProcedure\n\n1. Brush baguette sliced with olive oil. Top with brie slices, then toast until crisp and golden brown.\n2. Add a dollop of Casino Délices Green Olive Tapenade Sauce on each, then top with pistachios.\n3. Garnish with rosemary sprigs.  \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Casino"
@@ -331,7 +331,7 @@ const MAY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "MAY IG & FB",
+    "campaign": "May IG",
     "caption": "Known as one of the most traditional Korean beverages, citron tea is known for its numerous benefits such as relieving headaches, calming coughs and sore throats, as well as being an excellent source of Vitamin C.\n\nFresh, sweet, and with a unique citrus aroma, enjoy your next serving of Nokchawon Honey Citron Tea with the addition of some mint and ginger to spice things up and add more character to every sip. Find Nokchawon Honey Citron Tea, along with other Korean products, at #TheMarketplace!\n\nServing Time: 5 minutes\nYield: 3-4 servings\n\nIngredients\n\n⅓ cup Nokchawon Honey Citron Tea \n5 cups hot water\n4 sprigs mint \n4 slices ginger \n\nProcedure\n\n1. Dissolve Nokchawon Honey Citron Tea in water. \n2. Combine with mint and ginger. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nokchawon"

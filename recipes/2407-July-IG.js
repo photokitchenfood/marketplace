@@ -10,7 +10,7 @@ const JULY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "JULY IG/FB",
+    "campaign": "July IG",
     "caption": "Add a cheesy slice (literally) to your BLT and change the way you eat the iconic sandwich forever, thanks to Eden Cheddar Slices. You actually can’t go wrong by adding cheese to any savory sandwich, but this one’s a game-changer, given the crisp slices of bacon and fresh vegetables. This one is truly a winner. Grab a pack of Eden Cheddar Slices on your next visit to #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Eden"
@@ -35,7 +35,7 @@ const JULY_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "JULY IG/FB",
+    "campaign": "July IG",
     "caption": "Craving a quick snack but taking it easy on the meat? UnMeat Dumplings, such as Gyoza, Siomai, and Siopao, are now available at #TheMarketplace! Easy to heat up and enjoy, these tasty morsels are plant-based but don’t compromise on the meaty flavors. Try them out!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "UnMeat"
@@ -54,7 +54,7 @@ const JULY_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "JULY IG/FB",
+    "campaign": "July IG",
     "caption": "Do you have enough Kleenex Bathroom Tissue stocked up? If not, head over to #TheMarketplace and refill your stash! A trusted brand in its category, you can count on Kleenex to be extra gentle on the skin and extra sturdy at the same time with its 3-ply tissue rolls that are extremely reliable.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Kleenex"
@@ -73,7 +73,7 @@ const JULY_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "JULY IG/FB",
+    "campaign": "July IG",
     "caption": "Flies, bugs, and pests — begone! Baygon Multi-Insect Killer ensures that no insects make a nuisance in your precious home. Water-based and guaranteeing 100% knockdown, it’s also safe for indoor plants when used correctly. Available at #TheMarketplace, along with other essentials to keep your home clean and pest-free.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Baygon"
@@ -92,7 +92,7 @@ const JULY_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "JULY IG/FB",
+    "campaign": "July IG",
     "caption": "There’s always a cheese for every occasion, and Perfect Italiano Cheese, available at #TheMarketplace, leaves you spoiled for choice by their many cheese options for you to choose from. Whether it’s for pasta, pizza, or Mexican food, Perfect Italiano has the perfect cheese for you.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Perfect Italiano"

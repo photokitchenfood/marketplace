@@ -10,7 +10,7 @@ const CANADIAN_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "CANADIAN FESTIVAL",
+    "campaign": "Canadian Festival",
     "caption": "Ever had a cheese sauce with your steak? Trust us, it’s delicious! That’s because we used Gorgonzola, the blue cheese famous for its sharp taste and funky smell. This recipe tempers the cheese’s bold character with some cream, garlic and lemon, so it doesn’t cover up the meaty taste of our Canada Angus Beef Striploin Steak. Give this recipe a try if you want to surprise eaters with adventurous palates–they’re bound to enjoy this unlikely duo. \n\nServing time: 20-25 minutes\nYield: 1-2 servings\n\nIngredients\n1 slab Canada Angus Beef Striploin Steak (1-inch thick)\nSalt and pepper to taste \n2 tbsps. olive oil \n2 tbsps. butter \n2 cloves garlic \n1 sprig fresh thyme \nGORGONZOLA SAUCE:\n2 tbsps. butter \n2 cloves garlic, minced \n1 cup cream \n¼ cup gorgonzola cheese, crumbled\n1 tsp. lemon juice\nSalt and pepper to taste\n\nProcedure\nPat dry Canada Angus Beef Striploin Steak, then season with salt and pepper on both sides. \nPreheat a cast-iron pan over high heat, then add in olive oil. Once smoking, sear steak for 2-3 minutes, or until you achieve a nicely browned crust. Flip over, and reduce fire to medium heat, then add in butter, garlic and thyme. Baste for an additional 2-3 minutes, or until you reach desired doneness. For medium doneness, remove steak from the heat when it reaches an internal temperature of 130C. Let rest covered with foil for 5 minutes. \nMeanwhile, make the gorgonzola sauce. Sauté garlic in butter. Mix in cream and gorgonzola cheese, and cook until cheese has melted. Turn off the heat, then mix in lemon juice, and season with salt and pepper. \nServe steak with gorgonzola sauce. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "! Generic",
@@ -36,7 +36,7 @@ const CANADIAN_FESTIVAL_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "CANADIAN FESTIVAL",
+    "campaign": "Canadian Festival",
     "caption": "Every country has their favorite brand of potato chips. Covered Bridge is Canada’s. This is their original flavor, classic Sea Salt. It’s been their best-seller for years. \n\nThe secret to these beloved Canadian chips is they’re all-natural; there’s no preservatives here at all. They’re cooked the old fashioned way: sliced super thin, and fried in a hot kettle, with just a pinch of sea salt after straining for that traditional, homemade taste. \n\nOnce you’ve had a taste of these, you’ll want to keep bags of them stocked in your pantry. \n\nNow, there’s no need to go out to get some of these. Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "Covered Bridge"
@@ -55,7 +55,7 @@ const CANADIAN_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "CANADIAN FESTIVAL",
+    "campaign": "Canadian Festival",
     "caption": "Vegan pastries have the unfortunate reputation of being not as good as the traditional ones. Well, consider this an exception. This Vegan Chocolate-Almond Sheet cake was developed to satisfy anyone’s sweet tooth, regardless of dietary preferences.\nIt’s every bit as rich, moist and chocolatey as it looks, thanks to Natura Chocolate Almond Milk. This non-dairy milk substitute is free of cholesterol, lactose, and gluten, making it perfect for guests with strict dietary concerns. \nOf course, you can also just straight up drink this delicious almond milk, as it’s pretty light, and the sweetness hits just right. \n\nServing time: 1 hour and 30 minutes\nYield: 12-14 servings\n\nIngredients\nCAKE:\n1 cup Natura Chocolate Almond Milk \n1 tbsp. apple cider vinegar \n1 cup cake flour \n1 cup brown sugar \n¾ cup cocoa powder \n2 tsps. baking powder\n1 tsp. baking soda \n1 tsp. salt \n½ cup oil \n½ cup applesauce \n2 tsps. vanilla \n1 cup hot water\n\nFROSTING:\n½ cup vegan butter \n¾ cup cocoa powder \n3 cups powdered sugar \n2 tsps. salt\n⅓ cup Natura Chocolate Almond Milk \n\nProcedure\nPreheat oven to 175C. Grease an 11x17-inch sheet pan. \nCombine Natura Chocolate Almond Milk and apple cider vinegar, then let sit for 3 minutes to make vegan buttermilk.\nWhisk together flour, sugar, baking powder, baking soda and salt. To this, mix in oil, applesauce, vanilla and hot water. Whisk until just combined. \nPour chocolate-almond cake batter into the greased sheet pab, then bake for 20-25 minutes, or until a toothpick inserted in the middle comes out clean. Let cool completely before frosting. \nBeat together vegan butter, cocoa powder and vanilla until smooth. Mix in powdered sugar and salt. Slowly mix in Natura Chocolate Almond Milk. \nTop cooled Vegan Chocolate-Almond Cake with the chocolate frosting. \n\nLooking to restock your pantry with more flavors of Canada? Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "! Generic",
@@ -81,7 +81,7 @@ const CANADIAN_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "CANADIAN FESTIVAL",
+    "campaign": "Canadian Festival",
     "caption": "When you think of Canadian flavors, you’re likely thinking of Maple Syrup. It’s the country’s most beloved export, after all. And while you can never go wrong slathering this sweet and woody syrup on pancakes or French toast, it makes for a great addition to baked veggies too. \nDon’t believe us? Then give this Maple Roasted Squash Salad a try. We recommend can-Natur Sugar-free Maple Syrup, as it’s a versatile ingredient that’s gives that distinct maple flavor, without the heavy sweetness. \n\nServing time: 20 minutes\nYield: 2 servings\n\nIngredients\n¼ cup can-NATUR Sugar-free Maple Syrup\n1 tbsp. dijon mustard\n3 tbsps. olive oil \n1 tsp. paprika \nSalt and pepper to taste\n2 cups squash, diced\n3 cups mixed greens \n1 red apple, sliced \n½ cup walnuts, roasted \n½ cup feta cheese\n\nProcedure\nPreheat oven to 180C. Whisk together can-NATUR Sugar-free Maple Syrup, dijon mustard, olive oil, paprika, salt and pepper. \nCoat diced squash with the maple syrup dressing, then roast for 12-15 minutes, or until tender and caramelized. \nTo assemble, top mixed greens with maple roasted squash, apples, walnuts and feta cheese. \n\nOrder more delicious Canadian products  and groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "can-NATUR"

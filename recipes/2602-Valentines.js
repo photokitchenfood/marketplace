@@ -7,7 +7,7 @@ const VALENTINES_DATA = [
     "layoutCode": "V1",
     "layoutName": "Toblerone Cookie",
     "category": "RECIPE",
-    "campaign": "VALENTINES",
+    "campaign": "Valentines",
     "caption": "Some chocolates just know how to tug at the heart, and Toblerone is one of them. 💛🍫\n\nWith its honeyed crunch and unmistakable shape, it brings a little nostalgia to every bite, making these Toblerone Cookies feel especially right for Valentine’s Day. Soft at the center, lightly crisp at the edges and studded generously with melty Toblerone chunks, they’re finished with a pinch of flaky sea salt for that sweet-salty swoon. ✨🍪\n\nBake them for someone you love, or for yourself (the best kind of love, honestly)! Try the recipe at home and get everything you need from The Marketplace. 💖\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Toblerone"
@@ -30,7 +30,7 @@ const VALENTINES_DATA = [
     "layoutCode": "V2",
     "layoutName": "Malteser and Strawberry Cream Pie",
     "category": "RECIPE",
-    "campaign": "VALENTINES",
+    "campaign": "Valentines",
     "caption": "Light, crunchy, malt-centered and endlessly snackable, Maltesers have been stealing hearts since childhood. ❤️\n\nAnd today, they come crushed into the crust and scattered generously on top of this Malteser & Strawberry Cream Pie, balanced by clouds of whipped cream and soft pink strawberry filling. 🍓✨\n\nIt’s sweet without being too serious; nostalgic without trying too hard. Basically, it’s the kind of dessert you make when you want to say “I like you” without actually saying it. 💌 Serve this pie chilled, slice it slowly and let the sweet nothings do the talking. Find all the ingredients that you need at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Maltesers"
@@ -53,7 +53,7 @@ const VALENTINES_DATA = [
     "layoutCode": "V3",
     "layoutName": "Ferrero Rocher",
     "category": "OUT OF PACK",
-    "campaign": "VALENTINES",
+    "campaign": "Valentines",
     "caption": "When words fall short, gold-wrapped chocolates usually say it better, and that is why Ferrero Rocher is a Valentine’s classic for a reason: crisp hazelnut, smooth chocolate and that unmistakable little moment of indulgence. 💛🍫\n\nWhether it’s a sweet “thinking of you” or a full-on “be mine!”, pick up this icon for Valentine’s Day from The Marketplace! 🎁✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Ferrero Rocher"
@@ -70,7 +70,7 @@ const VALENTINES_DATA = [
     "layoutCode": "V4",
     "layoutName": "Chocolate Coated Cherries",
     "category": "RECIPE",
-    "campaign": "VALENTINES",
+    "campaign": "Valentines",
     "caption": "Sometimes romance is as simple as a cherry, a dip and a little chocolate magic. 🍒🍫\n\nThese Chocolate Coated Cherries turn a Valentine’s favorite into something playful and poppable, finished with Hershey’s Milk Chocolate Kisses — an icon of February gifting, love notes and sweet surprises. 💌✨\n\nGlossy chocolate, creamy centers, a sprinkle on top… just enough sweetness to say, “I made these for you!” 💕 Try the recipe at home and get everything you need from The Marketplace. 🛒💖💋\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Hershey's"
@@ -93,7 +93,7 @@ const VALENTINES_DATA = [
     "layoutCode": "V5",
     "layoutName": "Lindt Lindor Heart",
     "category": "OUT OF PACK",
-    "campaign": "VALENTINES",
+    "campaign": "Valentines",
     "caption": "Not every Valentine’s gift needs a grand speech, and the Lindt Lindor Heart keeps it simple with its smooth chocolate, a melt-in-the-mouth center, and a heart tin that feels familiar in the best way possible. ❤️🍫\n\nIt’s an easy yes for February gifting, whether you’re sharing or keeping a few for yourself. ✨ Pick one up from The Marketplace today! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Lindt"
@@ -110,7 +110,7 @@ const VALENTINES_DATA = [
     "layoutCode": "V6",
     "layoutName": "Cupid Heart Cupcakes",
     "category": "RECIPE",
-    "campaign": "VALENTINES",
+    "campaign": "Valentines",
     "caption": "This is the kind of Valentine’s treat you make together. These Cupid Heart Cupcakes turn baking into a hands-on, laugh-filled activity with frosting hearts, lining up sprinkles and finishing each one with a playful arrow made from Pocky Crushed Fruits Strawberry. 🍓\n\nA little time, a little mess and a whole lot of love go into these, which is exactly why they make such a meaningful gifts. 🧁 Make them with friends, family or someone special, and let the effort speak for itself. ❤️ Find everything you need at The Marketplace! 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Pocky"
@@ -133,7 +133,7 @@ const VALENTINES_DATA = [
     "layoutCode": "EAP1",
     "layoutName": "Balsamic Glazed Caprese Chuck Eye Steak",
     "category": "EAP",
-    "campaign": "VALENTINES",
+    "campaign": "Valentines",
     "caption": "This is where steak night meets Caprese comfort. 🥩🍅\n\nCanada Angus Beef Chuck Eye Steak is seared until deeply caramelized, then finished with a glossy balsamic glaze that brings just the right balance of sweet and tang. Add blistered cherry tomatoes, creamy mozzarella and fresh basil, and you’ve got a dish that’s rich yet bright: classic flavors, pulled together with confidence. ✨🌿\n\nCook it at home and pick up everything you need from The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Canada Angus Beef"

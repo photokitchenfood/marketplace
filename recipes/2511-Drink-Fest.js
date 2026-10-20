@@ -10,7 +10,7 @@ const DRINK_FEST_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "DRINK FEST",
+    "campaign": "Drink Fest",
     "caption": "A good michelada always brings the right mix of spice, zest, and refreshment; and this Spicy Heineken Michelada does exactly that. 🍺🔥\n\nWith Heineken’s crisp, clean flavor as the base, every sip gets a bright kick from tomato juice, hot sauce, lime, and a bold chili-lime rim. It’s the kind of drink that wakes up the palate and keeps the party rolling. 🌶️\n\nShake things up in your next gathering and pick up Heineken, along with all the ingredients you need for this recipe, at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Heineken"
@@ -35,7 +35,7 @@ const DRINK_FEST_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "DRINK FEST",
+    "campaign": "Drink Fest",
     "caption": "There’s something a little whimsical about this Caramel Stout Float… like a grown-up butterbeer with an extra kick. 🍺✨\n\nUsing Tiger Black Strong Beer as its base, this drink layers caramel, vanilla ice cream, and whipped cream into a sweet-salty, malty treat that’s perfect for winding down or kicking off the night.\n\nStir up a little magic the next time you’re in the mood for something fun and froth! Find Tiger Black Strong Beer and all the other ingredients you need for this drink at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Tiger"
@@ -60,7 +60,7 @@ const DRINK_FEST_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "DRINK FEST",
+    "campaign": "Drink Fest",
     "caption": "A classic chocolate martini is always a treat, but adding a bright splash of orange takes it somewhere even more special. 🍊🍫\n\nThis Chocolate Orange Martini blends Sula Chocolate Liqueur with vodka, fresh orange juice, and a hint of cinnamon for a drink that’s silky, citrusy, and ideal for cozy nights or holiday get-togethers. A little cocoa dusting on top pulls everything together beautifully.\n\nShake up a glass and bring a touch of chocolate-orange magic to your next celebration. ✨ You can find Sula Chocolate Liqueur and all the ingredients you need for this Chocolate Orange Martini at The Marketplace.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Sula"
@@ -85,7 +85,7 @@ const DRINK_FEST_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "DRINK FEST",
+    "campaign": "Drink Fest",
     "caption": "A Peach Moscato Fizz is one of those drinks that instantly lifts the mood: sweet, bubbly, and full of sunny flavors. 🍑✨\n\nFor this recipe, we used Fiorelli Moscato as it brings its signature fruity, floral notes to this mix, pairing beautifully with peach purée, basil, and a touch of syrup. The result is a glass that feels light, refreshing, and great for warm afternoons or festive evenings.\n\nFind Fiorelli Moscato and all the ingredients you need at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Fiorelli"
@@ -110,7 +110,7 @@ const DRINK_FEST_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "DRINK FEST",
+    "campaign": "Drink Fest",
     "caption": "A Caramelized Pineapple Rum Sour gets its depth from the spirit behind it, and Ron Zacapa brings exactly the kind of richness this drink loves. 🍍✨\n\nWith its notes of caramel, dried fruit, and warm spices, Ron Zacapa blends beautifully with the sweet-tangy pineapple and bitters. The rum’s natural molasses sweetness softens the citrus, while its aged complexity adds a silky finish that makes every sip feel full and balanced.\n\nGrab a bottle of Ron Zacapa the next time you visit The Marketplace and try this tropical tipple soon!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Ron Zacapa"
@@ -135,7 +135,7 @@ const DRINK_FEST_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "DRINK FEST",
+    "campaign": "Drink Fest",
     "caption": "A Spiced Pear Old Fashioned feels like the perfect blend of cozy and refined, especially when it starts with Tamnavulin White Wine Cask Scotch. 🍐🥃\n\nThis single malt brings soft orchard-fruit notes, hints of vanilla, and a gentle sweetness from its white wine cask finish. Those flavors pair beautifully with pear purée, brown sugar syrup, and bitters, creating a drink that’s bright, lightly spiced, and wonderfully balanced. The pear adds freshness, the bitters add structure, and the scotch ties it all together.\n\nPick up Tamnavulin White Wine Cask Scotch and all the ingredients you need at The Marketplace, and try out this elegant twist to your usual Old Fashioned!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Tamnavulin"
@@ -160,7 +160,7 @@ const DRINK_FEST_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "DRINK FEST",
+    "campaign": "Drink Fest",
     "caption": "There’s something truly special about The Macallan A Night on Earth: The Jerez. It’s a limited-edition single malt shaped by its sherry-seasoned casks and layered, holiday-ready warmth. ✨🥃\n\nExpect notes of dried fruits, toffee, orange peel, subtle spice, and that signature Macallan richness that lingers beautifully on the palate. It’s expressive on its own, but its profile also opens the door to elevated cocktails: think an Old Fashioned with orange bitters, a rich Whisky Sour with a dash of sherry, or even a Manhattan that leans into its fruity, velvety depth.\n\nFind The Macallan A Night on Earth: The Jerez at The Marketplace, and bring a bottle that’s perfect for gifting, sharing, or savoring during your next celebration.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "The Macallan"
@@ -179,7 +179,7 @@ const DRINK_FEST_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "DRINK FEST",
+    "campaign": "Drink Fest",
     "caption": "There’s a reason Glenfiddich 12 Year Single Malt Scotch Whisky remains a classic for whisky lovers: it’s bright, approachable, and full of character.\n\nTaste fresh pear, honeyed sweetness, a touch of oak, and that clean, fruity finish the distillery is known for. Its balanced profile makes it wonderfully versatile: perfect to savor neat, but also great in cocktails that highlight its orchard-fruit notes. Grab a bottle of it the next time you shop at The Marketplace! 🥃✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Glenfiddich"
@@ -198,7 +198,7 @@ const DRINK_FEST_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "DRINK FEST",
+    "campaign": "Drink Fest",
     "caption": "There is an easy elegance to a bottle of Chivas Regal 12 Year — smooth, rich, and blended with the kind of balance that makes it a crowd favorite. \n\nA sip alone lends notes of honey, ripe apples, vanilla, and butterscotch, rounded out by a gentle, lingering oak finish. It’s approachable enough for new whisky drinkers and layered enough for those who prefer something with depth. Its versatility also makes it a great cocktail partner: try it in a classic Whisky Sour for a bright contrast, a Rob Roy to lean into its sweetness, or a Chivas Highball where its fruity, creamy notes shine through every sip.\n\nFind Chivas Regal at The Marketplace! 🥃\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Chivas Regal"
@@ -217,7 +217,7 @@ const DRINK_FEST_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "DRINK FEST",
+    "campaign": "Drink Fest",
     "caption": "A steaming mug of hot chocolate hits differently when it’s made for adults — deeper, smokier, and just a little indulgent with the addition of Johnnie Walker Double Black. 🍫🔥\n\nKnown for its bold peat smoke, hints of caramel, and layers of dark fruit, this Whiskey Hot Chocolate gets its edge from the liquor’s flavors that blend seamlessly with melted dark chocolate and cream, adding warmth and complexity without overpowering the classic comfort we all love. Grab a bottle the next time you’re at The Marketplace and try this cozy, chocolatey cocktail!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Johnnie Walker"
@@ -242,7 +242,7 @@ const DRINK_FEST_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "DRINK FEST",
+    "campaign": "Drink Fest",
     "caption": "A Paloma is already refreshing, but this twist with San Miguel Cerveza Blanca gives it an even brighter, smoother finish.\n\nWe say this because the Cerveza Blanca’s light wheat character, gentle citrus notes, and crisp body blend beautifully with grapefruit, lime, and tequila. The beer softens the tartness, adds a subtle sweetness, and gives the drink a lively, effervescent lift, turning a classic Paloma into an easygoing, sunny cocktail that’s perfect for casual gatherings or chilled afternoons. 🍊✨\n\nConcoct your own Paloma that’s light, vibrant, and incredibly easy to sip! Find San Miguel Cerveza Blanca at The Marketplace, along with all the other ingredients that you need for this recipe!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "San Miguel",
@@ -268,7 +268,7 @@ const DRINK_FEST_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "DRINK FEST",
+    "campaign": "Drink Fest",
     "caption": "A smooth pick-me-up doesn’t always have to come in a cup (or a nicotine stick). ZYN Espressino delivers that rich espresso flavor in a clean, convenient nicotine pouch made for adults only. ☕\n\nIts creamy coffee notes, subtle sweetness, and balanced strength make it a great choice for those who enjoy a café-style taste without smoke, vapor, or lingering odor. Slip one in during work, travel, or moments when you want something satisfying but low-key.\n\nFind ZYN Espressino at The Marketplace, and keep a pouch that fits neatly into your day.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "ZYN"

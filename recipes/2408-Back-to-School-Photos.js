@@ -10,7 +10,7 @@ const BACK_TO_SCHOOL_PHOTOS_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "BACK TO SCHOOL",
+    "campaign": "Back to School",
     "caption": "School’s just around the corner — are you ready for the rumble?\n\nHead over to #TheMarketplace and stock up on pantry essentials and sundries such as snacks, liquid detergent, and after class treats for your little one (and for yourself, too)! Have a great time shopping!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -29,7 +29,7 @@ const BACK_TO_SCHOOL_PHOTOS_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "BACK TO SCHOOL",
+    "campaign": "Back to School",
     "caption": "Let Meadows spoil you silly with their variety of yummy and delicious chocolate bars, available at #TheMarketplace!\n\nWhether you’re a dark chocolate or milk chocolate fan, there’s surely a Meadows chocolate bar to satiate your cravings. Try the Milk Chocolate with Salted Caramel for a sweet, butterscotch-y twist, or the Milk Chocolate with Hazelnuts for a nutty bite! Great as a reward for your kiddos, too!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Meadows"
@@ -48,7 +48,7 @@ const BACK_TO_SCHOOL_PHOTOS_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "BACK TO SCHOOL",
+    "campaign": "Back to School",
     "caption": "Have your little one look forward to recess or merienda with these Casino Dark Chocolate Cereal Bars, which you can find at #TheMarketplace!\n\nIn the form of a chocolatey treat, each bar is made with premium cacao and packed with cereals and chunky chocolate bits. It’s a clever way to sneak in some fiber into your kid’s snack-time!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Casino"
@@ -67,7 +67,7 @@ const BACK_TO_SCHOOL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "BACK TO SCHOOL",
+    "campaign": "Back to School",
     "caption": "It’s time for merienda! These White Chocolate Tartlets will definitely be something your kids will look forward to, especially after a busy day in school.\n\nMade with Turrón de Alicante, or Alicante nougat, a Spanish treat that’s especially popular during the holidays, these White Chocolate Tartlets are luscious, decadent, and come with a delightfylly chewy texture.\n\nWhere to find Turrón de Alicante, you ask? At #TheMarketplace, of course! Find it along with all the other ingredients that you need for this recipe.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -92,7 +92,7 @@ const BACK_TO_SCHOOL_PHOTOS_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "BACK TO SCHOOL",
+    "campaign": "Back to School",
     "caption": "Feed your feline friends something healthy and nutritious in an instant with VitaPet Cat Food in Mackerel & Salmon flavor!\n\nMade from real fish, each serving is guaranteed to be nutritionally balanced and complete. No additional flavourings are included, making it as natural-tasting as possible. Find VitaPet Cat Food in #TheMarketplace, along with other everyday pet essentials!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "VitaPet"
@@ -111,7 +111,7 @@ const BACK_TO_SCHOOL_PHOTOS_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "BACK TO SCHOOL",
+    "campaign": "Back to School",
     "caption": "After school, clothes can get pretty sweaty…and stinky, too! It’s naturally a sign of a great day for your little one.\n\nThe next time you go grocery shopping at #TheMarketplace, try out and grab some Ariel Sunrise Fresh Liquid Detergent. With superior cleaning power and an advanced formula that removes stains, dirt, and bacteria, this laundry staple is sure to keep your clothes — and your kids’ — clean and smelling fresh the entire day.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Ariel"
@@ -130,7 +130,7 @@ const BACK_TO_SCHOOL_PHOTOS_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "BACK TO SCHOOL",
+    "campaign": "Back to School",
     "caption": "When it comes to dessert, it’s always a good idea to exercise portion control. Magnum Mini Almond is your answer to a decadent treat without the guilt! Sometimes, we just need a sweet, chocolatey dessert to nosh on, and Magnum’s mini size is great for the little ones to enjoy, too! Available in other flavors, head over to #TheMarketplace today and grab your fill!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Magnum"
@@ -149,7 +149,7 @@ const BACK_TO_SCHOOL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "BACK TO SCHOOL",
+    "campaign": "Back to School",
     "caption": "Make the yummiest baon ever and sneak in a cute note, too, for your little one while you’re at it!\n\nThis Chicken Shanghai Rice Bowl, made with Pampanga’s Best Chicken Lumpiang Shanghai, is extra special thanks to the homemade fried rice it comes with. Lumpiang Shanghai never fails the baon taste test — try it out! It’s proven to be a hit with even the pickiest of eaters.\n\nFind Pampanga’s Best Chicken Lumpiang Shanghai, along with other delicious ready-to-cook products from the brand, at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Pampanga's Best"
@@ -174,7 +174,7 @@ const BACK_TO_SCHOOL_PHOTOS_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "BACK TO SCHOOL",
+    "campaign": "Back to School",
     "caption": "When it comes to food, freshness is everything.\n\nOur Keep Fresh Lunch Bag is handy, easy to bring along, and ensures your snacks and packed food stay at their optimum quality. Whether it’s packaged food such as biscuits or fresh fruit kept in airtight containers, count on our Keep Fresh Lunch Bag to keep them crisp and delicious throughout the day. \n\nPerfect for picnics, outdoor gatherings, or simply for your everyday baon, grab a lunch bag now at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Keep Fresh"

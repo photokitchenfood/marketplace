@@ -10,7 +10,7 @@ const KOREAN_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "KOREAN FESTIVAL",
+    "campaign": "Korean Festival",
     "caption": "Turn everyone’s favorite Korean kimbap into a Noodle Kimbap with the help of Ottogi Jin Spicy Ramen Instant Noodles.\n\nUsing the same method, simply replace your rice with instant noodles and add sausages, cheese, and other Korean condiments. Take this with you to work, or enjoy it as you work from home. Make it under less than 30 minutes and get ready to indulge! All the ingredients that you need for this recipe are available at #TheMarketplace.\n\nServing Time: 20-25 minutes\nYield: 3-4 servings\n\nIngredients\n\n2 tbsps. cooking oil\n6 pcs. sausage, sliced lengthwise\n2 packs Ottogi Jin Ramen Spicy Instant Noodles\n1 tbps. gochujang\n½ tbsp. sugar\n3  tbsp. sesame oil\n6 pcs. nori sheet\n6 strips mozzarella cheese\n\nProcedure\n\n1. Set a pan over medium heat, then add oil and fry sausages until golden brown.\n2. Set aside Ottogi Jin Ramen Spicy Instant Noodles seasoning packets, then cook noodles according to package instructions. Drain, then set aside.\n3. In a bowl, add seasoning packet, gochujang, and sugar. Mix well until sugar is dissolved, then mix in a tablespoon of sesame oil.\n4. Toss noodles in the gochujang sauce until well coated.\n5. Lay one nori sheet over a bamboo mat, then evenly spread noodles on top. Top with strips of sausage and mozzarella cheese. Roll tightly into a log. \n6. Brush with the remaining sesame oil. Slice each log into 8 pieces.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Ottogi"
@@ -35,7 +35,7 @@ const KOREAN_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "KOREAN FESTIVAL",
+    "campaign": "Korean Festival",
     "caption": "We love anything easy, delicious, and quick! And in this Spicy Ramen Carbonara, we used Ottogi Jin Ramyun Spicy Cup Noodles to add a nice, punchy kick to the carbonara components. Made with beef bone stock, flavors run deep in this one. The spice also balances out the richness and the creaminess brought by the egg yolks and parmesan cheese, while bacon lends a smoky finish.\n\nFind all things Korean, along with Jin Ramyun, at #TheMarketplace!\n\nServing Time: 12 minutes\nYield: 2 servings\n\nIngredients\n\n3 packs Ottogi Jin Ramyun Spicy Cup Noodles\n4 egg yolks \n1 egg \n½ cup parmesan cheese \n½ tsp. freshly ground pepper\n2 tbsps. olive oil \n1 cup bacon, diced \nSalt and pepper to taste\n2 tbsps. spring onions, chopped\n\nProcedure\n\n1. Set aside flavor packets from the Ottogi Jin Ramyun Spicy  Cup Noodles. Add hot water just enough to cover remaining hoodles in the cups, then cover for 5 minutes. Drain excess water after. \n2. Whisk together egg yolks, egg, parmesan cheese, pepper and flavor packets. Set aside. \n3. Fry bacon in olive oil until nicely browned. Toss in noodles. Turn off heat, then mix in egg and cheese sauce. Season with salt and pepper to taste. \n4. Garnish with spring onions. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Ottogi"
@@ -60,7 +60,7 @@ const KOREAN_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "KOREAN FESTIVAL",
+    "campaign": "Korean Festival",
     "caption": "Don’t just have plain instant ramyun as your first meal of the day, amp it up and turn it into a Breakfast Ramen with the addition of sliced luncheon meat, eggs, olive oil, scallions, and black sesame seeds! Our ramen of choice for this recipe is the Nongshim Shin Ramyun Cup, but feel free to use your favorite brand!\n\nThis ramen recipe is so good, you might be tempted to double up your carb intake with the addition of rice. But hey, it’s all worth it! Find Shin Ramyun, along with other Korean instant noodle brands, at #TheMarketplace!\n\nServing Time: 10 minutes\nYield: 2 servings\n\nIngredients\n\n3 tbsps. olive oil\n2 eggs\n1 can luncheon meat, sliced\n2 packs Nongshim Shin Ramyun Cup\n½ tbsp. black sesame seeds\n¼ cup scallions, sliced\n\nProcedure\n\n1. Fry eggs in olive oil sunny-side-up style. Set aside, then fry luncheon meat slices in the same pan. \n2. Prepare Nongshim Shin Ramyun Cup according to package instructions. \n3. Transfer into bowls, then top each serving with a sunny-side-up egg, luncheon meat and scallions. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nongshim"
@@ -85,7 +85,7 @@ const KOREAN_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "KOREAN FESTIVAL",
+    "campaign": "Korean Festival",
     "caption": "Give this cup of Nongshim Shin Shrimp Ramyun a delicious makeover with this recipe for Spicy Seafood Ramen!\n\nGarlicky, briny, and reminiscent of the sea, this ramyun dish is elevated with the addition of shrimp, baby squid, and enoki mushrooms, filling the belly nicely and making it a super-satisfying meal. Nongshim Shin Shrimp Ramyun Cup, along with all the other ingredients for this recipe, are available at #TheMarketplace!\n\nServing Time: 10-15 minutes\nYield: 3 servings\n\nIngredients\n\n4 cups water \n1 tbsp. salt\n1 thumb-size ginger, sliced\n3 cloves garlic\n½ kg shrimp\n½ kg baby squid\n¾ cup enoki mushrooms \n3 packs Nongshim Shin Shrimp Ramyun Cup\n3 nori sheets \n¼ cup scallions, curly\n\nProcedure\n\n1. In a small pot, combine water, salt, ginger and garlic. Let boil.\n2. Add in shrimp and baby squid. Cook for 3-5 minutes, then submerge cooked seafood in an ice bath. \n3. Blanch enoki mushrooms in the same broth, then set aside. \n4. Use the same broth to cook Nongshim Shin Shrimp Ramyun Cup according to package instructions. \n5. Transfer to serving bowl, then top each serving of ramen with shrimp, squid, enoki mushrooms, a nori sheet and some scallions.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nongshim"
@@ -110,7 +110,7 @@ const KOREAN_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "KOREAN FESTIVAL",
+    "campaign": "Korean Festival",
     "caption": "Looking for a new way to enjoy ramyun? Turn it into a Pajeon!\n\nGive everyone’s favourite Korean scallion pancake a spicy twist by using Samyang’s Buldak Hot Chicken Ramyun. Enjoy it with some Japanese mayonnaise to temper down the hot flavors. Best enjoyed with the company of good friends and ice-cold bottles of soju.\n\n#TheMarketplace is home to a lot of Korean products, so head over and shop a variety of instant noodles, including Samyang! \n\nServing Time: 30 minutes\nYield: 5-6 servings\n\nIngredients\n\n2 packs Samyang Buldak Hot Chicken Flavor Ramyun\n6 eggs\n⅓ cup flour\nSalt and pepper to taste\n1 ½ cup spring onions, chopped\n4 tbsps. sesame oil\n¾ cup Japanese mayo \n½ cup leeks, sliced\n\nProcedure\n\n1. Cook Samyang Buldak Hot Chicken Ramyun according to package instructions. Set aside.\n2. In a large bowl, whisk together eggs and flour. Season with salt and pepper. Mix in cooked Samyang Buldak Hot Chicken Ramyun and 1 cup spring onions.\n3. Set a pan over medium heat, then add sesame oil and add 1 ½ cup of the pajeon batter. Spread evenly to form a circle, then sprinkle more spring onions on top.\n4. Cook for about 3-5 minutes. Once golden brown, flip the noodle pancake. Cook for another 2-3 minutes.\n5. Drizzle with Japanese mayo and top with sliced leeks.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Samyang"
@@ -135,7 +135,7 @@ const KOREAN_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "KOREAN FESTIVAL",
+    "campaign": "Korean Festival",
     "caption": "One of the easiest and most popular hacks to elevate a meal is to add cream. So we’ve done just that in this recipe for Cheesy Ramen Rose Topokki using Samyang’s Topokki Ramen Noodle Soup. Instead of cream, we used a cheese sauce and added other yummy ingredients such as butter, mushrooms, leeks, and even more cheese.\n\nThe savory creaminess that this dish yields will keep you coming back for more. Find Samyang products at #TheMarketplace, along with other delightful Korean items!\n\nServing Time: 10 minutes\nYield: 2 servings\n\nIngredients\n\n2 tbsps. butter\n1 cup button mushrooms, sliced\nSalt and pepper to taste\n2 packs Samyang Topokki Ramen Noodle Soup\n¼ cup cheese sauce\n2 tbsps. mayonnaise\n4 pcs. cheese slices\n¼ cup leeks, sliced\n\nProcedure\n\n1. Set a pan over medium heat, then add butter and sauté button mushrooms. Season with salt and pepper, and cook until soft and nicely browned. Set aside.\n2. Cook Samyang Topokki Ramen Noodle Soup according to package instructions. Mix in seasoning packets, cheese sauce, mayonnaise and cooked mushrooms.\n3. Top each serving with cheese slices, and torch until melted and slightly charred. Garnish with leeks. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Samyang"
@@ -160,7 +160,7 @@ const KOREAN_FESTIVAL_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "KOREAN FESTIVAL",
+    "campaign": "Korean Festival",
     "caption": "Enjoy the flavors of Korea anytime you want with Esotukk Sweet & Spicy Topokki Fish Cake! One of the most popular street foods in Korea, this topokki is laced with an addictive sweet and spicy sauce that will instantly transport you to the streets of Seoul. Find it at #TheMarketplace, along with other instant Korean food!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "! Generic"
@@ -179,7 +179,7 @@ const KOREAN_FESTIVAL_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "KOREAN FESTIVAL",
+    "campaign": "Korean Festival",
     "caption": "Using seed extracts from macadamia nuts and honey, Kundal Honey and Macadamia shampoo in Cherry Blossom is blended with a special redberry mix to provide a charming cherry blossom scent. Stay fresh and keep your hydrated all day with Kundal shampoos imported from Korea! Find them at #TheMarketplace, along with other bath needs.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "Kundal"
@@ -198,7 +198,7 @@ const KOREAN_FESTIVAL_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "KOREAN FESTIVAL",
+    "campaign": "Korean Festival",
     "caption": "Tea tree oil is not only beneficial for the skin, but it is also a wonder product for the hair. Tea tree is known to have antibacterial and antifungal properties, as well as being transformative in making hair follicles more receptive to nutrition, resulting to overall hair growth.\n\nGrab a bottle of Kundal Tea Tree & Macadamia Shampoo in White Musk the next time you shop at #TheMarketplace! \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "Kundal"
@@ -217,7 +217,7 @@ const KOREAN_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "KOREAN FESTIVAL",
+    "campaign": "Korean Festival",
     "caption": "Possibly one of the most popular Korean instant noodle variants is jjajangmyeon, or noodles in black bean sauce. Usually elevated with steak thanks to a popular Korean movie that made it to the Oscars, we went the traditional route and paired No Brand Jjajang Ramen with pork belly and cucumbers, just like they do in Seoul eateries.\n\nThink of it as replicating a restaurant-style jjangmyeon in the comfort of your home! Head over to #TheMarketplace and shop all the ingredients you need to make this dish today!\n\nServing Time: 15 minutes\nYield: 2 servings\n\nIngredients\n\n2 packs No Brand Jjajang Ramen\n250g pork belly, sliced into 1 inch thick strips\nSalt and pepper to taste\n2 tbsps. cooking oil\n3 tbsps. water\n1/2 cup cucumber, julienned\n\nProcedure\n\n1. Set aside seasoning and sauce packets of No Brand Jjajang Ramen, then cook noodles according to package instructions. \n2. Season pork belly with salt and pepper. \n3. Set a pan over medium heat, then sear pork belly until golden brown on both sides. Add in seasoning and sauce packets from No Brand Jjajang Ramen and water, then let simmer until pork is cooked through.\n4. Transfer noodles to a plate and top with sauce and pork belly. Garnish with cucumber.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -242,7 +242,7 @@ const KOREAN_FESTIVAL_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "KOREAN FESTIVAL",
+    "campaign": "Korean Festival",
     "caption": "A classic Korean comfort dish, No Brand’s Anchovy Flavor Rice Noodle comes with chewy noodles and a soul-warming anchovy broth. It’s simple, straightforward, and so convenient. Make sure you have a pack or two ready in your pantry for an easy and filling meal! Find No Brand products at #TheMarketplace, along with other Korean brands! \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "No Brand"
@@ -261,7 +261,7 @@ const KOREAN_FESTIVAL_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "KOREAN FESTIVAL",
+    "campaign": "Korean Festival",
     "caption": "There is a good reason Nut Bar is Korea’s best selling energy bar!\n\nThis grab-and-go cereal bar comes with gobs of chocolate and is studded with almonds to keep you energized and satisfied. Made with a nutritious and delicious combination of grains, make sure to carry one around with you always! Find Nut Bar at #TheMarketplace, along with other delicious cereal bars.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "Nutbar"

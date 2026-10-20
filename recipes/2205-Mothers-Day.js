@@ -10,7 +10,7 @@ const MOTHERS_DAY_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "MOTHER’S DAY",
+    "campaign": "Mothers Day",
     "caption": "Enjoy some bite in your chocolate bar?\n\nCadbury Fruit & Nut gives you a play of both soft and crunchy textures with the inclusion of raisins and almonds set in a classic Cadbury milk chocolate bar. Explore our range of chocolates at #TheMarketplace, and don’t forget to grab some for Mom, too!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Cadbury"
@@ -29,7 +29,7 @@ const MOTHERS_DAY_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "MOTHER’S DAY",
+    "campaign": "Mothers Day",
     "caption": "Watching your sugar intake but craving chocolate? Don’t cave in. Allow Valor sugar-free chocolates made with Stevia to curb your cravings!\n\nThe 70% intense dark chocolate variant contains a deep cacao flavor. The addition of Stevia sweetens it just right, without the use of sugar. Head over to the #TheMarketplace and discover our range of chocolate brands that use natural sweeteners for a guilt-free indulgence!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Valor"
@@ -48,7 +48,7 @@ const MOTHERS_DAY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "MOTHER’S DAY",
+    "campaign": "Mothers Day",
     "caption": "One of the most popular local Korean noodle dishes, Bibim Guksu, or spicy mixed noodles, is a cold dish that is flavored with soy sauce, rice vinegar, kimchi, and gochujang (red pepper paste).\n\nFor this recipe, we will use Tayangcho Gochujang, which includes meju powder, or fermented soybean powder, for added depth and umami. This noodle dish is super quick and easy to prepare, you can whip it up in between episodes of your current K-drama binge. Find Tayangcho Gochujang, along with other imported K-ingredients, at #TheMarketplace! \n\nServing Time: 8 minutes\nYield: 1-2 servings\n\nIngredients\n\n3 tbsps. Tayangcho Gochujang \n2 tbsps. soy sauce \n1 tbsp. rice vinegar \n1 tbsp. sesame oil \n1 tsp. black sesame seeds\n180g somen noodles, cooked according to package instructions \n¼ cup zucchini strips\n¼ cup kimchi\n3 tbsps. nori strips\n1 soft boiled egg, halved\n\nProcedure\n\n1. In a large bowl, whisk together Tayangcho Gochujang, soy sauce, rice vinegar and sesame oil. Add cooked somen noodles, and toss to coat well. \n2. Top with zucchini, kimchi nori and half a soft-boiled egg. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Tayangcho"
@@ -73,7 +73,7 @@ const MOTHERS_DAY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "MOTHER’S DAY",
+    "campaign": "Mothers Day",
     "caption": "One of the most iconic snacks to pair with sweet and tangy Jufran Banana Ketchup is a hearty bowl of Camote Fries. Simple yet so flavorful, the starchy goodness from the camote balances out the acidity of the banana ketchup perfectly. Temperature is key when it comes to cooking fries. Keep an eye on them to ensure they crisp up well on the sides.\n\nFor the dip, instead of serving the banana ketchup plain, mix it with some mayonnaise and pickle relish for a spin on a thousand island dressing. Make this for Mom and enjoy together with the family. Find Jufran products and other local condiments for your kitchen pantry when you shop at #TheMarketplace!\n\nServing Time: 35 minutes\nYield: 3-4 servings\n\nIngredients\n\n4 pcs. kamote, sliced into matchsticks\n¼ cup olive oil \nSalt and pepper to taste\n¼ cup Jufran Banana Ketchup \n½ cup mayonnaise \n2 tbsps. pickle relish \n¼ cup parsley, chopped \n\nProcedure\n\n1. Preheat oven to 180°C and line a sheet pan with parchment paper. \n2. Arrange kamote on the sheet pan in a single layer. Coat well with olive oil, then season with salt and pepper. \n3. Roast for 20-25 minutes, or until tender on the inside and crispy on the edges. Garnish with parsley.\n4. Combine Jufran Banana Ketchup, mayonnaise and pickle relish. \n5. Serve kamote fries with thousand island dressing. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Jufran"
@@ -98,7 +98,7 @@ const MOTHERS_DAY_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "MOTHER’S DAY",
+    "campaign": "Mothers Day",
     "caption": "This upcoming Mother’s Day, arrange a Korean-themed meal with mom, without breaking a sweat in the kitchen!\n\nGrab some Ottogi Kimchi Ramen from #TheMarketplace and dress it up with cucumbers, kimchi, mushrooms, and egg for a filling and tasty meal. Don’t forget the soju!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Ottogi"
@@ -117,7 +117,7 @@ const MOTHERS_DAY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "MOTHER’S DAY",
+    "campaign": "Mothers Day",
     "caption": "One of the most loving ways to say thank you to Mom, especially this Mother’s Day, is by cooking!\n\nThey say nothing compares to a mother’s love, and this hearty recipe for Beef Ragu Pasta using Barilla Spaghetti is bursting with familiar flavors that feel like a warm embrace. Red wine adds depth to the sauce, while herbs elevate the dish with aromatics and punchy flavors. Milk provides body to the pasta, making it one of the ultimate comfort dishes that says, “I love you, Mom!” Drop by #TheMarketplace today and find everything you need to make this Beef Ragu Pasta!\n\nServing Time: 1 hour\nYield: 5-6 servings\n\nIngredients\n\n3 tbsps. olive oil \n250g ground beef\n1 white onion, diced \n5 cloves garlic, minced  \n1 tsp. dried oregano\n1 tsp. dried thyme \n3 tbsps. tomato paste\n¼ cup red wine \n3 cups tomato purée \n1 cup milk \n2 bay leaves\n1 cup cherry tomatoes, halved \n½ cup basil leaves \n500g Barilla Spaghetti, cooked according to package instructions \n\nProcedure\n\n1. Heat up olive oil in a heavy-bottomed pot over medium-high heat. Once smoking, add in ground beef and let the meat get brown and caramelized.  \n2. Mix in onion and garlic. Sauté until soft. Mix in dried spices and tomato paste. Cook for 1-2 minutes, or until tomato paste has darkened. \n3. Deglaze with red wine. Once red wine has mostly reduced, mix in tomato purée, milk and bay leaf. Bring to a soft simmer, and cook for 30 minutes while stirring from time to time to avoid burning. \n4. Mix in cherry tomatoes, basil and cooked Barilla Spaghetti. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Barilla"
@@ -142,7 +142,7 @@ const MOTHERS_DAY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "MOTHER’S DAY",
+    "campaign": "Mothers Day",
     "caption": "Does Mom love Korean food? Surprise her with this easy and hearty Mi Sedaap dish, elevated with a variety of condiments and ingredients that you can easily find at home.\n\nSimple food can be instantly transformed into a gourmet dish with a bit of creativity. The addition of chicken breasts turns the Mi Sedaap into a full meal that’s bursting with flavors and, of course, love. #TheMarketplace is home to a wide array of instant noodle brands that range from local to imported, so shop what you need for this recipe today!\n\nServing Time: 25 minutes\nYield: 2-3 servings\n\nIngredients\n\n3 tbsps. sesame oil\n2 tbsps. soy sauce\n2 tbsps. sugar\n1 tbsps. mirin\n2 chicken breast fillets, sliced\n3 packs Mi Sedaap\n1 cup bean sprouts\n3 red chilis, sliced\nSalt and pepper to taste\n3 eggs, sunny side up\n¼ cup scallions, chopped\n2 tbsps. sesame seeds\n\nProcedure\n\n1. Combine 1 tablespoon sesame oil, soy sauce, sugar, and mirin. Marinate chicken breast fillet in this mixture for 10-15 minutes.\n2. Cook Mi Sedaap according to package instructions. Transfer to a bowl.\n3. Set a pan over medium heat, then add the rest of the sesame oil. Sauté bean sprouts and red chili, then season with salt and pepper. Set aside. \n4. Using the same pan, sear marinated chicken breast fillet until cooked through. \n5. Top cooked Mi Sedaap with sliced chicken, sunny side up egg, bean sprouts, scallions and sesame seeds.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Mi Sedaap"
@@ -167,7 +167,7 @@ const MOTHERS_DAY_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "MOTHER’S DAY",
+    "campaign": "Mothers Day",
     "caption": "Fancy some gelato for yourself and Mom? #TheMarketplace carries a wide selection of dessert brands including Italy’s famed Grom gelato. \n\nThe Tiramisù flavor is not to be missed. Grom’s recipe does not contain cream — only mascarpone. All the more reason get more than just one pint, right?\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Grom"
@@ -186,7 +186,7 @@ const MOTHERS_DAY_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "MOTHER’S DAY",
+    "campaign": "Mothers Day",
     "caption": "An essential wine to have at home, Shiraz constitutes a deep-bodied flavor that offers aromas and notes of jammy berries. It goes perfectly with meats, burgers, barbecues, especially roasted legs of lamb. Great for meal pairings or on its own, head over to #TheMarketplace and grab a bottle of Oxford Landing Shiraz today!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -205,7 +205,7 @@ const MOTHERS_DAY_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "MOTHER’S DAY",
+    "campaign": "Mothers Day",
     "caption": "If you’re in the mood for some white wine, Chardonnay is always a safe choice. Bursting with tropical fruit flavors such as papaya and kiwi, chardonnays often have a creamy mouthfeel that pairs excellently with seafood or chicken. Explore Berri Estates Chardonnay and a range of other styles of wine at #TheMarkeplace that come from only the most trusted suppliers.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Accolade Wines"
@@ -224,7 +224,7 @@ const MOTHERS_DAY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "MOTHER’S DAY",
+    "campaign": "Mothers Day",
     "caption": "Kimchi fried rice seems to have won the hearts of many. So much so that it has become a common sight in most home-cooked meals.\n\nIf you’re looking for a tasty and fun twist to your Kimchi Fried Rice, head over to #TheMarketplace and get a bag of Oh So Healthy Kimchi Crisps, which concentrate the tangy and spicy flavors of kimchi into delightfully thin crisps! The texture with the fried rice makes a world of a difference.\n\nServing Time: 15-20 minutes\nYield: 3 servings\n\nIngredients\n\n3 tbsps. sesame oil\n1 cup bean sprouts\nSalt and pepper to taste\n¼ cup white onions, diced\n2 tbsps. garlic, minced\n1 cup kimchi, chopped\n1 tbsp. gochujang\n1 tbsp. soy sauce\n3 cups day old rice\n½ cup scallions, chopped\n1 cup Oh So Healthy Kimchi Crisps\n3 eggs, sunny side up\n\nProcedure\n\n1. Set pan over medium heat, then add 1 tablespoon of sesame oil. Sauté bean sprouts and season with salt and pepper. Set aside.\n2. Using the same pan, add the rest of sesame oil and sauté onions and garlic until fragrant.\n3. Add kimchi, gochujang, and soy sauce. Mix in day old rice. \n4. Transfer to a bowl. Top with scallions, Oh So Healthy Kimchi Crisps, bean sprouts and a sunny side up egg.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Oh So Healthy"
@@ -249,7 +249,7 @@ const MOTHERS_DAY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "MOTHER’S DAY",
+    "campaign": "Mothers Day",
     "caption": "Celebrate life a bit more deliciously with this recipe for Lechon Macaroni Bake.\n\nPerfect for Sunday lunches or weekend potlucks, the inclusion of Elarz Corned Lechon into a tray of extra-cheesy baked macaroni not only adds texture, but also the deep porcine flavors cut through the creaminess and round off each bite with loads of umami. List down all the ingredients you need for this recipe and shop for them at #TheMarketplace!\n\nServing Time: 30-40 minutes\nYield: 5-6 servings\n\nIngredients\n\n400g elbow macaroni\n2 cans Elarz Corned Lechon\n3 tbsps. butter\n3 tbsps. flour\n1 cup milk\n1 cup heavy cream\n1 cup white cheddar cheese, grated\n1 cup mozzarella cheese, grated\n⅛ tsp. nutmeg\nSalt and pepper to taste\n½ cup bread crumbs, toasted\n⅛ cup parsley, chopped\n\nProcedure\n\n1. Cook pasta according to package instructions. Drain, then set aside.\n2. Set a pan over medium heat, then add Elarz Corned Lechon. Cook until its juices has reduced.\n3. Set a pot over medium heat, then add combine melted butter and flour to create a roux. Slowly add in milk while continuously mixing to avoid lumps.\n4. Add heavy cream, white cheddar cheese and mozzarella. Mix until well combined and smooth.\n5. Mix in nutmeg and season with salt and pepper. Mix in cooked elbow macaroni. \n6. Transfer to a serving dish, then top with Elarz Corned Lechon, toasted bread crumbs and parsley.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Elarz"

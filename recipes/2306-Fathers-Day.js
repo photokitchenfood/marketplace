@@ -10,7 +10,7 @@ const FATHERS_DAY_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "FATHERS DAY",
+    "campaign": "Fathers Day",
     "caption": "This upcoming Father’s Day, show your old man some big love with a bottle of Glenfiddich 12.\n\nSmooth in texture and boasting with notes of vanilla flan, oak, and orchard fruits, this whisky lies more on the sweeter side with a pear and oak finish. Find it at #TheMarketplaces and take a cheers with Dad!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Glenfiddich"
@@ -29,7 +29,7 @@ const FATHERS_DAY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "FATHERS DAY",
+    "campaign": "Fathers Day",
     "caption": "Prepare something special for Dad this Father’s Day with this White Coffee Pavlova made with Meadows 3-in-1 White Coffee.\n\nIpoh white coffee is a classic Malaysian-style drink, where the beans are roasted using margarine before they are ground, brewed, and served with condensed milk. Having it as a pavlova creates a good contrast between sweet and bitter. Dad will surely love it. Find all the ingredients you need to make this awesome Father’s Day pavlova at #TheMarketplace!\n\nServing Time: 2 hours and 30 minutes\nYield: 5 servings\n\nIngredients\n\n4 egg whites\n½ tsp. cream of tartar\n1 cup superfine sugar\n1 tsp. vanilla extract\n1 pack (40g) Meadows White Coffee 3-in-1 Regular\n1 tsp. Cornstarch\nCoffee syrup, whipped cream, and chopped almonds for topping\n\nProcedure\n\n1. Preheat oven to 150°C. Line a baking tray with parchment paper.\n2. In a stand mixer, whisk egg whites, cream of tartar, and vanilla on medium speed until frothy. Gradually add sugar and mix on high speed until stiff.\n3. Gently fold cornstarch and Meadows White Coffee 3-in-1 Regular into the mixture. Dollop the meringue onto the parchment, forming a circle.\n4. Place in the oven then lower to 120°C. Bake for 60-80 mins. or until dry. Cool the pavlova inside the oven, turned off with the door slightly open, for about 1 hour.\n5. Serve on a plate and top with whipped cream, coffee syrup, and chopped almonds.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Meadows"
@@ -54,7 +54,7 @@ const FATHERS_DAY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "FATHERS DAY",
+    "campaign": "Fathers Day",
     "caption": "Whether or not you have a new or leftover bottle of red, this Spicy Chorizo in Red Wine is worth every bite!\n\nFor this recipe, we used half a bottle of Winemaker’s Reserve Cabernet Sauvignon, along with some red onions, honey, and rosemary to balance out the spicy chorizo. It’s the perfect pika-pika for a weekend dinner outdoors, especially this Father’s Day — Dad will surely love it!\n\nShop at #TheMarketplace and choose from our wide selection of red wines at different price points depending on your needs. There’s always something for everyone.\n\nServing Time: 30 minutes\nYield: 4 servings\n\nIngredients\n\n400g spicy chorizo, sliced\n4 small red onions, sliced\n1 tbsp. olive oil\n½ bottle Winemaker’s Reserve Cabernet Sauvignon 750ml\n2 tbsps. honey\n2 sprigs fresh rosemary\nToasted baguette slices, cheese, and olives to serve\n\nProcedure\n\n1. Heat olive oil in a pan over medium heat. Sauté onions until soft, then add spicy chorizo slices. Cook until nicely browned.\n2. Add Winemaker’s Reserve Cabernet Sauvignon and honey. Bring to a boil, add rosemary, then simmer until reduced.\n3. Transfer to a terracotta dish. Serve with toasted baguette slices, cheese, and olives.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Winemaker's Reserve"

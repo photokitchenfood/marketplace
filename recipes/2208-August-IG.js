@@ -10,7 +10,7 @@ const AUGUST_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "AUG IG & FB",
+    "campaign": "August IG",
     "caption": "Beat the heat and prepare these Frozen Strawberry Cereal ProYo Popsicles with Dutch Mill ProYo!\n\nEnjoy the threefold goodness of yoghurt, strawberries, and fresh milk, combined with multigrain cereal and sliced strawberries, for a refreshing pick-me-up anytime of the day!\n\nGrab your bottles of Dutch Mill ProYo now at #TheMarketplace, and prepare this luscious frozen snack!\n\nServing Time: 4 hours\nYield: 12 servings\n\nIngredients\n\n4 cups Dutch Mill ProYo Strawberry\n1 cup fresh strawberries, sliced\n3 cups multigrain cereal\n\nProcedure\n\n1. Fill each popsicle mold upto ¾ full with Dutch Mill ProYo Strawberry. Add a tablespoon of sliced strawberries and 1 ½ tablespoons of multigrain cereal.\n2. Insert popsicle sticks, then freeze for at least 4 hours or ideally, overnight.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Dutch Mill"
@@ -35,7 +35,7 @@ const AUGUST_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "AUG IG & FB",
+    "campaign": "August IG",
     "caption": "Spatchcocking, also known as “butterflying” a chicken, is an easy kitchen technique where a chicken’s backbone is removed so that the bird lays flat. Using Bounty Fresh’s Sweet Roast Gourmet Chicken, we’ve combined flavors of citrusy orange and spicy chili to prepare a delicious main course that will definitely see some repeats on the dinner table.\n\nFind Bounty Fresh gourmet chickens, along with all the other ingredients you need for this recipe, at #TheMarketplace! \n\nServing Time: 1 hour and 15 minutes\nYield: 4-5 servings\n\nIngredients\n\n1 whole Bounty Fresh Sweet Roast Gourmet Chicken\n¼ cup butter, softened\n2 tbsps. garlic, minced \n1 tbsp. orange zest \n2 tbsps. chili flakes \nSalt and pepper to taste\n2 tbsps. oyster sauce\n3 tbsps. soy sauce\n2 tbsps. orange juice\n1 whole orange, sliced\n½ cup rosemary sprigs\n1-3 pcs. of whole red chili\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. Place whole Bounty Fresh Sweet Roast Gourmet Chicken breast-side down on a chopping board. Cut through both sides of the neck to remove the spine. Flip the chicken over, then press down to open up and flatten.\n3. Combine butter, garlic, orange zest and chili flakes. Season with salt and pepper to taste. Insert this mixture under the skin and all over the chicken. \n4. In a small bowl, combine oyster sauce, soy sauce and orange juice. \n5. Roast the marinated chicken for 45 minutes while basting every 15 minutes. After roasting, let rest for 10 minutes.\n6. Garnish with orange slices, rosemary sprigs and red chili.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Bounty Fresh"
@@ -60,7 +60,7 @@ const AUGUST_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "AUG IG & FB",
+    "campaign": "August IG",
     "caption": "Have some time in the morning? Make this unMEAT Longganisa Breakfast Pizza for a healthy way to start your day!\n\nMade mostly from soy protein, unMEAT’s Longganisa is a great source of fiber that aids in digestion. It is also a great source of protein that contributes to the maintenance of muscle mass. Enjoy this guiltless goodness in the form of a delicious breakfast pizza made with marinara sauce, fresh tomatoes, and fresh bell peppers!\n\nFeeling inspired? Head over to #TheMarketplace now and shop unMEAT products and more!\n\nServing Time: 25 minutes\nYield: 4-5 servings\n\nIngredients\n\n2 tbsps. olive oil\n1 pack unMEAT Meat-free Skinless Longganisa, sliced\n2 pcs. large frozen pizza crust\n1 cup marinara sauce\n1 ½ cup mozzarella cheese, grated\n1 cup cherry tomatoes, halved\n1 cup red and green bell peppers, sliced into strips\n6 eggs\n½ cup scallions, chopped\nPepper to taste\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. Set a pan over medium heat. Add oil and sear unMEAT Meat-free Skinless Longganisa until lightly browned on both sides. \n3. Place frozen pizza crusts on a baking tray, and spread ½ cup of marinara sauce on each. Top with mozzarella cheese, cooked unMeat Longganisa, cherry tomatoes and bell peppers.\n4. Bake for 5 minutes. Crack three eggs on top of the pizza, and bake for another 8-10 minutes, or until eggs are cooked.\n5. Top with scallions and balck pepper before serving.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "unMEAT"
@@ -85,7 +85,7 @@ const AUGUST_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "AUG IG & FB",
+    "campaign": "August IG",
     "caption": "A must-have in every freezer, Cibo’s Pizza Romana ready-to-heat pizzas are a really tasty and convenient way to fill your belly with something delicious and satisfying.\n\nWith a range of flavors to choose from, the 3 Carni pizza comes with a meaty combination of bacon, salami, and ham, on top of a cheesy crust. Also, no one can ever get enough of Cibo, right? Head over to #TheMarketplace and stock your freezers now! \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "Cibo"
@@ -104,7 +104,7 @@ const AUGUST_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "AUG IG & FB",
+    "campaign": "August IG",
     "caption": "An exceptionally fresh-smelling fabric softener that leaves a long-lasting fragrance on your clothes, Del’s Gentle Protect Fabric Softener not only provides 24-hour antibacterial protection, but it’s also hypoallergenic, making it ideal to use for baby’s sensitive skin. Use it as the final step of your laundry routine, and get your clothes extra fragrant and extra soft.\n\nFind Del products, along with other laundry essentials, at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Del"
@@ -123,7 +123,7 @@ const AUGUST_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "AUG IG & FB",
+    "campaign": "August IG",
     "caption": "Specially formulated to remove tooth sensitivity, Sensodyne Deep Clean Toothpaste contains active ingredients such as potassium nitrate and sodium fluoride to give your sensitive teeth a deep clean while providing relief and lasting protection.\n\nRecommended by dentists, find Sensodyne, along with other oral hygiene needs, at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Sensodyne"

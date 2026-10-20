@@ -10,7 +10,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "NOV IG & FB",
+    "campaign": "November IG",
     "caption": "Similar to Vietnamese coffee, Café Bombon is a Spanish coffee drink that layers espresso with condensed milk and is topped with frothy milk. Given that the holiday season is beckoning some cozy flavors, we’ve added a dash of cinnamon, too, for a bit of that Yuletide feel.\n\nUsing Silcafe Roasted Coffee (Breakfast Blend), which is available at #TheMarketplace, simply follow the easy steps below to make your own Café Bombon at home to keep you warm this holiday season. Cheers!\n\nServing Time: 10 minutes\nYield: 2-3 servings\n\nIngredients\n\n1 cup Silcafe Roasted Coffee Breakfast Blend\nCold water\n½ cup condensed milk\n1 cup whole milk\n1 tsp. cinnamon powder\n\nProcedure\nGrind Silcafe Roasted Coffee Breakfast Blend beans to a fine powder. Fill portafilter with the ground coffee, and tamp it down firmly.\nFill espresso machine with cold water. Attach the portafilter into to the espresso machine. Place the espresso cup under the portafilter, then brew the espresso for 25-30 seconds.\nAdd 2-3 tablespoons of condensed milk into each serving glass. Top with 2 shots of espresso.\nHeat milk in a saucepan over medium heat until it reaches 70°C. Do not let it boil.\nPour milk into a tall container, and froth using a milk frother for about 20 seconds, or until very foamy.\nTop the espresso with milk foam and a sprinkling of cinnamon powder.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Silcafe"
@@ -35,7 +35,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "NOV IG & FB",
+    "campaign": "November IG",
     "caption": "One of the easiest and most satisfying noodle dishes you can make at home, Yaki Udon is a Japanese stir-fried noodle dish that comes in a savory sauce and your choice of protein. In this recipe, we used Mama Sita’s Oyster Sauce to give the noodles a nice sweet-and-salty flavor and ground pork as the meat — feel free to try this recipe out as well with chicken, beef, mushrooms, or shrimp!\n\nAdd this Yaki Udon recipe to your meal plan this coming week and find everything that you need at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 2-3 servings\n\nIngredients\n\n400g udon noodles\n1 tbsp. sesame oil\n1 tbsp. vegetable oil\n2 cups ground pork\n½ cup onion, chopped\n2 cloves garlic, minced\n1 tsp. ginger, minced\n1 cup shiitake mushroom, sliced\n2 cups bok choy, halved\n3 tbsps. Mama Sita’s Oyster Sauce \n2 tbsps. soy sauce\n1 tbsp. mirin\n1 tbsp. rice wine vinegar\n½ tsp. ground black pepper\n¼ cup scallions, sliced\n1 tbsp. sesame seeds, toasted\n\nProcedure\nCook udon noodles according to package directions. Drain and set aside.\nHeat sesame oil and vegetable oil in a wok over medium-high heat. Cook ground pork until browned, while breaking up any large clumps.\nAdd in onion, garlic, and ginger, then sauté until softened. Mix in shiitake mushrooms and bok choy, then cook for another 2 minutes.\nSeason mixture with Mama Sita’s Oyster Sauce, soy sauce, mirin, rice wine vinegar, and black pepper. \nAdd in cooked udon noodles, then toss well to coat. \nServe immediately, garnished with chopped scallions and toasted sesame seeds.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Mama Sita’s"
@@ -60,7 +60,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "NOV IG & FB",
+    "campaign": "November IG",
     "caption": "Diavola is an Italian word used to evoke the image of embers or coals, so when we made this Chicken Diavola using Bounty Fresh Everyday Chicken, we made sure to really broil it properly to achieve that beautiful golden brown color that can only make mouths water.\n\nThe key here is the marination time. While 30 minutes is good, we recommend allowing the marinade to sink into the chicken overnight to let all the flavors seep through deeply.\n\nThis chicken recipe is perfect for the upcoming holidays, too! Don’t forget to grab all the items that you need for this recipe at #TheMarketplace! \n\nServing Time: 1hr and 30 minutes\nYield: 3-4 servings\n\n\nIngredients\n\n1 pc. Bounty Fresh Everyday Chicken, sliced in half vertically\n¼ cup white wine vinegar\n1 tbsp. dried oregano\n½ cup extra-virgin olive oil\n2 tsp. dried sage\n1 tsp. kosher salt\n¼ tsp. paprika\n1 tsp. dried rosemary\n½ tsp. ground black pepper\n¼ cup dry white wine\n1 tbsp. lemon juice\n2 tbsps. butter\n1 tbsp. flour\n½ cup white wine\n½ cup chicken broth\n1 tsp. worcestershire sauce\n\nProcedure\nIn a small jar, combine white wine vinegar and dried oregano. Cover and let stand at room temperature for at least 30 minutes, or up to overnight.\nStrain oregano-infused vinegar into a small bowl, then whisk together vinegar and olive oil.\nIn a large bowl, combine the oregano-olive oil mixture, sage, salt, paprika, rosemary, and black pepper. Add in chicken halves, and rub the marinade all over. Cover and refrigerate for at least 30 minutes, or up to overnight.\nRemove chicken from the marinade and pat dry. Preheat broiler to 185°C.\nBroil the chicken halves for 10-12 minutes per side, or until cooked through. An instant-read thermometer inserted into the thickest part of the thigh should read 73-75°C.\nRemove chicken from the broiler, and let rest for 5 minutes before carving.\nSet aside chicken drippings from the baking pan. \nHeat pan over medium heat. Melt butter, then cook flour until lightly browned. Whisk in white wine, chicken broth, worcestershire sauce, and reserved chicken drippings. Mix until well incorporated, then bring to a boil. Reduce to a simmer for 2-3 minutes, or until the sauce has thickened slightly.\nServe chicken on a bed of mashed potato, sautéed spinach and gravy.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Bounty Fresh"
@@ -85,7 +85,7 @@ const NOVEMBER_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "NOV IG & FB",
+    "campaign": "November IG",
     "caption": "Who doesn’t love a multi-functional household spray?\n\nWith Glade’s Automatic Spray in Sakura and Waterlily, not only are odors eliminated, but also, the air is left smelling so fresh. Inspired by the timeless kind of love, the Sakura and Waterlily scent, in particular, boasts fresh apples and florals, providing your space with an inviting and sophisticated energy.\n\nHead over to #TheMarketplace and try Glade’s Automatic Spray! Available in other scents, too.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Glade"
@@ -104,7 +104,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "NOV IG & FB",
+    "campaign": "November IG",
     "caption": "Craving a creamy Shrimp Roll? Here’s how.\n\nMade with Large Kurin Shrimp, which is available fresh at #TheMarketplace, prepare this delicious filling with celery, dill, mayonnaise, dijon mustard, and lemon, for a creamy, tangy, and tasty shrimp mix to fill your buttered brioche buns with.\n\nYou can also make the shrimp mixture in advance and consume as you please. Enjoy!\n\nServing Time: 15-20 minutes\nYield: 2 servings\n\nIngredients\n\n2 cups Kurin Shrimp Large, roughly chopped\nSalt and pepper to taste\n2 ribs celery, minced\n2 tbsps. dill, finely chopped\n5 tbsps. mayonnaise\n1 tbsp. lemon juice\n1 ½ tbsp. dijon mustard\nSalt and pepper to taste\n2 tbsp. butter \n3 pcs. brioche roll\n2 tbsps. spring onions, chopped\nLemon wedges for garnish\n\n\nProcedure\nBring a pot of salted water to a boil. Add Kurin Shrimp, and boil for 2-3 minutes, or until pink and just cooked through.\nImmediately drain shrimp, and plunge into an ice water bath. Let cool completely. Drain, and pat dry.\nIn a large bowl, add shrimp, celery, and dill. Mix in mayonnaise, lemon juice, and dijon mustard. Season with salt and pepper. Set aside.\nMelt butter in a large skillet over medium heat. Place brioche rolls cut-side down, and sear for 20 to 30 seconds, or until nicely browned. Flip, and continue to sear for 10 to 15 seconds on the other side.\nTo assemble, fill each toasted bun with a generous amount of the shrimp mixture. Top with spring onions and serve with lemon wedges.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Kurin"
@@ -129,7 +129,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "NOV IG & FB",
+    "campaign": "November IG",
     "caption": "Probably the most popular French salad, the Salad Niçoise originated in the French city of Nice and is traditionally made with tuna, potatoes, green beans, and hard-boiled eggs.\n\nUsing Century Smoked Bangus, we decided to give Salad Niçoise a Filipino twist by using our local milkfish. We kept the other pertinent components such as the potatoes and French beans, but the kicker, really, is the smoky flavor from the bangus that adds a lot of depth and character.\n\nFind the freshest Century fish products at #TheMarketplace!\n\nServing Time: 25 minutes\nYield: 2 servings\n\nIngredients\n\nSalad:\n1 (450g) pack Century Smoked Bangus\n2 cups baby potatoes, halved \n1 tbsp. olive oil \nSalt and pepper to taste\n2 cups French beans\n4 pcs. eggs, boiled and halved\n4 cups mixed greens\n\nVinaigrette:\n⅓ cup olive oil\n1 tbsp. lemon juice\n½ tbsp. lemon zest\n1 tbsp. white wine vinegar\n1 tbsp. dijon mustard\n2 tbsps. shallot, finely minced\nSalt and pepper to taste\n\nProcedure\nPreheat oven to 175°C. \nIn a baking tray, add baby potatoes and drizzle with olive oil. Season with salt and pepper, then toss to coat. Bake for about 15-20 minutes, or until fork tender.\nFlake Century Smoked Bangus and set aside.\nBoil French beans in salted water for 2-3 minutes, or until bright green and tender-crisp. Drain, and immediately plunge them into an ice water bath. Let the beans cool in the ice water bath until they are completely chilled.\nDrain beans and pat dry with a paper towel.\nIn a large bowl, combine flaked smoked bangus, french beans, baby potatoes, eggs, and mixed greens. \nIn a small bowl, whisk together olive oil, lemon juice, lemon zest, dijon mustard, and shallot. Season with salt and pepper.\nPour the dressing over the salad and toss to combine.\n\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Century"
@@ -154,7 +154,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "NOV IG & FB",
+    "campaign": "November IG",
     "caption": "Soba noodles impart a refreshing and clean taste to the palate. Don’t get us wrong — we love soba, but the simplicity can sometimes be a bit lacking, especially if you’re craving some protein and extra umami.\n\nThe next time you’re at #TheMarketplace, grab a packet of Sanriku Cold Smoked Mackerel. This versatile packet of fish tastes delightful and can be used as a side to go with a salad or even with a piping hot bowl of rice. For us, we love to pair it with some soba noodles just to transport us for a little while to the Land of the Rising Sun.\n\nDelicious and satisfying, you can easily put this meal together in under 15 minutes. Itadakimasu!\n\nServing Time: 5-10 minutes\nYield: 2 servings\n\nIngredients\n\n200g soba noodles\n1 (100g) pack Sanriku Cold Smoked Mackerel\n1 cup tsuyu sauce\n½ cup water\n¼ cup scallion, thinly sliced\n\nProcedure\nCook the soba noodles according to package directions.\nIn a small bowl, whisk together the tsuyu sauce and water\nOnce the noodles are cooked, drain them and rinse them with cold water.\nTo assemble the dish, divide the noodles among two bowls. Top each bowl with Sanriku Cold Smoked Mackerel and scallion.\nPour over tsuyu sauce mixture over the noodles, and serve.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Sanriku"
@@ -179,7 +179,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "NOV IG & FB",
+    "campaign": "November IG",
     "caption": "If you’re a fan of one-pan meals because it saves up a lot of cleaning time, here’s a recipe you should try using Mikisa Salmon Fillet, which is available at #TheMarketplace.\n\nThis One Pan Salmon in Spinach Cream Sauce is great for potluck dinners, or if you have friends coming over. It’s very easy to prepare and bursts with the creamy and comforting flavors of butter, garlic, and cheese — plus an extra spicy kick from red pepper flakes.\n\nEnjoy with a simple plate of garlic butter noodles or some garlicky mashed potatoes!\n\nServing Time: 20-25 minutes\nYield: 4-5 servings\n\nIngredients\n\n2 tbsps. olive oil\n2 slabs Mikisa Salmon Fillet\nSalt and pepper to taste\n1 tbsp. butter\n2 cloves garlic, minced\n¼ cup onion, chopped\n½ cup dry white wine\n½ cup heavy cream\n½ cup parmesan cheese, grated\n¼ tsp. red pepper flakes\n1 cup frozen green peas\n2 cups baby spinach leaves\nSlices of lemon for garnish\n\n\nProcedure\nHeat olive oil in a large skillet over medium-high heat. Season Mikisa Salmon Fillets with salt and pepper on both sides.\nSear Mikisa Salmon Fillets skin side down first. Once nicely browned, flip and sear for 2-3 minutes. Set aside salmon.\nReduce the heat to medium, and add butter. Once the butter has melted, sauté garlic and onion until softened. \nAdd white wine, and let reduce by half. Mix in heavy cream, parmesan cheese, and red pepper flakes, then bring to a simmer. \nAdd the green peas and spinach, and cook for 2 minutes.\nReturn Mikisa Salmon Fillets into the skillet, and spoon the sauce over the top. Reduce the heat to low, cover, and cook for an additional 3-5 minutes. \nGarnish with lemon slices and serve.\n\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Mikisa"
@@ -204,7 +204,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "NOV IG & FB",
+    "campaign": "November IG",
     "caption": "Hosting a little party at home? Prepare a tray of classy canapés with these Smoked Salmon Tea Sandwiches made with Monde Fluffy Wheat Bread! Salmon and cream cheese is a to-die-for combination, while chives and green onions add a garlicky zing to help cut through the richness. Mix some capers if you please, or serve with gherkins and pickled pearl onions on the side as well. Brew your favorite to go with this platter, and you’re all set for an afternoon filled with delightful chatter!\n\n#TheMarketplace has all the items that you need to prepare the perfect tea party, so head over and stock up on the items that you need.\n\n\n\n\nServing Time: 15 minutes\nYield: 2-3 servings\n\nIngredients\n\n8 slices Monde Fluffy Wheat Bread\n1 cup cream cheese, softened\n2 cups smoked salmon\n3 tbsps. chives\n2 tbsps. spring onions, chopped\n\n\nProcedure\nCut Monde Fluffy Wheat Bread into small rounds using a 2-inch cookie cutter. \nSpread cream cheese on top of each bread round, and top with smoked salmon.\nGarnish with chives and spring onions.\n\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Monde"
@@ -229,7 +229,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "NOV IG & FB",
+    "campaign": "November IG",
     "caption": "These Churro Cheesecake Taquitos are the perfect sweet snack that comes in a crispy shell made with Village Gourmet Tortilla. With a filling concocted with cream cheese, vanilla, and cinnamon sugar, how can you go wrong?\n\nPopular with both the kids and the grown-ups, we highly recommend you prepare more than a batch of these because they’ll surely disappear in an instant. Head over to #TheMarketplace to get all the ingredients that you need for this recipe!\n\n\nServing Time: 30 minutes \nYield: 4-5 servings\n\n\nIngredients\n\n2 cups cream cheese, softened\n1 tbsp. vanilla extract\n⅓ cup powdered sugar\n½ tbsp. cinnamon powder\n2 tbsps. granulated sugar\n1 pack Village Gourmet Tortilla\nOil for deep frying\n\n\nProcedure\nIn a large bowl, add cream cheese, vanilla extract and powdered sugar. Whisk until combined. Transfer to a piping bag and refrigerate for at least an hour.\nIn a small bowl, mix together cinnamon powder and granulated sugar. Set aside.\nUsing a 3-inch cookie cutter or a round saucer and knife, cut Village Gourmet Tortillas into smaller rounds. Roll each into a cylinder, and secure with a toothpick.\nHeat oil in a skillet over medium-high heat. \nDeep fry tortilla cylinders for 2-3 minutes per side, or until golden brown and crispy.\nRemove from the oil, and drain on a wire mesh rack. Once cool enough to touch, remove the tooth pick and coat with cinnamon sugar. \nPipe the cream cheese mixture into tortilla taquitos. \n\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Village Gourmet"
@@ -254,7 +254,7 @@ const NOVEMBER_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "NOV IG & FB",
+    "campaign": "November IG",
     "caption": "Made with real bananas and a dash of chocolate chips, Monde Banana Bars are the perfect snacks to have in your bag or purse, in case the craving for a sweet little bite kicks in. Each pack comes with 10 yummy pieces. Enjoy on their own or get creative by toasting them and topping with your favorite ice cream. Find them at #TheMarketplace! \n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Monde"
@@ -273,7 +273,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "NOV IG & FB",
+    "campaign": "November IG",
     "caption": "When it comes to food, balance is always key. And we feel that no better dish embodies this than this Longganisa Veggie Bake, which is exactly what it is: bold, spicy, and meaty Ecija Spicy Garlic Longganisa baked alongside a medley of healthy vegetables.\n\nApart from the Ecija Spicy Garlic Longganisa providing a delicious meat component to this dish, the fat and oils that are released while the Longganisa is baking in the oven add a layer of smoky, garlicky flavor to the vegetables. Simple yet so good. Serve with bread, pasta, or rice! Drop by #TheMarketplace and stock up on Ecija Spicy Garlic Longganisa today.\n\nServing Time: 30-35 minutes \nYield: 3-4 servings\n\n\nIngredients\n\n1 ½ cup zucchini, sliced\n1 ½ cup marbled potatoes, halved\n1 cup cherry tomatoes\n2 tbsps. olive oil\n¼ tsp. paprika powder\n¼ tsp. dried oregano \n¼ tsp. dried thyme \nSalt and pepper to taste \n3 pcs. garlic bulbs, halved\n1 pack Ecija Spicy Garlic Longganisa\n2 tbsp. parsley, chopped\n\n\nProcedure\nPreheat oven to 175°C.\nTransfer zucchini, potato marbles, and cherry tomatoes in a baking dish.\nDrizzle with olive oil, paprika, oregano, and thyme. Season with salt and pepper. Toss until everything is well coated.\nAdd garlic bulbs and Ecija Spicy Garlic Longganisa. Cover with foil, and bake for 15 minutes. Remove the foil and bake for another 7-10 minutes or until nicely browned.\nGarnish with chopped parsley.\n\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Ecija"
@@ -298,7 +298,7 @@ const NOVEMBER_IG_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "NOV IG & FB",
+    "campaign": "November IG",
     "caption": "Frozen meals are essential to every busy household, and with this array of Lou’s Kitchen Items that you can find at #TheMarketplace, there’s no need to worry if there’s no time to cook.\n\nWith irresistibly mouth-watering variants such as Beef Pot Roast au Jus, Pulled Pork in Barbecue Sauce, and Philly Style Shaved Steak, what’s there to not love? Cooked home-style, each meal is guaranteed to be satisfyingly good.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Lou’s Kitchen"
@@ -317,7 +317,7 @@ const NOVEMBER_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "NOV IG & FB",
+    "campaign": "November IG",
     "caption": "Looking for a new brand of tissue for your bathroom? Head over to #TheMarketplace and check out Kleenex’s Ultra Soft Bathroom Tissue.\n\nThe 3D clean wave embossing provides a more comfortable texture and is designed to clean more thoroughly, and the tissue itself is cushiony soft to the touch. Don’t forget to check it out, along with other bathroom essentials that you might need!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Kleenex"
@@ -336,7 +336,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "NOV IG & FB",
+    "campaign": "November IG",
     "caption": "Love coconut? Then these Coconut Butter Bars will be your new favorite homemade treat.\n\nApart from using coconut flakes, we also used a generous helping of Sagana Coconut Spread to add more coconut-iness to these bars. With condensed milk to sweeten and vanilla to add some aroma, make these for your personal snacking delight or gift to a loved one.\n\nSagana Coconut Spread, along with all the other ingredients that you need for this recipe, are available at #TheMarketplace!\n\nServing Time: 2 hours \nYield: 16 bars \n\n\nIngredients\n\n2 cups flour \n½ cup brown sugar\n1 tsp. salt\n1 cup Sagana Coconut Spread, melted \n3 ½ cups coconut flakes or desiccated\n1 cup condensed milk\n3 eggs\n1 tsp. vanilla extract\n\n\nProcedure\nPreheat oven to 175°C.\nIn a mixing bowl, add 1½ cups flour, ¼ cup sugar, ½ teaspoon salt, and ¾ cup melted Sagana Coconut Spread. Mix until combined. It should look clumpy.\nLine a 8x8” baking pan with parchment paper. Press the crust mixture into an even layer.\nBake for 10-15 minutes, or until light brown. Remove from the oven, and let cool.\nIn a large bowl, combine the rest of the flour, brown sugar, salt, and 3 cups coconut flakes.\nIn another bowl, whisk together melted Sagana Coconut Spread, condensed milk, eggs, and vanilla extract.\nMix the wet ingredients and dry ingredients until just combined, then transfer onto the cooled crust. Top with  remaining coconut flakes.\nBake for 20-25 minutes, or until a toothpick inserted in the middle comes out clean. Refrigerate for at least an hour before slicing.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Sagana"
@@ -361,7 +361,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "NOV IG & FB",
+    "campaign": "November IG",
     "caption": "Pizza for breakfast? Why not!\n\nTake a small Bambi Pizza Crust and top with cheese, bell peppers, and spring onions. For that breakfast touch, crack some quail eggs, bake the pizza, and you’re all done! Feel free to add whatever your please, and let us know how you jazzed up your breakfast pizza in the comments section below.\n\nHop on over to #TheMarketplace and shop for all the items you need to make this delicious Breakfast Pizza and more!\n\nServing Time: 20-25 minutes \nYield: 2-3 servings\n\nIngredients\n\n1 pc. Bambi Pizza Crust Small\n⅓ cup pomodoro sauce\n½ cup mozzarella cheese, grated\n½ cup cheddar cheese, grated\n⅛ cup red onions, sliced\n⅛ cup red bell pepper, julienned\n⅛ cup green bell pepper, julienned\n⅛ cup yellow bell pepper, julienned\n3 pcs. quail eggs\n1 tbsp. olive oil\n1 tbsp. spring onions, chopped\n\n\nProcedure\nPreheat oven to 200°C.\nSpread pomodoro sauce over the Bambi PIzza Crust. Sprinkle cheddar cheese and mozzarella cheese over the sauce-covered dough.\nTop with red onion,s red, green, and yellow bell peppers.\nCrack 3 quail eggs over the pizza, then drizzle the olive oil.\nBake in the preheated oven for 10-15 minutes, or until the crust is golden brown and the eggs are cooked through.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Bambi"
@@ -386,7 +386,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "NOV IG & FB",
+    "campaign": "November IG",
     "caption": "We’re sure you’ve seen all these tantalizing fruit sandwiches going viral on social media, so today, we’ll make our very own Fruit Sando using grocery bought Marby Whole Wheat Bread from #TheMarketplace.\n\nUse whatever fruit combination you fancy, but a good starting point would be strawberries, kiwis, and mangoes — they also make a beautiful color palate, don’t you agree?\n\nFor the binder, simply combine some whipped cream with vanilla and sugar, assemble, and chill for at least half an hour so that all then components can set in. Wehn it’s ready, dig in!\n\nServing Time: 40 minutes \nYield: 2 servings\n\nIngredients\n\n1 cup heavy whipping cream, chilled\n2 tbsps. white sugar\n¼ tsp. vanilla extract \n4 slices Marby Whole Wheat Bread\n½ cup strawberries, halved\n½ cup mangoes, chunks\n½ cup kiwi, quartered\n\n\nProcedure\nIn a large bowl, whisk together the heavy whipping cream, sugar, and vanilla extract until stiff peaks form.\nTrim the crusts off the sandwiches.\nTo assemble the sandwiches, place two slices of bread on a cutting board. Spread a layer of whipped cream on top of one slice. Add a layer of fruit, then spread another layer of whipped cream on top. Place the other slice of bread on top.\nRepeat to assemble the remaining sandwiches. Chill for at least 30 minutes.\nCut the sandwiches in half diagonally and serve immediately.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Marby"

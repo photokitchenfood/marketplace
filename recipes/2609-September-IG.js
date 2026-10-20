@@ -7,7 +7,7 @@ const SEPTEMBER_IG_DATA = [
     "layoutCode": "IG1",
     "layoutName": "Cheesy Egg Boat",
     "category": "RECIPE",
-    "campaign": "SEPTEMBER IG",
+    "campaign": "September IG",
     "caption": "Breakfast just got a whole lot more fun. 🍳🥖\n\nTurn a crusty Village Gourmet French Baguette into a cheesy egg boat filled with fluffy eggs, crispy bacon, melted mozzarella and cheddar, and fresh spinach. Baked until golden and finished with a sprinkle of herbs and chili flakes, it’s a delicious way to start the day—or a comforting option for any time you’re craving something savory. Pick up Village Gourmet French Baguette and everything you need at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Village Gourmet"
@@ -30,7 +30,7 @@ const SEPTEMBER_IG_DATA = [
     "layoutCode": "IG2",
     "layoutName": "Pizza Bread Cups",
     "category": "RECIPE",
-    "campaign": "SEPTEMBER IG",
+    "campaign": "September IG",
     "caption": "Who says sliced bread is just for sandwiches? 🍕✨\n\nTurn Monde Fluffy Wheat Bread into crispy little pizza cups loaded with tomato sauce, melty mozzarella, pepperoni, bell peppers, and black olives. Baked until bubbly and golden around the edges, they’re an easy, fun-to-eat treat for merienda, parties, or whenever a pizza craving hits. Pick up Monde Fluffy Wheat Bread and everything you need to make these Pizza Bread Cups at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Monde"
@@ -53,7 +53,7 @@ const SEPTEMBER_IG_DATA = [
     "layoutCode": "IG3",
     "layoutName": "Crispy Shrimp Bao",
     "category": "RECIPE",
-    "campaign": "SEPTEMBER IG",
+    "campaign": "September IG",
     "caption": "Crispy shrimp tucked into soft, fluffy bao? Yes, please! 🍤✨\n\nGolden battered shrimp meet cool cucumber and a creamy sriracha mayo inside warm Fat & Thin Cuapao for a satisfying mix of crunch, heat, and freshness in every bite. Finished with fresh cilantro, these Crispy Shrimp Bao are perfect for sharing or serving up when you’re craving something a little different. Pick up Fat & Thin Cuapao and everything you need at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Fat & Thin"
@@ -76,7 +76,7 @@ const SEPTEMBER_IG_DATA = [
     "layoutCode": "IG4",
     "layoutName": "Pesto Crusted Salmon",
     "category": "RECIPE",
-    "campaign": "SEPTEMBER IG",
+    "campaign": "September IG",
     "caption": "Give your weeknight salmon an easy upgrade. 🐟✨\n\nTender Mikisa Salmon Fillets are topped with basil pesto and a golden panko-Parmesan crust for a satisfying mix of fresh, herby flavor and crisp texture. A touch of lemon keeps every bite bright, while the oven does most of the work—making this Pesto Crusted Salmon an easy option when you want dinner to feel a little extra. Pick up Mikisa Salmon Fillets and everything you need at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Mikisa"
@@ -99,7 +99,7 @@ const SEPTEMBER_IG_DATA = [
     "layoutCode": "IG5",
     "layoutName": "Char Siu Chicken",
     "category": "RECIPE",
-    "campaign": "SEPTEMBER IG",
+    "campaign": "September IG",
     "caption": "Bring the flavors of char siu straight to your dinner table. 🍗🥢\n\nMarinated in hoisin, soy sauce, honey, five-spice, and aromatics, Magnolia Chicken Leg Quarters roast until tender with a beautifully caramelized, glossy finish. A final sprinkle of sesame seeds and a squeeze of lime bring it all together. Serve with steamed rice, bok choy, or kimchi for a satisfying meal worth the wait. Pick up Magnolia Chicken Leg Quarters and everything you need at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Magnolia"

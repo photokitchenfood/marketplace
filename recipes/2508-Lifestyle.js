@@ -10,7 +10,7 @@ const LIFESTYLE_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "LIFESTYLE",
+    "campaign": "Lifestyle",
     "caption": "No caption needed.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -29,7 +29,7 @@ const LIFESTYLE_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "LIFESTYLE",
+    "campaign": "Lifestyle",
     "caption": "No caption needed.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"

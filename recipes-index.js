@@ -68,7 +68,7 @@ const RECIPES_INDEX = [
   },
   {
     "id": "2604-Health-And-Wellness",
-    "label": "Health And Wellness",
+    "label": "Health & Wellness",
     "type": "photo",
     "year": 2026,
     "month": 4,
@@ -293,7 +293,7 @@ const RECIPES_INDEX = [
   },
   {
     "id": "2508-Back-To-School",
-    "label": "Back To School",
+    "label": "Back to School",
     "type": "photo",
     "year": 2025,
     "month": 8,

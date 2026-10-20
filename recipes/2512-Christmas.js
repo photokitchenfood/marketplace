@@ -10,7 +10,7 @@ const CHRISTMAS_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "CHRISTMAS",
+    "campaign": "Christmas",
     "caption": "A little holiday comfort goes a long way. 🎄\n\nSanicare’s Facial Tissue Box slips so easily into the season. It’s soft, reliable, and wrapped in a leaf-patterned design that looks right at home beside your Christmas tree or living room nook.\n\nKeep a box (or two) around for movie nights, holiday dinners, and all the heartwarming moments in between. A small touch, but such a useful one, especially this time of year. Find it at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Sanicare"
@@ -29,7 +29,7 @@ const CHRISTMAS_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "CHRISTMAS",
+    "campaign": "Christmas",
     "caption": "May your laundry days feel a little merrier with Tide Expert Clean x Downy Garden Bloom in the mix. ✨🧺\n\nThe 3X tagos-linis power tackles the heavy work, while that Garden Bloom scent adds a soft, festive freshness to every load, making it perfect for all the holiday outfits, linens, and last-minute party prep coming your way. 🌸 Stock up now at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Tide",
@@ -49,7 +49,7 @@ const CHRISTMAS_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "CHRISTMAS",
+    "campaign": "Christmas",
     "caption": "A little breezy calm goes a long way, especially during the holiday rush. ✨\n\nGlade’s Automatic Spray Refill in Ocean Escape brings a clean, refreshing lift to any corner of the home, keeping your space feeling bright, cozy, and ready for company.\n\nPick up at up The Marketplace, along with a refill (or two). 🌊\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Glade"
@@ -68,7 +68,7 @@ const CHRISTMAS_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "CHRISTMAS",
+    "campaign": "Christmas",
     "caption": "Holiday cooking means plenty of dishes, but Joy Antibac+ Safeguard makes clean-up feel a whole lot lighter. ✨🧽\n\nIts superior grease-cutting power works fast, and the added Safeguard protection helps keep your sponge 99.9% germ-free. Plus, that Hygiene Fresh scent keeps your sink smelling clean even after the biggest feasts. 🍽️ Find it at The Marketplace and keep your kitchen ready for every gathering, late-night wash, and round of Christmas leftovers.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Joy"
@@ -87,7 +87,7 @@ const CHRISTMAS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "CHRISTMAS",
+    "campaign": "Christmas",
     "caption": "Holiday cooking feels extra special when there’s a dish that brings color, comfort, and a good stretch of cheese to the table. 🧀🫑\n\nThese Cheesy Stuffed Peppers come alive with Arla Danish Mozzarella — beautifully melty, gently creamy, and perfect for binding all that hearty beef-and-veg filling together. Every bite has that festive coziness we all look forward to this time of year. 🎄✨\n\nPick up everything you need for this recipe at The Marketplace, and bring a bright, delicious pop of cheer to your holiday spread.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Arla"
@@ -112,7 +112,7 @@ const CHRISTMAS_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "CHRISTMAS",
+    "campaign": "Christmas",
     "caption": "A little holiday treat never hurts, especially when it comes coated in Belgian milk chocolate. 🍓\n\nMagnum Assorted Minis come in mouthwatering flavors such as Classic, Almond, and Strawberry Panna. Each stick brings together silky ice cream and a crisp Belgian chocolate shell for that perfect sweet pause in between all the season’s bustle. 🍫⭐️\n\nPick up a box at The Marketplace and keep something joyful in the freezer for every cozy moment, celebration, or midnight craving.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Magnum"
@@ -131,7 +131,7 @@ const CHRISTMAS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "CHRISTMAS",
+    "campaign": "Christmas",
     "caption": "Holiday gatherings feel even more special when there’s a dish that brings comfort and a little Filipino tradition to the table. 🍖\n\nThis Ham Macaroni Salad is a delicious way to use CDO Holiday Ham, a Christmas favorite made from 100% premium pork with no extenders, simmered in a rich pineapple sauce for that signature sweet, festive flavor. It’s also one of the best ways to turn leftover ham into something everyone will happily go back for.\n\nPick up CDO Holiday Ham and all the ingredients you need at The Marketplace, and add a bright, crowd-pleasing classic to your holiday spread! 🎄\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "CDO"
@@ -156,7 +156,7 @@ const CHRISTMAS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "CHRISTMAS",
+    "campaign": "Christmas",
     "caption": "A holiday table always shines a little brighter with something fresh, warm, and shareable, don’t you think? 🍅✨\n\nThis Hot Honey Cherry Tomato Dip puts the spotlight on cherry tomatoes at their ripest — bursting, jammy, and full of sweet-tangy flavor after a quick roast in the oven. Paired with a creamy cheese base and a drizzle of hot honey, it’s the kind of appetizer that disappears fast at any gathering. 🔥🥖\n\nPick up the freshest cherry tomatoes and all your ingredients at The Marketplace, and bring a festive, crowd-pleasing dip to your next holiday spread.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -181,7 +181,7 @@ const CHRISTMAS_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "CHRISTMAS",
+    "campaign": "Christmas",
     "caption": "Holiday season means celebrations, guests, and lots of merry mess, but keeping your home fresh and ready is easy with this little lineup. ✨\n\nFrom Tide Expert Clean for laundry days, Joy Antibac+ Safeguard for sparkling dishes, Glade Automatic Spray for a breezy scent, and Sanicare Facial Tissue for everyday moments in between, these essentials keep your space feeling warm, welcoming, and holiday-bright. 🧼🌿✨\n\nFind them all at The Marketplace and make every room in your home holiday-ready with a little help from these festive must-haves.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Tide",

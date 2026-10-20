@@ -10,7 +10,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "US FEST",
+    "campaign": "US Festival",
     "caption": "One mustn't confuse the French meringue confection, macaron, with macaroons, which are cookies made with desiccated coconut.\n\n#TheMarketplace is home to a lot of well-loved international products, including American Hershey’s Classic Milk Chocolate Kisses, which add drops of creaminess and extra sweetness to freshly baked macaroons.\n\nThis simple recipe takes less than an hour to prepare, and they are the loveliest snack to enjoy with your favorite tea or coffee.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Hershey's"
@@ -35,7 +35,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "US FEST",
+    "campaign": "US Festival",
     "caption": "If you’re craving a hefty, hearty, meaty dinner, these Truffle Patty Melts made special with Point Reyes TomaTruffle Cheese are your answer.\n\nImagine tucking into juicy, meaty beef patties smothered in umami-filled truffle cheese. Crunchy red onions and creamy mayonnaise counter the rich flavors, and everything is sandwiched in between toasted sourdough. That’s right, run — don’t walk — to #TheMarketplace nearest you and fill your cart with everything you need for this delicious dinner.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Point Reyes"
@@ -60,7 +60,7 @@ const US_FESTIVAL_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "US FEST",
+    "campaign": "US Festival",
     "caption": "What’s great about #TheMarketplace is that we are well-stocked with not only the best local groceries but also international choices! This week, come on over and explore our range of American snacks, goodies, frozen goods, and sundries to fill your pantries and fridges with. Happy grocery shopping!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -79,7 +79,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "US FEST",
+    "campaign": "US Festival",
     "caption": "Cereal as dessert? Why not!\n\nUsing Post Honey Bunches of Oats with Strawberries, make this Strawberry Cereal Tart, which combines the nutty flavors of oat and cereal, sweet cream, and tangy strawberry slices! It’s a luscious treat that rolls breakfast and dessert into one. Explore our range of American cereals at #TheMarketplace! There’s loads to try out.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Post",
@@ -105,7 +105,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "US FEST",
+    "campaign": "US Festival",
     "caption": "Who says chardonnay is only meant for sipping? The next time you head over to #TheMarketplace, grab a bottle of American Sand Point Chardonnay and whip up this Creamy Lemon Butter Salmon in a jiffy! Enjoy it with your favorite salad or side dish, but we personally love it with creamy herbed mashed potatoes and sautéed asparagus. Enjoy!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Sand Point"
@@ -130,7 +130,7 @@ const US_FESTIVAL_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "US FEST",
+    "campaign": "US Festival",
     "caption": "Keep your clothes looking new and fresh for longer with Faultless Original Ironing Spray Starch! It neutralizes odors in most washable fabrics, making your clothes smell great. Plus, it makes ironing quicker and easier, leaving your clothes with a clean, freshly-laundered scent. Giving your clothes a little more love goes a long, long way. Find Faultless Original Ironing Spray Starch at #TheMarketplace, along with other laundry must-haves!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Faultless"

@@ -10,7 +10,7 @@ const SHOP_COLLECT_VIDEOS_DATA = [
     "category": "EAP",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "SHOP & COLLECT",
+    "campaign": "Shop & Collect",
     "caption": "Craving something comforting and umami-forward? 🍜🥢✨This Shiitake Bacon Butter Udon brings together the smoky richness of Purefoods Honeycured Bacon, the creamy goodness of Magnolia Gold Unsalted Butter, and the earthy depth of GF Shiitake Mushrooms. Every bite is buttery, savory, and indulgent in the best possible way.\n\nPerfect for those days when you want something simple yet satisfying, all made with pantry favorites you can trust. 💛 Find everything you need for this recipe at The Marketplace.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Purefoods",
@@ -37,7 +37,7 @@ const SHOP_COLLECT_VIDEOS_DATA = [
     "category": "EAP",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "SHOP & COLLECT",
+    "campaign": "Shop & Collect",
     "caption": "This golden, gooey, and oh-so-satisfying Ham & Cheese Stuffed Flatbread is comfort food made simple: soft homemade dough filled with CDO Sweet Ham and Emborg Mozzarella Shredded Cheese for that perfect pull. 🍖🧀\n\nThe secret twist? Chobani Light Greek Yogurt, used in both the dough and the dip — a creamy, protein-packed alternative to sour cream or mayo that adds a light, tangy touch. Serve warm, brush with garlic herb butter, and dunk into that refreshing yogurt dip. ✨\n\nAll ingredients for this recipe are available at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "CDO",
@@ -64,7 +64,7 @@ const SHOP_COLLECT_VIDEOS_DATA = [
     "category": "EAP",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "SHOP & COLLECT",
+    "campaign": "Shop & Collect",
     "caption": "Layers of juicy Driscoll’s Strawberries, soft vanilla sponge, and a velvety mix of whipped cream and Nestlé Yogurt Berry Mix make up this sweet, creamy, and refreshingly light Strawberry Yogurt Shortcake Trifle. 🍓💖\n\nGreat for sunny afternoons or after-dinner treats, Nestlé Yogurt Berry Mix adds a delicious source of calcium and probiotics that make each spoonful both wholesome and delightful. 🌿☕️\n\nFind Driscoll’s Strawberries and Nestlé Yogurt Berry Mix at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Driscoll's",

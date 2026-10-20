@@ -10,7 +10,7 @@ const APRIL_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "APR IG & FB",
+    "campaign": "April IG",
     "caption": "Make those Wernsing Potato Pockets w/ Cream Cheese extra meaty and extra filling with this Cheeseburger Potato Pocket Bake!\n\nThink of it as a deconstructed cheeseburger with cream cheese stuffed potato pockets to replace the bread. The result is comfort on a plate — varying textures of crumbled meat, creamy cheese, and crispy potatoes. Dig in!\n\nFind Wernsing Potato Pockets w/ Cream Cheese along with other yummy ready-to-cook delights at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Wernsing"
@@ -35,7 +35,7 @@ const APRIL_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "APR IG & FB",
+    "campaign": "April IG",
     "caption": "West Virginia is known for adding coleslaw to their hotdogs, so we’ve taken inspiration from that and put a Korean spin to it. Introducing these Grilled Hotdogs with Kimchi Slaw made with Tender Juicy Chili Cheese Hot Dogs!\n\nApart from the inherent cheesy and spicy flavor that you already get from the hotdogs, this homemade kimchi slaw adds a refreshing crunch to each bite — a perfect snack for the summer-time. Also, because it’s so versatile, explore using this kimchi slaw as a side for other dishes as well!\n\nHead over to #TheMarketplace today and grab all the ingredients that you need for this recipe!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Tender Juicy"
@@ -60,7 +60,7 @@ const APRIL_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "APR IG & FB",
+    "campaign": "April IG",
     "caption": "Say goodbye to your fear of cockroaches invading your precious space with Baygon 24-Hour Roach Killer!\n\nAvailable at #TheMarketplace, the format of this insecticide lures cockroaches to take the bait and destroy their nests in the process. It effectively reduces roach population in just a week, and each bait can last up to three months. Grab some on your next grocery run!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Baygon"

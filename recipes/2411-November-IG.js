@@ -10,7 +10,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "IG",
+    "campaign": "November IG",
     "caption": "Florentine Spinach Poached Eggs — a dish that is as scrumptious as it is sophisticated. Made with Nestlé All Purpose Cream, this isn’t just breakfast; it’s an indulgence, an invitation to savor every forkful.\n\nImagine runny eggs enveloped in savory prosciutto, nestled atop a bed of spinach, the whole affair swathed in a creamy sauce that drapes over like silk. This is morning decadence — one you can bring to life in your kitchen.\n\nSo, grab some Nestlé All Purpose Cream, bake those eggs to your liking, and let yourself be transported to a small Florentine café, where the flavors are full, and each bite is a celebration. Get your ingredients at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nestlé"
@@ -35,7 +35,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "IG",
+    "campaign": "November IG",
     "caption": "There’s nothing quite like the comforting warmth of a coconut curry paired with the delicate flavor of salmon. And with Mikisa Salmon Fillets, you’re set for something really special.\n\nSauté a bit of garlic, ginger, mushrooms, and bell peppers; add a swirl of coconut milk, your favorite red curry paste, and let the salmon cook gently until perfectly tender.\n\nServe it over rice with a sprinkle of fresh cilantro and lime wedges for some zing. It’s simple, satisfying, and absolutely delicious. Head over to The Marketplace now and grab all the ingredients you need. Enjoy!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Mikisa"
@@ -60,7 +60,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "IG",
+    "campaign": "November IG",
     "caption": "Using The Berry Company's vibrant Cranberry Juice, this Cranberry Espresso Tonic brings together the rich, deep notes of espresso with the bright tang of cranberry, finished with a hint of tonic effervescence. \n\nPerfect for a cozy afternoon treat or an elegant dinner party starter, this drink will charm you and your guests with its beautiful color and bold flavor. Find The Berry Company products at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "The Berry Company"
@@ -85,7 +85,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "IG",
+    "campaign": "November IG",
     "caption": "Whisk yourself into the warmth and aroma of a perfectly roasted feast. \n\nStart with the main event: Ready-to-Cook Magnolia Chicken Roasters in Smoked Pepper — made with a rich, deep spice blend that transforms a humble chicken into an irresistible centerpiece. Allow the smoky pepper infusion to seep into every crevice and surround the bird with a medley of hearty vegetables, tossed in olive oil, a pinch of salt, and perhaps a dash more of that divine chicken juice.\n\nLet the magic unfold as it bakes in the oven — watch the flavors meld and caramelize, giving you golden skin and tender, succulent meat. This is comfort at its finest. Shop Magnolia Chicken Products — along with the other ingredients that you need for this recipe — at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Magnolia"
@@ -110,7 +110,7 @@ const NOVEMBER_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "IG",
+    "campaign": "November IG",
     "caption": "There’s something truly special about a simple pleasure done right, don’t you think?\n\nMonde Classic Special Mamon is that little indulgence we all need — a soft, buttery sponge that melts in your mouth, with just the perfect hint of sweetness.\n\nPair it with coffee in the morning, or enjoy it as an afternoon pick-me-up — it’s always a delightful snack to have around. Find Monde Classic Special Mamon, along with other Monde snacks at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Monde"
@@ -129,7 +129,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "IG",
+    "campaign": "November IG",
     "caption": "Few things rival the pure delight of a morning ritual that feels like dessert, and these Blueberry Cheesecake Bagels are a revelation.\n\nStart with Village Gourmet Blueberry Bagels, their berry-studded goodness is the ideal foundation. Whip together cream cheese, a hint of vanilla, powdered sugar, and just a whisper of lemon zest until it’s smooth and luscious. Spread generously, then scatter some fresh blueberries and drizzle lightly with honey for a touch of warmth.\n\nOne bite and you'll find that each flavor comes alive on your palate. It’s breakfast transformed, a treat that’s almost too good to share. Head over to The Marketplace and add all the ingredients that you need for this breakfast delight into your cart!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Village Gourmet"
@@ -154,7 +154,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "IG",
+    "campaign": "November IG",
     "caption": "If you’re looking for a quick, comforting bite with some flair, this Gilgeori Toast is your answer.\n\nMonde Wheat Bread is the choice base, hearty and with just the right amount of softness. Whisk up three eggs, season them, then mix in shredded cabbage, carrots, and thinly sliced green onion for that fresh crunch. Sauté the mixture, then layer it onto the toasted Monde Wheat Bread with savory ham and gooey cheese. Add a touch of ketchup and mayo, with a sprinkle of sugar to balance everything, and press it all together until warm and melty — absolute perfection.\n\nEnjoy this Gilgeori Toast any time of the day! Stock up on ingredients the next time you make a trip to The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Monde"
@@ -179,7 +179,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "IG",
+    "campaign": "November IG",
     "caption": "Elevate your lunch with a Crispy Chicken Caesar Sandwich that promises layers of irresistible flavor.\n\nFry two seasoned boneless chicken breasts into a golden crunch and whip up your very own creamy Caesar dressing while they cook. Build your sandwich on some perfectly toasted Gardenia Healthi Multigrain Loaf by spreading your homemade Caesar dressing on each side. Layer the crispy chicken with chopped romaine and parmesan shavings, and dig in. Each bite is a scrumptious combination of textures and flavors that you won’t be able to resist!\n\nHead over to The Marketplace and find all the ingredients that you need for this tasty and satisfying sandwich!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Gardenia"
@@ -204,7 +204,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "IG",
+    "campaign": "November IG",
     "caption": "This recipe for Honey Butter Toast will surely make your taste buds sing.\n\nSpread peanut butter on some Marby Super Loaf Bread. Then, combine some butter, honey, brown sugar, and a pinch of salt and slather this mixture on the bread before toasting it to golden perfection.\n\nLet your concoction melt into the bread until it crips up to your desired liking, and then, take it to the next level by adding a dollop of whipped cream and a drizzle of luscious caramel syrup. The combination of textures and flavors — crunchy sweet bread, nutty filling, and decadent toppings — will leave you utterly satisfied.\n\nEnjoy a bite of this blissful treat with some ice-cold creamy milk or coffee! Grab all the items that you need for this Honey Butter Toast at The Marketplace. See you there!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Marby"
@@ -229,7 +229,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "IG",
+    "campaign": "November IG",
     "caption": "Dive into the vibrant flavors of this Taiwanese Sausage Lo Mein that’s sure to impress.\n\nBegin with some Original Black Bridge Taiwanese Sausage, its sweet, savory profile adding an irresistible depth. Sauté garlic and ginger in fragrant sesame oil, then toss in some crisp bok choy and colorful bell peppers, allowing them to soften just enough to retain their crunch.\n\nA splash of oyster sauce lifts the dish, binding it together with a savory richness. Finish with some chili garlic oil for heat and a sprinkle of fresh green onions for a burst of color and flavor. Each bite is a harmonious dance of textures and tastes that transports you straight to the heart of Taiwanese cuisine.\n\nFind Original Black Bridge Taiwanese Sausage, along with the other ingredients that you need for this dish, at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Black Bridge"
@@ -254,7 +254,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "IG",
+    "campaign": "November IG",
     "caption": "Take your pasta game up a notch with this Truffle Pork Sausage Fettuccine that brings both comfort and sophistication to the table — it’s made with Delicato Truffle Cheese Pork Sausage, which is available at The Marketplace!\n\nSautéed until beautifully browned, the rich aroma of truffle in the sausages will envelop your kitchen in sheer deliciousness. Toss them with some mushrooms, white wine, more truffle oil, and some perfectly cooked fettuccine, adding a splash of heavy cream to create a silky sauce that clings to each strand. Finish with a shower of freshly grated Parmesan and perhaps a sprinkle of cracked black pepper for an extra kick. Each bite of this pasta is a symphony of savory indulgence that will linger in your memory long after the plates have been cleared.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Delicato"
@@ -279,7 +279,7 @@ const NOVEMBER_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "IG",
+    "campaign": "November IG",
     "caption": "Every once in a while, a treat comes along that takes you back to those carefree days of childhood, and Oreo Ice Cream Sticks do just that. \n\nPicture the bliss of creamy vanilla ice cream, combined with the rich, chocolatey crunch of Oreo cookies, all enveloped in a crisp chocolate shell — each bite a delightful homage to that classic duo of Oreos and milk… and more chocolate!\n\nHead over to The Marketplace, allow yourself to indulge in this whimsical delight, and relish the memories that come flooding back!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Oreo"
@@ -298,7 +298,7 @@ const NOVEMBER_IG_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "IG",
+    "campaign": "November IG",
     "caption": "Kraft Grated Parmesan is your kitchen’s secret weapon, bringing a burst of flavor that elevates everything from pasta to pizza. It’s not just a finishing touch; it’s a versatile companion that dances beautifully with roasted vegetables, brightens up salads, and adds depth to soups and stews.\n\nAvailable at The Marketplace, the convenience of having Kraft Grated Parmesan on hand means you can effortlessly transform any dish into a gourmet experience. Just sprinkle it on, and watch as it melts and mingles, adding a rich, savory note to each dish.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Kraft"

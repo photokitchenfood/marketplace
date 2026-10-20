@@ -10,7 +10,7 @@ const SUMMER_VIDEOS_DATA = [
     "category": "EAP",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "SUMMER EAP",
+    "campaign": "Summer",
     "caption": "Head outdoors, spread out those picnic mats, and celebrate the coming of spring with this Reuben Pasta Salad, paired with crisp and refreshing glasses of Fiorelli Prosecco D.O.C. Extra Dry.\n\nFor the pasta salad, head over to #TheMarketplace and fill up your cart with Casino Bio Penne Au Blé Complet, Libby's Corned Beef, and Casino Bio Moutarde à l'Ancienne. This dish actually acts as a complete meal (you’ve got your carbs, veg, and proteins all in one bite!) and can be easily whipped up in half an hour. Don’t forget to throw in some fresh fruits for dessert, too! Put on your best summer getup, grab your favorite sun hat, and enjoy a lazy afternoon with good food and good company.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Fiorelli",

@@ -10,7 +10,7 @@ const BREAKFAST_FAIR_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "BREAKFAST FAIR",
+    "campaign": "Breakfast Fair",
     "caption": "Something to delight the little ones at the breakfast table?\n\nTry your hand at this Cheese Tater Tots Casserole made with Anchor Processed Cheddar Cheese, which is high in calcium for strong bones and teeth. With other kid-friendly ingredients such as bacon, what’s there to not love?\n\nFind Anchor products, along with all the other ingredients you need for this recipe at #TheMarketplace, and prepare this dish for the upcoming weekend!\n\nServing Time: 20 minutes\nYield: 2-3 servings\n\nIngredients\n\n1 cup bacon, chopped\n2 cups oil\n400g potato tots\n4 slices Anchor Processed Cheddar Cheese\n2 tbsps. mayonnaise\n2 tbsps. scallions, chopped\n\nProcedure\n\n1. Set a pan over medium heat, then add bacon and fry until golden and crispy. Drain excess oil and set it aside.\n2. Preheat oil to 175°C. Deep fry potato tots until golden brown. Transfer to a serving dish, and top with slices of Anchor Processed Cheddar Cheese and bacon bits.\n3. Drizzle with mayonnaise on top, and garnish with chopped scallions.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Anchor"

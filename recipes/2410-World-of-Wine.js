@@ -10,7 +10,7 @@ const WORLD_OF_WINE_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "WORLD OF WINE",
+    "campaign": "World of Wine",
     "caption": "Opting to prepare a light dinner with a substantial wine?\n\nLook no further. Our Tomato Curry Poached Cod recipe will surely hit the spot — tangy, savory, and nutty. Pair it with a bottle of Penfolds Riesling, which you will also need for cooking! Its minerality adds depth to the curry, while its delicate notes and aroma pair perfectly with the dish. Find all the ingredients that you need — including Penfolds Riesling — at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Penfolds"
@@ -35,7 +35,7 @@ const WORLD_OF_WINE_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "WORLD OF WINE",
+    "campaign": "World of Wine",
     "caption": "Sophisticated snacking is always in style, so make these Caviar Waffle Bites for your next potluck or get-together at home!\n\nApart from the caviar, what makes this recipe special is the homemade waffle batter, which has been customized to balance out the briny caviar (use either sturgeon or salmon roe) and the creamy, slightly tangy crème fraîche. Enjoy all this with 19 Crimes Cali Gold Sparkling Wine, which comes bursting with citrus aromas and bready toast! Caviar cheers. Head over to #TheMarketplace and find all the items you need for this opulent pairing.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "19 Crimes"
@@ -60,7 +60,7 @@ const WORLD_OF_WINE_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "WORLD OF WINE",
+    "campaign": "World of Wine",
     "caption": "A plate of crab cakes with mustard aioli is indeed a simple luxury. \n\nCrunchy on the outside and bursting with the sweetness of crab meat on the inside, it makes a decadent main to accompany a simple salad.\n\nOf course, this dish is best enjoyed with a serving or two of Ponte De Boga Albarino, which comes rich with citrus notes and even marmalade! Its honeyed body contrasts the crust of the crab cakes and the crisp greens.\n\n#TheMarketplace is home to a huge selection of wines — get the ingredients for these crab cakes there, too. Happy shopping!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Ponte De Boga"
@@ -85,7 +85,7 @@ const WORLD_OF_WINE_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "WORLD OF WINE",
+    "campaign": "World of Wine",
     "caption": "When it comes to gamier, heavier meats, there’s nothing like a full-bodied wine to pair them with.\n\nThe next time you’re at #TheMarketplace, swipe a bottle of Carnivor Cabernet Sauvignon 75, and while you’re at it, why not make this Pistachio-Crusted Lamb at home and surprise yourself at the melange of flavors bursting from this comforting yet sophisticated home-cooked meal — or bookmark this recipe for the next special occasion!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Carnivor"
@@ -110,7 +110,7 @@ const WORLD_OF_WINE_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "WORLD OF WINE",
+    "campaign": "World of Wine",
     "caption": "Get ready to impress your guests, family, and friends with this Baked Gnocchi Ragu made with Grande Alberone Red Wine.\n\nIt’s definitely not your ordinary pasta recipe. A deeper ragu flavor is achieved through the inclusion of this heavy red, its berry notes adding a touch of sweetness to counter the tang from the tomato paste. Opt to make your own gnocchi or purchase the store-bought variety, as long as you don’t forget to pair this dish with more Grande Alberone Red Wine. Salute!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Grande Alberone"
@@ -135,7 +135,7 @@ const WORLD_OF_WINE_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "WORLD OF WINE",
+    "campaign": "World of Wine",
     "caption": "Have a craving for a light and refreshing salad?\n\nNow that we are in the ber months, enjoy summer on a plate with this Citrus Goat Cheese Salad, paired with a crip glass of Mouton Cadet Blanc. Fresh and uncomplicated, this wine balances out the sweet acidity and bitterness brought forth by slivers of orange and grapefruit, while enhancing the savoriness of the goat cheese and vinaigrette. Shop all the ingredients that you need for this recipe at #TheMarketplace and whip up this invigorating salad!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Mouton Cadet"
@@ -160,7 +160,7 @@ const WORLD_OF_WINE_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "WORLD OF WINE",
+    "campaign": "World of Wine",
     "caption": "Cozy season is upon us, and this Peach & Burrata Caprese salad comes bursting with flavors that envelop you like a warm hug. Let sweet peaches, nuanced with tart balsamic glaze, creamy burrata, and earthy basil, add magic on your palate with their simple yet comforting flavors.\n\nWhat better way to liven up this dish even more than with a bottle of Fiorelli Moscato Mandarino, which leans towards the sweeter side and is ripe with aromas of stone fruit and citrus. Find all the ingredients that you need at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Fiorelli"
@@ -185,7 +185,7 @@ const WORLD_OF_WINE_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "WORLD OF WINE",
+    "campaign": "World of Wine",
     "caption": "Celebrate the little things in life with a platter of these Cranberry Brie Puffs paired with a fizzy, fruit-forward bottle of Brown Brothers Sparkling Moscato.\n\nThe combination of sweet and tangy cranberry jam, rich brie, herbaceous rosemary, and buttery pistachios brighten the soft musk aromas of the Brown Brothers Sparkling Moscato exceptionally.\n\nHead over to #TheMarketplace and shop the ingredients that you need for these delicious puffs — don’t forget the moscato!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Brown Brothers"
@@ -210,7 +210,7 @@ const WORLD_OF_WINE_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "WORLD OF WINE",
+    "campaign": "World of Wine",
     "caption": "Possibly the most versatile wine, a Pinot Noir boasts medium tannins and high acidity, making it a great red to even pair with lighter meats such as fish and chicken.\n\nHowever, when it comes to dessert, Pinot Noir doesn’t usually go with extremely sweet dishes, but it does with this Dark Chocolate Salted Caramel Tart, which is part savory, part bitter, and sporting lots of depth.\n\nMake this tart for dessert, and for the wine, grab a bottle of Lapis Luna Pinot Noir the next time you’re at #TheMarketplace — bursting with notes of cherries and berries, it’s impossible go wrong when pairing this Pinot Noir with a variety of savory dishes, and, of course, this Dark Chocolate Salted Caramel Tart.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Lapis Luna"
@@ -235,7 +235,7 @@ const WORLD_OF_WINE_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "WORLD OF WINE",
+    "campaign": "World of Wine",
     "caption": "Vongole is definitely a comfort dish — the simple yet ethereal combination of clams, parsley, garlic, and white wine awakens the senses, especially that of taste and scent.\n\nIn this recipe, we used Casali Invernaia Bianco White Wine, which has aromas of pears and apples, including hints of green peppers and nettles. Try it out the next time you make a vongole, and make sure you have an extra bottle handy to pair your pasta with! All items to prepare this meal can be found at #TheMarketplace.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Casali Invernaia"

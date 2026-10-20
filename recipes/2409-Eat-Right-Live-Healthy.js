@@ -10,7 +10,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "EAT RIGHT LIVE HEALTHY",
+    "campaign": "Eat Right Live Healthy",
     "caption": "This holiday season, there's nothing quite like curling up with a steaming carafe of coffee to warm your spirit, and UCC’s Roast Master Sumiyaki Coffee Beans is the perfect choice.\n\nThere’s a special kind of joy in weighing, grinding, and brewing your own coffee, letting the aroma envelop your kitchen as you create something uniquely yours. The result? A bold, smoky brew that stands beautifully on its own or pairs wonderfully with a delightful afternoon treat.\n\nDon’t miss the chance to indulge — discover UCC’s Roast Master Sumiyaki Coffee Beans and more at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "UCC"
@@ -29,7 +29,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "EAT RIGHT LIVE HEALTHY",
+    "campaign": "Eat Right Live Healthy",
     "caption": "Right now, Honey Lavender is stealing the spotlight, and it's easy to see why!\n\nLavender whispers calm and tranquility, while honey adds a touch of natural sweetness and a wealth of antioxidants. When you blend these two with a refreshing iced coffee, you create an aromatic escape that soothes the soul.\n\nTreat yourself to a moment of self-care — swing by #TheMarketplace to pick up a bottle of Nescafé Gold and gather all the essentials for this delightful concoction.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nescafé"
@@ -54,7 +54,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "EAT RIGHT LIVE HEALTHY",
+    "campaign": "Eat Right Live Healthy",
     "caption": "There are countless ways to savor the creamy delight of Swiss Miss Chocolate Hazelnut, but have you ever thought of elevating it with oatmeal?\n\nThis Hot Chocolate Oatmeal is a warm hug in a bowl, brimming with fiber and pure joy. The sweet notes of bananas, the richness of peanut butter, and the crunch of hazelnuts, all swirled with extra chocolate chips, make for a truly indulgent breakfast. So, why not treat yourself? Pop over to #TheMarketplace and find all the ingredients you need for this delicious recipe — your taste buds will thank you!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Swiss Miss"
@@ -79,7 +79,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "EAT RIGHT LIVE HEALTHY",
+    "campaign": "Eat Right Live Healthy",
     "caption": "Tired of your morning oatmeal routine? Let’s shake things up with these delightful PB&J Banana Oatmeal Cookies made with Quaker Banana & Honey Oatmeal!\n\nThese sweet yet wholesome bites are perfect for a midday pick-me-up or a cozy companion to your coffee or tea. You can bake a big batch to share with friends and family, or keep them all to yourself — no judgment here!\n\nThe strawberry jam brings a burst of fruity flavor, but don’t hesitate to swap in chocolate chips or even a tangy marmalade for a twist of your own. You can find Quaker products and all the ingredients you need for this recipe at #TheMarketplace.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Quaker"
@@ -104,7 +104,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "EAT RIGHT LIVE HEALTHY",
+    "campaign": "Eat Right Live Healthy",
     "caption": "Start your day with a delightful Blueberry Apple Cornflake Crumble, featuring the satisfying crunch of crushed Kellogg’s Corn Flakes!\n\nThis recipe is wonderfully versatile — enjoy it with a splash of milk for a comforting breakfast or indulge with a scoop of vanilla ice cream for a decadent dessert. Either way, it's a cornflake creation you’ll find hard to resist, and you’ll want to savor every last bite. So head over to #TheMarketplace, where you can shop all the ingredients you need, along with a delightful selection of cereals!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Kellogg's"
@@ -129,7 +129,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "EAT RIGHT LIVE HEALTHY",
+    "campaign": "Eat Right Live Healthy",
     "caption": "There’s something truly special about a cake made with love, and this Earl Grey Pound Cake is a perfect example.\n\nInfused with Meadows Earl Grey Tea, it fills your kitchen with the warm, inviting scent of tea, brightened by the zesty sweetness of lemon and honey. Whether you’re baking it for yourself or a cherished friend, this cake brings a touch of elegance to any moment. And what better way to savor it than with a steaming cup of Meadows Earl Grey Tea by your side? It's a truly delightful pairing. Find Meadows Earl Grey Tea, along with other tea varieties at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Meadows"
@@ -154,7 +154,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "EAT RIGHT LIVE HEALTHY",
+    "campaign": "Eat Right Live Healthy",
     "caption": "Imagine starting your day with something that feels indulgent yet utterly wholesome. A spoonful of Strawberry Matcha Chia Pudding made with creamy Vitasoy Plus Original Soy Milk is like savoring the essence of summer and zen in a single bite.\n\nThe earthy matcha and sweet strawberries are a heavenly match, while the chia seeds soak up the soy milk, creating a luscious, silky texture. It’s a breakfast that feels both light and luxurious, energizing and comforting. Give it a try — find all the ingredients that you need for this recipe at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Vitasoy"
@@ -179,7 +179,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "EAT RIGHT LIVE HEALTHY",
+    "campaign": "Eat Right Live Healthy",
     "caption": "Here’s an icy post-workout treat that not only cools you down but also recharges you.\n\nThese Blue Lemonade Popsicles made with Gatorade No Sugar Blue Bolt are crisp, refreshing, and packed with hydration. These icy gems are exactly what you need on a hot day. With all the electrolytes and none of the sugar, plus the delicious combination of lemon and honey, these popsicles are as light and invigorating as a cool breeze.\n\nStock up on the ingredients that you need for this recipe at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Gatorade"
@@ -204,7 +204,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "EAT RIGHT LIVE HEALTHY",
+    "campaign": "Eat Right Live Healthy",
     "caption": "A Piña Colada without the guilt? We got you!\n\nGrab a carton of Del Monte Heart Smart Pineapple Juice the next time you visit #TheMarketplace and get mixing! Sweet, tangy, and with just the right touch of tropical brightness, a splash of velvety coconut milk suddenly whisks you to paradise. It’s indulgence without the fuss — just a cool and creamy glass of sunshine.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Del Monte"
@@ -229,7 +229,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "EAT RIGHT LIVE HEALTHY",
+    "campaign": "Eat Right Live Healthy",
     "caption": "Picture this — golden fries that are crisp on the outside, soft and fluffy on the inside, and smothered in a rich, tasty meat sauce made with unMEAT Roast Beef that’s so juicy and satisfying, you’ll forget it’s vegan.\n\nOne bite, and you’ll be hooked. So get your ingredients at #TheMarketplace, roll up your sleeves, and prepare to enjoy this plant-based spin on comfort food at its finest.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "unMEAT"
@@ -254,7 +254,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "EAT RIGHT LIVE HEALTHY",
+    "campaign": "Eat Right Live Healthy",
     "caption": "There’s something magical about a bowl of Koko Krunch in the morning.\n\nFor the kids, it’s an irresistible chocolatey adventure; and for the adults, don’t be shy — Koko Krunch isn’t just for the little ones. Its crisp texture and rich chocolate flavor are a delightful nod to childhood, but with the right balance of indulgence and lightness to make it a guilt-free pleasure.\n\nSo, go on, grab a box at #TheMarketplace, pour the milk, take a spoon, and let Koko Krunch bring a smile to your morning — whether you’re five or 50.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Koko Krunch"
@@ -273,7 +273,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "EAT RIGHT LIVE HEALTHY",
+    "campaign": "Eat Right Live Healthy",
     "caption": "The next time you wander the aisles of #TheMarketplace, drop by the milk section and take your pick between Nestlé Fresh Milk or Nestlé Low-Fat Milk or grab both!\n\nNestlé’s Low-Fat Milk offers a smooth, clean sip that’s light and indulgent enough for your morning coffee, while Nestlé Fresh Milk pours like pure comfort that’s perfect for a decadent splash in your morning cereal or your favorite recipes. Whichever you choose, it’s a little luxury waiting in the dairy aisle, ready to elevate the everyday\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nestlé"
@@ -292,7 +292,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "EAT RIGHT LIVE HEALTHY",
+    "campaign": "Eat Right Live Healthy",
     "caption": "If you’re looking for a burst of sunshine in your glass, look no further than Minute Maid Orange and Minute Maid Orange Mango.\n\nEach sip is like a refreshing summer day, with the perfect balance of sweet and tangy. Stock up your fridge with these delightful drinks and savor the refreshing moments they provide.\n\nFind Minute Maid products at #TheMarketplace, along with other delicious juice products!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Minute Maid"

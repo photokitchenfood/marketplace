@@ -9,7 +9,7 @@ const FEBRUARY_IG_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "FEBRUARY IG",
+    "campaign": "February IG",
     "caption": "If you're looking for a quick and delicious snack, look no further than Fortune Soya Beancurd — available at The Marketplace!\n\nEach individual cup is perfectly portioned, ready to eat, and offers a creamy, satisfying treat that will keep you fueled throughout the day. Made from wholesome soybeans, they're packed with plant-based protein, calcium, and antioxidants, making them a great choice for supporting your overall health and keeping your energy up. \n\nWhether you're enjoying them as a light snack or a refreshing pick-me-up, these beancurd cups are a delightful and nutritious addition to your day.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Fortune"
@@ -28,7 +28,7 @@ const FEBRUARY_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "FEBRUARY IG",
+    "campaign": "February IG",
     "caption": "Craving a creamy, protein-packed snack? Then head over to The Marketplace and grab some Bulla Cottage Cheese!\n\nIts smooth texture and rich flavor pair perfectly with so many foods — try it with a slice of toasted bread, crisp crackers, or even fresh fruit for a refreshing twist. Packed with calcium, probiotics, and protein, it’s not only a delicious addition to your meals but also a great way to energize your body and curb those afternoon hunger pangs. Once you’ve tasted it, you’ll be finding new ways to enjoy it every day!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Bulla"

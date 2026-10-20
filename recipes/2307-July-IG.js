@@ -10,7 +10,7 @@ const JULY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "JULY IG & FB",
+    "campaign": "July IG",
     "caption": "Have the best of both worlds with these Fudgy Cookies and Cream Brownies made with — what else but — Oreo Original Sandwich Cookies!\n\nThese two-tiered treats are balanced out with a hint of cream cheese, making them dangerously addictive, it’ll be hard to stop munching. Bake batches for the coming days or surprise a loved one with these sweet snacks. Head over to #TheMarketplace now and grab everything you need for this recipe!\n\nServing Time: 4 hours\nYield: 24 pieces\n\nIngredients\n\nFor the Cookie Crust:\n24 pcs. Oreo Original Sandwich Cookies \n6 tbsps. unsalted butter, melted\n\nFor the Brownie Layer: \n1 cup unsalted butter\n2 cups white sugar \n4 eggs \n1 tsp. vanilla extract \n1 cup all-purpose flour\n½ cup cocoa powder \n½ tsp. salt \n1 tsp. coffee powder\n\nFor the Cookies & Cream Layer:\n16 pcs. Oreo Original Sandwich Cookies, crushed \n1 bar cream cheese, softened\n½ cup powdered sugar \n1 tsp. vanilla extract\n1 cup heavy cream\n\nFor the topping:\n8 pcs. Oreo Original Sandwich Cookies, roughly chopped\n\nProcedure\n\n1. Preheat oven to 175C. Grease a 9x13-inch baking dish.\n2. Prepare the cookie crust: Place Oreo Original Sandwich Cookies and melted butter in a food processor, and pulse until finely crushed and well mixed. Press the mixture into the bottom of the prepared baking dish to form an even crust layer.\n3. In a microwave-safe bowl, melt the butter for the brownie layer. Add the granulated sugar and stir until well combined.\n4. In a separate bowl, whisk together the eggs and vanilla extract. Add the egg mixture to the butter and sugar mixture, and stir until smooth.Sift in the flour, cocoa powder, and salt. Mix until just combined. \n5. Pour the brownie batter over the cookie crust in the baking dish, spreading evenly. Bake in the preheated oven for 25-30 minutes. Remove from the oven, and let cool completely.\n6. In a mixing bowl, combine the crushed Oreo Original Sandwich Cookies for the cookies and cream layer with the softened cream cheese, powdered sugar, and vanilla extract. Mix until well combined.\n7. In a separate bowl, whip the heavy cream until stiff peaks form. Gently fold the whipped cream into the cream cheese mixture.\n8. Spread the cookies and cream layer over the cooled brownie layer, making sure it's evenly distributed. Smooth the top with a spatula.\n9. Sprinkle the additional crushed Oreo cookies over the cookies and cream layer as the final topping.\n10. Refrigerate for at least 2 hours to set. Once chilled and set, cut into squares, then serve.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Oreo"
@@ -35,7 +35,7 @@ const JULY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "JULY IG & FB",
+    "campaign": "July IG",
     "caption": "Add a salted caramel twist your your favorite Swiss Miss Dark Chocolate Hot Cocoa Mix for something new! Easy to assemble and ready in less than 15 minutes, enjoy solo or with the company of friends for a warm and cozy nightcap.\n\nTry this recipe as well with other Swiss Miss hot chocolate variants! Hop on over to #TheMarketplace and shop now.\n\nServing Time: 10 minutes\nYield: 4 servings\n\nIngredients\n\n4 cups full-cream milk\n4 packets Swiss Miss Dark Chocolate Hot Cocoa Mix\n½  cup caramel sauce \n1 tsp. sea salt \n1 cup marshmallows\n\nProcedure\n\n1. In a saucepan, heat milk over medium heat until it begins to steam. Do not let it boil. Add the Swiss Miss Dark Chocolate Hot Cocoa Mix packets, and whisk until the powder is fully dissolved.\n2. In a separate bowl, combine caramel sauce and sea salt. Reserve half of this for topping later on. \n3. Add the remaining salted caramel sauce into the hot chocolate mixture, and continue heating until it reaches your desired drinking temperature.\n4. Pour the salted caramel hot chocolate into mugs. Top each mug with marshmallows and a drizzle of salted caramel. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Swiss Miss"
@@ -60,7 +60,7 @@ const JULY_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "JULY IG & FB",
+    "campaign": "July IG",
     "caption": "Made with oxygen bleach that gently cleans colored clothes, Zonrox Color-Safe Bleach is gentle on fabrics but tough on stains. It also kills 99.9% of disease-causing germs and viruses, leaving your clothes cleaner than ever. Find Zonrox products, along with other laundry essentials, at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Zonrox"
@@ -79,7 +79,7 @@ const JULY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "JULY IG & FB",
+    "campaign": "July IG",
     "caption": "Nathan’s famous hotdogs now come in retail packages, and the best thing is that they’re now available at #TheMarketplace!\n\nGrab a pack of Nathan’s Jumbo Beef Franks and prepare this filling dish of Franks and Potato Hash — perfect for brunch or dinner and best enjoyed with a cold glass of juice (or beer), whichever you prefer. \n\nServing Time: 40 minutes\nYield: 5 servings\n\nIngredients\n\n2 tbsps. olive oil\n1 (340g) pack Nathan’s Jumbo Beef Franks, scored\n2 large potatoes, peeled and diced\n1 red bell pepper, seeded and diced\n1 green bell pepper, seeded and diced\n1 yellow bell pepper, seeded and diced\n1 yellow onion, diced\n2 cloves of garlic, minced\n2 tbsps. olive oil\n1 tsp. paprika\n1/2 tsp. dried thyme\nSalt and pepper to taste\nFresh parsley, chopped (for garnish)\n\nProcedure\n\n1. Heat 1 tbsp. of olive oil in a large skillet over medium heat. Add Nathan’s Jumbo Beef Franks, and cook until browned on all sides. Remove the franks from the skillet and set aside.\n2. In the same skillet, add remaining olive oil. Add the diced potatoes and cook for about 5 minutes, stirring occasionally, until they start to turn golden brown.\n3. Add the diced bell peppers, onion, and minced garlic to the skillet. Cook for another 5 minutes, or until the vegetables have softened.\n4. Add the beef franks back to the skillet. Mix in paprika, dried thyme, salt and pepper. \n5. Reduce the heat to medium-low, and cover the skillet. Cook for an additional 10-15 minutes, or until the potatoes are tender and the flavors have melded together.\n6. Serve the beef franks and potato hash hot, garnished with freshly chopped parsley.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nathan's"

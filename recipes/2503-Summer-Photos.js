@@ -9,7 +9,7 @@ const SUMMER_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "SUMMER",
+    "campaign": "Summer",
     "caption": "Some recipes are pure comfort wrapped in crisp, golden perfection, and these Corned Beef Croquettes are just that.\n\nMade with rich, savory Libby’s Corned Beef and melty cheese, each bite is coated in panko breadcrumbs and fried to irresistible crispness. Dip each croquette into a velvety dip of mayonnaise, ketchup, mustard, and paprika, made with just the right amount of tang to contrast the richness.\n\nServe them hot, fresh from the pan, and watch them disappear in minutes. Best of all, every ingredient you need is waiting for you at The Marketplace.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Libby's"
@@ -34,7 +34,7 @@ const SUMMER_PHOTOS_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SUMMER",
+    "campaign": "Summer",
     "caption": "Looking to up your laundry game? Tide Perfect Clean Powder Detergent is the secret to laundry that looks just as good as it feels and smells.\n\nLifting stubborn stains with ease and restoring brilliance to every load, Tide Perfect Clean Powder Detergent allows whites to emerge impossibly bright and colors to stay beautifully crisp.\n\nLet’s admit it, life can get messy, but your laundry doesn’t have to be. Pick up a box at The Marketplace on your next visit and let Tide do the work.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Tide"
@@ -53,7 +53,7 @@ const SUMMER_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "SUMMER",
+    "campaign": "Summer",
     "caption": "A truly spectacular salad begins with the freshest ingredients, and at The Marketplace, you will, without a doubt, find the most luscious Golden Honeydew Melons — sweet and juicy when fully ripened.\n\nPaired with delicate ribbons of prosciutto, your choice of creamy ricotta or indulgent burrata, and a scattering of crunchy pistachios, it’s a dish that balances simplicity with sophistication.\n\nDressed with a swirl of olive oil, balsamic glaze, honey, and black pepper, the result is a stunningly delicious salad, made just how summer should taste like.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -78,7 +78,7 @@ const SUMMER_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "SUMMER",
+    "campaign": "Summer",
     "caption": "What makes a great summer salad are bold, vibrant flavors coupled with the best ingredients, and at The Marketplace, you’ll find the best Aussie Fresh Minute Steak that’ll go perfectly with this Tomato & Corn Summer Steak Salad.\n\nPrepared with a simple marinade, the steak is seared to perfection and served over crisp mixed greens, juicy cherry tomatoes, sweet corn, and creamy feta. A drizzle of honey-Dijon balsamic dressing ties everything together, balancing richness with a bright, summery freshness.\n\nIt’s effortless, elegant, and exactly what warm-weather dining should be.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Aussie Fresh"
@@ -103,7 +103,7 @@ const SUMMER_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "SUMMER",
+    "campaign": "Summer",
     "caption": "A beautifully cooked lamb chop is a thing of pure joy, and with the freshest Bone-In Dorper Lamb Chop from The Marketplace, perfection is within reach.\n\nMarinated in an aromatic blend of olive oil, vinegar, garlic, and oregano, the lamb develops a deep, rich flavor before being seared to tender, caramelized perfection. A bright, nutty pistachio gremolata adds just the right amount of freshness, while golden, crispy roasted potatoes round out the dish with their rustic charm. It’s definitely a meal that allows the ingredients to shine, while being both indulgent and completely doable. Try it this week!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -128,7 +128,7 @@ const SUMMER_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "SUMMER",
+    "campaign": "Summer",
     "caption": "Craving a super easy and ube-filled summer dessert? These effortly delightful Ube & Coconut Ice Cream Sandwiches are exactly that.\n\nMade with creamy Arce Dairy Ube Lite Ice Cream nestled between your pick of buttery biscuits or delicate shortbread cookies, each bite is a perfect balance of rich, velvety sweetness and crisp, golden crunch. A gentle roll in desiccated coconut adds a lovely texture and tropical flair, but the key to perfection is a quick 30-minute freeze to ensure the sandwiches hold their shape.\n\nThese ice cream sandwiches are proof that a few good ingredients — easily found at The Marketplace — can create something truly special.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Arce Dairy"
@@ -153,7 +153,7 @@ const SUMMER_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "SUMMER",
+    "campaign": "Summer",
     "caption": "Looking for a dessert that delivers pure happiness? Then whip up this Cookies & Cream Funnel Cake using Meadows Cookies and Cream Ice Cream!\n\nIrresistibly light with just the right amount of indulgence, this treat is topped with a generous scoop of Meadows Cookies and Cream Ice Cream, its velvety swirls of cream and chocolatey crunch melt beautifully into the warm, delicate pastry. A sprinkle of crushed chocolate chip cookies and a drizzle of rich chocolate syrup take it over the top, making every bite an absolute dream. And with everything you need — especially that luscious ice cream — waiting for you at The Marketplace, there’s no reason not to treat yourself. Try it with other Meadows ice cream flavours, too!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Meadows"
@@ -178,7 +178,7 @@ const SUMMER_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "SUMMER",
+    "campaign": "Summer",
     "caption": "Savory tarts are in this summer. Easy to prepare but special enough to make an impression, this Bolognese & Tomato Tart is a welcome addition to any dining table.\n\nButtery, flaky puff pastry forms the perfect base for rich, slow-simmered Casino Bolognese Sauce, its deep, savory flavors complemented by juicy tomatoes and nutty cheese. A scattering of fresh pea shoots adds just the right amount of summery brightness, making each bite beautifully balanced.\n\nWith all the ingredients available at The Marketplace, this recipe is worth making over and over again.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Casino"
@@ -203,7 +203,7 @@ const SUMMER_PHOTOS_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "SUMMER",
+    "campaign": "Summer",
     "caption": "A well-stocked home is the foundation of a great lifestyle, and this summer, The Marketplace has everything you need to make everyday living both effortless and delicious.\n\nFrom the rich, savory goodness of Libby’s Corned Beef to the slow-simmered perfection of Casino Bolognese Sauce, each ingredient promises depth and flavor. Indulge in the finest cuts of lamb and steak, ready to be seared to perfection, or cool down with a scoop of luscious Meadows Ice Cream. And for everyday essentials, Tide Perfect Clean Detergent keeps laundry looking bright and fresh. With the best selection of quality groceries all in one place, The Marketplace makes living life an absolute pleasure.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Libby's",

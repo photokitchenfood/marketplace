@@ -10,7 +10,7 @@ const EUROPEAN_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "EUROPEAN FEST",
+    "campaign": "European Festival",
     "caption": "A bowl of sunshine on your table. 🍋✨\n\nThis Lemon Arugula Pasta Salad is light, hearty and full of fresh flavor thanks to the smooth richness of Doña Elena Pure Olive Oil. Combined with lemon juice and zest, it creates a bright dressing that clings to farfalle pasta, peppery arugula and nutty parmesan. A sprinkle of toasted almonds finishes it off with crunch.\n\nSimple to make and satisfying to eat, this is an easy pasta dish you’ll keep coming back to. Find Doña Elena Pure Olive Oil and everything you need for this recipe at The Marketplace. 🛒💛\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Doña Elena"
@@ -35,7 +35,7 @@ const EUROPEAN_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "EUROPEAN FEST",
+    "campaign": "European Festival",
     "caption": "Delicate, silky and full of flavor, this Angel Hair Lemon Cream & Smoked Salmon Pasta feels like a little luxury you can whip up at home. 🍋🐟\n\nThe star here is the Barilla Angel Hair Pasta, perfectly thin strands that soak up a light yet luscious sauce of cream, white wine and fresh lemon. Add in green peas for sweetness, smoked salmon for richness and a sprinkle of fresh dill, and you’ve got a dish that’s both super elegant and easy.\n\nGreat for a weeknight upgrade or a weekend treat, this pasta proves that simple ingredients can make something extraordinary. Find Barilla Angel Hair Pasta and more gourmet picks at The Marketplace. 🍴✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Barilla"
@@ -60,7 +60,7 @@ const EUROPEAN_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "EUROPEAN FEST",
+    "campaign": "European Festival",
     "caption": "“Fondant” means “melting” in French, and that’s exactly what these Fondant Potatoes do. 🥔🇫🇷\n\nCrisp and golden on the outside, tender and buttery within, this European classic has been gracing tables since the days of old French kitchens. Traditionally roasted in butter and stock, they showcase how humble potatoes can be elevated into something elegant.\n\nHere, Lurpak Slightly Salted Spreadable Butter adds its signature creaminess and delicate saltiness, basting each piece until irresistibly soft.\n\nRustic, refined, and endlessly comforting, it’s a side dish that makes any meal feel special. Find Lurpak and everything you need to bring this timeless favorite home, only at The Marketplace. 🌿🍴\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Lurpak"
@@ -85,7 +85,7 @@ const EUROPEAN_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "EUROPEAN FEST",
+    "campaign": "European Festival",
     "caption": "Imagine a golden puff pastry topped with silky smoked salmon, crisp onions and a creamy herb spread — that’s this Smoked Salmon & Cream Cheese Tart. 🥂✨\n\nThe secret? Emborg Herbs Cream Cheese, rich and fragrant with herbs, making every bite balanced and full of flavor. Paired with capers, fresh dill and a squeeze of lemon, it’s a tart that tastes sophisticated yet so simple to make!\n\nFind Emborg Herbs Cream Cheese and everything you need for this recipe at The Marketplace. 🌿🍴\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Emborg"
@@ -110,7 +110,7 @@ const EUROPEAN_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "EUROPEAN FEST",
+    "campaign": "European Festival",
     "caption": "Roasted pears meet a rich and tangy twist with Lactima Exclusive Blue Cheese, crumbled and blended with walnuts, honey and rosemary. 🍐💙\n\nThe result? A sweet-savory bite that feels both rustic and classy — perfect for dinner parties or a cozy night in with wine. Find Lactima Exclusive Blue Cheese and everything you need to make this European-inspired treat at The Marketplace. ✨🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Lactima"
@@ -135,7 +135,7 @@ const EUROPEAN_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "EUROPEAN FEST",
+    "campaign": "European Festival",
     "caption": "Sweet meets savory in the best way: Strawberry Glazed Chicken made with Casino Confiture de Fraise. 🍓🍗\n\nThe jam melts into balsamic, Worcestershire, garlic and lemon for a glossy glaze that clings to golden chicken, then you finish with fresh strawberries, tangy goat cheese and basil. It’s an unexpected pairing that just works: juicy, bright and craveable.\n\nPick up Casino Confiture de Fraise and everything you need at The Marketplace. 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Casino"
@@ -160,7 +160,7 @@ const EUROPEAN_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "EUROPEAN FEST",
+    "campaign": "European Festival",
     "caption": "Crisp-edged, tender-centered Cornbread Waffles meet a warm Honey Butter Syrup made with Essential Waitrose Pure Clear Honey — clean, golden and beautifully floral. 🍯🧇\n\nThe honey melts into butter for a glossy pour that soaks every pocket, while a touch in the batter adds gentle sweetness from the inside out. Perfect for slow mornings or breakfast-for-dinner with coffee on the side. Find Essential Waitrose Pure Clear Honey and everything you need at The Marketplace. ✨☕️\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Essential Waitrose"
@@ -185,7 +185,7 @@ const EUROPEAN_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "EUROPEAN FEST",
+    "campaign": "European Festival",
     "caption": "Make your own Dark Chocolate Truffles at home with Meadows Belgian Dark Chocolate. 🍫✨\n\nThe smooth Belgian bar melts into warm cream for a velvety ganache, finished with butter, vanilla and a pinch of salt. Chill, scoop and coat in cocoa for bite-size treats that taste boutique — but actually come from your kitchen. Great for gifting, dessert or a midnight nibble. Pick up Meadows Belgian Dark Chocolate and the rest of your truffle-crafting essentials at The Marketplace. 🛒💝\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Meadows",
@@ -211,7 +211,7 @@ const EUROPEAN_FESTIVAL_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "EUROPEAN FEST",
+    "campaign": "European Festival",
     "caption": "Bring a taste of Europe into your kitchen with these must-haves! ✨ \n\n🍝 Barilla Angel Hair Pasta – light, quick-cooking and perfect for delicate sauces\n\n🍫 Meadows Belgian Dark Chocolate – rich, velvety and just right for desserts (or sneaky bites)\n\n🍯 Essential Waitrose Pure Clear Honey – golden sweetness straight from the jar\n\n🍓 Casino Confiture de Fraise – lush, fruity and made for toast or pastries\n\n🌿 Doña Elena Pure Olive Oil – smooth and flavorful, the secret to Mediterranean cooking\n\nStock up on these essentials and make every dish feel just a little more European. Find them all at The Marketplace. 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"

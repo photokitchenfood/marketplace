@@ -10,7 +10,7 @@ const OCTOBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "OCTOBER IG",
+    "campaign": "October IG",
     "caption": "Rich and smoky-sweet, these Korean BBQ Meatballs get their delicious flavor from Mama Sita’s Barbecue Marinade, made with a blend of spices, soy, and cane sugar that perfectly balances savory and caramelized notes. It coats each bite with that irresistible, stick-to-your-rice goodness we all crave. 🍚🔥✨\n\nTop with sriracha mayo, sprinkle with sesame seeds, and serve with kimchi for the perfect weeknight treat. 🥢 Find Mama Sita’s BBQ Marinade, along with all the other ingredients needed for this recipe, at The Marketplace.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Mama Sita's"
@@ -35,7 +35,7 @@ const OCTOBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "OCTOBER IG",
+    "campaign": "October IG",
     "caption": "Sip your way to something berry good with this Strawberry Açaí Refresher! 🍓💜\n\nBlend some fresh strawberries with The Berry Company’s Açaí Berry Juice, which is packed with antioxidants, Vitamin C, and natural plant goodness that help support energy and glow from within. 🌿💪\n\nLightly sweetened with honey and a touch of lemon, it’s the perfect pick-me-up for warm afternoons or post-workout refreshers. ☀️🍹🌸 Find The Berry Company Açaí Berry Juice at The Marketplace and try this recipe with other The Berry Company juices as well!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "The Berry Company"
@@ -60,7 +60,7 @@ const OCTOBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "OCTOBER IG",
+    "campaign": "October IG",
     "caption": "Crispy, spicy and with just the right amount of sweet, these Chili Chicken & Waffle Bites are the ultimate treat for brunch, snacks or dinner parties. 🔥🍯 \n\nMade extra easy with Magnolia Timplados Chicken Karaage Chili Honey, each bite packs bold flavor and satisfying crunch thanks to its perfectly seasoned chicken and ready-to-cook convenience. 🍗\n\nIt’s the kind of fridge essential you’ll reach for again and again, so why not grab a bag of it the next time you visit The Marketplace? 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Magnolia"
@@ -85,7 +85,7 @@ const OCTOBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "OCTOBER IG",
+    "campaign": "October IG",
     "caption": "This Snow Chicken Mac & Cheese will be your new comfort food obsession. 🍗🧀\n\nIt brings together creamy, cheesy pasta and crispy bites of Magnolia Timplados Chicken Karaage Snow Cheese, ready-to-cook perfection that’s golden, flavorful, and satisfying on its own or as a topping for your favorite dishes. 😋\n\nIt’s the ultimate quick fix: crispy karaage, gooey cheese, and a sprinkle of snow cheese magic. 🍽️✨Find Magnolia Timplados Chicken Karaage Snow Cheese at The Marketplace. 💛\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Magnolia"
@@ -110,7 +110,7 @@ const OCTOBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "OCTOBER IG",
+    "campaign": "October IG",
     "caption": "Spice up your lunch (or dinner) with this flavor-loaded sandwich!.  🥖💥\n\nVillage Gourmet French Baguette steals the show with its crisp golden crust and soft, airy center — the perfect base for a creamy, tangy buffalo chicken filling. Tossed in a mix of hot sauce, honey, and cream cheese, each bite hits that satisfying balance of crunch, spice, and comfort. 🔥\n\nFind Village Gourmet French Baguette, and all the other items that you need for this mouthwatering sandwich, at The Marketplace! 🛒🥪✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Village Gourmet"
@@ -135,7 +135,7 @@ const OCTOBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "OCTOBER IG",
+    "campaign": "October IG",
     "caption": "Sweet meets savory in the best way through this Blueberry Grilled Cheese Sandwich that pairs creamy mozzarella and juicy blueberries between slices of Gardenia Healthi Grain Loaf — made with sourdough, sprouted rye grain, and mixed whole grains for extra fiber, vitamins, and that hearty bite you’ll love. 🫐🧀\n\nGolden, melty, and packed with goodness, it’s a feel-good fruity twist on a classic comfort food. ☕️💙Grab your Gardenia Healthi Grain Loaf at The Marketplace! 🍞🌾🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Gardenia"
@@ -160,7 +160,7 @@ const OCTOBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "OCTOBER IG",
+    "campaign": "October IG",
     "caption": "Made with Marby Sugar-Free Wheat Bread, these Sausage French Toast Roll-Ups are crispy on the outside, soft on the inside, and oh-so-satisfying. Each slice is a good source of fiber and made without added sugar. 💛\n\nDip, drizzle, and enjoy every sweet-savory bite with a touch of maple syrup. 🍯😋Find all the ingredients that you need for these roll-ups, including Marby Sugar-Free Wheat Bread, at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Marby"
@@ -185,7 +185,7 @@ const OCTOBER_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "OCTOBER IG",
+    "campaign": "October IG",
     "caption": "Treat yourself — you’ve earned it! 💚🍩 There’s nothing like biting into a soft, sweet Krispy Kreme Doughnut after a long work day (or sneaking one in as a mid-afternoon treat 😉).\n\nWhether you go for the classic Original Glazed or something a little extra, each bite feels like a tiny celebration. ✨☕ Now available at The Marketplace! 🛒🍩\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Krispy Kreme"
@@ -204,7 +204,7 @@ const OCTOBER_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "OCTOBER IG",
+    "campaign": "October IG",
     "caption": "Turn your space into a breath of fresh air with the Glade Automatic Spray in Lavender & Vanilla, which instantly refreshes any room, whisking away musty smells and replacing them with the calming scent of blooming lavender and a hint of creamy vanilla. Just one spray and the atmosphere feels lighter, cleaner, and more tranquil. 🌸✨\n\nGreat for living rooms, bedrooms, or any corner that needs a little aromatic lift, find Glade Automatic Spray at The Marketplace. 🏡💜\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Glade"

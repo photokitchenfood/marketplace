@@ -10,7 +10,7 @@ const AUSTRALIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "AUSTRALIAN FESTIVAL",
+    "campaign": "Australian Festival",
     "caption": "Discover the essence of Australia at The Marketplace and fill your pantry with items such as Tim Tam and Chobani Greek Yogurt. Start your mornings with Carman’s Super Berry Muesli, bursting with vibrant native fruits, or create a comforting dinner with San Remo Fettuccine, its silky texture perfect for your favorite sauce.\nFor your more substantial meals, savor the bold flavors of Margaret River Wagyu, and pair it with the crisp elegance of Hahndorf Hill White Mischief Grüner Veltliner. Explore the treasures of the Land Down Under at The Marketplace, where the world’s best flavors are only a taste away.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Tim Tam",
@@ -34,7 +34,7 @@ const AUSTRALIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "AUSTRALIAN FESTIVAL",
+    "campaign": "Australian Festival",
     "caption": "Let your next meal transport you to the heart of Italy with San Remo products, available at The Marketplace.\n\nFrom silky dry pastas to rich, vibrant bottled sauces, every ingredient is crafted to bring the soul of Italy to your table. Create effortless meals bursting with flavor — whether it’s a comforting bowl of spaghetti or a zesty penne that tastes like it’s straight from a trattoria. Bring home some San Remo the next time you drop by The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "San Remo"
@@ -53,7 +53,7 @@ const AUSTRALIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "AUSTRALIAN FESTIVAL",
+    "campaign": "Australian Festival",
     "caption": "Step into The Marketplace and discover the heartwarming goodness of Quaker Oats — your pantry's best friend for nourishing meals, quick fixes, and soul-soothing bowls.\n\nWhether it’s the comforting nostalgia of Old Fashioned Oats, the effortless speed of Quick Cook Oatmeal, or the cozy convenience of Instant Oatmeal, there’s a Quaker product for every craving.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Quaker"
@@ -72,7 +72,7 @@ const AUSTRALIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "AUSTRALIAN FESTIVAL",
+    "campaign": "Australian Festival",
     "caption": "Imagine the irresistible aroma of golden, flaky puff pastry swirled with the bold umami of Vegemite, gooey melted cheese, aromatic thyme, and sweet, rich caramelized onions.\n\nThese Vegemite Puff Pastry Scrolls are the perfect balance of savory indulgence and comforting warmth — like a hug fresh from the oven. Whether you're hosting friends or simply treating yourself, they’re a delightful way to elevate a humble classic into something unforgettable. Head to The Marketplace to pick up everything you need for this recipe!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Vegemite"
@@ -97,7 +97,7 @@ const AUSTRALIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "AUSTRALIAN FESTIVAL",
+    "campaign": "Australian Festival",
     "caption": "What could be better than a warm, gooey skillet dessert that combines the best of brownies, cookie dough, and Kit Kat Gold Crush?\n\nThis Gold Rush Kit Kat Brookie Skillet is pure bliss — rich, fudgy brownie base, swirls of golden cookie dough, and irresistible chunks of Kit Kat Cookie Dough throughout. Just when you think it couldn’t get better, it’s crowned with a generous scoop of creamy chocolate ice cream. It's easy to make, delightfully indulgent, and perfect for sharing — or not. So, gather your ingredients at The Marketplace and treat yourself to something truly special.\n\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Kit Kat"
@@ -122,7 +122,7 @@ const AUSTRALIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "AUSTRALIAN FESTIVAL",
+    "campaign": "Australian Festival",
     "caption": "Why not make one evening of this week extra special by making these Spicy Sticky Pork Ribs?\n\nPicture tender ribs glazed in a luscious sweet-spicy barbecue sauce, garnished with sesame seeds, and a colorful scatter of green and red chilis. Pair the dish with a crisp, fruity glass of Colours of the South Pinot Gris, and you’ve got a perfect balance of heat and refreshment. Find all the ingredients that you need for this recipe at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Colours of the South"
@@ -147,7 +147,7 @@ const AUSTRALIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "AUSTRALIAN FESTIVAL",
+    "campaign": "Australian Festival",
     "caption": "If you’ve never tried roasted broccoli steaks, you’re in for a treat! \n\nAustralian Broccoli becomes beautifully caramelized in the oven, served on a luscious bed of smoky romesco, and topped with briny olives and crunchy slivered almonds — it’s simple, elegant, and so satisfying. Pick up everything you need to make this gorgeous dish at The Marketplace and get ready to wow your table tonight!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -172,7 +172,7 @@ const AUSTRALIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "AUSTRALIAN FESTIVAL",
+    "campaign": "Australian Festival",
     "caption": "Who doesn’t love a perfectly grilled steak?\n\nThis Grilled Balsamic Steak & Tomatoes dish, made with tender Margaret River Wagyu Topside Steak, is a simple yet stunning meal, you’ll feel like you’re dining in the Italian countryside. Juicy red and yellow cherry tomatoes, and savory parmesan shavings come together with fresh rosemary and a drizzle of balsamic glaze. Pick up all the fresh ingredients you need at The Marketplace and get grilling!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -197,7 +197,7 @@ const AUSTRALIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "AUSTRALIAN FESTIVAL",
+    "campaign": "Australian Festival",
     "caption": "If you're craving a comforting, cheesy dish, you simply must try these Cheesy Baked Potatoes made with Bega Cheddar.\n\nThey’re essentially twice-baked potatoes, loaded with melty Bega Cheddar, crispy bacon, sour cream, and fresh spring onions — comfort food at its finest. It’s the perfect side dish or main for a cozy night in. Head over to The Marketplace to grab all the ingredients you’ll need!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Bega"
@@ -222,7 +222,7 @@ const AUSTRALIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "AUSTRALIAN FESTIVAL",
+    "campaign": "Australian Festival",
     "caption": "Looking for a simple yet delicious meal? Consider making this Savory Yogurt Bowl.\n\nCreamy Farmers Union Greek Style All Natural Yogurt forms the perfect base, topped with crispy chickpeas, juicy cherry tomatoes, and tangy red onions, all drizzled with vibrant pesto. Serve with warm roti for dipping, it’s truly a dish that brings comfort and flavor together. Head over to The Marketplace and pick up all the ingredients you need!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Farmers Union"
@@ -247,7 +247,7 @@ const AUSTRALIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "AUSTRALIAN FESTIVAL",
+    "campaign": "Australian Festival",
     "caption": "There’s something truly special about the way Cadbury Violet Crumble adds a delicate crunch to the silky, creamy layers of a classic Vanilla Slice.\n\nThe golden shards of Cadbury Violet Crumble melt into the luscious vanilla custard while still holding their crisp, honeycomb charm — it’s a perfect balance of indulgence and delight.\n\nThe Marketplace has everything that you need for this delicious Aussie-inspired treat. Head down today!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Cadbury",
@@ -273,7 +273,7 @@ const AUSTRALIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "AUSTRALIAN FESTIVAL",
+    "campaign": "Australian Festival",
     "caption": "This Tuscan Salmon & Macaroni Bake is a comforting, simple, and satisfying meal rolled into one.\n\nIt’s an easy, one-pan dish that combines perfectly cooked San Remo Elbow Pasta with spinach, sun-dried tomatoes, creamy sauce, capers, and tender salmon for a flavorful dinner everyone will love. It’s all baked together for the perfect blend of textures and tastes. Gather all the ingredients from The Marketplace and get cooking — you’ll be so glad you did!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "San Remo"
@@ -298,7 +298,7 @@ const AUSTRALIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "AUSTRALIAN FESTIVAL",
+    "campaign": "Australian Festival",
     "caption": "Craving a delicious treat that’s perfect for breakfast or a snack? Then these Peanut Butter Banana Oatmeal Bars are just what you need! \n\nWith Quaker Oats Banana & Honey Oatmeal as the base, you get the comforting flavors of banana and honey baked into a chewy, wholesome bar. Add in creamy peanut butter and fresh bananas for an easy, satisfying recipe that’s bound to become a favorite. Head over to The Marketplace to grab all the ingredients that you need!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Quaker Oats"
@@ -323,7 +323,7 @@ const AUSTRALIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "AUSTRALIAN FESTIVAL",
+    "campaign": "Australian Festival",
     "caption": "Indulge in the smooth, comforting layers of a Pecan Crunch Oat Milk Latte, where So Good Barista Oat Milk combines with the cool freshness of an iced latte, crowned with velvety sweet cream foam and a delightful pecan crunch.\n\nIt’s the perfect treat fit for any time of day, offering both warmth and sweetness in every sip. Head over to The Marketplace and gather all the ingredients you need to bring this irresistible drink to life at home.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "So Good"

@@ -10,7 +10,7 @@ const US_FESTIVAL_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "US FEST",
+    "campaign": "US Festival",
     "caption": "Smooth, rich, and hits the spot, Folgers Classic Roast is available at #TheMarketplace and is a daily essential. The coffee’s balanced flavor makes it an easy companion to pair with any breakfast or snack. Grab some Folgers Coffee today!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Folgers"
@@ -29,7 +29,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "US FEST",
+    "campaign": "US Festival",
     "caption": "Make this Mixed Nuts Chocolate Brittle using only three ingredients: Planters Unsalted Mixed Nuts, dark chocolate, and cranberries.\n\nThe blend of sweet, tangy, and nutty flavors delivers a satisfying bite all the time! Make these ahead and stock them in the fridge for a quick, sweet snack. Find all the ingredients you need for this recipe at #TheMarketplace!\n\nServing Time: 40 minutes\nYield: 3-4 servings\n\nIngredients\n\n1 cup Planters Unsalted Mixed Nuts \n3 cups melting dark chocolate, chopped \n½ cranberries, halved \n\nProcedure\n\n1. Preheat oven to 175°C. Prepare a tray lined with parchment paper. \n2. Roast Planters Unsalted Mixed Nuts for 8 minutes. Let cool.\n3. Using a double boiler, melt dark chocolate until smooth and fully melted. \n4. Transfer melted dark chocolate onto the lined tray. Spread to evenly flatten. Sprinkle with Planters Unsalted Mixed Nuts and cranberries. \n5. Chill for 15 minutes, or until set. Cut into barks. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Planters"
@@ -54,7 +54,7 @@ const US_FESTIVAL_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "US FEST",
+    "campaign": "US Festival",
     "caption": "Nothing beats the comfort that a piping-hot bowl of soup brings. Grab a can of Campbell’s New England Clam Chowder the next time you visit #TheMarketplace, and sit down to a nourishing soup with real clams. Creamy, rich, and sure to warm up the soul.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Campbell's"
@@ -73,7 +73,7 @@ const US_FESTIVAL_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "US FEST",
+    "campaign": "US Festival",
     "caption": "Post Great Grains in Banana Crunch not only contains the wholesome goodness of flakes, bananas, and nuts, but it is also packed with fiber to keep your gut healthy and your tummy satisfied! Start the day right and grab your box of Great Grains at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Great Grains"
@@ -92,7 +92,7 @@ const US_FESTIVAL_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "US FEST",
+    "campaign": "US Festival",
     "caption": "Get instant kumbaya vibes with a bag of Kopper’s S’mores. \n\nEnjoy these addictive marshmallow dough balls covered in gourmet dark chocolate and then rolled in graham cracker crumbs — perfect for when the craving for a sweet snack hits!\n\nFind Kopper’s specialty confections, along with other imported chocolate brands, at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Kopper’s"
@@ -111,7 +111,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "US FEST",
+    "campaign": "US Festival",
     "caption": "Feel like you’re camping in the great outdoors with these S’mores Cups made with Hershey’s Dark Chocolate. Don’t forget the torch the marshmallows for that full-on campfire effect!\n\nGet all the ingredients you need for these S’mores Cups at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 2 servings\n\nIngredients\n\n2 (40g) bars Hershey’s Dark Chocolate \n½ cup heavy cream \n1 cup graham cracker crumbs \n2 tbsps. white sugar \n½ tsp. salt\n¼ cup butter, melted \n½ cup mini marshmallows \n\nProcedure\n\n1. Chop 1 bar of Hershey’s Dark Chocolate into pieces. Place into a heat proof mixing bowl. Heat up heavy cream, then add to the chopped chocolates. Let sit on top for 2 minutes, then mix until smooth. \n2. Combine graham cracker crumbs, white sugar, salt and butter.\n3. Divide graham crumbs into 2 serving glasses. Top with marshmallows, then torch to brown. Top with Hershey’s Dark Chocolate ganache and whole pieces. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Hershey’s"

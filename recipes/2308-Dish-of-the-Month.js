@@ -10,7 +10,7 @@ const DISH_OF_THE_MONTH_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "DISH OF THE MONTH",
+    "campaign": "Dish of the Month",
     "caption": "Not in the mood to cook? That’s no problem at all! Head over to #TheMarketplace’s ready-to-eat section and select from the hearty array of hot and cold dishes that are sure to nourish and satisfy.\n\nThis month features a comforting Vegetable Frittata, which comes in alternating layers of vegetables, cheese, and herbs, all baked together with eggs. It’s delicious, nutritious, and filling. Enjoy it right at the store, or pack it to go and heat at home!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -29,7 +29,7 @@ const DISH_OF_THE_MONTH_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "DISH OF THE MONTH",
+    "campaign": "Dish of the Month",
     "caption": "If you’re craving a Korean meat dish that’s sweet and spicy in all the right places, then head over to #TheMarketplace and grab a serving of the MP Korean Spicy Pork!\n\nIt’s simple, delicious, and bursting with flavors of fiery red pepper and sweet gochujang. We’ll always recommend it with a generous portion of rice on the side. Don’t forget to pack some for your next meal!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"

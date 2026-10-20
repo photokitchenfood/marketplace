@@ -10,7 +10,7 @@ const EUROPEAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "EUROPEAN FESTIVAL",
+    "campaign": "European Festival",
     "caption": "With Tuscan origins, a panzanella salad is a chopped salad made with soaked stale bread, onions, and tomatoes. It’s a smart way to give leftover bread a refresh, especially with a drizzle of Doña Elena Pure Olive Oil.\n\nWhen making this salad, it’s really important to select an olive oil of premium quality because no one likes rancid olive oil in their salad, especially one that’s brimming with fresh flavors! This simple salad can be put together in under half an hour and is good for around 4-6 servings. Head over to #TheMarketplace today and shop the ingredients that you need for this delicious and healthy salad!\n\nServing Time: 20 minutes\nYield: 6 servings\nIngredients\nFor the Salad:\n¼ cup Doña Elena Pure Olive Oil\n6 cups rustic sourdough bread cubes\n1 cup cherry tomatoes\n1 red tomato, quartered\n1 cucumber, quartered\n1 red onion, thinly sliced\n½ cup basil leaves, roughly chopped\n1 cup goat cheese, cubed\nFor the Balsamic Vinaigrette:\n½ cup Doña Elena Pure Olive Oil\n¼ cup balsamic vinegar\n1 tsp. Honey\n1 tsp. Dijon mustard\n1 shallot, minced\n1 clove garlic, minced\nSalt and pepper to taste\nProcedure\n1. Drizzle Doña Elena Pure Olive Oil over sourdough. Season with salt and toast in a pan over low-medium heat until crisp.\n2. For the vinaigrette, whisk olive oil, balsamic vinegar, honey, dijon mustard, minced shallot, and garlic.\n3. To serve, combine tomatoes, cucumber, red onions, goat cheese, basil, and sourdough croutons. Season liberally and toss with balsamic vinaigrette.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Doña Elena"
@@ -35,7 +35,7 @@ const EUROPEAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "EUROPEAN FESTIVAL",
+    "campaign": "European Festival",
     "caption": "Baba Ganoush is a common menu item in most Middle Eastern restaurants. A healthy dip made with eggplant, tahini, and lemon juice as its main components, what binds them together is a generous pour of extra virgin olive oil. And for this recipe, we used Filippo Berio Extra Virgin Olive Oil for its lightness and body that doesn’t overpower the strong, earthy flavors of the eggplant.\n\nServe with toasted pita bread and your choice of veggies on the side for a light and delicious meal! All of the ingredients for this recipe are available at #TheMarketplace.\n\nServing Time: 30 minutes\nYield: 4 servings\nIngredients\n2 medium eggplants\n⅓ cup Filippo Berio Extra Virgin Olive Oil, plus more to serve\n¼ cup tahini\n2 tbsps. lemon juice\n2 tsps. minced garlic\n¼ tsp. ground cumin\nSalt and pepper to taste\nSmoked paprika and parsley to garnish\nToasted pita bread to serve\nProcedure\n1. Roast whole eggplants on a grill or over an open flame, turning occasionally. Once charred, remove the skin and scoop out the flesh.\n2. Finely mash roasted eggplant. Mix with Filippo Berio Extra Virgin Olive Oil, tahini, lemon juice, minced garlic, and cumin. Season with salt and pepper.\n3. Drizzle more olive oil and garnish with smoked paprika and chopped parsley. Serve with toasted pita bread.\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Filippo Berio"
@@ -60,7 +60,7 @@ const EUROPEAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "EUROPEAN FESTIVAL",
+    "campaign": "European Festival",
     "caption": "Wake up to the promise of a hearty brunch! These Blue Cheese & Honey Scones make for a sophisticated and satisfying first meal. The key tip here is to use Rowse Smokey Fusion Honey, which adds, as the name suggests, a hint of smokiness that contrasts the sweet honey perfectly. Crumbled blue cheese lends a bit of creaminess and tang, creating that perfect balance of flavors. Enjoy with your favorite morning beverage! Grab all the ingredients that you need for these scones at #TheMarketplace.\nServing Time: 40 minutes\nYield: 8 servings\nIngredients\n2 cups all-purpose flour\n1 tbsp. baking powder\n½ tsp. salt\n½ cup cold unsalted butter, cut into cubes\n1 cup milk, plus more for brushing\n1 tsp. vanilla extract\n¼ cup Rowse Smokey Fusion Honey\n½ cup blue cheese, crumbled\n⅓ cup walnuts, chopped\nProcedure\n\n1. Preheat oven to 190°C. Line a baking sheet with parchment.\n2. Whisk all-purpose flour, baking powder, and salt. Mix in cold butter with a pastry cutter or in a food processor until sandy.\n3. In a separate bowl, mix Rowse Smokey Fusion Honey, milk, and vanilla extract. Stir into the dry mixture with blue cheese and walnuts. Form dough to a large square and cut into 2\" pieces. Place on the baking sheet and brush with milk.\n4. Bake for 10-15 mins. or until golden brown. Drizzle extra honey as desired.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Rowse"
@@ -85,7 +85,7 @@ const EUROPEAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "EUROPEAN FESTIVAL",
+    "campaign": "European Festival",
     "caption": "Who says lasagna noodles can only be used for baked pasta?\n\nTry this recipe for Lasagna Soup, made with Barilla Lasagna, for a hearty bowl of comfort to warm the soul. Technically, this soup echoes the baked pasta dish because it also has the same components of beef, tomatoes, basil, and cheese. Enjoy with a toasted slice of garlic bread if you wish! Barilla Lasagna, along with other Barilla products, are available at the #TheMarketplace.\n\nServing Time: 45 minutes\nYield: 6 servings\nIngredients\n8 sheets Barilla Lasagne\n1 tbsp. olive oil\n½ kg ground beef\n1 onion, chopped\n3 cloves garlic, minced\n1 can crushed tomatoes\n1 tbsp. tomato paste\n1 cup tomato sauce\n4 cups beef broth\n1 tsp. dried basil\n1 tsp. dried oregano\n1 cup shredded mozzarella\n¼ cup grated parmesan\nSalt and pepper to taste\nBasil sprigs to garnish\nProcedure\n1. Break Barilla Lasagne sheets into smaller pieces. Set aside.\n2. Set a pot over medium heat. Sauté onions and garlic in olive oil, then add ground beef. Cook until nicely browned.\n3. Stir in crushed tomatoes, tomato paste and sauce, beef broth, dried basil, oregano, salt and pepper. Once boiling, reduce heat.\n4. Add lasagna, parmesan, and mozzarella. Simmer until lasagna is al dente. Serve in a bowl and garnish with basil sprigs.\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Barilla"
@@ -110,7 +110,7 @@ const EUROPEAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "EUROPEAN FESTIVAL",
+    "campaign": "European Festival",
     "caption": "The French love cooking with wine, and this Chicken au Champagne is a spin on the famed Coq au Vin Blanc (Chicken with White Wine). Plus, it’s a great way to use up some leftover champagne from the previous evening’s celebration! In this case, we’re using Champagne Charles De Cazanove Brut Rose.\n\nAs compared to white wine, champagne is bubblier, but the sole reason for using it in cooking is for its flavor. Champagne rosé provides a sweeter note to most dishes, and it also makes a good ingredient for marinades. The acidity also helps tenderize the meat! Whether it's for a celebration or for a meal, #TheMarketplace is home to a wide selection of wines and spirits so you can find just what you need. Head over today!\n\nServing Time: 45 minutes\nYield: 4 servings\nIngredients\n2 tbsps. olive oil\n4 chicken breasts, skin-on\n2 tbsps. unsalted butter\n1 shallot, finely chopped\n1 cup sliced mushrooms\n½ cup Champagne Charles De Cazanove Brut Rose \n⅔ cup heavy cream\n¼ chicken bouillon cube, optional\nSalt and pepper to taste\nFlat-leaf parsley to garnish\nProcedure\n1. Pat dry chicken. Season with salt and pepper. \n2. Add oil to a skillet over medium-high heat. Sear chicken on both sides. Set aside and reduce heat.\n3. In the same pan, sauté shallots and mushrooms until softened. Pour Champagne Charles De Cazanove Brut Rose, heavy cream, and chicken bouillon. Stir, bring to a boil, then simmer until reduced.\n4. Add seared chicken to the sauce. Baste and cook for 3-5 mins. Serve and garnish with flat-leaf parsley.\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Charles De Cazanove"
@@ -135,7 +135,7 @@ const EUROPEAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "EUROPEAN FESTIVAL",
+    "campaign": "European Festival",
     "caption": "Moules Marinière, or mussels in white wine, is a quintessential French dish that’s popular in bistros. It’s a pretty straightforward cooking process involving the molluscs being steamed in white wine and then served with its juices along with some butter and shallots.\n\nFor this recipe, we’ve used a cup of Demazel Bordeaux Moelleux and made the sauce a little richer with a swig of heavy cream and herbs. It’s a great recipe to make if you have some leftover wine! Make sure to enjoy with some crusty bread, too. Head over to #TheMarketplace today and shop all the ingredients that you need for this recipe!\nServing Time: 30 minutes\nYield: 4 servings\nIngredients\n1 kg mussels, cleaned and debearded\n2 tbsps. unsalted butter\n1 shallot, finely chopped\n4 cloves garlic, minced\n1 cup Demazel Bordeaux Moelleux\n1 cup heavy cream\n2 tbsps. fresh chopped parsley\n½ tsp. dried thyme\nSalt and pepper to taste\nCrusty bread to serve\nProcedure\n1. Melt butter in a large pot over medium heat. Sauté shallots and garlic until soft.\n2. Pour Demazel Bordeaux Moelleux and cook until reduced. Stir in heavy cream, parsley, and thyme. Season to taste then bring to a simmer.\n3. Add mussels to the herbed cream sauce. Cover with a lid and cook for 5 mins. or until the mussels have opened.\n4. Serve in a shallow bowl alongside crusty French bread.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Demazel"
@@ -160,7 +160,7 @@ const EUROPEAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "EUROPEAN FESTIVAL",
+    "campaign": "European Festival",
     "caption": "In the mood for something sweet? This no-bake Chocolate Wafer Icebox Cake made with Casino Wafers Choco Gaufrette is just what you need.\n\nA retro dessert by nature, this recipe requires only five ingredients, but quite a bit of patience. Dark chocolate curls make this cream-coated cake look so inviting. It’ll be hard to not check up every now and then to see if the cake has settled, but we promise you, it’s worth the wait. #TheMarketplace is the exclusive supplier of Casino products, so head over and shop all the ingredients that you need for this easy-peasy dessert!\n\nServing Time: 8 hours 30 minutes \nYield: 6-8 servings\n\nIngredients\n1 pack Casino Wafers Choco Gaufrette\n2 cups cold heavy cream\n½ cup powdered sugar\n2 tsps. vanilla extract\n½ cup shaved dark chocolate\nProcedure\n1. Line an 8x4\" loaf pan with cling wrap.\n2. In a bowl, whisk heavy cream, vanilla extract, and powdered sugar until stiff. Spread half of cream into the pan and arrange Casino Wafers Choco Gaufrette on top. Add remaining whipped cream and smoothen with a spatula.\n3. Cover with cling wrap. Set in the chiller for 8 hours or overnight. Unmold onto a plate and top with shaved chocolate.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Casino"
@@ -185,7 +185,7 @@ const EUROPEAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "EUROPEAN FESTIVAL",
+    "campaign": "European Festival",
     "caption": "Simple, light, and super healthy, this Tuna Pasta Salad made with El Corte Ingles Tuna Belly, is packed with fiber and protein and is bursting with incredible flavors, too.\n\nThe green dressing that we used is a homemade Green Goddess, crafted with yogurt as the base and seasoned with a variety of vibrant herbs. The best thing about this pasta salad is that you can prepare it in under half an hour and pack with you for lunch or keep in the fridge! It’s one of those dishes that get better over time, so what are you waiting for? Make your way to #TheMarketplace now and shop all the ingredients that you need for this recipe!\nServing Time: 15 minutes\nYield: 4 servings\nIngredients\nFor the Salad:\n1 cup trivelle pasta\n1 pack El Corte Ingles Tuna Belly\n2 cups mixed greens, chopped\n2 red onions, finely sliced\n1 cup corn kernels\n½ cup shaved parmesan\nFor the Green Goddess Dressing:\n1 cup plain Greek yogurt\n½ cup fresh parsley\n¼ cup fresh cilantro or mint\n2 tbsps. fresh tarragon leaves\n1 clove garlic, chopped\nSalt and pepper to taste\nProcedure\n1. Cook trivelle pasta according to package instructions.\n2. In a food processor, blend green goddess ingredients until smooth. Season with salt and pepper to taste.\n3. In a serving bowl, toss mixed greens, trivelle pasta, corn kernels, red onions, and chunks of El Corte Ingles Tuna Belly. Top with parmesan and serve with the green goddess dressing.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "El Corte Ingles"

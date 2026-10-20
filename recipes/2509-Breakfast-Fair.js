@@ -10,7 +10,7 @@ const BREAKFAST_FAIR_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "BREAKFAST FAIR",
+    "campaign": "Breakfast Fair",
     "caption": "Cereal meets coffee! ☕️🥣\n\nStart your morning right with this Koko Krunch Latte: a comforting blend of nostalgia and caffeine. Steep Nestlé Koko Krunch in warm milk to infuse that familiar cocoa flavor, then pour over iced espresso and finish with whipped cream and a crunchy sprinkle of more Nestlé Koko Krunch on top.\n\nIt’s your favorite childhood cereal, now reimagined for your grown-up mornings. Find Nestlé Koko Krunch and all the ingredients you need for this fun concoction at The Marketplace. 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nestlé"
@@ -35,7 +35,7 @@ const BREAKFAST_FAIR_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "BREAKFAST FAIR",
+    "campaign": "Breakfast Fair",
     "caption": "Fuel your mornings with a classic favorite. 🥛🍫\n\nWhip up some Milo Dinosaur Overnight Oats with the rich, chocolatey taste of Nestlé Milo. Just mix rolled oats, milk, yogurt, honey and a sachet of Milo, then let it chill overnight. By morning, stir and top with another spoonful of Milo for that signature “dino” finish.\n\nIt’s a nostalgic breakfast that’s both satisfying and simple — no cooking required, just wholesome energy to start your day. Find Nestlé Milo and all your breakfast essentials at The Marketplace. 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Milo"
@@ -60,7 +60,7 @@ const BREAKFAST_FAIR_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "BREAKFAST FAIR",
+    "campaign": "Breakfast Fair",
     "caption": "Coffee takes on a cozy twist with this Biscoff Latte! ☕️🍪\n\nBlend the rich caramelized flavor of Lotus Biscoff with the smooth, well-balanced notes of Nescafé Gold Instant Coffee for a latte that tastes like autumn in a glass. Simply dissolve Nescafé Gold with sugar in hot water, whisk in Biscoff spread, then pour over ice and milk.\n\nIt’s a comforting sip that feels just right for sweater weather: sweet, toasty and satisfyingly smooth. Find Nescafé Gold Instant Coffee and all your cozy-day essentials at The Marketplace. 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nescafé"
@@ -85,7 +85,7 @@ const BREAKFAST_FAIR_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "BREAKFAST FAIR",
+    "campaign": "Breakfast Fair",
     "caption": "Turn the Filipino breakfast staple into a Coffee Pandesal Bread Pudding made with Great Taste Granules Strong Coffee! ☕️🥖\n\nSimply soak torn pieces of pandesal in a custard blend of milk, cream, eggs and dissolved coffee, then bake until golden and set. Each bite brings together the familiar warmth of kape and the soft sweetness of bread in one cozy dish.\n\nIt’s the kind of morning treat that feels both nostalgic and new, perfect with an extra drizzle of caramel or a cup of hot Great Taste Coffee on the side. Find Great Taste Granules Strong Coffee and all your breakfast needs at The Marketplace. 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Great Taste"
@@ -110,7 +110,7 @@ const BREAKFAST_FAIR_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "BREAKFAST FAIR",
+    "campaign": "Breakfast Fair",
     "caption": "Start your day the savory way. 🍳🥣\n\nSwitch things up with this comforting bowl of Savory Miso Oatmeal made with Quaker Instant Oatmeal. It’s a tasty, fiber-rich base that keeps you fueled and satisfied.\n\nCook your oats in dashi stock with white miso, soy sauce and sesame oil for umami depth, then top with a fried egg, spring onions, sesame seeds and nori strips. It’s a nourishing twist on your usual oatmeal breakfast — plus, it’s packed with protein, flavor and all the goodness of Quaker Oats. Find Quaker Instant Oatmeal and all your breakfast needs at The Marketplace. 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Quaker"
@@ -135,7 +135,7 @@ const BREAKFAST_FAIR_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "BREAKFAST FAIR",
+    "campaign": "Breakfast Fair",
     "caption": "Bake up something bright and cheerful with these Froot Loops Cookies, made with Kellogg’s Froot Loops! 🍪🌈 \n\nEach cookie brings in a playful breakfast twist to classic cookies. Mix crushed cereal into buttery dough with white chocolate chunks, top with more Froot Loops for a colorful crunch and bake until golden.\n\nThey’re easy, fun and perfect for sharing, especially with kids who’ll love pressing on the rainbow rings before they go in the oven. Find Kellogg’s Froot Loops and all the items you need to make a batch of these treats at The Marketplace! 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Kellogg's",
@@ -161,7 +161,7 @@ const BREAKFAST_FAIR_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "BREAKFAST FAIR",
+    "campaign": "Breakfast Fair",
     "caption": "A breakfast classic gets a café-style twist with this Spanish Latte Champorado. ☕️🍫\n\nThis takes everything you love about the Filipino chocolate porridge and blends it with the creamy, caramel notes of UCC Spanish Latte 3-in-1 Coffee Mix in Caramel Affogato. Spanish lattes are known for their velvety balance of espresso, milk and a touch of sweetness; and that same harmony turns your champorado into a rich, coffee-kissed breakfast.\n\nStir in UCC’s coffee mix and cocoa powder while the glutinous rice simmers, drizzle with milk and top with toasted hazelnuts for crunch. It’s breakfast that feels indulgent yet familiar: the warmth of champorado meets the café charm of a latte. Find UCC Spanish Latte Coffee Mix and more breakfast favorites at The Marketplace. 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "UCC"
@@ -186,7 +186,7 @@ const BREAKFAST_FAIR_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "BREAKFAST FAIR",
+    "campaign": "Breakfast Fair",
     "caption": "Slow mornings call for something hearty and homemade, and this Breakfast Quiche made with Arla Full Cream Milk is proof that simple can still feel special. 🥧🌿 \n\nA buttery crust holds a savory mix of eggs, mushrooms, spinach and cheese, all whisked together with Arla’s rich, creamy milk for that perfect texture. Add a handful of cherry tomatoes and spring onions, and you’ve got a vibrant, veggie-packed dish that fuels you through the day.\n\nEnjoy it warm out of the oven or make it ahead for easy mornings all week. Find Arla Full Cream Milk and everything you need to make this quiche at The Marketplace. 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Arla"
@@ -211,7 +211,7 @@ const BREAKFAST_FAIR_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "BREAKFAST FAIR",
+    "campaign": "Breakfast Fair",
     "caption": "Weekend brunch, made easy and comforting. 🥐🫐\n\nThis Baked Blueberry Croissant French Toast is a sweet way to start the day: golden croissant chunks baked in a silky custard of eggs, brown sugar and Emborg Full Cream Milk.\n\nStudded with juicy blueberries and a swirl of cream cheese, it’s rich, soft and just the right kind of indulgent. Serve warm with maple syrup and coffee on the side, and it turns into a cozy treat that feels like home. Find Emborg Full Cream Milk and all your breakfast must-haves at The Marketplace. 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Emborg"
@@ -236,7 +236,7 @@ const BREAKFAST_FAIR_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "BREAKFAST FAIR",
+    "campaign": "Breakfast Fair",
     "caption": "Turn breakfast into a treat with these Chuckie Mini Pancakes! 🥞🍫 \n\nMade with Nestlé Chuckie instead of regular milk, these fluffy little bites carry that nostalgic chocolate flavor you know and love. Whisk the batter, cook until golden and stack them high with whipped cream and fresh berries for a fun, energizing start to your day.\n\nPerfect for kids (and kids at heart), these mini pancakes make mornings feel a little more playful and a lot more delicious. Find Nestlé Chuckie at The Marketplace! 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nestlé Chuckie"
@@ -261,7 +261,7 @@ const BREAKFAST_FAIR_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "BREAKFAST FAIR",
+    "campaign": "Breakfast Fair",
     "caption": "Slow, soft and quietly indulgent, this Milky Scramble on Toast is breakfast stripped back to what matters: creamy eggs, warm sourdough and a touch of lightness from Nestlé Non-Fat Milk. Whisk it in for that delicate, custardy texture that melts into the bread just so. 🍳✨\n\nA sprinkle of spring onions cuts through the richness, like a reminder to start your day gently: nourished, unhurried and a little romantic. Find Nestlé Non-Fat Milk and all your breakfast must-haves at The Marketplace. 🛒🥛\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nestlé"
@@ -286,7 +286,7 @@ const BREAKFAST_FAIR_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "BREAKFAST FAIR",
+    "campaign": "Breakfast Fair",
     "caption": "The kind of breakfast that feels like care, this Make-Ahead Breakfast Bake is layered with bread, cheese and color — simple ingredients brought together with the creamy richness of Selecta Fortified Milk. Nourished with vitamins A, D and calcium, it’s not just milk that tastes good; it’s milk that nourishes from the first bite. 🥖☀️\n\nWhisk, pour and let the oven do the rest. What you’ll pull out is golden, puffed and ready to feed everyone you love, no morning rush required. Find Selecta Fortified Milk and other breakfast staples at The Marketplace. 🛒🥛\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Selecta"
@@ -311,7 +311,7 @@ const BREAKFAST_FAIR_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "BREAKFAST FAIR",
+    "campaign": "Breakfast Fair",
     "caption": "Here’s a latte worth slowing down for. ☕️🌾\n\nKinako, also known as roasted soybean flour, adds a nutty depth that pairs beautifully with the smooth, creamy texture of Vitasoy Soy Milk Barista’s Choice.\n\nDesigned to froth and steam like dairy, it gives this drink its silky finish and mellow balance. Topped with soft shiratama dango and a dusting of cinnamon, it’s a ritual in a cup: warm, toasty and satisfying. Find Vitasoy Soy Milk Barista’s Choice at The Marketplace. 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Vitasoy"
@@ -336,7 +336,7 @@ const BREAKFAST_FAIR_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "BREAKFAST FAIR",
+    "campaign": "Breakfast Fair",
     "caption": "A good morning, folded neatly. 🥓🍳\n\nThese Savory Breakfast Crêpes are everything you want in a slow, satisfying start: crisp bacon, melted cheese and a golden egg nestled in a delicate crêpe made with Devondale Full Cream Milk. Smooth and rich, it gives the batter that light, silky texture that cooks into something beautifully tender, yet strong enough to hold all your favorite fillings.\n\nIt’s breakfast with a touch of French flair — simple to make, easy to love and endlessly comforting. Find Devondale Full Cream Milk and all your morning essentials at The Marketplace. 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Devondale"
@@ -361,7 +361,7 @@ const BREAKFAST_FAIR_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "BREAKFAST FAIR",
+    "campaign": "Breakfast Fair",
     "caption": "This Apple & Almond Crumble Porridge feels like a hug and takes your everyday oats to something warm and nurturing, thanks to the naturally smooth and light nutty flavor of Blue Diamond Almond Breeze Milk. 🍎✨\n\nIts subtle sweetness and velvety texture make the porridge creamy without feeling heavy, which is the perfect base for cozy -ber month mornings.\n\nCaramelized apples bring a gentle sweetness, while a buttery almond-speculoos crumble adds crunch and spice in every spoonful. Find Blue Diamond Almond Breeze Milk and everything you need for this recipe at The Marketplace. 🛒🥣\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Blue Diamond"
@@ -386,7 +386,7 @@ const BREAKFAST_FAIR_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "BREAKFAST FAIR",
+    "campaign": "Breakfast Fair",
     "caption": "Golden, fluffy and a little playful, these Sausage, Egg & Cheese Pancake Sandwiches bring together everything you love about breakfast: buttery pancakes, creamy eggs and savory sausage — all layered into one bite. 🥞☀️ \n\nMade with Lurpak Slightly Salted Spreadable Butter, each element gets that rich, velvety touch that ties it all together. Spread, melt or swirl, Lurpak adds flavor and finesse without the fuss, making mornings feel just a little more special. Find Lurpak Slightly Salted Spreadable Butter and all your breakfast favorites at The Marketplace. 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Lurpak"
@@ -411,7 +411,7 @@ const BREAKFAST_FAIR_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "BREAKFAST FAIR",
+    "campaign": "Breakfast Fair",
     "caption": "Bright, tangy and just the right amount of sweet, these Lemon Blueberry Yogurt-Filled Crêpes are a refreshing way to start the day.  . 🍋🫐 \n\nThe secret is Nestlé Greek Yogurt in Blueberry Cheesecake, which adds a luscious, protein-rich filling that balances beautifully with the tart lemon and warm blueberry sauce.\n\nGreek yogurt isn’t just delicious; it’s packed with probiotics and calcium, helping you feel nourished and energized from the inside out. Fold, drizzle and enjoy this morning treat with a cup of coffee or tea. Find Nestlé Greek Yogurt and all your breakfast essentials at The Marketplace. 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nestlé"
@@ -436,7 +436,7 @@ const BREAKFAST_FAIR_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "BREAKFAST FAIR",
+    "campaign": "Breakfast Fair",
     "caption": "A snack that fuels your day and satisfies your sweet tooth, these Yogurt Energy Bars are made with Cimory Strawberry Yogurt, giving them a creamy tang that pairs perfectly with oats, nuts and honey. Each bite has that balance of crunch and chew that are bound together with the natural goodness of yogurt.\n\nRich in calcium, protein and probiotics, yogurt helps keep you energized while supporting gut health. Find Cimory Strawberry Yogurt and all your pantry picks at The Marketplace. 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Cimory"
@@ -461,7 +461,7 @@ const BREAKFAST_FAIR_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "BREAKFAST FAIR",
+    "campaign": "Breakfast Fair",
     "caption": "This Tocino Hash Skillet takes the familiar flavors of a Filipino breakfast and gives them a hearty, one-pan twist, bringing the taste of home to the morning table. 🍳🇵🇭\n\nMade with CDO Funtastyk Young Pork Tocino, each tender chunk caramelizes beautifully, coating the potatoes, peppers and onions in that signature sweet-savory glaze we all love.\n\nTop it with a sunny egg, sprinkle of spring onions and a side of toast for good measure. It’s that classic “silog” comfort, just reimagined. Find CDO Funtastyk Young Pork Tocino and other CDO products you’ll love at The Marketplace! 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "CDO"

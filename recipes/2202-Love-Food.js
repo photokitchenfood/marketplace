@@ -10,7 +10,7 @@ const LOVE_FOOD_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "LOVE, FOOD",
+    "campaign": "Love Food",
     "caption": "Valentine’s Day is in the air, and what better way to celebrate than with this homemade Strawberry and Chocolate Cheesecake made with kisses…Hershey’s Kisses, that is!\n\nThe classic strawberry cheesecake gets a decadent, chocolatey twist in this easy recipe that takes some time to prepare, but is worth every single bite. Get all the ingredients you need at #TheMarketplace!\n\nServing Time: 8 hours\nYield: 1 9-inch cake\n\nIngredients\n\n2 cups graham cracker crumbs\n¼ cup butter, melted \n¼ cup heavy cream \n3 tbsps. brown sugar \n1 tsp. salt \n4 bars of 8 oz cream cheese, softened \n1 cup white sugar\n3 eggs\n½ cup heavy whipping cream \n½ cup sour cream \n2 tsps. vanilla\n2 tbsps. flour\n1 cup strawberry sauce \n½ cup strawberries, halved \n1 pack Hershey’s Kisses Holiday Mix \n\nProcedure\n\n1. Preheat oven to 175°C. Line a 9-inch springform pan with parchment paper on the sides and at the base. \n2. Combine graham cracker crumbs, butter, heavy cream, brown sugar and salt. Press onto the lined springform pan. Bake for 10 minutes, then let cool completely. \n3. Lower the temperature of your oven to 160°C. \n4. Using a stand mixer fitted with a paddle attachment, beat cream cheese and sugar together until smooth. Add in eggs one at a time. Beat in whipping cream, sour cream, vanilla and flour. \n5. Add in half of the strawberry sauce into the cheesecake batter, then transfer to the springform pan. Place dollops of the remaining strawberry sauce on top, then swirl using a spoon or chopstick. \n6. Bake for 55 minutes up to 1 hour, or until top is lightly browned with no cracks. The cheesecake should be firm with a slight jiggle when moved. Turn off oven, then let cheesecake cool inside with the door open to prevent it from cracking. Once cooled, chill for at least 6 hours. \n7. Top with halved strawberries and Hershey’s Kisses before serving. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Hershey's"
@@ -35,7 +35,7 @@ const LOVE_FOOD_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "LOVE, FOOD",
+    "campaign": "Love Food",
     "caption": "Nothing beats the iconic Ferrero Rocher when it comes to romantic sweets. This season of hearts, prepare this Ferrero Trifle that’s perfect for two. \n\nEnjoy it while having some quality time after Valentine’s dinner, or as you binge through your favorite romantic comedies this February! Find all the ingredients you need at #TheMarketplace.\n\nServing Time: 15 minutes\nYield: 2 servings\n\nIngredients\n\n1 cup chocolate biscuits, crushed \n1 cup vanilla biscuits, crushed \n3 tbsps. butter, melted\n1 cup whipping cream, chilled\n¼ cup chocolate syrup \n16 pcs. Ferrero Rocher \n\nProcedure\n\n1. Combine chocolate biscuits, vanilla biscuits and butter. Divide into 2 trifle glasses. \n2. Beat whipping cream until soft peaks form. Divide into half. \n3. Mix half of the whipped cream with chocolate syrup. \n4. Roughly chop 6 pieces of Ferrero, then fold into the remaining whipped cream.\n5. Top biscuits with chocolate whipped cream, then Ferrero chocolates, Ferrero whipped cream and finally, more Ferrero on top. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Ferrero"
@@ -60,7 +60,7 @@ const LOVE_FOOD_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "LOVE, FOOD",
+    "campaign": "Love Food",
     "caption": "Go the extra mile this Valentine’s Day with your date (or yourself!) by creating this decadent KitKat Cake that’s bursting with delicious chocolate and berry flavors.\n\nLet your creativity go wild and explore different fruit combinations, or top with other chocolates or candies if you prefer! Don’t forget to shop at #TheMarketplace and find everything you need.\n\nServing Time: 1 hour and 15 minutes\nYield: 1 9-inch cake\n\nIngredients\n\n1 cup all-purpose flour\n1 cup white sugar \n6 tbsps. unsweetened cocoa powder \n1 tsp. baking powder\n1 tsp. baking soda\n½ tsp. salt \n1 tsp. espresso powder\n½ cup milk \n¼ cup canola oil \n1 large egg \n1 tsp. vanilla \n½ cup boiling water\n1 cup heavy cream \n1 cup dark chocolate, chopped\n1 cup milk chocolate, chopped \n12 pcs. KitKat, halved \n1 cup strawberries, halved \n1 cup blueberries\n\nProcedure\n\n1. Preheat oven to 175°C. Grease a 9-inch cake pan. \n2. Whisk together flour, sugar, cocoa, baking powder, baking soda and salt. In a separate bowl, whisk together milk, canola oil, egg and vanilla. Add the wet ingredients into the dry ingredients, then mix until just combined. Carefully mix in boiling water. \n3. Transfer to the greased cake pan, then bake for 25-30 minutes, or until a toothpick inserted in the middle comes out clean. Let cool completely. \n4. Heat up heavy cream until steaming. Place dark and milk chocolate in a heatproof bowl, then add heated cream on top. Whisk until smooth. Let cool for 10 minutes, or until thick enough to use as frosting. \n5. Frost cooled cake with the chocolate ganache, then use KitKat halves to line the outer perimeter of the cake. Top with strawberries and blueberries. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "KitKat"
@@ -85,7 +85,7 @@ const LOVE_FOOD_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "LOVE, FOOD",
+    "campaign": "Love Food",
     "caption": "Elevate the humble Cloud 9 chocolate bar in this recipe for Cloud 9 Cookie Skillet! Definitely made for sharing, tuck into this ooey, gooey, luscious dessert that’s best paired with a glass of cold, full-cream milk.\n\nWe topped it with vanilla ice cream, but feel free to try out other flavours, too! #TheMarketplace is home to a wide selection of local and international chocolate bars and sweet treats, so get creative with your sweet tooth and shop some sweets today!\n\nServing Time: 45 minutes\nYield: 6-8 servings\n\nIngredients\n\n1 cup unsalted butter, softened\n1 cup white sugar \n¾ cup brown sugar \n3 eggs \n2 tsps. vanilla \n3 cups all-purpose flour\n1 tsp. salt \n1 tsp. baking powder\n1 tsp. baking soda \n1 cup semi-sweet chocolate chips \n4 pcs. Classic Cloud 9, chopped\n2 scoops vanilla ice cream \n\nProcedure\n\n1. Preheat oven to 175°C. \n2. Beat together butter, white sugar and brown sugar until smooth. Mix in eggs one at a time, then add the vanilla. Beat together until fluffy and pale yellow in color. \n3. In a separate bowl, whisk together flour, salt, baking powder and baking soda. Add to the wet mixture, and mix until just combined.\n4. Fold in semi-sweet chocolate chips and half of the chopped Cloud 9 chocolates. \n5. Transfer to a skillet, then top with remaining Cloud 9 pieces. Bake for 30-35 minutes. Top with vanilla ice cream, and serve immediately. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Cloud 9"
@@ -110,7 +110,7 @@ const LOVE_FOOD_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "LOVE, FOOD",
+    "campaign": "Love Food",
     "caption": "A great alternative to brownies are blondie bars, which boast flavors of vanilla and a light caramel because of brown sugar. If you’re looking to sweeten someone’s day this February, then these homemade M&M’s Valentine’s Blondies should do just the trick.\n\nRegular M&M’s work perfectly with this recipe already, but if you want to add more bite, play around with the peanut variant, or do a mix of both! All the ingredients you need are readily available at #TheMarketplace.\n\nServing Time: 50 minutes\nYield: 24 bars\n\nIngredients\n\n2 ½ cups all-purpose flour \n1 tsp. baking soda \n1 tbsp. cornstarch \n1 tsp. salt\n¾ cup unsalted butter, melted \n1 cup brown sugar \n⅔ cup white sugar \n2 large eggs\n1 tbsp. vanilla \n½ cup white chocolate chips\n½ cup M&M’s \n\nProcedure\n\n1. Preheat oven to 175°C. Line a 9x9 baking pan with parchment paper. \n2. Whisk together flour, baking soda, cornstarch and salt. In a separate bowl, whisk together butter, brown sugar, white sugar, eggs and vanilla. Mix together dry and wet ingredients until just combined. Fold in white chocolate chips and M&M’s. \n3. Transfer to the lined baking pan, then bake for 30-35 minutes. \n4. Let cool, then slice into bars. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "M&M's"
@@ -135,7 +135,7 @@ const LOVE_FOOD_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "LOVE, FOOD",
+    "campaign": "Love Food",
     "caption": "Did you know that Toblerone works excellently in a chocolate mousse?\n\nA simple yet delightful dessert that takes only half an hour to prepare, this Toblerone Chocolate Mousse combines the best of both worlds. Smooth, chocolate mousse is punctuated by the Toblerone’s nougat, providing that classic Toblerone crunch to every bite. Have your choice of regular milk or dark Toblerone, or choose white if you want a sweeter taste. Find Toblerone, along with other sweet treats, at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 2-3 servings\n\nIngredients\n\n½ cup heavy cream\n1 cup Toblerone, chopped \n1 cup whipping cream, chilled \n½ cup strawberries, chopped\n\nProcedure\n\n1. Put an inch of water in a small saucepan. Let water come to a simmer. \n2. Place heavy cream and Toblerone in a heatproof bowl, then place on top of the saucepan with simmering water. Mix until chocolate is melted and mixture is smooth. Let cool. \n3. Whisk whipping cream until soft peaks form. Reserve ¼ cup of the whipped cream for topping later on. Fold in cooled chocolate ganache, and then whip again until firm peaks form.\n4. Transfer chocolate mousse into serving glasses. Top with whipped cream and strawberries.  \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Toblerone"
@@ -160,7 +160,7 @@ const LOVE_FOOD_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "LOVE, FOOD",
+    "campaign": "Love Food",
     "caption": "Transform the trendy Korean cookie stick into a decadent Black Forest Milkshake with the help of some chocolate syrup, chocolate ice cream, milk, cherry jam, and whipped cream!\n\nPocky adds a nice, crunchy break in between sweet sips, and feel free to try other flavors as well. We find that Pocky strawberry and cookies & cream work great, too! Visit the #TheMarketplace to get your fill of Pocky and other Korean snacks!\n\nServing Time: 10 minutes\nYield: 1 glass\n\nIngredients\n\n¼ cup chocolate syrup\n4 large scoops chocolate ice cream \n¾ cup milk \n3 tbsps. cherry jam \nWhipped cream for topping\nCherry for topping \n4-6 pcs. Pocky Chocolate sticks\n\nProcedure\n\n1. Drizzle chocolate syrup inside your serving glass. Freeze while you make the milkshake. \n2. In a blender, combine chocolate ice cream, milk and 2 tbsps. of cherry jam. Transfer into your serving glass. \n3. Top with whipped cream, remaining cherry jam, cherry and Pocky Chocolate sticks. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Pocky"
@@ -185,7 +185,7 @@ const LOVE_FOOD_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "LOVE, FOOD",
+    "campaign": "Love Food",
     "caption": "Ever wondered why cookies are usually always round?\n\nIn this recipe for Chocolate-Dipped Cookie Sticks, we made snacking on cookies easier and more luscious thanks to Waitrose Belgian Dark Chocolate. Easy to eat and super addictive, we recommend dunking the cookie sticks into some milk, or pairing them with some vanilla ice cream. Explore an extensive range of Waitrose products only at #TheMarketplace!\n\nServing Time: 45 minutes\nYield: 12 sticks\n\nIngredients\n\n½ cup unsalted butter \n½ cup white sugar \n½ cup brown sugar\n1 large egg\n1 tsp. vanilla \n2 cups all-purpose flour\n½ tsp. salt \n½ tsp. baking powder\n½ tsp. baking soda\n2 cups Waitrose Belgian Dark Chocolate, chopped\n\nProcedure\n\n1. Preheat oven to 175°C. Line a 6”x 6” baking pan with parchment paper. \n2. Beat together butter, white sugar, brown sugar, egg and vanilla until smooth and pale yellow in color. Mix in flour, salt, baking powder and baking soda until just combined. Fold in 1 cup of Waitrose Belgian Dark Chocolate. \n3. Transfer into the lined baking pan, and bake for 15-20 minutes. Let cool completely before slicing into sticks. \n4. Melt remaining chocolate over a double-boiler. Keep stirring until everything is melted and smooth. \n5. Dip each stick into the melted chocolate, then let set for 10-15 minutes. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Waitrose"
@@ -210,7 +210,7 @@ const LOVE_FOOD_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "LOVE, FOOD",
+    "campaign": "Love Food",
     "caption": "Make your Valentine’s Day present even sweeter with a dozen Dark Chocolate Pistachio Cupcakes to go with a dozen roses!\n\nMade with Casino Delices Equateur Chocolate, these dark chocolate cupcakes come with a sophisticated touch of chopped, buttery pistachios. Moist in the middle and a cut above the rest because they’re homemade, these cupcakes are truly a love language on their own.\n\nFind all the ingredients you need for these decadent cupcakes only at #TheMarketplace!\n\nServing Time: 1 hour\nYield: 12 cupcakes\n\nIngredients\n\n½ cup vegetable oil \n½ cup water \n¼ cup sour cream \n1 large egg \n1 tsp. vanilla \n1 cup all-purpose flour \n½ cup white sugar \n½ cup brown sugar \n¼ cup unsweetened cocoa powder\n¾ tsps. baking soda\n¼ tsp. salt\n1 cup heavy cream\n2 cups Casino Delices Equateur Chocolate, chopped\n½ cup pistachios, shelled and chopped\n\nProcedure\n\n1. Preheat oven to 175°C. Line a 12-cup cupcake pan with cupcake liners. \n2. Whisk together oil, water, sour cream, egg and vanilla. In a separate bowl, sift together flour, white sugar, brown sugar, cocoa, baking soda and salt. Mix wet and dry ingredients until just combined. \n3. Fill cupcake liners until ¾ full. Bake for 25-30 minutes, or until a toothpick inserted in the middle comes out clean. Let cool completely. \n4. Heat up heavy cream until steaming. Place Casino Delices Equateur Chocolate in a heatproof bowl, then add heated cream on top. Stir until smooth. Let cool for 10 minutes, or until consistency can be used for frosting. \n5. Pipe chocolate ganache onto cooled cupcakes, then top with pistachios. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Casino"

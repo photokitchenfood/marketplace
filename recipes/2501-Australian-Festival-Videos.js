@@ -10,7 +10,7 @@ const AUSTRALIAN_FESTIVAL_VIDEOS_DATA = [
     "category": "EAP",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "AUSTRALIAN FESTIVAL",
+    "campaign": "Australian Festival",
     "caption": "There’s nothing quite like a bowl of comforting pasta, and this Truffle Cream Sausage Fettuccine is pure magic.\n\nSilky San Remo Fettuccine is tossed with savory crumbled Italian sausage, earthy shiitake mushrooms, and fragrant sage, all bathed in a luxurious truffle white wine cream sauce A golden topping of buttery panko breadcrumbs adds the perfect crunch. It’s an elegant yet easy dish that’s sure to impress your family or guests.\n\nReady to make this recipe? Gather everything you need for this irresistible dish at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "San Remo"
@@ -35,7 +35,7 @@ const AUSTRALIAN_FESTIVAL_VIDEOS_DATA = [
     "category": "EAP",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "AUSTRALIAN FESTIVAL",
+    "campaign": "Australian Festival",
     "caption": "Start the day with a warm Oat Crumble Breakfast Muffin — soft, moist, and bursting with juicy blueberries and just a hint of cinnamon.\n\nThe oat crumble on top, made with buttery brown sugar and Quaker Quick Cook Oatmeal, adds the perfect golden crunch, while the delicate glaze of So Good Extra Creamy Oat Milk, vanilla, and lemon ties it all together. These muffins are wholesome yet indulgent, the kind of treat that feels both nourishing and luxurious.\n\nPick up your Quaker Quick Cook Oatmeal, So Good Extra Creamy Oat Milk, and everything else you need to whip up this breakfast treat at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Quaker",

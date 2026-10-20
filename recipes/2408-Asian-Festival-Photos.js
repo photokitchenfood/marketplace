@@ -10,7 +10,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "ASIAN FESTIVAL",
+    "campaign": "Asian Festival",
     "caption": "Craving or searching for some Asian dishes or condiments?\n\nLook no further because #TheMarketplace is your one-stop shop for various Asian grocery items imported from Japan, Korea, Thailand, and more! Stock up at your nearest Marketplace location and thank us later.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -29,7 +29,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "ASIAN FESTIVAL",
+    "campaign": "Asian Festival",
     "caption": "Tired of eating your instant noodles the usual way? Then we have a recipe that you might enjoy!\n\nHead over to #TheMarketplace and grab some sirloin, vegetables (leftover veggies in your fridge are great for this dish, too!), and a packet or two of Nongshim Beef Bulgogi Fried Noodles.\n\nWe’re literally crisping up the fried noodles here, and the addition of sirloin guarantees an uber-luxurious touch. Sit back, relax, and enjoy with an icy can of beer and your favorite television show. Need we say more?\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nongshim"
@@ -54,7 +54,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "ASIAN FESTIVAL",
+    "campaign": "Asian Festival",
     "caption": "Known to be the “instant noodle” sibling of Jjajangmyeon (black bean noodles), Nongshim Chapagetti has set a trend for itself as one of the Korea’s most popular instant noodle variants.\n\nWhile eating it according to the package’s instructions is totally fine, here’s a simple hack to give it a creamy and smoky edge. This Cheesy Breakfast Chapagetti can be enjoyed during any meal of the day — not just breakfast! Simply add bacon, leeks, and cheese, and experience a whole different level of Chapagetti pleasure.\n\nNongshim Chapagetti can be found at #TheMarketplace, along with other popular Korean instant noodle brands. Head over now!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nongshim"
@@ -79,7 +79,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "ASIAN FESTIVAL",
+    "campaign": "Asian Festival",
     "caption": "Welch’s may be a timeless household fruit juice brand, but have you tried these fun sodas?\n\nThese refreshing Welch’s fruit sodas come in grape and strawberry flavors and are always a good idea to have stocked in the fridge for those days when you just need a fizzy and fruity quencher. Go grab them at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Welch’s"
@@ -98,7 +98,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "ASIAN FESTIVAL",
+    "campaign": "Asian Festival",
     "caption": "Ueshima Coffee Company, or more popularly known as UCC, hails from Japan and has become one of the most popular coffee brands today.\n\nTheir various coffee roasts and products of many forms — from beans, to grounds, to ready-to-drink versions — have become a hit with coffee lovers the world over, and now, you can experience the range of coffees UCC has to offer at #TheMarketplace! Shop according to what you need or try something new to drink or brew!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "UCC"

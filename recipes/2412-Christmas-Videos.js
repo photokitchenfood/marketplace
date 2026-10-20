@@ -10,7 +10,7 @@ const CHRISTMAS_VIDEOS_DATA = [
     "category": "EAP",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "CHRISTMAS - EAP",
+    "campaign": "Christmas",
     "caption": "With the rich, spiced sweetness of Selecta Supreme Speculoos & Cream ice cream, complemented by coffee, rum, and layers of broas and speculoos cookies, each bite of this Frozen Speculoos Tiramisu is like a little festive indulgence.\n\nThe no-bake nature of this dessert means you can prepare it ahead of time, leaving more room for relaxation and merriment. It’s the ultimate dessert to share with family and friends, making every holiday moment just a bit sweeter. Find your favorite Selecta Supreme ice creams at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Selecta"
@@ -35,7 +35,7 @@ const CHRISTMAS_VIDEOS_DATA = [
     "category": "EAP",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "CHRISTMAS - EAP",
+    "campaign": "Christmas",
     "caption": "This Black Forest Trifle takes little effort but leaves a lasting impression. We used chopped Meadows Milk Chocolate with Salted Caramel in this trifle, its smoothness and salted sweetness elevating every layer. This dessert is already perfectly delicious on its own, and an optional splash of cherry brandy or kirsch adds a delightful, subtle kick.\n\nPerfect for holiday gatherings and Christmas celebrations, it’s a simple yet indulgent treat that layers the best of chocolate, whipped cream, and cherries — each bite a heavenly balance of richness and brightness. This will surely become the showstopper at your next holiday table — grab all the ingredients that you need at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Meadows"
@@ -60,7 +60,7 @@ const CHRISTMAS_VIDEOS_DATA = [
     "category": "EAP",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "CHRISTMAS - EAP",
+    "campaign": "Christmas",
     "caption": "For a holiday appetizer that's as easy as it is exquisite, this Holiday Steak Crostini made with Clayton Organic Beef Sirloin — available at The Marketplace — and homemade herbed goat cheese is exactly what you need to elevate your celebrations.\n\nThe creamy herbed goat cheese spread on each crostini perfectly complements the tender slices of organic beef, while the balsamic glaze adds a touch of sweetness and depth. Garnished with fresh rosemary, it’s a dish that looks as appetizing as it tastes. Whether you're hosting a holiday gathering or sharing a cozy meal with friends and family, this is a dish that brings everyone together, filling the room with both flavor and festivity.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Clayton"
@@ -85,7 +85,7 @@ const CHRISTMAS_VIDEOS_DATA = [
     "category": "STOP MOTION",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "CHRISTMAS - STOP MOTION",
+    "campaign": "Christmas",
     "caption": "As the days grow shorter and the holiday season picks up, the inviting, crisp scent of lemons can lift your spirits and brighten your home. Glade Lemon Scented Gel delivers that fresh, zesty burst, like squeezing a bunch fresh lemons in the room. Allow the uplifting lemon fragrance to fill every corner, creating a refreshing space for you to relax and rejuvenate your spirits.\n\nWith Glade, you’re adding an invigorating burst of brightness to your space — an effortless way to bring joy to even the coldest days. Head over to The Marketplace and shop today!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Glade"
@@ -104,7 +104,7 @@ const CHRISTMAS_VIDEOS_DATA = [
     "category": "STOP MOTION",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "CHRISTMAS - STOP MOTION",
+    "campaign": "Christmas",
     "caption": "As you take a break from the hustle and bustle of the holiday season, step into a world of comfort with Downy Sunrise Fresh Fabric Conditioner. Imagine the warmth of spring wrapped around you, from the soft embrace of freshly washed sheets to the cozy feel of towels and blankets.\n\nEach item in your closet holds the calming scent of a perfect morning breeze, making your home feel inviting and serene. With Downy Sunrise Fresh Fabric Conditioner, you’re adding a touch of warmth and softness that will make every day feel like a holiday. Find it now at The Marketplace, along with all your laundry needs.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Downy"
@@ -123,7 +123,7 @@ const CHRISTMAS_VIDEOS_DATA = [
     "category": "STOP MOTION",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "CHRISTMAS - STOP MOTION",
+    "campaign": "Christmas",
     "caption": "As the holiday season fills your kitchen with the delightful chaos of cooking and celebrating, Sanicare Jumbo Kitchen Towels are here to help keep things clean and manageable.\n\nLarge enough to handle the messiest of spills, from simmering sauces to a tipped glass, they’re incredibly absorbent and always up to the task. So, embrace the festivities and let these towels take care of the rest. Swing by The Marketplace and stock up today!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Sanicare"

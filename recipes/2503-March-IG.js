@@ -9,7 +9,7 @@ const MARCH_IG_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "MARCH IG",
+    "campaign": "March IG",
     "caption": "Summer calls for effortless yet flavorful meals, and The Marketplace has just the items to make it all come together beautifully and tastefully.\n\nRich, umami-packed Mushroom Sisig from The Kabute Farm is a delicious plant-based take on a classic, bursting with savory goodness and just the right amount of heat — perfect over rice or tucked into a warm tortilla. For something crisp and golden, the Pacific Bay Par-Fried Tempura delivers that irresistible crunch with tender, delicate seafood inside, ready to be enjoyed in minutes.\n\nWith the finest groceries waiting for you at The Marketplace, cooking at home has never been this easy — or delicious! Shop now.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "The Kabute Farm",
@@ -29,7 +29,7 @@ const MARCH_IG_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "MARCH IG",
+    "campaign": "March IG",
     "caption": "This summer, treat yourself to the pure, refreshing taste of Farm Fresh 100% Australian Milk, available at The Marketplace.\n\nWhether you prefer the rich, velvety smoothness of Full Cream or the light, wholesome goodness of Low Fat, these exceptional milks — conveniently offered in big and small bottles depending on your household — are the perfect addition to your fridge. Each bottle is imported from Australia, where the milk is as fresh and pure as the land itself.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Farm Fresh"
@@ -48,7 +48,7 @@ const MARCH_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "MARCH IG",
+    "campaign": "March IG",
     "caption": "Here’s the perfect summer snack — treat yourself to the delightful indulgence of these Cheese Triangle Danishes, made with creamy, smooth Arla Cheese Triangles and wrapped in flaky, buttery puff pastry.\n\nThese little pockets of joy are paired with a luscious dip, combining sour cream, mayonnaise, garlic, and a fresh herby blend of parsley, chives, and dill. All the ingredients you need for this delectable treat can be found at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Arla"
@@ -73,7 +73,7 @@ const MARCH_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MARCH IG",
+    "campaign": "March IG",
     "caption": "A fragrance that embraces the essence of nature’s finest blooms, fresh and invigorating — that’s Baguio Roses & Peony for you, captured in the new Glade Scented Gel.\n\nThis local scent is an iconic reminder of the vibrant beauty found in the summer capital of the Philippines, filling your space with the delicate, uplifting notes of roses and peony. Bring the freshness of this beautiful bouquet into your home with Glade Scented Gel, available at The Marketplace, along with a range of other Glade products and household essentials to make every room feel as refreshing and inviting as a garden in full bloom.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Glade"

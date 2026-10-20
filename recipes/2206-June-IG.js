@@ -10,7 +10,7 @@ const JUNE_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "JUNE IG & FB",
+    "campaign": "June IG",
     "caption": "Tickle your sweet tooth with the irresistible combination of salted caramel and dark chocolate in this recipe for Salted Caramel Brownies made with Hershey’s Cocoa Creations Dark Salted Caramel! Crisp on the outside and fudgy on the inside, bake a batch to share or to store for personal indulgence.\n\nShop at #TheMarketplace for a fine selection of chocolates that include Hershey’s products and more!\n\nServing Time: 35 minutes\nYield: 16 bars\n\nIngredients\n\n1 cup flour\n3/4 cup cocoa powder\n¼ tsp. baking powder\n½ cup butter, melted\n¾ cup sugar\n2 eggs\n1 cup Hershey’s Cocoa Creations Dark Salted Caramel, chopped\n¼ cup caramel fudge\n½ tbsp. flaky salt\n\nProcedure\n\n1. Preheat oven to 175°C. Grease a 9’x9” pan. \n2. In a large bowl, combine flour, cocoa powder and baking powder. Set aside.\n3. Using an electric mixer, cream butter and sugar. Add eggs, then mix until well combined.\n4. Slowly add dry mixture into the wet mixture. Mix until smooth, then mix in Hershey’s Cocoa Creations Dark Salted Caramel.\n5. Transfer to the lined baking pan. Drizzle caramel fudge on top, and bake for 20-25 minutes.\n6. Sprinkle with flaky salt on top while hot. Let cool before cutting into 16 bars.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Hershey's"
@@ -35,7 +35,7 @@ const JUNE_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "JUNE IG & FB",
+    "campaign": "June IG",
     "caption": "Get rid of unwanted odors and 99.9% of bacteria and fungus with Family Guard aerosol spray!\n\nWith a refreshing lemon scent that’s gentle on the nose, be worry-free at home with Family Guard Disinfectant Room & Multisurface Aerosol Spray. Find it along with other household essentials at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Family Guard"
@@ -54,7 +54,7 @@ const JUNE_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "JUNE IG & FB",
+    "campaign": "June IG",
     "caption": "Easy to change while providing unbeatable dryness, Pampers Toddler Pants provide up to 12 hours of protection. It’s perfect for your active toddler, especially with the soft, elastic waistband that allows for free and comfortable movement.\n\nPampers Toddler Pants are available at #TheMarketplace, along with other essentials for your little ones. Shop now!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Pampers"
@@ -73,7 +73,7 @@ const JUNE_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "JUNE IG & FB",
+    "campaign": "June IG",
     "caption": "The combination of citrus and chocolate can be a topic for debate, but after trying this Chocolate Orange Mousse made with Casino Délices Dark Chocolate Orange Crepes, orange and chocolate might just be your new favorite dessert combination.\n\nThis fancy-looking treat is actually easy to prepare and takes only half an hour to make! It’s the perfect dessert to end a delicious home-cooked weekend dinner with.\n\nFind all the ingredient you need for this recipe, along with other Casino delights, only at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 4 servings\n\nIngredients\n\n½ cup heavy cream\n2 cups semi-sweet chocolate\n1 tbsp. orange zest\n1 ½ cup whipping cream, chilled\n1 cup Casino Délices Dark Chocolate Orange Crepes, roughly chopped\n¼ cup orange peel, sliced into strips\n\nProcedure\n\n1. Put an inch of water in a small saucepan, then let it simmer. Place a heatproof bowl with the semi-sweet chocolate and heavy cream over the pan with simmering water.\n2. Mix heavy cream and semisweet chocolate until fully melted and smooth. Add orange zest and mix. Let cool. \n3. Whisk whipping cream until soft peaks form. Reserve ½ cup for later. Fold the remaining whipped cream into the chocolate ganache. Whisk again until firm peaks form.\n4. Transfer to a dessert glass, then top with reserved whipped cream and pieces of Casino Délices Dark Chocolate Orange Crepes. Garnish with orange peel strips.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Casino"
@@ -98,7 +98,7 @@ const JUNE_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "JUNE IG & FB",
+    "campaign": "June IG",
     "caption": "If you’re looking to quench your skin with a boost of hydration, make sure to grab a pot of Neutrogena’s Hydro Boost Water Gel the next time you shop at #TheMarketplace!\n\nEnhanced with hyaluronic acid that boosts hydration for supple and smooth skin, this breakthrough water gel also absorbs quickly and is oil-free and non-comedogenic. It’s a must-have skincare item, especially for our tropical weather!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Neutrogena"
@@ -117,7 +117,7 @@ const JUNE_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "JUNE IG & FB",
+    "campaign": "June IG",
     "caption": "We are incredibly fortunate to have such a delicious harvest of mangoes, and this recipe for Mango Delight Slushie made with Dutch Mill Delight Probiotic Drink is another delicious way to enjoy mangoes!\n\nThe addition of calamansi gives it a tangy twist, garnished with mint for a cooling finish. Because Dutch Mill Delight contains probiotics, you can bet that this refreshing slushie is good for your gut, too! Head over to #TheMarketplace and grab all the ingredients you need for this recipe today!\n\nServing Time: 5 minutes\nYield: 2-3 servings\n\nIngredients\n\n2 cups mangoes, frozen\n2 cups Dutch Mill Delight Probiotic Drink\n2 tbsps. calamansi juice\n1 tbsp. simple syrup\n½ cup fresh mango, flesh cubed\n¼ cup calamansi, halved\n¼ cup mint sprigs\n\nProcedure\n\n1. Using a blender, combine frozen mangoes, Dutch Mill Delight Probiotic Drink, calamansi juice and simple syrup. Process until smooth, then transfer to a pitcher.\n2. Fold fresh mango cubes into the Mango Delight Slushie, then transfer to serving glasses. \n3. Garnish with calamansi halves and mint sprigs.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Dutch Mill"
@@ -142,7 +142,7 @@ const JUNE_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "JUNE IG & FB",
+    "campaign": "June IG",
     "caption": "If you’re in the mood for a light dish with lots of character, try making this easy Salmon Curry Rice at home using John West Smoked Salmon Slices. The punchiness of the spice blend made with curry powder, coriander, cumin, and paprika enhances the smokiness of the salmon and the sour cream provides a tart yet refreshing finish.\n\nMake sure to add all these ingredients to your cart the next time you shop at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 2-3 servings\n\nIngredients\n\n2 tbsps. yellow curry powder\n1 tsp. coriander powder\n1 tsp. cumin\n1 tsp. paprika\n2 tbsps. butter\n½ cup white onion, diced\n2 tbsps. garlic, minced\n2 tsps. ginger, minced\n1 cup rice, uncooked\n2 cups chicken broth\nSalt and pepper to taste\n2 cans John West Smoked Salmon Slices\n¼ cup red onion, sliced\n¼ cup cilantro sprigs\n½ cup sour cream\n\nProcedure\n\n1. In a small bowl, combine yellow curry powder, coriander powder, cumin and paprika. Set aside.\n2. Set a saucepan over medium heat. Add butter, then sauté white onions, garlic and ginger until fragrant.\n3. Add in rice and spices, and mix until rice is well coated with the spice mix. Add in chicken broth, then season with salt and pepper. Cover, and let simmer for 15-20 minutes.\n4. Fluff cooked rice and transfer to a plate, then top with John West Smoked Salmon Slices, red onions and cilantro sprigs.\n5. Serve with sour cream.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "John West"
@@ -167,7 +167,7 @@ const JUNE_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "JUNE IG & FB",
+    "campaign": "June IG",
     "caption": "Be the hostess with the mostest (or the host with the most) and prepare this crudités platter with a delicious Roasted Pepper Cream Cheese Dip made with Eden Cream Cheese.\n\nSmokey, peppery, and incredibly versatile, this dip goes perfectly with not only veggies, but also crackers, chips, breadsticks, and more! Grab some Eden Cream Cheese and other dairy products at #TheMarketplace!\n\nServing Time: 10 minutes\nYield: 3-4 servings\n\nIngredients\n\n1 pack Eden Cream Cheese, softened\n½ cup mayonnaise \n½ cup roasted bell peppers, chopped\n2 tbsps. garlic, minced\n½ tsp. Paprika\nSalt and pepper to taste\n\nProcedure\n\n1. In a bowl, combine Eden Cream Cheese, mayonnaise, roasted bell peppers, garlic and paprika. Mix until smooth and well combined.\n2. Season with salt and pepper. Serve alongside preferred crackers, breadsticks and vegetables.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Eden"
@@ -192,7 +192,7 @@ const JUNE_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "JUNE IG & FB",
+    "campaign": "June IG",
     "caption": "Offering superior softness that’s gentle to the touch, Kleenex Ultra Soft Bathroom Tissue pampers through the use of aloe vera that’s perfect for even the most delicate skin. Give yourself and your family that premium quality care you deserve and choose Kleenex. Add it to your cart the next time you shop at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Kleenex"
@@ -211,7 +211,7 @@ const JUNE_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "JUNE IG & FB",
+    "campaign": "June IG",
     "caption": "Fortified with fluoride, Sensodyne Repair & Protect Toothpaste is dentist-recommended and provides daily protection for sensitive teeth. Because it contains fluoride, it also protects the mouth from cavities, leaving it refreshed and feeling clean.\n\nFind Sensodyne, along with other oral hygiene essentials, when you shop at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Sensodyne"
@@ -230,7 +230,7 @@ const JUNE_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "JUNE IG & FB",
+    "campaign": "June IG",
     "caption": "Swap your garlic rice for tortillas in this recipe for Chicken Tapa Breakfast Tacos made with Purefoods Hot & Spicy Chicken Tapa! This leaner alternative to the usual beef tapa is packed with zingy, fiery flavors, and is mellowed out by buttery scrambled eggs and creamy mayonnaise.\n\nFind Purefoods Hot & Spicy Chicken Tapa, along with other marinated meats that are ready-to-cook at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 3-4 servings\n\nIngredients\n\n5 eggs, beaten\n2 tbsps. mayonnaise\nSalt and pepper to taste\n2 tbsps. butter\n2 tbsps. canola oil\n2 packs Purefoods Hot & Spicy Chicken Tapa\n8 pcs. tortilla \n¼ cup parsley, chopped\n\nProcedure\n\n1. Whisk together beaten eggs and mayonnaise until well combined. Season with salt and pepper. \n2. Set a non-stick pan over medium heat. Add butter, then pour over beaten eggs and cook until fluffy. Set aside.\n3. Heat oil over medium heat, then cook Purefoods Hot & Spicy Chicken Tapa until cooked through and caramelized.\n4. To assemble, fill tortillas with scrambled eggs and Purefoods Hot & Spicy Chicken Tapa. Garnish with parsley.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Purefoods"
@@ -255,7 +255,7 @@ const JUNE_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "JUNE IG & FB",
+    "campaign": "June IG",
     "caption": "Give your sandwich a Korean twist with these mouthwatering Beef Bulgogi Sandwiches!\n\nIt takes only 10 minutes to prepare! Simply reheat a thawed pack of My 5 Minute Oriental Dish by Chef Boy Logro Bulgogi and layer with cheese,  spring onions, and toasted sesame seeds. Best paired with an ice-cold bottle of your favorite soju!\n\nRecreate this recipe at home and buy a pack of My 5 Minute Oriental Dish by Chef Boy Logro Bulgogi at #TheMarketplace today!\n\nServing Time: 10 minutes\nYield: 2 servings\n\nIngredients\n\n1 tbsp. sesame oil\n1 pack My 5 Minute Oriental Dish by Chef Boy Logro Bulgogi, thawed\n2 baguettes\n6 sandwich cheese slices\n¼ cup spring onions, chopped\n2 tbsps. sesame seeds, toasted\n\nProcedure\n\n1. Set a pan over medium heat, then add sesame oil. Reheat My 5 Minute Oriental Dish by Chef Boy Logro Bulgogi. \n2. Slice baguette lengthwise, then place 3 cheese slices on each, then top with reheated bulgogi.\n3. Garnish with spring onions and sesame seeds.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -280,7 +280,7 @@ const JUNE_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "JUNE IG & FB",
+    "campaign": "June IG",
     "caption": "A classic cocktail that never runs out of style, the martini gets a tangy and sweet twist in this recipe for Lemon Drop Martini with the help of Double Dutch Lemon Tonic.\n\nCreate this cocktail with a citrusy kick with friends, or whenever you just want a nice tipple to unwind with. Get all the ingredients you need at #TheMarketplace!\n\nServing Time: 5 minutes\nYield: 2 servings\n\nIngredients\n\n2 tbsps. white sugar\n1 tbsp. brown sugar\n1 tsp. lemon zest\n1 cup ice\n2 shots vodka\n⅛ cup lemon juice\n¾ cup Double Dutch Lemon Tonic\n2 pcs. lemon peel spiral\n\nProcedure\n\n1. Combine white sugar, brown sugar and lemon zest, then transfer to a plate. Dip the rim of each martini glass into some water, then into the lemon sugar until the rim is well coated. \n2. Fill a cocktail shaker with ice. Add vodka, lemon juice and Double Dutch Lemon Tonic.\n3. Strain ice, then transfer the cocktail into martini glasses. Garnish each with a lemon peel spiral.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"

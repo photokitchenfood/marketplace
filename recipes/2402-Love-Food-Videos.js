@@ -10,7 +10,7 @@ const LOVE_FOOD_VIDEOS_DATA = [
     "category": "EAP",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "LOVE FOOD",
+    "campaign": "Love Food",
     "caption": "Romesco sauce is a tomato-based bell pepper sauce conceived in Catalonia, Spain. While it is a delicious sauce that accompanies all sorts of proteins and vegetables, did you know that it was actually invented by fishermen to pair with fish?\n\nFor Valentine’s season, we’re pairing romesco sauce with a juicy slab of FB Aussie Fresh Rib Eye Steak, which you can find at #TheMarketplace! Throw in a bottle of full-bodied red wine, some fresh bell peppers, and all the other ingredients that you need for this recipe and get cooking! Serve with your choice of sides, and maybe a crisp salad, too.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "FB",

@@ -9,7 +9,7 @@ const LENT_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "TMP LENT",
+    "campaign": "Lent",
     "caption": "This Prawn Saganaki is a beautiful dish that brings bold Mediterranean flavors to your Lenten table.\n\nSucculent Mikisa Jumbo Sugpo are simmered in a rich, garlicky tomato sauce with a hint of white wine, red pepper flakes, and oregano, then finished with crumbled feta that melts just enough to add a creamy, tangy touch.\n\nServed with crusty bread to soak up every last bit of the sauce, it’s a meal that feels both comforting and special. Find everything you need at The Marketplace and make this simple yet deeply flavorful dish a part of your Holy Week tradition.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Mikisa"
@@ -34,7 +34,7 @@ const LENT_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "TMP LENT",
+    "campaign": "Lent",
     "caption": "For a bright, flavorful dish that’s perfect for the Holy Week, try your hand at making these Blackened Salmon Steaks with Mango Salsa.\n\nIt’s simple to prepare yet packed with vibrant spices and fresh ingredients. Pacific Bay Salmon Steaks are coated in a smoky, Cajun-inspired blend, then seared until beautifully crisp on the outside and tender within. Topped with a refreshing mango salsa made with ripe mangoes, creamy avocado, cherry tomatoes, and a hint of lime, this dish strikes just the right balance of heat and sweetness.\n\nFind everything you need for this fish dish at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Pacific Bay"
@@ -59,7 +59,7 @@ const LENT_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "TMP LENT",
+    "campaign": "Lent",
     "caption": "Crispy, flavorful, and full of warmth, a helping of this Chinese Salt and Pepper Bangus Belly is a wonderful way to enjoy a meat-free meal during the Lenten season — or any time of the year, really.\n\nCentury Bangus Belly is lightly coated in a fragrant blend of Chinese five-spice, garlic, and white pepper, then fried to golden perfection. Tossed with a vibrant stir-fry of bell peppers, onions, and a hint of chili flakes, it’s the perfect balance of crunch, heat, and savoriness. Served over steamed rice, it’s a dish that’s both satisfying and easy to make. Shop all the ingredients at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Century"
@@ -84,7 +84,7 @@ const LENT_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "TMP LENT",
+    "campaign": "Lent",
     "caption": "Hearty and full of flavor, this Beer Battered Cream Dory Sandwich makes for a delicious and satisfying seafood meal.\n\nLightly season some Galleon Depot Cream Dory, dredge them in a homemade beer batter, then fry until perfectly crisp. Then, layer the fillets onto a toasted brioche bun with tangy pickles, sharp cheddar, and a homemade tartar sauce that’s bright with lemon, capers, and fresh parsley. Serve hot with fries and extra sauce on the side. This is the kind of simple, scrumptious meal that makes Lent feel anything but restrictive. Find everything you need at The Marketplace and make it part of your Holy Week menu.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Galleon Depot"
@@ -109,7 +109,7 @@ const LENT_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "TMP LENT",
+    "campaign": "Lent",
     "caption": "If you’re looking to spice up your Lenten meals, try this beautiful Mango Salad with Dried Sweet Pusit!\n\nWith all ingredients available at The Marketplace, tart green mangoes, crisp bell peppers, and roasted peanuts come together in a colorful mix, tossed with a punchy dressing of fish sauce, calamansi, honey, and chili. The star of the dish, Surebuy Dried Sweet Pusit, is quickly fried to a perfect crisp, adding a delicious sweet and umami-packed contrast to the fresh ingredients. Finished with a sprinkle of cilantro, it’s a light yet flavorful dish that’s great on its own or as a starter.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Surebuy"
@@ -134,7 +134,7 @@ const LENT_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "TMP LENT",
+    "campaign": "Lent",
     "caption": "Imagine silky tamago, gently cooked with dashi and soy sauce, sitting atop a bed of steaming Japanese rice, creating a delicate contrast to the rich, smoky Cold Storage Japanese Unagi.\n\nA drizzle of unagi sauce ties this Unatama Don together, while sesame seeds and fresh green onions add a final touch of texture and brightness. It’s a comforting, well-balanced meal that feels special without the fuss. Find everything you need at The Marketplace and bring this Japanese favorite to your table!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Cold Storage"
@@ -159,7 +159,7 @@ const LENT_DATA = [
     "category": "OUT OF PACK W/ FOOD STYLING",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "TMP LENT",
+    "campaign": "Lent",
     "caption": "Who says you have to give up cheese to enjoy a classic Margherita pizza?\n\nunPizza Margherita Pizza is 100% plant-based, yet every bite is loaded with flavor — think rich tomato sauce, juicy diced tomatoes, fragrant dried basil, and unbelievably melty dairy-free cheese. Pop it in the oven and serve it fresh and piping-hot, it’s everything you love about pizza, minus the guilt.\n\nWhether you're embracing a plant-based lifestyle, going meat-free this Lent, or simply looking for a delicious new way to indulge, this is a must-try. Find it at The Marketplace, along with other unMeat products.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "unPizza"

@@ -10,7 +10,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "US FEST",
+    "campaign": "US Festival",
     "caption": "Ever had a Dirty Dr. Pepper Float before? Here’s how to make it!\n\nInstead of the plain ole vanilla ice cream and root beer combination, this one makes use of Dr. Pepper, with the addition of coconut, cherry, and a zingy hint of lime. Make it even dirtier with a splash or two of rum!\n\nCool down with this decadent treat this weekend. Head over to #TheMarketplace and find all the ingredients you need.\n\nServing Time: 10 minutes\nYield: 1-2 servings\n\nIngredients\n\n1 lime \n¼ cup desiccated coconut \n1 can Dr. Pepper\n1 tbsp. cherry syrup \n3 scoops coconut sorbet \nMaraschino cherry, for garnish (optional)\n\nProcedure\n\n1. Zest the lime, making sure to only get the green skin. Slice a lime wedge, and rub it along the rim of a tall glass. \n2. Combine the lime zest with the desiccated coconut on a small plate. Dip the rim of the glass into the mixture, twisting gently to ensure an even coating. \n3. Combine Dr. Pepper and cherry syrup. \n4. Add coconut sorbet into the prepared glass. Slowly pour the Dr. Pepper mixture over the coconut sorbet. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Dr. Pepper"
@@ -35,7 +35,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "US FEST",
+    "campaign": "US Festival",
     "caption": "Sour cream became a popular ingredient to combine in cheesecakes because apart from lending more tanginess, it actually tempers the cream cheese and makes it softer in texture!\n\nWith that in mind, we whipped up this savory Sour Cream & Onion Cheesecake that’s baked with a crust made from Pringles Sour Cream & Onion. This super-cheesy treat is best enjoyed with, what else but, more sour cream and more chopped green onions. May we suggest more Pringles on the side, too?\n\nHead over to #TheMarketplace now and stock up on the ingredients you need for this recipe. Let us know how you like it by leaving a comment below!\n\nServing Time: 6 hours\nYield: 1 9-inch cheesecake\nOptional: Top with sour cream and more chopped green onions. \n\nIngredients\n\n2 cups Pringles Sour Cream & Onion, crushed\n¼ cup unsalted butter, melted\n1 bar cream cheese, softened \n1 cup sour cream\n3 large eggs, whisked \n1 cup cheddar cheese, grated \n½ cup green onions, finely chopped\n1 tsp. onion powder \n½ tsp. garlic powder \n½ tsp. salt \n¼ tsp. black pepper\n\nProcedure\n\n1. Preheat oven to 160C. Line the bottom of a 9-inch springform pan with parchment paper, then set aside. \n2. In a mixing bowl, combine crushed Pringles Sour Cream & Onion with melted butter. Press the Pringles mixture into the bottom and sides of the springform pan, forming an even crust. Use the back of a spoon or a measuring cup to press firmly. \n3. Bake the crust for 10 minutes, then let cool while preparing the filling. \n4. Beat the cream cheese until smooth. Mix in sour cream, eggs, cheddar cheese, green onions, onion powder, garlic powder, salt and black pepper. Beat until all the ingredients are well combined and mixture is smooth. \n5. Pour mixture over the cooled Pringles crust, then smooth the top with an offset spatula. \n6. Bake for 45-50 minutes, or until the center is set and edges are golden.\n7. Allow the cheesecake to cool completely at room temperature, then chill for at least 4 hours before serving. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Pringles"
@@ -60,7 +60,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "US FEST",
+    "campaign": "US Festival",
     "caption": "Remember Revel Bars? Ah, the ultimate oaty, chocolatey recess snack that we would usually cop at our cafeterias.\n\nWith the help of Kirkland Milk Chocolate Raisins, we added more bite, chocolate flavor, and chew to this batch of Chocolate Raisin Revel Bars, making them the perfect snack to munch on any time of the day. Best enjoyed with some coffee or milk!\n\nGet all the ingredients you need for this recipe at #TheMarketplace, and remember to bake multiple batches because these will surely run out quick!\n\nServing Time: 45 minutes\nYield: 24 bars\n\nIngredients\n\nFor the Oat Layer:\n1 ½ cups all purpose flour \n1 ½ cups rolled oats \n1 cup brown sugar \n½ tsp. baking soda \n¼ tsp. salt \n¾ cup unsalted butter\n\nFor the Chocolate Layer:\n1 cup milk chocolate chips\n1 cup condensed milk \n2 tbsps. unsalted butter \n1 tsp. vanilla extract\n1 ½ cup Kirkland Milk Chocolate Raisins\n\nProcedure\n\n1. Preheat oven to 175C. Grease a 9x13-inch baking pan. \n2. Combine all of the oat layer ingredients until the mixture resembles sandy crumbs. Press ⅓ of his into the greased baking pan. Set aside remaining crumbs for topping. \n3. In a saucepan, combine milk chocolate, condensed milk, butter and vanilla. Stir over low heat until fully melted and mixture is smooth. \n4. Pour the chocolate mixture over the oat layer, then sprinkle 1 cup of Kirkland Milk Chocolate Raisins on top. \n5. Add dollops of the remaining oat mixture and the remaining Kirkland Milk Chocolate Raisins on top. \n6. Bake for 25-30 minutes. \n7. Allow the bars to cool completely before slicing into bars. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Kirkland"
@@ -85,7 +85,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "US FEST",
+    "campaign": "US Festival",
     "caption": "Fancy a Western dish to unwind with this weekend?\n\nTry this helping of Smoked Sausage and Beans made with none other than Johnsonville Smoked Sausages! We love Johnsonville’s snappy crunch that super complements the moist, flavorful meat on the inside. Cook with aromatics and serve with slices of your favorite bread — wash down with an ice-cold beer, and take in all that satisfaction.\n\nFind your favorite variety of Johnsonville Sausages and all the other ingredients that you need for this recipe at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 3 servings\n\nIngredients\n\n3 tbsps. olive oil \n1 (360g) pack Johnsonville Smoked Sausage \n1 white onion, diced \n2 bell peppers, sliced \n5 cloves garlic, minced \n1 cup cherry tomatoes\n1 can white beans, drained and rinsed \n1 can diced tomatoes\n1 tsp. dried oregano\n½ tsp. smoked paprika \n4 sprigs thyme\nSalt and pepper to taste \n\nProcedure\n\n1. Fry Johnsonville Smoked Sausages in olive oil until nicely browned. Set aside sausages while retaining oil in the pan. \n2. In the same skillet, sautè onions and bell peppers until softened and slightly caramelized. Add in garlic and cherry tomatoes, and cook for 1-2 more minutes. \n3. Mix in white beans, diced tomatoes, oregano, paprika and thyme. Season with salt and pepper to taste. \n4. Add back cooked Johnsonville Smoked Sausages, and let simmer for 3 minutes. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Johnsonville"
@@ -110,7 +110,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "US FEST",
+    "campaign": "US Festival",
     "caption": "Add a buttery bite to your yoghurt dip with this super easy recipe for Pistachio Yoghurt Dip made with Wonderful Pistachios in Pepper & Garlic flavor. Pistachios are known to be a great source of healthy fats and antioxidants that help lower cholesterol.\n\nMixed with tangy Greek yoghurt and a bunch of aromatics, serve this dip with your favorite crudites and toasted bread for a healthful and filling snack or appetizer.\n\nGrab all the ingredients that you need for this tasty dip at #TheMarketplace!\n\nServing Time: 10 minutes\nYield: 2-3 servings\nOptional: Enjoy with crudites and toasted bread. \n\nIngredients\n\n1 cup plain Greek yoghurt\n½ cup Wonderful Pistachios Pepper & Garlic, shelled \n2 tbsps. lemon juice \n2 tbsps. extra virgin olive oil\n5 cloves garlic, minced \n¼ cup parsley, chopped\n¼ cup cilantro, chopped\n¼ cup dill, chopped \nSalt and pepper to taste\n\nProcedure\n\n1. In a food processor or blender, pulse Wonderful Pistachios Pepper & Garlic until they are finely chopped. Set aside 1 tbsp. of pistachios for garnish. \n2. Add in lemon juice, olive oil, garlic, parsley, cilantro and dill. Pulse until smooth and well combined. \n3. Season with salt and pepper to taste. \n4. Transfer to a serving bowl, and garnish with crushed pistachios. \n5. Chill for at least 30 minutes before serving. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Wonderful"
@@ -135,7 +135,7 @@ const US_FESTIVAL_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "US FEST",
+    "campaign": "US Festival",
     "caption": "Sometimes, we all just need a good and reliable Grilled Sausage Sandwich & Coke in Can. After an day of grocery shopping at #TheMarketplace, take a seat, relax, and indulge in this comforting combination. You deserve it!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Coke"
@@ -154,7 +154,7 @@ const US_FESTIVAL_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "US FEST ADDENDUM",
+    "campaign": "US Festival",
     "caption": "Here at #TheMarketplace, we’ve got a stunning line-up of international goods from the United States for you to explore and enjoy. Shop our aisles and fridges for brands such as Johnsonville Hotdogs, Tillamook Ice Cream, and more! With the fourth of July coming up, why not prepare an American feast? Shop now!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -173,7 +173,7 @@ const US_FESTIVAL_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "US FEST ADDENDUM",
+    "campaign": "US Festival",
     "caption": "A household brand, Kirkland products are now available at #TheMarketplace for you to stock up your pantry with. Shop from our wide and curated selection of Kirkland-branded dry goods, drinks, and other essential ingredients today!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Kirkland"
@@ -192,7 +192,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "US FEST ADDENDUM",
+    "campaign": "US Festival",
     "caption": "These all-natural Pistachio Kisses Cookies are made with no food coloring. Matcha powder lends a delightful earthiness and color to the cookies, while buttery pistachios add a nutty touch. The best part? A solid Hershey’s Classic Milk Chocolate Kiss right smack in the center of each cookie to coat your taste buds with that familiar chocolate taste. Try your hand at making a batch or two this weekend! Get all the ingredients that you need for this recipe at #TheMarketplace today.\n\nServing Time: 45 minutes\nYield: 36 pieces\n\nIngredients\n\n1 cup unsalted butter, softened\n1 cup powdered sugar\n1 tbsp. matcha powder\n1 tsp. vanilla extract\n2 cups all-purpose flour\n1/2 tsp. salt\n1 cup shelled pistachios, chopped\n36 Hershey's Kisses Classic Milk Chocolate, unwrapped\n\nProcedure\n\n1. Preheat oven to 175°C. Line baking sheets with parchment paper, and set aside.\n2. In a large mixing bowl, cream together softened butter, powdered sugar and matcha powder until light and fluffy. Add in the vanilla extract.\n3. In a separate bowl, whisk together all-purpose flour and salt. Gradually add the dry ingredients to the butter mixture, mixing until well combined. Mix in ½ cup of the pistachios into the dough. \n4. Shape the dough into small balls, about 1 inch in diameter. Roll each ball in the remaining pistachios, ensuring they are evenly coated. Place the coated dough balls onto the prepared baking sheets, spacing them about 2 inches apart.\n5. Bake for 10-12 minutes, or until the edges are lightly golden. Remove from the oven, and let them cool for a couple of minutes on the baking sheets.\n6. While the cookies are still warm, gently press a Hershey's Kiss into the center of each cookie. The cookies will crack slightly around the edges, which is normal.\n7. Allow the cookies to cool completely on wire racks until the Hershey's Kisses Classic Milk Chocolate have set.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Hershey's"
@@ -217,7 +217,7 @@ const US_FESTIVAL_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "US FEST ADDENDUM",
+    "campaign": "US Festival",
     "caption": "Got a hankering for some pie? Whether it’s for your own personal stash or to bring over to a friend’s or family gathering, checkout the array of The Baker’s Selections pies available at #TheMarketplace! Choosing one might not be as easy as pie, but we promise you, each bite is worth every calorie.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -236,7 +236,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "US FEST ADDENDUM",
+    "campaign": "US Festival",
     "caption": "Turn the iconic pie into a luscious sundae in this Coffee Almond Banoffee Sundae made with Tillamook Coffee Almond Fudge Ice Cream! Rich and creamy coffee ice cream is streaked with ribbons of fudge and tasty almond bits, set atop bananas and crushed grahams, and then finished off with some homemade toffee sauce.\n\nFind Tillamook ice cream at #TheMarketplace and discover your favorite flavor. Trust us, it’ll be tough to choose just one!\n\nServing Time: 15 minutes\nYield: 2 servings\n\nIngredients\n\nFor the Toffee Sauce: \n½ cup unsalted butter\n1 cup brown sugar\n1/2 cup heavy cream\n1 teaspoon vanilla extract\n¼ tsp. salt\n\nFor assembly:\n4 scoops Tillamook Coffee Almond Fudge Ice Cream\n2 ripe bananas, sliced \n1 cup crushed graham crackers \n\nProcedure\n\n1. In a saucepan, melt the butter over medium heat. Add the brown sugar, and stir until dissolved.\n2. Pour in the heavy cream and vanilla extract. Stir continuously until the sauce thickens and coats the back of a spoon. Season with salt, then remove from heat and set aside to cool.\n3. In serving glasses, start layering the sundae. Begin with a layer of crushed graham crackers at the bottom. Add a scoop of Tillamook Coffee Almond Fudge Ice Cream on top. Place a few sliced bananas over the ice cream.\n4. Repeat the layers with another layer of crushed graham crackers, another scoop of ice cream, and more sliced bananas.\n5. Drizzle toffee sauce generously on top. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Tillamook"
@@ -261,7 +261,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "US FEST ADDENDUM",
+    "campaign": "US Festival",
     "caption": "If you’re in the mood for a hearty, meaty sandwich, head over to #TheMarketplace, grab a slab of Greater Omaha US Angus Beef Ribeye, and get cooking.\n\nThis Ribeye Steak Sandwich has all the fixings such as arugula, onion, and a side of zingy horseradish. It’s a simple, no-frills meal if you’re craving a satisfying sandwich to fill you up good. Pair this with some red wine, if you wish, as you wind down for the day, too!\n\nServing Time: 20-30 minutes\nYield: 3 servings\n\nIngredients\n\n1 slab Greater Omaha US Angus Beef Ribeye\nSalt and pepper to taste\n⅓ cup olive oil\n2 sprigs rosemary\n3 cloves garlic\n2 tbsps. butter\n2 cups onion, sliced\n2 cups arugula\n6 slices sourdough bread, toasted\n½ cup horseradish\n\nProcedure\n\n1. Pat dry Greater Omaha US Angus Beef Ribeye, and season with salt and pepper.\n2. Set a cast iron pan over high heat. Add ¼ cup olive oil, and sear seasoned Omaha Ribeye until nicely colored on both sides. Lower the heat to medium, then add rosemary sprigs, garlic cloves and butter. Cook for another 4-6 minutes while basting. Remove from the pan, and let rest for 8 minutes before slicing.\n3. Sauté onions in remaining olive oil until caramelized, then season with salt and pepper. Set aside.\n4. Thinly-slice cooked Omaha Ribeye. To assemble, spread a layer of horseradish on the sourdough bread, then top with arugula, ribeye slices and caramelized onions. Top with another slice of bread.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Greater Omaha"

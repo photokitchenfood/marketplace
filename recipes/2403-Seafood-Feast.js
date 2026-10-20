@@ -10,7 +10,7 @@ const SEAFOOD_FEAST_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SEAFOOD FEAST",
+    "campaign": "Seafood Feast",
     "caption": "A popular pasta dish, Puttanesca refers to the classic and traditional Italian sauce made with tomato, anchovies, capers, olives, and lots of garlic. To add a bit more protein, try making this Fish Puttanesca with Galleon Depot Cream Dory. Seasoned modestly with salt and pepper, and then seared, these slices of fish add texture and a meaty bite to every forkful. Head over to #TheMarketplace and get all the ingredients that you need for this recipe!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Galleon Depot Cream Dory"
@@ -35,7 +35,7 @@ const SEAFOOD_FEAST_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SEAFOOD FEAST",
+    "campaign": "Seafood Feast",
     "caption": "Thinking of whipping up something special for dinner?\n\nTry your hand at this sophisticated and delicious Pistachio Crusted Sea Bass in Herb and Coconut Sauce. Fresh fish is a must, and we recommend Cold Storage Sea Bass, available at #TheMarketplace, for its silky texture and flaky white meat, making it easy to coat the pistachios around and hold its firmness as it cooks. The herb coconut sauce it comes with is so flexible, you can try it with other varieties of fish, vegetables, and chicken, too!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Cold Storage Sea Bass"
@@ -60,7 +60,7 @@ const SEAFOOD_FEAST_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SEAFOOD FEAST",
+    "campaign": "Seafood Feast",
     "caption": "Summer is in the air, and what better way to nourish the body than with something light and healthy! Cue these Bangus Summer Rolls, made with Sea King Boneless Marinated Bangus, which is available always fresh at #TheMarketplace!\n\nRolled with cucumbers, carrots, and lettuce, dip these tasty spring rolls in your favorite sauce! We used sweet chili for some heat, but feel free to explore!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Sea King Boneless Marinated Bangus"
@@ -85,7 +85,7 @@ const SEAFOOD_FEAST_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SEAFOOD FEAST",
+    "campaign": "Seafood Feast",
     "caption": "Whether you’re hosting a mini summer fiesta soon or just craving some good ‘ole seafood tacos, we got you covered with this recipe for Bang Bang Shrimp Tacos!\n\nUsing Jumbo Mikasa Sugpo, which have been peeled and deveined, make these mouthwatering Mexican-inspired snacks in under an hour! Feel free to swap the sugpo with fish, too, and follow the same procedure. It’ll work equally well.\n\nShop all the ingredients that you need for these tasty tacos at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Jumbo Mikasa Sugpo",
@@ -111,7 +111,7 @@ const SEAFOOD_FEAST_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SEAFOOD FEAST",
+    "campaign": "Seafood Feast",
     "caption": "Craving something meaty, sweet, tangy, and with a kick of heat? Try this recipe for Sweet Chili Halibut for your next meal!\n\nUsing Pacific Bay Halibut Steak, this meal is light, delicious, and so easy to prepare — in under 30 minutes, actually! Delicious, nutritious, and serves two to three, this recipe is definitely for keeps. Head over to #TheMarketplace now and add the ingredients that you need into your cart!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Pacific Bay Halibut Steak"
@@ -136,7 +136,7 @@ const SEAFOOD_FEAST_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SEAFOOD FEAST",
+    "campaign": "Seafood Feast",
     "caption": "Wondering how to cook bangus more creatively? Here’s an idea: Teriyaki-Glazed Bangus Belly — the teriyaki sauce is homemade!\n\nThe next time you head to #TheMarketplace, grab some Century Smoked Bangus Belly and other items that you need for this lip-smacking dish! Sweet, savory, and served best with piping-hot rice, the fattiness of the bangus echoes the indulgent unagi (Japanese eel), but we think this might be even better. Try it for yourself and let us know what you think in the comments section below!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Century Smoked Bangus Belly"
@@ -161,7 +161,7 @@ const SEAFOOD_FEAST_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SEAFOOD FEAST",
+    "campaign": "Seafood Feast",
     "caption": "Got half an hour to spare? Make these Anchovy Tapas that are so simple yet bursting with so much flavor! All you need are five ingredients, including a tin of Waitrose Anchovy Fillets in Olive Oil that you can easily find at #TheMarketplace.\n\nPrepare this to entertain guests, or if you’re in the mood for a fancy T.V. snack. You’ll surely love this one.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Waitrose Anchovy Fillets in Olive Oil",

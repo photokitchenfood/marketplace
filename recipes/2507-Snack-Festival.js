@@ -9,7 +9,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "SNACK FESTIVAL",
+    "campaign": "Snack Festival",
     "caption": "Ready for a sundae with a twist?\n\nMeet the Pringles Ice Cream Sundae, a cheeky mash-up of salty goodness and smooth vanilla bliss. Crushed Pringles Original chips form the base of this tantalizing dessert, layered with scoops of rich ice cream, drizzled with caramel, showered in sprinkles, and topped with cherries and whole chips for extra texture.\n\nIt’s crispy meets creamy, sweet meets savory. Definitely a snack hack that’s super fun to both make and devour. Grab your Pringles at The Marketplace, and get scooping!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Pringles"
@@ -34,7 +34,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "SNACK FESTIVAL",
+    "campaign": "Snack Festival",
     "caption": "Give your snack game an elegant touch with these Kani Salad Canapés, starring Calbee Hokkaido Crab & Cheese Potato Chips. This inventive bite reimagines the classic Japanese kani salad: shredded crabsticks with a crispy, umami-rich base and a luxe finish of black caviar.\n\nChives add freshness, while each chip brings that satisfying crunch. It’s playful, polished, and perfect for your next gathering (or an indulgent solo nibble). Pick up your chips and everything else you need at The Marketplace.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Calbee"
@@ -59,7 +59,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "SNACK FESTIVAL",
+    "campaign": "Snack Festival",
     "caption": "Snack time just got a glow-up! Brie & Jam Sweet Butter SkyFlakes take your trusty SkyFlakes Sweet Butter Crackers and dress them up with silky brie, a spoonful of fruity jam, crushed walnuts, and a touch of thyme.\n\nIt’s a little bit fancy, a little bit nostalgic, and totally doable in minutes. Stock up your pantry and get all the ingredients that you need for this recipe at The Marketplace.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "M.Y. San"
@@ -84,7 +84,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "SNACK FESTIVAL",
+    "campaign": "Snack Festival",
     "caption": "Get ready to level up your snack or dessert tray with these Chocolate Crunch Wafer Rolls made using Meadows Chocolate Peanuts Flavoured Wafer Rolls.\n\nEnjoy these wafer rolls straight from the tub or dip them in warm, melted chocolate and roll them through your favorite toppings — think crushed almonds, rainbow sprinkles, or even cookie crumbs!\n\nNo baking, all delight. It’s fun, quick, and perfect for sharing (or not). Grab your tub of Meadows Chocolate Peanuts Flavoured Wafer Rolls today, only at The Marketplace.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Meadows"
@@ -109,7 +109,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "SNACK FESTIVAL",
+    "campaign": "Snack Festival",
     "caption": "Some days just call for a classic pick-me-up, and Meadows Chocolate Cream Sandwich is exactly that. With no artificial colors or preservatives, this treat is simple, satisfying, and guaranteed to always hit the spot.\n\nKeep a stash in the pantry for those gotta-have-a-snack moments. Best enjoyed with a cold glass of milk and zero interruptions. Grab a pack now at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Meadows"
@@ -128,7 +128,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "SNACK FESTIVAL",
+    "campaign": "Snack Festival",
     "caption": "Cool things down with this Coke Slushie, a fun, frozen way to enjoy your favorite fizzy drink. Just blend Coca-Cola with ice, pour it over crushed cherries, and finish with a maraschino cherry and a lime wedge for that extra zing.\n\nBubbly, chilly, and just the thing for hot afternoons or movie marathons, pick up your cans of Coca-Cola and everything else you need for this ultimate soda slushie at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Coca-Cola"
@@ -153,7 +153,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "SNACK FESTIVAL",
+    "campaign": "Snack Festival",
     "caption": "Bright, bouncy, and bursting with flavor, these Cranberry Jelly Fruit Cups are the colorful treat your day needs.\n\nLight, refreshing, and a joy to assemble, they’re made with Tipco Mixed Fruit & Cranberry Juice. These chilled delights are packed with fresh strawberries, blueberries, mangoes, and kiwi, then finished with a cool sprig of mint. Try them with other fruits as well! Grab your Tipco juice and fresh picks at The Marketplace.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Tipco"
@@ -178,7 +178,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "SNACK FESTIVAL",
+    "campaign": "Snack Festival",
     "caption": "Give your usual energy boost a splash of summer with this Watermelon Red Bull Float.\n\nFresh watermelon meets the crisp energy of Red Bull in one icy, refreshing sip, finished with whipped cream and mint for a playful twist. Juicy and fizzy, it’s the perfect pick-me-up for sunny days or lazy afternoons. Grab your Red Bull and fresh watermelon today at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Red Bull"
@@ -203,7 +203,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "SNACK FESTIVAL",
+    "campaign": "Snack Festival",
     "caption": "Treat yourself to something smooth, fruity, and full of goodness by making this Blueberry Yogurt Panna Cotta using Mikku Blueberry Yogurt Drink.\n\nPacked with live cultures and calcium, this yogurt-based treat is not only tasty; it’s great for your gut, too. Velvety, tangy, and topped with whipped cream, berries, and compote, it's a spoonful of healthy joy in every bite. Pick up some Mikku and everything else you need today at The Marketplace.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Mikku"
@@ -228,7 +228,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "SNACK FESTIVAL",
+    "campaign": "Snack Festival",
     "caption": "Can’t pick just one? You don’t have to. A box of Morrisons Mini Selection Amour Ice Cream Sticks comes with eight mini treats — two each of dark chocolate, milk chocolate, almond-coated milk chocolate, and creamy white chocolate. Every bite wraps velvety vanilla ice cream in rich, smooth coatings, with no artificial colors or flavors.\n\nIt’s the perfect box for indecisive snackers and dessert lovers alike. Get yours now at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Morrisons"
@@ -247,7 +247,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "SNACK FESTIVAL",
+    "campaign": "Snack Festival",
     "caption": "Love your coffee sweet and creamy? Now you can scoop it!\n\nTim Hortons Double Double Ice Cream takes everything you adore about their iconic brew — bold coffee flavor, mellowed with just the right touch of cream and sugar — and swirls it into a rich, frozen treat. Perfect for coffee lovers, dessert devotees, or anyone who believes a pint of ice cream can fix just about anything. Head to The Marketplace today and get your 500ml of comfort in a tub.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Tim Hortons"
@@ -266,7 +266,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "SNACK FESTIVAL",
+    "campaign": "Snack Festival",
     "caption": "Cool, creamy, and bursting with herbs, Tzatziki made with Nestlé Greek Style Yogurt is the kind of dip that earns a permanent spot in your fridge.\n\nThis yogurt-based classic blends grated cucumber, garlic, lemon, dill, and mint into a tangy, refreshing mix that’s both versatile and tasty. Pair it with pita chips, serve it alongside grilled meats, spoon it over roasted veggies, or use it as a zippy sandwich spread! Grab your Nestlé Greek Style Yogurt at The Marketplace. \n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nestlé"
@@ -291,7 +291,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "SNACK FESTIVAL",
+    "campaign": "Snack Festival",
     "caption": "Give your baking repertoire a bold upgrade with this Chocolate Espresso Banana Bread made from naturally sweet, ripe Dole Cavendish Bananas. Packed with potassium and fiber, these bananas don’t just taste great, they also add moisture and natural sweetness to every slice.\n\nRich cocoa, a shot of espresso, and that signature banana goodness come together in a loaf that’s perfect for sharing, gifting, or stealing the show at your next potluck. Head over to The Marketplace now and buy all the ingredients that you need for your new favorite banana bread recipe!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Dole"
@@ -316,7 +316,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "SNACK FESTIVAL",
+    "campaign": "Snack Festival",
     "caption": "Looking for a fun way to enjoy your veggies? Try these Squash Fries with Maple Aioli, made using freshly harvested squash from The Marketplace. Naturally rich in vitamins and fiber, squash is a nutrient-packed powerhouse that turns crisp and caramelized when roasted.\n\nThese golden fries are herb-kissed and oven-baked, then paired with a maple-infused aioli that delivers just the right balance of creamy and sweet — a clever, crave-worthy way to make the most of gourds!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -341,7 +341,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "SNACK FESTIVAL",
+    "campaign": "Snack Festival",
     "caption": "When only something cozy and indulgent will do, make this Caramelized Onion Baked Brie using a wheel of Ile de France Petit Brie.\n\nThis timeless favorite comes out of the oven gooey and golden, crowned with slow-cooked onions that bring a deep, savory sweetness. Perfect with warm baguette slices or crisp crackers, it’s a crowd-pleaser that feels fancy without the fuss.\n\nFind your brie and all the fixings at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Ile de France"
@@ -366,7 +366,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "SNACK FESTIVAL",
+    "campaign": "Snack Festival",
     "caption": "Bring a beloved Filipino flavor combo to a frozen, creamy dessert form with these Ube-Cheese Ice Cream Sandwiches, made using soft, pillowy Marby Cheese Bread Buns.\n\nThis chilly spin on the classic ube and cheese pandesal is creamy, nostalgic, and wildly craveable. Tuck in a scoop of ube ice cream, top with parmesan shavings, and you’ve got a treat that hits every sweet-savory note just right. Snag your Marby Cheese Bread Buns and snack essentials now at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Marby"

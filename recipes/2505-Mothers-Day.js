@@ -9,7 +9,7 @@ const MOTHERS_DAY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "MOTHERS DAY",
+    "campaign": "Mothers Day",
     "caption": "This summer, let The Marketplace be your destination for culinary inspiration. Pick up a package of Arla Shredded Mozzarella Cheese on your next visit, and let it take center stage in your kitchen as you create the ultimate Cheesy Garlic and Herb Cruffins with them.\n\nWith a delightful mix of fresh garlic, parsley, chives, and a sprinkle of dried oregano, these cruffins offer a warm, aromatic embrace in every bite. A perfect way to treat yourself — and anyone lucky enough to be at your table!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Arla"
@@ -34,7 +34,7 @@ const MOTHERS_DAY_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MOTHERS DAY",
+    "campaign": "Mothers Day",
     "caption": "Make your home a haven with Baygon Shield Protector Multi Insect Killer. With its powerful ability to eliminate both flying and crawling pests like dengue mosquitoes, roaches, and flies for up to three weeks, it’s the ultimate solution to keep your space fresh and pest-free. \n\nThanks to its natural citrus extracts, it leaves behind a light, refreshing orange scent — none of the usual harsh chemicals or lingering odors. Let Baygon do the hard work, so you can enjoy a peaceful, bug-free environment. Find it at The Marketplace, along with other household essentials!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Baygon"

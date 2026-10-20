@@ -7,7 +7,7 @@ const AUGUST_IG_DATA = [
     "layoutCode": "IG1",
     "layoutName": "Roasted Chicken and Cranberry Melt",
     "category": "RECIPE",
-    "campaign": "AUGUST IG",
+    "campaign": "August IG",
     "caption": "Sweet, savory, and made for every satisfying bite. 🥪✨\n\nThis Roasted Chicken and Cranberry Melt layers tender roasted chicken, melty cheese, crisp lettuce, and tangy cranberry sauce between hearty Village Gourmet Multigrain Bread. Toasted until golden, it's the perfect balance of comforting flavors and satisfying crunch—great for lunch, a light dinner, or anytime cravings hit. Pick up Village Gourmet Multigrain Bread and everything you need at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Village Gourmet"
@@ -30,7 +30,7 @@ const AUGUST_IG_DATA = [
     "layoutCode": "IG2",
     "layoutName": "Steak Fajita Wrap",
     "category": "RECIPE",
-    "campaign": "AUGUST IG",
+    "campaign": "August IG",
     "caption": "Your favorite steak fajitas, now wrapped up for an easy meal. 🌯✨\n\nTender steak, colorful sautéed peppers, and onions come together in Bambi Whole Wheat Tortillas for a hearty wrap that's perfect for lunch or a quick weeknight dinner. Finished with a creamy, zesty sauce, every bite is packed with savory flavors and fresh crunch. Find Bambi Whole Wheat Tortillas and all the ingredients you need at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Bambi"

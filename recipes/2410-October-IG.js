@@ -10,7 +10,7 @@ const OCTOBER_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "OCTOBER IG",
+    "campaign": "October IG",
     "caption": "Ever enjoyed a freshly cracked young green coconut on a sun-drenched beach? Imagine the refreshing water spilling out, cool and sweet. Vita Coco captures that moment in every sip.\n\nStock up on Vita Coco and enjoy a taste of pure, natural coconut water whenever you want — whether it’s after a workout or to satiate a parched soul, your body will thank you for it. Find Vita Coco at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Vita Coco"
@@ -29,7 +29,7 @@ const OCTOBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "OCTOBER IG",
+    "campaign": "October IG",
     "caption": "This Tortilla Quiche is the perfect combination of simplicity and sophistication. Whether you're serving it for a weekend brunch or a cozy dinner, this recipe is so easy to prepare and absolutely irresistible.\n\nWe’re taking Village Gourmet Tortillas, which you can find at #TheMarketplace, to the next level by using them as the foundation for this delicious quiche. The filling? A rich blend of cheeses, vegetables, and maybe even a little bacon if you're feeling indulgent — because who doesn’t love a touch of luxury?\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Village Gourmet"
@@ -54,7 +54,7 @@ const OCTOBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "OCTOBER IG",
+    "campaign": "October IG",
     "caption": "Gather your favorite serving platter and prepare to delight your loved ones with a simple yet elegant twist on a breakfast classic — French Toast Skewers!\n\nUsing Monde Fluffy Wheat Bread, available at #TheMarketplace, these skewers are perfect for a brunch party or a delightful morning treat. Soft and airy, the bread absorbs the rich custard mixture beautifully, ensuring each bite is perfectly tender and golden.\n\nThread the Monde Fluffy Wheat Bread onto skewers with fresh fruit like strawberries and bananas for a pop of color and flavor, then serve with a drizzle of warm maple syrup or a dusting of powdered sugar. It’s a sophisticated take on French toast that’s as lovely to serve as it is to eat.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Monde"
@@ -79,7 +79,7 @@ const OCTOBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "OCTOBER IG",
+    "campaign": "October IG",
     "caption": "There’s nothing quite like a warm, freshly cooked paratha, and today, we’re elevating this beloved classic with a sweet and irresistible twist — banana and condensed milk.\n\nUsing Kawan Plain Paratha as the base, this recipe offers a convenient yet delicious way to create something special, perfect for breakfast or a quick snack. Enjoy the ease of using pre-made paratha, while indulging in the natural sweetness of banana and the richness of condensed milk. Don’t forget the cinnamon!\n\nFind Kawan Plain Paratha, along with all the other ingredients that you need for this recipe at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Kawan"
@@ -104,7 +104,7 @@ const OCTOBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "OCTOBER IG",
+    "campaign": "October IG",
     "caption": "Sometimes, we crave something that feels like a warm embrace in a bowl — soothing yet bold, familiar yet full of surprises. This Gyoza Soup made with Ajinomoto Gyoza is exactly that. It’s a simple dish that bursts with complex flavors, perfect for a cozy night in when you need both comfort and excitement.\n\nThe deeply flavored broth shines with flavors of fiery gochujang, savory chicken, and earthy mushrooms, while nutty sesame oil and soy sauce provide that hint of umami that lingers long after each bite.\n\nHead over to #TheMarketplace and shop all the ingredients that you need for this nourishing Gyoza Soup!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Ajinomoto"
@@ -129,7 +129,7 @@ const OCTOBER_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "OCTOBER IG",
+    "campaign": "October IG",
     "caption": "It’s always profoundly comforting to step into a room and be greeted by the soft, enveloping scent of lavender. It’s the aroma of calm — a gentle reminder to slow down, breathe deeply, and savor the moment. Add the warmth of vanilla, and suddenly your space transforms into a sanctuary.\n\nThis is what Glade Auto Spray Lavender & Vanilla brings to your home: a constant whisper of serenity that lingers in the air like a memory you never want to forget. Unlike candles or fleeting room sprays, this little device effortlessly refreshes your space all day long, releasing just the right amount of fragrance without overpowering. Find it at #TheMarketplace, along with other home essentials!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Glade"
@@ -148,7 +148,7 @@ const OCTOBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "OCTOBER IG",
+    "campaign": "October IG",
     "caption": "It’s a busy day, and all you can think of is coming home to a warm and tasty bowl of comfort.\n\nWhip up this Beef Yakiniku Donburi in less than 30 minutes with the help of Napoleons Beef Yakiniku, which you can find at #TheMarketplace!\n\nTender slices of beef, perfectly caramelized and glistening with sweet-savory yakiniku sauce, resting atop a bed of warm, fluffy rice — it’s the kind of dish that feels indulgent, yet is so easy to make at home. Try it this week!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Napoleons"
@@ -173,7 +173,7 @@ const OCTOBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "OCTOBER IG",
+    "campaign": "October IG",
     "caption": "Sometimes, the best meals come together with a little help from the store.\n\nTake these simple Mediterranean Chicken Naan Wraps prepared with Cook’s Mediterranean Roast Chicken Leg Quarters from #TheMarketplace. Tender and flavorful, they become the star of a quick, easy meal.\n\nJust heat up the chicken, warm the naan, and pile on the meat, crisp lettuce, fresh cucumbers, ripe tomatoes, spicy onion, and a sprinkle of feta. Suddenly, you’ve captured the vibrant, sun-kissed flavors of the Mediterranean in a single wrap. Serve with your choice of sauce — maybe with hummus or olive oil and a squeeze of lemon — and you’ve got a meal that feels both effortless and indulgent.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Cook's"

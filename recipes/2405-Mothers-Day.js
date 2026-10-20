@@ -10,7 +10,7 @@ const MOTHERS_DAY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MOTHERS DAY",
+    "campaign": "Mothers Day",
     "caption": "Toast to Mom this month of May with this Lychee Rosé Spritzer made with Gossips Sweet Lips Infusion.\n\nFruity, floral, and with just the right amount of booze, take swigs of this sweet refresher that’s ideal for summer and for celebrating your life’s leading lady. Cheers! Find Gossips Sweet Lips Infusion and other sweet wines at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Gossips"
@@ -35,7 +35,7 @@ const MOTHERS_DAY_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MOTHERS DAY",
+    "campaign": "Mothers Day",
     "caption": "A tear-free formula that is gentle on baby’s delicate skin, Cetaphil Baby Shampoo Gentle Wash provides 24-hour moisture and is both dermatologist- and ophthalmologist-approved! Its light fragrance keeps baby smelling fresh all day long. It’s gentle enough for newborns, too! For all those moms out there, be sure stock up on Cetaphil baby products at #TheMarketplace, along with other baby essentials!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Cetaphil"
@@ -54,7 +54,7 @@ const MOTHERS_DAY_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MOTHERS DAY",
+    "campaign": "Mothers Day",
     "caption": "Instantly fill your room with freshness with Glade Lavender Automatic Spray.\n\nWith a natural lavender scent that calms the mind and soul, transform your space into a relaxing haven where you can let your hair down and simply ease into those precious, quiet moments. Find it at #TheMarketplace, along with other home essentials!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Glade"
@@ -73,7 +73,7 @@ const MOTHERS_DAY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MOTHERS DAY",
+    "campaign": "Mothers Day",
     "caption": "Surprise Mom this month of May by preparing a hearty meal of Cheesy Baked Meatballs made with Anchor Cheese Singles.\n\nA simple yet tasty dish that’s sure to send a smile to Mom’s face, tuck into the comforting flavors of tomato, beef, and cheese. Don’t forget to end with a delicious dessert to celebrate Mom! Head over to #TheMarketplace and find all the ingredients that you need — including dessert!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Anchor"
@@ -98,7 +98,7 @@ const MOTHERS_DAY_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "MOTHERS DAY",
+    "campaign": "Mothers Day",
     "caption": "This May, why don’t you buy Mom some flowers?\n\nThis MCK Bouquet (Premium B), available at #TheMarketplace, boasts of the freshest blooms that are sure to warm Mom’s heart. With all the hard work she’s done and all the love she’s given, a little sweet gesture goes a long way.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "MCK"
@@ -117,7 +117,7 @@ const MOTHERS_DAY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MOTHERS DAY",
+    "campaign": "Mothers Day",
     "caption": "Treat Mom to a lovely, home-cooked meal this month of May!\n\nThese Asian Beef Noodles are tasty, filling, and exude that sought-after wok hey flavor thanks to Waitrose Wok Oil, which is a sunflower based oil infused with sesame and ginger oils, along with natural garlic extracts. You must grab a bottle of it the next time you visit #TheMarketplace! We cannot recommend it enough, especially when cooking Asian dishes.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Waitrose"

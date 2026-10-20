@@ -10,7 +10,7 @@ const FEBRUARY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "FEB IG & FB",
+    "campaign": "February IG",
     "caption": "Curb that sweet craving without the guilt!\n\nCreate these decadently delightful and super-easy Sugar-free Lemon Squares with Diabetasol Sweetener available at #TheMarketplace. Zesty and moist, these are perfect for lounging with this sunny season.",
     "brand": [
       "Diabetasol"
@@ -35,7 +35,7 @@ const FEBRUARY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "FEB IG & FB",
+    "campaign": "February IG",
     "caption": "Make this Korean Mixed Noodle Salad in a flash with Mi Sedaap Korean Spicy Chicken Noodles. Just toss in some cucumber, lettuce, kimchi, nori, and sesame seeds for a pick-me-up with a kick!\n\nFun fact: “Sedaap” means “delicious” so there’s no doubt these noodles are clearly a winner. Available at #TheMarketplace!",
     "brand": [
       "Mi Sedaap"
@@ -60,7 +60,7 @@ const FEBRUARY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "FEB IG & FB",
+    "campaign": "February IG",
     "caption": "Did you know that while mayonnaise is a well-loved condiment, it also serves as a great coat for proteins?\n\nTry coating some chicken breasts with Heinz Seriously Good Mayonnaise and parmesan breadcrumbs in this Panko-Mayo Crusted Chicken recipe! Comes with a side of homemade Honey Mustard for a tangy and sweet dipping sauce. All ingredients can be found at #TheMarketplace, so add them to your next grocery list!",
     "brand": [
       "Heinz"
@@ -85,7 +85,7 @@ const FEBRUARY_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "FEB IG & FB",
+    "campaign": "February IG",
     "caption": "Fall in love with the sweetest candy box by Hershey’s Kisses. Available at #TheMarketplace, and just in time for Valentine’s Day! Grab some today!",
     "brand": [
       "Hershey’s"
@@ -104,7 +104,7 @@ const FEBRUARY_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "FEB IG & FB",
+    "campaign": "February IG",
     "caption": "Miss traveling to the land of cherry blossoms? Let this Glade Autospray in Sakura transport you to Japan in an instant! Find it at #TheMarketplace.",
     "brand": [
       "Glade"
@@ -123,7 +123,7 @@ const FEBRUARY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "FEB IG & FB",
+    "campaign": "February IG",
     "caption": "There’s nothing like a hearty Whole Coconut Curry Chicken to warm up the soul. With notes of lemongrass and a whisper of chili, prepare this simple dish with Magnolia Whole Chicken. Get it fresh from #TheMarketplace!",
     "brand": [
       "Magnolia"
@@ -148,7 +148,7 @@ const FEBRUARY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "FEB IG & FB",
+    "campaign": "February IG",
     "caption": "This neat little hack can turn your regular mamon into a decadent snack, so head over to #TheMarketplace and grab what you need!\n\nSimply slice some Monde Special Strawberry Mamon in half, fill it with whipped cream, and top with sugared strawberries. Perfect to go with your afternoon tea!",
     "brand": [
       "Monde"
@@ -173,7 +173,7 @@ const FEBRUARY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "FEB IG & FB",
+    "campaign": "February IG",
     "caption": "Go all out on your cheat day with this Galaxy Monster Milkshake! Thick, nutty, and oh-so-chocolatey, let this out of this world creation be your well-deserved reward after a long week.\n\nPerfect for any chocolic, head over to #TheMarketplace and grab all the ingredients you need! We promise, it’s worth every calorie.",
     "brand": [
       "Pocky",
@@ -200,7 +200,7 @@ const FEBRUARY_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "FEB IG & FB",
+    "campaign": "February IG",
     "caption": "Nothing quite compares to the rich, delicious taste of premium milk chocolate and the smooth, luscious flavour of macadamias. Hawaiian Host’s Founder’s Collection is truly a luxurious treat. Perfect for gifting this season of hearts—for someone special, or for personal indulgence. Best found at #TheMarketplace!",
     "brand": [
       "Hawaiian Host"
@@ -219,7 +219,7 @@ const FEBRUARY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "FEB IG & FB",
+    "campaign": "February IG",
     "caption": "Give your crêpes a hint of healthy with Australia’s Own Organic Almond Milk, available at #TheMarketplace!\n\nLower in calories and rich in Calcium and Vitamin E, this dairy-free alternative also comes with a delicate sweetness that’s perfect for these French-style pancakes. Bon appétit!",
     "brand": [
       "Australia’s Own"
@@ -244,7 +244,7 @@ const FEBRUARY_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "FEB IG & FB",
+    "campaign": "February IG",
     "caption": "The Japanese are known for their impeccable skin, and we’re so glad to be carrying Senka by Shiseido here at #TheMarketplace!\n\nThe Perfect Whip face wash has been a consistent bestseller in Japan for years. With ultra-fine cleansing particles that clean out impurities, it’ll leave your skin soft, supple, clean, and hydrated.",
     "brand": [
       "Senka"
@@ -263,7 +263,7 @@ const FEBRUARY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "FEB IG & FB",
+    "campaign": "February IG",
     "caption": "Jazz up your tacos by swapping out the ground beef for Elarz Corned Lechon! The addition of pickle relish, lime, and cilantro cut through the porky flavours, giving it a very Filipino touch. \n\nGet your cans of Elarz Corned Lechon fresh from #TheMarketplace!",
     "brand": [
       "Elarz"
@@ -288,7 +288,7 @@ const FEBRUARY_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "FEB IG & FB",
+    "campaign": "February IG",
     "caption": "Have your favorite Cibo pizza whenever you want it at the comfort of home with their Romana Four Cheese Pizza!\n\nA cheesy explosion on a thick, crunchy crust might just be what you need to get through the week. Best available at #TheMarketplace!",
     "brand": [
       "Cibo"
@@ -307,7 +307,7 @@ const FEBRUARY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "FEB IG & FB",
+    "campaign": "February IG",
     "caption": "A panna cotta needn’t be complicated to make if you have all the freshest ingredients in tow! \n\nNothing tastes like summer more than mangoes do, and the creamy combination of Cowhead Pure Milk and condensed milk (plus vanilla!) makes for these sweet and summery treats that you can enjoy anytime of the day!\n\nAll ingredients can be found fresh at #TheMarketplace, so don’t forget to add them in your cart on your next visit!",
     "brand": [
       "Cowhead"
@@ -332,7 +332,7 @@ const FEBRUARY_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "FEB IG & FB",
+    "campaign": "February IG",
     "caption": "Your favorite candy bar in drinkable form because why not?! \n\nThis Snickers Milk Drink tastes tastes exactly like the iconic treat. Best served chilled! Available at #TheMarketplace.",
     "brand": [
       "Snickers"
@@ -351,7 +351,7 @@ const FEBRUARY_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "FEB IG & FB",
+    "campaign": "February IG",
     "caption": "Keep your surfaces clean and fresh-smelling with these soft, cloth-like Sanicare wet wipes!\n\nEnriched with Vitamin E and Aloe Vera, these wipes are also safe for kids thanks to Sanicare’s gentle, alcohol-free formula. The eucalyptus scent is definitely a plus! Get them at #TheMarketplace.",
     "brand": [
       "Sanicare"

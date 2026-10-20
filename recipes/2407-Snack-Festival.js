@@ -10,7 +10,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SNACK FEST",
+    "campaign": "Snack Festival",
     "caption": "Here’s a snack that’s a mix of fancy and fuss-free. Grab a few Sky Flakes Oat Fiber crackers and top them with ricotta, basil, garlic, and prosciutto for a bougie-on-a-budget snack that you can whip up in a flash!\n\nGreat as light bites and movie munchies — grab all the items that you need at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Sky Flakes"
@@ -35,7 +35,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SNACK FEST",
+    "campaign": "Snack Festival",
     "caption": "Prepare that trendy caviar snack at home with an added touch of luxury thanks to Lay’s Truffle Potato Chips. Use crème fraîche if you prefer, but we also found out that a mix of goat’s cheese and mascarpone does the trick, too! In fact, the goat’s cheese adds a nice, zingy quality that balances out the sublime caviar. Each textured bite comes packed with huge bursts of umami. Find Lay’s Truffle Potato Chips at #TheMarketplace, along with all the other ingredients that you need for this luscious snack.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Lay's"
@@ -60,7 +60,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SNACK FEST",
+    "campaign": "Snack Festival",
     "caption": "Cheddar and Sour Cream is quite a classic combination when it comes to potato chips, don’t you think? And using Calbee Potato Chips of that flavor, we concocted a Loaded Baked Potato Dip that’s oozing with cheese and amplified with sour cream. This one’s simply irresistible — so what are you waiting for? Head over to #TheMarketplace now and stock up on what you need for this bomb of a potato chip snack!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Calbee"
@@ -85,7 +85,7 @@ const SNACK_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SNACK FEST",
+    "campaign": "Snack Festival",
     "caption": "There’s never a bad day for One-Skillet Enchiladas, and today, we’re making them more enjoyable with Meadows Barbecue Potato Chips. Crispy, smoky, and meaty, savor each bite with a friend (or by yourself) and take your taste buds on a delicious adventure. Head over to #TheMarketplace and grab all the ingredients that you need for this recipe!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Meadows"

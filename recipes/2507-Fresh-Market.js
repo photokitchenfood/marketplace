@@ -9,7 +9,7 @@ const FRESH_MARKET_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "FRESH MARKET",
+    "campaign": "Fresh Market",
     "caption": "Dinner in one pot? Say less! \nMake One-Pot Thai Chicken Rice with Harvester’s Thai Jasmine Rice, which is light, aromatic, and beautifully fluffy every time. It soaks up all the tangy, savory flavors for a dish that tastes like a warm hug with a zesty kick. 🍗🍚✨\nShop all the ingredients for this recipe now at The Marketplace! \nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Harvester's"
@@ -34,7 +34,7 @@ const FRESH_MARKET_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "FRESH MARKET",
+    "campaign": "Fresh Market",
     "caption": "Fresh, crisp, and ready in minutes, Dizon Farms All Romaine brings the crunch you crave in the form of a clean, vibrant, and perfect base for this Shrimp & Avocado Salad. Juicy shrimp, creamy avo, zesty dressing… it’s a salad that actually satisfies. 🥑🦐🥗 Get everything you need at The Marketplace! 🛒🍋 \n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Dizon Farms"
@@ -59,7 +59,7 @@ const FRESH_MARKET_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "FRESH MARKET",
+    "campaign": "Fresh Market",
     "caption": "Build your dream grain bowl with DVF Greek Style Yogurt, which comes thick, creamy, and tangy in all the right ways.  🥗🔥🍅 Colorful, crunchy, and totally craveable, this Roasted Veggie & Greek Yogurt Grain Bowl is the perfect cool contrast to warm roasted chickpeas and fresh veggies.\nGrab a tub (and the rest of the goods) at The Marketplace! 🛒💚\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "DVF"
@@ -84,7 +84,7 @@ const FRESH_MARKET_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "FRESH MARKET",
+    "campaign": "Fresh Market",
     "caption": "Two comfort foods come together in one epic bite. 🍕🍞🧀\n\nFrench Toast meets Pizza in these crispy, cheesy sticks starring Arla Mozzarella Cheese that’s mild, melty, and made with high-quality milk for that perfect stretch. Dunked in sauce and pan-fried to golden bliss? What more can you ask for? Get your ingredients at The Marketplace and get rollin’! 😋🔥\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Arla"
@@ -109,7 +109,7 @@ const FRESH_MARKET_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "FRESH MARKET",
+    "campaign": "Fresh Market",
     "caption": "Sweet, buttery, and baked to perfection, these Pecan Honey Baked Sweet Potatoes hit all the right notes — warm, nutty, and just the right amount of indulgent. 🍠🍯🧈\n\nMade extra delish with Anchor Spreadable Butter, known for its rich creaminess and easy-to-spread magic straight from the fridge. Grab your ingredients now at The Marketplace and get cozy in the kitchen! ✨🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Anchor"

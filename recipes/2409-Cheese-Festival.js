@@ -10,7 +10,7 @@ const CHEESE_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "CHEESE FESTIVAL",
+    "campaign": "Cheese Festival",
     "caption": "One of the easiest and most satisfying pastas you can make at home — Fettuccine Alfredo — consists mainly of Parmigiano Reggiano and butter. Make it richer by adding some cooking cream or give it a punch with some garlic. However you decide to make it your own, this Alfredo recipe makes for a great foundation to go with your favorite pasta.\n\nCurious to try? Head over to #TheMarketplace and grab all the ingredients that you need! The Parmigiano Reggiano can be found at #TheMarketplace’s cheese section. Enjoy!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -35,7 +35,7 @@ const CHEESE_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "CHEESE FESTIVAL",
+    "campaign": "Cheese Festival",
     "caption": "With the holidays quickly approaching, it’s time to play host with the most or hostess with the mostest!\n\nSave yourself the worry by heading to #TheMarketplace, finding Boule d’or Mimolette at the cheese section, and gathering an assortment of cold cuts, spreads, fruits, and nuts for a Mimolette Pairings Cheese Board that’s truly impressive and perfect for any occasion!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Boule d’or"

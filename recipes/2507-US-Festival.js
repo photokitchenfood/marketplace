@@ -9,7 +9,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Give your weekend brunch a serious upgrade! This Almond Chocolate French Toast Bake is rich, cozy, and indulgent in all the right ways thanks to Blue Diamond Almond Breeze Chocolate Almond Milk.\n\nIt’s layered with pillowy brioche, swirled with cocoa, kissed with cinnamon, and topped with almonds for just the right amount of crunch. Bake until golden and puffed, then crown each slice with whipped cream and a snowy dusting of sugar. No flipping, no fuss. Just a chocolatey oven-baked dream waiting to be devoured. Find Blue Diamond Almond Breeze Chocolate Almond Milk, along with all the other ingredients you need for this recipe, at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Blue Diamond"
@@ -34,7 +34,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "There’s something about the sweet scent of freshly baked cornbread that feels like a warm hug, and these Honey Cornbread Muffins are just that.\n\nMoist, tender, and flavored with golden Sue Bee Clover Honey, they’re the perfect sidekick to your favorite stews, soups or have them on their own as a simple afternoon snack. Each bite is buttery with a hint of crunch from cornmeal and a drizzle of honey that takes it over the top. Pick up everything you need at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Sue Bee"
@@ -59,7 +59,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Craving something rich, cool, and absolutely irresistible? This Peanut Butter Iced Mocha is your new go-to treat. It’s a creamy, dreamy mash-up of your favorite peanut butter sandwich and a smooth mocha coffee, all in one frosty glass.\n\nMade with velvety Skippy Creamy Peanut Butter, cold brew, milk, and a generous swirl of chocolate, it’s the perfect blend of indulgent and refreshing, topped with whipped cream and crushed peanuts for that extra wow. Find all the ingredients that you need for this sweet treat at The Marketplace!\n\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Skippy"
@@ -84,7 +84,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Ready for a snack that hits every craving at once?\n\nThis S’mores Popcorn is the ultimate sweet-meets-savory treat, combining the gooey charm of campfire classics with the buttery crunch of Jolly Time American’s Best Butter Flavor Popcorn.\n\nThink toasted marshmallows, golden graham bits, and silky milk chocolate drizzled over warm, fluffy kernels. It’s cozy, crunchy, and downright addictive. Perfect for movie nights, party bowls, or anytime snacking. Pick up everything you need at The Marketplace and get popping!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Jolly Time"
@@ -109,7 +109,7 @@ const US_FESTIVAL_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Say hello to your next snack obsession: Herr’s Baked Cheese Curls.\n\nThese golden, cheesy puffs are baked to perfection with a satisfying crunch and an addictive cheddar flavor that hits the spot every time. They're light, moreish, and impossible to eat just one handful. Find them now at The Marketplace, along with all your beloved American snack-time staples.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Herr's"
@@ -128,7 +128,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Nachos, but make them unforgettable. These BBQ Chicken Cheddar Chip Nachos use Pringles Cheddar Cheese Potato Crisps as the base — yes, you read that right — for a smoky and tangy twist on your usual game-day favorite.\n\nLayered with juicy rotisserie chicken tossed in sweet-savory sauce, gooey mozzarella, fresh avocado, and a pop of lime, it’s a full-on flavor explosion with every bite. Build your next bite-worthy masterpiece with ingredients from The Marketplace — your go-to spot for snack aisle surprises and more!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Pringles"
@@ -153,7 +153,7 @@ const US_FESTIVAL_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Puffy, cheesy, and delightfully poppable, Pik-Nik’s Cheese Balls are here to bring the party to your snack stash.\n\nEach bite is a burst of bold cheddar wrapped in an airy crunch that keeps your hand going back for more. Whether you're hosting friends or just treating yourself, these golden bites never disappoint. Snag a tub at The Marketplace, where all your snack-time favorites are ready and waiting.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Pik-Nik"
@@ -172,7 +172,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Sweet, savory, and delightfully juicy, these Raisin Chicken Salad Sliders are the kind of bite-sized treats that steal the spotlight at any table. \n\nRam California Seedless Raisins add a burst of natural sweetness that pairs beautifully with tender chicken, crisp apples, and a creamy, tangy dressing. Tucked into soft buns with a layer of fresh lettuce, they’re equal parts refreshing and satisfying. Perfect for brunch spreads, light lunches, or fuss-free entertaining. Gather everything you need at The Marketplace and bring a little sunshine to your next meal.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Ram"
@@ -197,7 +197,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Looking for a fun twist on your usual fruit snack? These Nutty Apple Nachos are fresh, crunchy, and drizzled with a warm, gooey peanut butter caramel sauce that’s hard to resist.\n\nThe real magic? A generous sprinkle of Blue Diamond Mixed Nuts for that irresistible crunch and extra flavor punch. It’s a quick, no-bake treat that’s perfect for enjoying in groups or by yourself. Swing by The Marketplace to grab all your ingredients and make snack time a little more exciting.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Blue Diamond"
@@ -222,7 +222,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Hot honey is having its moment, and this Hot Honey Butter Popcorn proves exactly why. Using Act II Butter Lovers Microwave Popcorn, it’s tossed in a warm blend of golden honey, melted butter, and a fiery dash of spice that keeps things interesting.\n\nSweet, salty, and with just the right amount of heat, it’s the kind of snack that disappears faster than you think. Pick up everything you need at The Marketplace and join the flavor trend everyone’s buzzing about.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Act II"
@@ -247,7 +247,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Need a quick pick-me-up that’s as good for your body as it is for your tastebuds?\n\nThese No-Bake Prune Energy Balls are the answer. Packed with fiber, antioxidants, and gut-friendly probiotics from Mariani Probiotic Prunes, they’re blended with oats, almonds, nut butter, and chia for a satisfying, wholesome bite.\n\nRolled in coconut for extra crunch and flair, they’re perfect for busy mornings, afternoon slumps, or post-workout fuel. Stock up on everything you need at The Marketplace—and feel good about every bite!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Mariani"
@@ -272,7 +272,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Treat yourself to a snack that’s rich, crunchy, and perfectly balanced. \n\nThese Chocolate-Dipped Almond Clusters are made with roasted Smart Choice California Almonds that are loaded with natural goodness like protein, fiber, and vitamin E, and then coated in smooth dark chocolate and finished with a hint of pink salt.\n\nThey’re easy to make, satisfying to munch on, and have just the right mix of bold and buttery. Grab everything you need at The Marketplace and create a snack that feels a little luxe, without the fuss.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Smart Choice"
@@ -297,7 +297,7 @@ const US_FESTIVAL_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Smartfood White Cheddar Popcorn brings the crunch with a generous dusting of real cheese in every puff.\n\nEach bite is perfectly cheesy without being greasy, making it a fan favorite for movie nights, desk drawers, or anytime munching. And why Smartfood? Because it skips the artificial stuff and still delivers major flavor. Snacking that feels a little better, without missing a beat. Find it now at The Marketplace and grab a bag or two to take home with you!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Smartfood"
@@ -316,7 +316,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Step aside, ordinary chicken strips because these Almond-Crusted Chicken Tenders bring bold texture and savory crunch to the table, thanks to Wonderful Roasted Salted Almonds.\n\nBlended with panko and baked until golden, each piece turns out crispy on the outside and tender inside with no frying needed! The almonds add more than just flavor; they elevate the crunch game while offering a protein-packed twist. Serve them hot with lemon wedges and a creamy dip for a dish that’s both comforting and elevated. Stock up on what you need at The Marketplace, your one-stop shop for wholesome pantry picks and more!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Wonderful"
@@ -341,7 +341,7 @@ const US_FESTIVAL_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "There are just some days when a fizzy drink is adamant to quench your thirst.\n\nWhether you're reaching for an ice-cold Coca-Cola, a refreshing bottle of Sprite, or the orangy burst of Royal, these classics never disappoint. They’re perfect with meals, movie marathons, or just because. Stocking up? Smart move. A little sparkle goes a long way — and yes, everything’s better when enjoyed in moderation. Grab your favorite soft drinks now at The Marketplace, where your go-to sips are always within reach.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Coca-Cola",
@@ -362,7 +362,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Here’s comfort food with a touch of flair: these French Onion Meatballs are rich, savory, and absolutely irresistible.\n\nMade with juicy beef meatballs and simmered in a luxurious gravy of caramelized onions and Barefoot Cabernet Sauvignon, this dish brings bold flavors to the table. The wine’s deep notes of dark berries and oak round out the sauce beautifully, adding body and depth with every bite.\n\nTopped with melty Swiss cheese and served with toasted bread, it’s the kind of dish that feels like home. You’ll find everything you need — including the wine — right at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Barefoot"
@@ -387,7 +387,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Spice, smoke, and a sip of something bold. 🍷🔥\n\nThis flatbread’s got kick: spicy sausage, roasted peppers, gooey cheese, and a peppery arugula finish. Serve it up with a glass of Carnivor Cabernet Sauvignon (think dark berries + smooth tannins = perfect match).\nGrab it all at The Marketplace. Dinner = sorted! 😎\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Carnivor"
@@ -412,7 +412,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Bright, fresh, and effortlessly elegant, this Strawberry, Goat Cheese & Walnut Salad is a celebration of flavor and texture.\n\nJuicy berries, crisp greens, and creamy goat cheese come together in perfect harmony, while toasted walnuts add a satisfying crunch. What takes it to the next level? A splash of Bread & Butter Pinot Noir in the vinaigrette and a glass on the side. Its soft red fruit notes and silky finish enhance the sweetness of the strawberries and balance the tang of the cheese beautifully. Pick up everything you need at The Marketplace and enjoy a pairing that’s equal parts refined and refreshing.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Bread & Butter"
@@ -437,7 +437,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "This Vodka Cucumber Lemonade is just the thing for sunny afternoons and laid-back get-togethers. Cool, crisp, and effortlessly smooth, it’s made with the unmistakably clean taste of Tito’s Handmade Vodka, which blends beautifully with the zing of lemon and the freshness of cucumber.\n\nA splash of club soda adds sparkle, while mint keeps things extra refreshing. Want a zero-proof version? Just skip the vodka — it’s just as vibrant and satisfying. Pick up everything you need at The Marketplace, and shake up something light, bright, and downright sippable.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Tito's Handmade Vodka"
@@ -462,7 +462,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Turn up the flavor with these Chipotle Elote Cups — a smoky, spicy twist on a street food favorite.\n\nTabasco Chipotle Pepper Sauce brings depth and just the right amount of heat, blending perfectly with the creamy feta-lime dressing and sweet charred corn. Easy to prep and big on taste, these cups are ideal for parties, picnics, or a fun snack anytime. Stock your pantry with the essentials from The Marketplace and add this feisty dish to your recipe rotation!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Tabasco"
@@ -487,7 +487,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "A1 Original Sauce isn’t just for steak. In fact, it’s a bold, tangy blend of tomatoes, vinegar, and spice that works wonders with all kinds of meat, including these Sticky Glazed Meatball Skewers.\n\nJuicy beef meatballs, paired with tender green onions, are glazed in a sweet-savory sauce that caramelizes beautifully in the oven. The result? Skewers that are smoky, saucy, and packed with flavor. Serve them hot with rice and extra glaze on the side for dipping. Grab your bottle of A1 Original Sauce and all the fixings at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "A1"
@@ -512,7 +512,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Make your weekend mornings a little more special with these Coconut Milk Pancakes topped with golden caramelized bananas. Made with American Garden Coconut Milk, the batter turns out soft, fluffy, and delicately tropical.\n\nFinished with whipped coconut cream, toasted flakes, and a warm drizzle of syrup, every bite feels like a sunny escape. Perfect for brunch or slow-start days. Find everything you need for this tropical twist on a classic stack right here at The Marketplace.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "American Garden"
@@ -537,7 +537,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Turn everyday corn into something seriously craveable with these BBQ Corn Ribs with Honey Chipotle Dip. Glazed in Sweet Baby Ray’s Honey Chipotle Barbecue Sauce and roasted until the edges curl and caramelize, they’re packed with smoky-sweet flavor and a hint of spice.\n\nPaired with a creamy, tangy dipping sauce on the side, each piece delivers a satisfying bite with a little kick. Find all the ingredients, including Sweet Baby Ray’s Honey Chipotle Barbecue Sauce, at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Sweet Baby Ray's"
@@ -562,7 +562,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Spam Musubi in bowl form? Yes, please.\n\nThis easy spin on the Hawaiian favorite features golden, pan-seared cubes of classic Spam glazed in a sweet-savory sauce and served over fluffy rice with crisp lettuce, a runny egg, and furikake for that extra umami hit.\n\nToss in some roasted seaweed on the side for a wrap-and-snack moment that’s totally customizable. Fun fact: Spam was introduced in 1937 and became a staple in Hawai‘i during WWII. Now, it's a beloved part of island cuisine. Scoop up your can of classic Spam and everything else you need at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Spam"
@@ -587,7 +587,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Treat yourself to something sweet and simple with these no-bake Blueberry Shortcake Cups. They are both easy to assemble and hard to resist.\n\nFarmer's Best Highbush Blueberries add a naturally vibrant pop of color and flavor, plus they're packed with antioxidants, fiber, and vitamin C. Layered with soft cubes of pound cake and freshly whipped cream, each cup delivers a mix of textures and tangy-sweet satisfaction. Make dessert a little brighter and a whole lot tastier! Scoop up everything you need at The Marketplace and build your Blueberry Shortcake Cups!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Farmer's Best"
@@ -612,7 +612,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Broccoli is more than just a side dish — it’s packed with fiber, vitamins, and natural compounds that support overall wellness. And when it’s super-fresh, like the ones you’ll find at The Marketplace, it becomes the star of this Creamy Roasted Broccoli Soup.\n\nBlended with sautéed aromatics and finished with a touch of cream, this cozy bowl gets extra flair from parmesan, toasted seeds, and a few charred florets on top. Stock up on crisp, green broccoli and all the other essentials at The Marketplace — because good soup starts with great produce.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -637,7 +637,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Cherries in a salad? Don’t knock it ‘til you’ve tried it!\n\nThis Cherry Summer Salad brings a burst of juicy sweetness to crisp greens, balanced by the warm crunch of toasted pecans and a zesty honey-lime vinaigrette. It may sound unexpected, but trust us, it works.\n\nCherries are rich in antioxidants and vitamin C, and when they’re freshly picked like the ones at The Marketplace, they’re perfect for brightening up your plate. Grab a bunch while they’re in season and toss together something refreshing, surprising, and seriously delicious.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -662,7 +662,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Smoked salmon gets the spotlight it deserves in this fresh take on a Cobb Salad.\n\nEcho Falls Smoked Wild Alaskan Sockeye Salmon brings deep, savory flavor and a silky texture to every forkful. What makes it special? It’s sustainably sourced, expertly smoked, and crafted with care so you taste the “wild” in every bite.\n\nPaired with crisp romaine, creamy avocado, bright cherry tomatoes, and tangy homemade ranch, this salad is hearty, satisfying, and effortless. Pick up everything you need, including that standout salmon, at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Echo Falls"
@@ -687,7 +687,7 @@ const US_FESTIVAL_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Keto and cookie dough in the same sentence? Dreams do come true!\n\nThis Keto Cookie Dough Ice Cream is everything you love — rich, creamy, and studded with chunks of indulgent dough — without the sugar overload. What makes it special? It’s made with low-carb sweeteners, real cream, and thoughtfully sourced ingredients that fit your lifestyle without skimping on flavor.\n\nWhether you're watching your carbs or just love a good pint, this one's worth the freezer space. Scoop up your stash at The Marketplace and keep your cravings in check…deliciously.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -706,7 +706,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Sunny, zesty, and ready to impress! 🍊✨ This Orange Juice Cake is soft, citrusy, and bursting with the bright, natural sweetness of Florida’s Natural Orange Juice. Every bite is like sunshine on a plate! ☀️ Snag your juice and all the cake essentials at The Marketplace. 🍰💛\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Florida's Natural"
@@ -731,7 +731,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Smoothie bowls, meet your new favorite combo.\n\nThis Açaí Chia creation brings together creamy chia pudding and the vibrant, berry-forward goodness of Sambazon Açaí Original Blend. \n\nWhat makes açaí so special? These Brazilian superfruits are prized for their bold flavor, deep color, and naturally occurring antioxidants — perfect for blending into a thick, satisfying base. Topped with juicy berries and a drizzle of honey, it’s a refreshing way to start your day (or power through the afternoon). Grab your Sambazon pack and all the essentials at The Marketplace and make every spoonful count.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Sambazon"
@@ -756,7 +756,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Little bites, big flavor — these Brown Sugar Bacon Wrapped Smokies are impossible to resist!\n\nEach Johnsonville Cheddar Chicken Smokie is wrapped in bacon, rolled in sweet brown sugar, and roasted until crisp and golden. What sets Johnsonville apart? Their sausages deliver punchy, juicy flavors with that satisfying snap you can actually hear when you bite in. Perfect for parties or anytime snacking. Swing by The Marketplace to grab your pack of Johnsonville Smokies and get these sizzling in the oven!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Johnsonville"
@@ -781,7 +781,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Throw it back and turn up the flavor with these Louisiana Voodoo Fries. Made with Lamb Weston Supreme Crinkle Cut Fries, they deliver that iconic ridged crunch we all know and love: crispy on the outside, fluffy inside, and downright fun to eat.\n\nDusted in bold Cajun spices and drizzled with a creamy, punchy voodoo sauce, every bite hits that sweet spot between nostalgic and bold. Grab your fries and fixings at The Marketplace, and let snack time get a little saucy.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Lamb Weston"
@@ -806,7 +806,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Garlic. Butter. Cheese. And those irresistible crinkle ridges.\n\nThese Crinkle Cut Garlic Parmesan Fries are everything you didn’t know you were missing. American Maple Leaf Crinkle Cut French Fries bring that playful shape and perfect surface area to catch every bit of the garlicky, cheesy goodness. It’s a familiar flavor pairing with a twist that’s all about texture and comfort. Grab a bag of these crinkle cut French fries from The Marketplace and serve up a snack that feels both familiar and fresh!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "American Maple Leaf"
@@ -831,7 +831,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Tater tots meet pepperoni pie in this wildly satisfying mash-up. With McCain Tater Tots as the bed, you’re getting a crispy, golden base that brings a whole new level of cozy to pizza night.\n\nPiled with rich tomato sauce, stretchy cheese, and classic pepperoni, this dish hits all the right notes: hearty, playful, and guaranteed to please. Snag your tots and toppings at The Marketplace and build the kind of dish that makes everyone head straight for seconds.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "McCain"
@@ -856,7 +856,7 @@ const US_FESTIVAL_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Smell good, feel even better. Irish Spring Icy Blast Deodorant Soap is here to keep things cool, clean, and confidently fresh. Infused with flaxseed oil and designed to wash away odor-causing bacteria, this bar gives you that just-stepped-out-of-the-shower energy that lasts up to 12 hours. The icy scent? Invigorating. The lather? Rich and satisfying. \n\nWhether you're gearing up for the day or winding down at night, it's a no-fuss essential that does exactly what it promises. Stock up on this classic (and more bath-time favorites) at The Marketplace.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Irish Spring"
@@ -875,7 +875,7 @@ const US_FESTIVAL_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Wrinkles don’t stand a chance with Faultless Original Finish Ironing Spray Starch. This handy helper gives your clothes that crisp, just-pressed sharpness without the trip to the cleaners. It smooths fabric effortlessly, revives tired garments, and features odor-neutralizing technology so everything smells as fresh as it looks. \n\nWhether you’re touching up office wear or refreshing weekend favorites, it’s a quick spray away from looking polished and put-together. Pick up a can (and your other laundry must-haves) at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Faultless"
@@ -894,7 +894,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Sink your teeth into something sweet with these Fruit and Nut Brownies, made even better with a generous handful of Cadbury Dairy Milk Fruit & Nut.\n\nThis classic bar melts into the fudgy batter, leaving bursts of juicy raisins and toasted almond bits in every forkful. More chunks are scattered on top for that candy-shop charm once they come out of the oven. It’s gooey, nostalgic, and exactly what dessert dreams are made of. Grab your bar and baking essentials from The Marketplace and treat yourself to a batch that hits all the right notes.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Cadbury"
@@ -919,7 +919,7 @@ const US_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Bring a little zing to your glass with this Apple Cider Mock Sangria, starring Bragg Organic Apple Cider Vinegar.\n\nKnown for its bright flavor and natural properties, ACV is often linked to supporting digestion and balancing the body’s internal systems. In this refreshing sipper, it’s stirred together with crisp apple juice, juicy fruit slices, and warm cinnamon sticks for a seasonal drink that feels both lively and cozy, while being great for your gut, too! Perfect for gatherings or a quiet night in. Pick up a bottle of Bragg and the rest of your ingredients at The Marketplace.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Bragg"
@@ -944,7 +944,7 @@ const US_FESTIVAL_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Whether you're twisting, dunking, or going straight for the crunch, these classics bring back all the cozy after-school vibes.\n\nOreo now even comes in Strawberry Creme, adding a fun fruity twist to that signature sandwich cookie. And who can forget Chips Ahoy with its melt-in-your-mouth chocolate chips and just-right chew? These are the treats that never outgrow us. Stock up on both at The Marketplace, along with even more sweet finds for your next cookie fix — don’t forget the milk!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Oreo",
@@ -964,7 +964,7 @@ const US_FESTIVAL_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Some chocolates earn a permanent spot in the snack drawer, and these two know exactly how to keep things interesting.\n\nThe iconic Hershey’s Cookies ‘n’ Creme Bar, with its creamy white chocolate and crispy cookie bits, now comes in poppable Choco Balls for even more bite-sized fun. And of course, Reese’s Peanut Butter Cups? Still the unbeatable combo of salty-sweet, smooth-meets-satisfying, and everything in between.\n\nThese are the kinds of treats you keep around just in case — but let’s be honest, they never last long. Grab your stash at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Hershey's",
@@ -984,7 +984,7 @@ const US_FESTIVAL_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "US FESTIVAL",
+    "campaign": "US Festival",
     "caption": "Time to give your milk game a little glow-up!\n\nMILK LAND Hokkaido Milk — available in original and chocolate — is the upgrade your fridge didn’t know it needed. Straight from the lush farms of Japan’s northernmost island, Hokkaido milk is known for its rich flavor, velvety texture, and exceptional purity. It’s the kind of milk that makes your morning coffee smoother, your cereal happier, and your chocolate milk cravings feel just a bit more grown-up. Use it as well to make your stews and soups even creamier! Find both flavors now at The Marketplace and taste why Hokkaido is the gold standard for dairy lovers everywhere.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "MILK LAND"

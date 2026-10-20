@@ -10,7 +10,7 @@ const HEALTH_WELLNESS_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "HEALTH & WELLNESS",
+    "campaign": "Health & Wellness",
     "caption": "Who says oatmeal is boring?\n\nAdd some fresh apples to your basket the next time you go grocery shopping at #TheMarketplace, and make this baked oatmeal that’s chock full of the good stuff and tastes great, too! Aside from imparting a caramel-like sweetness, apples are also a great source of Vitamin C, fiber, and antioxidants. Don’t forget to enjoy this baked oatmeal warm and with a drizzle of maple syrup!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -35,7 +35,7 @@ const HEALTH_WELLNESS_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "HEALTH & WELLNESS",
+    "campaign": "Health & Wellness",
     "caption": "Hungry and in a rush? Don’t let the hurry keep you from eating something healthy!\n\nThis Wedge Salad is the perfect 10-minute meal. Sprinkled with bacon bits and tomatoes, drizzle some Waitrose Thousand Island Dressing and fuel up! Simple, easy, delicious, and satisfying.\n\nStock your pantry with Waitrose products and sundries, available at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Waitrose"
@@ -60,7 +60,7 @@ const HEALTH_WELLNESS_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "HEALTH & WELLNESS",
+    "campaign": "Health & Wellness",
     "caption": "Feeling a bit indulgent? Head over to #TheMarketplace and grab a jar of Casino Bio Strawberry Jam and make Strawberry Mousse!\n\nCompared to most mass-market brands, Casino Bio takes a more intentional route and supports organic farms and sourcing methods. This is why you get more fruit for your buck! Other Casino Bio jam flavors such as Blueberry and Raspberry are also available — head over to #TheMarketplace and check them out!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Casino"
@@ -85,7 +85,7 @@ const HEALTH_WELLNESS_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "HEALTH & WELLNESS",
+    "campaign": "Health & Wellness",
     "caption": "Add more fiber to your crêpes by swapping all purpose flour for Bob’s Red Mill Oat Flour! Made with whole grains and packed with fiber and nutrients, it’s the healthier alternative to regular flour.\n\nApart from using it to prepare these delectable breakfast crêpes, use Bob’s Red Mill Oat Flour for biscuits, cookies, and breadings; or for thickening gravies and sauces. Explore more of Bob’s Red Mill’s range of products at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Bob's Red Mill",

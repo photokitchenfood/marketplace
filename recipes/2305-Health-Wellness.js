@@ -10,7 +10,7 @@ const HEALTH_WELLNESS_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "HEALTH & WELLNESS",
+    "campaign": "Health & Wellness",
     "caption": "Summer is always a great excuse to hit the beach, and while you’re counting down the days to your next vacay by the sea, grab a bottle of Glade Ocean Escape Air Freshener Spray on your next trip to #TheMarketplace!\n\nWith hints of melon and green apples, notes of peach and sandalwood instantly transport you to a place where the waves crash — all at the comfort of your home.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Glade"
@@ -29,7 +29,7 @@ const HEALTH_WELLNESS_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "HEALTH & WELLNESS",
+    "campaign": "Health & Wellness",
     "caption": "As we all enjoy the sun, don’t forget to keep your skin hydrated, too! While the focus is almost-always on the face and neck, the hands are a delicate part that need some TLC, too.\n\nThe next time you head to #TheMarketplace, swipe a tube of Le Petit Olivier Moisturizing Hand Cream! Crafted with aloe vera and green tea, it’ll surely keep your hands quenched and nourished all day long.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Le Petit Olivier"
@@ -48,7 +48,7 @@ const HEALTH_WELLNESS_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "HEALTH & WELLNESS",
+    "campaign": "Health & Wellness",
     "caption": "Boasting a delicate sweetness with floral and honey notes, Waitrose Camomile Infusion Tea is known to calm the body and mind.\n\nCamomile is especially known for its antioxidants and relaxant properties, making it perfect to wind down with before bed. Find it at #TheMarketplace, along with other Waitrose tea variants!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Waitrose"
@@ -67,7 +67,7 @@ const HEALTH_WELLNESS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "HEALTH & WELLNESS",
+    "campaign": "Health & Wellness",
     "caption": "Find a healthful excuse to consume chocolate with this Chocolate and Berry Chia Pudding made with Casino Bio Milk Chocolate!\n\nMildly sweet, creamy, and bursting with berry goodness, chia seeds are rich in fiber and omega-3 fatty acids, making them good for the heart and digestive system. Make it for breakfast this week and head over to #TheMarketplace today!\n\nServing Time: 2 hours and 10 minutes\nYield: 1-2 servings\n\nIngredients\n\n1 (100g) pack Casino Bio Milk Chocolate, chopped, plus more for topping\n1 cup milk, warmed\n2 tbsps. cocoa powder\n4 tbsps. chia seeds\n½ cup whipped cream\n½ cup strawberries, halved\n⅓ cup blueberries\n\nProcedure\n\n1. Place Casino Bio Milk Chocolate in a bowl, then pour over warmed milk. Let sit for about 3-4 minutes, then mix until chocolate is fully melted.\n2. Add in cocoa powder and chia seeds, then whisk until well incorporated.\n3. Cover with plastic wrap and refrigerate for at least 2 hours.\n4. Once chia is bloomed and mixture has thickened, transfer to serving bowls.\n5. Top with whipped cream, strawberries, blueberries and more chopped Casino Bio Milk Chocolate.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Casino Bio"
@@ -92,7 +92,7 @@ const HEALTH_WELLNESS_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "HEALTH & WELLNESS",
+    "campaign": "Health & Wellness",
     "caption": "One of the side-effects of increased stress is hairfall, and it has become one of today’s most alarming hair issues.\n\nMade with caffeine to stimulate the scalp and hair regrowth, Kundal Anti Hair Loss Shampoo is derived from natural ingredients and addresses other issues such as hair loss and thinning, while nourishing and strengthening each strand from root to tip.\n\nFind it at #TheMarketplace, along with other hair essentials!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Kundal"
@@ -111,7 +111,7 @@ const HEALTH_WELLNESS_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "HEALTH & WELLNESS",
+    "campaign": "Health & Wellness",
     "caption": "The occasional detox never hurts; in fact, it helps the body get a much-deserved restart. On these “detox days”, make sure to stock up on some El Corte Ingles Detox Juice, which you can find at #TheMarketplace.\n\nWith variants such as this one containing a blend of apples, artichokes, pears, and cucumber, the addition of biotin and zinc adds an extra boost of nutrition with every sip!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "El Corte Ingles"

@@ -10,7 +10,7 @@ const DECEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "This holiday season, elevate your table with this show-stopping Grilled Spiny Lobster with Herb Oil.\n\nFeaturing tender Mikisa Spiny Lobster Tails from The Marketplace, this dish is a celebration of bold flavors and effortless elegance. The herb oil — made with garlic, parsley, chives, and lemon zest — perfectly complements the grilled lobster.\n\nPair it with a crisp salad for a light, luxurious meal that will turn any gathering into a memorable occasion. Because when the holidays call, only the spectacular will do.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Mikisa"
@@ -35,7 +35,7 @@ const DECEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "Oysters, with their briny sea flavor and cool elegance, are sure to uplift any gathering.\n\nFor today’s recipe, we’re using Smart Oyster Fresh from The Marketplace, paired with three vibrant sauces for a festive indulgence. Mignonette Sauce offers a tangy, peppery bite; Japanese Dressing adds savory-sweet umami; and Cucumber Jalapeño Sauce delivers a refreshing kick. Lay out the oysters, drizzle with sauces, and let your guests savor this celebration of flavor — perfectly suited for the holidays.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Smart"
@@ -60,7 +60,7 @@ const DECEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "Eastern Cove Crab Meat lifts this Creole Crab & Tomato Pasta into a festive dish with every bite.\n\nSweet crab is combined with a bold Creole sauce made with cherry tomatoes, dry white wine, and a hint of lemon. Easy enough for a weeknight, yet special enough for holiday gatherings, toss with your favorite pasta, serve with crusty bread, and let the vibrant flavors shine. Find everything you need at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Eastern Cove"
@@ -85,7 +85,7 @@ const DECEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "Holiday meals deserve a dish that feels both effortless yet sophisticated, and these Soy-Maple Grilled Salmon Steaks hit the perfect balance.\n\nStart with beautifully fresh salmon steaks from The Galleon Depot and pat them dry for a flawless sear. The sauce — a luscious blend of maple syrup, soy sauce, fresh ginger, and garlic — glazes the fish with just the right mix of sweet and savory.\n\nServe the salmon with tender-crisp bok choy, its mild bitterness balancing the rich glaze for a hearty yet healthy meal. Ready in less time than it takes to wrap a gift, it’s perfect for both intimate dinners or festive feasts. Find all the ingredients you need at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "The Galleon Depot"
@@ -110,7 +110,7 @@ const DECEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "Embrace the holiday season with the simplicity of one-pot cooking: Smoked Pepper Chicken & Rice.\n\nMagnolia Roasters Smoked Pepper Chicken brings a smoky, festive flavor that infuses the rice as it simmers, creating a rich, comforting dish that feels like it took hours but only needs one pot.\n\nCelebrate without the hassle of extra dish — this easy, delicious centrepiece is sure to become a holiday tradition. Find everything you need at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Magnolia Roasters"
@@ -135,7 +135,7 @@ const DECEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "Crisp, golden, and filled with sweet cherry goodness, these Fried Cherry Cheesecake Roll-Ups are the perfect holiday dessert.\n\nSimply spread cream cheese on a Village Gourmet Tortilla, add cherry pie filling, roll it up, and fry for a crackling crust and velvety center. \n\nQuick to make and impossible to resist, they’re a warm, delightful treat made with ingredients that you can easily find at The Marketplace.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Village Gourmet"
@@ -160,7 +160,7 @@ const DECEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "Let your table tell a story of warmth and zest with these Pineapple Salsa Steak Tacos, wrapped in the wholesome embrace of Bambi Whole Wheat Tortillas.\n\nTender flank steak, marinated with smoky spices, pairs perfectly with a bright, sweet, and spicy pineapple salsa in these crowd-pleasing tacos. \n\nA joyful twist on tradition, they’ll have everyone coming back for seconds. Get all the ingredients at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Bambi"
@@ -185,7 +185,7 @@ const DECEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "Transform your holiday table into a celebration of comfort with a bubbling Meatball Submarine Casserole made irresistibly festive with Gardenia Classic White Bread and crowned with golden, melted mozzarella and fragrant basil.\n\nPicture tender meatballs nestled in a rich marinara sauce, layered between slices of pillowy bread that soak up every drop of flavor. Grab all the items that you need from The Marketplace, get cooking, gather your loved ones, and let this decadent classic steal the show.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Gardenia"
@@ -210,7 +210,7 @@ const DECEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "A Grilled Caprese Sandwich is the kind of lunch that feels just right during the holiday hustle.\n\nStart with Marby Whole Wheat Bread, layer it with creamy mozzarella, ripe tomatoes, and herby basil, then add a touch of pesto. Grill until golden and gooey, finishing with a drizzle of balsamic glaze. This light, satisfying bite brings comfort and elegance to your holiday table. Find all the ingredients you need at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Marby"
@@ -235,7 +235,7 @@ const DECEMBER_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "Babyflo Gentle Buds might just become your best-kept secret for a flawless holiday look. With their soft, precise tips, they’re perfect for tidying up eyeliner smudges, softening lipstick edges, or adding the finishing touches to your glittery eyeshadow.\n\nGentle on skin and easy to maneuver, they slip seamlessly into your makeup routine, helping you perfect every detail as you prep for those festive gatherings. Keep them close — you’ll find they’re as indispensable as your favorite highlighter this season. Find them at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Babyflo"
@@ -254,7 +254,7 @@ const DECEMBER_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "Holiday gatherings with toddlers can be a joy — and a juggling act — but Mamypoko Pants Premium Extra Dry are here to make it easier.\n\nThese diapers offer a snug, breathable fit and superior absorbency, keeping little ones dry and comfortable all season. No leaks, no fuss — just the freedom to enjoy the festivities. For moms, it's peace of mind with a soft, gentle design that’s perfect for delicate skin. Available at The Marketplace, along with other baby essentials!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Mamypoko"
@@ -273,7 +273,7 @@ const DECEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "Bring the campfire warmth to your Yuletide table with these S’mores Ice Cream Sandwiches — a delightful blend of nostalgia and indulgence.\n\nStart with crisp M.Y. San Honey Graham Crackers, sandwich creamy vanilla ice cream between them, and freeze. Dip in melted chocolate, sprinkle with nuts, and top with a perfectly toasted marshmallow. It's a festive, irresistible treat. Head to The Marketplace for all the ingredients you need!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "M.Y. San"
@@ -298,7 +298,7 @@ const DECEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "Refresh your celebrations with this Spiked Sparkling Basil Lemonade, a drink as bright and vibrant as the festivities themselves.\n\nStellina’s Old Fashioned Lemonade, available at The Marketplace, offers a tangy citrus base perfect for any drink. Add vodka for a grown-up sparkle, top with soda or sparkling water for effervescence, and finish with fresh basil for a fragrant twist. Prefer it alcohol-free? Just let the lemonade and herbs shine. It’s a simple, stunning sip that feels like a celebration.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Stellina's"
@@ -323,7 +323,7 @@ const DECEMBER_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "For a quick and delicious festive treat, head to The Marketplace and grab Nestlé Crunch Cookies & Cream Ice Cream Sticks. Imagine rich, velvety vanilla ice cream studded with cookie bits, all cloaked in a shell of milk chocolate and crisped cereals.\n\nIt’s the perfect balance of creamy and crunchy, making it an irresistible snack or an easy yet satisfying dessert. Whether you’re savoring it solo or sharing with loved ones, this little stick of joy will make your celebrations sweeter.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nestlé"
@@ -342,7 +342,7 @@ const DECEMBER_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "Whether you’re looking for a quick snack between holiday moments or a simple dessert to wrap up the evening, Oreo Ice Cream Sticks bring joy with every bite.\n\nA sweet way to keep the holiday spirit easy and delicious, these treats offer the right balance of creamy ice cream, swirled with crunchy cookie pieces, all encased in a rich chocolate-flavoured coating that’s studded with more crushed Oreos. Find them at The Marketplace! \n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Oreo"
@@ -361,7 +361,7 @@ const DECEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "When the holiday season brings a whirlwind of indulgent meals, it’s refreshing to slow down with something light and nourishing. This Miso Glazed Salmon, made with Hikari Dashi Flavored Miso Paste, is the perfect dish to balance the festive feasts.\n\nThe salmon’s rich, umami glaze pairs perfectly with a vibrant rice bowl of avocado, edamame, purple cabbage, and mushrooms. It’s a flavorful, healthy break between holiday feasts and easy to prepare. Shop the ingredients at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Hikari"
@@ -386,7 +386,7 @@ const DECEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "These Dark Chocolate Orange Cookies, made with rich Anchor Unsalted Butter, are a melange of bright citrus and deep chocolate. The zing of fresh orange zest and the richness of chopped dark chocolate make every bite a little celebration.\n\nThey’re wonderfully easy to bake and would make a delightful gift for anyone with a sweet tooth, or a treat to bring along to holiday gatherings and potlucks. Whether wrapped up with care or laid out on a tray, they’ll surely be a hit, offering a simple yet luxurious taste of the season. Find all the ingredients that you need for this recipe at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Anchor"
@@ -411,7 +411,7 @@ const DECEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "If you're looking for an effortlessly delicious appetizer or snack to share during the holidays, these BBQ Chicken Loaded Fries are just the thing. \n\nMcCain Shoestring Fries, crispy and golden, are topped with smoky barbecue chicken, jalapenos, melty cheddar, and a sprinkle of vibrant onions. This easy holiday treat is packed with flavor and perfect for a quick, comforting bite. Find all the ingredients you need at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "McCain"
@@ -436,7 +436,7 @@ const DECEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "Steak au Poivre with Red Wine Sauce is a classic French dish that transforms any meal into something extraordinary, making it the perfect choice for a holiday gathering or a special celebration.\n\nAvailable at The Marketplace, Clayton Organic Steak is paired with a rich, savory sauce that perfectly complements the pepper-crusted beef, bringing depth to each bite. With its bold flavors and impressive presentation, it’s a dish that is sure to captivate and satisfy, making any occasion feel just a little more indulgent.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Clayton"
@@ -461,7 +461,7 @@ const DECEMBER_IG_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "This festive season, stock up on Greater Omaha Steaks and Clayton Organic Steaks from The Marketplace to add something special to your festive meals.\n\nKnown for their tenderness and rich marbling, these steaks are perfect for everything — from a classic dinner to a holiday roast, or grill or pan-sear for a perfect crust and juicy meat. The quality of these cuts justifies the price, delivering deep, satisfying flavors that will make your holiday meals truly memorable.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Greater Omaha Steaks",
@@ -481,7 +481,7 @@ const DECEMBER_IG_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "Amid the holiday hustle, sometimes you just need a quick pick-me-up, and Nescafé has the perfect solution.\n\nWhether you’re craving the indulgent richness of Nescafé Iced Mocha, the frothy pleasure of Nescafé Cappuccino, or the bold simplicity of Nescafé Ice Black, these refreshing canned iced coffees are ready to deliver the caffeine fix and energizing buzz you need to power through the season. Available at The Marketplace, they’re an easy, delicious way to stay fueled during the busy festivities.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nescafé",

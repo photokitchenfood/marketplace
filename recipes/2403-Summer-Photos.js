@@ -10,7 +10,7 @@ const SUMMER_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SUMMER",
+    "campaign": "Summer",
     "caption": "Bold, cheesy, and meaty, this Hot Reuben Dip made with Libby’s Corned Beef will surely be the talk of the town.\n\nWith each bite delivering tangy, creamy, savory, and sweet components, not only will this dip disappear in a flash…second servings might be in order. Hearty and filling, serve with your favorite crackers, baguette slices, or buttered crostinis. All the ingredients that you need to create this recipe at home are available at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Libby's"
@@ -35,7 +35,7 @@ const SUMMER_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SUMMER",
+    "campaign": "Summer",
     "caption": "It’s time to cool down to this quintessentially Pinoy refreshment of Ube Macapuno Milkshake, with the addition of Boba!\n\nMade with Selecta Ube Macapuno Ice Cream, coconut milk, and shredded macapuno, the boba adds that nice, chewy, and addictive, satisfaction with every sip. Head over to #TheMarketplace now and make your milkshake today!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Selecta"
@@ -60,7 +60,7 @@ const SUMMER_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SUMMER",
+    "campaign": "Summer",
     "caption": "S’mores are typically associated as warm snacks prepared near the campfire, but have you tried enjoying them in sundae form?\n\nUsing Nestlé Extra Creamy Chocolate Ice Cream, we concocted a S’mores Ice Cream Sundae with nothing but the good stuff — torched marshmallows, graham crackers, and chocolate fudge syrup. There’s no looking back after you’ve tried this one. Find all the ingredients that you need for this recipe at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nestlé"
@@ -85,7 +85,7 @@ const SUMMER_PHOTOS_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "SUMMER",
+    "campaign": "Summer",
     "caption": "Love cheesy snacks? Head over to #TheMarketplace and grab a box of Casino Mini Crêpe Four Cheddar and prepare to bite into delicate and fine crêpe pieces that are stuffed with creamy, melting cheese. They’re perfect movie night snacks, or if you’re simply feeling peckish. In fact, don’t think twice about getting two or three boxes — just do it.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Casino"
@@ -104,7 +104,7 @@ const SUMMER_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SUMMER",
+    "campaign": "Summer",
     "caption": "Did you know that the word Speculoos actually refers to the blend of spices found in the popular shortcrust biscuits we know today?\n\nUsing Casino Speculoos à la Cannelle biscuits, which are available at #TheMarketplace, we concocted this Malted Speculoos Milkshake if you’re craving a creamy, dreamy summer treat that echoes the comforting flavors of gingerbread and pumpkin spice. It tastes just like autumn in April.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Casino"
@@ -129,7 +129,7 @@ const SUMMER_PHOTOS_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "SUMMER",
+    "campaign": "Summer",
     "caption": "We’ve found the perfect coffee table snacks to stock up your pantry with, and they are none other than Tous les Jours’s Biscuits Avec Tablette de Chocolate au Lait. There is a popular childhood snack in France called the Goûter, which comprises a baguette slice, a pat of butter, and a slab of chocolate, and these come close with the finely made butter biscuit and substantial square of milk chocolate.\n\nFind Tous les Jours biscuits, along with other imported French snacks at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Tous les Jours"
@@ -148,7 +148,7 @@ const SUMMER_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SUMMER",
+    "campaign": "Summer",
     "caption": "Remember the popular wafer stick snacks that echo nostalgia and childhood? \n\nToday they receive a fancy facelift in these Dessert Grazing Cups with Vanilla Wafer Sticks. We used Meadows Vanilla Wafer Sticks from #TheMarketplace, as they have a versatile flavor that complements the fruits, chocolate, and other sweets used in this treat-filled platter. Try it out for your next get-together with friends at home!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Meadows"
@@ -173,7 +173,7 @@ const SUMMER_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SUMMER",
+    "campaign": "Summer",
     "caption": "Watermelon and chocolate? Who would’ve thought these would make a superb combination that doubles as a fantastic summer treat?\n\nFreezing watermelons gives them the texture of popsicles, and when drizzled on with some melted Waitrose Belgian Milk Chocolate, it becomes a refreshing frozen dessert that’s healthy, too! Making this can be a fun activity to be enjoyed by both kids and kids-at-heart as you get creative with toppings such as rainbow sprinkles, chopped nuts, or freeze-dried berry bits! Get all the ingredients that you need for these Chocolate Dipped Frozen Watermelons at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Waitrose"
@@ -198,7 +198,7 @@ const SUMMER_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SUMMER",
+    "campaign": "Summer",
     "caption": "Add a pop of color and a fruity twist to your salads with this recipe for Strawberry Avocado Pasta Salad made with Casino Bio Penne Au Blé Complet! Vibrant, inviting, and bursting with fresh flavors, enjoy it with a natural homemade lemonade or a fruity iced tea.\n\nFind Casino Bio Penne Au Blé Complet, along with other Casino products, at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Casino"
@@ -223,7 +223,7 @@ const SUMMER_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SUMMER",
+    "campaign": "Summer",
     "caption": "Need a pasta bake that you can always return to and that’s easy to heat up during those busy work days?\n\nTry your hand at making this Mushroom Spinach Ravioli Casserole made with Casino Bio Raviolis Vegetable. Experience the bounty of summer’s produce with every bite, and enjoy this vegetarian dish with gusto. If you feel like adding some protein, incorporate some tofu or serve this pasta with some roasted chicken or beef on the side. Ideal for potlucks and get-togethers, too! Find everything that you need for this recipe at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Casino"
@@ -248,7 +248,7 @@ const SUMMER_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SUMMER",
+    "campaign": "Summer",
     "caption": "There’s nothing like a refreshing and spritely drink to wind down with on a hot summer’s day, and this Pineapple Prosecco Punch is sure to see many repeats.\n\nCrafted with some extra cold Fiorelli Prosecco DOC Extra Dry, this is the ultimate summer drink to beat the heat with. Make it non-alcoholic by swapping the prosecco with your soda of choice, too! Rosemary sprigs add an herbaceous touch that pairs so well with this drink’s tropical flavors. Find all the ingredients at #TheMarketplace and get the party started!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Fiorelli"
@@ -273,7 +273,7 @@ const SUMMER_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SUMMER",
+    "campaign": "Summer",
     "caption": "There’s nothing more fitting for summer than a Watermelon Strawberry Slushie, don’t you agree?\n\nThe next time you head over to #TheMarketplace, grab a bottle of Echo Falls Fruit Fusion, some strawberries, and some watermelons. This slushie recipe is for adults only, but simply swap Echo Falls low-alcohol fruit wine for cranberry juice instead for a non-alcoholic version. Now sit back, relax, and let the summer sun wrap you in its warm embrace.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Echo Falls"
@@ -298,7 +298,7 @@ const SUMMER_PHOTOS_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "SUMMER",
+    "campaign": "Summer",
     "caption": "Don’t forget, we can all make the world a better place and reduce plastic in the smallest of ways. When you shop at #TheMarketplace, bring your reusable tote bag or purchase one of our summer-themed totes upon checking out! Remember that small steps have the power to make a huge difference.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"

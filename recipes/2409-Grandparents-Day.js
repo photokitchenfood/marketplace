@@ -10,7 +10,7 @@ const GRANDPARENTS_DAY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "GRANDPARENTS DAY 2024",
+    "campaign": "Grandparents Day",
     "caption": "In the mood for a meatless patty melt? Create the perfect meatless sandwich with unMeat Burger Patties, available at #TheMarketplace!\n\nWhile you’re at it, grab some sourdough and your favorite cheese, along with some red onions and bottled gherkins for extra zing. Cook your unMeat Burger Patties, slap them together with all the other ingredients, and voilà! No meat, no problem!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "unMeat"
@@ -35,7 +35,7 @@ const GRANDPARENTS_DAY_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "GRANDPARENTS DAY 2024",
+    "campaign": "Grandparents Day",
     "caption": "Name an item that each and every household must have: Cleene Cotton Balls!\n\nVersatile and made for many uses, Cleene Cotton Balls have been a trusted brand for generations thanks to its superior quality that’s strong, soft, and super-absorbent. Find it at #TheMarketplace, along with other daily hygiene essentials!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Cleene"
@@ -54,7 +54,7 @@ const GRANDPARENTS_DAY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "GRANDPARENTS DAY 2024",
+    "campaign": "Grandparents Day",
     "caption": "If you’re looking for a cholesterol-free bread option, look no further as Fuwa Fuwa Whole Wheat Bread comes health-filled and fiber-rich. And if you’re looking for a way to perk up your daily sandwiches, try your hand at this Greek Bruschetta that is chock-full of veggies such as tomatoes, cucumbers, and olives. Crumbled cheese and olive oil seal the deal! Find Fuwa Fuwa bread products, along with all the other ingredients that you need for this sandwich at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Fuwa Fuwa"
@@ -79,7 +79,7 @@ const GRANDPARENTS_DAY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "GRANDPARENTS DAY 2024",
+    "campaign": "Grandparents Day",
     "caption": "Have you ever tried roasting grapes? If not, then, well, you should.\n\nGrab a bunch of Sunnyphil Global Grapes at #TheMarketplace and be surprised at the mix of savory and sweet flavors that come bursting through. While grapes are great to have with your dessert, try them with this whipped feta dip that’s laced with Balsamic and EVOO for a scrumptious snack or starter!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Sunnyphil"

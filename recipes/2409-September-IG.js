@@ -10,7 +10,7 @@ const SEPTEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "SEP 2024 IG",
+    "campaign": "September IG",
     "caption": "Have a special dinner planned? Cancel that restaurant booking and prepare this Mediterranean Bacalao en Papillote at home instead!\n\nBuy some Pacific Bay Bacalao Loins from #TheMarketplace and cook this delicious fish dish with flavors reminiscent of the Mediterranean coastline. Simple, delicious, and pairs excellently with a crisp white wine, this is a recipe for a truly memorable evening.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Pacific Bay"
@@ -35,7 +35,7 @@ const SEPTEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "SEP 2024 IG",
+    "campaign": "September IG",
     "caption": "Combine the tropical and summer-y flavors of coconut and banana in a decadent tres leches with this delicious homemade dessert!\n\nNow that we are at the ber-months, get-togethers and reunions are aplenty, and this Banana Coconut Tres Leches recipe made with Monde Banana Bars will please all palates in the room. Not only are these Monde Banana Bars great building blocks for desserts, but they are also excellent sweet snacks to have in your bag. Find them along with other Monde products at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Monde"
@@ -60,7 +60,7 @@ const SEPTEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "SEP 2024 IG",
+    "campaign": "September IG",
     "caption": "Can’t decide between Cookies & Cream and Black Forest? Why not combine both and craft this sinful milkshake made with Crunch Cookies & Cream Ice Cream Sticks?\n\nIt may seem like too much, but the combination of chocolate, cherries, vanilla, and cookies sounds nothing but luscious if you ask us. Have it kid-friendly or make a mature version with a whisper of Kirsch! Find all the ingredients you need to whip up this magical milkshake at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Crunch"
@@ -85,7 +85,7 @@ const SEPTEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "SEP 2024 IG",
+    "campaign": "September IG",
     "caption": "Amp up your hotdog game by using Snake River Farms Wagyu Frankfurters and topping them with onions cooked in the way of French Onion Soup. This means caramelizing red and white onions with some beef broth until they are browned well.\n\nSince the natural sugars of the onions are released, biting into them with the savory frankfurters will definitely be a divine experience. This onion hack is so good, it’s life-changing. Snake River Farms Wagyu Frankfurters are available at #TheMarketplace, along with other Snake River Farms meat products. Head over now and enjoy shopping!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Snake River Farms"
@@ -110,7 +110,7 @@ const SEPTEMBER_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SEP 2024 IG",
+    "campaign": "September IG",
     "caption": "Say goodbye to flies, bugs, and pests! Baygon Multi-Insect Killer keeps your home free from unwelcome guests. Its water-based formula guarantees 100% knockdown and is safe for indoor plants when used as directed. Find it at #TheMarketplace, along with other essentials to keep your home bug- and pest-free.\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Baygon"
@@ -129,7 +129,7 @@ const SEPTEMBER_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SEP 2024 IG",
+    "campaign": "September IG",
     "caption": "Ensure that your home's rid of roaches, especially during these next few months, when lots of parties and cooking will ensue. Available at #TheMarketplace, Baygon Roach Killers lure cockroaches to the bait, taking care of their nests along the way. In just a week, you'll notice a big difference, and each bait lasts up to three months. Don’t forget to pick some up on your next grocery trip!\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Baygon"
@@ -148,7 +148,7 @@ const SEPTEMBER_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "SEP 2024 IG",
+    "campaign": "September IG",
     "caption": "Always from farm-to-table, always keep your fridge stocked with Holly’s Whole Fresh Milk. Available at #TheMarketplace, Holly’s Whole Fresh Milk is the farm-fresh goodness you and your family deserve. Pasteurized for purity and straight from the farm, it’s rich, creamy, and free from preservatives — perfect for your daily dose of wholesome nutrition. Available in chocolate, too!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Holly's"

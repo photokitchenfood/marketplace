@@ -10,7 +10,7 @@ const TMP_ANNIVERSARY_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "TMP ANNIVERSARY",
+    "campaign": "TMP Anniversary",
     "caption": "Hear that signature crack? That’s Magnum Classic: thick Belgian chocolate on the outside, luxuriously creamy vanilla ice cream inside. Pure pleasure on a stick. 🍫\n\nKeep a box in the freezer for dessert emergencies, solo treats or effortless “wow” moments with guests. Stock up on Magnum Classic at The Marketplace and make every break a little more blissful. 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Magnum"
@@ -29,7 +29,7 @@ const TMP_ANNIVERSARY_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "TMP ANNIVERSARY",
+    "campaign": "TMP Anniversary",
     "caption": "Cookies & cream on a stick? Yes, please! 🍪🍦\n\nOreo Ice Cream Sticks pack creamy vanilla ice cream, swirls of Oreo goodness and a crunchy cookie-studded shell for that perfect bite every time.\n\nThey’re the grab-and-go treat for snack o’clock, movie nights and instant dessert wins. Stock your freezer with Oreo Ice Cream Sticks from The Marketplace and keep the fun ready to serve. 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Oreo"
@@ -48,7 +48,7 @@ const TMP_ANNIVERSARY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "TMP ANNIVERSARY",
+    "campaign": "TMP Anniversary",
     "caption": "Turn your coffee break into a café treat with this Crème Brûlée Latte. ☕️✨\n\nWhip Elle & Vire Crème Excellence Whipping Cream (35% fat) with vanilla and brown sugar for a lush topping, pour it over iced espresso and warm milk, then torch a sprinkle of sugar until it cracks like classic crème brûlée.\n\nRich, creamy, caramel-kissed and made right at home for less than a coffee run. Pick up Elle & Vire Crème Excellence and your latte essentials at The Marketplace. 🍮🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Elle & Vire"
@@ -73,7 +73,7 @@ const TMP_ANNIVERSARY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "TMP ANNIVERSARY",
+    "campaign": "TMP Anniversary",
     "caption": "Meet your new craveable handheld: a Tonkatsu Rice Burger stacked with CDO Premium Tonkatsu. 🍔🍱\n\nCrisp cutlet, rice “buns” seared in sesame oil and brushed with soy, fresh lettuce and a drizzle of tonkatsu sauce — every bite is sweet, savory and satisfyingly crunchy. Ideal for lunch, dinner or late-night munchies. Grab CDO Premium Tonkatsu and the rest of your fixings at The Marketplace. 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "CDO"
@@ -98,7 +98,7 @@ const TMP_ANNIVERSARY_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "TMP ANNIVERSARY",
+    "campaign": "TMP Anniversary",
     "caption": "Open the washer to that fresh-from-the-line feeling with Downy Fabric Conditioner in Sunrise Fresh. 🌼✨\n\nIts 24-hour perfume microcapsules leave clothes softly scented with bright, floral notes that last from closet to commute. Downy also helps reduce wrinkles and static, keeps fabrics soft and makes ironing easier — aka less effort, more comfort. Make it your laundry essential and pick up Downy Sunrise Fresh at The Marketplace. 🧺🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Downy"
@@ -117,7 +117,7 @@ const TMP_ANNIVERSARY_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "TMP ANNIVERSARY",
+    "campaign": "TMP Anniversary",
     "caption": "Spills happen, so be ready with Meadows Multipurpose Kitchen Towels. 🧽✨\n\nExtra-absorbent and tear-resistant, they mop up splashes, grease and damp dishes fast. Food-grade compliant and made from 100% virgin wood pulp, they’re safe for blotting fried food, drying produce, lining containers or covering bowls in the microwave. Stock up and make cleanup effortless. Find Meadows Multipurpose Kitchen Towels at The Marketplace. 🛒🏠\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Meadows"
@@ -136,7 +136,7 @@ const TMP_ANNIVERSARY_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "TMP ANNIVERSARY",
+    "campaign": "TMP Anniversary",
     "caption": "Press, breathe, and let the room reset. 💜\n\nGlade Air Freshener in Wild Lavender fills your space with calming floral notes in seconds, thanks to its 5-in-1 formula that fights odors, freshens fast and leaves a long-lasting scent. Perfect for bathrooms, bedrooms, closets and post-cooking cleanups, it’s an everyday essential for a fresher home. Stock up on Glade Wild Lavender at The Marketplace. 🏠✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Glade"

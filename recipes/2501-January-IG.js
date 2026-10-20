@@ -10,7 +10,7 @@ const JANUARY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "JANUARY IG",
+    "campaign": "January IG",
     "caption": "This Roti Shawarma Pizza is a delicious, easy way to bring the vibrant flavors of the Middle East to your table.\n\nPicture this: soft, pillowy Kawan Roti Boom, perfectly crisped and topped with spiced ground meat, fresh cucumber, juicy tomatoes, aromatic cilantro, and a rich garlic sauce. It’s the ultimate comfort food with a delightful twist. Ready to create this masterpiece? Head to The Marketplace to grab your Kawan Roti Boom and all the ingredients you need for this irresistible dish!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Kawan"
@@ -35,7 +35,7 @@ const JANUARY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "JANUARY IG IG",
+    "campaign": "January IG",
     "caption": "Why settle for ordinary onion rings when you can transform them into a show-stopping appetizer?\n\nThese Loaded Onion Rings start with the golden crunch of Simplot Formed Crumbed Onion Rings, perfectly crisp once fried. Top them with a velvety cheese sauce, a dollop of sour cream, smoky bacon bits, and a sprinkle of red onions and spring onions for a bold bite that’s irresistibly scrumptious.\n\nHead over to The Marketplace and grab everything you need to make these delicious onion rings. Let’s get cooking!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Simplot"

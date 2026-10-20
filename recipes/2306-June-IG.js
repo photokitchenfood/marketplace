@@ -10,7 +10,7 @@ const JUNE_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "JUNE IG & FB",
+    "campaign": "June IG",
     "caption": "Turn your favorite dessert into a probiotic-packed treat with Dutchmill Delight!\n\nMango sago with chunks of peach is the perfect mash-up between the popular Asian dessert and the famed fast-food pie. Just prepare your sago in advance, blend some ripe and juicy mangoes and peaches together, add a bottle of Dutchmill Delight, and a swirl of condensed milk for sweetness.\n\nLook no further — all the ingredients you need for this refreshing and healthful drink are available at #TheMarketplace!\n\nServing Time: 5 minutes\nYield: 4 servings\n\nIngredients\n\n1 bottle (400ml) Dutchmill Delight\n1 cup ripe mango chunks, divided\n1 cup peach chunks, divided\n1 cup small tapioca pearls, cooked\nCondensed milk to taste\n\nProcedure\n\n1. In a blender, add Dutchmill Delight, half of the peach and mango chunks, and condensed milk. Blend until smooth.\n2. Transfer to a pitcher with tapioca pearls and the remaining peach and mango chunks. Stir and serve well-chilled.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Dutchmill"
@@ -35,7 +35,7 @@ const JUNE_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "JUNE IG & FB",
+    "campaign": "June IG",
     "caption": "Make this toasty and sweet S’mores Iced Coffee at home using Nescafé Gold Blend Medium Roast!\n\nNow, you don’t have to build a campfire to enjoy this comforting treat. Especially with this hot weather, this coffee-based treat hits the spot with the familiar flavor of s’mores boosted with a caffeinated kick.\n\nGrab all the ingredients you need for this recipe at #TheMarketplace!\n\nServing Time: 2 minutes\nYield: 1 glass\n\nIngredients\n\n2 tsps. Nescafé Gold Blend Medium Roast\n1 tsp. brown sugar\n1 tbsp. hot water\n½ cup fresh milk\n1 cup ice\nGraham crackers, toasted marshmallows, and chocolate syrup to garnish\n\nProcedure\n\n1. Stir Nescafé Gold Blend Medium Roast and brown sugar in hot water until dissolved. If desired, mix with a frother.\n2. Drizzle chocolate syrup into a tall serving glass. Add ice, milk, and the frothed coffee. Top with graham crackers, toasted marshmallows, and extra chocolate syrup.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nescafé"
@@ -60,7 +60,7 @@ const JUNE_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "JUNE IG & FB",
+    "campaign": "June IG",
     "caption": "Practical, effective, and provides up to 30 nights of protection against mosquitoes, Baygon Liquid Repeller Starter is equipped with an electric diffuser, as well as an in-use light.\n\nWith rapid efficacy, have one plugged in every room to protect yourself and your family from insects throughout the night and sleep peacefully. Grab a few at #TheMarketplace on your next visit!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Baygon"
@@ -79,7 +79,7 @@ const JUNE_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "JUNE IG & FB",
+    "campaign": "June IG",
     "caption": "Encourage your toddler to discover the world without having to worry about leaks and discomfort with Pampers Toddler Pants!\n\nProviding a lightweight, comfortable feeling, each diaper offers quick and immediate absorption, leaving your child’s skin feeling smooth for up to 12 hours. Flexibility-wise, each diaper stretches easily and conforms to the body even with constant movement. Stock up now at #TheMarketplace, along with other essentials for your little one!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Pampers"
@@ -98,7 +98,7 @@ const JUNE_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "JUNE IG & FB",
+    "campaign": "June IG",
     "caption": "Long day at work and no time to cook? Find these packs of Kitchen City Signature Beef Caldereta at #TheMarketplace, and store them in the freezer for those days when you need a ready-to-eat home-cooked meal. Just heat up and enjoy!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Kitchen City"
@@ -117,7 +117,7 @@ const JUNE_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "JUNE IG & FB",
+    "campaign": "June IG",
     "caption": "Made from a unique blend of 100% virgin fibers, Kleenex Unscented Facial Tissues provide ultimate softness and velvety smoothness in every sheet.\n\nSoothing to the most delicate of skins yet sturdy enough to handle all your wiping needs, Kleenex’s ultra softness and thickness makes it the number one facial tissue brand. Don’t forget to pick some boxes up at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Kleenex"
@@ -136,7 +136,7 @@ const JUNE_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "JUNE IG & FB ADDENDUM",
+    "campaign": "June IG",
     "caption": "Turn the classic combination of strawberries and yogurt into a baked treat with this recipe for Strawberry Yogurt Muffins, made with none other than Arla Natural Strawberry Yogurt.\n\nBake a batch and keep the rest for when you’re craving a berry-packed pick-me-up to keep you satiated during the day. Head over to the #TheMarketplace and find all the ingredients you need for these tasty bakes.\n\nServing Time: 35 minutes\nYield: 10-12 pieces\n\nIngredients\n\n2 cups flour\n¼ cup rolled oats\n½ tbsp. baking powder\n½ tsp. salt\n½ cup butter, softened\n1 cup sugar\n2 eggs\n½ cup Arla Natural Strawberry Yogurt\n1 tsp. vanilla extract\n1¾ cups strawberry, diced\n\nProcedure\n\n1. Preheat oven to 175°C. \n2. In a large bowl, combine flour, oats, baking powder and salt. \n3. Beat together butter and sugar until light and fluffy. Beat in eggs, Arla Natural Strawberry Yogurt and vanilla extract. Fold in strawberries. \n4. Line a muffin pan, and fill each ¾ full with batter.\n5. Bake for 20-25 minutes, or until a cake tester inserted in the middle comes out clean.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Arla"
@@ -161,7 +161,7 @@ const JUNE_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "JUNE IG & FB ADDENDUM",
+    "campaign": "June IG",
     "caption": "Mornings can’t get any better with this Custard Yogurt Toast made with Arla Natural Strawberry Yogurt. Imagine a toad-in-a-hole, but instead of eggs, you have a silky-smooth custard that’s bursting with berry flavors. #TheMarketplace has all the ingredients that you need for this recipe, so what are you waiting for? Head over now!\n\nServing Time: 8 minutes\nYield: 3 servings\n\nIngredients\n\n3 tbsps. Arla Natural Strawberry Yogurt\n1 egg\n¼ tsp. lemon zest\n2 tbsps. honey\n3 slices bread\n⅓ cup blueberries\n¼ cup strawberries, sliced\n3 tbsps. powdered sugar\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. In a small bowl, combine Arla Natural Strawberry Yogurt, egg, lemon zest, and honey. Set aside.\n3. Flatten the center part of the bread using a spoon, then top each with 2 tbsps. of the yogurt custard filling.\n4. Toast for 4-5 minute, or until the custard is set, and the bread is golden brown.\n5. Top with blueberries and strawberries. Dust with powdered sugar.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Arla"

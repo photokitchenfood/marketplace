@@ -10,7 +10,7 @@ const CHRISTMAS_PHOTOS_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "CHRISTMAS",
+    "campaign": "Christmas",
     "caption": "A home filled with fresh lemon scent feels irresistibly crisp, especially as the holiday bustle begins. Glade Lemon Scented Gel brings that clean, invigorating burst — like squeezing a bowl of fresh lemons, but without the effort.\n\nAs guests come and go when they visit your home, you want a fragrance that’s light yet warm. Lemon quietly brightens every corner, like morning sun on a chilly day, and lingers in those calm moments, bringing a refreshing lift for the season.\n\nWith Glade products, you’re welcoming brightness — a little burst of joy, even when days grow short. Head over to The Marketplace and shop now.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Glade"
@@ -29,7 +29,7 @@ const CHRISTMAS_PHOTOS_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "CHRISTMAS",
+    "campaign": "Christmas",
     "caption": "Slip into sheets that smell like a morning breeze or pull on a thicker shirt that’s infused with the warmth of spring. Downy Sunrise Fresh Fabric Conditioner is the touch of holiday comfort that we need.\n\nAs the season’s chaos fades, open a closet filled with fresh, inviting scents. Every towel, blanket, and garment carries that calming hint of sunrise. With Downy, bring cozy warmth and irresistible softness home this holiday. Find it at The Marketplace, along with other laundry essentials.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Downy"
@@ -48,7 +48,7 @@ const CHRISTMAS_PHOTOS_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "CHRISTMAS",
+    "campaign": "Christmas",
     "caption": "With the holidays ringing in bustling kitchens and joyful messes, a good ole roll of Sanicare Jumbo Kitchen Towel is your trusty sidekick — generous in size, super absorbent, and ready for any spill. Reliable for every culinary adventure, it lets you enjoy the festivities to the fullest, mess and all. Head over to The Marketplace and stock up now!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Sanicare"
@@ -67,7 +67,7 @@ const CHRISTMAS_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "CHRISTMAS",
+    "campaign": "Christmas",
     "caption": "For a holiday treat that captures the season in every bite, create this Christmas Cookie Dough Sundae with Selecta Choco Chip Cookie Dough Ice Cream! Add jewel-toned cranberries, zesty oranges, and a crunch of almonds for bite. Drizzle with warm chocolate fudge, letting it melt into the creamy ice cream and mingle with the festive flavors, and then sprinkle with some walnuts.\n\nEvery bite is a surprise of textures and flavors, like Christmas morning on a spoon. It’s indulgent, a little playful, and absolutely irresistible. All the ingredients for this magical Christmas sundae are available at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Selecta"
@@ -92,7 +92,7 @@ const CHRISTMAS_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "CHRISTMAS",
+    "campaign": "Christmas",
     "caption": "This Brown Butter Sage Gnocchi is a simple yet satisfying dish made with just Lurpak Unsalted Butter, fresh sage, gnocchi, salt, and pepper. It’s the kind of comforting meal that feels special, like something from a cozy restaurant.\n\nThe key is in the brown butter, which becomes rich and nutty as it melts, complementing the gnocchi. The sage, crisped in the butter, adds an aromatic depth to each bite.\n\nIn under half an hour, you can savor a luxurious meal that requires no fancy technique — perfect for a quick yet magical holiday dinner. Find all the items that you need for this recipe at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Lurpak"
@@ -117,7 +117,7 @@ const CHRISTMAS_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "CHRISTMAS",
+    "campaign": "Christmas",
     "caption": "The holidays are the perfect time to bring a little whimsy to your table, and what better way to do that than with a festive Holiday Butter Board?\n\nUsing Anchor Salted Butter as your base, you can create something truly delightful. Spread the rich, creamy butter out to form a charming Christmas tree shape, then decorate it with a sprinkling of crunchy pistachios, drizzles of golden honey, fragrant rosemary, and a touch of bright orange zest.\n\nIt's not only a treat for the taste buds, but also a stunning centerpiece for dinners and gatherings. Imagine the smiles when they see this beautifully simple, yet oh-so-cute, addition to your spread. It's a little touch of holiday magic, served with love. Find all the items you need to prepare this Holiday Butter Board at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Anchor"
@@ -142,7 +142,7 @@ const CHRISTMAS_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "CHRISTMAS",
+    "campaign": "Christmas",
     "caption": "Crafting these Chocolate Christmas Pops is a simple, joyful way to bring a little extra magic to the holidays, especially when shared with little hands that are eager to help.\n\nMelted Meadows Gold Himalayan Salt Chocolate serves as the perfect base. Swirl it into tree shapes atop pretzel sticks on parchment paper, and then add holiday sprinkles. This fun activity fills your kitchen with cheer and creates delightful pops that add both flavor and joy to any festive table. Head over to The Marketplace and gather all the ingredients that you need for this treat!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Meadows Gold"
@@ -167,7 +167,7 @@ const CHRISTMAS_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "CHRISTMAS",
+    "campaign": "Christmas",
     "caption": "This Wreath Steak Salad is the kind of dish that makes a gathering feel extra special.\n\nThe rich, tender slices of Greater Omaha Choice Ribeye Steak are the star, perfectly complemented by the sweet bursts of apricots and the crunch of toasted walnuts. Nestled on a bed of mixed greens and finished with a generous sprinkle of Parmesan, it’s a salad that’s not only beautiful but incredibly delicious.\n\nArranged in a wreath shape, it’s both a decorative dish and a delicious starter — ideal for any gathering, sparking conversation and appetites alike. Grab all the ingredients that you need for this simple yet satisfying salad at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Greater Omaha"
@@ -192,7 +192,7 @@ const CHRISTMAS_PHOTOS_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "CHRISTMAS",
+    "campaign": "Christmas",
     "caption": "The holidays are all about cozy treats with a touch of elegance.\n\nHence, head over to The Marketplace and grab a tub of Selecta Supreme Choco Chip Cookie Dough. It’s creamy, rich, and packed with nostalgic chocolate chips — a taste of homemade magic without the hassle.\n\nThen, for a refined moment, add to your cart some bars of Meadows Gold 50% Himalayan Salt Chocolate, which offer dark, silky chocolate balanced with a dash of saltiness. It’s a luxurious indulgence that’s perfect for sharing.\n\nThese treats add loads of delicious ease to the season — just what the holidays call for.\n\nProducts: \nSELECTA SUPREME CHOCO CHIP COOKIE DOUGH \nMEADOWS GOLD 50% HIMALAYAN SALT CHOC\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Selecta",

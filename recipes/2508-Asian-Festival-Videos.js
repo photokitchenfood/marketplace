@@ -10,7 +10,7 @@ const ASIAN_FESTIVAL_VIDEOS_DATA = [
     "category": "EAP",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "ASIAN FESTIVAL",
+    "campaign": "Asian Festival",
     "caption": "Turn your pantry staples into something exciting with this recipe for Tuna Ramyun Jeon! 🥢\n\nMade using San Marino Corned Tuna and Paldo Bibimyeon, this crispy Korean-inspired pancake is packed with savory depth from kimchi, garlic, and soy, then balanced with chewy noodles for a playful twist. \n\nDip it into a tangy-sweet sauce and pair with an iced UCC Hojicha Instant Latte for a smoky, roasted note that complements every bite. 🍵\n\nGrab all the essentials at The Marketplace and whip up this creative Korean concoction at home! ✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "San Marino",
@@ -37,7 +37,7 @@ const ASIAN_FESTIVAL_VIDEOS_DATA = [
     "category": "EAP",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "ASIAN FESTIVAL",
+    "campaign": "Asian Festival",
     "caption": "Give your snack time a bold makeover with these Ramen-Crusted Luncheon Meat Corn Dogs! 🌭🍜\n\nMade using Royal Smokehouse Chicken Luncheon Meat wrapped in gooey mozzarella, then coated in crushed Hana Dried Pollock Ramen and fried to crisp perfection, this playful creation combines comfort food with a crunchy noodle twist. A drizzle of mustard and ketchup adds tang and sweetness, while a chilled glass of Welch’s Grape Soda ties it all together for the ultimate treat. Pick up everything you need at The Marketplace! 😋\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Royal Smokehouse",

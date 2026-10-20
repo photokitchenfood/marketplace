@@ -10,7 +10,7 @@ const ASIAN_FESTIVAL_VIDEOS_DATA = [
     "category": "EAP",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "ASIAN FESTIVAL",
+    "campaign": "Asian Festival",
     "caption": "Ever heard of Gimmari?\n\nThey’re popular snacks sold by street vendors in Korea, and they’re essentially seaweed rolls stuffed with noodles. Served together with some sweet and spicy tteokbokki, these crunchy noodle rolls are crispy, tasty, and addictive.\n\nToday’s recipe is an over-the-top indulgent and delicious version of gimmari. For the noodles, we’re using Ottogi Cheese Ramen, and for some extra goodness, we’re adding some luncheon meat and mozzarella, too. Can you taste it already? We hope you’re getting hungry! Head over to #TheMarketplace pronto and grab all the items that you need for your homemade Cheese Ramen Gimmari. Enjoy!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Ottogi"

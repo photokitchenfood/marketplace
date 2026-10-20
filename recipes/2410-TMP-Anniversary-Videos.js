@@ -10,7 +10,7 @@ const TMP_ANNIVERSARY_VIDEOS_DATA = [
     "category": "EAP",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "TMP ANNIVERSARY - EAP",
+    "campaign": "TMP Anniversary",
     "caption": "Sink your teeth into a pie that’s bursting with the deep, jammy sweetness of blueberries, balanced perfectly by the bright, tropical zing of kiwi and lime.\n\nThe secret? Emborg Blueberries — plump, juicy, and packed with flavor, even out of season. They’re the perfect partner to Golden Kiwis, with their delicate sweetness and subtle citrus notes. Together with the refreshing tartness of lime, they create a filling that’s both luscious and refreshingly light, nestled inside a buttery, flaky crust.\n\nWhether you're a seasoned baker or a beginner, this Blueberry-Kiwi Lime Pie is your chance to bake something extraordinary, right at home. Head over to The Marketplace and find all the ingredients that you need!\n\nFeatured SKU:\nKiwi gold pc\nEmborg Blueberries\n\nJoin our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Emborg",
@@ -36,7 +36,7 @@ const TMP_ANNIVERSARY_VIDEOS_DATA = [
     "category": "EAP",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "TMP ANNIVERSARY - EAP",
+    "campaign": "TMP Anniversary",
     "caption": "Ever tried pairing a tender, marbled Aussie Delmonico Steak with a deeply flavored squash purée? Well, you should!\n\nThe beef comes from Australia, where cattle graze on pristine pastures, and each bite promises depth of flavor, beautifully balanced between richness and earthiness. But here’s the magic: instead of pairing this steak with the usual suspects, think velvety squash purée, scented and spiked with heat from Gochujang, five-spice powder, and sweetened with maple syrup. It’s the perfect foil to the robust, juicy steak.\n\nThere’s something primal about a good slab of meat, but this dish elevates it — turning a hearty meal into a sensual, surprising experience. Try it for the holidays and get all the ingredients that you need from The Marketplace!\n\nFeatured SKU:\nSquash \nAussie Delmonico Steak \n\nJoin our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -61,7 +61,7 @@ const TMP_ANNIVERSARY_VIDEOS_DATA = [
     "category": "EAP",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "TMP ANNIVERSARY - EAP",
+    "campaign": "TMP Anniversary",
     "caption": "When it comes to turning holiday leftovers into something truly spectacular — or if you’re simply craving a mouthwatering steak sandwich — this Mushroom Swiss Steak Sandwich is the kind of comfort food that will make you wonder why you ever settled for a simple plate of steak. Just follow a few simple steps, get some ingredients from your pantry or head to The Marketplace, and you'll transform some Greater Omaha Choice Ribeye Steak into a one masterpiece of a meal\n\nLayer Swiss cheese on the bottom of a ciabatta roll, letting it melt into the warm bread. Add slices of the tender ribeye, then top with caramelized onions, and a rich cream sauce made with Bunashimeji Mushrooms. Finish with the top ciabatta for a quick, comforting sandwich that reimagines the best of your holiday feast — or a simple holiday treat for yourself.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Greater Omaha",

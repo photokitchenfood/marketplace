@@ -10,7 +10,7 @@ const ASIAN_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "ASIAN FESTIVAL",
+    "campaign": "Asian Festival",
     "caption": "When it comes to luncheon meat, there are a lot of contenders in the market, but one that definitely stands out is MaLing, which is known as the “Asian Spam” and is laced with many childhood memories.\n\nToday we decided to give the well-loved MaLing an indulgent touch in this recipe for MaLing Macaroni & Cheese. From the name alone, you know you can’t go wrong with a dish like this. For added crunch, top with some toasted breadcrumbs and sprinkle with parsley to garnish. Find your favorite canned goods, including MaLing and other luncheon meat brands, at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 4-6 servings\nOptional: Top with toasted breadcrumbs and chopped parsley.\n\nIngredients\n\n2 tbsps. vegetable oil\n1 can MaLing, cubed \n3 tbsps. butter \n1 white onion, diced \n3 cloves garlic, minced \n2 tbsps. flour \n1 cup milk \n1 cup cream \n½ tsp. mustard powder \n½ cup cheddar cheese, grated \n¼ cup mozzarella cheese, grated\n¼ cup parmesan cheese, grated \nSalt and pepper to taste\n500g macaroni noodles, cooked according to package instructions\n\nProcedure\n\n1. Heat up a large pan over medium heat, then add in oil. Fry MaLing cubes until nicely browned on all sides. Set aside MaLing while retaining oil in the pan. \n2. Add in butter, then sauté onion and garlic until soft. Add flour and cook for 1-2 minutes, or until lightly browned. \n3. Slowly whisk in milk, cream and mustard powder. Add the cheeses, then season with salt and pepper. \n4. Mix in macaroni noodles and half of the MaLing cubes. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Spam",
@@ -36,7 +36,7 @@ const ASIAN_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "ASIAN FESTIVAL",
+    "campaign": "Asian Festival",
     "caption": "Thanks to cult favorite Korean movie Parasite, we all get a craving for Ram-Don every once in a while. In the movie, Nongshim’s Chapagetti is used, and a fun fact about the black bean flavored noodle brand is that it’s the second highest-selling instant noodles in South Korea, with the first being Shin Ramyun.\n\nIn this recipe, we add our own twist to Ram-Don with the inclusion of bell peppers, and of course, some sirloin cubes that automatically elevate the popular instant noodles. Get your bags of Nongshim Chapagetti, and all the other ingredients you need for this recipe at #TheMarketplace!\n\nServing Time: 12 minutes\nYield: 2-3 servings\n\nIngredients\n\n200g beef sirloin cubes \n3 tbsps. soy sauce \n1 tbsp. mirin \n½ tsp. ground pepper \n2 tbsps. olive oil\n¼ cup red bell peppers\n¼ cup yellow bell peppers\nSalt and pepper to taste\n2 packs Nongshim Chapagetti, cooked according to package instructions  \n½ cup leeks, chopped\n2 tbsps. sesame seeds, toasted\n\nProcedure\n\n1. Marinate beef sirloin cubes with soy sauce, mirin and pepper for 15 minutes. \n2. Heat up a pan over medium-high heat, then add in olive oil. Sear beef cubes until nicely browned on all sides, about 5 minutes. Set aside beef while retaining oil in the pan. \n3. Using the same pan, sauté bell peppers until soft. Season with salt and pepper. \n4. Top Nongshim Chapagetti with beef cubes and bell peppers. Garnish with leeks and sesame seeds. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nongshim"
@@ -61,7 +61,7 @@ const ASIAN_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "ASIAN FESTIVAL",
+    "campaign": "Asian Festival",
     "caption": "We just love the versatility of canned corned beef, and in this recipe, we’ll show you how to make Corned Beef Quesadillas with using Highlands Gold Corned Beef.\n\nSimple and satisfying, these quesadillas are perfect to prepare any time of the day. Serve with salsa on the side to add a burst of freshness in every bite. Head over to #TheMarketplace now, grab all the ingredients you need, and get cooking!\n\nServing Time: 20-25 minutes\nYield: 2 servings\n\nIngredients\n\n3 cans Highlands Gold Corned Beef \n2 tortilla wraps\n1½ cup mozzarella cheese\n¼ cup cilantro\n½ cup lime wedges\n\nProcedure\n\n1. Set a pan over medium heat. Add Highland Gold Corned Beef, and cook until liquid is reduced and corned beef is a bit toasted.\n2. To assemble, add an even layer of mozzarella cheese on a tortilla wrap. Add corned beef top, another layer of cheese and cover with another tortilla wrap.\n3. Place the quesadilla in a pan over medium-high heat, and toast until tortillas are golden and cheese is melted. Cut into 6 triangles.\n4. Serve alongside tomato salsa and lime wedges.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Highlands Gold"
@@ -86,7 +86,7 @@ const ASIAN_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "ASIAN FESTIVAL",
+    "campaign": "Asian Festival",
     "caption": "What’s not to love about Garlic Sesame Noodles? The epitome of Asian flavors, this dish is a breeze to prepare and is filled with umami. Perfect for those lazy days or if you’re craving some comfort food to indulge in as you unwind.\n\nMade with Enso Sesame Oil, which is potent enough to provide these noodles with the nutty goodness and aroma of roasted sesame, the aromatics in this dish punctuate each bite with layers of flavor. Get all the ingredients you need at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 2 servings\n\nIngredients\n\n2 tbsps. soy sauce\n2 tbsps. sugar\n1 tbsp. rice vinegar\n2 tbsps. oyster sauce\n3 tbsps. Enso Sesame Oil\n200g egg noodles\n1 tbsp. olive oil\n4 tbsps. garlic minced\n3 tbsps. toasted sesame seeds\n½ cup leeks, sliced\n\nProcedure\n\n1. In a bowl, combine soy sauce, sugar, rice vinegar, oyster sauce and Enso Sesame Oil. \n2. Boil water and cook egg noodles according to package instructions. Drain then set aside.\n3. Set pan over medium heat, then add olive oil and sauté garlic until lightly browned. Add sesame sauce and simmer for 2 minutes. Add in cooked noodles and mix until well coated.\n4. Top with toasted sesame seed and sliced leeks.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Enso"

@@ -7,7 +7,7 @@ const SUMMER_CAMPAIGN_DATA = [
     "layoutCode": "SC1",
     "layoutName": "Ube Matcha Latte Float",
     "category": "RECIPE",
-    "campaign": "SUMMER CAMPAIGN",
+    "campaign": "Summer Campaign",
     "caption": "A little swirl of green and a little scoop of purple, this ube matcha latte float layers earthy matcha, creamy milk and sweet ube halaya, finished with a scoop of Arce Sugar Free Ube Lite for that smooth, lightly indulgent finish. 🍵💜\n\nMade as a lighter option, it lets you enjoy that familiar ube richness with less sugar — without losing the flavor you’re here for. Cool, balanced, and just the right kind of treat, get everything you need at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Arce"
@@ -30,7 +30,7 @@ const SUMMER_CAMPAIGN_DATA = [
     "layoutCode": "SC3",
     "layoutName": "Choco Almond Crepe",
     "category": "RECIPE",
-    "campaign": "SUMMER CAMPAIGN",
+    "campaign": "Summer Campaign",
     "caption": "Imagine soft, golden layers folded warm, finished with toasted almonds and a generous drizzle of chocolate — then topped with scoops of Selecta Choco Almond Fudge. Rich chocolate ice cream meets crunchy almond bits and fudge swirls, adding texture and depth to every bite of this Choco Almond Crêpe. 🍫\n\nIndulge today and find everything you need at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Selecta"
@@ -53,7 +53,7 @@ const SUMMER_CAMPAIGN_DATA = [
     "layoutCode": "SC4",
     "layoutName": "Ariel Sunrise Fresh Refill",
     "category": "NON-FOOD",
-    "campaign": "SUMMER CAMPAIGN",
+    "campaign": "Summer Campaign",
     "caption": "Laundry, but with a brighter finish, Ariel Sunrise Fresh Power Liquid lifts away everyday stains while leaving clothes with a light, clean scent that feels crisp and just-washed. The formula works deep into fibers for a thorough clean, and the refill pack makes it easy to top up while cutting down on plastic. 🌅\n\nIt’s a simple switch for fresher mornings — find it at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Ariel"
@@ -70,7 +70,7 @@ const SUMMER_CAMPAIGN_DATA = [
     "layoutCode": "SC5",
     "layoutName": "Fruit Cocktail Cake",
     "category": "RECIPE",
-    "campaign": "SUMMER CAMPAIGN",
+    "campaign": "Summer Campaign",
     "caption": "A familiar favorite, reworked into something a little more sophisticated! 🍒\n\nThis fruit cocktail cake makes use of Meadows Tropical Fruit Cocktail, baked into a soft, golden crumb with a jammy layer of peaches, pineapple and cherries tucked underneath. It’s a reminder of how versatile canned fruit can be, moving easily from an everyday snack to a dessert that feels considered and just a touch nostalgic.\n\nFinished with whipped cream and bright cherries on top, it’s simple, unfussy and definitely impressive. Pick up a can and try it for yourself! Find Meadows Tropical Fruit Cocktail at The Marketplace. 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Meadows"
@@ -93,7 +93,7 @@ const SUMMER_CAMPAIGN_DATA = [
     "layoutCode": "SC6",
     "layoutName": "Sweetcorn Fritters",
     "category": "RECIPE",
-    "campaign": "SUMMER CAMPAIGN",
+    "campaign": "Summer Campaign",
     "caption": "Golden, crisp and addictive, these sweet corn fritters come together with Waitrose Essential Sweet Corn: plump, naturally sweet kernels that hold their bite and bring just the right texture to every pan-fried round. 🌽\n\nServe warm with a dip on the side, and you’ve got something worth repeating. Pick up a can of Waitrose Essential Sweet Corn at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Waitrose"
@@ -116,7 +116,7 @@ const SUMMER_CAMPAIGN_DATA = [
     "layoutCode": "SC7",
     "layoutName": "Strawberry Sago",
     "category": "RECIPE",
-    "campaign": "SUMMER CAMPAIGN",
+    "campaign": "Summer Campaign",
     "caption": "When strawberries are in season, you can definitely taste the difference and make the best recipes with them. 🍓🍓🍓\n\nThis strawberry sago highlights that peak sweetness: juicy, sun-ripened berries layered with soft sago pearls, milk jelly and nata de coco for a mix of textures in every spoonful. It’s light, refreshing, and exactly the kind of dessert that works when the fruit is this good.\n\nPick up your strawberries at their best and give it a try! Everything you need is at The Marketplace. 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -139,7 +139,7 @@ const SUMMER_CAMPAIGN_DATA = [
     "layoutCode": "SC8",
     "layoutName": "Beef Soba Noodles",
     "category": "RECIPE",
-    "campaign": "SUMMER CAMPAIGN",
+    "campaign": "Summer Campaign",
     "caption": "A bowl that balances comfort and craft, these beef soba noodles come together with slices of Margaret River Wagyu Topside Steak — known for its consistent quality, gentle marbling and clean, beefy flavor. 🥩🍜\n\nIt’s a trusted name when it comes to steak, and here, it sears beautifully before being layered over noodles and vegetables, soaking up that savory, glossy sauce.\n\nSimple ingredients, done well, make all the difference. Find yours at The Marketplace. 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Margaret River"
@@ -162,7 +162,7 @@ const SUMMER_CAMPAIGN_DATA = [
     "layoutCode": "SC9",
     "layoutName": "Summer (Group Shot)",
     "category": "GROUP SHOT",
-    "campaign": "SUMMER CAMPAIGN",
+    "campaign": "Summer Campaign",
     "caption": "A small switch for a bigger impact! 🐋\n\nThis tote bag does more than carry your groceries; it supports a cause, helping spread awareness on protecting our sea cows, while cutting down on single-use waste.\n\nFind it the next time you’re at The Marketplace and fill it with everyday essentials that do their part, too: Ariel Power Liquid for a thorough clean with a fresh finish, pantry staples and snacks for easy meals, and quality picks like well-marbled steak and reliable wine to round things out.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Ariel"

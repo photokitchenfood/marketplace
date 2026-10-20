@@ -10,7 +10,7 @@ const FATHERS_DAY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "FATHERS DAY",
+    "campaign": "Fathers Day",
     "caption": "Have any Fathers’ Day plans lined up?\n\nWhy not treat your old man to a hearty and luxurious home-cooked dinner using Fugue de Nenin 2023 Pomerol in this recipe for Roasted Lamb with Red Wine Cherry Glaze.\n\nPrepare this opulent lamb dish for the family with a side of mashed potatoes to boot. Available at #TheMarketplace, Fugue de Nenin 2023 Pomerol is a full-bodied red wine with floral and cacao notes in every sip — it complements the lamb exquisitely, so make sure you have an extra bottle handy to drink and to not just cook with!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Fugue de Nenin"
@@ -35,7 +35,7 @@ const FATHERS_DAY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "FATHERS DAY",
+    "campaign": "Fathers Day",
     "caption": "There’s nothing like a barbecue party to celebrate Father’s Day with!\n\nThese BBQ Ribs, whether cooked on the grill or in the oven, are sure to be showstoppers because of the Wolf Blass Platinum Shiraz used in this recipe. Combined with other flavorful ingredients such ketchup, honey, and spices, the shiraz adds a touch of sweetness and depth to the ribs, while the alcohol component aids in tenderizing the meat. \n\nGo on, round up the troops and plan the best barbecue party for the best dad! All the ingredients for this recipe are available at #TheMarketplace.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Wolf Blass",

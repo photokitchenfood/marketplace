@@ -10,7 +10,7 @@ const JULY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "JULY IG & FB",
+    "campaign": "July IG",
     "caption": "Get the best of both Korean and Filipino (breakfast) worlds in this recipe for Beef Tapa Kimchi Fried Rice, made with Purefoods Sweet and Spicy Beef Tapa!\n\nIt’s the perfect tapa to use for this dish because the beef already comes marinated in a delicious sweet and spicy blend that’s perfect for kimchi. Always convenient to have in your fridge, find Purefoods Sweet and Spicy Beef Tapa, along with other ready-to-cook meats at #TheMarketplace!\n\nServing Time: 20 minutes\nYield: 2-3 servings\n\nIngredients\n3 tbsps. cooking oil \n1 (220g) pack Purefoods Sweet and Spicy Beef Tapa\n1 tbsp. garlic, minced\n2 tsps. ginger, grated \n¼ cup shiitake mushrooms, sliced\n1 cup kimchi, chopped  \n2 cups cooked rice\n2 tbsps. soy sauce \nSalt and pepper to taste \n2 tsps. sesame oil \n2 tsps. sesame seeds \n1 tbsp. spring onions, chopped\n1 egg yolk\n\nProcedure\n\n1. Heat up oil over medium heat. Add in Purefoods Sweet and Spicy Beef Tapa, and cook until nicely browned on both sides. Set aside while retaining oil in the pan. \n2. In the same pan, sauté garlic and ginger until soft and fragrant. Add in shiitake mushrooms and cook until lightly browned. Mix in kimchi and cooked rice. Season with soy sauce, salt and pepper. Toss together until well incorporated.\n3. Turn off heat, and mix in sesame oil, sesame seeds and spring onions.\n4. Serve hot and with an egg yolk. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Purefoods"
@@ -35,7 +35,7 @@ const JULY_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "JULY IG & FB",
+    "campaign": "July IG",
     "caption": "No sugar? No salt? No problem!\n\nThe all-new Skippy Creamy Peanut Butter comes in a variation of 0 sugar and 0 salt added, providing a guilt-free yet satisfying peanut butter experience. Head over to #TheMarketplace and shop Skippy products and other healthy spread alternatives.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Skippy"
@@ -54,7 +54,7 @@ const JULY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "JULY IG & FB",
+    "campaign": "July IG",
     "caption": "Always hearty and satisfying, make this Stir-Fried Tofu with Oyster Sauce part of your upcoming week’s menu. Made only with Mama Sita’s Oyster Sauce, you’re guaranteed to get that perfect balance of sweet and savory, which also enhances the flavors of the added aromatics.\n\nFind Mama Sita’s Oyster Sauce, along with a variety of other Mama Sita’s bottled products at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 2-3 servings\n\nIngredients\n\n¼ cup cooking oil \n3 blocks firm tofu, dried and sliced\n1 cup shiitake mushrooms, sliced \n1 tbsp. garlic, minced \n2 tbsps. leeks, white parts sliced \n½ cup frozen green peas\n2 tbsps. Mama Sita’s Oyster Sauce \n1 tbsp. soy sauce \n1 tbsp. shaoxing cooking wine\n2 tsps. brown sugar \n½ tsp. black pepper \n\nProcedure\n\n1. Heat up oil over medium heat. Fry tofu until crispy and nicely browned on all sides. Set aside tofu while retaining 2 tbsps. of oil in the pan. \n2. Sear shiitake mushrooms until lightly browned. Add in garlic and leeks, and sauté until soft and fragrant. Mix in green peas, and cook until warmed through. Add back fried tofu.\n3. Mix in Mama Sita’s Oyster Sauce, soy sauce, shaoxing cooking wine, sugar and pepper. Toss until everything is well coated with the sauce. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Mama Sita’s"
@@ -79,7 +79,7 @@ const JULY_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "JULY IG & FB",
+    "campaign": "July IG",
     "caption": "Considered a superfruit that nourishes the body with multiple benefits, Acai Berries are known to also address a variety of health concerns such as weight loss and skin appearance.\n\nThe Berry Company has bottled up all the goodness of Acai Berries from Brazil, for a delicious drink that contains a rich berry flavor and subtle hints of dark chocolate. Grab some today when you drop by #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "The Berry Company"
@@ -98,7 +98,7 @@ const JULY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "JULY IG & FB",
+    "campaign": "July IG",
     "caption": "If you’re craving meat but are not in the mood for a full-on meal, give these Luncheon Meat Fries made with Kelly’s Pork Luncheon Meat Iberico and Kelly’s Truffle Pork Ham a shot.\n\nDeep-fried to a crip and complemented with a punchy dip, this might just be your new favorite way to enjoy luncheon meat. Find Kelly’s products, along with all the other ingredients you need for this recipe at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 4-5 servings\n\nIngredients\n\n½ cup sour cream \n¼ tsp. garlic powder\n¼ tsp. onion powder \n1 tsp. parsley, chopped\n1 tsp. dill, chopped \nSalt and pepper to taste\n¼ cup mayonnaise \n2 tbsps. ketchup \n1 tsp. Worcestershire sauce\n2 tsps. pickle relish\n1 (200g) can Kelly’s Pork Luncheon Meat Iberico\n1 (200g) can Kelly’s Truffle Pork Ham \n2 celery stalks\n1 carrot \n3 tbsps. cooking oil\n\nProcedure\n\n1. To make the ranch dressing, combine sour cream, garlic powder, onion powder, parsley and dill. Season with salt and pepper. Chill until ready to use. \n2. To make the thousand island dressing, combine mayonnaise, ketchup, Worcestershire sauce and pickle relish. Season with salt and pepper. Chill until ready to use. \n3. Slice Kelly’s Pork Luncheon Meat Iberico, Kelly’s Truffle Pork Ham, celery and carrot into matchsticks. \n4. Heat up cooking oil over medium heat. Fry Kelly’s Pork Luncheon Meat Iberico and Kelly’s Truffle Pork Ham until nicely browned on all sides.\n5. Serve with celery sticks, carrot sticks, ranch dressing and thousand island dressing. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Kelly’s"
@@ -123,7 +123,7 @@ const JULY_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "JULY IG & FB",
+    "campaign": "July IG",
     "caption": "With supporting nutrients such as Choline, Iodine, and Iron, Alaska Fortified Milk Drink gives your little ones an extra dose of protection to keep them healthy and strong throughout the day. Start their mornings with a glass!\n\nFind Alaska, along with other fortified powdered milk drink brands, at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Alaska"
@@ -142,7 +142,7 @@ const JULY_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "JULY IG & FB",
+    "campaign": "July IG",
     "caption": "With oxygen bleach that gently cleans colored clothes, Zonrox is tough on stains, while remaining gentle on fabrics.\n\nHead over to #TheMarketplace and find Zonrox 6-in-1 Total Clean formula, which provides antibacterial protection, whitening, deodorizing, and a shortened cleaning time. It’s really all you need.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Zonrox"
@@ -161,7 +161,7 @@ const JULY_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "JULY IG & FB",
+    "campaign": "July IG",
     "caption": "Dentist-recommended Sensodyne not only repairs and protects, but it also provides relief, eases sensitive teeth, and reduces the recurrence of discomfort, too! \n\nFind the right Sensodyne that’s catered to your dental needs. Head over to #TheMarketplace and shop now!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Sensodyne"
@@ -180,7 +180,7 @@ const JULY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "JULY IG & FB",
+    "campaign": "July IG",
     "caption": "Add a citrusy twist to your fried chicken by leveling up Purefoods Crispy Chicken Karaage with some homemade orange sauce!\n\nDon’t let the name turn you off, this dish is really good, especially with lots of rice. Bursting with Asian flavors and with a zesty, tangy kick, this is guaranteed a number of repeats in your meal plan.\n\nHungry yet? Get all the ingredients you need for this dish at #TheMarketplace!\n\nServing Time: 20 minutes\nYield: 3-4 servings\n\nIngredients\n\nOil for deep frying\n1 (450g) pack Purefoods Crispy Chicken Karaage\n1 tbsp. sesame oil \n2 tsps. garlic, minced \n2 tsps. ginger, minced\n¼ cup vinegar \n⅓ cup orange juice \n2 tbsps. soy sauce \nSalt and pepper to taste\n1 tbsp. cornstarch slurry\n1 tsp. sesame seeds \n\nProcedure\n\n1. Preheat oil for deep frying. Once hot, deep fry Purefoods Crispy Chicken Karaage until golden brown and cooked through, about 6 minutes. Drain excess oil. \n2. In a saucepan, sauté garlic and ginger in sesame oil until soft and fragrant. Mix in vinegar, orange juice, and soy sauce. Season with salt and pepper to taste. Let boil for 1 minute. \n3. Mix in cornstarch slurry, and let boil until thickened. \n4. Toss to coat Purefoods Crispy Chicken Karaage in the orange sauce. Garnish with sesame seeds. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Purefoods"

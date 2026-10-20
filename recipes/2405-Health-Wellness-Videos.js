@@ -10,7 +10,7 @@ const HEALTH_WELLNESS_VIDEOS_DATA = [
     "category": "EAP",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "HEALTH & WELLNESS",
+    "campaign": "Health & Wellness",
     "caption": "Austrian in origin, Linzer cookies are made from a buttery base and filled with jam. Usually exhibiting a shortbread texture, there is usually a nutty aftertaste because ground almonds are also added into the traditional recipe.\n\nFor this one, though, we used items that you can find at #TheMarketplace such as Bob’s Red Mill Oat Flour, Casino Bio Strawberry Jam, and fresh apples! Pop them in the oven and indulge in the smell of strawberries, butter, and apples all melding together into a batch of delicious cookies. Make them for your personal pleasure, or bake in trays to share with loved ones. Enjoy!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Bob's Red Mill",
@@ -37,7 +37,7 @@ const HEALTH_WELLNESS_VIDEOS_DATA = [
     "category": "EAP",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "HEALTH & WELLNESS",
+    "campaign": "Health & Wellness",
     "caption": "High in protein and fiber, falafels are a great alternative to meat if you’re craving something healthy but filling. In this recipe for Thousand Island Falafel Sandwich, we’ll show you how to make your own homemade falafel patties from scratch that you can make ahead of time and cook when needed! Elevated with Waitrose Thousand Island Dressing, each bite is guaranteed to pack a punch! Find all the ingredients that you need for your falafels, as well as Waitrose products, in #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Waitrose"

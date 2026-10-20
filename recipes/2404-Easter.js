@@ -10,7 +10,7 @@ const EASTER_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "EASTER",
+    "campaign": "Easter",
     "caption": "This coming Easter, broaden your creativity and not just focus on Easter Eggs — why not make a Chocolate Bird’s Nest as well to go with them?\n\nUsing some cornflakes, mini marshmallows, dark chocolate, and Cadbury Mixed Bag, which you can all find at #TheMarketplace, make Easter egg-stra special with these sweet and too-cute-to-eat treats that double as adorable decorations as well!\n\nServing Time: 1 hour\nYield: 12pcs\n\nIngredients\n\nCooking spray\n2 tbsp. butter\n2 cups mini marshmallows\n3 cups corn flakes\n¼ cup dark chocolate, melted\n1 pack Cadbury Mixed Bag\n\nProcedure\nLightly spray cupcake pan with cooking spray. \nIn a medium saucepan over medium low heat, melt the butter. Add the marshmallows and stir constantly until completely melted and smooth.\nRemove the pan from the heat and carefully fold in corn flakes until well coated with the marshmallow mixture.\nWorking quickly, press the corn flakes mixture into prepared molds, packing it in firmly to create the cup shape.\nSet the molds aside and allow the cereal cups to cool completely and harden. This usually takes about 30 minutes.\nCarefully drizzle melted dark chocolate over the cooled cereal cups to coat the inside. Let the dark chocolate set.\nPlace 3 pieces of Cadbury Mixed Bag chocolate eggs inside the cereal nests before serving. \n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Cadbury"
@@ -35,7 +35,7 @@ const EASTER_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "EASTER",
+    "campaign": "Easter",
     "caption": "Add more excitement (or should we say EGG-citement?) to Cadbury Hollow Eggs by filling them with a homemade hazelnut center.\n\nHead over to #TheMarketplace and grab some bittersweet chocolate, heavy cream, hazelnuts, eggs, and Cadbury Hollow Eggs and prepare this treat in time for Easter Sunday! Creamy, decadent, and a centerpiece to behold, sharing these hazelnut-filled chocolate eggs is highly recommended.\n\nServing Time: 45-50 minutes\nYield: 2 servings\n\nIngredients\n\n1 cup bittersweet chocolate, chopped\n1 ½ cup heavy cream\n4 large egg yolks\n1/4 cup granulated sugar\n2 pcs. Cadbury Hollow Egg\n2 tbsps. hazelnut, toasted & chopped\n\nProcedure\nPlace the chopped chocolate in a medium heat-resistant bowl.\nIn a small saucepan, heat half cup heavy cream over medium heat until it simmers gently. Do not let it boil.\nPour the hot cream over the chopped chocolate and let it sit for a few minutes. Gently mix  the mixture until the chocolate is completely melted and smooth.\nIn a separate large bowl, using an electric mixer on high speed. Beat the egg yolks and sugar for about 5 minutes, or until the mixture is light yellow and thick.\nGradually fold the chocolate mixture into the whipped egg yolks using a rubber spatula. Be gentle and fold just until combined to avoid deflating the air bubbles.\nIn a separate bowl, whip 1 cup of heavy cream to stiff peaks.\nUsing a rubber spatula, gently fold a spoonful of the whipped cream into the chocolate mixture to lighten it up. Then, fold in the remaining whipped cream until just combined. Be careful not to overmix.\nTransfer the mixture to a piping bag fitted with a star tip. Set aside.\nGently cut the tops off the Cadbury Hollow Egg. Pipe the chocolate mousse into the Cadbury Hollow Egg.\nTop with toasted hazelnut before serving.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Cadbury"
@@ -60,7 +60,7 @@ const EASTER_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "EASTER",
+    "campaign": "Easter",
     "caption": "If you’re looking for fun Easter eggs to hide around your home for that annual Easter Egg Hunt tradition, head over to #TheMarketplace and stock up on these Kinder Joy Natoons Chocolate Eggs that are not only yummy, but also, each chocolate egg comes with a fun toy! What a sweet surprise that’s double the fun!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Kinder Joy"
@@ -79,7 +79,7 @@ const EASTER_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "EASTER",
+    "campaign": "Easter",
     "caption": "Devilled eggs might sound a bit ironic during a holiday such as Eater, but hear us out! These Easter-inspired Devilled Eggs are decorated with bunny faces, making them so adorable and so Easter-appropriate!\n\nUsing Juan Organic Brown Eggs, whip up a batch of classic Devilled Eggs, and then decorate with carrots, black olives, red bell peppers, and scallions to form bunny faces. These might just be the cutest Devilled Eggs ever made, you might forget that they’re edible, too! Find all the ingredients that you need for this Easter recipe at #TheMarketplace!\n\nServing Time: 35-40 minutes\nYield: 2-3 servings\n\nIngredients\n\n6 pcs. Juan Organic Brown Eggs\n¼ cup mayonnaise\n½ tbsp. dijon mustard\n½ tbsp. shallot, minced\n1 tsp. apple cider vinegar\nsalt and pepper to taste\n⅛ cup carrot, sliced\n1 tbsp. black olives, small dice\n1 tbsp. red bell pepper, sliced\n2 tbsp. scallions, sliced\n\nProcedure\nPlace Juan Organic Brown Eggs in a small pot. Cover the eggs with water and bring to a boil. Cook for 8-10 minutes for a medium-hard boiled consistency.\nDrain the hot water and transfer the eggs to an ice bath to stop the cooking process. Peel the eggs once cool enough to handle.\nCarefully cut the peeled eggs in half lengthwise. Remove the yolks from the whites and place them in a medium bowl. \nUsing a fork, mash the yolks until smooth and creamy.\nAdd the mayonnaise, Dijon mustard, vinegar, salt, and pepper to the yolks and mix well until well combined.\nTransfer the mixture to a piping bag and pipe the filling into the egg whites.\nTo decorate, use sliced carrots for the ears, black olives for the eyes, red bell peppers for the nose and scallions for the whiskers.\nPlace in a serving plate and serve.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Juan"
@@ -104,7 +104,7 @@ const EASTER_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "EASTER",
+    "campaign": "Easter",
     "caption": "Since it’s Easter, go overboard with your egg salad and make this Egg Salad Basket with Bounty Fresh Vitamin E Eggs!\n\nThese Bounty Fresh eggs are enriched with Vitamin E, which helps strengthen the body’s immunity and promote good skin. Turn them into your favorite version of egg salad, and use spring onions to create the egg basket handle. It’s a fun activity to do with the kids this Easter season, too. Head over to #TheMarketplace and find all the ingredients that you need!\n\nServing Time: 20-25 minutes\nYield: 2-3 servings\n\nIngredients\n\n8 pcs. Bounty Fresh Vitamin E Eggs\n3 tbsp. mayonnaise\n1 tbsp. white onion, chopped\n½ tbsp. sugar\nsalt and pepper to taste\n2 tbsp. tobiko eggs\n2 tbsp. dill\n¼ cup spring onion\n\nProcedure\nPlace the Bounty Fresh Vitamin E Eggs in a small pot. Cover the eggs with water and bring to a boil. \nCook for 8-10 minutes for a medium-hard boiled consistency.\nDrain the hot water and immediately transfer the eggs to an ice bath to stop the cooking process. Peel the eggs once cool enough to handle.\nChop 3 of the hard-boiled eggs into small pieces.\nIn a bowl, combine the chopped eggs, mayonnaise, chopped white onion, and sugar. Season with salt and pepper to taste.\nCarefully cut the tops off the remaining 5 eggs to create basket shapes. Scoop out the yolks.\nFill each egg white with about a tablespoon of the prepared egg salad mixture.\nTop each basket with tobiko eggs. \nSprinkle chopped fresh dill on the sides of the baskets for decoration. Use a piece of spring onion to create a handle for each basket.\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Bounty Fresh"
@@ -129,7 +129,7 @@ const EASTER_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "EASTER",
+    "campaign": "Easter",
     "caption": "For Easter breakfast, why not indulge in some bacon with these appetizing and easy-to-make Bacon Egg Cups?\n\nHead over to #TheMarketplace and grab a dozen Rubina Farm Medium Brown Eggs, some bacon, and some spring onions! The trick here is to shape the bacon into cups to hold the eggs in. The end result is a plate of crispy-on-the-outside-and-soft-on-the-inside breakfast bites that are meaty, smoky, and creamy. So good!\n\nServing Time: 30 minutes\nYield: 2-3 servings\n\nIngredients\n\nCooking spray\n6 slices bacon\n6 pcs. Rubina Farm Brown Eggs Medium\nSalt and pepper to taste\n1 tbsp. spring onions, chopped\n\n\nProcedure\nPreheat oven to 175°C.\nLightly grease a muffin pan with cooking spray.\nDrape the bacon around the sides of the muffin pan.\nCarefully crack one Rubina Farm Brown Egg into each bacon cup. Try to keep the yolk in the center.\nSeason each egg with salt and pepper to taste.\nBake the egg cups for 15-20 minutes, or until the egg whites are set and the yolks are cooked to your desired doneness. If the bacon edges start to brown too quickly, cover the pan loosely with foil.\nCarefully remove the egg cups from the muffin pan with a spoon or spatula and top with spring onions. Serve immediately.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Rubina Farm"
@@ -154,7 +154,7 @@ const EASTER_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "EASTER",
+    "campaign": "Easter",
     "caption": "Everyone has their own personal way of celebrating lent. And if you’ve been holding back on the sweets this season, what better way to celebrate than with a tub of Selecta Supreme Vanilla Almond!\n\nAvailable at #TheMarketplace, tuck into scoops of creamy Selecta ice cream, bursting with aromatic vanilla and studded with butter almonds. Enjoy on its own or get creative and make your own dessert masterpiece! Versatile and delicious, make sure to always have a tub of this ice cream in your freezer.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Selecta"

@@ -10,7 +10,7 @@ const CHRISTMAS_PHOTOS_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "CHRISTMAS",
+    "campaign": "Christmas",
     "caption": "Most especially this holiday season, make sure you have an ample supply of Ariel Power Gel Liquid Fresh!\n\nTough on germs but gentle on fabrics, Ariel Power Gel Liquid Fresh cleans better than powder detergents and has twice the amount of stain removal power thanks to its ultra-concentrated formula. The Sunrise Fresh scent is also pleasantly refreshing. Grab Ariel products the next time you shop at #TheMarketplace, along with all your other laundry needs!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Ariel"
@@ -29,7 +29,7 @@ const CHRISTMAS_PHOTOS_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "CHRISTMAS",
+    "campaign": "Christmas",
     "caption": "The next time you replenish your essentials at #TheMarketplace, make sure to grab rolls of Kleenex Bathroom Tissue.\n\nThe perfect balance of softness and strength, Kleenex Bathroom Tissues come with a 3D Clean Wave embossing, ensuring superior cleanliness while remaining smooth to the touch. Gentle on the face and other areas that require some delicateness, Kleenex 3-ply Bathroom Tissue has you covered.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Kleenex"
@@ -48,7 +48,7 @@ const CHRISTMAS_PHOTOS_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "CHRISTMAS",
+    "campaign": "Christmas",
     "caption": "For your little one who will be running around a lot during your holiday gatherings and get-togethers, Huggies Skin Care Pants are a must-have.\n\nAvailable at #TheMarketplace and in sizes up to XXL, Huggies Skin Care Pants keep your toddler’s delicate areas dry thanks to natural tea tree extract that also helps prevent rashes. Don’t forget to add them to your cart on your next grocery run!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Huggies"
@@ -67,7 +67,7 @@ const CHRISTMAS_PHOTOS_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "CHRISTMAS",
+    "campaign": "Christmas",
     "caption": "Made with 100% virgin pulp, and now in a taller size, which means 10% more product, Sanicare Bathroom Tissue is the economical choice, especially if you’re looking for something that will provide you with more bang for your buck, without compromising on quality.\n\nAvailable at #TheMarketplace, Sanicare Bathroom Tissue is thick, strong, and comes with a dozen rolls per pack. Head over now and stock up along with your other holiday essentials!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Sanicare"
@@ -86,7 +86,7 @@ const CHRISTMAS_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "CHRISTMAS",
+    "campaign": "Christmas",
     "caption": "Entertaining at home for the holidays?\n\nGrab a jar of Lady’s Choice Mayonnaise the next time you visit #TheMarketplace and prepare these BLT Canapés with Basil Mayonnaise! The Bacon-Lettuce-Tomato combo never fails to please, and the touch of herby basil mayonnaise ties the flavors together with a sophisticated familiarity. They are so easy to prepare, too!\n\nThis Yuletide season, make sure to always have a bottle of Lady’s Choice Mayonnaise handy, which is also perfect for salads, dips, and other sauces.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Lady’s Choice"
@@ -111,7 +111,7 @@ const CHRISTMAS_PHOTOS_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "CHRISTMAS",
+    "campaign": "Christmas",
     "caption": "The holidays could be one of the busiest seasons for the household, especially with the influx of guests coming over if you’re the designated host or hostess!\n\nWith that said, keep your bathroom always squeaky clean with the help of Mr. Muscle Bathroom Cleaner. Along with the elimination 99.9% of germs, viruses, and bacteria, it keeps surfaces smooth. Scented with natural lavender extract, expect none of that strong cleaner smell! Don’t forget to grab some along with your other bathroom essentials the next time you drop by #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Mr. Muscle"
@@ -130,7 +130,7 @@ const CHRISTMAS_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "CHRISTMAS",
+    "campaign": "Christmas",
     "caption": "What better way to enhance the flavor of cocoa than with a touch of Meadows Mediterranean Sea Salt.\n\nMake these Salted Brownie Cookies this holiday season, which are chock-full of chocolatey goodness. Why use Mediterranean Sea Salt, you wonder? It’s because Mediterranean Sea Salt has a sharper and saltier flavor that rounds up with a nice, buttery finish. Not only is it great with chocolate and cooking savory dishes, but it pairs lovely with caramel, too. Find it in #TheMarketplace, along with other Meadows products!\n\nServing Time: 45 minutes\nYield: 1 dozen\n\nIngredients\n\n⅔ cup flour\n2 tbsps. unsweetened cocoa powder\n1 tsp. baking powder\n¼ tsp. Meadows Mediterranean Sea Salt\n1 cup semisweet chocolate, chopped\n¼ cup unsalted butter, cubed\n2 large eggs\n½ cup granulated sugar\n½ cup light brown sugar\n1 tsp. vanilla extract\n1 cup semisweet chocolate chips\nMeadows Mediterranean Sea Salt, for topping\n\nProcedure\n\nPreheat oven to 175 degrees °C. Line a baking sheet with parchment paper.\nIn a medium bowl, whisk together flour, cocoa powder, baking powder, and Meadows Mediterranean Sea Salt.\nIn a microwave-safe bowl, melt together the semisweet chocolate and butter in 30-second intervals, stirring after each interval, until smooth.\nIn a large bowl, beat together eggs, granulated sugar, brown sugar, and vanilla extract until light and fluffy.\nSlowly add the melted chocolate mixture into the egg mixture, beating until just combined. Gradually add the dry ingredients into the wet ingredients, mixing until just combined. Stir in ½ cup of chocolate chips.\nScoop 1-2 tablespoons of batter onto the prepared baking sheet, leaving about 2 inches of space between each cookie. Sprinkle the tops of the cookies with sea salt.\nBake for 10-12 minutes, or until the edges are set and the centers are still slightly soft.\nTop with the remaining chocolate chips and add a sprinkle of Meadows Mediterranean Sea Salt.\nLet the cookies cool on the baking sheet for a few minutes before transferring them to a wire rack to cool completely\n\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Meadows"
@@ -155,7 +155,7 @@ const CHRISTMAS_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "CHRISTMAS",
+    "campaign": "Christmas",
     "caption": "The origins of olive oil cake come all the way from the Mediterranean, where bakers replace butter with olive oil for their creations.\n\nToday, we’ll teach you how to make a fantastic Lemon Olive Oil Cake, using Meadows Extra Virgin Olive Oil, paired with a homemade Strawberry Compote. Expect a richer, denser cake with a hint of fruitiness, while the tart and sweet strawberry compote enhances the citrus taste of the lemon olive oil cake. It’s a great way to impress your guests for dessert during your holiday get-togethers. Trust us, this is a simple yet sophisticated way to win their hearts. Head over to #TheMarketplace and find all the ingredients that you need for this recipe!\n\nServing Time: 1 hour and 30 minutes\nYield: 6-8 servings\n\nIngredients\n\n1 cup Meadows Extra Virgin Olive Oil\n3 large eggs\n1 ½ cups granulated sugar\n¼ cup freshly squeezed lemon juice\n1 ¾ cups all-purpose flour\n2 tsp. kosher salt\n½ tsp. baking powder\n½ tsp. baking soda\n\nStrawberry Compote:\n500g fresh strawberries, hulled and halved\n¼ cup granulated sugar\n2 tbsps. lemon juice\n\nProcedure\nPreheat oven to 175 degrees °C. Grease and flour a loaf pan.\nIn a large bowl, whisk together Meadows Extra Virgin Olive Oil, eggs, and sugar until well combined. Once smooth, whisk in lemon juice. \nIn a separate bowl, whisk together flour, salt, baking powder, and baking soda. Add the dry ingredients into the wet ingredients, whisking until just combined. Do not overmix.\nPour the batter into the prepared springform pan.\nBake for 50-60 minutes, or until a toothpick inserted into the center comes out clean.\nLet the cake cool in the pan for 10 minutes before transferring it to a wire rack to cool completely.\nFor the strawberry compote, combine the strawberries, sugar, and lemon juice in a medium saucepan. Cook over medium heat, stirring occasionally, until the strawberries have softened and released their juices, about 10 minutes.\nReduce the heat to low and simmer for 5 minutes more, or until the compote has thickened to your desired consistency. \nRemove from the heat and let cool slightly before serving with the Lemon Olive Oil Cake.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Meadows"
@@ -180,7 +180,7 @@ const CHRISTMAS_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "CHRISTMAS",
+    "campaign": "Christmas",
     "caption": "Whether you’re cooking for some vegetarians this holiday season or not, everyone will surely swoon over this Zucchini Pesto Pasta made with Meadows Basil Pesto.\n\nUsing a puff pastry instead of regular pizza dough, expect layers of textures with every bite. The simple combination of zucchini, olive oil, lemon, cheese, and basil is also guaranteed to be a crowd pleaser. Head over to #TheMarketplace soon and grab everything that you need to put this irresistible zucchini pesto pizza together!\n\nServing Time: 20-25 minutes\nYield: 6 servings\n\nIngredients\n\n1 medium zucchini, thinly sliced\n¼ cup olive oil\n2 tbsps. lemon juice\nSalt and pepper to taste\n1 sheet puff pastry\n1 cup Meadows Basil Pesto\n1 cup mozzarella cheese, shredded\n½ cup parmesan cheese, grated\n⅛ cup basil leaves\n\nProcedure\nPreheat oven to 230°C.\nIn a bowl, marinate zucchini in 2 tbsps. olive oil, lemon juice, and salt. Set aside.\nRoll out the puff pastry until ¼-inch thick. Spread ¾ cup Meadows Basil Pesto all over, then fold the edges to make a crust. Top with mozzarella cheese, parmesan cheese, salt, and pepper. Brush the crust with olive oil.\nBake for 10-15 minutes, or until the crust is golden brown and the cheese is melted.\nTop with marinated zucchini and basil leaves. Add dollops of pesto using remaining Meadows Basil Pesto, then serve while hot. \n\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Meadows"
@@ -205,7 +205,7 @@ const CHRISTMAS_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "CHRISTMAS",
+    "campaign": "Christmas",
     "caption": "Looking for cocktail ideas for your holiday gatherings? Try this Hugo Spritz made with Meadows Prosecco, which you can find at #TheMarketplace.\n\nMade with only three key ingredients — elderflower liqueur, Prosecco, and soda water, a Hugo Spritz is easy to personalize or build upon because of its versatile base. For this recipe, we added mint sprigs and lime, but feel free to add your own holiday touch such as berries or watermelon cubes!\n\nServing Time: 5 minutes\nYield: 4-5 servings\n\nIngredients\n\n½ cup elderflower liqueur\n¼ cup mint sprigs \n3 cups ice\n4 cups Meadows  Prosecco, chilled\n1 cup soda water, chilled\n2 limes, sliced\n\nProcedure\nCombine elderflower liqueur and mint sprigs in a glass. Muddle gently together.\nFill the glass halfway with ice. Add the Meadows Prosecco and soda water, and stir to combine.\nGarnish with lime and mint.\n\n\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Meadows"
@@ -230,7 +230,7 @@ const CHRISTMAS_PHOTOS_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "CHRISTMAS",
+    "campaign": "Christmas",
     "caption": "Give your feline friends a little special something this Christmas season with VitaPet Cat’s Tuna with Prawns.\n\nFilled with the essential vitamins and minerals to keep your cats healthy and nourished, mix this with some cat kibble or allow them to enjoy on their own! #TheMarketplace is also home to a wide array of pet essentials for all your pet-related needs. \n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "VitaPet"

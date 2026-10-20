@@ -7,7 +7,7 @@ const AUSTRALIAN_FESTIVAL_DATA = [
     "layoutCode": "AF1",
     "layoutName": "Mango Sticky Oatmeal",
     "category": "RECIPE",
-    "campaign": "AUSTRALIAN FESTIVAL",
+    "campaign": "Australian Festival",
     "caption": "This bowl takes a familiar Thai favorite and gives it a cozy morning twist! 🥭🥣\n\nInspired by mango sticky rice, this Mango Sticky Oatmeal swaps rice for Quaker Instant Oatmeal that’s creamy, comforting and packed with a fiber-rich boost. Coconut milk, ripe mango and a drizzle of sweetened coconut cream bring all the indulgence, with a lighter everyday feel. ✨\n\nMade with Quaker, an iconic Australian brand, it’s proof that breakfast can be both nourishing and transportive. Try it at home and get everything you need from The Marketplace. 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Quaker"
@@ -30,7 +30,7 @@ const AUSTRALIAN_FESTIVAL_DATA = [
     "layoutCode": "AF2",
     "layoutName": "Peach Galette",
     "category": "RECIPE",
-    "campaign": "AUSTRALIAN FESTIVAL",
+    "campaign": "Australian Festival",
     "caption": "This peach galette is all about letting good fruit do the work. 🍑🥧 \n\nMade with SP peaches, sliced skin-on and baked until jammy, the filling stays bright and fresh and never mushy thanks to peaches packed at peak ripeness. Wrapped in a buttery, golden crust and finished with a whisper of thyme, it’s rustic in the best way. ✨\n\nBake it for an easy dessert that feels thoughtful without trying too hard — top with whipped cream or a scoop of your favorite vanilla ice cream! Find everything you need at The Marketplace. 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "SP"
@@ -53,7 +53,7 @@ const AUSTRALIAN_FESTIVAL_DATA = [
     "layoutCode": "AF3",
     "layoutName": "Honey Lavender Panna Cotta",
     "category": "RECIPE",
-    "campaign": "AUSTRALIAN FESTIVAL",
+    "campaign": "Australian Festival",
     "caption": "Made with Woolworths Pure Blend Honey, sourced from Australia, this Honey Lavender Panna Cotta is soft, floral and gently comforting. 🍯💜\n\nIt’s the perfect honey to use as it brings a mellow sweetness that lets the cream and lavender shine without overpowering the dessert. Silky, lightly scented and just sweet enough, it’s a calm and considered treat that’s best enjoyed with a spot of tea. 🫖\n\nMake it for an easy yet elegant finish and find everything you need at The Marketplace. 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Woolworths"
@@ -76,7 +76,7 @@ const AUSTRALIAN_FESTIVAL_DATA = [
     "layoutCode": "AF4",
     "layoutName": "Lamb Chops with Crying Tiger Sauce",
     "category": "RECIPE",
-    "campaign": "AUSTRALIAN FESTIVAL",
+    "campaign": "Australian Festival",
     "caption": "Crying Tiger Sauce is all about contrast. A classic Thai dipping sauce, it’s sharp with lime, savory with fish sauce, gently sour from tamarind and finished with toasted rice powder and fresh herbs for texture and aroma. 🔥 Spoon it generously over juicy Aussie Lamb Chops, and the result is bold, bright and super satisfying; you get heat, freshness and richness all in one bite. 🌿🥩\n\nWhy not try this recipe soon? Head over to The Marketplace and grab all the ingredients that you need! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -99,7 +99,7 @@ const AUSTRALIAN_FESTIVAL_DATA = [
     "layoutCode": "AF5",
     "layoutName": "Beef Ragu Pasta",
     "category": "RECIPE",
-    "campaign": "AUSTRALIAN FESTIVAL",
+    "campaign": "Australian Festival",
     "caption": "Ragù is slow food at its most comforting. A long-simmered sauce built on patience, gentle heat and deep flavor, it’s meant to be rich, hearty and indulgent. 🍝🍷\n\nThe version we’ve prepared today leans on Margaret River Wagyu Brisket Steak from Australia, cooked low and slow until meltingly tender, giving the sauce its signature depth and body.\n\nSpoon it generously over rigatoni, finish with parmesan and serve with a full-bodied red wine. It’s the kind of meal that’s best enjoyed unhurried. Find everything you need at The Marketplace! 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Margaret River"
@@ -122,7 +122,7 @@ const AUSTRALIAN_FESTIVAL_DATA = [
     "layoutCode": "AF6",
     "layoutName": "Sweet Plum Beef Skewers",
     "category": "RECIPE",
-    "campaign": "AUSTRALIAN FESTIVAL",
+    "campaign": "Australian Festival",
     "caption": "These Sweet Plum Beef Skewers are all about that glossy, sticky finish. Made with MasterFoods Sweet Plum Marinade, crafted from red sweet plums and warm star anise, the sauce brings a subtle sweetness with a fragrant spice that caramelizes beautifully on the grill. 🥩🔥\n\nJuicy beef, lightly charred leeks and a glaze that clings just right — it’s bold, balanced and seriously moreish. Find it at The Marketplace today and keep a bottle handy in your pantry! ✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "MasterFoods"
@@ -145,7 +145,7 @@ const AUSTRALIAN_FESTIVAL_DATA = [
     "layoutCode": "AF7",
     "layoutName": "Peanut Butter Banana Overnight Oats",
     "category": "RECIPE",
-    "campaign": "AUSTRALIAN FESTIVAL",
+    "campaign": "Australian Festival",
     "caption": "This is breakfast that does the work while you sleep.\n\nCreamy overnight oats layered with peanut butter and banana, made with SO GOOD Unsweetened Almond Milk for a smooth, dairy-free base that keeps things light but satisfying. Nutty, sweet and perfectly spoonable by morning, it’s an easy win for busy days. 🥣🍌\n\nPrep it ahead and pick up everything you need from The Marketplace! 🛒💛\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "SO GOOD"
@@ -168,7 +168,7 @@ const AUSTRALIAN_FESTIVAL_DATA = [
     "layoutCode": "AF8",
     "layoutName": "Crispy Honey Garlic Tofu",
     "category": "RECIPE",
-    "campaign": "AUSTRALIAN FESTIVAL",
+    "campaign": "Australian Festival",
     "caption": "Here’s a rice dish that hits that sweet-savory sweet spot: Crispy Honey Garlic Tofu. 🍯🧄\n\nGolden tofu cubes get tossed in a glossy sauce made with Capilano Honey, an Australian staple known for its rich, floral sweetness and smooth pour. It’s perfect for glazing without overpowering. The result is sticky, fragrant and deeply comforting, especially spooned over warm rice. ✨🍚\n\nCook it at home and pick up everything you need from The Marketplace! 🛒💛\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Capilano"
@@ -191,7 +191,7 @@ const AUSTRALIAN_FESTIVAL_DATA = [
     "layoutCode": "AF9",
     "layoutName": "Quaker (Group Shot)",
     "category": "GROUP SHOT",
-    "campaign": "AUSTRALIAN FESTIVAL",
+    "campaign": "Australian Festival",
     "caption": "Stocking the pantry starts here! 🥣🇦🇺\n\nQuaker Oats — an Aussie favorite — are a reliable staple you’ll keep reaching for, whether it’s for creamy overnight oats, comforting savory bowls or classic oatmeal cookies fresh from the oven. 🍪✨Simple, versatile and always dependable, make sure that you always have some within reach!\n\nPick up your go-to packs at The Marketplace and keep good breakfasts (and snacks) readily available. 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Quaker"

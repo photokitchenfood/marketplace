@@ -10,7 +10,7 @@ const HALLOWEEN_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "HALLOWEEN",
+    "campaign": "Halloween",
     "caption": "As Halloween approaches, and the air fills with a sense of magic and mischief, why not conjure up some delightful trays of these Harry Potter Ghost Brownies? \n\nMade with limited edition Hershey's Harry Potter Milk Chocolate Bars, which you can find at The Marketplace, these treats are perfect for a spooky gathering or a cozy night of wizarding wonders.\n\nThese brownies are sure to cast a delicious spell on everyone! Imagine biting into fudgy brownies, rich and dark, with bits of chocolate that melt like a spell on your tongue. Top them off with ghostly white chocolate, and you’ll have a dessert that’s as delightful as a night in the Great Hall.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Hershey's"
@@ -35,7 +35,7 @@ const HALLOWEEN_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "HALLOWEEN",
+    "campaign": "Halloween",
     "caption": "Whip up something spooky and delicious this Halloween with these BOO-Berry Milkshakes made with Cimory Blueberry Yogurt Drink and vanilla ice cream.\n\nThese shakes are not only a treat for your taste buds but also a fun twist to get everyone in the Halloween spirit. The creamy blueberry yogurt creates a luscious, velvety base that’s as vibrant as a full moon on a crisp autumn night. Top it off with whipped cream, blueberries, and strawberry syrup for that ghostly touch — just perfect for sipping while you tell scary stories!\n\nSo head over to The Marketplace, get the ingredients that you need, grab your blender, and conjure up these ghouly milkshakes that are sure to delight both young and old this spooky season!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Cimory"
@@ -60,7 +60,7 @@ const HALLOWEEN_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "HALLOWEEN",
+    "campaign": "Halloween",
     "caption": "As Halloween creeps around the corner, it’s the perfect time to whip up something delightfully spooky and utterly delicious! \n\nTry these Mummy Hotdog Sandwiches made with Swift Chicken Franks, a fun twist on a classic that’s sure to enchant both kids and adults alike. \n\nWrap the juicy chicken franks in sandwich cheese, creating adorable little mummies that will make everyone smile. Serve on a sandwich bun,  or enjoy with some mustard or ketchup for those adorable eyes, and you’re ready for a hauntingly good feast! Make your Halloween celebration unforgettable and shop all the ingredients that you need for this recipe at The Marketplace.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Swift"

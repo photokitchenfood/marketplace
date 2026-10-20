@@ -10,7 +10,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "ASIAN FESTIVAL",
+    "campaign": "Asian Festival",
     "caption": "Bring a Japanese twist to a classic favorite with this Hojicha Tiramisu! 🫖🇯🇵\n\nMade with UCC Hojicha Latte, this dessert layers earthy roasted green tea notes with creamy mascarpone and soft ladyfingers for a treat that’s both comforting and refreshing. It’s the perfect blend of East meets West, and a sweet way to end any meal. Find UCC Hojicha Latte and all the ingredients you’ll need at The Marketplace! ✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "UCC"
@@ -35,7 +35,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "ASIAN FESTIVAL",
+    "campaign": "Asian Festival",
     "caption": "Cool down with a fun twist: Grape Soda Yakult Cooler! 🍇\n\nThe tangy creaminess of Yakult meets the fizzy sweetness of Welch’s Sparkling Grape Soda, creating a refreshing sip with a playful Asian spin. Top it off with grapes and mint for that extra flair! Pick up cans of Welch’s and all the items you need to whip this up at The Marketplace! 💜✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Welch’s"
@@ -60,7 +60,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "ASIAN FESTIVAL",
+    "campaign": "Asian Festival",
     "caption": "Spice up mealtime with a Korean favorite: Bibim Guksu! 🇰🇷🍜🔥\n\nMade using Paldo Bibimyeon, this dish is all about chewy noodles coated in a bold, tangy-sweet sauce, and then topped with crisp cucumber, kimchi, sesame, and a soft-boiled egg.\n\nIt’s quick to prepare, refreshing, and full of flavor, making it perfect for busy days or fun family meals. Pick up Paldo Bibimyeon and everything you need at The Marketplace! 🌟\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Paldo"
@@ -85,7 +85,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "ASIAN FESTIVAL",
+    "campaign": "Asian Festival",
     "caption": "Give your poke a tasty twist with San Marino Corned Tuna in Oil! 🐟🌶️ \n\nTossed in spicy mayo and served with rice, avocado, crisp veggies, and a sprinkle of togarashi, it brings the vibrant flavors of Asian-inspired poke without the need for raw fish. A convenient, hearty option that’s just as satisfying! Stock up on San Marino Corned Tuna and everything you’ll need at The Marketplace. 🍚🥢\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "San Marino"
@@ -110,7 +110,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "ASIAN FESTIVAL",
+    "campaign": "Asian Festival",
     "caption": "Level up your sandwich game with this Egg Drop Sandwich made extra special using Royal Smokehouse Chicken Luncheon Meat. 🥪🍳\n\nThick, smoky slices pair beautifully with soft scrambled eggs, melted cheese, and a drizzle of sweet mayo for that irresistible Korean café vibe. It’s comforting, savory, and a fun way to bring Asian-inspired flavors to your table. Get Royal Smokehouse Chicken Luncheon Meat and all the other ingredients at The Marketplace! 🧡\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Royal Smokehouse"
@@ -135,7 +135,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "ASIAN FESTIVAL",
+    "campaign": "Asian Festival",
     "caption": "Warm up with a bowl of Dried Pollock and Tofu Ramen! 🍜✨\n\nMade with Hana Dried Pollock Ramen, this dish combines the rich umami of traditional Korean broth with crispy tofu and fresh veggies like bok choy, shiitake, and bean sprouts. It’s a cozy, Asian-inspired meal that’s both hearty and nourishing, perfect for busy nights or a comforting lunch. Pick up Hana Dried Pollock Ramen and the rest of the ingredients at The Marketplace! 🥢💛\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Hana"
@@ -160,7 +160,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "ASIAN FESTIVAL",
+    "campaign": "Asian Festival",
     "caption": "Cuddle up in true foodie fashion with this Spicy Seoul Noodles Pillow & Blanket Set, which you can snag at The Marketplace! 🍜\n\nPerfect for instant noodle lovers, this quirky combo is cozy, playful, and guaranteed to bring a smile to your space. Whether it’s for lounging, binge-watching, or napping after a hearty ramen bowl, it’s a must-have for your home. 🛋️\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -179,7 +179,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "ASIAN FESTIVAL",
+    "campaign": "Asian Festival",
     "caption": "Stock your pantry with Asian café favorites right at home with these UCC finds from The Marketplace! ☕🍵\n\nFrom UCC Spanish Latte 3-in-1 mixes to comforting Hojicha and vibrant Matcha Lattes, plus rich instant brews, there’s something for every coffee and tea craving. Easy to prepare, deliciously satisfying, and perfect for daily pick-me-ups, grab these UCC essentials now on your next visit to The Marketplace! ✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "UCC"
@@ -198,7 +198,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "ASIAN FESTIVAL",
+    "campaign": "Asian Festival",
     "caption": "Add a burst of fruity fizz to your day with Welch’s Fruit Sodas! 🍇🍓🍏 \n\nCrisp, refreshing, and full of flavor, they’re the ultimate fridge staples for family hangouts, study breaks, or weekend chill time. Pair them with your favorite munchies and stock up on both drinks and snacks at The Marketplace! 🥤🥨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Welch's"
@@ -217,7 +217,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "ASIAN FESTIVAL",
+    "campaign": "Asian Festival",
     "caption": "Slurp up the flavor with Paldo Korean Instant Noodles! 🍜\n\nFrom rich Chajang, zesty Bibim, classic Koreno, to bold Lobster King Bae, there’s a noodle for every craving and mood. Quick, satisfying, and always delicious, these are pantry staples you’ll want on hand anytime hunger strikes. Stock up now at The Marketplace! 🔥\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Paldo"
@@ -236,7 +236,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "ASIAN FESTIVAL",
+    "campaign": "Asian Festival",
     "caption": "Make mealtime easier (and tastier!) with San Marino Corned Tuna. 🐟✨\n\nAvailable in classic and chili for a spicy kick, these cans are packed with protein and ready to enjoy, whether with rice, in sandwiches, pasta, or quick recipes at home. They’re always handy to have in the kitchen, so stock up on San Marino tuna products at The Marketplace the next time you drop by! 🍴💚\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "San Marino"
@@ -255,7 +255,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "ASIAN FESTIVAL",
+    "campaign": "Asian Festival",
     "caption": "May it be breakfast, lunch, or dinner — these luncheon meats have you covered. 🍳🥪\n\nFrom the smoky richness of Royal Smokehouse Chicken Luncheon Meat, the classic taste of Lotte Luncheon Meat, to the nostalgic and savory Ma Ling Luncheon Meat, each can is a quick, versatile way to whip up tasty meals or try out fun new recipes. Keep your pantry ready and grab them all at The Marketplace! 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Royal Smokehouse",
@@ -276,7 +276,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "ASIAN FESTIVAL",
+    "campaign": "Asian Festival",
     "caption": "Seafood cravings solved in minutes with these ramen must-haves! 🦀🍜\n\nSavor the rich taste of Red Snow Crab Ramen, the bold kick of Red Lobster Ramen, or the comforting broth of Dried Pollock Ramen. Quick to make, full of flavor, and perfect for busy days, try topping them with crabmeat sticks for an extra tasty twist! Grab them all at The Marketplace! 🥢\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Red Lobster",
@@ -296,7 +296,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "ASIAN FESTIVAL",
+    "campaign": "Asian Festival",
     "caption": "Add authentic Japanese flavors to your cooking with Enso condiments! 🍱✨\n\nCreate sweet-savory dishes with Teriyaki Sauce, add zing with Rice Vinegar, or enjoy a comforting bowl of soup made with Miso Soup Instant Paste in minutes. Simple, versatile, and delicious, these are pantry must-haves for every home cook. Stock up now at The Marketplace.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Enso"
@@ -315,7 +315,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "ASIAN FESTIVAL",
+    "campaign": "Asian Festival",
     "caption": "Bring Thai flavors to your kitchen with Siam Coconut Milk and Siam Peanut Coconut Satay Sauce! 🥥🥜\n\nCreamy coconut milk is perfect for curries, soups, and desserts, while the satay sauce adds a nutty, savory kick to grilled meats, noodles, or dips. Easy, flavorful, and ready to elevate your Asian cooking — find them both at The Marketplace! 🇹🇭\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Siam"
@@ -334,7 +334,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "ASIAN FESTIVAL",
+    "campaign": "Asian Festival",
     "caption": "Whip up a glass of Matcha Banana Pudding Latte using The Superfood Grocer Premium Ceremonial Grade Matcha Powder — crafted from high-quality tea leaves for a smooth, vibrant flavor and packed with antioxidants. 🍵🍌\n\nCeremonial grade matcha is prized for its natural energy boost and calming benefits, making it a rising star in cafés and kitchens everywhere. Paired with the creamy sweetness of banana pudding, you get an earthy-sweet combo that’s both unique and irresistible. Find The Superfood Grocer Matcha and everything else you need at The Marketplace! ✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "The Superfood Grocer"

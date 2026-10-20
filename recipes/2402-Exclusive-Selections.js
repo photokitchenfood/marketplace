@@ -10,7 +10,7 @@ const EXCLUSIVE_SELECTIONS_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "EXCLUSIVE SELECTIONS",
+    "campaign": "Exclusive Selections",
     "caption": "#TheMarketplace is home to a wide array of snacks and sundries that every household is sure to enjoy. The next time you go grocery shopping, grab something new to try! Our offerings include exclusive selections from premium brands around the world such as Meadows, Casino, and Waitrose.\n\nBrowse our social media pages as well for recipes, meal ideas, and more!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"

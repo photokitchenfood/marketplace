@@ -10,7 +10,7 @@ const HALLOWEEN_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "HALLOWEEN",
+    "campaign": "Halloween",
     "caption": "Who says spooky fun is just for October? 👻\n\nGet creative with pumpkins and squash from The Marketplace: carve them, paint them, or turn them into quirky table décor that brings a little Halloween spirit to your home any time of the year. 🎃🕷️🍂 No tricks, just treats! 🍁🕸️\n\nFind fresh pumpkins and squash at The Marketplace and turn them something delicious afterwards. 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -35,7 +35,7 @@ const HALLOWEEN_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "HALLOWEEN",
+    "campaign": "Halloween",
     "caption": "Halloween might be over, but this cake is too good to keep in the vault. 🎃🍫 Rich, moist, and beautifully fragrant, this Spider Web Orange Chocolate Cake gets its citrusy kick from SP Seedless Oranges used three ways: fresh juice for brightness, zest for aroma, and thin slices baked right on top for a gorgeous finish.\n\nDrizzled with creamy white chocolate ganache, it’s a showstopper that feels just right for any celebration (or a much-needed afternoon treat). Find SP Seedless Oranges at The Marketplace! 🍊✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -60,7 +60,7 @@ const HALLOWEEN_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "HALLOWEEN",
+    "campaign": "Halloween",
     "caption": "These Spooky Finger Dogs are too fun (and too tasty!) to retire, even though Halloween may be over! 🌭🩸🎃\n\nMade with CDO Cheesy Chicken Franks, they’re juicy, cheesy, and the perfect base for this frightfully easy snack. Just add a cheesy “fingernail,” drizzle ketchup for the spooky touch, and serve them up for movie nights, kids’ parties, or anytime you’re in the mood something playful.\n\nFind CDO Cheesy Chicken Franks at The Marketplace and keep the fun (and flavor) going all year round. 👻\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "CDO"
@@ -85,7 +85,7 @@ const HALLOWEEN_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "HALLOWEEN",
+    "campaign": "Halloween",
     "caption": "Both spooky and scrumptious, these Reese’s Cup Spider Cookies are made extra special with Reese’s Miniature Peanut Butter Cups, bringing that irresistible mix of chocolate and peanut butter in every bite. 🍪🕸️🕷️\n\nThey are also the perfect way to use up leftover Halloween candy, turning your stash into fun, chocolatey cookies everyone will love. 🍫\n\nSoft, nutty, and just the right amount of spooky, they’re a sweet idea that works any time of year. 👻Find Reese’s Miniature Peanut Butter Cups at The Marketplace! 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Reese's"

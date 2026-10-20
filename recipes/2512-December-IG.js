@@ -10,7 +10,7 @@ const DECEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "Turn a simple salad into something more satisfying with Mission Wraps in Onion & Chives! 🌯✨\n\nBaked until lightly crisp, the wrap becomes a flavorful bowl with gentle onion and herb notes that pair beautifully with spiced beef, quinoa, and fresh greens.\n\nEach bite brings a little crunch, a little heat, and a squeeze of lime to keep things bright. It’s an easy way to make weeknight meals feel more thought-through, without adding extra steps. Find Mission Wraps in Onion & Chives and all the ingredients you need at The Marketplace! 🛒🥗\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "MISSION"
@@ -35,7 +35,7 @@ const DECEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "This Blueberry Panna Cotta keeps things light, creamy, and satisfying with Dutch Mill Delight Probiotic Drink. 🫐🥄\n\nIts smooth taste works beautifully in desserts, while probiotics and added fiber make this treat better for you. Set gently, topped with a tangy blueberry layer, and finished with fresh fruit, it’s an easy dessert that fits right into everyday meals or casual hosting. Get Dutch Mill Delight Probiotic Drink and all the ingredients you need from The Marketplace! 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Dutch Mill"
@@ -60,7 +60,7 @@ const DECEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "Crunch first, freshness second — that’s the joy of this Asian Crispy Calamari Salad! 🥗✨\n\nGolden pieces of PACIFIC WEST Nori Himalayan Salt Squid fried straight from frozen, sit atop a cool tumble of mixed greens, cabbage and carrots, and then finished off with a punchy soy-calamansi dressing. 🍋 Works just as well for a quick lunch as it does for a laid-back dinner with friends!\n\nTry the recipe at home and pick up everything you need from The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "PACIFIC WEST"
@@ -85,7 +85,7 @@ const DECEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "Bistek Tagalog takes on a new form here — with tacos in mind! 🌮✨\n\nRosa Bistek Tagalog comes ready to cook, already marinated in soy sauce, calamansi juice, and natural seasonings, so all that’s left to do is get it sizzling. The beef cooks up tender and savory, making it an easy, playful twist on a Filipino classic when tucked into soft tortillas and finished with tomatoes, onions, cilantro, and a hint of lime. It’s familiar, a little unexpected, and perfect for switching things up at the table.\n\nPick up Rosa Bistek Tagalog (always great to have on hand) and everything you need to make these soft tacos from The Marketplace! 🛒🇵🇭\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Rosa"
@@ -110,7 +110,7 @@ const DECEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "Weeknight noodles get a Korean upgrade with Bibigo Mandu Kimchi Vegetable Dumplings! 🍜🔥\n\nCrispy on the outside and packed with kimchi and vegetables inside, these ready-to-cook mandu bring bold, savory heat that hits all the right cravings. Tossed with soy-sesame noodles and quick-stir-fried vegetables, the dish comes together fast but delivers big flavor from the first bite to the last sprinkle of sesame seeds.\n\nPick up Bibigo Mandu Kimchi Vegetable Dumplings and everything you need to make this Soy Sesame Stir-Fry Noodles dish from The Marketplace! 🛒🥢\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Bibigo"
@@ -135,7 +135,7 @@ const DECEMBER_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "A spoonful of Fage Total 5% Greek Yogurt is all it takes! 🥄✨\n\nThick, tangy, and made from whole milk and live cultures, it’s protein-packed, naturally low in sugar, and free from additives — just clean, satisfying flavor you can enjoy any time of day. Have it plain, swirl in honey, top with fresh fruit, or blend it into smoothies for something extra nourishing. 🍓🍯 Available at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Fage"
@@ -154,7 +154,7 @@ const DECEMBER_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "Some items just earn a permanent spot in the fridge, and Philadelphia Cream Cheese is no doubt one of them. 🧀✨\n\nSmooth, creamy, and endlessly versatile, it works just as well spread on bread and crackers as it does in desserts, dips, and everyday cooking.\n\nFrom quick snacks to weekend baking, it’s the kind of staple you’ll reach for again and again. Stock up on Philadelphia Cream Cheese and everything else you need from The Marketplace! 🛒🍞🍇\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Philadelphia"
@@ -173,7 +173,7 @@ const DECEMBER_IG_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "A well-stocked fridge and freezer makes everyday meals and treats easier to pull together. 🍨🥄\n\nArce Dairy Ice Creams — from classic Vanilla and Coffee Crumble to the bestselling Avocado — are made with fresh carabao’s milk for a thicker, creamier, richer taste you can always count on. Alongside them, BTIC Yogurt staples like Cottage Cheese, Plain, and Ricotta Cheese cover everything from quick snacks to simple cooking.\n\nFind these fridge essentials from Arce Dairy and BTIC, plus everything else you need, at The Marketplace! 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Arce Dairy",
@@ -193,7 +193,7 @@ const DECEMBER_IG_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "Busy nights call for reliable backup! 🍕⏱️\n\nThe Cibo Pizza Romana frozen pizza line allows you to choose from flavors such as 3 Carni, Four Cheese, and Salame. These boxes are worth keeping on hand when dinner needs to happen fast. Roman-style, thick and crunchy on the outside with a soft, chewy center inside, these pizzas go straight from freezer to table with no overthinking required.\n\nStock your fridge with these go-to favorites and grab everything else you need from The Marketplace! 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Cibo"
@@ -212,7 +212,7 @@ const DECEMBER_IG_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "When comfort food is non-negotiable, you can best believe that Pampanga’s Best delivers! 🇵🇭🍽️ From savory Chicken Tocino and the Original Tocino you grew up with, to sizzling Sisig ready for the pan, this is a brand many households trust for quick, satisfying Filipino meals.\n\nBring these staples home and pick up everything else you need from The Marketplace! 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Pampanga's Best"
@@ -231,7 +231,7 @@ const DECEMBER_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "One pack of Sonsi Longganisa can take you to a few good directions. 🍳🍝\n\nSonsi Longganisa comes in Alaminos, Vigan, and Lucban — each with its own personality, whether you’re frying it up with eggs and garlic rice, slicing it into a quick pasta, or tucking it into a breakfast sandwich for busy mornings.\n\nKeep these versatile favorites on hand and pick up everything you need to cook them your way at The Marketplace! 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Sonsi"
@@ -250,7 +250,7 @@ const DECEMBER_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "DECEMBER IG",
+    "campaign": "December IG",
     "caption": "Morning and snack plans are easily sorted with Koliós Greek Yogurt! 🥣🍓\n\nAvailable in Strawberry, Blueberry, and Plain, Koliós Greek Yogurt comes thick and creamy; great on its own, spooned over fruit, blended into smoothies, or swapped in for sour cream in everyday cooking. It’s naturally rich in protein and probiotics, making it a smart staple to keep within reach.\n\nPick your favorite (or all three) and grab everything you need to enjoy them your way from The Marketplace! 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Koliós"

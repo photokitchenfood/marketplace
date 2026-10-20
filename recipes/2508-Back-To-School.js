@@ -1,4 +1,4 @@
-// Shoot: Back To School
+// Shoot: Back to School
 // Generated: 2026-10-13
 // Items: 7
 // Template profile: TMP 2023-2026
@@ -10,7 +10,7 @@ const BACK_TO_SCHOOL_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "BACK TO SCHOOL",
+    "campaign": "Back to School",
     "caption": "Keep your cleanup game strong with Meadows Towel Rolls! 🧻\n\nSuper absorbent, durable, and always handy for spills, splashes, and everyday messes. Stock up on this must-have along with all your other home essentials at The Marketplace. 🛒💛\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Meadows"
@@ -29,7 +29,7 @@ const BACK_TO_SCHOOL_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "BACK TO SCHOOL",
+    "campaign": "Back to School",
     "caption": "The kids going back to school means fresh starts (and lots of laundry!). 👕📚\n\nKeep uniforms and everyday wear spotless with Tide Expert Clean Liquid Detergent. 🧼✨ Tough on stains, gentle on fabrics, and powered for a deeper clean with every wash. Grab a bottle, plus all your laundry must-haves, at The Marketplace! 💙\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Tide"
@@ -48,7 +48,7 @@ const BACK_TO_SCHOOL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "BACK TO SCHOOL",
+    "campaign": "Back to School",
     "caption": "Bring a little whimsy to snack time with these Octopus Corndogs made with Tender Juicy Hotdogs! 🐙✨\n\nGolden-crisp outside, fluffy inside, with that iconic sweet–savory Tender Juicy bite that takes you straight back to carefree afternoons and the comfort of home.\n\nThey’re fun to make, even more delightful to decorate with playful faces, and guaranteed to be a hit with kids (and kids at heart!). Pick up everything you need — Tender Juicy Hotdogs, cornmeal, and all the fixings — at The Marketplace. 🥳 Serve with your favorite sauce!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Tender Juicy"
@@ -73,7 +73,7 @@ const BACK_TO_SCHOOL_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "BACK TO SCHOOL",
+    "campaign": "Back to School",
     "caption": "Snack-sized indulgence, big on flavor! 🍦🍫\n\nTreat yourself (or the kids after school!) to Magnum Minis! These come in the combination of Classic, Almond, and Brownie — creamy Belgian chocolate ice cream wrapped in rich, crackling chocolate bliss. Perfect little desserts to keep in the freezer for sweet moments anytime! Find them at The Marketplace. ✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Magnum"
@@ -92,7 +92,7 @@ const BACK_TO_SCHOOL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "BACK TO SCHOOL",
+    "campaign": "Back to School",
     "caption": "Turn mornings into something exciting with Beef Tapa Onigirazu! 🍙✨\n\nMade with Pampanga’s Best Beef Tapa, each bite packs that signature savory-sweet richness we Filipinos love, now tucked inside seasoned rice and crisp veggies. It’s a playful twist on a breakfast staple and just the kind of baon kids will be thrilled to find in their lunchboxes!\n\nPick up Pampanga’s Best Beef Tapa and all the ingredients at The Marketplace and start wrapping up this fun, tasty treat. ☀️\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Pampanga’s Best"
@@ -117,7 +117,7 @@ const BACK_TO_SCHOOL_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "BACK TO SCHOOL",
+    "campaign": "Back to School",
     "caption": "Back-to-school season calls for everyday essentials that make life easier. ✨📚\n\nStay stocked with Meadows Washable Towels for quick cleanups, Meadows 3-Ply Facial Tissues for on-the-go freshness, and Tide Expert Clean for spotless uniforms! 👕🧼 Don’t forget a trusty Hydro Flask to keep drinks just right, and sturdy bowls for those fast breakfasts before class. 🍽️\n\nGrab them all and more at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Meadows",
@@ -139,7 +139,7 @@ const BACK_TO_SCHOOL_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "BACK TO SCHOOL",
+    "campaign": "Back to School",
     "caption": "Kickstart the school day with pantry staples that keep kids fueled and happy! 🌞🥛\n\nCrunchy Waitrose Whole Wheat Biscuits, creamy Meadows Hi-Calcium Low Fat Milk, chocolatey Casino Biscuits, and the all-time favorite Tender Juicy Hotdogs. 🌭\n\nPerfect for quick breakfasts, lunchboxes, or after-class snacks, these goodies make busy mornings a breeze. Stock up now at The Marketplace! ✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Waitrose",

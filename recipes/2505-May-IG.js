@@ -9,7 +9,7 @@ const MAY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "MAY IG",
+    "campaign": "May IG",
     "caption": "For a taste of something extraordinarily summer-y, make this Elote Guacamole Dip with Simplot Avocado Pulp — available at The Marketplace!\n\nIt’s a perfect fusion of creamy avocado, zesty lime, smoky paprika, and just the right kick from fresh jalapeños. Roast up some corn, blend it with tangy feta and sour cream, and layer it over the smooth guacamole for a dip that will have everyone coming back for more. Whether it's for a casual gathering or a sunny afternoon snack, this dip promises to be the highlight of your table.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Simplot"
@@ -34,7 +34,7 @@ const MAY_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MAY IG",
+    "campaign": "May IG",
     "caption": "Treat your senses — and your home — to the refreshing burst of Glade Boracay Sunshine Breeze. With just one sniff, you’ll be transported to the white sandy shores of Boracay, all without leaving your home.\n\nThis long-lasting fragrance instantly freshens the air in any room — be it your bathroom, kitchen, or living space — while effortlessly fighting tough odors. It’s the perfect way to bring a little vacation energy to your everyday life, especially this summer. Find it at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Glade"
@@ -53,7 +53,7 @@ const MAY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "MAY IG",
+    "campaign": "May IG",
     "caption": "Head to The Marketplace and gather everything you need for a Hot Shrimp Salad that’s bursting with flavor and flair!\n\nPicture crispy, golden Pacific Bay Shrimp Popcorn, still warm and tossed in a tangy, honeyed dressing with a pop of chili heat — perfectly balancing the sweet, juicy fruit salad that cools and refreshes.\n\nSet it all atop a bed of crisp lettuce and finish with a sprinkle of vibrant spring onions. This is the kind of dish that feels both indulgent and refreshing, a lively mix of textures and flavors that’ll demand seconds. Try it this week!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Pacific Bay"
@@ -78,7 +78,7 @@ const MAY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "MAY IG",
+    "campaign": "May IG",
     "caption": "Get ready to indulge in a Mushroom Sisig Burrito that will take your taste buds on a flavorful journey! Smoky, sizzling Kabute Mushroom Sisig, packed with a rich, savory punch, is nestled on a bed of buttery rice, seasoned just right with paprika and garlic powder.\n\nAs you layer the tortilla with creamy avocado, juicy tomatoes, and sharp red onions, each bite bursts with zest from the calamansi-infused sauce and a refreshing hit of lime.\n\nWrapped tightly in a warm tortilla, this dish delivers comfort, excitement, and a little adventure in every bite. A perfect vegetarian alternative, grab all the ingredients that you need for this recipe at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Kabute"
@@ -103,7 +103,7 @@ const MAY_IG_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "MAY IG",
+    "campaign": "May IG",
     "caption": "This summer, make sure your freezer is stocked with the ultimate indulgence: Nestle Extra Creamy Ice Cream Sundaes, available at The Marketplace.\n\nWhether you’re craving the decadent swirl of Salted Caramel, the tangy delight of Mango Cheesecake, or the bold richness of Classic Affogato, each bite is a moment of pure joy. These treats are the perfect way to cool off in the sweltering heat — smooth, creamy, and irresistibly satisfying. So, go on and treat yourself to the kind of sweet escape that’s meant to be savored all season long.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nestlé"

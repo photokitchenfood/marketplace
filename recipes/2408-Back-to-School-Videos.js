@@ -10,7 +10,7 @@ const BACK_TO_SCHOOL_VIDEOS_DATA = [
     "category": "EAP",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "BACK TO SCHOOL",
+    "campaign": "Back to School",
     "caption": "If you have a box of Casino Cereal Bars and Meadows Chocolate, then try this mash-up of a snack that no one, especially the kids, will be able to resist!\n\nNutty, fruity, and enrobed in delicious chocolate, preparing these Chocolate & Fruit Crêpe Roll-Ups make as a fun after-school bonding activity — or even during the weekend! Enjoy with juice for the kids and maybe a coffee for the kids at heart. Find Casino and Meadows products, along all the other items that you need for this recipe, at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Casino",
@@ -36,7 +36,7 @@ const BACK_TO_SCHOOL_VIDEOS_DATA = [
     "category": "STOP MOTION",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "BACK TO SCHOOL",
+    "campaign": "Back to School",
     "caption": "Ensure that your clothes are not only clean but also fresh-smelling with Ariel Sunrise Fresh Liquid Detergent!\n\nIts powerful formulation kills germs and leaves your laundry brighter and refreshed. It also removes tough stains and brightens colors — including whites, making them perfect for school uniforms, socks, and undershirts! Find Ariel products at #TheMarketplace, along with other laundry essentials.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Ariel"

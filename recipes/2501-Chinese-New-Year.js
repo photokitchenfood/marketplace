@@ -9,7 +9,7 @@ const CHINESE_NEW_YEAR_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "CHINESE NEW YEAR",
+    "campaign": "Chinese New Year",
     "caption": "Step into a world of indulgence with Magnum’s Golden Cheesecake, now available at The Marketplace.\n\nEach bar comes with creamy cheesecake-flavored ice cream swirled with a bright, luscious ribbon of lemon, all encased in Belgian chocolate that snaps with every bite. As if that weren’t enough, it’s crowned with buttery cookie pieces for a sublime crunch that will transport you to dessert heaven. Treat yourself to this irresistible combination of tangy, creamy, and perfectly sweet flavors. It’s the little luxury your day deserves.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Magnum"

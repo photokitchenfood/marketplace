@@ -10,7 +10,7 @@ const MAY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MAY 2024 IG/FB",
+    "campaign": "May IG",
     "caption": "Marry the rich, sweet flavors of purple yam and aromatic coffee in this recipe for Purple Yam Latte made with UCC Sumiyaki Blend. It’s the perfect drink for these balmy summer afternoons with your favorite book in hand. Grab all the ingredients that you need for this delicious drink at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "UCC"
@@ -35,7 +35,7 @@ const MAY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MAY 2024 IG/FB",
+    "campaign": "May IG",
     "caption": "Beat the heat, sit back, relax, and sip on this carbonated caffeinated concoction made with UCC The Blend Brazil instant coffee sticks! Customize it however you want — this version mimics a sundae with chocolate syrup and peanuts. Head over to #TheMarketplace and grab all the items that you need for this coffee-based refreshment!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "UCC"
@@ -60,7 +60,7 @@ const MAY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MAY 2024 IG/FB",
+    "campaign": "May IG",
     "caption": "There’s nothing like coming home to an icy treat after a hot summer’s day outdoors. Make these Cranberry Kiwi Popsicles, made with Ceres Cranberry Fruit Juice, ahead of time! They’re great for beating the heat.\n\nAdd in some lemon-lime soda and your choice of fruit such as kiwis and cranberries, or opt for mangoes and strawberries, too. They’re not only aesthetically pleasing; they’re quite palate-pleasing as well! Find Ceres juices, along with the freshest fruits for your popsicles, at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Ceres"
@@ -85,7 +85,7 @@ const MAY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MAY 2024 IG/FB",
+    "campaign": "May IG",
     "caption": "Love pizza? Then you’re definitely going to enjoy this mouthwatering Pepperoni Pizza Dip made with Emborg Shredded Mozzarella Cheese.\n\nBursting with all the goodness of tomatoes, garlic, and herbs, serve this dip piping-hot, accompanied with some toasted bread — such as baguette or crostini, and enjoy these crunchy, bite-sized pizza treats! Find all the ingredients for this recipe, along with various Emborg dairy products, at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Emborg"
@@ -110,7 +110,7 @@ const MAY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MAY 2024 IG/FB",
+    "campaign": "May IG",
     "caption": "There is a plethora of dessert creations that you can make using Monde Cheese Bars, and one of them is this Cheese Bar Bread Pudding!\n\nWhat the cheese flavor does is add a savory kiss to this comforting sweet treat. Elevate the indulgence and enjoy it à la mode with a scoop of your favorite vanilla ice cream! Try this treat at home and tell us what you think. Head over to the #TheMarketplace and add all the ingredients that you need for this bread pudding to your cart!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Monde"
@@ -135,7 +135,7 @@ const MAY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MAY 2024 IG/FB",
+    "campaign": "May IG",
     "caption": "Let the Tuscan sun shine on your dining table with this recipe for Tuscan Chicken Orzo made with Magnolia Gourmet Selection Chicken Thighs. \n\nBursting with the flavors of Italy and the vibrant colors of summer, tucking into this orzo dish will surely bring so much delight onto the taste buds. Try your hand at making it this weekend and grab all the ingredients that you need at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Magnolia"
@@ -160,7 +160,7 @@ const MAY_IG_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "MAY 2024 IG/FB",
+    "campaign": "May IG",
     "caption": "This summer season, make sure to have some Dutch Mill ProYo stocked up! Great for making fruit shakes or enjoy it on its own, Dutch Mill ProYo contains Vitamins B1 & B2 to help release energy from the proteins, fat, and carbohydrates consumed from food. It also contains calcium and Vitamin D to support the growth and strength of bones and teeth. Low in fat and loaded with live lactobacillus, enjoy Dutch Mill ProYo in its many flavors — available at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Dutch Mill"

@@ -10,7 +10,7 @@ const APRIL_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "APR IG & FB",
+    "campaign": "April IG",
     "caption": "Prepare this vibrant cobb salad bursting with color and flavor using Magnolia Cheesy Chicken Fingers. Perfect for this summer!\n\nPacked with all the good stuff such as avocados, tomatoes, blue cheese, and hard-boiled eggs for an extra kick of protein, Magnolia Cheesy Chicken Fingers add a satisfying crunch to every bite, plus a cheesy surprise that you can’t go wrong with.\n\nFind these Cheesy Chicken Fingers, along with other Magnolia products, at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 3 servings\n\nIngredients\n\n1 pack Magnolia Cheesy Chicken Fingers\nCanola oil for deep frying\n¾ cup olive oil\n⅓ cup lemon juice\n1 tbsp. lemon zest\n2 tbsps. honey\nSalt and pepper to taste\n4 cups lettuce\n1 cup avocados, diced\n¾ cup tomatoes, diced\n½ cup red onions\n½ cup blue cheese\n3 hard boiled eggs, halved\n\nProcedure\n\n1. Prepare Magnolia Cheesy Chicken Fingers according to package instructions. Deep-fry until golden brown and cooked through. Drain, then set aside. \n2. Whisk together olive oil, lemon juice, lemon zest and honey. Season with salt and pepper. \n3. In a large bowl, combine lettuce, avocados, tomatoes and red onions. Coat with the dressing. \n4. Top with blue cheese, eggs and cooked Magnolia Cheese Chicken Fingers. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Magnolia"
@@ -35,7 +35,7 @@ const APRIL_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "APR IG & FB",
+    "campaign": "April IG",
     "caption": "Make the perfect summer dessert with Monde Cheese Bars!\n\nNothing pleases the Filipino palate more than the savory-sweet combination of cheese and ube, and using Monde Cheese Bars, make this Ube Cheese Bar Parfait by layering homemade ube cream with the yummy pastry. Repeat until the whole glass is filled, and don’t forget to top with grated cheese!\n\nFind Monde products — including everyone’s favorite Cheese Bars — and more at #TheMarketplace!\n\nServing Time: 45 minutes\nYield: 3 servings\n\nIngredients\n\n1 ¾ cup whipping cream\n1 cup confectioners’ sugar\n1 tsp. ube flavoring\n9 pcs. Monde Cheese Bar\n1 cup ube jam\n⅔ cup cheese, grated\n\nProcedure\n\n1. Whip together cream, confectioner’s sugar and ube flavoring until you reach medium peaks.  \n2. In a serving glass, layer together Monde Cheese Bar, ube whipped cream, ube jam and cheese. Repeat until you fill the entire glass.\n3. Chill for 30 minutes before serving. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Monde"
@@ -60,7 +60,7 @@ const APRIL_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "APR IG & FB",
+    "campaign": "April IG",
     "caption": "The ultimate gift for tea lovers!\n\nThe Twinings Luxury & Nine Compartment Tea Sets come with nine compartments filled with exquisite Twinings teas. Enjoy a variety of flavors and choose your tea depending on the mood or occasion. Available at #TheMarketplace! \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Twinings"
@@ -79,7 +79,7 @@ const APRIL_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "APR IG & FB",
+    "campaign": "April IG",
     "caption": "Have an upcoming merienda or tea-time with your friends? Prepare this sophisticated pika-pika of Salmon Salad Tartine made with Kirkland Signature Wild Alaskan Pink Salmon in less than half an hour!\n\nSimply mix cream cheese, garlic powder, paprika, and dill together, spread on a slice of baguette, and top with salmon! Your guests will be truly delighted, so prepare yourself for second helpings.\n\nStock up on Kirkland Signature Wild Alaskan Pink Salmon and other Kirkland Signature products at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 12 pieces\n\nIngredients\n\n¼ cup olive oil \n2 cloves garlic, grated \nSalt and pepper to taste\n1 pc. baguette, sliced\n1 bar cream cheese, softened\n1 tbsp. garlic powder\n1 tsp. paprika\n½ cup dill\n1 cup cucumber, sliced\n2 cans Kirkland Signature Wild Alaskan Pink Salmon, drained \n\nProcedure\n\n1. Combine olive oil and garlic, then season with salt and pepper. Spread on baguette slices, then toast until crisp and golden brown. \n2. Cream together cream cheese, garlic powder, paprika and ¼ cup dill. Season with salt and pepper. \n3. Spread cream cheese on toasted baguette slices, then top with cucumber slices, Kirkland Signature Wild Alaskan Pink Salmon and dill.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Kirkland Signature"
@@ -104,7 +104,7 @@ const APRIL_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "APR IG & FB",
+    "campaign": "April IG",
     "caption": "For all your summer picnics, barbecues, and get-togethers, make sure that you have some Edison Biodegradable Garbage Bags ready. Available in various sizes, these garbage bags not only make cleaning up a breeze, but they are also earth-friendly since they are biodegradable.\n\nGet your Edison Garbage Bags, along with other clean-up essentials, at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Edison"
@@ -123,7 +123,7 @@ const APRIL_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "APR IG & FB",
+    "campaign": "April IG",
     "caption": "Preparing beef kansi on your own might sound like a daunting task, but thanks to Purefoods Heat & Eat Beef Kansi, you can prepare this Sizzling Beef Kansi in just half an hour, tops!\n\nHearty, delicious, and the perfect complement to hot, steaming white rice, grab your packs of Purefoods Heat & Eat Beef Kansi at #TheMarketplace and try this recipe soon!\n\nServing Time: 25 minutes\nYield: 4 servings\n\nIngredients\n\n2 tbsps. olive oil \n3 cloves garlic, minced\n½ cup shallots, halved\n1 cup french beans\n¾ cup cherry tomatoes, halved\n1 pack Purefoods Heat & Eat Beef Kansi, thawed\n2 tbsps. cornstarch slurry\nSalt and pepper to taste\n2 tbsps. garlic bits\n\nProcedure\n\n1. Sauté garlic and shallots in olive oil until soft and aromatic. Add in French beans and cherry tomatoes. \n2. Mix in Purefoods Heat & Eat Beef Kansi then cover and let simmer for 5 minutes, or until beef pieces are warmed through and vegetables are tender. \n3. Uncover, then mix in cornstarch slurry. Cook until thickened.\n4. Top with garlic bits just before serving. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Purefoods"
@@ -148,7 +148,7 @@ const APRIL_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "APR IG & FB",
+    "campaign": "April IG",
     "caption": "You don’t need a movie night to enjoy this Cheesy Mixed Bean Dip made with Waitrose Essential Mixed Bean Salad.\n\nOozing with the unbeatable trio of beans, cheese, and spices, grab your favorite bag of nacho chips and enjoy this snack whenever you want! Enjoy it with your choice of salsa on the side, too.\n\n#TheMarketplace is the exclusive distributor of Waitrose products in the country, so head over to a Marketplace near you and stock up on your pantry essentials now!\n\nServing Time: 20 minutes\nYield: 4 servings\nOptional: Serve with nacho chips and fresh salsa\n\nIngredients\n\n3 tbsps. butter \n1 white onion, diced \n5 cloves garlic, minced\n½ tsp. cumin\n1 tsp. paprika \n1 tsp. oregano \n2 tbsps. tomato paste \n2 cans Waitrose Essential Mixed Bean Salad in Water, drained\n1 cup chicken stock \n1 cup monterey jack cheese, shredded\n1 cup sharp cheddar cheese, shredded\n2 cups mozzarella cheese\n\nProcedure\n\n1. Preheat oven to 200C. \n2. Sauté onions and garlic in butter until soft. Mix in cumin, paprika, oregano and tomato paste. Cook for 2 minutes, or until tomato paste has darkened. \n3. Mix in Waitrose Essential Mixed Bean Salad in Water and chicken stock. Let boil and reduce to half. \n4. Bring down to a simmer, then mix in monterey jack cheese, sharp cheddar cheese and 1 cup mozzarella cheese. \n5. Transfer to a baking dish, then top with remaining mozzarella. Broil for 8 minutes.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Waitrose"

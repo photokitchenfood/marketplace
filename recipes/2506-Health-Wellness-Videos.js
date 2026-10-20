@@ -9,7 +9,7 @@ const HEALTH_WELLNESS_VIDEOS_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "HEALTH & WELLNESS",
+    "campaign": "Health & Wellness",
     "caption": "Let your space smell fresh without lifting a finger because Glade Auto Spray has you covered.\n\nWith its automatic time-release and boost functions, you get a clean, consistent burst of fragrance exactly when you want it (and none when you don’t). Bonus points: the refills are 100% recyclable, and the cans are made with at least 20% post-consumer recycled material.\n\nSet it to low and enjoy up to 60 days of freshness. Pick one up at The Marketplace on your next visit!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Glade"

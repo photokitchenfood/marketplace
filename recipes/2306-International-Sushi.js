@@ -10,7 +10,7 @@ const INTERNATIONAL_SUSHI_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "INTERNATIONAL SUSHI",
+    "campaign": "International Sushi",
     "caption": "Craving some Japanese food?\n\nHead over to #TheMarketplace and get your instant fix with our 22-piece Assorted Maki Set. Enjoy with a loved one, or devour on your own and save the rest for later! They’re always made with the freshest fish, rice, and ingredients, so you can be assured they’re consistently topnotch!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -29,7 +29,7 @@ const INTERNATIONAL_SUSHI_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "INTERNATIONAL SUSHI",
+    "campaign": "International Sushi",
     "caption": "If you have a potluck or a party planned, grab a Cold Storage Assorted Small Maki Boat at #TheMarketplace and fill the need to have something quick, easy, and satisfying for your Japanese food-loving guests. Great as a prelude to a heavier meal or as an accompaniment to other food options, we are firm believers that having some sushi around is always a great idea.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Cold Storage"

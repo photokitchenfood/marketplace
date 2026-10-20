@@ -10,7 +10,7 @@ const JUNE_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "JUN 2024 IG/FB",
+    "campaign": "June IG",
     "caption": "Now there’s no need for multiple insect killers anymore — all you need is one thanks to Baygon Multi-Insect Killer!\n\nIts potent formula eliminates crawling, flying, and garden insects, while being safe for use indoors and outdoors. Its special formula is gentle on indoor textiles and won't harm houseplants if used as directed.\n\nPut a can or two in your cart the next time you shop at #TheMarketplace and be at ease, knowing that your home is bug and pest-free!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Baygon"
@@ -29,7 +29,7 @@ const JUNE_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "JUN 2024 IG/FB",
+    "campaign": "June IG",
     "caption": "Try this diaper for your toddler if you haven’t yet!\n\nThese Pampers Baby Dry Pants come with aloe vera lotion to keep their delicate parts rash-free even during the most active of days. Stretchy sides and leak-proof protection are guaranteed to allow your child to wander with wonder as he or she pleases. Sizes run up to XXXL — head over to #TheMarketplace and stock up!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Pampers"
@@ -48,7 +48,7 @@ const JUNE_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "JUN 2024 IG/FB",
+    "campaign": "June IG",
     "caption": "We love a good and hefty rice dish topped with melted cheese, and what better recipe to play around with than a Cheesy Taco Rice Skillet?\n\nUsing Perfect Italiano Mexican Style Cheese, this baked rice dish comes oozing with decadent melted cheese, the meaty flavors of beef, fiery Mexican spices, and smoky bell peppers. Feel free to serve with condiments such as lettuce, salsa, sour cream, and corn chips, too!\n\nHead on over to #TheMarketplace and add these ingredients to your cart the next time you shop. Tuck in and take your taste buds to an unforgettable fiesta!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Perfect Italiano"
@@ -73,7 +73,7 @@ const JUNE_IG_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "JUN 2024 IG/FB",
+    "campaign": "June IG",
     "caption": "Ethically sourced and hand-harvested by local farmers, Sambazon Açaí Products are now available at #TheMarketplace!\n\nAçaí is no stranger to the world of superfoods. It’s known to be rich in antioxidants, and studies show that it has the ability boost brain function, protect heart health, and prevent cancer.\n\nShop their range of açaí products that include superfruit packs, smoothie bowls, and more! Now you don’t have to head out and spend for açaí bowls — you can make them yourself at home thanks to Sambazon. \n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Sambazon"

@@ -10,7 +10,7 @@ const CHINESE_NEW_YEAR_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "CHINESE NEW YEAR",
+    "campaign": "Chinese New Year",
     "caption": "In theme with the Chinese New Year celebrations, whip up this recipe for Salt & Pepper Shrimp with Six Fortune Bean Curd Crust!\n\nCooked with familiar flavors of oyster sauce, Chinese cooking wine, sesame oil, and aromatics, this dish will surely usher in a satisfied belly. Get all the ingredients you need today at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 2-3 servings\n\nIngredients\n\n2 cups Bean Curd Crust\n2 tbsps. oyster sauce \n1 tbsp. soy sauce \n1 tbsp. Chinese cooking wine\n2 tsps. brown sugar \n2 tsps. cornstarch \n2 tbsps. sesame oil\n2 sticks celery, sliced\n5 cloves garlic, chopped \n⅓ cup dried shiitake mushrooms, soaked in hot water\n250g shrimp, shelled and deveined\nSalt and pepper to taste\n\nProcedure\n\n1. Blanch bean curd crust in salted water until tender. Drain, then set aside. \n2. Combine oyster sauce, soy sauce, Chinese cooking wine, brown sugar and cornstarch. \n3. In a wok over medium heat, add in sesame oil. Sauté celery and garlic. Once tender, add in drained shiitake mushrooms, and cook for another minute. \n4. Add in shrimp and cook until pink. Mix in blanched bean curd crust and the sauce. Toss until everything is well coated. Season with salt and pepper to taste. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Six Fortune"

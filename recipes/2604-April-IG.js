@@ -7,7 +7,7 @@ const APRIL_IG_DATA = [
     "layoutCode": "AH1",
     "layoutName": "Glade Lavender & Vanilla Auto Spray",
     "category": "NON-FOOD",
-    "campaign": "APRIL IG",
+    "campaign": "April IG",
     "caption": "For softer kind of reset right in your living space, add a Glade Lavender & Vanilla Auto Spray the next time you visit The Marketplace! 🌿\n\nGlade Automatic Spray in Lavender & Vanilla layers gentle florals with a touch of warmth, releasing timed bursts that keep the room feeling calm and lived-in in the best way possible. The refillable design means you can swap scents as you like, while keeping the same sleek holder in place.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Glade"
@@ -24,7 +24,7 @@ const APRIL_IG_DATA = [
     "layoutCode": "IG1",
     "layoutName": "Smores Banana Bread Pudding",
     "category": "RECIPE",
-    "campaign": "APRIL IG",
+    "campaign": "April IG",
     "caption": "A treat that layers two comfort classics into one, this S’mores Banana Bread Pudding brings together soft, custardy bites and that familiar mix of chocolate and toasted marshmallow, with Monde Banana Bars folded in for a hint of sweetness and texture. As it bakes, everything settles into something warm, rich, and utterly magical. 🍌🍫\n\nIt’s a simple way to turn everyday snacks into dessert! Find what you need at The Marketplace. 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Monde"
@@ -47,7 +47,7 @@ const APRIL_IG_DATA = [
     "layoutCode": "IG2",
     "layoutName": "Glade Automatic Spray LV Refill",
     "category": "NON-FOOD",
-    "campaign": "APRIL IG",
+    "campaign": "April IG",
     "caption": "A quick refresh, whenever the room needs it, Glade Automatic Spray in Lavender & Vanilla keeps that soft, calming scent going. 🌿\n\nRefillable and a must-have in every home, each refill slots easily into your existing device, so you can keep the fragrance consistent without replacing the whole unit.\n\nFind both Glade Automatic Spray devices and refills at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Glade"
@@ -64,7 +64,7 @@ const APRIL_IG_DATA = [
     "layoutCode": "IG3",
     "layoutName": "Dinner Bell (Group Shot)",
     "category": "GROUP SHOT",
-    "campaign": "APRIL IG",
+    "campaign": "April IG",
     "caption": "Here’s a 🧀🧀🧀 spread that does the work for you!\n\nDinner Bell Cheeses come in a range that’s easy to build around: Mild Cheddar for something familiar and creamy; Colby Jack for a softer, mellow bite; Monterey Jack for a smooth, buttery finish that pairs well with just about anything; and Pepper Jack when you want a bit of heat in the mix.\n\nThey slice cleanly, cube neatly, and hold their own across different pairings such as with crackers, grapes, and cubed meats, making them a reliable base for any board. The Marketplace has everything you need! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Dinner Bell"
@@ -81,7 +81,7 @@ const APRIL_IG_DATA = [
     "layoutCode": "IG4",
     "layoutName": "Meiji (Group Shot)",
     "category": "GROUP SHOT",
-    "campaign": "APRIL IG",
+    "campaign": "April IG",
     "caption": "A lineup you can count on day in and day out, Meiji dairy products bring a sense of consistency to the table such as fresh milk and Greek yogurt that’s thick, smooth, and easy to work into everything from breakfast to a quick snack. The range covers what you need, whether it’s a pour for your coffee or a spoonful with fruit on the side. 🥛\n\nDependable and versatile — Meiji dairy products are available at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Meiji"
@@ -98,7 +98,7 @@ const APRIL_IG_DATA = [
     "layoutCode": "IG5",
     "layoutName": "Selecta (Group Shot)",
     "category": "GROUP SHOT",
-    "campaign": "APRIL IG",
+    "campaign": "April IG",
     "caption": "Selecta Ice Cream’s Limited Edition Japanese-inspired flavors bring something a little different to the table with Nama Chocolate, rich and smooth with deep cocoa notes; Hokkaido Lengua, creamy with a mellow sweetness; and Shoyu Caramel, balancing sweet and savory with a light umami edge. 🍨🇯🇵\n\nThis is a dessert trio that’s definitely worth a closer look and a place in your cart! Find them at The Marketplace and grab them before they’re gone! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Selecta"

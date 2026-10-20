@@ -7,7 +7,7 @@ const AMERICAN_FESTIVAL_DATA = [
     "layoutCode": "AF1",
     "layoutName": "Spam \"Burnt Ends\" Bao Buns",
     "category": "RECIPE",
-    "campaign": "AMERICAN FESTIVAL",
+    "campaign": "American Festival",
     "caption": "Sweet, sticky, savory, and tucked into fluffy bao. ✨\nThese Spam “Burnt Ends” Bao Buns turn Spam Luncheon Meat into glossy, caramelized bites coated in teriyaki sauce until the edges get crisp and sticky. Layered with kimchi, cucumber, scallions, and a spicy mayo kick, each bun brings the perfect mix of richness, crunch, heat, and freshness.\nServe them up as a fun merienda, party bite, or easy weekend snack. Pick up Spam Luncheon Meat and all the ingredients you need at The Marketplace! 🛒\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Spam"
@@ -30,7 +30,7 @@ const AMERICAN_FESTIVAL_DATA = [
     "layoutCode": "AF2",
     "layoutName": "Kisses Chocolate Mug Cake",
     "category": "RECIPE",
-    "campaign": "AMERICAN FESTIVAL",
+    "campaign": "American Festival",
     "caption": "Chocolate cake in minutes? Yes, please. 🍫✨\nThis Kisses Chocolate Mug Cake turns a few pantry staples and Hershey’s Kisses Milk Chocolates into a soft, fudgy treat with a melty chocolate center. Made right in a mug and finished with powdered sugar, extra Kisses, and a dollop of whipped cream, it’s the kind of dessert that feels extra cozy without taking much time at all.\nPerfect for late-night cravings, afternoon sweets, or a quick treat-for-one moment. Pick up Hershey’s Kisses Milk Chocolates and all the ingredients you need at The Marketplace! 🛒\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Hershey's"
@@ -53,7 +53,7 @@ const AMERICAN_FESTIVAL_DATA = [
     "layoutCode": "AF3",
     "layoutName": "Broccoli Risotto",
     "category": "RECIPE",
-    "campaign": "AMERICAN FESTIVAL",
+    "campaign": "American Festival",
     "caption": "Creamy, cozy, and finished with a little crisp. 🥦✨\nThis Broccoli Risotto turns fresh broccoli into a smooth, vibrant purée that folds beautifully into tender Arborio rice. Finished with Parmesan, lemon zest, roasted broccoli florets, and crisp prosciutto, every spoonful brings a comforting mix of creamy, savory, and bright flavors.\nIt’s a simple way to make dinner feel a little more special, whether for a quiet night in or a laid-back meal with friends. Pick up fresh broccoli and all the ingredients you need at The Marketplace! 🛒\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -76,7 +76,7 @@ const AMERICAN_FESTIVAL_DATA = [
     "layoutCode": "AF4",
     "layoutName": "Cherry Burrata Dip",
     "category": "RECIPE",
-    "campaign": "AMERICAN FESTIVAL",
+    "campaign": "American Festival",
     "caption": "Sweet, creamy, and made for sharing. 🍒✨\nThis Cherry Burrata Dip brings together whipped burrata, cream cheese, and ricotta for a soft, fluffy base, then tops it with warm roasted cherries that turn glossy, jammy, and just the right amount of sweet. Finished with pistachios, basil, flaky salt, and a drizzle of olive oil, every bite feels rich, fresh, and a little special.\nServe it with toasted bread for an easy appetizer that looks impressive without too much effort. Pick up fresh cherries and all the ingredients you need at The Marketplace! 🛒\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -99,7 +99,7 @@ const AMERICAN_FESTIVAL_DATA = [
     "layoutCode": "AF5",
     "layoutName": "White Cheddar Mac and Cheese",
     "category": "RECIPE",
-    "campaign": "AMERICAN FESTIVAL",
+    "campaign": "American Festival",
     "caption": "Comfort food, but make it extra creamy. 🧀✨\nThis White Cheddar Mac and Cheese brings together tender elbow macaroni and a smooth, velvety sauce made with California White Cheddar, Parmesan, milk, and cream. Baked until bubbling and finished with a golden panko topping, every scoop has that cozy mix of rich, cheesy, and lightly crisp.\nIt’s the kind of dish that works for potlucks, family dinners, or anytime you need something warm and satisfying on the table. Pick up California White Cheddar and all the ingredients you need at The Marketplace! 🛒\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "California"

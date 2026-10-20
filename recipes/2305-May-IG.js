@@ -10,7 +10,7 @@ const MAY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MAY IG & FB",
+    "campaign": "May IG",
     "caption": "Add a bit of blush and a fruity punch to panna cotta in this recipe for Cranberry Panna Cotta made with Ceres Cranberry Juice.\n\nMake this for a balmy summer weekend dinner or a romantic date outdoors. You’ll surely leave your dining companions tickled pink! Find Ceres Cranberry Juice, along with other variants, at #TheMarketplace! \n\nServing Time: 4 hours and 30 minutes\nYield: 4 servings\nOptional: Top with whipped cream and fresh cranberries. \n\nIngredients\n\n1 tbsp. unflavored gelatin powder \n¼ cup milk\n2 cups Ceres Cranberry Juice\n11/2 cups heavy cream\n½ cup white sugar \n1 tsp. vanilla extract \n½ tsp. orange zest \n\nProcedure\n\n1. In a small bowl, sprinkle gelatin over milk, then whisk to combine. Set aside. \n2. In a saucepan over medium heat, combine Ceres Cranberry Juice, heavy cream and sugar. Bring to a simmer, and whisk until sugar is dissolved.\n3. Remove from the heat, then whisk in the gelatin mixture, vanilla extract and orange zest. \n4. Pour the mixture into ramekins, then chill for at least 4 hours. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Ceres"
@@ -35,7 +35,7 @@ const MAY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MAY IG & FB",
+    "campaign": "May IG",
     "caption": "Apart from adding a pleasant tangy flavor to pound cake, did you know that the addition of yoghurt can also help keep baked goods moist?\n\nTry this recipe for Mixed Berries Yoghurt Pound Cake made with Dutchmill ProYo Mixed Berries Yoghurt and taste the difference! Add your favorite berries to the mix as well such as blueberries, raspberries, and strawberries. Tuck into this delightful treat during tea-time, or make batches to share with your family and friends!\n\nDutchmill ProYo Mixed Berries Yoghurt is available at #TheMarketplace, along with other drinkable yoghurt brands.\n\nServing Time: 1 hour and 30 minutes\nYield: 1 9x5-inch loaf\n\nIngredients\n\n1½ cups all-purpose flour \n½ tsp. baking powder\n½ tsp. baking soda \n½ tsp. salt \n½ cup unsalted butter, softened\n½ cup white sugar \n½ cup brown sugar \n2 large eggs \n1 cup Dutchmill ProYo Mixed Berries Yoghurt\n1 tsp. vanilla extract \n1 cup frozen mixed berries \n\nProcedure\n\n1. Preheat oven to 175C. Grease and flour a 9x5-inch loaf pan. \n2. Whisk together flour, baking powder, baking soda and salt. Set aside. \n3. In a separate bowl, beat together butter, white sugar and brown sugar until light and fluffy. Beat in eggs one a time, then mix in Dutchmill ProYo Mixed Berries Yoghurt and vanilla. \n4. Gradually mix in dry ingredients until just combined, then fold in frozen mixed berries. \n5. Transfer batter into the greased loaf pan. Bake for 45-55 minutes, or until a cake tester inserted in the middle comes out clean.  \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Dutchmill"
@@ -60,7 +60,7 @@ const MAY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MAY IG & FB",
+    "campaign": "May IG",
     "caption": "Mornings can’t get any better with this Breakfast Grilled Cheese made with Emborg Monterey Jack.\n\nIt’s loaded with all the good stuff such as bacon, butter, and a sprinkle of sugar to balance it all out. Enjoy it fresh from the pan and with your favorite morning beverage. Don’t forget that squiggle of maple! Get all the items you need for this recipe at #TheMarketplace.\n\nServing Time: 20 minutes\nYield: 1-2 servings\nOptional: Serve with maple syrup\n\nIngredients\n\n4 strips bacon \n3 tbsps. butter \n2 eggs\nSalt and pepper to taste\n2 slices sandwich bread \n2 tbsps. brown sugar\n3 slices Emborg Monterey Jack Cheese \n\nProcedure\n\n1. Fry bacon until crisp. Set aside. \n2. Whisk eggs together, then season with salt and pepper. Cook in 1 tbsp. butter until desired doneness. Set aside. \n3. Soften remaining butter, then spread on the bread slices. Sprinkle with brown sugar. \n4. Preheat sandwich waffle pan. \n5. To assemble, fill bread with scrambled eggs, bacon and Emborg Monterey Jack Cheese. Press assembled sandwich in the waffle pan until cheese is melted and bread is nicely toasted. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Emborg"
@@ -85,7 +85,7 @@ const MAY_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "MAY IG & FB",
+    "campaign": "May IG",
     "caption": "The absolute perfect gift for any tea lover, Twinings Luxury & Nine Compartment Tea Sets come with nine different compartments, each showcasing a different Twinings tea.\n\nIndulge in a range of flavors and try a different tea everyday. Available at #TheMarketplace! \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Twinings"
@@ -104,7 +104,7 @@ const MAY_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MAY IG & FB",
+    "campaign": "May IG",
     "caption": "Bursting with the calming scent of lavender, Family Guard Disinfectant Concentrate is a must-have in every home.\n\nA cleaning liquid that packs in a lot of defense against viruses and germs, this disinfectant is versatile and can be used on tiles and surfaces, while leaving a gentle smell. Find it in #TheMarketplace, along with other household needs!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Family Guard"
@@ -123,7 +123,7 @@ const MAY_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MAY IG & FB",
+    "campaign": "May IG",
     "caption": "This light and non-greasy body lotion is a treat to the skin.\n\nSilicone-free Le Petit Olivier Light Body Lotion cools the body down with aloe vera and invigorates the skin with green tea. It is rapidly absorbed by the body, leaving the skin refreshed and relieved from dryness. Find it at #TheMarketplace, along with other Le Petit Olivier products.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Le Petit Olivier"
@@ -142,7 +142,7 @@ const MAY_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "MAY IG & FB",
+    "campaign": "May IG",
     "caption": "Struggling to get your hair under control?\n\nGrab a bottle of Le Petit Olivier Nutrition No Rinse Hair Cream the next time you visit #TheMarketplace! With ingredients such as olive oil, shea butter, and argan oils, this no-rinse hair cream sets the stage for styling your hair without damaging it.\n\nEnjoy a true moment of pleasure and haircare with it. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Le Petit Olivier"
@@ -161,7 +161,7 @@ const MAY_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "MAY IG & FB",
+    "campaign": "May IG",
     "caption": "There’s a new meat alternative brand that’s taking #TheMarketplace by storm!\n\nFuture Farm aims to change the way the world eats through its products such as burgers, veggie mince, and sausages. Made with sustainably-sourced ingredients, they believe that delicious shouldn’t cost the planet. Find Future Farm products, along with other meat alternative brands, at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Future Farm"
@@ -180,7 +180,7 @@ const MAY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MAY IG & FB",
+    "campaign": "May IG",
     "caption": "Add a Korean twist to this classic pasta bake with this recipe for Kimchi Mac n’ Cheese.\n\nSince kimchi and cheese pair so well together, we thought, why not add some kimchi to a good ole pan of macaroni and cheese? Give it more character by adding some gochujang and gochugaru, too!\n\nEmborg Monterey Jack, along with other cheeses, give this dish the rich and creamy factor to balance out the sharper and tangier flavors. Give it go this week and find all the ingredients you need for this recipe at #TheMarketplace!\n\nServing Time: 45 minutes\nYield: 3-4 servings\n\nIngredients\n\n¼ cup unsalted butter \n1 white onion, diced \n5 cloves garlic, minced \n2 tbsps. gochujang \n1 tsp. gochugaru\n3 tbsps. flour\n2 cups whole milk\n1 cup sharp cheddar cheese, grated \n1 cup mozzarella cheese, grated \n1 cup kimchi, chopped \n226g elbow macaroni, cooked according to package instructions \nSalt and pepper to taste\n1 (150g) pack Emborg Monterey Jack Cheese\n2 tbsps. spring onions, chopped\n1 tbsp. black sesame seeds, toasted\n\nProcedure\n\n1. Preheat oven to 180C. \n2. Sautè onion and garlic in butter until soft. Mix in gochujang and gochugaru, and toast until it darkens. Mix in flour. \n3. Gradually whisk in the milk until fully incorporated. Mix in sharp cheddar cheese, mozzarella cheese and kimchi. \n4. Once cheeses have fully melted, mix in cooked macaroni. Season with salt and pepper to taste. \n5. Add half of the cooked Kimchi Mac n’ Cheese into a baking dish. Top with half of the Emborg Monterey Jack Cheese. Add remaining pasta on top, then the remaining Emborg Monterey Jack Cheese. Bake for 10 minutes. \n6. Garnish with spring onions and sesame seeds. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Emborg"
@@ -205,7 +205,7 @@ const MAY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MAY IG & FB",
+    "campaign": "May IG",
     "caption": "Having some guests over for dinner, or simply have the urge to bake a fool-proof cake that’s good in every possible way?\n\nTry this recipe for a classic Carrot Cake with Cream Cheese Frosting made with Pauls Cream Cheese. This no-frills carrot cake recipe has been tried-and-tested, and goes perfectly with your afternoon cup of coffee or tea. The caramel drizzle makes all the difference.\n\nFind Pauls Cream Cheese, along with all the other ingredients you need to bake this cake (plus equipment, too!), at #TheMarketplace!\n\nServing Time: 2 hours\nYield: 1 2-layer 9-inch cake\n\nIngredients\n\nCARROT CAKE:\n2 cups cake flour \n2 tsps. baking powder \n1 tsp. baking soda \n2 tsps. cinnamon powder \n½ tsp. nutmeg powder \n1 tsp. salt\n1 cup white sugar \n½ cups brown sugar \n1 cup butter, melted \n4 large eggs \n3 cups grated carrots \n1 cup walnuts, toasted\n½ cup caramel sauce\n\nCREAM CHEESE FROSTING: \n1 (250g) pack Pauls Cream Cheese, softened\n½ cup unsalted butter, softened \n2 cups powdered sugar \n1 tbsp. vanilla extract\n\nProcedure\n\n1. Preheat oven to 175C. Grease and flour 2 9-inch cake pans. Line the bottom of each with parchment paper. \n2. Sift and whisk together cake flour, baking powder, baking soda, cinnamon, nutmeg and salt. In a separate bowl, beat together sugars, melted butter and eggs. \n3. Combine the dry and wet ingredients. \n4. Divide the batter into the prepared cake pans. Bake for 25-35 minutes, or until a cake tester inserted in the middle comes out clean. \n5. Unmold the cakes, then let cool completely. \n6. Meanwhile, prepare the cream cheese frosting. Beat together Pauls Cream Cheese and butter until smooth. Beat in the powdered sugar and vanilla until well combined. \n7. Spread half of the cream cheese frosting on top one carrot cake. Add ½ cup walnuts on top. \n8. Place the second carrot cake on top, then spread remaining cream cheese frosting over the cake. Sprinkle remaining walnuts along the border, then drizzle caramel sauce on top.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Pauls"

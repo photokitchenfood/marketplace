@@ -1,4 +1,4 @@
-// Shoot: Health And Wellness
+// Shoot: Health & Wellness
 // Generated: 2026-09-23
 // Items: 2
 
@@ -7,7 +7,7 @@ const HEALTH_AND_WELLNESS_DATA = [
     "layoutCode": "HW1",
     "layoutName": "Mr. Muscle Mold & Mildew Remover",
     "category": "NON-FOOD",
-    "campaign": "HEALTH AND WELLNESS",
+    "campaign": "Health & Wellness",
     "caption": "One of those things you’re glad to have on hand, Mr. Muscle Mold & Mildew Remover tackles the spots that tend to build up over time: bathroom corners, tiles, and damp areas, helping lift stains and keep surfaces looking clean again. 🧼\n\nThe spray format makes it easy to target where you need it, cutting through buildup without the extra effort. A practical essential for everyday upkeep, pick up a bottle of it at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Mr. Muscle"
@@ -24,7 +24,7 @@ const HEALTH_AND_WELLNESS_DATA = [
     "layoutCode": "STM1",
     "layoutName": "Glade Automatic Spray Lavender Vanilla",
     "category": "NON-FOOD",
-    "campaign": "HEALTH AND WELLNESS",
+    "campaign": "Health & Wellness",
     "caption": "Because calm begins at home. 💜🌿\n\nGlade Automatic Spray in Lavender & Vanilla brings a steady sense of ease into your space. Think soft floral notes layered with a warm, comforting sweetness, released in timed bursts that keep the room feeling fresh without constant attention.\n\nHoused in a clean, understated design, it sits on a shelf or countertop, blending into your home while doing its job in the background. It’s the kind of detail that shifts the mood without asking much from you. Grab it at The Marketplace if you don’t already have one!  🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Glade"

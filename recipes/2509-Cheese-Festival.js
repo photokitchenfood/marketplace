@@ -10,7 +10,7 @@ const CHEESE_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "CHEESE FESTIVAL",
+    "campaign": "Cheese Festival",
     "caption": "Golden, cheesy, and packed with flavor, these Gruyère Stuffed Mushrooms are a bite-sized indulgence you’ll want on repeat. 🧀✨ \n\nGruyère brings its signature nutty, slightly sweet flavor that melts beautifully into the creamy filling, pairing perfectly with garlic, herbs, and a crisp breadcrumb topping.\n\nServe them as appetizers, party bites, or even a cozy snack with wine. Gruyère also shines alongside potatoes, pasta, or fresh greens, so keep it in your fridge for endless flavor pairings.\n\nFind Gruyère and all your cheese favorites at The Marketplace today! 🍷🍄\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -35,7 +35,7 @@ const CHEESE_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "CHEESE FESTIVAL",
+    "campaign": "Cheese Festival",
     "caption": "In this Sweet Pea Risotto, Beemster cheese is the star, melting into every bite with buttery richness and a subtle nuttiness. 🌿🧀\n\nIt balances perfectly with peas and white wine here, but Beemster’s versatility goes even further: try it with roasted vegetables, charcuterie, fresh fruit, or simply on warm bread. A staple worth keeping on hand.\n\nDiscover Beemster cheese and other gourmet finds at The Marketplace! ✨🍷\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Beemster"
@@ -60,7 +60,7 @@ const CHEESE_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "CHEESE FESTIVAL",
+    "campaign": "Cheese Festival",
     "caption": "Light, fluffy, and full of flavor, this Brie Spring Vegetable Frittata is the perfect way to brighten up your table. 🥦🍳\n\nFeaturing Emborg Brie, its creamy, buttery richness melts into tender asparagus, zucchini, and spinach for a dish that’s both elegant and comforting.\n\nBrie’s velvety texture and mild earthiness also pair beautifully with fresh fruit, crusty bread, or even a glass of sparkling wine.\n\nPick up Emborg Brie and your spring veggies at The Marketplace and prepare this easy, crowd-pleasing frittata! ✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Emborg"
@@ -85,7 +85,7 @@ const CHEESE_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "CHEESE FESTIVAL",
+    "campaign": "Cheese Festival",
     "caption": "This Roasted Pepper and Blue Cheese Soup brings together sweetness, smokiness, and tang in one comforting bowl.. 🥣✨\n\nThe sharp, tangy richness of Castello Danish Blue Cheese melts into the sweetness of roasted peppers, creating a bold flavor combination that warms you through.\n\nBlue cheese also isn’t just for soup! Its creamy, salty bite also pairs beautifully with steaks, burgers, salads, and even a drizzle of honey on warm bread. A little goes a long way in transforming everyday dishes into something unforgettable.\n\nFind Castello Danish Blue Cheese and more specialty picks at The Marketplace! 🧀💛\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Castello",
@@ -111,7 +111,7 @@ const CHEESE_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "CHEESE FESTIVAL",
+    "campaign": "Cheese Festival",
     "caption": "When the weather calls for something warm and hearty, this Vintage Aged Cheddar & Ale Soup answers perfectly. 🥣🧀\n\nFeaturing Mainland Vintage Aged Cheddar, aged for 24 months, it brings a sharp, crumbly richness with nutty, savory depth that melts beautifully into the silky soup.\n\nPairing it with pale ale adds a gentle bitterness that balances the cheddar’s bold bite, creating layers of flavor that are hearty yet refined. Beyond soups, this aged cheddar also shines with burgers, rustic breads, roasted veggies, and even crisp apples.\n\nPick up Mainland Vintage Aged Cheddar at The Marketplace and treat yourself to a bowl that’s both indulgent and satisfying. 🍺✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Mainland"
@@ -136,7 +136,7 @@ const CHEESE_FESTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "CHEESE FESTIVAL",
+    "campaign": "Cheese Festival",
     "caption": "Here’s a treat that’s crisp on the outside, soft and creamy inside: Korean Cream Cheese Garlic Bread! 🥖🧄\n\nFilled with Magnolia Cream Cheese, it adds a luscious, tangy richness that balances perfectly with the sweet-salty garlic butter coating. Magnolia Cream Cheese is also dreamy when spread on bagels, swirled into cheesecakes, or smeared over pancakes with fruit. A true kitchen staple you’ll keep reaching for.\n\nPick up Magnolia Cream Cheese at The Marketplace and bring this trendy Korean favorite to your table. ✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Magnolia"

@@ -10,7 +10,7 @@ const PET_MONTH_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "PET MONTH",
+    "campaign": "Pet Month",
     "caption": "Because your best friend deserves the best bowl 🐶💛 VitaPet Lamb Flavour is packed with high-quality protein to help maintain strong muscles, plus essential vitamins and minerals to keep your dog healthy and happy. 🐕🥩✨\n\nFind VitaPet Lamb Flavour and other pet essentials at The Marketplace! 🛒🐾\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "VitaPet"
@@ -29,7 +29,7 @@ const PET_MONTH_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "PET MONTH",
+    "campaign": "Pet Month",
     "caption": "Pedigree Puppy is specially formulated to support your growing dog’s needs, with essential vitamins, minerals, and calcium to help build strong bones, healthy teeth, and a shiny coat. 🦴✨\n\nIt’s delicious, wholesome, and made to keep your playful pup happy, healthy, and full of energy every day. 🐕💛 Find Pedigree Puppy at The Marketplace! 🐾\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Pedigree"
@@ -48,7 +48,7 @@ const PET_MONTH_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "PET MONTH",
+    "campaign": "Pet Month",
     "caption": "For the little paws that fill your home with joy, Yum Yum Puppy Kibble is packed with essential nutrients to help your growing dog build strong bones, shiny coats, and boundless energy for playtime! 🦴✨\n\nCrunchy, flavorful, and easy to digest, it supports your puppy’s healthy development all throughout. Find it at The Marketplace, along with all your other pet needs! 🐕🥣💛\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Yum Yum"

@@ -7,7 +7,7 @@ const EASTER_CAMPAIGN_DATA = [
     "layoutCode": "EC1",
     "layoutName": "Gummy Soda Pop",
     "category": "RECIPE",
-    "campaign": "EASTER CAMPAIGN",
+    "campaign": "Easter Campaign",
     "caption": "Here’s a playful treat, made with a little sparkle! 🍬\n\nThese gummy soda pops start with Haribo Goldbears — those chewy, fruity classics — soaked until soft, then frozen with lemon-lime soda for a fizzy, lightly tangy finish. As they set, the gummies turn into little bursts of flavor tucked inside each icy bite. Just perfect for this summer! ☀️\n\nFun, nostalgic, and easy to make, grab a pack of Haribo Goldbears and everything you need for this recipe at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Haribo"
@@ -30,7 +30,7 @@ const EASTER_CAMPAIGN_DATA = [
     "layoutCode": "EC2",
     "layoutName": "Kinder Joy for Girls",
     "category": "OUT OF PACK",
-    "campaign": "EASTER CAMPAIGN",
+    "campaign": "Easter Campaign",
     "caption": "A little surprise, wrapped in something sweet! 🥚💖\n\nKinder Joy for Girls pairs creamy layers of milk and cocoa with crisp wafer bites, plus a toy tucked inside for a bit of extra fun. Designed for little girls, it’s that mix of treat and play that makes it easy to enjoy and share.\n\nFind this small pick-me-up with a playful twist at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Kinder Joy"
@@ -47,7 +47,7 @@ const EASTER_CAMPAIGN_DATA = [
     "layoutCode": "EC4",
     "layoutName": "Sparkling Gummy Bear Lemonade",
     "category": "RECIPE",
-    "campaign": "EASTER CAMPAIGN",
+    "campaign": "Easter Campaign",
     "caption": "Here’s a fun little drink that does a little more than refresh! 🍋\nThis Sparkling Gummy Bear lemonade starts with Biobor Probiotics Gummy Bears — soft, fruity bites infused with probiotics to support gut health in an easy and approachable manner. Soaked in soda, they turn into juicy bursts at the bottom of the glass, adding both texture and a subtle sweetness to every sip. 🐻\nLight, fizzy, and functional, pick up a pack and try it out with all the other ingredients for this recipe that you can find at The Marketplace! 🛒\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Biobor"
@@ -70,7 +70,7 @@ const EASTER_CAMPAIGN_DATA = [
     "layoutCode": "EC5",
     "layoutName": "Cookies and Cream Cheesecake Easter Eggs",
     "category": "RECIPE",
-    "campaign": "EASTER CAMPAIGN",
+    "campaign": "Easter Campaign",
     "caption": "A clever way to use what Easter leaves behind, these cookies and cream cheesecake eggs start with Cadbury Dairy Milk Hollow Easter Eggs — smooth, milky shells that double as the perfect edible base. Filled with a light, creamy cheesecake mixture and finished with cookie crunch, they turn a classic holiday treat into delicious sweet treats. 🍫🥚\n\nA second life for your Easter stash, pick up all the ingredients that you need for this recipe at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Cadbury"
@@ -93,7 +93,7 @@ const EASTER_CAMPAIGN_DATA = [
     "layoutCode": "EC6",
     "layoutName": "Easter Egg Hot Chocolate",
     "category": "RECIPE",
-    "campaign": "EASTER CAMPAIGN",
+    "campaign": "Easter Campaign",
     "caption": "Hot chocolate, with a little Easter twist. 🐣🍫 That’s what you’ll find in this playful version of hot chocolate — rich cocoa topped with whipped cream, sprinkles and Cadbury Pinky Bar Marshmallow Eggs for that soft, fluffy bite wrapped in smooth milk chocolate with a gentle strawberry note that adds a light, fruity sweetness to every sip.\n\nA cozy treat with a festive edge, find what you need at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Cadbury"
@@ -116,7 +116,7 @@ const EASTER_CAMPAIGN_DATA = [
     "layoutCode": "EC7",
     "layoutName": "Smoked Bangus Fried Rice",
     "category": "RECIPE",
-    "campaign": "EASTER CAMPAIGN",
+    "campaign": "Easter Campaign",
     "caption": "This smoked bangus fried rice brings together bold, savory flavors anchored by Century Smoked Bangus Belly, known for its rich, smoky depth and tender flakes. 🐟\n\nPaired with garlicky rice, bagoong and a sharp green mango salad, it’s the kind of dish that feels complete on its own, no matter the season.\n\nLent may be over, but meals like this hold their own all year round. Head to The Marketplace and pick up what you need for this recipe! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Century"
@@ -139,7 +139,7 @@ const EASTER_CAMPAIGN_DATA = [
     "layoutCode": "EC8",
     "layoutName": "Grilled Gindara with Spring Salad",
     "category": "RECIPE",
-    "campaign": "EASTER CAMPAIGN",
+    "campaign": "Easter Campaign",
     "caption": "Light, clean and deliciously satisfying, this grilled gindara with spring salad keeps things simple, starting with Pacific Bay Gindara Steak, known for its quality cuts and reliable freshness. 🥗\n\nNaturally rich and buttery, gindara (black cod) flakes easily when cooked and pairs well with bright, crisp greens, making it a good choice when you want something balanced without feeling heavy.\n\nFind it at The Marketplace, along with all the other ingredients you need for this gorgeous salad. 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Pacific Bay"
@@ -162,7 +162,7 @@ const EASTER_CAMPAIGN_DATA = [
     "layoutCode": "EC9",
     "layoutName": "Mediterranean Stuffed Fish Rolls",
     "category": "RECIPE",
-    "campaign": "EASTER CAMPAIGN",
+    "campaign": "Easter Campaign",
     "caption": "A lighter take on something hearty, these Mediterranean stuffed fish rolls use Finest Catch Premium Pangasius Fillet — a mild, tender white fish known for its clean flavor and soft, flaky texture. 🐟\n\nIt takes on seasoning well, making it ideal for baking with a savory filling and rich tomato base, while still keeping the dish balanced and easy to enjoy. 🍅\n\nSimple, versatile and good for everyday cooking, find Finest Catch Premium Pangasius Fillet at The Marketplace, along with all the other ingredients that you need for this recipe! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Finest Catch"
@@ -185,7 +185,7 @@ const EASTER_CAMPAIGN_DATA = [
     "layoutCode": "EC10",
     "layoutName": "Crispy Pompano with Soy Citrus Glaze",
     "category": "RECIPE",
-    "campaign": "EASTER CAMPAIGN",
+    "campaign": "Easter Campaign",
     "caption": "Crisp on the outside and tender where it counts, this crispy pompano with soy citrus glaze starts with Mikisa Pompano White, a prized fish known for its naturally rich, buttery flavor and firm, flaky flesh. It fries up beautifully, holding its texture while soaking up that bright, savory glaze, making each bite feel balanced rather than heavy.\n\nRemember: a good fish makes all the difference! Find Mikisa Pompano White at The Marketplace. 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Mikisa"
@@ -208,7 +208,7 @@ const EASTER_CAMPAIGN_DATA = [
     "layoutCode": "EC11",
     "layoutName": "Orange Cranberry Glazed Salmon",
     "category": "RECIPE",
-    "campaign": "EASTER CAMPAIGN",
+    "campaign": "Easter Campaign",
     "caption": "This orange cranberry glazed salmon starts with Cold Storage Norwegian Salmon Loin that’s known for its clean, rich flavor and firm, silky texture. 🍊\n\nSourced from Norway’s cold, clear waters, the fish develops a balanced fat content that keeps it naturally tender and high in omega-3s, making it both nourishing and satisfying. Paired with a sweet-tangy glaze, it’s a dish that feels fresh, vibrant and easy to come back to. Definitely a cut above the rest.\n\nPick up your Cold Storage Norwegian Salmon Loin at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Cold Storage"
@@ -231,7 +231,7 @@ const EASTER_CAMPAIGN_DATA = [
     "layoutCode": "EC12",
     "layoutName": "Whole Roasted Tandoori Chicken",
     "category": "RECIPE",
-    "campaign": "EASTER CAMPAIGN",
+    "campaign": "Easter Campaign",
     "caption": "Deep spice, slow roast and plenty to share, this whole roasted tandoori chicken builds on a classic — yogurt, citrus and warm spices like cumin, coriander and garam masala worked into every part of the bird. 🍗\n\nMade with Bounty Family Feast Whole Chicken, it roasts up juicy with a deeply seasoned crust, carrying that signature tandoori balance of tang, heat and smokiness.\n\nServed over fragrant rice with a cooling mint yogurt on the side, it’s bold, satisfying and meant for the table. Find what you need — Bounty Fresh Chicken and all — at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Bounty"
@@ -254,7 +254,7 @@ const EASTER_CAMPAIGN_DATA = [
     "layoutCode": "EC13",
     "layoutName": "Salted Egg Shrimp",
     "category": "RECIPE",
-    "campaign": "EASTER CAMPAIGN",
+    "campaign": "Easter Campaign",
     "caption": "Rich, savory and hard to stop at just one! 🍤\n\nSalted egg shrimp has its roots in Southeast Asian cooking, where cured duck egg yolks are turned into a sauce that’s creamy, buttery and deeply umami driven. Made with Six Fortune Salted Duck Eggs, the yolks melt into a golden coating that clings to every crispy piece of shrimp — salty, slightly sweet and unmistakably addictive.\n\nBest served hot, with rice close by (non-negotiable). Get everything you need at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Six Fortune"
@@ -277,7 +277,7 @@ const EASTER_CAMPAIGN_DATA = [
     "layoutCode": "EC14",
     "layoutName": "Deviled Egg BLT Sliders",
     "category": "RECIPE",
-    "campaign": "EASTER CAMPAIGN",
+    "campaign": "Easter Campaign",
     "caption": "Here’s a classic, reworked into something you can easily pick up. 🥚\n\nDeviled eggs have been around for centuries. Simply put, they are hard-boiled eggs filled with a seasoned yolk mixture and are known for their creamy, tangy bite. In this recipe for Deviled Egg BLT Sliders, they take on a new role with crisp bacon, fresh lettuce and juicy tomato, all held together by Bounty Cage Free Eggs for a clean, rich base.\n\nFamiliar flavors, just assembled differently. Try it soon and get your ingredients from The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Bounty"
@@ -300,7 +300,7 @@ const EASTER_CAMPAIGN_DATA = [
     "layoutCode": "EC15",
     "layoutName": "Cheesy Bang Bang Tuna Nuggets",
     "category": "RECIPE",
-    "campaign": "EASTER CAMPAIGN",
+    "campaign": "Easter Campaign",
     "caption": "“Bang Bang” sauce traces back to bold, punchy flavors that are typically creamy, sweet and spicy all at once. Here, it gets a cheesy twist using the sauce packet from Century Double Cheesy Tuna Nuggets, blended with mayo, sriracha and a touch of citrus for balance. The nuggets fry up golden with a soft, cheesy center, making them a satisfying option even for those skipping meat.\n\nCrispy, saucy and shareable, this dish is big on flavor and so easy to put together. Find everything you need at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Century"

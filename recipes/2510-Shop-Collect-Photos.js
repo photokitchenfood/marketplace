@@ -10,7 +10,7 @@ const SHOP_COLLECT_PHOTOS_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SHOP & COLLECT",
+    "campaign": "Shop & Collect",
     "caption": "When life gets busy, a reliable laundry partner is a household essential, so the next time you visit The Marketplace, make sure to grab Ariel Frontload Liquid in Sunrise Fresh, formulated with low suds specially made for frontload washing machines. \n\nIt keeps clothes looking their best, wash after wash. Think spotless whites, crisp linens, and a clean, uplifting scent that makes folding feel almost therapeutic, making your laundry days brighter. 🧺✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Ariel"
@@ -29,7 +29,7 @@ const SHOP_COLLECT_PHOTOS_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "SHOP & COLLECT",
+    "campaign": "Shop & Collect",
     "caption": "Crafted with slow-release carbohydrates for balanced nutrition and heart health, Glucerna Vanilla is a delicious meal or snack replacement that helps support steady energy and overall wellness. 🥛✨\n\nSimply replace one meal with one serving of Glucerna Vanilla and enjoy its smooth, creamy vanilla flavor because a little balance goes a long way. Find it at The Marketplace, along with other healthy alternatives!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Glucerna"
@@ -48,7 +48,7 @@ const SHOP_COLLECT_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "SHOP & COLLECT",
+    "campaign": "Shop & Collect",
     "caption": "Hey there brownie lovers, this one’s for you. 🤎\n\nFresh from the oven, a warm, fudgy brownie meets a generous scoop of Selecta Choco Almond Fudge Ice Cream — creamy, dreamy, and swirled with chocolatey goodness. A drizzle of chocolate and caramel syrup takes it straight into sundae heaven.\n\nPerfect for cozy afternoons, celebrations, or whenever you need a little sweet therapy. 🍫🍨 Find Selecta Choco Almond Fudge Ice Cream at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Selecta"
@@ -73,7 +73,7 @@ const SHOP_COLLECT_PHOTOS_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "SHOP & COLLECT",
+    "campaign": "Shop & Collect",
     "caption": "Keep your laundry clean, crisp, and smelling wonderful throughout the day with this powerful duo: Ariel Frontload Liquid in Sunrise Fresh removes tough stains with its low-suds formula designed specially for frontload washing machines, while Downy Antibac with Kontra Kulob helps protect against bacteria and that musty “kulob” smell, even on rainy days.\n\nTogether, they make every load feel like laundry day done right. 🧦👚👕🌸 Find them at The Marketplace, along with other laundry day essentials.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Ariel",

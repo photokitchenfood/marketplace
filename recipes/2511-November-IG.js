@@ -10,7 +10,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "NOVEMBER IG",
+    "campaign": "November IG",
     "caption": "A bright little lift for your holiday afternoons starts with Stellina’s Old Fashioned Lemonade — zesty, lightly sweet, and beautifully balanced. 🍋✨\n\nWith the lemonade’s citrusy notes pairing so well with the gentle floral earthiness of butterfly pea tea, this Butterfly Pea Sparkling Lemonade is simple magic: pour the tea, float the lemonade blend over the back of a spoon, and watch the colors bloom into a vivid purple. 💜 A lemon slice and a sprig of thyme make it feel extra special without any fuss.\n\nFind Stellina’s Old Fashioned Lemonade at The Marketplace and get ready to make this refreshing cooler for the holidays! 🌟\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Stellina's"
@@ -35,7 +35,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "NOVEMBER IG",
+    "campaign": "November IG",
     "caption": "A cozy holiday dinner starts with Cold Storage Premium Chilean Sea Bass: rich, buttery, and beautifully firm, so it sears to a golden crust while staying tender at the center ✨ This quality makes it the perfect match for a bright, comforting Lemon Garlic Risotto.\n\nEach spoonful gives you creamy Arborio rice, fragrant garlic, a hint of white wine, and pops of green peas. Top it with the seared sea bass and a squeeze of lemon, and you get a dish that instantly steals the spotlight.\n\nCold Storage Premium Chilean Sea Bass is available at The Marketplace, ready to bring a little holiday magic to your table. 🐟💛\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Cold Storage"
@@ -60,7 +60,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "NOVEMBER IG",
+    "campaign": "November IG",
     "caption": "Craving a comforting Thai-style dinner? Well then head over to The Marketplace and stock up on The Galleon Depot Salmon Steak Cuts — thick, hearty pieces that hold up beautifully in a rich, simmering Thai red curry sauce — milder than green, bolder than yellow, and just the right balance of heat, spice, and warmth. 🌶️🥥🍚\n\nThe blend of red chilies, aromatics, and a touch of sweetness works especially well with salmon, letting its natural richness shine through without overpowering it. Add coconut milk, ginger, garlic, and a squeeze of lime, and you get a dish that’s vibrant, cozy, and incredibly satisfying. A sprinkle of peanuts on top brings everything together with a gentle crunch. Enjoy! 🐟✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "The Galleon Depot"
@@ -85,7 +85,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "NOVEMBER IG",
+    "campaign": "November IG",
     "caption": "A flaky croissant filled with Echo Falls Smoked Sockeye Salmon – Pepper is always a good idea! 🥐🐟 The rich, smoky flavor with a hint of spice pairs so well with lemony cream cheese, crisp greens, capers, and cherry tomatoes.\n\nIt’s hearty, fresh, and perfect with your morning coffee. Ready to upgrade your next breakfast? Echo Falls Smoked Sockeye Salmon – Pepper is available at The Marketplace, along with everything else you need!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Echo Falls"
@@ -110,7 +110,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "NOVEMBER IG",
+    "campaign": "November IG",
     "caption": "Looking for a new way to enjoy salmon? Then try out these Gochujang Glazed Salmon Spring Rolls made with Mikisa Salmon Fillets — available at The Marketplace!\n\nMikisa Salmon Fillets are perfect for these spring rolls with a Korean twist, especially when coated in a sweet-spicy gochujang glaze that gives each bite heat, depth, and a little caramelized char.\n\nWrapped with crisp lettuce, cool cucumbers, and shredded carrots, these spring rolls hit all the right notes: light, spicy, refreshing, and satisfying. A squeeze of lime and a sprinkle of sesame seeds ties everything together. 🐟🌶️✨ \n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Mikisa"
@@ -135,7 +135,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "NOVEMBER IG",
+    "campaign": "November IG",
     "caption": "A bright, refreshing way to enjoy salmon starts with BLUEYOU Atlantic Salmon Fillet — sashimi-grade, clean-tasting, and beautifully tender. With it, we prepared a Soy Citrus Salmon Crudo that you can easily make at home with ingredients from The Marketplace! 💛\n\nCrudo is an Italian-style preparation where raw fish is thinly sliced and dressed simply so its natural flavor really shines. Soy sauce, lime, orange, ginger, and a touch of sesame make for a zesty, savory dressing that lightly cures the fish. Add red onions, capers, chives, and a few lime wheels, and you get a plate that feels vibrant and full of contrast. 🐟🍋\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "BLUEYOU"
@@ -160,7 +160,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "NOVEMBER IG",
+    "campaign": "November IG",
     "caption": "A comforting Thai-style meal feels extra special with Pier 717 Super Lump Crabmeat — available at The Marketplace. 🦀✨ Sweet, delicate, and wonderfully versatile, it folds so well into fried rice, adding richness without weighing the dish down.\n\nThis version brings together all the flavors we love in Thai fried rice: garlic, chili, soy, fish sauce, a touch of oyster sauce, and fragrant jasmine rice. A generous scoop of super lump crabmeat on top lends a clean, ocean-bright sweetness. Add cucumbers, cilantro, and a squeeze of lime, and you’ve got a bowl that’s full of flavor and easy to love. 🍚\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Pier 717"
@@ -185,7 +185,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "NOVEMBER IG",
+    "campaign": "November IG",
     "caption": "A Cajun-style prawn boil brings a bit of Louisiana’s festive food culture to your table: smoky spices, buttery heat, sweet corn, and chorizo all simmered together in one hearty pot. It gets even better with Sarangani Bay Black Tiger Prawns, prized for their freshness, firm texture, and naturally sweet flavor. 🦐✨\n\nToss everything in Cajun butter, add lemon and parsley, and you’ve got a dish that’s bold, vibrant, and perfect for sharing.\n\nSarangani Bay Black Tiger Prawns are available at The Marketplace, ready for your next cozy cook-at-home feast! 🌽🔥💛\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -210,7 +210,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "NOVEMBER IG",
+    "campaign": "November IG",
     "caption": "Unagi-style bangus is such a fun mash-up! It’s a Japanese favorite given a Filipino twist using Century Unseasoned Bangus Belly, which you can easily find at The Marketplace! 🐟✨ The fish crisps up beautifully in the pan, and once brushed with a sweet-savory unagi glaze, it turns glossy, caramelized, and incredibly satisfying over hot Japanese rice.\n\nAdd egg yolk, pickled ginger, nori, and scallions, and you get a bowl that hits comfort notes from both cuisines! 🇵🇭🇯🇵\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Century"
@@ -235,7 +235,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "NOVEMBER IG",
+    "campaign": "November IG",
     "caption": "Finding the right type of bread is the most crucial element for a successful Cheesy Garlic Loaf, and Village Gourmet’s Whole Wheat Batard is perfect for this — sturdy enough to hold all that melted butter, garlic, and cheese, but still soft inside. 🥖🧄🧀 Each slice pulls apart with gooey mozzarella, sharp parmesan, and plenty of savory garlic butter in every groove.\n\nMake this shareable loaf that disappears fast, especially straight from the oven! Find all the ingredients that you need for this recipe at The Marketplace.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Village Gourmet"
@@ -260,7 +260,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "NOVEMBER IG",
+    "campaign": "November IG",
     "caption": "Caprese gets a tasty twist with grilled eggplant, and Gardenia Whole Wheat Bread makes it all come together beautifully. 🍅🍆🧀 Each slice holds up to the juicy tomatoes, creamy mozzarella, smoky eggplant, and that sweet tang of balsamic glaze. It’s simple, fresh, and perfect for a light meal or holiday appetizer.\n\nGardenia Whole Wheat Bread is available at The Marketplace, along with all the other items that you need for this dish!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Gardenia"
@@ -285,7 +285,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "NOVEMBER IG",
+    "campaign": "November IG",
     "caption": "Savory French toast is such a fun twist on the classic, and Marby Whole Wheat Bread works perfectly for it. 🍄🍅🍞 Each slice soaks up the herbed egg mixture, turning golden and crisp before getting topped with mushrooms, spinach, cherry tomatoes, and parmesan. If you’re looking for a light, holiday meal, add this to your rotation!\n\nDon’t forget to add Marby Whole Wheat Bread the next time you shop at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Marby"
@@ -310,7 +310,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "NOVEMBER IG",
+    "campaign": "November IG",
     "caption": "Chicken tortilla soup is one of those bowls that warms you from the inside out: rich tomato broth, tender chicken, black beans, corn, and all the toppings that make each spoonful comforting and hearty. 🍲✨ What makes it extra fun are the crisp tortilla chips, and Bambi Whole Wheat Tortillas fry up beautifully for that golden crunch. Add avocado, sour cream, cilantro, and a squeeze of lime, and you’ve got a cozy, flavor-packed meal for these cooler December days.\n\nHead over to The Marketplace now and grab everything that you need for this hearty soup!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Bambi"
@@ -335,7 +335,7 @@ const NOVEMBER_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "NOVEMBER IG",
+    "campaign": "November IG",
     "caption": "Krispy Kreme Minis are the kind of treats you snack on without thinking. They’re soft, sweet, and just the right size to share… or not! 🍩😉 They’re perfect for gifting, holiday gatherings, or even leaving out for Santa instead of the usual cookies.\n\nWhy not pick up a box at The Marketplace on your next visit and make the season a little bit sweeter? 💛✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Krispy Kreme"
@@ -354,7 +354,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "NOVEMBER IG",
+    "campaign": "November IG",
     "caption": "Toasted ice cream sandwiches feel like childhood wrapped in a warm, crispy hug, and Monde Fluffy Wheat Bread makes them extra good. 🍞🍨✨ Lightly sugared toast, cold melty ice cream, and rainbow sprinkles come together in the most joyful way, especially when you’re using leftover scoops from holiday gatherings.\n\nIt’s always a bright idea to have some Monde Fluffy Wheat Bread in the pantry, so head over to The Marketplace and grab a loaf or two today!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Monde"
@@ -379,7 +379,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "NOVEMBER IG",
+    "campaign": "November IG",
     "caption": "There’s just something magical about ube and cheese: sweet, creamy, a little nostalgic, and always a crowd-pleaser. This bread pudding brings those flavors together with Monde Cheese Bar, whose soft, milky richness melts beautifully into every bite. 🧀💜\n\nA swirl of ube custard gives it that signature marbled look, and once it comes out of the oven, the whole dish feels like a cozy treat you’ll want to scoop into right away. Serve it warm with maple syrup or whipped cream…or both.\n\nGrab your Monde Cheese Bars, and all the other ingredients for this recipe, at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Monde"
@@ -404,7 +404,7 @@ const NOVEMBER_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "NOVEMBER IG",
+    "campaign": "November IG",
     "caption": "A little shine goes a long way, and Pledge Lemon Enhancing Polish keeps your furniture looking its best, thanks to a patented formula that lifts dust, smudges, and dirt with ease. ✨\n\nThose cleansing conditioners don’t just clean; they leave a smooth, lasting glow that resists smears and fingerprints 🍋✨ Available at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Pledge"
@@ -423,7 +423,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "NOVEMBER IG",
+    "campaign": "November IG",
     "caption": "Crispy, peppery, and full of color, these Chinese-Style Salt and Pepper Wings come together fast with Magnolia Chicken Timplados — a freezer staple that’s ready whenever you need something satisfying. 🌶️🍗\n\nIts pre-seasoned convenience makes weeknight cooking so much easier, and once you toss the fried chicken with bell peppers and that bold salt-and-pepper mix, you get a dish that feels festive and comforting all at once. ✨\n\nMagnolia Chicken Timplados is available at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Magnolia"
@@ -448,7 +448,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "NOVEMBER IG",
+    "campaign": "November IG",
     "caption": "The classic creamsicle you grew up loving just got a fun little upgrade! 🍊✨ This Orange Creamsicle Float uses Nestlé Twin Pops in Orange for that sweet, nostalgic flavor, now stirred into a frothy, creamy drink that’s perfect for warm afternoons or holiday gatherings.\n\nAs the Twin Pops slowly melt into the soda and whipped cream, you get the dreamiest orange swirl — simple, refreshing, and such a treat! Find it at The Marketplace, along with other frozen treats! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nestlé",
@@ -474,7 +474,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "NOVEMBER IG",
+    "campaign": "November IG",
     "caption": "A fun way to cool off: Forestberry Frozen Yogurt Sandwiches! 💗🫐 \n\nMade with New Zealand Naturals Forestberry Frozen Yogurt, a 97% fat-free treat packed with real boysenberries, strawberries, blackberries, and blackcurrants, these little squares bring a refreshing burst of berry flavor.\n\nSandwiched between crisp waffle cookies and finished with nuts and cranberries, they’re easy to assemble and even easier to love. Get all the ingredients that you need for this recipe at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "New Zealand Naturals",
@@ -500,7 +500,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "NOVEMBER IG",
+    "campaign": "November IG",
     "caption": "A sweet twist on a Filipino favorite, this Turon à la Mode becomes extra special with a scoop of Super Scoops in Ube Bliss, a deliciously dairy-free frozen treat churned with real ube halaya for that familiar sweet, nutty flavor we all grew up loving. 💜✨\n\nCrispy turon, warm caramelized sugar, and cold ube ice cream come together in one plate, making it a simple dessert that always feels celebratory. Find Super Scoops ice cream at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Super Scoops"
@@ -525,7 +525,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "NOVEMBER IG",
+    "campaign": "November IG",
     "caption": "Here’s a festive twist on a favorite milk tea! 🍒🌟 This Cherry Earl Grey Milk Tea comes together with Schlurp Earl Grey Milk Tea, a creamy blend with those citrusy, malty Earl Grey notes we all crave. It’s a great pantry pick for milk tea moments when you want something quick but still really satisfying.\n\nLayer it over cherry compote, add ice, and finish with maraschino cherries for a drink that not only tastes but looks fun, too! Find Schlurp Earl Grey Milk Tea at The Marketplace and add it to your pantry staples. 🧋\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Schlurp"
@@ -550,7 +550,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "NOVEMBER IG",
+    "campaign": "November IG",
     "caption": "Mango Graham meets creamy yogurt in this refreshing layered shake! Made with Sta. Maria Mango Yogurt, it brings together the familiar holiday flavors we love while adding the goodness of real cultured yogurt. 🥭✨\n\nEach layer — sweet mango purée, crushed grahams, and that tangy yogurt — creates a treat that feels both indulgent and wholesome, perfect for celebrations or slow afternoons at home. 💛\n\nSta. Maria Mango Yogurt is available at The Marketplace, along with all the other ingredients that you need for this recipe!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Sta. Maria"
@@ -575,7 +575,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "NOVEMBER IG",
+    "campaign": "November IG",
     "caption": "Serving up a fresh spin on a party classic! 🌿✨ This Pesto Yogurt Dip starts with DVF Greek Yogurt, giving the pesto a creamy tang while adding all the goodness of real, protein-rich yogurt. It’s light, flavorful, and perfect with toasted bread, crackers, or crisp veggies.\n\nA swirl of olive oil and a sprinkle of nuts make it even more festive — an easy crowd-pleaser for any holiday spread. Find DVF Greek Yogurt at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "DVF"
@@ -600,7 +600,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "NOVEMBER IG",
+    "campaign": "November IG",
     "caption": "A cool treat packed with feel-good flavor, these Açai Coconut Popsicles use Sambazon Açaí Berry Sorbet, made from antioxidant-rich berries that bring a bright, fruity boost to every bite. 💜🥥\n\nLayered with creamy coconut and finished with toasted flakes, they’re a simple way to enjoy açai in a snack that’s both refreshing and nourishing, making it perfect for thoses busy days or holiday gatherings. Find Sambazon Açaí Berry Sorbet at The Marketplace, along with all the other ingredients that you need for this treat! 💓\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Sambazon"
@@ -625,7 +625,7 @@ const NOVEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "NOVEMBER IG",
+    "campaign": "November IG",
     "caption": "A citrusy sip that feels both refreshing and revitalizing, this Lychee Calamansi Iced Tea comes together with Aguila Golden Tea with Calamansi Sweetened Concentrate, bringing that distinct Filipino zing packed with Vitamin C. 🍋\n\nLayer in juicy lychee, a little syrup, and plenty of ice, and you get a drink that’s sweet, tangy, and refreshing. Find all the items that you need for this yummy quencher at The Marketplace! ✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Aguila"
@@ -650,7 +650,7 @@ const NOVEMBER_IG_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "NOVEMBER IG",
+    "campaign": "November IG",
     "caption": "Holiday tables always feel a little more special with Magnolia Chicken at the center. Whether you’re roasting a whole bird, grilling seasoned cuts, or serving up easy weeknight sides, it’s a dependable staple for gatherings big or small. 🍗✨\n\nFrom vibrant platters to cozy family dinners, Magnolia Chicken lets you whip up festive dishes without the fuss — just good food shared with the people you love. 🎄❤️\n\nFind Magnolia Chicken at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Magnolia"
@@ -669,7 +669,7 @@ const NOVEMBER_IG_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "NOVEMBER IG",
+    "campaign": "November IG",
     "caption": "A quick, tasty boost is always within reach when you have Dutch Mill ProYo in the fridge! With fun fruity flavors like strawberry, mixed berries, and blueberry, it’s an easy grab-and-go drink packed with probiotics and calcium to help keep you feeling good throughout the day. ✨\n\nPerfect for breakfast, snack time, or a mid-afternoon pick-me-up — a little bottle goes a long way. 💕 Grab bottles of Dutch Mill ProYo the next time you head over to The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Dutch Mill"
@@ -688,7 +688,7 @@ const NOVEMBER_IG_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "NOVEMBER IG",
+    "campaign": "November IG",
     "caption": "Stocking up on feel-good essentials is easy with Pascual Yogurts and DVF Dairy Farms Carabao Milk (we personally love the chocolate one!). 🍓🍫 \n\nPascual’s fruity cups and creamy Greek-style yogurts make quick breakfasts and snacks so much brighter, plus they’re packed with probiotics for happy digestion. Meanwhile, DVF’s Carabao Milk adds its own richness, known for being creamier and naturally higher in calcium and protein than cow’s milk. A great base for smoothies, baking or simply enjoying chilled. 🥛✨ \n\nFind both dairy brands at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Pascual",

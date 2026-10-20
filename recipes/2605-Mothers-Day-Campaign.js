@@ -7,7 +7,7 @@ const MOTHERS_DAY_CAMPAIGN_DATA = [
     "layoutCode": "MD1",
     "layoutName": "Cetaphil For Baby",
     "category": "NON-FOOD",
-    "campaign": "MOTHERS DAY CAMPAIGN",
+    "campaign": "Mothers Day Campaign",
     "caption": "Cetaphil Baby Gentle Wash & Shampoo is made for delicate skin and fine hair, cleansing without drying and leaving baby feeling soft and comfortable after every wash. The tear-free formula is enriched with glycerin and panthenol to help keep moisture in, so you can care for skin and hair in one easy step! 🛁\n\nIt’s bath time for your most precious one, kept simple and gentle. Find it at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Cetaphil"
@@ -24,7 +24,7 @@ const MOTHERS_DAY_CAMPAIGN_DATA = [
     "layoutCode": "MD2",
     "layoutName": "PH Care Feminine Wash Delicate White",
     "category": "NON-FOOD",
-    "campaign": "MOTHERS DAY CAMPAIGN",
+    "campaign": "Mothers Day Campaign",
     "caption": "A little extra care, where it matters most, pH Care Feminine Wash Delicate White is designed for daily freshness, with a gentle, pH-balanced formula that helps cleanse without disrupting your natural comfort. 🌸\n\nInfused with ingredients that support a brighter, more even look over time, it keeps you feeling clean, confident, and cared for through your routine. Find it at The Marketplace, along with other feminine hygiene products! 🌷\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "pH Care"
@@ -41,7 +41,7 @@ const MOTHERS_DAY_CAMPAIGN_DATA = [
     "layoutCode": "MD3",
     "layoutName": "Hazelnut Coffee Caramel Bar",
     "category": "RECIPE",
-    "campaign": "MOTHERS DAY CAMPAIGN",
+    "campaign": "Mothers Day Campaign",
     "caption": "Layers that lean into coffee and not just sweetness, these Hazelnut Coffee Caramel Bars build on Nescafé Gold — known for its smooth, well-rounded profile with a gentle roast and a lingering aroma that cuts through the richness of caramel and chocolate. ☕🍫\n\nIt adds depth without turning bitter, keeping each bite balanced and easy to come back to. A dessert that starts with a good cup in mind, find it at The Marketplace, along with all the other ingredients that you need to prepare this yummy treat for Mothers’ Day! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nescafé"
@@ -64,7 +64,7 @@ const MOTHERS_DAY_CAMPAIGN_DATA = [
     "layoutCode": "MD4",
     "layoutName": "Tiramisu Pancakes",
     "category": "RECIPE",
-    "campaign": "MOTHERS DAY CAMPAIGN",
+    "campaign": "Mothers Day Campaign",
     "caption": "A familiar favorite, with a lighter touch for Mothers’ Day. ☕💐\n\nThese Tiramisu Pancakes layer soft, fluffy stacks with cream and a dusting of cocoa, brought together with San Mig Super Coffee Sugarfree in Strong. It has that bold, full-bodied coffee flavor mom loves without the added sugar, so you get depth and warmth in every bite; balanced and not overly sweet. 🍫\n\nA thoughtful way to celebrate with something she’ll actually enjoy, find everything you need at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "San Mig Super Coffee"

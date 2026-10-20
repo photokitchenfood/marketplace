@@ -10,7 +10,7 @@ const CANADIAN_FESTIVAL_VIDEOS_DATA = [
     "category": "EAP",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "CANADIAN FESTIVAL",
+    "campaign": "Canadian Festival",
     "caption": "Imagine the sizzling sound of Canada Beef Top Blade Steak hitting the grill, its rich aroma wafting through the air. It’s not just a meal, it’s an experience waiting to unfold on your palate.\n\nPair it with a vibrant homemade kiwi chimichurri, and you have a match made in culinary heaven. The bright, tangy notes of the chimichurri complement the savory, juicy steak, creating a dish that’s sure to impress. So why wait? Treat yourself to a Canada Beef Top Blade Steak and elevate your grilling game to a whole new level!\n\nFind all the ingredients that you need for this recipe at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Canada Beef"

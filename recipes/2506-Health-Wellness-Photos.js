@@ -9,7 +9,7 @@ const HEALTH_WELLNESS_PHOTOS_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "HEALTH & WELLNESS",
+    "campaign": "Health & Wellness",
     "caption": "Turn your home into a bloom-filled haven with Glade’s Baguio Roses & Peony scented gel from their Essence Elite line. It’s like fresh laundry met a flower shop and decided to stay forever.\n\nLight, lovely, and never overpowering, it brings a calm, inviting vibe that makes any room feel instantly polished. Find it at The Marketplace, along with other easy upgrades to keep your space smelling fresh, clean, and effortlessly charming.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Glade"
@@ -28,7 +28,7 @@ const HEALTH_WELLNESS_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "HEALTH & WELLNESS",
+    "campaign": "Health & Wellness",
     "caption": "Here’s a little something that’ll make you feel like you’ve got your own bistro at home. This Grilled Romaine Caesar with Herbed Beans is hearty, smoky, and just a touch fancy — but secretly super easy to pull off!\n\nStart with Gourmet Farms Lettuce Romaine, halved and lightly charred to bring out its natural sweetness. Then pile on warm herbed beans, a drizzle of Caesar dressing, and a shower of shaved parmesan. Serve with toasted baguette slices if you're feeling extra.\n\nFind Gourmet Farms Lettuce Romaine and more fresh picks at The Marketplace — perfect for turning everyday meals into something a little more special.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Gourmet Farms"
@@ -53,7 +53,7 @@ const HEALTH_WELLNESS_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "HEALTH & WELLNESS",
+    "campaign": "Health & Wellness",
     "caption": "Simple, satisfying, and leaning towards the healthier side, this Roasted Garlic Olive Oil Bread Dip is proof that eating well doesn’t mean giving up the good stuff.\n\nMade with Casino Bio Extra Virgin Olive Oil, it’s infused with golden roasted garlic, rosemary, a hint of heat, and a pinch of sea salt for balance. Tear into a slice of warm sourdough, take a dip, and enjoy a snack that feels indulgent but stays in the healthful lane.\n\nYou’ll find Casino Bio and more wellness-friendly essentials at The Marketplace — because eating better should still taste like a reward, don’t you think?\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Casino Bio"

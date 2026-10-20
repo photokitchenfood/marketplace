@@ -10,7 +10,7 @@ const WINE_FAIR_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "WINE FAIR",
+    "campaign": "Wine Fair",
     "caption": "Why wait for a night out when you can bring the wine bar home? 🍇🍷 Craft your own elegant spread with fine wines, creamy cheeses, and gourmet sundries from The Marketplace.\n\nPair a glass of Calon Ségur Saint-Estèphe or Champagne Victoire with Australian Gold Creamy Brie, a drizzle of Meadows Australian Honey, and a handful of nuts, olives, and grapes — simple touches that feel effortlessly luxe. ✨🧀🥂\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Calon Ségur",

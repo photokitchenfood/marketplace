@@ -9,7 +9,7 @@ const APRIL_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "APRIL IG",
+    "campaign": "April IG",
     "caption": "Savor the sweetness of summer with these Milky Melon Coolers!\n\nRefreshing, creamy, and just a little indulgent, ripe, juicy melons are blended with a touch of honey, fragrant vanilla, and the silky richness of Alaska Classic Evaporated Filled Milk, creating a drink that’s both nostalgic yet wonderfully elevated.\n\nAll the ingredients you need are waiting for you at The Marketplace — so why not make this tasty summer drink today?\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Alaska"
@@ -34,7 +34,7 @@ const APRIL_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "APRIL IG",
+    "campaign": "April IG",
     "caption": "This Watermelon Mango Smoothie is a triple-layered treat — pure sunshine in a glass bursting with vibrant, refreshing, and naturally delicious flavors. It’s also dairy-free as it’s made with Blue Diamond Almond Breeze Original Almond Milk.\n\nIt starts with a golden mango base, followed by a luscious cream layer made with coconut or dairy-free yogurt, topped with a watermelon-banana layer. It’s a beautiful way to enjoy the season’s best flavors in every sip. Find everything you need at The Marketplace and treat yourself to something fresh and absolutely delicious.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Blue Diamond"
@@ -59,7 +59,7 @@ const APRIL_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "APRIL IG",
+    "campaign": "April IG",
     "caption": "Bacon Stuffed French Toast Cheese Bars sound like the kind of treats that are both delirious yet delicious. But then again, if you’re planning to treat yourself, this is a great recipe to whip up.\n\nCrispy bacon is tucked inside rich, creamy Monde Cheese Bars, then dipped in a vanilla-kissed custard and gently fried to golden perfection. A dusting of powdered sugar and a drizzle of maple syrup or honey make each bite a perfect balance of sweet and savory. It’s simple, comforting, and just the thing to brighten your day.\n\nPick up everything you need at The Marketplace and make a batch — you’ll be so glad you did.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Monde"
@@ -84,7 +84,7 @@ const APRIL_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "APRIL IG",
+    "campaign": "April IG",
     "caption": "A clean home should feel effortless, and with Mr. Muscle Mold and Mildew Cleaner, it truly is.\n\nThis all-action, multi-surface cleaner does the hard work for you — killing 99.9% of germs, disinfecting, deodorizing, and cutting through water marks, soap scum, and dirt with ease. No scrubbing needed — just spray, let it work its magic, and then wipe away the mess. Fresh, spotless surfaces have never been simpler.\n\nFind Mr. Muscle cleaning products at The Marketplace, along with other trusted household essentials.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Mr. Muscle"
@@ -103,7 +103,7 @@ const APRIL_IG_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "APRIL IG",
+    "campaign": "April IG",
     "caption": "Now available at The Marketplace, Propitious Ice Creams are taking social media by storm, and it’s easy to see why.\n\nThese beautifully crafted frozen treats — shaped like real mangoes, lemons, and peaches — are a feast for the senses, with a crisp white chocolate shell that gives way to a luscious, tangy, and creamy fruit ice cream inside. Each one comes with a clever plastic protector base, so you can enjoy every bite without the mess.\n\nWhether you're drawn to the tropical sweetness of mango, the bright zest of lemon, or the delicate juiciness of peach, these viral favorites are a must-try. Find them as well in Foodpanda, Grabmart, MetroMart, and Pickaroo, along with other frozen treats that are perfect this summer!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Propitious Ice Creams"

@@ -10,7 +10,7 @@ const MEADOWS_PHOTOS_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "MEADOWS",
+    "campaign": "Meadows",
     "caption": "Hailing from Hong Kong, Meadows provides a wide variety of products catered for various household needs. Apart from food, Meadows also has sundries and pantry essentials. Especially this holiday season, head over to #TheMarketplace to get your fill of Meadows products that deliver high quality at pocket-friendly prices. Happy shopping!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Meadows"

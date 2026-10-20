@@ -7,7 +7,7 @@ const SHOP_COLLECT_PHOTOS_DATA = [
     "layoutCode": "SC1",
     "layoutName": "Grape and Ricotta Crostini",
     "category": "RECIPE",
-    "campaign": "SHOP & COLLECT CAMPAIGN",
+    "campaign": "Shop & Collect",
     "caption": "Here’s one to add to your next get-together spread. 🍇✨\n\nRoasted Muscat Grapes bring a burst of juicy sweetness to crisp crostini layered with creamy whipped ricotta. A drizzle of balsamic glaze and fresh rosemary add just the right savory contrast, making every bite feel a little special without being complicated. Serve these Grape and Ricotta Crostini as an easy appetizer for sharing, and find everything you need at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -30,7 +30,7 @@ const SHOP_COLLECT_PHOTOS_DATA = [
     "layoutCode": "SC2",
     "layoutName": "Chocolate Ice Cream Tiramisu Cake",
     "category": "RECIPE",
-    "campaign": "SHOP & COLLECT CAMPAIGN",
+    "campaign": "Shop & Collect",
     "caption": "Tiramisu meets chocolate ice cream in a dessert worth saving room for. 🍫🍨\n\nCoffee-soaked ladyfingers are layered with creamy mascarpone and Nestlé Temptations Almond Brownie Fudge Ice Cream for a frozen twist on the classic tiramisu. Finished with a generous dusting of cocoa powder, every slice brings together rich chocolate, coffee, and creamy layers. Make it ahead for your next gathering, then simply slice and serve! Find everything you need at The Marketplace. 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nestlé Temptations"
@@ -53,7 +53,7 @@ const SHOP_COLLECT_PHOTOS_DATA = [
     "layoutCode": "SC3",
     "layoutName": "Strawberry Overnight Oat Bowl",
     "category": "RECIPE",
-    "campaign": "SHOP & COLLECT CAMPAIGN",
+    "campaign": "Shop & Collect",
     "caption": "Make tomorrow morning easier with breakfast ready in the fridge. 🍓🥄\n\nCreamy overnight oats made with Chobani Fit Strawberry Greek Yogurt are layered with chia pudding and a homemade strawberry filling for a breakfast that’s satisfying and easy to prep ahead. Topped with fresh strawberries and served chilled, this Strawberry Overnight Oat Bowl is a refreshing way to start the day. Pick up Chobani Fit Strawberry Greek Yogurt and everything you need at The Marketplace! 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Chobani"
@@ -76,7 +76,7 @@ const SHOP_COLLECT_PHOTOS_DATA = [
     "layoutCode": "SC4",
     "layoutName": "Cheesy French Onion Ramen",
     "category": "RECIPE",
-    "campaign": "SHOP & COLLECT CAMPAIGN",
+    "campaign": "Shop & Collect",
     "caption": "This isn’t your usual bowl of instant ramen. 🍜✨\n\nSlow-caramelized onions and ramen noodles come together in a rich, savory beef broth before getting topped with croutons and a generous layer of Emborg Mozzarella Cheese. Broiled until melted, bubbly, and lightly golden, this Cheesy French Onion Ramen turns a familiar favorite into an extra-comforting bowl. Pick up Emborg Mozzarella Cheese and everything you need at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Emborg"
@@ -99,7 +99,7 @@ const SHOP_COLLECT_PHOTOS_DATA = [
     "layoutCode": "SC5",
     "layoutName": "Blueberry Compound Butter",
     "category": "RECIPE",
-    "campaign": "SHOP & COLLECT CAMPAIGN",
+    "campaign": "Shop & Collect",
     "caption": "Here’s a little something to make warm muffins even better. 🫐🧈\n\nFresh blueberries, honey, lemon zest, and vanilla are folded into creamy Magnolia Gold Salted Butter for a fruity twist on your usual spread. Chilled until firm and sliced into rounds, this Blueberry Compound Butter melts beautifully over warm muffins, toast, or your favorite bread. Make a batch ahead and keep it ready whenever breakfast or merienda needs something extra. Find everything you need at The Marketplace! 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Magnolia"
@@ -122,7 +122,7 @@ const SHOP_COLLECT_PHOTOS_DATA = [
     "layoutCode": "SC6",
     "layoutName": "Grilled Cheese Hotdogs",
     "category": "RECIPE",
-    "campaign": "SHOP & COLLECT CAMPAIGN",
+    "campaign": "Shop & Collect",
     "caption": "Two comfort-food favorites, all in one bite. 🌭🧀\n\nGrilled Purefoods Angus Beef Franks are layered with cheddar cheese and pickles inside buttery hotdog buns, then toasted until golden and melty. Pair these Grilled Cheese Hotdogs with crispy fries for an easy, satisfying meal you can put together in just 20 minutes. Pick up everything you need at The Marketplace! 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Purefoods"
@@ -145,7 +145,7 @@ const SHOP_COLLECT_PHOTOS_DATA = [
     "layoutCode": "SC7",
     "layoutName": "Glucerna",
     "category": "OUT OF PACK W/ FOOD STYLING",
-    "campaign": "SHOP & COLLECT CAMPAIGN",
+    "campaign": "Shop & Collect",
     "caption": "Make every sip a simple addition to your day. 🥛✨\n\nEnjoy Glucerna as part of your daily routine, with its smooth and creamy vanilla flavor that’s easy to prepare whenever you need it. Keep a can on hand for a convenient drink you can enjoy at home or on the go. Pick up Glucerna at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Glucerna"
@@ -162,7 +162,7 @@ const SHOP_COLLECT_PHOTOS_DATA = [
     "layoutCode": "SC8",
     "layoutName": "Downy Mystique",
     "category": "NON-FOOD",
-    "campaign": "SHOP & COLLECT CAMPAIGN",
+    "campaign": "Shop & Collect",
     "caption": "Give laundry day a touch of luxury. 💜✨\n\nKeep your clothes smelling fresh with Downy Mystique, featuring a long-lasting perfume scent and odor protection that helps every load feel a little more special. Add it to your laundry routine for clothes that come out soft, fresh, and ready to wear. Pick up Downy Mystique at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Downy"
@@ -179,7 +179,7 @@ const SHOP_COLLECT_PHOTOS_DATA = [
     "layoutCode": "SC9",
     "layoutName": "Ensaymada Ice Cream Sandwich",
     "category": "RECIPE",
-    "campaign": "SHOP & COLLECT CAMPAIGN",
+    "campaign": "Shop & Collect",
     "caption": "Give a classic merienda favorite a cool new twist. 💜🍨\n\nSoft and cheesy The Baker’s Selection Ensaymada gets a generous scoop of ube ice cream in the middle, then an extra sprinkle of cheese for the perfect sweet-and-salty finish. This Ensaymada Ice Cream Sandwich takes just a few minutes to put together, making it an easy treat for whenever the craving hits. Pick up everything you need at The Marketplace! 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "The Baker's Selection"

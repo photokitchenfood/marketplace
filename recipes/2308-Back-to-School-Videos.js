@@ -10,7 +10,7 @@ const BACK_TO_SCHOOL_VIDEOS_DATA = [
     "category": "EAP",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "BACK TO SCHOOL",
+    "campaign": "Back to School",
     "caption": "Ready for the ultimate after-school party snack tray?\n\nTry your hand at making these waffle corn dogs made with an assortment of Tender Juicy Classic Hotdogs and Pampanga’s Best Chicken Longaniza; along with some Magnum Ice Cream Minis and  Chocolate Berry Overnight Muesli made with Natural Almond Milk Vanilla, Waitrose Belgian Dark Chocolate, and Casino Crunch Red Berry Muesli. \n\nSurprise your little one with a spread of his or her favorites, and enjoy these delightful snacks together, making your quality time even more special. #TheMarketplace has all the ingredients you need, so head over now!\n\nFOR THE WAFFLE CORNDOGS\n\nServing Time: 40 minutes\nYield: 16 pieces\n\nIngredients\n\nFOR THE FILLING: \n1/4 cup water \n4 pcs. Tender Juicy Classic Hotdogs \n2 tbsps. olive oil \n4 pcs. Pampanga's Best Chicken Longaniza, peeled \n1 cup cheddar cheese, grated\n\nFOR THE CORNDOG WAFFLE BATTER:\n3/4 cups all-purpose flour\n1/2 cup cornmeal \n1 tsp. sugar \n1 tsp. baking powder \n1/2 tsp. baking soda \n1/2 tsp. salt \n1/4 tsp. black pepper \n1/4 tsp. garlic powder \n1 cup buttermilk \n1 egg \n3 tbsps. butter, melted \n\nProcedure\n\n1. In a frying pan over medium heat, cover Tender Juicy Classic Hotdogs with 1/8 cup water, and let steam. Once the water has evaporated, add 1 tbsp. olive oil, and fry until slightly browned on all sides. Remove from the pan, then do the same with the Pampanga's Best Chicken Longaniza.\n2. Slice Tender Juicy Classic Hotdogs and Pampanga's Best Chicken Longaniza in half vertically, then skewer each half with a barbecue stick. Repeat for all hotdogs and longanizas.\n[CONTINUE IN NEXT SLIDE]",
     "brand": [
       "Tender Juicy",
@@ -40,7 +40,7 @@ const BACK_TO_SCHOOL_VIDEOS_DATA = [
     "category": "STOP MOTION",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "BACK TO SCHOOL",
+    "campaign": "Back to School",
     "caption": "Looking for a tried-and-tested cleaner for your home?\n\nHead over to #TheMarketplace and add Ariel Power Gel Sunrise Fresh to your cart! Its formula works twice as hard to get rid of unwanted stains by penetrating deep into fabrics. The best part is the refreshingly clean scent that it leaves behind. Grab some today with refills also available!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Ariel"

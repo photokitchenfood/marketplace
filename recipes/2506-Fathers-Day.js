@@ -9,7 +9,7 @@ const FATHERS_DAY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "FATHERS DAY",
+    "campaign": "Fathers Day",
     "caption": "Craving something rich, hearty, and done in just around an hour? Meet your new dinner favorite: Garlic Olive Oil Steak Bites cooked with Meadows Olive Oil.\n\nThese golden-seared ribeye cubes are basted with garlic and herbs, then tucked over a bed of buttery mashed potatoes. It’s comfort food, but just a little bit elevated.\n\nWhip it up for Father’s Day, date night, a solo indulgence, or just because some days deserve steak, too. You’ll want to bookmark this one! Find everything you need over at The Marketplace.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Meadows"
@@ -34,7 +34,7 @@ const FATHERS_DAY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "FATHERS DAY",
+    "campaign": "Fathers Day",
     "caption": "Here’s a chicken recipe that rewrites the rules: Rosemary Roasted Chicken & Grapes, glazed in a La Chapelle De La Mission Haut-Brion red wine sauce that’s so velvety and delicious, you’d want to make this recipe one of your signatures after you’ve tried it; plus, it’s perfect for Father’s Day, too.\n\nThe La Chapelle De La Mission Haut-Brion is a bold, structured red wine with deep character. It cuts through the richness of the golden chicken skin and lifts the sweetness of roasted grapes.\n\nThis isn’t your average roasted chicken dish. It’s a little French, a little rustic, and a lot worth lingering over. Pour yourself and Dad a glass, plate up, and let the wine do the talking. All the ingredients for this recipe are available at The Marketplace.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "La Chapelle De La Mission Haut-Brion"
@@ -59,7 +59,7 @@ const FATHERS_DAY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "FATHERS DAY",
+    "campaign": "Fathers Day",
     "caption": "Bring bold flavors to your Father’s Day dining table with this Moroccan-Spiced Lamb Rack, made using premium frenched Lamb Chops from The Marketplace.\n\nCharred to perfection with cumin, coriander, paprika, and a hint of cayenne pepper, each bite delivers warmth and depth. The cool yoghurt sauce laced with herbs and garlic adds a crisp contrast, while a dollop of hummus and a squeeze of lemon brighten up the plate.\n\nPair with Dad’s favorite red, and you've got a dinner that’s smoky, zesty, and unapologetically indulgent. Enjoy!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -84,7 +84,7 @@ const FATHERS_DAY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "FATHERS DAY",
+    "campaign": "Fathers Day",
     "caption": "Meet your new go-to for effortless entertaining this Father’s Day (or a solo treat that feels like a win): Caprese Flatbread with Balsamic Drizzle.\n\nIt all starts off with a golden crust that gets a gooey lift from Arla Mozzarella Cheese and finishes with a hit of tangy-sweet balsamic glaze. Roasted cherry tomatoes and fresh basil bring the garden party vibes. It’s simple, speedy, and seriously satisfying. Grab your Arla Mozzarella and everything else you need now at The Marketplace.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Arla"
@@ -109,7 +109,7 @@ const FATHERS_DAY_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "FATHERS DAY",
+    "campaign": "Fathers Day",
     "caption": "This Father’s Day, skip the usual dessert and raise a chilled glass instead — with a Mocha & Cashew Ice Cream Whiskey Float.\n\nThink smooth whiskey, cold brew, and a generous pour of chocolate syrup, crowned with scoops of Nestlé Temptations Extra Creamy Mocha & Cashew Ice Cream. Finish with a drizzle of more chocolate syrup and a handful of roasted cashews, and you’ve got a toast-worthy treat for Dad. It’s bold, indulgent, and just the right amount of grown-up.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nestlé Temptations"

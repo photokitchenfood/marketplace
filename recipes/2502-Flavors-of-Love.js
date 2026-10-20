@@ -9,7 +9,7 @@ const FLAVORS_OF_LOVE_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "FLAVORS OF LOVE",
+    "campaign": "Flavors of Love",
     "caption": "Red is the color of love, and this Valentine’s Day, why not treat your loved ones to an irresistible dessert that tastes just as good as it looks: a Molten Lindor Red Velvet Cake.\n\nPicture rich, chocolatey red velvet with a luscious Lindt Lindor Milk Chocolate Truffle nestled at its heart, oozing molten perfection with every bite. Top the cake with a cloud of freshly whipped cream and a sprinkle of delicate chocolate shavings for a dessert that feels like pure romance on a plate. All the ingredients you need are waiting for you at The Marketplace — so why not make this Valentine’s celebration truly unforgettable?\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Lindt"
@@ -34,7 +34,7 @@ const FLAVORS_OF_LOVE_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "FLAVORS OF LOVE",
+    "campaign": "Flavors of Love",
     "caption": "This February, embrace the sweet magic of the season with an impressively stunning Strawberry Chocolate Galette.\n\nA flaky, golden puff pastry base cradles a luscious filling of melted Hershey’s Milk Chocolate Kisses, topped with vibrant, juicy strawberries for that perfect balance of richness and freshness. Bake it for someone special or simply treat yourself; either way, this galette is pure, chocolatey bliss wrapped in buttery perfection. Every ingredient you need is waiting for you at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Hershey's"
@@ -59,7 +59,7 @@ const FLAVORS_OF_LOVE_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "FLAVORS OF LOVE",
+    "campaign": "Flavors of Love",
     "caption": "Dive into the luscious world of chocolate decadence with this Triple Chocolate Tres Leches, made irresistibly rich with Toblerone Crunchy Almond.\n\nThis isn’t your standard tres leches — the delicate sponge sees a chocolatey makeover and is soaked in a velvety trio of condensed milk, evaporated milk, and chocolate milk, transforming the classic into a dessert that’s bold, indulgent, and deeply satisfying. The subtle crunch of almond nougat from the Toblerone adds texture and intrigue, making each bite a revelation. Whipped chocolate ganache crowns the creation, offering a delightful contrast to cake below. Find every ingredient that you need at The Marketplace, and let this dessert be your next masterpiece.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Toblerone"
@@ -84,7 +84,7 @@ const FLAVORS_OF_LOVE_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "FLAVORS OF LOVE",
+    "campaign": "Flavors of Love",
     "caption": "Gather your favorite Pocky Chocolate Sticks and a bag of marshmallows, and prepare to indulge in the easiest, most delightful treat imaginable: Pocky S’mores.\n\nWith just two ingredients and five minutes, you can create a dessert that’s both playful and utterly satisfying. Simply skewer a marshmallow onto a Pocky stick, broil on low for a couple of minutes, and let the gooey marshmallow melt into the luscious chocolate coating. The Marketplace has everything you need, so why not bring a little magic to your next sweet moment?\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Pocky"
@@ -109,7 +109,7 @@ const FLAVORS_OF_LOVE_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "FLAVORS OF LOVE",
+    "campaign": "Flavors of Love",
     "caption": "This Valentine’s season, whip these special Ferrero Tiramisu Cups for yourself and that special someone!\n\nThis version is a luxurious twist on the classic dessert. Layers of velvety mascarpone cream, coffee-soaked ladyfingers, and Ferrero Rocher chocolates come together with a splash of brandy to create something truly exceptional. The balance of rich, nutty chocolate, bold coffee, and creamy decadence makes it the perfect dessert. Best of all, everything you need — from the Ferrero Rocher to the mascarpone — can be found at The Marketplace, so you can prepare this indulgent dessert with ease.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Ferrero Rocher"
@@ -134,7 +134,7 @@ const FLAVORS_OF_LOVE_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "FLAVORS OF LOVE",
+    "campaign": "Flavors of Love",
     "caption": "Why not make dessert the highlight of your evening with this luscious Cloud 9 Dessert Dip?\n\nThis heavenly treat combines softened cream cheese, a splash of heavy cream, rich caramel fudge, and chunks of Cloud 9 Gold for a velvety, sweet dip that's simply irresistible. Pair it with fresh strawberries, crisp apple slices, buttery cookies, or your favorite biscuits for a spread that feels effortlessly elegant. You can find everything you need to create this decadent dip at The Marketplace — because entertaining should be as delightful for you as it is for your guests.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Cloud 9"
@@ -159,7 +159,7 @@ const FLAVORS_OF_LOVE_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "FLAVORS OF LOVE",
+    "campaign": "Flavors of Love",
     "caption": "Hey there, lovebirds! Why not whip up a sweet treat together that’s as fun to make as it is to eat — KitKat Ice Cream Pie!\n\nStart with a graham cracker and Kit Kat crust that’s crunchy and chocolatey. Then, fill it with a dreamy mix of condensed milk, whipped cream, and even more Kit Kat pieces for that irresistible crunch in every bite. It’s the ultimate Valentine’s Day dessert, perfect for sharing (or not!). Grab everything you need at The Marketplace and make this love-filled dessert your pièce de résistance!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Kit Kat"
@@ -184,7 +184,7 @@ const FLAVORS_OF_LOVE_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "FLAVORS OF LOVE",
+    "campaign": "Flavors of Love",
     "caption": "Spread a little love this season of hearts with these irresistible Valentine's M&M Cookies — soft, chocolatey, and packed with festive M&Ms that add the perfect pop of color and crunch.\n\nWhether you’re wrapping them up as a sweet gift for someone special or sneaking a little indulgence for yourself, these cookies are sure to make every heart (and taste bud) happy. The best part? You can grab everything you need to whip these up right at The Marketplace — so easy, right? Let’s get baking!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "M&M's"
@@ -209,7 +209,7 @@ const FLAVORS_OF_LOVE_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "FLAVORS OF LOVE",
+    "campaign": "Flavors of Love",
     "caption": "Get ready to wow your palate with this Mixed Berry Cobbler à la Mode, made with Nestlé Strawberries & Cream Ice Cream and a blend of juicy mixed berries!\n\nIt’s the perfect dessert to whip up this season of love, with those gorgeous red and pink hues that just scream romance. Top it all off with that creamy ice cream, and you’ve got yourself a treat that’ll steal hearts. You can find everything you need for this sweet, berry-filled delight at the Marketplace.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nestlé"
@@ -234,7 +234,7 @@ const FLAVORS_OF_LOVE_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "FLAVORS OF LOVE",
+    "campaign": "Flavors of Love",
     "caption": "Chocolate lovers, gather ‘round, because these Triple Chocolate Waffles à la Mode are the treat of your dreams.\n\nImagine fluffy, rich chocolate waffles, studded with chocolate chips and topped with smooth and creamy Selecta Hershey’s Milk Chocolate with Almonds Ice Cream. A drizzle of chocolate syrup, fresh strawberries, and a sprig of mint take this dish from decadent to truly irresistible. It’s the perfect balance of nostalgia and indulgence. Everything you need for this sweet delight can be found at The Marketplace.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Selecta",

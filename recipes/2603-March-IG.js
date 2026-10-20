@@ -7,7 +7,7 @@ const MARCH_IG_DATA = [
     "layoutCode": "MH1",
     "layoutName": "Glade Ocean Escape",
     "category": "NON-FOOD",
-    "campaign": "MARCH IG",
+    "campaign": "March IG",
     "caption": "A fresh breeze, right when you need it! 🌊\n\nGlade Automatic Spray in Ocean Escape keeps your quietly refreshed with timed bursts of clean, airy fragrance — no effort required. Designed with convenience in mind, the holder is fully refillable, so you can keep the scent going without waste. Just set it, place it and let the room take care of itself.\n\nBring that just-opened-the-windows feeling home and get your Glade Automatic Spray from The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Glade"
@@ -24,7 +24,7 @@ const MARCH_IG_DATA = [
     "layoutCode": "MH2",
     "layoutName": "Papadum Pataks Chips and Dip",
     "category": "RECIPE",
-    "campaign": "MARCH IG",
+    "campaign": "March IG",
     "caption": "Crisp, light, and ready for just about anything, Patak’s Plain Pappadums puff up in seconds, turning into airy, crunchy rounds that work just as well as chips for dipping. 🫓\n\nIn this recipe for Papadum Pataks Chips & Dip, they carry everything from earthy beet hummus to bright turmeric yogurt and herby pesto, showing how easily they move from side dish to centerpiece snack.\n\nA simple base with plenty of range — pick up a pack at The Marketplace and try this recipe soon! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Papadum Pataks"
@@ -47,7 +47,7 @@ const MARCH_IG_DATA = [
     "layoutCode": "MH3",
     "layoutName": "Cheesy Spinach and Mushroom Baked Potato",
     "category": "RECIPE",
-    "campaign": "MARCH IG",
+    "campaign": "March IG",
     "caption": "A baked potato, but dressed for dinner! 🥔✨\n\nSplit open and piled high, this version leans into comfort: creamy mashed centers, sautéed mushrooms and spinach and crisp bacon for a little bite. The real finish comes from Emina Melting Sliced Cheese, softening into a smooth, glossy layer that ties everything together in just a few minutes in the oven.\n\nSimple, satisfying and just indulgent enough for a weeknight treat. Find what you need at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Emina"
@@ -70,7 +70,7 @@ const MARCH_IG_DATA = [
     "layoutCode": "MH4",
     "layoutName": "Carmen’s Best Milk Bar",
     "category": "OUT OF PACK W/ FOOD STYLING",
-    "campaign": "MARCH IG",
+    "campaign": "March IG",
     "caption": "Here’s a small treat that keeps things simple and sweet! 🥛\n\nCarmen’s Best Milk Bar is all about clean, honest flavor that’s made with 100% fresh milk and no artificial colorings, in a format that’s easy to reach for anytime. Each bar is lightly indulgent at 183 calories, with a boost of calcium in every bite and comes in a box of six for sharing (or not).\n\nStock the freezer with something you’ll actually look forward to — available now at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Carmen's Best"
@@ -87,7 +87,7 @@ const MARCH_IG_DATA = [
     "layoutCode": "MH5",
     "layoutName": "Ensure, Glucerna (Group Shot)",
     "category": "GROUP SHOT",
-    "campaign": "MARCH IG",
+    "campaign": "March IG",
     "caption": "Looking after your health can be as simple as what you reach for each day. 🌱\n\nEnsure Gold is formulated to support strength and vitality, with high-quality protein, HMB and essential nutrients to help maintain muscle and energy as you go about your routine. For those keeping an eye on blood sugar, Glucerna offers a more tailored option, designed with a slow-release carbohydrate system to support better glucose control while still delivering balanced nutrition.\n\nTwo thoughtful choices, depending on what your body needs. Find them at The Marketplace. 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Ensure",

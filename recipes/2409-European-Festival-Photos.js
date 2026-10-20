@@ -10,7 +10,7 @@ const EUROPEAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "EUROPEAN FESTIVAL 2024",
+    "campaign": "European Festival",
     "caption": "This popular style of cooking pasta got its name from — you guessed it! — the telephone. The melted cheese creates a pull that mimics the stretch of telephone wires.\n\nWhip up your own al Telefono pasta with some macaroni and Barilla Ricotta pasta sauce that comes with creamy ricotta flakes and chopped tomatoes. The combination of mozzarella and parmesan cheeses creates that iconic cheese pull. Head over to #TheMarketplace and shop all the ingredients that you need to prepare this delish pasta dish!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Barilla"
@@ -35,7 +35,7 @@ const EUROPEAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "EUROPEAN FESTIVAL 2024",
+    "campaign": "European Festival",
     "caption": "Pan con Tomate or Spanish Tomato Bread — this popular tapa with origins from Catalan is perfect to celebrate the end of summer with and takes only 15 minutes to make!\n\nHead over to #TheMarketplace and grab the ripest, plumpest tomatoes you can find, along with a baguette, some Filippo Berio Extra Virgin Olive Oil Spray, and get cooking!\n\nWith its strong and fruity taste, Filippo Berio Extra Virgin Olive Oil makes these open-faced Spanish tomato sandwiches much more aromatic and flavorful.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Filippo Berio"
@@ -60,7 +60,7 @@ const EUROPEAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "EUROPEAN FESTIVAL 2024",
+    "campaign": "European Festival",
     "caption": "Cozy season is upon us, and while the rain has been pouring, why not bring some sunshine into your home by baking this Orange Marmalade Loaf, made with Waitrose Essential Seville Orange Marmalade.\n\nSeville Oranges are also known as bitter oranges, which perfectly counter the sweet marmalade. Aromatic, bitter, sour, and sweet, this loaf is bursting with summer’s flavors and pairs perfectly with a warm cup of ginger tea. Find all the ingredients that you need for this luscious loaf at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Waitrose"
@@ -85,7 +85,7 @@ const EUROPEAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "EUROPEAN FESTIVAL 2024",
+    "campaign": "European Festival",
     "caption": "With the deep flavors of dark chocolate melded with a thick and creamy custard, these Chocolate Pots de Crème, made with Casino Noir Chocolate, will definitely send your taste buds sailing to a quaint French pâtisserie.\n\nThe key to getting the perfect texture to this dessert is by watching the temperature closely. It’s indeed a labor of love, but the end product will have you swooning over this dessert. It’s worth every minute. Head over to #TheMarketplace today and find all the ingredients that you need to whip up this delectable French treat!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Casino Noir"
@@ -110,7 +110,7 @@ const EUROPEAN_FESTIVAL_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "EUROPEAN FESTIVAL 2024",
+    "campaign": "European Festival",
     "caption": "You may have seen this dish in some fine Italian restaurants, so why not give your culinary skills a tasty challenge and prepare it at home?\n\nOssobuco literally translates to “bone with a hole”, and this particular cut of meat can be easily found at #TheMarketplace. Another crucial ingredient to making this recipe bellissimo is by choosing the right wine — in this case, it’s a bottle of Torlasco Barolo DOCG red wine. Don’t forget to save some to drink with the dish to make this meal undeniably delizioso.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Torlasco"
@@ -135,7 +135,7 @@ const EUROPEAN_FESTIVAL_PHOTOS_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "EUROPEAN FESTIVAL 2024",
+    "campaign": "European Festival",
     "caption": "Bring the dolce vita to your household by way of your favorite European sundries and snacks! An endless slew of brands and delectable treats await at #TheMarketplace. From premium olive oils to breakfast staples, imported Italian pastas to fine bottles of wine, stock up your shelves with only the best brands. Enjoy!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"

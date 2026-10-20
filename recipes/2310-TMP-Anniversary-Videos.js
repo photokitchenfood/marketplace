@@ -10,7 +10,7 @@ const TMP_ANNIVERSARY_VIDEOS_DATA = [
     "category": "STOP MOTION",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "ANNIVERSARY",
+    "campaign": "TMP Anniversary",
     "caption": "Have you tried this nifty Baygon Mosquito Repeller yet?\n\nAvailable at #TheMarketplace, this plug-in anti-mosquito device comes with a unique vaporizing system that keeps bugs away for up to 30 nights. Simple to use and with no zapping sounds, make sure you have one installed in each room of your house! \n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Baygon"
@@ -29,7 +29,7 @@ const TMP_ANNIVERSARY_VIDEOS_DATA = [
     "category": "STOP MOTION",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "ANNIVERSARY",
+    "campaign": "TMP Anniversary",
     "caption": "Now with two times better stain removal thanks to its ultra-concentrated formula, Ariel Sunrise Fresh Power Gel deeply penetrates into fabrics to get rid of stains better. Coupled with a super fresh-smelling scent, it dissolves better than powder and does not leave any residue.\n\nWhy not try it out for yourself? #TheMarketplace is home to Ariel products, along with other laundry and household essentials.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Ariel"

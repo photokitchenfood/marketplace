@@ -10,7 +10,7 @@ const PET_MONTH_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "PET MONTH",
+    "campaign": "Pet Month",
     "caption": "If you want to make your dog's day, give them a treat that’s not just tasty but also brings out their best. Pedigree Tasty Bites Chewy Cubes are perfect for training, bonding, or just letting them know they’re your best friend.\n\nThese treats are bite-sized, chewy, and packed with flavor that dogs can’t resist. And the best part? They’re designed to be healthy and delicious, so you can feel great about every bite they enjoy. Your dog deserves treats that bring happiness and a little extra joy to their tail-wagging moments. Find them at The Marketplace, along with other Pedigree products!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Pedigree"
@@ -29,7 +29,7 @@ const PET_MONTH_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "PET MONTH",
+    "campaign": "Pet Month",
     "caption": "Get only the best for your furry friend’s health and happiness.\n\nThe next time you visit The Marketplace, add some Pedigree Dentastix to your cart! It’s a treat that’s as good for your dog as it is enjoyable for them.\n\nThese chewy sticks are designed to help reduce plaque and tartar buildup, keeping those teeth strong and clean. Just give one a day, and your dog’s dental health gets a real boost — plus, they’ll love the taste! \n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Pedigree"
@@ -48,7 +48,7 @@ const PET_MONTH_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "PET MONTH",
+    "campaign": "Pet Month",
     "caption": "If you’re looking to spoil your kitty with something truly special, grab a few packets of Sheba Melty Katsuo & Salmon the next time you make your way to The Marketplace!\n\nThese creamy, savory treats are made with real salmon, and cats go absolutely wild for the flavor! They’re perfect for bonding moments, too. Just squeeze a bit from the pouch, and watch as your cat purrs, licks, and comes closer for more. It’s a wonderful way to treat them to something delicious, while creating those sweet, quiet moments we all adore. Give it a try!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Sheba"
@@ -67,7 +67,7 @@ const PET_MONTH_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "PET MONTH",
+    "campaign": "Pet Month",
     "caption": "Hey, pet parents! If you want to give your puppy the best start in life, Nutri Chunks Hi-Protein Puppy is here. Suitable for all dog breeds, this food is packed with high-quality protein and essential nutrients to support your pup’s growth, energy, and overall well-being. It also helps build strong muscles and supports all that puppy energy.\n\nNutri Chunks is designed to be both delicious and nutritious, giving your puppy a meal they’ll love and you can trust. The lamb, chicken liver, and milk blend brings all the flavor, while helping build strong muscles and a shiny coat. Find it at The Marketplace, along with other pet essentials!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nutri Chunks"
@@ -86,7 +86,7 @@ const PET_MONTH_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "PET MONTH",
+    "campaign": "Pet Month",
     "caption": "Got a new kitten as part of the family?\n\nHead over to The Marketplace and purchase some Purina One Healthy Kitten with Immune Defence Plus+. This formula is designed to support a growing cat’s developing immune system and is packed with the protein they need for all that playing and exploring.\n\nWith tasty, real chicken as the main ingredient and essential vitamins and minerals, it’s as nutritious as it is delicious. Your kitten will thrive on it — and you’ll feel great knowing you’re giving them everything they need to grow up strong and healthy.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Purina One"
@@ -105,7 +105,7 @@ const PET_MONTH_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "PET MONTH",
+    "campaign": "Pet Month",
     "caption": "Keep your adult dog feeling and looking their best!\n\nTry Top Breed Adult Dog Meal with Omega 3 & 6. This high-quality food is packed with essential nutrients that support a shiny coat, healthy skin, and overall vitality — thanks to those powerful Omega 3 & 6 fatty acids!\n\nYour dog deserves food that not only tastes great but also nourishes them at every stage of life. With balanced nutrition and ingredients they’ll love, Top Breed makes it easy to give your best friend the care they need to stay happy and healthy every day. Available at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Top Breed"
@@ -124,7 +124,7 @@ const PET_MONTH_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "PET MONTH",
+    "campaign": "Pet Month",
     "caption": "Wondering what to feed your little feline friends? Look no further than SmartHeart’s Dry Chicken, Fish, Egg & Milk Kitten Food.\n\nThis delightful blend is not only packed with high-quality protein, but it also features a tasty combination that kittens just can’t resist! With essential nutrients for growth and development, SmartHeart ensures your little furball has all they need. Treat your kitten to the goodness they deserve and watch them flourish! Find SmartHeart Cat Food at The Marketplace.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "SmartHeart"
@@ -143,7 +143,7 @@ const PET_MONTH_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "PET MONTH",
+    "campaign": "Pet Month",
     "caption": "If you want to treat your cat to something special, head over to The Marketplace and purchase some cans of VitaPet Supreme Adult Cat Tuna Chunks.\n\nPacked with real tuna, this tasty meal is sure to make your kitty purr with delight! Perfect for satisfying their taste buds and supporting their overall well-being, VitaPet Supreme Adult Cat Tuna Chunks makes mealtime feel like a gourmet experience. So go ahead, spoil your fur baby a little.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "VitaPet"
@@ -162,7 +162,7 @@ const PET_MONTH_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "PET MONTH",
+    "campaign": "Pet Month",
     "caption": "Want to treat your kitty cat to something special? Try VitaPet Pouches in Mackerel & Salmon the next time you visit The Marketplace!\n\nThis delicious combo is not only packed with flavor but it’s also loaded with vitamins and minerals. Imagine the joy on their little face as they dig into this fishy delight! It’s a convenient, tasty option that’ll have them purring for more. \n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "VitaPet"
@@ -181,7 +181,7 @@ const PET_MONTH_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "PET MONTH",
+    "campaign": "Pet Month",
     "caption": "Has your dog tried VitaPet Premium Dog Tray in Lamb yet? This isn't just a meal; it's a delightful experience that will have your dog wagging their tail with joy.\n\nMade with high-quality lamb, this tray is packed with nutrients to keep your dog healthy and active. The best part? It’s so easy to serve — just pop it open and watch your pet dive in!\n\nWhy not give your canine companion a taste of this delicious goodness? Make mealtime fun and flavorful with VitaPet products — available at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "VitaPet"

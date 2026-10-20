@@ -10,7 +10,7 @@ const LOVE_FOOD_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "LOVE, FOOD FESTIVAL",
+    "campaign": "Love Food",
     "caption": "Add a playful and nostalgic touch to this homemade cookie trifle with Nips!\n\nNips not only adds a familiar flavour, but also a splash of color to liven up any dessert! Grab the ingredients you need now at #TheMarketplace! #LoveFoodFestival",
     "brand": [
       "Casino",
@@ -36,7 +36,7 @@ const LOVE_FOOD_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "LOVE, FOOD FESTIVAL",
+    "campaign": "Love Food",
     "caption": "Enchant your date tonight with this delicious Creamy Basil Chicken Pesto.\n\nLet the bright basil flavours, tangy and sweet tomatoes, and rich heavy cream tantalize each taste bud. We used a bottle of Papa Alfredo Basil Pesto that you can find at #TheMarketplace! #LoveFoodFestival",
     "brand": [
       "Papa Alfredo"
@@ -61,7 +61,7 @@ const LOVE_FOOD_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "LOVE, FOOD FESTIVAL",
+    "campaign": "Love Food",
     "caption": "Bring that iconic scene from Lady and the Tramp to life with a hearty dish of Papa Alfredo Spaghetti & Homemade Meatballs!\n\nComfort food at its finest. Get all the ingredients you need at #TheMarketplace! #LoveFoodFestival",
     "brand": [
       "Papa Alfredo"
@@ -86,7 +86,7 @@ const LOVE_FOOD_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "LOVE, FOOD FESTIVAL",
+    "campaign": "Love Food",
     "caption": "No Valentine’s Day is complete without some wine. For a fruity twist, combine some honey, orange juice, apples, and tonic water with a bottle of Winemakers Reserve Merlot!\n\nDrop by #TheMarketplace for all the ingredients you need! #LoveFoodFestival",
     "brand": [
       "Winemakers Reserve"
@@ -111,7 +111,7 @@ const LOVE_FOOD_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "LOVE, FOOD FESTIVAL",
+    "campaign": "Love Food",
     "caption": "Got a sweet tooth? Then indulge in these Chocolate-Caramel Mousse Pots made even more special with Mars Chocolate and Caramel Milk Drinks! Both available at #TheMarketplace. #LoveFoodFestival",
     "brand": [
       "Mars"
@@ -136,7 +136,7 @@ const LOVE_FOOD_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "LOVE, FOOD FESTIVAL",
+    "campaign": "Love Food",
     "caption": "Ferrero Rocher has always been a regular sight on Valentine’s Day, so here’s a recipe that’ll up the indulgence by a notch: Ferrero Surprise Cupcakes. \n\nSimply stuff each cupcake with a Ferrero Rocher bonbon for a creamy explosion of deep hazelnut-chocolate flavour in every bite! Find your Ferrero Rocher best at #TheMarketplace. #LoveFoodFestival",
     "brand": [
       "Ferrero"
@@ -161,7 +161,7 @@ const LOVE_FOOD_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "LOVE, FOOD FESTIVAL",
+    "campaign": "Love Food",
     "caption": "Whip up this No-Bake KitKat Cheesecake for that special someone!\n\nTangy cream cheese and sweet chocolate pair so well together because the savory quality of the cream cheese lifts and adds depth to the cacao. Not to mention, biting into that familiar chocolate-covered wafer is such a treat!\n\nVisit #TheMarketplace now and grab what you need this #LoveFoodFestival!",
     "brand": [
       "KitKat"
@@ -186,7 +186,7 @@ const LOVE_FOOD_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "LOVE, FOOD FESTIVAL",
+    "campaign": "Love Food",
     "caption": "Did anyone say Maltesers Cookie Bars?\n\nImagine a chewy, caramelly cookie base studded with puffy Maltesers. This easy recipe will make this treat a staple for every celebration (or pantry cookie jar). Trust us, it’s a sweet hit. #TheMarketplace #LoveFoodFestival",
     "brand": [
       "Maltesers"
@@ -211,7 +211,7 @@ const LOVE_FOOD_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "LOVE, FOOD FESTIVAL",
+    "campaign": "Love Food",
     "caption": "Here’s a creative way to make an edible bouquet: \n\nMelt some chocolate and drizzle over Pocky, wafer sticks, and skewered strawberries. Wait for the chocolate to harden and place in a decorative cup. There’s no sweeter bouquet than this one! #TheMarketplace #LoveFoodFestival",
     "brand": [
       "Pocky"
@@ -236,7 +236,7 @@ const LOVE_FOOD_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "LOVE, FOOD FESTIVAL",
+    "campaign": "Love Food",
     "caption": "While we’re a bit restricted from giving actual kisses this season, these special ones by Hershey’s will surely suffice.\n\nAvailable at #TheMarketplace, choose from Truffle or add a fruity spin with Strawberry. #LoveFoodFestival",
     "brand": [
       "Hershey’s"
@@ -255,7 +255,7 @@ const LOVE_FOOD_DATA = [
     "category": "RECIPE",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "LOVE, FOOD FESTIVAL",
+    "campaign": "Love Food",
     "caption": "Not only is red wine a great accompaniment to tomato-based dishes, but cooking with it actually adds richness and a more robust tomato flavour!\n\nWe used the Papa Alfredo Tomato & Garlic Italian Sauce for this recipe, and remember, don’t skimp out on the parmesan! Try it today and get your ingredients fresh from #TheMarketplace! #LoveFoodFestival",
     "brand": [
       "Papa Alfredo"
@@ -280,7 +280,7 @@ const LOVE_FOOD_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "ppm",
     "categoryConfidence": "high",
-    "campaign": "LOVE, FOOD FESTIVAL",
+    "campaign": "Love Food",
     "caption": "A selection of curated charcuterie is a sure-fire way to make a classy impression.\n\nChoose from the freshest assortment of cold cuts, deli items, cheeses, and snacks available at #TheMarketplace. #LoveFoodFestival",
     "brand": [],
     "recipe": null,

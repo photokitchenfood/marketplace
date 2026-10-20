@@ -10,7 +10,7 @@ const TMP_ANNIVERSARY_PHOTOS_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "TMP ANNIVERSARY",
+    "campaign": "TMP Anniversary",
     "caption": "Treat yourself — and your home — to some little luxuries. They’re more than just products; they’re sensory experiences waiting to happen.\n\nWalk into a room where the air is softly kissed by the scent of fresh lavender and creamy vanilla, a calming invitation to unwind. That’s the magic of Glade Auto Spray in Lavender Vanilla, which transforms your space into a serene haven. But before you settle in, use Meadows Home Multipurpose Cream Cleanser to make every surface gleam with effortless shine, leaving behind nothing but a fresh, clean feeling.\n\nAnd for those who believe in the luxury of softness, there’s Downy Sunrise Fresh, its crisp, sunny fragrance clings delicately to your clothes, reminding you with every wear that softness and freshness should always go hand in hand.\n\nBring this luxurious feeling into your home. Head over to The Marketplace and shop now.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Glade",
@@ -31,7 +31,7 @@ const TMP_ANNIVERSARY_PHOTOS_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "TMP ANNIVERSARY",
+    "campaign": "TMP Anniversary",
     "caption": "There’s something utterly irresistible about Downy Sunrise Fresh.\n\nImagine waking up in a sun-drenched field, where the crisp morning air mingles with the delicate scent of blooming flowers. More than just fabric softener, it’s a moment of sheer indulgence.\n\nBe gently enveloped in a fragrance that lingers, a subtle reminder of life’s little pleasures. Grab your fill of Downy Sunrise Fresh at The Marketplace, along with other laundry essentials!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Downy"
@@ -50,7 +50,7 @@ const TMP_ANNIVERSARY_PHOTOS_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "TMP ANNIVERSARY",
+    "campaign": "TMP Anniversary",
     "caption": "Just like a warm, comforting embrace, lavender’s calming notes, perfectly balanced by the sweet, creamy hint of vanilla are encapsulated in Glade Auto Spray in Lavender Vanilla.\n\nIt doesn’t just scent the room; it transforms it into a cocoon of calm, a little escape from the world outside. And the best part? It’s effortless. A discreet spray that keeps your space feeling indulgently fragrant without lifting a finger. Go ahead, let the magic of lavender and vanilla work its wonders. Find Glade products at The Marketplace and elevate your home experience.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Glade"
@@ -69,7 +69,7 @@ const TMP_ANNIVERSARY_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "TMP ANNIVERSARY",
+    "campaign": "TMP Anniversary",
     "caption": "Chimichurri Shrimp is one of those dishes that looks impressive but is so simple to make, especially when you use Meadows Extra Light Olive Oil. It’s perfect for sautéing the shrimp to a golden, tender perfection.\n\nThe chimichurri sauce, with its bright mix of fresh parsley, vinegar, garlic, and a hint of red pepper, pairs beautifully with the delicate flavor of the shrimp. The light, smooth texture of this olive oil allows all the other flavors to shine, while giving your dish that perfect sear. Delicious, elegant, and effortless, serve it with some fluffy butter rice or crusty bread, and you have the perfect dinner.\n\nFind Meadows products, along with all the ingredients that you need for this recipe, at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Meadows"
@@ -94,7 +94,7 @@ const TMP_ANNIVERSARY_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "TMP ANNIVERSARY",
+    "campaign": "TMP Anniversary",
     "caption": "Sometimes the best desserts are the simplest ones, especially when they have a little twist.\n\nThis Nougat Eton Mess, made with El Corte Turrón de Alicante, is the perfect combination of crunchy nougat, sweet strawberries, and luscious whipped cream — so easy, yet so impressive.\n\nTo make it, just whip some heavy cream with vanilla, layer it with fresh strawberries, and top with crumbled turrón. It’s decadently light, and the nougat adds such an unexpected crunch that takes this classic dessert to a whole new level.\n\nPerfect for a dinner party or just a casual treat, it’s one of those desserts that looks beautiful but doesn’t take hours to prepare — in fact, only less than half an hour! Head over to The Marketplace and get all the items that you need for this gorgeous dessert.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "El Corte"
@@ -119,7 +119,7 @@ const TMP_ANNIVERSARY_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "TMP ANNIVERSARY",
+    "campaign": "TMP Anniversary",
     "caption": "How good does Creamy Roasted Chestnut Soup sound for a cozy night in?\n\nWith Casino Whole Chestnuts, this rich, velvety soup is absolutely effortless. The chestnuts are already good to go, so all you have to do is blend them with sautéed onions, a little garlic, and some good chicken stock. Add a drizzle of cream for that luscious texture and croutons for crunch.\n\nServe it with some bread, your favorite salad, and maybe a drizzle of olive oil, and you’ve got the perfect dish for any occasion. It’s elegant enough for a dinner party but simple enough for a weeknight meal. Get you all your ingredients at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Casino"
@@ -144,7 +144,7 @@ const TMP_ANNIVERSARY_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "TMP ANNIVERSARY",
+    "campaign": "TMP Anniversary",
     "caption": "How about a little flavor adventure?\n\nLet's make a Gochujang-Marinated Steak that’s as easy as it is spectacular. Start with slabs of Australian Denver Steak, available at The Marketplace, and known for its incredible marbling and tenderness — it’s the perfect match for the rich, spicy-sweet magic of gochujang. The marinade practically does all the work: a bit of garlic, ginger, soy sauce, honey, and half an hour in the fridge to let everything soak in.\n\nWhen you’re ready, just sear it up for that beautiful caramelized crust and juicy, melt-in-your-mouth finish.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
@@ -169,7 +169,7 @@ const TMP_ANNIVERSARY_PHOTOS_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "TMP ANNIVERSARY",
+    "campaign": "TMP Anniversary",
     "caption": "If you’re craving something elegant yet comforting, try this Steak Diane with Greater Omaha Choice Rib Eye Steaks, which are available at The Marketplace!\n\nImagine tender rib eye, seared to perfection, then bathed in a luscious pan sauce of Worcestershire, beef broth, Dijon mustard, a little cream, and fresh herbs — it’s so simple and so delicious. And the best part? It all comes together in one pan!\n\nFor a special night or just because, serve with red wine and a side of vegetables. Enjoy! \n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Greater Omaha"

@@ -10,7 +10,7 @@ const MIDYEAR_WINE_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MIDYEAR WINE",
+    "campaign": "Midyear Wine",
     "caption": "While a Cabernet Sauvignon or a Merlot are the typical wines used for poaching pears, here’s a recipe that uses Margaret River Chenin Blanc for a change.\n\nThese Vanilla White Wine Poached Pears are a more feminine alternative to the red-wine version, leaning on subtle flavors of vanilla and cinnamon to flavor the fruit. On its own, Chenin Blanc is a white wine whose notes are likened to honeyed apples and pears, making it an ideal wine for this dessert.\n\nGrab a bottle or two of Margaret River Chenin Blanc at #TheMarketplace and try your hand at this delicate and boozy dessert! We hope you like it.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic",
@@ -36,7 +36,7 @@ const MIDYEAR_WINE_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MIDYEAR WINE",
+    "campaign": "Midyear Wine",
     "caption": "If you have some beef tenderloin and a bottle of Club Des Sommelier Bourgogne Chardonnay from #TheMarketplace, we urge you to try your hand at this cheeky white wine alternative to Beef Bourguignon — a homey dish of Beef Tenderloin in Mushroom Sauce.\n\nVelvety, creamy, and with a nice zing that does not overpower, this tenderloin recipe is the perfect meal to wrap up a busy week with — but who needs waiting if you’re simply feeling indulgent and deserving?\n\nIn the mood for a lighter protein? Go ahead and substitute the beef with chicken. Serve with a side salad for balance and a touch of health.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Club Des Sommelier"
@@ -61,7 +61,7 @@ const MIDYEAR_WINE_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "MIDYEAR WINE",
+    "campaign": "Midyear Wine",
     "caption": "The great thing about cooking with wine is that apart from tenderizing meats, it also adds a wonderful splash of flavor when deglazing the pan. Picking up the delicious remnants, wine provides cohesion, making it a great ingredient for meat sauces.\n\nFor example, in this recipe for Pan-Seared Pork Chop with Blue Cheese, we used half a cup of Haut Brillette Moulis to add more flavor to the porcine meat. Providing sweetness and depth, the wine also helps break down the proteins from the pork chop, keeping the meat tender and juicy as it cooks. Finish off with crumbled blue cheese, and you’ve got a stellar meal that’s worth a repeat or two! Find all the ingredients that you need for this dish at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Haut Brillette Moulis"

@@ -10,7 +10,7 @@ const FRESHTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "FRESHTIVAL",
+    "campaign": "Freshtival",
     "caption": "The irresistible flavor of nori coupled with delicious, savory fried chicken come together in this recipe for umami-packed Nori Chicken Popcorn made with Magnolia Chicken Breast Fillet.\n\nSo addictive and tasty, add this Asian fried chicken dish to your meal plan and get all the ingredients you need fresh from #TheMarketplace!\n\nServing Time: 50 minutes\nYield: 4-5 servings\n\nIngredients\n\n500g Magnolia Chicken Breast Fillet\n2 tbsps. soy sauce \n½ tsp. salt\n¼ tsp. pepper \n1 egg \n1 cup cornstarch \nOil for deep frying \n2 tsps. togarashi \n1 tbsp. aonori \n1 tbsp. nori strips \n2 tbsps. leeks, sliced\n\nProcedure\n\n1. Slice Magnolia Chicken Breast Fillet into bite-sized chunks. Season with soy sauce, salt and pepper. Marinate for 15-30 minutes in the chiller. \n2. Remove marinated chicken from the chiller. Mix in egg and 2 tbsps. of cornstarch to form a batter. Preheat oil for deep frying in a medium-sized pot. \n3. Let excess batter drip, then coat each chicken with cornstarch. Drop into the hot oil, and let fry until golden brown and cooked through—about 3 minutes. \n4. Drain fried chicken popcorn on paper towels or in a wire-mesh basket. \n5. Toss to coat newly-fried chicken popcorn in togarashi, aonori and nori strips. Season with salt. \n6. Garnish with sliced leeks.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Magnolia"
@@ -35,7 +35,7 @@ const FRESHTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "FRESHTIVAL",
+    "campaign": "Freshtival",
     "caption": "If you’re trying to lessen your meat consumption, but a bulgogi craving cannot be helped, don’t deprive yourself. Instead, whip up this Meat-Free Bulgogi Shawarma made with Veega Meat-Free Bulgogi in under 20 minutes!\n\nBursting with all the delicious flavours of Korean bulgogi without the guilt, grab a pack of Veega Meat-Free Bulgogi today at #TheMarketplace. Other meat alternatives are also available.\n\nServing Time: 15 minutes\nYield: 4 pieces\n\nIngredients\n\n1 (250g) pack Veega Meat-Free Bulgogi \n1 tsp. sesame seeds, toasted \n½ cup Greek yoghurt \n1 tsp. garlic, grated \n1 tsp. dried oregano\n1 tbsp. parsley, chopped \n1 tbsp. dill, chopped \nSalt and pepper to taste\n4 tortillas \n2 medium-sized tomatoes, sliced into strips \n1 medium-sized cucumber, deseeded and sliced into strips \n1 medium-sized red onions, sliced into strips \n\nProcedure\n\n1. Heat up Veega Meat-Free Bulgogi according to package instructions. Once warmed through, mix in sesame seeds. Set aside. \n2. Combine Greek yoghurt, garlic, oregano, parsley and dill. Season with salt and pepper. Chill while you assemble shawarmas. \n3. Fill each tortilla with Veega Meat-Free Bulgogi, tomatoes, cucumbers and red onions. \n4. Serve with herbed garlic yoghurt. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Veega"
@@ -60,7 +60,7 @@ const FRESHTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "FRESHTIVAL",
+    "campaign": "Freshtival",
     "caption": "Hosting a lunch or dinner and want some tasty appetizers (or you’re just in the mood for a classy snack)?\n\nMake these Candied Bacon Breadsticks made with Pampanga’s Best Brickle Bacon for a sweet-and-salty treat. The crisp, caramelized bacon lends an unforgettable crunch — make a lot, because these will surely run out fast! Find all the ingredients you need at #TheMarketplace! \n\nServing Time: 25 minutes\nYield: 10 pieces\n\nIngredients\n\n1 (240g) pack Pampanga’s Best Brickle Bacon\n20 breadsticks \n1 cup light brown sugar \n\nProcedure\n\n1. Preheat oven to 180°C. \n2. Wrap 2 pieces of breadsticks with 1-2 pieces of Pampanga’s Best Brickle Bacon. \n3. Roll bacon-wrapped breadsticks in light brown sugar. Make sure bacon is well coated. \n4. Bake for 12-15 minutes, or until bacon is nicely browned and sugar is caramelized. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Pampanga's Best"
@@ -85,7 +85,7 @@ const FRESHTIVAL_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "FRESHTIVAL",
+    "campaign": "Freshtival",
     "caption": "Make your mornings even better by sitting down to this hearty breakfast of Sausage & Sweet Potato Hash Baked Eggs, minus the meat, thanks to Unmeat Sausages!\n\nFree from trans-fat, cholesterol, and eggs, Unmeat sausages are plant-based and so juicy, you’ll almost forget there’s no meat in them! Find Unmeat products, along with other meat-free alternatives, at #TheMarketplace!\n\nServing Time: 20 minutes\nYield: 3-4 servings\n\nIngredients\n\n3 tbsps. vegetable oil \n1 (200g) pack Unmeat Sausages, sliced\n2 medium-sized sweet potatoes, diced \n1 medium-sized red bell pepper, diced \n1 medium-sized green bell pepper, diced \nSalt and pepper to taste \n3 eggs \n1 tbsp. parsley, chopped\n\nProcedure\n\n1. Add vegetable oil in a frying pan over medium heat. Fry Unmeat Sausages until nicely browned on both sides. Set aside while retaining oil in the pan. \n2. Sauté sweet potatoes and bell peppers until soft. Season with salt and pepper. \n3. Add back fried Unmeat Sausages, then make space for 3 eggs.\n4. Lower heat, then crack the eggs into the empty spaces. Cover for 3-5 minutes, or until eggs are cooked according to your liking. \n5. Garnish with parsley. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Unmeat"
@@ -110,7 +110,7 @@ const FRESHTIVAL_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "FRESHTIVAL",
+    "campaign": "Freshtival",
     "caption": "Durable, absorbent, and a must-have for every kitchen, Meadows Kitchen Towel comes in convenient pick-a-size sheets, so that you use only what you need.\n\nBecause they are thick, durable, and strong, they’re the perfect companion for both cooking and clean-ups, adding ease to your day-to-day activities. Pick up some Meadows Kitchen Towels the next time you visit #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "Meadows"

@@ -10,7 +10,7 @@ const SEPTEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "SEPTEMBER IG",
+    "campaign": "September IG",
     "caption": "Sushi Bake, but make it fun-sized! 🍣\n\nThese Salmon Sushi Bake Cups star our premium Mikisa Salmon Fillet, baked in nori with creamy mayo, sriracha, and sesame oil for that rich umami flavor. Each little parcel is a perfect mouthful: warm, creamy, and brimming with savory delight.\n\nTop with sesame seeds or furikake, and you’ve got the perfect shareable snack. Find Mikisa Salmon Fillet at The Marketplace and whip this up soon. Try it with tuna as well! ✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Mikisa"
@@ -35,7 +35,7 @@ const SEPTEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "SEPTEMBER IG",
+    "campaign": "September IG",
     "caption": "Warm, cozy, and a little indulgent — that’s the magic of these Banana Bar Churro Bites. 🍌✨\n\nUsing Monde Banana Bars with Choco Bits, this mash-up combines the comforting flavors of banana bread with the golden crisp of churros. Tossed in cinnamon sugar and drizzled with chocolate, each bite is sweet nostalgia with a playful twist.\n\nPerfect for churro fans, banana bread lovers, or anyone who just wants a fun treat to share. Pick up a pack of Monde Banana Bars with Choco Bits at The Marketplace and make this easy delight. 💛\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Monde"
@@ -60,7 +60,7 @@ const SEPTEMBER_IG_DATA = [
     "category": "OUT OF PACK W/ FOOD STYLING",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "SEPTEMBER IG",
+    "campaign": "September IG",
     "caption": "Snack time just got cuter! 🐟🍫\n\nThese Bibigo Bung O Pang Sweet Chocolate & Cream Waffles are crispy on the outside, gooey on the inside, and downright irresistible. Perfect for quick cravings or cozy nights in, making them a must-have in every fridge!\n\nStock up on these fish-shaped treats (and other snacking essentials) at The Marketplace today. 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Bibigo"
@@ -79,7 +79,7 @@ const SEPTEMBER_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "SEPTEMBER IG",
+    "campaign": "September IG",
     "caption": "Fresh, light, and full of flavor, this Mediterranean Hummus Toast is the kind of snack you’ll want any time of the day. 🌿\n\nMade with Monde Walter No Sugar Added Wheat Bread, it’s the perfect base for creamy, protein-packed hummus, crisp veggies, and a sprinkle of paprika.\n\nWholesome, nourishing, and deliciously satisfying, it’s a toast that’s as good for you as it tastes. 🥒🍅 Find Monde Walter No Sugar Added Wheat Bread at The Marketplace and try this simple recipe soon! ✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Monde Walter"
@@ -104,7 +104,7 @@ const SEPTEMBER_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "SEPTEMBER IG",
+    "campaign": "September IG",
     "caption": "Keep your bathroom fresh and spotless with Mr. Muscle Deep Action Gel Toilet Bowl Cleaner. 🧼✨\n\nIts powerful formula tackles tough stains while leaving everything clean and refreshed, definitely a true must-have for every household!\n\nGrab yours (and other cleaning essentials) today at The Marketplace. 🛒💪\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Mr. Muscle"

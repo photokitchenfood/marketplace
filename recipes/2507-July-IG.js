@@ -9,7 +9,7 @@ const JULY_IG_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "JULY IG",
+    "campaign": "July IG",
     "caption": "Bugs, begone! 🪰💨 Baygon Multi Insect Killer knocks out mosquitoes, cockroaches, and pesky intruders fast using a powerful formula that acts in seconds and keeps protecting long after. Stock up now at The Marketplace! 🛒✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Baygon"
@@ -28,7 +28,7 @@ const JULY_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "JULY IG",
+    "campaign": "July IG",
     "caption": "Craving something sweet and crunchy? 🍪🤍 Lotus Biscoff Speculoos White Chocolate is a dreamy combo of caramelized cookie bits and creamy white chocolate that melts in your mouth with just the right snap. Treat yourself today and grab it at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Lotus"
@@ -47,7 +47,7 @@ const JULY_IG_DATA = [
     "category": "OUT OF PACK",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "JULY IG",
+    "campaign": "July IG",
     "caption": "Ice cream, but make it a little bougie. 🍦✨\n\nFerrero Rocher’s White Ice Cream brings hazelnut-flavoured bliss in every bite, swirled with even more hazelnut and wrapped in a crunchy white chocolate, hazelnut, and almond shell. Creamy, nutty, and so satisfying. Find it at The Marketplace and keep your freezer fancy and cool. ❄️\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Ferrero Rocher"
@@ -66,7 +66,7 @@ const JULY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "JULY IG",
+    "campaign": "July IG",
     "caption": "Banana split dreams, but with Nutella? Yes, please! 🍌🍨🍫\n\nThis Banana Split stars Nutella Ice Cream — creamy, chocolatey, nutty perfection in every scoop. Add bananas, syrup, hazelnuts, and cherries for a dessert that hits every sweet spot. Grab a pot (or two) of Nutella Ice Cream at The Marketplace and get scoopin’! 😋✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nutella"
@@ -91,7 +91,7 @@ const JULY_IG_DATA = [
     "category": "RECIPE",
     "categorySource": "inferred",
     "categoryConfidence": "high",
-    "campaign": "JULY IG",
+    "campaign": "July IG",
     "caption": "Sweet, spicy, and totally slider-worthy, Steaks & Stuff Choco Chili Sausages bring the heat and a hint of cocoa: rich, smoky, with a little kick. 🌶️🍫🍔 \n\nStacked in a bun with tangy slaw and a baby pickle on top? You’ve got yourself a party bite with serious attitude. Grab everything you need at The Marketplace. Your grill and taste buds are gonna thank you. 😎🔥\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Steaks & Stuff"
@@ -116,7 +116,7 @@ const JULY_IG_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "JULY IG",
+    "campaign": "July IG",
     "caption": "Snack smarter with Megmilk Snow String Cheese! 🧀✨ Comes in Original, Chili, and Smoked, each one is made with premium Japanese dairy for that smooth, creamy pull-apart perfection. Mild, melty, and mess-free, it’s the ultimate grab-and-go treat. Find all three flavors at The Marketplace! 🎒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Megmilk Snow"
@@ -135,7 +135,7 @@ const JULY_IG_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "JULY IG",
+    "campaign": "July IG",
     "caption": "Say cheese! 🧀💛 Cheer Cheese comes shredded or sliced, making it perfect for melting over toast, layering in sandwiches, or sprinkling on pasta. 🥪🍝 It’s rich, creamy, and always ready to make meals extra tasty. Pick up a pack of each at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Cheer"
@@ -154,7 +154,7 @@ const JULY_IG_DATA = [
     "category": "GROUP SHOT",
     "categorySource": "inferred",
     "categoryConfidence": "low",
-    "campaign": "JULY IG",
+    "campaign": "July IG",
     "caption": "Bringing Cagayan De Oro’s finest straight to your fridge! 🐖🔥 Chino’s Deli serves up smoky, savory goodness with their lineup of meats — think juicy Smoked Chorizo, bold Hungarian Sausage, tender Corned Beef, and classic Pork Bacon. All the flavor, none of the fuss. Now conveniently available at The Marketplace. 🛒💥\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Chino's Deli"

@@ -10,7 +10,7 @@ const HEALTH_WELLNESS_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "HEALTH AND WELLNESS",
+    "campaign": "Health & Wellness",
     "caption": "Now in a refreshing, lemon scent, Family Guard Disinfectant is a multipurpose cleaner that kills viruses and 99.9% of bacteria. Definitely a household essential, it can be used on all types of kitchen counters and surfaces, cabinets, floors, tiles, and even water tanks.\n\nKeep your home always fresh and clean. Grab a bottle of Family Guard Disinfectant at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "Family Guard"
@@ -29,7 +29,7 @@ const HEALTH_WELLNESS_DATA = [
     "category": "NON-FOOD",
     "categorySource": "manual",
     "categoryConfidence": "high",
-    "campaign": "HEALTH AND WELLNESS",
+    "campaign": "Health & Wellness",
     "caption": "Designed to deliver complete comfort for baby, Huggies Dry Pants come in a unique 4-way design to ensure protection and care.\n\nAvailable in various sizes, including XXL for the older ones, Huggies is committed to enable your little ones to roam freely and without worry.\n\nHuggies is available at #TheMarketplace, along with other childcare needs.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Huggies"
@@ -48,7 +48,7 @@ const HEALTH_WELLNESS_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "HEALTH AND WELLNESS",
+    "campaign": "Health & Wellness",
     "caption": "With groovy and fun designs on each pad and with a honeycomb-shaped liquid-locker that’s designed to keep leaks at bay, Kotex Luxe also promises up to three times better absorption, while providing both intimate protection and ultra comfort.\n\nGrab you Kotex Luxe pads at #TheMarketplace and other feminine hygiene essentials!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Kotex"
@@ -67,7 +67,7 @@ const HEALTH_WELLNESS_DATA = [
     "category": "NON-FOOD",
     "categorySource": "inferred",
     "categoryConfidence": "medium",
-    "campaign": "HEALTH AND WELLNESS",
+    "campaign": "Health & Wellness",
     "caption": "With a special oat oil-infused formula, Aveeno Rapid Skin Relief Lotion is a must-have for nourished and moisturized skin. With natural shea butter to relieve and protect our skin’s barrier, it’s perfect especially for those with sensitive skin.\n\nSave PHP 300 when you head down to #TheMarketplace and purchase the twin pack! Each comes with two 354mL Skin Relief Moisturizing Lotion bottles.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Aveeno"
