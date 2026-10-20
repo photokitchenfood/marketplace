@@ -1867,6 +1867,42 @@ const RECIPES_INDEX = [
     "count": 7
   },
   {
+    "id": "2105-Mothers-Day",
+    "label": "Mothers Day",
+    "type": "photo",
+    "year": 2021,
+    "month": 5,
+    "file": "recipes/2105-Mothers-Day.js",
+    "count": 17
+  },
+  {
+    "id": "2105-May-IG",
+    "label": "May IG",
+    "type": "photo",
+    "year": 2021,
+    "month": 5,
+    "file": "recipes/2105-May-IG.js",
+    "count": 15
+  },
+  {
+    "id": "2105-Back-to-School",
+    "label": "Back to School",
+    "type": "photo",
+    "year": 2021,
+    "month": 5,
+    "file": "recipes/2105-Back-to-School.js",
+    "count": 14
+  },
+  {
+    "id": "2104-April-IG",
+    "label": "April IG",
+    "type": "photo",
+    "year": 2021,
+    "month": 4,
+    "file": "recipes/2104-April-IG.js",
+    "count": 17
+  },
+  {
     "id": "2103-Summer",
     "label": "Summer",
     "type": "photo",
