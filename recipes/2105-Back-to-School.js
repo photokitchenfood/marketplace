@@ -305,8 +305,8 @@ const BACK_TO_SCHOOL_DATA = [
   {
     "layoutCode": "BS14",
     "layoutName": "Eco Bag with Assorted Items",
-    "category": "OUT OF PACK",
-    "categorySource": "ppm",
+    "category": "NON-FOOD",
+    "categorySource": "manual",
     "categoryConfidence": "high",
     "campaign": "Back to School",
     "caption": "Save the Philippine Seas while you shop at #TheMarketplace!\n\nOur country relies heavily on the sea for its livelihood, and here at #TheMarketplace, it is part of our social mission to help conserve the Philippine seas.\n\nStarting this summer, let’s all do our part in taking greener steps together. Proceeds for our sea-themed eco-friendly bags will go to @savephseas. Grab one now before you go shopping at #TheMarketplace because the Philippines is worth diving for. \n\nPrefer to order your groceries online and have them delivered to you instead? Visit #TheMarketplace online at http://bit.ly/OrderTheMarketplace! Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",

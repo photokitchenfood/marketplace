@@ -1867,6 +1867,51 @@ const RECIPES_INDEX = [
     "count": 7
   },
   {
+    "id": "2106-US-Festival",
+    "label": "US Festival",
+    "type": "photo",
+    "year": 2021,
+    "month": 6,
+    "file": "recipes/2106-US-Festival.js",
+    "count": 6
+  },
+  {
+    "id": "2106-Snack-Festival",
+    "label": "Snack Festival",
+    "type": "photo",
+    "year": 2021,
+    "month": 6,
+    "file": "recipes/2106-Snack-Festival.js",
+    "count": 17
+  },
+  {
+    "id": "2106-Milkiest-Celebrations",
+    "label": "Milkiest Celebrations",
+    "type": "photo",
+    "year": 2021,
+    "month": 6,
+    "file": "recipes/2106-Milkiest-Celebrations.js",
+    "count": 3
+  },
+  {
+    "id": "2106-June-IG",
+    "label": "June IG",
+    "type": "photo",
+    "year": 2021,
+    "month": 6,
+    "file": "recipes/2106-June-IG.js",
+    "count": 18
+  },
+  {
+    "id": "2106-Fathers-Day",
+    "label": "Fathers Day",
+    "type": "photo",
+    "year": 2021,
+    "month": 6,
+    "file": "recipes/2106-Fathers-Day.js",
+    "count": 15
+  },
+  {
     "id": "2105-Mothers-Day",
     "label": "Mothers Day",
     "type": "photo",
