@@ -1867,6 +1867,60 @@ const RECIPES_INDEX = [
     "count": 7
   },
   {
+    "id": "2108-Wagyu-Festival",
+    "label": "Wagyu Festival",
+    "type": "photo",
+    "year": 2021,
+    "month": 8,
+    "file": "recipes/2108-Wagyu-Festival.js",
+    "count": 3
+  },
+  {
+    "id": "2108-HHH",
+    "label": "HHH",
+    "type": "photo",
+    "year": 2021,
+    "month": 8,
+    "file": "recipes/2108-HHH.js",
+    "count": 2
+  },
+  {
+    "id": "2108-August-IG",
+    "label": "August IG",
+    "type": "photo",
+    "year": 2021,
+    "month": 8,
+    "file": "recipes/2108-August-IG.js",
+    "count": 14
+  },
+  {
+    "id": "2107-July-IG",
+    "label": "July IG",
+    "type": "photo",
+    "year": 2021,
+    "month": 7,
+    "file": "recipes/2107-July-IG.js",
+    "count": 16
+  },
+  {
+    "id": "2107-International-Fried-Chicken-Day",
+    "label": "International Fried Chicken Day",
+    "type": "photo",
+    "year": 2021,
+    "month": 7,
+    "file": "recipes/2107-International-Fried-Chicken-Day.js",
+    "count": 3
+  },
+  {
+    "id": "2107-Breakfast-Fair",
+    "label": "Breakfast Fair",
+    "type": "photo",
+    "year": 2021,
+    "month": 7,
+    "file": "recipes/2107-Breakfast-Fair.js",
+    "count": 18
+  },
+  {
     "id": "2106-US-Festival",
     "label": "US Festival",
     "type": "photo",
