@@ -93,7 +93,7 @@ const FEBRUARY_IG_DATA = [
     "campaign": "February IG",
     "caption": "",
     "brand": [
-      "Royal"
+      "! Generic"
     ],
     "recipe": null,
     "photo": {
@@ -132,7 +132,9 @@ const FEBRUARY_IG_DATA = [
     "categoryConfidence": "low",
     "campaign": "February IG",
     "caption": "",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": null,
     "photo": {
       "filename": "IG7.jpg",

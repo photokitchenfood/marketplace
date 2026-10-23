@@ -113,7 +113,7 @@ const MARCH_IG_DATA = [
     "campaign": "March IG",
     "caption": "",
     "brand": [
-      "C2"
+      "! Generic"
     ],
     "recipe": null,
     "photo": {
@@ -212,7 +212,9 @@ const MARCH_IG_DATA = [
     "categoryConfidence": "low",
     "campaign": "March IG",
     "caption": "",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": null,
     "photo": {
       "filename": "IG11.jpg",
@@ -290,7 +292,9 @@ const MARCH_IG_DATA = [
     "categoryConfidence": "medium",
     "campaign": "March IG",
     "caption": "",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": null,
     "photo": {
       "filename": "IG15.jpg",
@@ -308,7 +312,9 @@ const MARCH_IG_DATA = [
     "categoryConfidence": "medium",
     "campaign": "March IG",
     "caption": "",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": null,
     "photo": {
       "filename": "IG16.jpg",

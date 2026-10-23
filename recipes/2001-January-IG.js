@@ -13,7 +13,7 @@ const JANUARY_IG_DATA = [
     "campaign": "January IG",
     "caption": "",
     "brand": [
-      "San Mig"
+      "San Miguel"
     ],
     "recipe": null,
     "photo": {
@@ -32,7 +32,9 @@ const JANUARY_IG_DATA = [
     "categoryConfidence": "low",
     "campaign": "January IG",
     "caption": "",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": null,
     "photo": {
       "filename": "IG2.jpg",
