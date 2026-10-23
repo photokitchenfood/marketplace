@@ -153,7 +153,7 @@ const AUGUST_IG_DATA = [
     "campaign": "August IG",
     "caption": "",
     "brand": [
-      "Thins"
+      "! Generic"
     ],
     "recipe": null,
     "photo": {
@@ -252,7 +252,9 @@ const AUGUST_IG_DATA = [
     "categoryConfidence": "low",
     "campaign": "August IG",
     "caption": "",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": null,
     "photo": {
       "filename": "IG13.jpg",
@@ -270,7 +272,9 @@ const AUGUST_IG_DATA = [
     "categoryConfidence": "low",
     "campaign": "August IG",
     "caption": "",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": null,
     "photo": {
       "filename": "IG14.jpg",

@@ -172,7 +172,9 @@ const JULY_IG_DATA = [
     "categoryConfidence": "medium",
     "campaign": "July IG",
     "caption": "",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": null,
     "photo": {
       "filename": "IG9.jpg",
@@ -190,7 +192,9 @@ const JULY_IG_DATA = [
     "categoryConfidence": "medium",
     "campaign": "July IG",
     "caption": "",
-    "brand": [],
+    "brand": [
+      "! Generic"
+    ],
     "recipe": null,
     "photo": {
       "filename": "IG10.jpg",
