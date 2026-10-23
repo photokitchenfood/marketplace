@@ -11,7 +11,7 @@ const DISH_OF_THE_MONTH_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Dish of the Month",
-    "caption": "Chimichurri is a usual accompaniment to roasted chicken or steak, but have you tried it with seafood?\nWe discovered that it particularly goes well with salmon, since the tanginess from the chimichurri cuts through the buttery fillets so well. Simply bake some salmon with olive oil, lemon, salt, and pepper; top with Gourmet-to-Go’s Chimichurri Sauce, and you’re good to go! The convenience and satisfaction is unbeatable. Prepare your meals at ease and shop ready-to-serve Gourmet-to-Go products at #TheMarketplace!\nServing Time: 25 minutes\nYield: 4 servings\n\nIngredients\n700g salmon fillet\n2 tbsps. olive oil\n2 tbsps. lemon juice\nSalt and pepper to taste\n1 pack (200g) Gourmet-to-Go Chimichurri Sauce\nLemon slices and lettuce to serve\n\nProcedure\n1. Preheat oven to 180°C and line a baking dish with foil or parchment.\n2. Pat dry the salmon fillet and place in the baking dish skin-side down. Season with salt and pepper, and rub with olive oil and lemon juice. Bake for 20 mins. or until the center flakes easily with a fork.\n3. Serve on a bed of lettuce and lemon slices. Top with a generous serving of Gourmet-to-Go Chimichurri Sauce, and serve with extra sauce on the side.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Chimichurri is a usual accompaniment to roasted chicken or steak, but have you tried it with seafood?\nWe discovered that it particularly goes well with salmon, since the tanginess from the chimichurri cuts through the buttery fillets so well. Simply bake some salmon with olive oil, lemon, salt, and pepper; top with Gourmet-to-Go’s Chimichurri Sauce, and you’re good to go! The convenience and satisfaction is unbeatable. Prepare your meals at ease and shop ready-to-serve Gourmet-to-Go products at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Gourmet to Go"
     ],
@@ -19,8 +19,8 @@ const DISH_OF_THE_MONTH_DATA = [
       "servingTime": "25 minutes",
       "yield": "4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n700g salmon fillet\n2 tbsps. olive oil\n2 tbsps. lemon juice\nSalt and pepper to taste\n1 pack (200g) Gourmet-to-Go Chimichurri Sauce\nLemon slices and lettuce to serve",
-      "procedure": "Procedure\nPreheat oven to 180°C and line a baking dish with foil or parchment.\nPat dry the salmon fillet and place in the baking dish skin-side down. Season with salt and pepper, and rub with olive oil and lemon juice. Bake for 20 mins. or until the center flakes easily with a fork.\nServe on a bed of lettuce and lemon slices. Top with a generous serving of Gourmet-to-Go Chimichurri Sauce, and serve with extra sauce on the side."
+      "ingredients": "700g salmon fillet\n2 tbsps. olive oil\n2 tbsps. lemon juice\nSalt and pepper to taste\n1 pack (200g) Gourmet-to-Go Chimichurri Sauce\nLemon slices and lettuce to serve",
+      "procedure": "Preheat oven to 180°C and line a baking dish with foil or parchment.\nPat dry the salmon fillet and place in the baking dish skin-side down. Season with salt and pepper, and rub with olive oil and lemon juice. Bake for 20 mins. or until the center flakes easily with a fork.\nServe on a bed of lettuce and lemon slices. Top with a generous serving of Gourmet-to-Go Chimichurri Sauce, and serve with extra sauce on the side."
     },
     "photo": {
       "filename": "DOTM1.jpg",

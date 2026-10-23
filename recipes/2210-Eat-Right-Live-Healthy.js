@@ -11,7 +11,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Eat Right Live Healthy",
-    "caption": "Have a craving for Mexican? Let these easy Chicken Taquitos made with CDO Chicken Flakes in Oil satisfy those taste buds! \n\nGear up for a fiesta of flavors with punchy taco seasoning along with condiments such as mozzarella cheese, tangy sour cream, and the classic combination of shredded cabbage, lime juice, diced tomatoes, and red onions. Don’t forget the cilantro! Add all these ingredients to your cart the next time you shop at #TheMarketplace for a taste of Mexico at home with your amigas and amigos.\n\nServing Time: 25-35 minutes\nYield: 3-4 servings\n\nIngredients\n\n2 tbsps. oil\n4 cans CDO Chicken Flakes In Oil, drained\n1 ½ tbsps. taco seasoning\nSalt and pepper to taste\n6 pcs. small tortilla wraps\n1 cup mozzarella cheese, grated\n½ cup sour cream\n¼ cup mayonnaise\n½ tbsp. garlic powder\n2 tbsps. lime juice\n2 cups cabbage, shredded\n1 cup tomatoes, diced\n½ cup red onions, diced\n⅛ cup cilantro leaves\n\nProcedure\n\n1. Set a pan over medium heat, then add oil and drained CDO Chicken Flakes. Fry for 2-3 minutes, then add in taco seasoning, and season with salt and pepper. Set aside.\n2. Fill each tortilla wrap with cooked CDO Chicken Flakes and mozzarella cheese. Roll into a log.\n3. Set a pan over medium heat. Pan fry each rolled tortilla until nicely toasted. Set aside.\n4. In a small bowl, combine sour cream, mayonnaise, garlic powder and lime juice. Season with salt and pepper. Set aside.\n5. Add shredded cabbage to a plate creating a bed, and transfer taquitos on top. Drizzle with dressing, then top with tomatoes, red onions and cilantro leaves.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
+    "caption": "Have a craving for Mexican? Let these easy Chicken Taquitos made with CDO Chicken Flakes in Oil satisfy those taste buds! \n\nGear up for a fiesta of flavors with punchy taco seasoning along with condiments such as mozzarella cheese, tangy sour cream, and the classic combination of shredded cabbage, lime juice, diced tomatoes, and red onions. Don’t forget the cilantro! Add all these ingredients to your cart the next time you shop at #TheMarketplace for a taste of Mexico at home with your amigas and amigos.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "CDO"
     ],
@@ -19,8 +19,8 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
       "servingTime": "25-35 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. oil\n4 cans CDO Chicken Flakes In Oil, drained\n1 ½ tbsps. taco seasoning\nsalt and pepper to taste\n6 pcs. small tortilla wraps\n1 cup mozzarella cheese, grated\n½ cup sour cream\n¼ cup mayonnaise\n½ tbsp. garlic powder\n2 tbsps. lime juice\n2 cups cabbage, shredded\n1 cup tomatoes, diced\n½ cup red onions, diced\n⅛ cup cilantro leaves",
-      "procedure": "Procedure\nSet a pan over medium heat, then add oil and drained CDO Chicken Flakes. Fry for 2-3 minutes, then add in taco seasoning, and season with salt and pepper. Set aside.\nFill each tortilla wrap with cooked CDO Chicken Flakes and mozzarella cheese. Roll into a log.\nSet a pan over medium heat. Pan fry each rolled tortilla until nicely toasted. Set aside.\nIn a small bowl, combine sour cream, mayonnaise, garlic powder and lime juice. Season with salt and pepper. Set aside.\nAdd shredded cabbage to a plate creating a bed, and transfer taquitos on top. Drizzle with dressing, then top with tomatoes, red onions and cilantro leaves."
+      "ingredients": "2 tbsps. oil\n4 cans CDO Chicken Flakes In Oil, drained\n1 ½ tbsps. taco seasoning\nsalt and pepper to taste\n6 pcs. small tortilla wraps\n1 cup mozzarella cheese, grated\n½ cup sour cream\n¼ cup mayonnaise\n½ tbsp. garlic powder\n2 tbsps. lime juice\n2 cups cabbage, shredded\n1 cup tomatoes, diced\n½ cup red onions, diced\n⅛ cup cilantro leaves",
+      "procedure": "Set a pan over medium heat, then add oil and drained CDO Chicken Flakes. Fry for 2-3 minutes, then add in taco seasoning, and season with salt and pepper. Set aside.\nFill each tortilla wrap with cooked CDO Chicken Flakes and mozzarella cheese. Roll into a log.\nSet a pan over medium heat. Pan fry each rolled tortilla until nicely toasted. Set aside.\nIn a small bowl, combine sour cream, mayonnaise, garlic powder and lime juice. Season with salt and pepper. Set aside.\nAdd shredded cabbage to a plate creating a bed, and transfer taquitos on top. Drizzle with dressing, then top with tomatoes, red onions and cilantro leaves."
     },
     "photo": {
       "filename": "ER1.jpg",
@@ -55,7 +55,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Eat Right Live Healthy",
-    "caption": "A mojito is a traditional Cuban cocktail that uses lime as its primary source of flavor, but have you tried making a mojito with a pineapple punch?\n\nUsing Dole 100% Unsweetened Pineapple Juice and some sliced pineapples, we’ve added a tropical twist to this well-loved drink. Opt to have it without the alcohol by simply removing it from the recipe, and enjoy it anytime of the day.\n\nFind all the ingredients you need for this recipe at #TheMarketplace, and while you’re at it, why not experiment with different fruits, too? Share with us your original mojito creations by leaving a comment below!\n\nServing Time: 5 minutes\nYield: 4-5 servings\n\nIngredients\n\n¾ cup mint sprigs\n1 pc. lime, sliced\n2 cups ice\n⅔ cup white rum\n2 tbsps. simple syrup\n3 cups Dole 100% Pineapple Juice, Unsweetened\n1 cup club soda\n1 cup pineapples, sliced\n\nProcedure\n\n1. In a pitcher, add ½ cup mint leaves and sliced lime. Mash it using a muddler, then add ice.\n2. Add in white rum, simple syrup, Dole 100% Pineapple Juice, Unsweetened, and club soda. Mix well.\n3. When serving, garnish glasses with sliced pineapples and remaining mint.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
+    "caption": "A mojito is a traditional Cuban cocktail that uses lime as its primary source of flavor, but have you tried making a mojito with a pineapple punch?\n\nUsing Dole 100% Unsweetened Pineapple Juice and some sliced pineapples, we’ve added a tropical twist to this well-loved drink. Opt to have it without the alcohol by simply removing it from the recipe, and enjoy it anytime of the day.\n\nFind all the ingredients you need for this recipe at #TheMarketplace, and while you’re at it, why not experiment with different fruits, too? Share with us your original mojito creations by leaving a comment below!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "Dole"
     ],
@@ -63,8 +63,8 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
       "servingTime": "5 minutes",
       "yield": "4-5 servings",
       "tips": "",
-      "ingredients": "Ingredients\n¾ cup mint sprigs\n1 pc. lime, sliced\n2 cups ice\n⅔ cup white rum\n2 tbsps. simple syrup\n3 cups Dole 100% Pineapple Juice, Unsweetened\n1 cup club soda\n1 cup pineapples, sliced",
-      "procedure": "Procedure\nIn a pitcher, add ½ cup mint leaves and sliced lime. Mash it using a muddler, then add ice.\nAdd in white rum, simple syrup, Dole 100% Pineapple Juice, Unsweetened, and club soda. Mix well.\nWhen serving, garnish glasses with sliced pineapples and remaining mint."
+      "ingredients": "¾ cup mint sprigs\n1 pc. lime, sliced\n2 cups ice\n⅔ cup white rum\n2 tbsps. simple syrup\n3 cups Dole 100% Pineapple Juice, Unsweetened\n1 cup club soda\n1 cup pineapples, sliced",
+      "procedure": "In a pitcher, add ½ cup mint leaves and sliced lime. Mash it using a muddler, then add ice.\nAdd in white rum, simple syrup, Dole 100% Pineapple Juice, Unsweetened, and club soda. Mix well.\nWhen serving, garnish glasses with sliced pineapples and remaining mint."
     },
     "photo": {
       "filename": "ER3.jpg",
@@ -118,7 +118,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Eat Right Live Healthy",
-    "caption": "There are many ways to get creative with pork and beans, but have you ever tried it as a dip?\n\nUsing only four ingredients — bread, cans of Hunt’s Pork and Beans, mozzarella, and parsley, you can easily whip up this cheesy, savory dip that’s indulgent and great for sharing. The best part? It takes only under 15 minutes to make. \n\nCreate this perfect pulutan this weekend and get all the ingredients you need at #TheMarketplace!\n\nServing Time: 10 minutes\nYield: 3-4 servings\n\nIngredients\n\n1 loaf bread, sliced\n4 cans Hunt’s Pork and Beans\n1 cup mozzarella cheese, grated\n2 tbsps. parsley, chopped\n\nProcedure\n\n1. Toast sliced bread until golden and set it aside.\n2. Preheat oven to 175°C.\n3. In a small cast iron pan, add Hunt’s Pork and Beans and top it with mozzarella cheese. \n4. Bake until cheese is fully melted and golden. Garnish with chopped parsley and serve.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
+    "caption": "There are many ways to get creative with pork and beans, but have you ever tried it as a dip?\n\nUsing only four ingredients — bread, cans of Hunt’s Pork and Beans, mozzarella, and parsley, you can easily whip up this cheesy, savory dip that’s indulgent and great for sharing. The best part? It takes only under 15 minutes to make. \n\nCreate this perfect pulutan this weekend and get all the ingredients you need at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "Hunt’s"
     ],
@@ -126,8 +126,8 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
       "servingTime": "10 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 loaf bread, sliced\n4 cans Hunt’s Pork and Beans\n1 cup mozzarella cheese, grated\n2 tbsps. parsley, chopped",
-      "procedure": "Procedure\nToast sliced bread until golden and set it aside.\nPreheat oven to 175°C.\nIn a small cast iron pan, add Hunt’s Pork and Beans and top it with mozzarella cheese. \nBake until cheese is fully melted and golden. Garnish with chopped parsley and serve."
+      "ingredients": "1 loaf bread, sliced\n4 cans Hunt’s Pork and Beans\n1 cup mozzarella cheese, grated\n2 tbsps. parsley, chopped",
+      "procedure": "Toast sliced bread until golden and set it aside.\nPreheat oven to 175°C.\nIn a small cast iron pan, add Hunt’s Pork and Beans and top it with mozzarella cheese. \nBake until cheese is fully melted and golden. Garnish with chopped parsley and serve."
     },
     "photo": {
       "filename": "ER6.jpg",
@@ -143,7 +143,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Eat Right Live Healthy",
-    "caption": "Looking for a sweet bagel treat? Head over to #TheMarketplace and grab a bag of Village Gourmet Whole Wheat Banana Bagels and prepare these delicious and filling PB&J Banana Bagel Sandwiches!\n\nBecause they’re made from whole wheat, the bagels add a boost of fiber to your meal. Feel free to get creative and swap the peanut butter for other spreads such as chocolate-hazelnut, or whatever tickles your fancy! Have this fresh for breakfast or bring it along with you to work and enjoy as an afternoon snack!\n\nServing Time: 10 minutes\nYield: 4 servings\n\nIngredients\n\n1 pack Village Gourmet Whole Wheat Banana Bagel\n2 tbsps. butter, softened\n1 cup peanut butter\n2 pcs. banana, sliced\n1 cup strawberry jam\n\nProcedure\n\n1. Slice Village Gourmet Whole Wheat Banana Bagel horizontally, and spread butter evenly. Toast for 2 minutes.\n2. Spread peanut butter on one bagel, then top with slices of bananas. Spread strawberry jam on the other bagel, then use this to cover the other bagel.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
+    "caption": "Looking for a sweet bagel treat? Head over to #TheMarketplace and grab a bag of Village Gourmet Whole Wheat Banana Bagels and prepare these delicious and filling PB&J Banana Bagel Sandwiches!\n\nBecause they’re made from whole wheat, the bagels add a boost of fiber to your meal. Feel free to get creative and swap the peanut butter for other spreads such as chocolate-hazelnut, or whatever tickles your fancy! Have this fresh for breakfast or bring it along with you to work and enjoy as an afternoon snack!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "Village Gourmet"
     ],
@@ -151,8 +151,8 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
       "servingTime": "10 minutes",
       "yield": "4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 pack Village Gourmet Whole Wheat Banana Bagel\n2 tbsps. butter, softened\n1 cup peanut butter\n2 pcs. banana, sliced\n1 cup strawberry jam",
-      "procedure": "Procedure\nSlice Village Gourmet Whole Wheat Banana Bagel horizontally, and spread butter evenly. Toast for 2 minutes.\nSpread peanut butter on one bagel, then top with slices of bananas. Spread strawberry jam on the other bagel, then use this to cover the other bagel."
+      "ingredients": "1 pack Village Gourmet Whole Wheat Banana Bagel\n2 tbsps. butter, softened\n1 cup peanut butter\n2 pcs. banana, sliced\n1 cup strawberry jam",
+      "procedure": "Slice Village Gourmet Whole Wheat Banana Bagel horizontally, and spread butter evenly. Toast for 2 minutes.\nSpread peanut butter on one bagel, then top with slices of bananas. Spread strawberry jam on the other bagel, then use this to cover the other bagel."
     },
     "photo": {
       "filename": "ER7.jpg",
@@ -225,7 +225,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Eat Right Live Healthy",
-    "caption": "Looking for a filling meal that’s nutritious and tasty? Try this Couscous Chicken Salad made with Casino Bio Small Peas and Sliced Carrots.\n\nSimple, delicious, and fresh-tasting, make this dish to enjoy at the comfort of your home as a light meal, or easily pack it with you to work for a satisfying lunch. Casino products are available exclusively at #TheMarketplace, so head over now and explore the range of products that the brand has to offer!\n\nServing Time: 35-45 minutes\nYield: 2 servings\n\nIngredients\n\n2 pcs. chicken breast fillet\n1 tbsp. garlic powder\n1 tbsp. onion powder\n1 tsp. paprika\nSalt and pepper to taste\n⅓ cup olive oil\n2 tbsps. lemon juice\n1 cup couscous\n1 ⅛ cup chicken broth\n2 tbsps. lemon juice\n2 cups Casino Bio Small Peas and Sliced Carrots, drained\n⅛ cup parsley, chopped\n\nProcedure\n\n1. Marinate chicken breast fillet with garlic powder, onion powder, ½ teaspoon paprika and 1 tablespoon olive oil. Season with salt and pepper, then set aside.\n2. Set a grill pan over medium heat. Grill marinated chicken breast until nicely charred and cooked through, about 10 minutes. Set aside, and let rest before slicing.\n3. Set a pot over medium low heat, then add couscous and chicken broth. Cook for 10 minutes. \n4. To make the dressing, combine remaining olive oil, paprika and lemon juice. Season with salt and pepper. \n5. In a large bowl, combine cooked couscous and drained Casino Bio Small Peas and Sliced Carrots. Mix in dressing and transfer to a serving plate.\n6. Slice grilled chicken, and add it on top of the plated couscous. Garnish with chopped parsley.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
+    "caption": "Looking for a filling meal that’s nutritious and tasty? Try this Couscous Chicken Salad made with Casino Bio Small Peas and Sliced Carrots.\n\nSimple, delicious, and fresh-tasting, make this dish to enjoy at the comfort of your home as a light meal, or easily pack it with you to work for a satisfying lunch. Casino products are available exclusively at #TheMarketplace, so head over now and explore the range of products that the brand has to offer!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "Casino"
     ],
@@ -233,8 +233,8 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
       "servingTime": "35-45 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 pcs. chicken breast fillet\n1 tbsp. garlic powder\n1 tbsp. onion powder\n1 tsp. paprika\nSalt and pepper to taste\n⅓ cup olive oil\n2 tbsps. lemon juice\n1 cup couscous\n1 ⅛ cup chicken broth\n2 tbsps. lemon juice\n2 cups Casino Bio Small Peas and Sliced Carrots, drained\n⅛ cup parsley, chopped",
-      "procedure": "Procedure\nMarinate chicken breast fillet with garlic powder, onion powder, ½ teaspoon paprika and 1 tablespoon olive oil. Season with salt and pepper, then set aside.\nSet a grill pan over medium heat. Grill marinated chicken breast until nicely charred and cooked through, about 10 minutes. Set aside, and let rest before slicing.\nSet a pot over medium low heat, then add couscous and chicken broth. Cook for 10 minutes. \nTo make the dressing, combine remaining olive oil, paprika and lemon juice. Season with salt and pepper. \nIn a large bowl, combine cooked couscous and drained Casino Bio Small Peas and Sliced Carrots. Mix in dressing and transfer to a serving plate.\nSlice grilled chicken, and add it on top of the plated couscous. Garnish with chopped parsley."
+      "ingredients": "2 pcs. chicken breast fillet\n1 tbsp. garlic powder\n1 tbsp. onion powder\n1 tsp. paprika\nSalt and pepper to taste\n⅓ cup olive oil\n2 tbsps. lemon juice\n1 cup couscous\n1 ⅛ cup chicken broth\n2 tbsps. lemon juice\n2 cups Casino Bio Small Peas and Sliced Carrots, drained\n⅛ cup parsley, chopped",
+      "procedure": "Marinate chicken breast fillet with garlic powder, onion powder, ½ teaspoon paprika and 1 tablespoon olive oil. Season with salt and pepper, then set aside.\nSet a grill pan over medium heat. Grill marinated chicken breast until nicely charred and cooked through, about 10 minutes. Set aside, and let rest before slicing.\nSet a pot over medium low heat, then add couscous and chicken broth. Cook for 10 minutes. \nTo make the dressing, combine remaining olive oil, paprika and lemon juice. Season with salt and pepper. \nIn a large bowl, combine cooked couscous and drained Casino Bio Small Peas and Sliced Carrots. Mix in dressing and transfer to a serving plate.\nSlice grilled chicken, and add it on top of the plated couscous. Garnish with chopped parsley."
     },
     "photo": {
       "filename": "ER11.jpg",

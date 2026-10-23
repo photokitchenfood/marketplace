@@ -1,0 +1,251 @@
+# Recipe / Caption / Procedure audit (Step 1, no data changed)
+
+Backup point: commit 7368384.
+
+## Flagged caption cards (recipe block in caption has lines that differ from the Recipe fields)
+
+Each line below is a caption line inside the duplicated block that did not match the Recipe field text exactly.
+
+- `2105-Mothers-Day.js` MD1 "Tiramisu Cups": '2. In a heatproof bowl, whisk egg yolks, sugar and vanilla. Place bowl over a pot with sim'
+- `2105-Mothers-Day.js` MD6 "Vegetarian Ramen": '1. In a pan, sauté the shiitake mushrooms and carrots in sesame oil, and then set aside.'
+- `2105-Mothers-Day.js` MD7 "Chocolate & Mango Chia Pudding": '4-6 pcs. Cocoa Monster Chocolate Mangoes, chopped'
+- `2105-Mothers-Day.js` MD8 "Kit Kat Brownies": '½ stick of butter, softened'
+- `2106-June-IG.js` IG4 "Maple Mustard Chicken Leg Quarters": '3 pcs. Magnolia Chicken Leg Quarters'
+- `2106-Snack-Festival.js` SF16 "Crunchy Seaweed Salad with Tuna": '3. Top with Laverland Crunch Seaweed Strips Almond and garnish with spring onions.'
+- `2107-International-Fried-Chicken-Day.js` IC3 "Snow Cheese Fried Chicken": 'Optional: Serve with sour cream and salsa.'
+- `2107-July-IG.js` IG10 "Coffee Jelly": '½ cup water, hot'
+- `2108-August-IG.js` IG3 "Monte Cristo Sandwiches": 'Optional: Serve with some strawberry jam on the side.'
+- `2108-August-IG.js` IG12 "Peruvian Roast Chicken": '(Peruvian Dressing)'
+- `2108-Wagyu-Festival.js` WF1 "Roasted Garlic Aioli": '1¼ cup La Española Classic Olive Oil'
+- `2109-Eat-Right-Live-Healthy.js` ER2 "Orange Upside Down Cake": '(For the Orange Cake)' / '(For the Orange Base)' / '(For the Orange Glaze)'
+- `2109-Eat-Right-Live-Healthy.js` ER3 "Open-Faced Veggie Burgers": '(For the Garlic Aioli)' / '(For the Burger)'
+- `2109-September-IG.js` IG13 "Reese’s Cheesecake": '1 Preheat oven to 175°C. Wrap the outside of a 9-inch springform pan with foil.'
+- `2110-Halloween.js` HA5 "Snickerdoodle Kiss Cookies": '(For the Cookies)' / '(For the Cookie Topping)'
+- `2110-International-Coffee-Day.js` ICD6 "3-in-1 Coffee Cheesecake": '3. Using a stand mixer fitted with a paddle attachment, beat cream cheese and sugar togeth' / '4. Mix in sour cream and dissolved coffee-gelatine mixture.'
+- `2110-October-IG.js` IG8 "Salted Egg Chips Chicken": '(For the Salted Egg Chips Chicken)' / '(For the Herb Mayo Dip)'
+- `2110-October-IG.js` IG10 "Bacon Onion Rings": '(For the Bacon Onion Rings)' / '(For Honey Mustard Dip)'
+- `2110-TMP-Anniversary.js` A12 "Crispy Dory with Pineapple Salsa": '(For the Crispy Dory)' / '(For the Pineapple Salsa)' / '(For the Herbed Couscous)'
+- `2110-TMP-Anniversary.js` A13 "Smoked Salmon Citrus Salad": '(For the Honey Lemon Vinaigrette)' / '(For the Smoked Salmon Salad)'
+- `2110-TMP-Anniversary.js` A16 "Tomato Soup with Grilled Cheese Croutons": '(For the Tomato Soup)' / '(For the Grilled Cheese Croutons)'
+- `2110-World-of-Wine.js` WOW2 "Creamy Shrimp Risotto": '¼ cup dry white wine or rosé'
+- `2111-November-IG.js` IG3 "Omnipork Musubi": '(For the Main Dish)' / '(For the Sriracha Mayo)'
+- `2112-December-IG.js` FB9 "Banoffee Pie": '(For the Crust)' / '(For the Filling)' / '(For the Topping)'
+- `2112-December-IG.js` FB10 "Vietnamese Yoghurt Coffee": '1 ½ cups Dutch Mill Delight'
+- `2201-January-IG.js` IG1 "French Onion Chip Dip": '1 can Woolworths Stacked Original Potato Chips'
+- `2201-January-IG.js` IG2 "Tropical Chia Pudding": '8 tbsps. Red Tractor Chia Black Seeds'
+- `2203-Summer.js` S3 "Bangus Tacos": '(For the taco sauce:)' / '(For the bangus tacos:)'
+- `2204-April-IG.js` IG6 "Potato Chip Spanish Tortilla": '(For the Garlic Aioli)' / '(For the Potato Chip Spanish Tortilla)'
+- `2204-April-IG.js` IG7 "Fish Tacos": '(For the Taco Sauce)' / '(For the Fish Tacos)'
+- `2204-April-IG.js` FB6 "Aburi Salmon Don": '2 packs Cold Storage Sushi & Sashimi'
+- `2205-Back-to-School.js` BS5 "Bacon Aglio Olio": '2 cups Pampanga’s Best Brickle Bacon, chopped'
+- `2205-May-IG.js` IG1 "No-Bake Cereal Bars": '3. Transfer Nestlé Gold Honey & Berries into the lined baking ban. Top with cranberries an'
+- `2205-May-IG.js` IG8 "Blueberry Cream Cheese French Toast": '4. Combine cream cheese, 1 cup blueberry El Corte Inglés Blueberry Jam and honey. Top 4 sl'
+- `2206-Fathers-Day.js` FD9 "Cranberry Cordial": '½ cup Bottlegreen Ginger & Lemongrass Cordial' / '1. Fill a cocktail shaker with ice. Add cranberry juice, Bottlegreen Ginger & Lemongrass C'
+- `2206-Fathers-Day.js` FD10 "Lemon Rosemary Olive Oil Cake": '1⅓ cups flour'
+- `2207-Breakfast-Fair.js` BF6 "Cornflake-Apple Pancakes": '1½ tbsps. sugar'
+- `2207-International-Fried-Chicken-Day.js` IC2 "Hainanese Fried Chicken": '1 Bounty Fresh Everyday Chicken, deboned' / '1½ cups flour'
+- `2207-International-Fried-Chicken-Day.js` IC9 "Crispy Chicken Teriyaki": '(For the Chicken)' / '(For the Teriyaki Glaze)' / '(For the Garnish)'
+- `2207-Snack-Festival.js` SF11 "Whipped Feta with Pistachio Pesto": '(For the Pistachio Pesto)' / '(For the Whipped Feta)'
+- `2211-Korean-Festival.js` KF2 "Spicy Ramen Carbonara": '3 packs Ottogi Jin Ramyun Spicy Cup Noodles'
+- `2211-Korean-Festival.js` KF5 "Ramen Pajeon": '1. Cook Samyang Buldak Hot Chicken Ramyun according to package instructions. Set aside.' / '2. In a large bowl, whisk together eggs and flour. Season with salt and pepper. Mix in coo'
+- `2212-December-IG.js` FB5 "Cilantro Lime Chicken Tenders": 'Tips (Optional) - Serve with a side salad.'
+- `2212-December-IG.js` IG2 "Orange-Cranberry Graham Tart": 'Tips (Optional): Top with additional cranberries, orange slices and rosemary sprigs.'
+- `2212-Frozen-Flavors.js` FF1 "Strawberry Matcha Affogato": '2 scoops Grom Strawberry Gelato' / '2. Place scoops of Grom Strawberry Gelato in a serving glass.'
+- `2212-Frozen-Flavors.js` FF10 "Biscuits N’ Cream Freakshake": '1 pint Häagen-Dazs Biscuit Caramel Biscuit and Cream Ice Cream' / '3. Set aside one scoop of Häagen-Dazs Biscuit Caramel Biscuit and Cream Ice Cream' / 'to freeze.'
+- `2301-January-IG.js` FB1 "Steak & Potato Gratin": 'For the Chimichurri:'
+- `2302-Love-Food-Photos.js` LF6 "Osso Buco with Polenta": 'Tips (Optional): Serve over polenta.'
+- `2302-Love-Food-Photos.js` LF12 "Strawberry Milk Chocolate Ombre Cupcakes": 'CUPCAKES:'
+- `2303-March-IG.js` FB2 "Lupini Bean and Olive Salad": '1 pack (100g) Madama Lupini Beans' / '1 pack (100g) Madama Spicy Pitted Green Olives' / '1. In a large bowl, combine Madama Lupini Beans, Madama Spicy Pitted Olives, lettuce, toma'
+- `2303-Summer-Photos.js` SUM4 "Chocolate Ice Cream Tartufo": '1. Line 2 small bowls with cling wrap. Fill with Nestle Temptations Chocolate Ice Cream, p'
+- `2303-Summer-Photos.js` SUM6 "Detox Matcha Iced Tea": '4 cups El Corte Inglés Detox Refreshing Gluten-Free Juice' / '1. In a large pitcher, pour 1 cup of El Corte Inglés Detox Refreshing Gluten-Free Juice an'
+- `2304-Feast-from-the-Sea.js` FS3 "Honey Walnut Shrimp": '¾ cup walnut'
+- `2307-Fresh-Market.js` FM3 "Orange Cranberry Pound Cake": '1⅓ cup sugar' / '1½ cup flour, sifted'
+- `2307-International-Fried-Chicken-Day-Videos.js` EAPFCD1 "Caesar Roast Chicken & Potatoes": '1 pc. Bounty Fresh Everyday Chicken, spatchcocked'
+- `2307-International-Fried-Chicken-Day-Videos.js` EAPFCD3 "Garlicky Chicken Shawarma": '1/2 cup Simply Pure Canola Oil' / '500g skin-on chicken thigh fillet'
+- `2308-Wagyu-Festival-Videos.js` WF-EAP "One Skillet Breakfast Steak & Eggs": '2 tbsps. butter' / '2 white onions, sliced'
+- `2309-Cheese-Festival.js` CF2 "Grilled Cheese Roll-ups with Tomato Dip": '1. Flatten bread slices with a rolling pin and remove the crust. Top with President Natura'
+- `2309-September-IG.js` IG2 "Grilled Shrimp Skewers": '12 bamboo skewers, soaked in water for 30 minutes'
+- `2309-September-IG.js` IG11 "Cold Mango Coffee with Sweet Cream": 'FOR THE COLD BREW' / 'FOR THE COLD MANGO COFFEE WITH SWEET CREAM'
+- `2310-International-Coffee-Day.js` ICD3 "Banoffee Coffee": 'Tip (Optional): Double the espresso for stronger coffee.'
+- `2310-TMP-Anniversary-Photos.js` ANV1 "Pistachio Strawberry Sundae": '2 scoops Selecta Pistachio & Cashew Ice Cream'
+- `2310-TMP-Anniversary-Photos.js` ANV3 "Cheesy Monkey Bread": '1. Preheat oven to 180°C and brush a deep cast-iron pan with olive oil. In a small bowl, m'
+- `2310-TMP-Anniversary-Photos.js` ANV6 "Yang Chow Cauliflower Fried Rice": '½ cup chorizo macao, thinly sliced' / '2. Heat oil in a large wok over medium-high heat. Sauté onions and garlic until fragrant, '
+- `2311-November-IG.js` IG8 "One Pan Salmon in Spinach Cream Sauce": 'Return Mikisa Salmon Fillets into the skillet, and spoon the sauce over the top. Reduce th'
+- `2312-Christmas-Photos.js` CH10 "Hugo Spritz": 'Fill the glass halfway with ice. Add the Meadows Prosecco and soda water, and stir to comb'
+- `2312-Christmas-Videos.js` CM-EAP "Pesto Mac & Goat Cheese": 'Meadows Mediterranean Sea Salt Grinder, to taste' / 'Let simmer, then mix in goat cheese, parmesan cheese, and mozarella cheese. Once all the c'
+- `2312-December-IG.js` IG4 "No Bake Eclair Cake": 'In a medium saucepan, heat the remaining 1 cup  heavy cream over medium heat until it just'
+- `2401-Australian-Festival-Photos.js` AF7 "Pork Chop with Red Wine Sauce": 'Tips (Optional): Serve with Crimes Red Blend.' / '1 cup 19 Crimes Red Blend, plus more to serve' / '3. In the same pan, sauté shallots until softened. Add 19 Crimes Red Blend, simmer 2-3 min'
+
+## B / C_ingHead: every card listed by file
+
+- `2102-February-IG.js`: 9 cards with a "Procedure" first item
+- `2102-Love-Food.js`: 10 cards with a "Procedure" first item
+- `2103-Asian-Festival.js`: 8 cards with a "Procedure" first item
+- `2103-Easter.js`: 2 cards with a "Procedure" first item
+- `2103-March-IG.js`: 9 cards with a "Procedure" first item
+- `2103-Summer.js`: 9 cards with a "Procedure" first item
+- `2104-April-IG.js`: 12 cards with a "Procedure" first item
+- `2105-Back-to-School.js`: 9 cards with a "Procedure" first item
+- `2105-May-IG.js`: 9 cards with a "Procedure" first item
+- `2105-Mothers-Day.js`: 12 cards with a "Procedure" first item
+- `2106-Fathers-Day.js`: 11 cards with a "Procedure" first item
+- `2106-June-IG.js`: 12 cards with a "Procedure" first item
+- `2106-Milkiest-Celebrations.js`: 3 cards with a "Procedure" first item
+- `2106-Snack-Festival.js`: 12 cards with a "Procedure" first item
+- `2106-US-Festival.js`: 4 cards with a "Procedure" first item
+- `2107-Breakfast-Fair.js`: 14 cards with a "Procedure" first item
+- `2107-International-Fried-Chicken-Day.js`: 3 cards with a "Procedure" first item
+- `2107-July-IG.js`: 11 cards with a "Procedure" first item
+- `2108-August-IG.js`: 10 cards with a "Procedure" first item
+- `2108-Wagyu-Festival.js`: 3 cards with a "Procedure" first item
+- `2109-Eat-Right-Live-Healthy.js`: 3 cards with a "Procedure" first item
+- `2109-European-Festival.js`: 4 cards with a "Procedure" first item
+- `2109-Grandparents-Day.js`: 1 cards with a "Procedure" first item
+- `2109-September-IG.js`: 12 cards with a "Procedure" first item
+- `2110-Halloween.js`: 11 cards with a "Procedure" first item
+- `2110-International-Coffee-Day.js`: 8 cards with a "Procedure" first item
+- `2110-October-IG.js`: 18 cards with a "Procedure" first item
+- `2110-TMP-Anniversary.js`: 16 cards with a "Procedure" first item
+- `2110-World-of-Wine.js`: 6 cards with a "Procedure" first item
+- `2111-November-IG.js`: 17 cards with a "Procedure" first item
+- `2112-Christmas.js`: 26 cards with a "Procedure" first item
+- `2112-December-IG.js`: 33 cards with a "Procedure" first item
+- `2201-Australian-Festival.js`: 6 cards with a "Procedure" first item
+- `2201-January-IG.js`: 6 cards with a "Procedure" first item
+- `2202-Chinese-New-Year.js`: 1 cards with a "Procedure" first item
+- `2202-February-IG.js`: 2 cards with a "Procedure" first item
+- `2202-Love-Food.js`: 6 cards with a "Procedure" first item
+- `2203-Asian-Festival.js`: 4 cards with a "Procedure" first item
+- `2203-March-IG.js`: 6 cards with a "Procedure" first item
+- `2203-Summer.js`: 6 cards with a "Procedure" first item
+- `2204-April-IG.js`: 10 cards with a "Procedure" first item
+- `2204-Easter.js`: 2 cards with a "Procedure" first item
+- `2205-Back-to-School.js`: 4 cards with a "Procedure" first item
+- `2205-May-IG.js`: 7 cards with a "Procedure" first item
+- `2205-Mothers-Day.js`: 6 cards with a "Procedure" first item
+- `2206-Fathers-Day.js`: 8 cards with a "Procedure" first item
+- `2206-June-IG.js`: 8 cards with a "Procedure" first item
+- `2206-Milkiest-Celebrations.js`: 3 cards with a "Procedure" first item
+- `2207-Breakfast-Fair.js`: 14 cards with a "Procedure" first item
+- `2207-Freshtival.js`: 4 cards with a "Procedure" first item
+- `2207-International-Fried-Chicken-Day.js`: 9 cards with a "Procedure" first item
+- `2207-July-IG.js`: 4 cards with a "Procedure" first item
+- `2207-Snack-Festival.js`: 6 cards with a "Procedure" first item
+- `2207-US-Festival.js`: 2 cards with a "Procedure" first item
+- `2208-August-IG.js`: 3 cards with a "Procedure" first item
+- `2208-Breakfast-Fair.js`: 1 cards with a "Procedure" first item
+- `2208-Cheese-Festival.js`: 1 cards with a "Procedure" first item
+- `2208-Wagyu-Festival.js`: 1 cards with a "Procedure" first item
+- `2209-European-Festival.js`: 6 cards with a "Procedure" first item
+- `2209-Grandparents-Day.js`: 2 cards with a "Procedure" first item
+- `2209-September-IG.js`: 10 cards with a "Procedure" first item
+- `2210-Canadian-Festival.js`: 3 cards with a "Procedure" first item
+- `2210-Eat-Right-Live-Healthy.js`: 5 cards with a "Procedure" first item
+- `2210-Halloween.js`: 8 cards with a "Procedure" first item
+- `2210-International-Coffee-Day.js`: 9 cards with a "Procedure" first item
+- `2210-October-IG.js`: 9 cards with a "Procedure" first item
+- `2210-TMP-Anniversary.js`: 8 cards with a "Procedure" first item
+- `2210-World-of-Wine.js`: 10 cards with a "Procedure" first item
+- `2211-Korean-Festival.js`: 7 cards with a "Procedure" first item
+- `2211-November-IG.js`: 11 cards with a "Procedure" first item
+- `2212-Christmas.js`: 7 cards with a "Procedure" first item
+- `2212-December-IG.js`: 12 cards with a "Procedure" first item
+- `2212-Frozen-Flavors.js`: 11 cards with a "Procedure" first item
+- `2212-Ham-Fest.js`: 2 cards with a "Procedure" first item
+- `2212-Holiday-Seafood-Feast.js`: 7 cards with a "Procedure" first item
+- `2301-Australian-Festival.js`: 10 cards with a "Procedure" first item
+- `2301-January-IG.js`: 5 cards with a "Procedure" first item
+- `2302-Chinese-New-Year-Videos.js`: 1 cards with a "Procedure" first item
+- `2302-February-IG.js`: 3 cards with a "Procedure" first item
+- `2302-Love-Food-Photos.js`: 10 cards with a "Procedure" first item
+- `2302-Love-Food-Videos.js`: 1 cards with a "Procedure" first item
+- `2303-Dish-of-the-Month.js`: 1 cards with a "Procedure" first item
+- `2303-March-IG.js`: 4 cards with a "Procedure" first item
+- `2303-Summer-Photos.js`: 6 cards with a "Procedure" first item
+- `2303-Summer-Videos.js`: 2 cards with a "Procedure" first item
+- `2304-April-IG.js`: 5 cards with a "Procedure" first item
+- `2304-Easter.js`: 5 cards with a "Procedure" first item
+- `2304-Feast-from-the-Sea.js`: 3 cards with a "Procedure" first item
+- `2304-Summer-Delights.js`: 3 cards with a "Procedure" first item
+- `2304-Tropical-Harvest-Videos.js`: 1 cards with a "Procedure" first item
+- `2305-Health-Wellness.js`: 1 cards with a "Procedure" first item
+- `2305-May-IG.js`: 5 cards with a "Procedure" first item
+- `2305-Mothers-Day.js`: 3 cards with a "Procedure" first item
+- `2306-Fathers-Day.js`: 2 cards with a "Procedure" first item
+- `2306-June-IG.js`: 4 cards with a "Procedure" first item
+- `2306-Milkiest-Day.js`: 4 cards with a "Procedure" first item
+- `2306-Snack-Festival.js`: 4 cards with a "Procedure" first item
+- `2306-US-Festival.js`: 8 cards with a "Procedure" first item
+- `2307-Fresh-Market.js`: 7 cards with a "Procedure" first item
+- `2307-International-Fried-Chicken-Day-Videos.js`: 4 cards with a "Procedure" first item
+- `2307-July-IG.js`: 3 cards with a "Procedure" first item
+- `2308-Asian-Festival-Photos.js`: 8 cards with a "Procedure" first item
+- `2308-Asian-Festival-Videos.js`: 1 cards with a "Procedure" first item
+- `2308-August-IG.js`: 5 cards with a "Procedure" first item
+- `2308-Back-to-School-Photos.js`: 8 cards with a "Procedure" first item
+- `2308-Back-to-School-Videos.js`: 1 cards with a "Procedure" first item
+- `2308-Breakfast-Fair.js`: 13 cards with a "Procedure" first item
+- `2308-Wagyu-Festival-Photos.js`: 1 cards with a "Procedure" first item
+- `2308-Wagyu-Festival-Videos.js`: 1 cards with a "Procedure" first item
+- `2309-Cheese-Festival.js`: 5 cards with a "Procedure" first item
+- `2309-European-Festival-Photos.js`: 8 cards with a "Procedure" first item
+- `2309-European-Festival-Videos.js`: 1 cards with a "Procedure" first item
+- `2309-Grandparents-Day.js`: 1 cards with a "Procedure" first item
+- `2309-September-IG.js`: 10 cards with a "Procedure" first item
+- `2309-World-of-Wine.js`: 4 cards with a "Procedure" first item
+- `2310-Halloween.js`: 6 cards with a "Procedure" first item
+- `2310-International-Coffee-Day.js`: 3 cards with a "Procedure" first item
+- `2310-October-IG.js`: 6 cards with a "Procedure" first item
+- `2310-TMP-Anniversary-Photos.js`: 7 cards with a "Procedure" first item
+- `2311-November-IG.js`: 13 cards with a "Procedure" first item
+- `2311-Rice-Awareness.js`: 1 cards with a "Procedure" first item
+- `2312-Christmas-Photos.js`: 5 cards with a "Procedure" first item
+- `2312-Christmas-Videos.js`: 1 cards with a "Procedure" first item
+- `2312-December-IG.js`: 16 cards with a "Procedure" first item
+- `2312-Frozen-Flavors.js`: 2 cards with a "Procedure" first item
+- `2312-Ham-Fest.js`: 1 cards with a "Procedure" first item
+- `2312-Launchpad.js`: 1 cards with a "Procedure" first item
+- `2312-Meadows-Videos.js`: 1 cards with a "Procedure" first item
+- `2401-Australian-Festival-Photos.js`: 7 cards with a "Procedure" first item
+- `2401-Australian-Festival-Videos.js`: 1 cards with a "Procedure" first item
+- `2402-Love-Food-Photos.js`: 12 cards with a "Procedure" first item
+- `2402-Love-Food-Videos.js`: 1 cards with a "Procedure" first item
+- `2403-Seafood-Feast.js`: 7 cards with a "Procedure" first item
+- `2403-Summer-Photos.js`: 10 cards with a "Procedure" first item
+- `2403-Summer-Videos.js`: 1 cards with a "Procedure" first item
+- `2404-April-IG.js`: 2 cards with a "Procedure" first item
+- `2404-Easter.js`: 5 cards with a "Procedure" first item
+- `2404-Lent-Videos.js`: 1 cards with a "Procedure" first item
+- `2405-Health-Wellness-Photos.js`: 4 cards with a "Procedure" first item
+- `2405-Health-Wellness-Videos.js`: 2 cards with a "Procedure" first item
+- `2405-May-IG.js`: 6 cards with a "Procedure" first item
+- `2405-Mothers-Day.js`: 3 cards with a "Procedure" first item
+- `2406-Fathers-Day.js`: 2 cards with a "Procedure" first item
+- `2406-June-IG.js`: 1 cards with a "Procedure" first item
+- `2406-Midyear-Wine.js`: 3 cards with a "Procedure" first item
+- `2407-July-IG.js`: 1 cards with a "Procedure" first item
+- `2407-Snack-Festival.js`: 4 cards with a "Procedure" first item
+- `2407-US-Festival.js`: 4 cards with a "Procedure" first item
+- `2408-Asian-Festival-Photos.js`: 2 cards with a "Procedure" first item
+- `2408-Asian-Festival-Videos.js`: 1 cards with a "Procedure" first item
+- `2408-Back-to-School-Photos.js`: 2 cards with a "Procedure" first item
+- `2408-Back-to-School-Videos.js`: 1 cards with a "Procedure" first item
+- `2409-Cheese-Festival.js`: 2 cards with a "Procedure" first item
+- `2409-Eat-Right-Live-Healthy.js`: 9 cards with a "Procedure" first item
+- `2409-European-Festival-Photos.js`: 5 cards with a "Procedure" first item
+- `2409-European-Festival-Videos.js`: 1 cards with a "Procedure" first item
+- `2409-Grandparents-Day.js`: 3 cards with a "Procedure" first item
+- `2409-September-IG.js`: 4 cards with a "Procedure" first item
+- `2410-Canadian-Festival-Videos.js`: 1 cards with a "Procedure" first item
+- `2410-Halloween.js`: 3 cards with a "Procedure" first item
+- `2410-October-IG.js`: 6 cards with a "Procedure" first item
+- `2410-TMP-Anniversary-Photos.js`: 5 cards with a "Procedure" first item
+- `2410-TMP-Anniversary-Videos.js`: 3 cards with a "Procedure" first item
+- `2410-World-of-Wine.js`: 10 cards with a "Procedure" first item
+- `2411-November-IG.js`: 10 cards with a "Procedure" first item
+- `2412-Christmas-Photos.js`: 5 cards with a "Procedure" first item
+- `2412-Christmas-Videos.js`: 3 cards with a "Procedure" first item
+- `2412-December-IG.js`: 15 cards with a "Procedure" first item
+- `2501-Australian-Festival-Photos.js`: 10 cards with a "Procedure" first item
+- `2501-Australian-Festival-Videos.js`: 2 cards with a "Procedure" first item
+- `2501-January-IG.js`: 2 cards with a "Procedure" first item

@@ -11,7 +11,7 @@ const MILKIEST_CELEBRATIONS_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Milkiest Celebrations",
-    "caption": "Arroz con Leche, literally translated to “rice with milk”, is commonly known as Rice Pudding and is one of the most classic Spanish desserts. There are some regional variations to how it’s prepared, but the basic ingredients remain the same: rice, milk sugar, and a citrus peel (either lemon or orange).\n\nFor this recipe, we used Nestlé milk and a combination of vanilla, cinnamon, and nutmeg to flavor it. Get all the ingredients you need at #TheMarketplace, try this Arroz con Leche out, and let us know what you think! It’s a perfect and filling breakfast that’s best enjoyed on the weekend.\n\nServing Time: 1 hour\nYield: 3-5 servings\nOptional: Top with desired fruits and nuts.\n\nIngredients\n\n6 cups Nestlé Fresh Milk\n½ cup sugar \n½ tsp. salt\n1 tsp. vanilla \n1 tsp. cinnamon \n¼ tsp. nutmeg \n½ cup uncooked rice \n\nProcedure\n\n1. In a large pot over medium-high heat, combine 5 cups milk, sugar, salt, vanilla, cinnamon, nutmeg and rice. Let mixture come to a gentle simmer, and stir from time to time. \n2. Let cook for 50-60 minutes, or until mixture has thickened and rice is tender. \n3. Stir in remaining 1 cup of milk right before serving. \n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Arroz con Leche, literally translated to “rice with milk”, is commonly known as Rice Pudding and is one of the most classic Spanish desserts. There are some regional variations to how it’s prepared, but the basic ingredients remain the same: rice, milk sugar, and a citrus peel (either lemon or orange).\n\nFor this recipe, we used Nestlé milk and a combination of vanilla, cinnamon, and nutmeg to flavor it. Get all the ingredients you need at #TheMarketplace, try this Arroz con Leche out, and let us know what you think! It’s a perfect and filling breakfast that’s best enjoyed on the weekend.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Nestlé"
     ],
@@ -19,8 +19,8 @@ const MILKIEST_CELEBRATIONS_DATA = [
       "servingTime": "1 hour",
       "yield": "3-5 servings",
       "tips": "Top with desired fruits and nuts.",
-      "ingredients": "Ingredients\n6 cups Nestlé Fresh Milk\n½ cup sugar \n½ tsp. salt\n1 tsp. vanilla \n1 tsp. cinnamon \n¼ tsp. nutmeg \n½ cup uncooked rice",
-      "procedure": "Procedure\nIn a large pot over medium-high heat, combine 5 cups milk, sugar, salt, vanilla, cinnamon, nutmeg and rice. Let mixture come to a gentle simmer, and stir from time to time. \nLet cook for 50-60 minutes, or until mixture has thickened and rice is tender. \nStir in remaining 1 cup of milk right before serving."
+      "ingredients": "6 cups Nestlé Fresh Milk\n½ cup sugar \n½ tsp. salt\n1 tsp. vanilla \n1 tsp. cinnamon \n¼ tsp. nutmeg \n½ cup uncooked rice",
+      "procedure": "In a large pot over medium-high heat, combine 5 cups milk, sugar, salt, vanilla, cinnamon, nutmeg and rice. Let mixture come to a gentle simmer, and stir from time to time. \nLet cook for 50-60 minutes, or until mixture has thickened and rice is tender. \nStir in remaining 1 cup of milk right before serving."
     },
     "photo": {
       "filename": "MC1.jpg",
@@ -36,7 +36,7 @@ const MILKIEST_CELEBRATIONS_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Milkiest Celebrations",
-    "caption": "Nestlé’s Boost Optimum Powder is a delicious adult nutritional supplement that comes packed with probiotics, high-quality protein, as well as vitamins and minerals. \n\nOne way to keep things exciting while enjoying it is by making this Hot Milk Cake that’s bursting with creamy milk flavors, as well as sweet and fragrant vanilla. It’s also quite a delicious way to consume your Nestlé Boost Optimum without realizing it’s even there! Find all the ingredients you need at #TheMarketplace!\n\nServing Time: 45 minutes\nYield: 4-6 servings\n\nIngredients\n\n4 eggs \n2 cups sugar \n1 tsp. vanilla \n½ tsp. salt\n2 cups cake flour \n2 tsps. baking powder \n1 cup Boost Optimum Vanilla milk\n1 cup unsalted butter \n\nProcedure\n\n1. Preheat oven to 175°C. Line a 13x9” pan with parchment paper.\n2. Beat eggs, sugar and vanilla together until light, fluffy and pale yellow in color. \n3. In a separate bowl, whisk together salt, flour and baking powder. Gradually add this to the egg mixture. Mix until smooth. \n4. In a saucepan, combine Boost Optimum Vanilla milk and butter. Let come to a simmer. Gradually add this to the batter, and mix until just combined. \n5. Pour batter into the baking pan. Bake for 25-30 minutes, or until a toothpick inserted in the center of the cake comes out clean. \n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Nestlé’s Boost Optimum Powder is a delicious adult nutritional supplement that comes packed with probiotics, high-quality protein, as well as vitamins and minerals. \n\nOne way to keep things exciting while enjoying it is by making this Hot Milk Cake that’s bursting with creamy milk flavors, as well as sweet and fragrant vanilla. It’s also quite a delicious way to consume your Nestlé Boost Optimum without realizing it’s even there! Find all the ingredients you need at #TheMarketplace!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Nestlé",
       "Boost"
@@ -45,8 +45,8 @@ const MILKIEST_CELEBRATIONS_DATA = [
       "servingTime": "45 minutes",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n4 eggs \n2 cups sugar \n1 tsp. vanilla \n½ tsp. salt\n2 cups cake flour \n2 tsps. baking powder \n1 cup Boost Optimum Vanilla milk\n1 cup unsalted butter",
-      "procedure": "Procedure\nPreheat oven to 175°C. Line a 13x9” pan with parchment paper.\nBeat eggs, sugar and vanilla together until light, fluffy and pale yellow in color. \nIn a separate bowl, whisk together salt, flour and baking powder. Gradually add this to the egg mixture. Mix until smooth. \nIn a saucepan, combine Boost Optimum Vanilla milk and butter. Let come to a simmer. Gradually add this to the batter, and mix until just combined. \nPour batter into the baking pan. Bake for 25-30 minutes, or until a toothpick inserted in the center of the cake comes out clean."
+      "ingredients": "4 eggs \n2 cups sugar \n1 tsp. vanilla \n½ tsp. salt\n2 cups cake flour \n2 tsps. baking powder \n1 cup Boost Optimum Vanilla milk\n1 cup unsalted butter",
+      "procedure": "Preheat oven to 175°C. Line a 13x9” pan with parchment paper.\nBeat eggs, sugar and vanilla together until light, fluffy and pale yellow in color. \nIn a separate bowl, whisk together salt, flour and baking powder. Gradually add this to the egg mixture. Mix until smooth. \nIn a saucepan, combine Boost Optimum Vanilla milk and butter. Let come to a simmer. Gradually add this to the batter, and mix until just combined. \nPour batter into the baking pan. Bake for 25-30 minutes, or until a toothpick inserted in the center of the cake comes out clean."
     },
     "photo": {
       "filename": "MC2.jpg",
@@ -62,7 +62,7 @@ const MILKIEST_CELEBRATIONS_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Milkiest Celebrations",
-    "caption": "Here’s a recipe for a local treat that will never run out of style: Classic Polvoron!\n\nMake your own batch of classic milk Polvoron whenever you want with just a few basic ingredients and with a few simple steps! We recommend using Alaska Powdered Milk for this as it has that milky and creamy flavor on point. Feel free to get creative and add other ingredients that you love such as puffed rice or crushed cookies, and get all the items you need at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 10-12 servings\n\nIngredients\n\n1 cup flour \n1 cup Alaska powdered milk \n⅓ cup white sugar\n½ tsp. salt \n½ cup unsalted butter, melted\n\nProcedure\n\n1. Toast flour in a dry pan until evenly light-browned. \n2. Whisk together toasted flour, milk, sugar and salt. Add melted butter, and mix until a sandy or crumbly texture is achieved. \n3. Mold into desired polvoron shape.\n\nNow you can simply head online and order your groceries at http://bit.ly/OrderTheMarketplace. We’re also on Viber! Join our community via https://bit.ly/TheMarketplaceCommunity.",
+    "caption": "Here’s a recipe for a local treat that will never run out of style: Classic Polvoron!\n\nMake your own batch of classic milk Polvoron whenever you want with just a few basic ingredients and with a few simple steps! We recommend using Alaska Powdered Milk for this as it has that milky and creamy flavor on point. Feel free to get creative and add other ingredients that you love such as puffed rice or crushed cookies, and get all the items you need at #TheMarketplace!\n\nNow you can simply head online and order your groceries at http://bit.ly/OrderTheMarketplace. We’re also on Viber! Join our community via https://bit.ly/TheMarketplaceCommunity.",
     "brand": [
       "Alaska"
     ],
@@ -70,8 +70,8 @@ const MILKIEST_CELEBRATIONS_DATA = [
       "servingTime": "15 minutes",
       "yield": "10-12 pcs.",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup flour \n1 cup Alaska powdered milk \n⅓ cup white sugar\n½ tsp. salt \n½ cup unsalted butter, melted",
-      "procedure": "Procedure\nToast flour in a dry pan until evenly light-browned. \nWhisk together toasted flour, milk, sugar and salt. Add melted butter, and mix until a sandy or crumbly texture is achieved. \nMold into desired polvoron shape."
+      "ingredients": "1 cup flour \n1 cup Alaska powdered milk \n⅓ cup white sugar\n½ tsp. salt \n½ cup unsalted butter, melted",
+      "procedure": "Toast flour in a dry pan until evenly light-browned. \nWhisk together toasted flour, milk, sugar and salt. Add melted butter, and mix until a sandy or crumbly texture is achieved. \nMold into desired polvoron shape."
     },
     "photo": {
       "filename": "MC3.jpg",

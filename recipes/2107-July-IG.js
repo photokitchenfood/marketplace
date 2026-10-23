@@ -11,7 +11,7 @@ const JULY_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "July IG",
-    "caption": "Brighten up your mornings with this quick and easy Strawberry Yogurt Smoothie Bowl made using Parmalat Strawberry Dairy Snack!\n\nSimply blend with some frozen strawberries and sprinkle with a fiber-rich mix of chia seeds, pistachios, and dried cranberries. We used kiwis for this smoothie bowl, but feel free to add in your fruit of choice such as mangoes, papayas, or bananas! Get all the ingredients you need at #TheMarketplace!\n\nServing Time: 5 minutes\nYield: 1 serving\n\nIngredients\n\n½ cup frozen strawberries\n1 ½ cup Parmalat Strawberry Dairy Snack \n½ cup kiwi, sliced\n½ cup strawberries, halved\n1 tbsp. chia seeds\n2 tbsps. pistachios, chopped\n2 tbsps. dried cranberries, chopped\n\nProcedure\n\n1. In a blender, combine frozen strawberries and Parmalat Strawberry Dairy Snack until smooth. Transfer to a serving bowl.\n2. Top with kiwi, strawberries, chia seeds, pistachios and dried cranberries.\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Brighten up your mornings with this quick and easy Strawberry Yogurt Smoothie Bowl made using Parmalat Strawberry Dairy Snack!\n\nSimply blend with some frozen strawberries and sprinkle with a fiber-rich mix of chia seeds, pistachios, and dried cranberries. We used kiwis for this smoothie bowl, but feel free to add in your fruit of choice such as mangoes, papayas, or bananas! Get all the ingredients you need at #TheMarketplace!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Parmalat"
     ],
@@ -19,8 +19,8 @@ const JULY_IG_DATA = [
       "servingTime": "5 minutes",
       "yield": "1 serving",
       "tips": "",
-      "ingredients": "Ingredients\n½ cup frozen strawberries\n1 ½ cup Parmalat Strawberry Dairy Snack \n½ cup kiwi, sliced\n½ cup strawberries, halved\n1 tbsp. chia seeds\n2 tbsps. pistachios, chopped\n2 tbsps. dried cranberries, chopped",
-      "procedure": "Procedure\nIn a blender, combine frozen strawberries and Parmalat Strawberry Dairy Snack until smooth. Transfer to a serving bowl.\nTop with kiwi, strawberries, chia seeds, pistachios and dried cranberries."
+      "ingredients": "½ cup frozen strawberries\n1 ½ cup Parmalat Strawberry Dairy Snack \n½ cup kiwi, sliced\n½ cup strawberries, halved\n1 tbsp. chia seeds\n2 tbsps. pistachios, chopped\n2 tbsps. dried cranberries, chopped",
+      "procedure": "In a blender, combine frozen strawberries and Parmalat Strawberry Dairy Snack until smooth. Transfer to a serving bowl.\nTop with kiwi, strawberries, chia seeds, pistachios and dried cranberries."
     },
     "photo": {
       "filename": "IG1.jpg",
@@ -36,7 +36,7 @@ const JULY_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "July IG",
-    "caption": "Cranberries are known to be a superfood because of the high number of antioxidants and nutrients they contain. They’re also known to decrease blood pressure and prevent certain kinds of cancer and infections.\n\nWith this in mind, don’t forget to grab some of The Berry Company’s Cranberry Juice the next time you shop at #TheMarketplace! If you’d like to add a citrusy twist to your juice, prepare this Cranberry Lemonade at home and up your Vitamin C intake while you’re at it. Try it with The Berry Company’s Acai Berry Juice as well for an equally refreshing and nutritious quencher that’s bursting with berry flavors. Enjoy!\n\nServing Time: 10 minutes\nYield: 8 servings\n\nIngredients\n\n½ cup lemon juice\n⅓ cup sugar\n3 cups water\n3 cups The Berry Company Cranberry Juice\n½ cup ice\n1 whole lemon, sliced\n½ cup strawberries, sliced\n\nProcedure\n\n1. In a large pitcher, combine lemon juice, sugar and 1 cup water. Mix until sugar is fully dissolved.\n2. Add the rest of the water and The Berry Company Cranberry Juice. \n3. Add ice, lemon slices and garnish with strawberries before serving.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Cranberries are known to be a superfood because of the high number of antioxidants and nutrients they contain. They’re also known to decrease blood pressure and prevent certain kinds of cancer and infections.\n\nWith this in mind, don’t forget to grab some of The Berry Company’s Cranberry Juice the next time you shop at #TheMarketplace! If you’d like to add a citrusy twist to your juice, prepare this Cranberry Lemonade at home and up your Vitamin C intake while you’re at it. Try it with The Berry Company’s Acai Berry Juice as well for an equally refreshing and nutritious quencher that’s bursting with berry flavors. Enjoy!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "The Berry Company"
     ],
@@ -44,8 +44,8 @@ const JULY_IG_DATA = [
       "servingTime": "10 minutes",
       "yield": "8 servings",
       "tips": "",
-      "ingredients": "Ingredients\n½ cup lemon juice\n⅓ cup sugar\n3 cups water\n3 cups The Berry Company Cranberry Juice\n½ cup ice\n1 whole lemon, sliced\n½ cup strawberries, sliced",
-      "procedure": "Procedure\nIn a large pitcher, combine lemon juice, sugar and 1 cup water. Mix until sugar is fully dissolved.\nAdd the rest of the water and The Berry Company Cranberry Juice. \nAdd ice, lemon slices and garnish with strawberries before serving."
+      "ingredients": "½ cup lemon juice\n⅓ cup sugar\n3 cups water\n3 cups The Berry Company Cranberry Juice\n½ cup ice\n1 whole lemon, sliced\n½ cup strawberries, sliced",
+      "procedure": "In a large pitcher, combine lemon juice, sugar and 1 cup water. Mix until sugar is fully dissolved.\nAdd the rest of the water and The Berry Company Cranberry Juice. \nAdd ice, lemon slices and garnish with strawberries before serving."
     },
     "photo": {
       "filename": "IG2.jpg",
@@ -61,7 +61,7 @@ const JULY_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "July IG",
-    "caption": "It’s always easier to take the “fast food” route, but we strongly believe that making your meals fresh at home with ingredients from #TheMarketplace is definitely a healthier alternative.\n\nHaving said that, here’s a mouthwatering recipe for Mushroom Beef Burger Steak made with premium Purefoods Angus beef patties. It’s a more sophisticated version of your favorite burger steak meal, minus the fast food guilt!\n\nServing Time: 15 minutes\nYield: 3 servings\nOptional: Serve with mashed potatoes and garlic French beans. \n\nIngredients\n\n1 tbsp. olive oil \n3 pcs. Purefoods Angus Beef Patty\n2 tbsps. butter \n½ cup shiitake mushrooms, sliced \n2 tbsps. flour\n1 cup beef stock \n1 tbps. Worcestershire sauce\nSalt & pepper to taste\n\nProcedure\n\n1. Heat up olive oil over medium heat. Sear Angus Beef Patties until browned on both sides. Set aside patties while retaining the brown bits and oil in the pan.\n2. In the same pan, melt butter. Add in shiitake mushrooms and sauté until golden brown. Add flour and cook for 1 minute. \n3. Slowly whisk in beef stock until smooth. Season with Worcestershire sauce, salt and pepper. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "It’s always easier to take the “fast food” route, but we strongly believe that making your meals fresh at home with ingredients from #TheMarketplace is definitely a healthier alternative.\n\nHaving said that, here’s a mouthwatering recipe for Mushroom Beef Burger Steak made with premium Purefoods Angus beef patties. It’s a more sophisticated version of your favorite burger steak meal, minus the fast food guilt!\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Purefoods"
     ],
@@ -69,8 +69,8 @@ const JULY_IG_DATA = [
       "servingTime": "15 minutes",
       "yield": "3 servings",
       "tips": "Serve with mashed potatoes and garlic French beans.",
-      "ingredients": "Ingredients\n1 tbsp. olive oil \n3 pcs. Purefoods Angus Beef Patty\n2 tbsps. butter \n½ cup shiitake mushrooms, sliced \n2 tbsps. flour\n1 cup beef stock \n1 tbps. Worcestershire sauce\nSalt & pepper to taste",
-      "procedure": "Procedure\nHeat up olive oil over medium heat. Sear Angus Beef Patties until browned on both sides. Set aside patties while retaining the brown bits and oil in the pan. \nIn the same pan, melt butter. Add in shiitake mushrooms and sauté until golden brown. Add flour and cook for 1 minute. \nSlowly whisk in beef stock until smooth. Season with Worcestershire sauce, salt and pepper."
+      "ingredients": "1 tbsp. olive oil \n3 pcs. Purefoods Angus Beef Patty\n2 tbsps. butter \n½ cup shiitake mushrooms, sliced \n2 tbsps. flour\n1 cup beef stock \n1 tbps. Worcestershire sauce\nSalt & pepper to taste",
+      "procedure": "Heat up olive oil over medium heat. Sear Angus Beef Patties until browned on both sides. Set aside patties while retaining the brown bits and oil in the pan. \nIn the same pan, melt butter. Add in shiitake mushrooms and sauté until golden brown. Add flour and cook for 1 minute. \nSlowly whisk in beef stock until smooth. Season with Worcestershire sauce, salt and pepper."
     },
     "photo": {
       "filename": "IG3.jpg",
@@ -86,7 +86,7 @@ const JULY_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "July IG",
-    "caption": "We’re all used to having salmon poke bowls with rice or greens, but have you ever enjoyed it as a sandwich burrito?\n\nUsing Gardenia Wheat Bread (crusts off!) as the base, we made these healthy Salmon Poke Bread Burritos with salmon, mango, and poke seasonings. Have it as a light lunch with a tall, cold glass of iced green tea. Grab the freshest sushi-grade salmon along with all the other ingredients you need from #TheMarketplace! \n\nServing Time: 15 minutes\nYield: 3 servings\n\nIngredients\n\n12 slices Gardenia Wheat Bread\n2 tbsps. soy sauce\n2 tbsps. rice vinegar\n1 tbsp. sesame oil\n2 cups sushi-grade salmon, cubed\n4 pcs. lettuce\n1 cup mangoes, cubed\n1 cup cucumber, cut into sticks\n\nProcedure\n\n1. Remove the crusts of all Gardenia Wheat Bread slices. \n2. Attach the edges of 4 bread slices to form a four tile sheet, then flatten out using a rolling pin.\n3. Combine soy sauce, rice vinegar, sesame oil and salmon. Let marinate for at least 8 minutes. \n4. Assemble lettuce on top, salmon, mangoes and cucumber. Fold edges, then roll into a burrito.\n\nPrefer to order your groceries online and have them delivered to you instead? Visit #TheMarketplace online at http://bit.ly/OrderTheMarketplace! Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "We’re all used to having salmon poke bowls with rice or greens, but have you ever enjoyed it as a sandwich burrito?\n\nUsing Gardenia Wheat Bread (crusts off!) as the base, we made these healthy Salmon Poke Bread Burritos with salmon, mango, and poke seasonings. Have it as a light lunch with a tall, cold glass of iced green tea. Grab the freshest sushi-grade salmon along with all the other ingredients you need from #TheMarketplace!\n\nPrefer to order your groceries online and have them delivered to you instead? Visit #TheMarketplace online at http://bit.ly/OrderTheMarketplace! Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Gardenia"
     ],
@@ -94,8 +94,8 @@ const JULY_IG_DATA = [
       "servingTime": "15 minutes",
       "yield": "3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n12 slices Gardenia Wheat Bread\n2 tbsps. soy sauce\n2 tbsps. rice vinegar\n1 tbsp. sesame oil\n2 cups sushi-grade salmon, cubed\n4 pcs. lettuce\n1 cup mangoes, cubed\n1 cup cucumber, cut into sticks",
-      "procedure": "Procedure\nRemove the crusts of all Gardenia Wheat Bread slices. \nAttach the edges of 4 bread slices to form a four tile sheet, then flatten out using a rolling pin.\nCombine soy sauce, rice vinegar, sesame oil and salmon. Let marinate for at least 8 minutes. \nAssemble lettuce on top, salmon, mangoes and cucumber. Fold edges, then roll into a burrito."
+      "ingredients": "12 slices Gardenia Wheat Bread\n2 tbsps. soy sauce\n2 tbsps. rice vinegar\n1 tbsp. sesame oil\n2 cups sushi-grade salmon, cubed\n4 pcs. lettuce\n1 cup mangoes, cubed\n1 cup cucumber, cut into sticks",
+      "procedure": "Remove the crusts of all Gardenia Wheat Bread slices. \nAttach the edges of 4 bread slices to form a four tile sheet, then flatten out using a rolling pin.\nCombine soy sauce, rice vinegar, sesame oil and salmon. Let marinate for at least 8 minutes. \nAssemble lettuce on top, salmon, mangoes and cucumber. Fold edges, then roll into a burrito."
     },
     "photo": {
       "filename": "IG4.jpg",
@@ -149,7 +149,7 @@ const JULY_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "July IG",
-    "caption": "Have some time this weekend?\n\nWhy not challenge yourself in the kitchen and reward your sweet tooth with a batch of these decadent Ovo Rocks Donuts. Made with a homemade chocolate glaze and sprinkled with walnuts and malty Ovo Rocks, you’re sure to impress your friends and family with these indulgent bakes. Best paired with a mug of your favorite coffee. Grab all the ingredients you need at #TheMarketplace!\n\nServing Time: 30-35 minutes\nYield: 12-15 pieces\n\nIngredients\n\n(Donuts)\n1 cup bread flour \n¼ tsp. baking soda\n1 tsp. baking powder\n1 egg \n⅓ brown sugar \n¼ cup milk \n¼ cup Greek yoghurt \n1 tsp. vanilla \n2 tbsps. butter, melted \n\n(Chocolate Glaze)\n½ cup dark chocolate, chopped\n2 tbsps. butter \n3 tsps. corn syrup\n¼ cup walnuts, chopped \n1 pack Ovo Rocks\n\nProcedure\n\n1. Preheat oven to 175°C. Grease a donut pan.\n2. Whisk together flour, baking soda and baking powder.\n3. In a separate bowl, whisk together egg, brown sugar, milk, yoghurt, vanilla and butter.\n4. Combine the wet and dry ingredients until just combined. Transfer to a piping bag, then pipe onto the greased donut pan until ⅔ full.\n5. Bake for 8-10 minutes. Let cool, then unmold.\n6. Combine dark chocolate, butter and corn syrup in a heatproof bowl. Place bowl over a pot of simmering water. Whisk mixture until chocolate is melted and mixture is smooth. \n7. Dip the tops of the donuts onto the chocolate glaze, then sprinkle with walnuts and Ovo Rocks. Let set. \n\nNow you can order your groceries online via http://bit.ly/OrderTheMarketplace. Join our Viber community as well at http://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Have some time this weekend?\n\nWhy not challenge yourself in the kitchen and reward your sweet tooth with a batch of these decadent Ovo Rocks Donuts. Made with a homemade chocolate glaze and sprinkled with walnuts and malty Ovo Rocks, you’re sure to impress your friends and family with these indulgent bakes. Best paired with a mug of your favorite coffee. Grab all the ingredients you need at #TheMarketplace!\n\nNow you can order your groceries online via http://bit.ly/OrderTheMarketplace. Join our Viber community as well at http://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Ovo"
     ],
@@ -157,8 +157,8 @@ const JULY_IG_DATA = [
       "servingTime": "30-35 minutes",
       "yield": "12-15 pieces",
       "tips": "",
-      "ingredients": "Ingredients\n(Donuts)\n1 cup bread flour \n¼ tsp. baking soda\n1 tsp. baking powder\n1 egg \n⅓ brown sugar \n¼ cup milk \n¼ cup Greek yoghurt \n1 tsp. vanilla \n2 tbsps. butter, melted \n(Chocolate Glaze)\n½ cup dark chocolate, chopped\n2 tbsps. butter \n3 tsps. corn syrup\n¼ cup walnuts, chopped \n1 pack Ovo Rocks",
-      "procedure": "Procedure\nPreheat oven to 175°C. Grease a donut pan. \nWhisk together flour, baking soda and baking powder. \nIn a separate bowl, whisk together egg, brown sugar, milk, yoghurt, vanilla and butter. \nCombine the wet and dry ingredients until just combined. Transfer to a piping bag, then pipe onto the greased donut pan until ⅔ full.\nBake for 8-10 minutes. Let cool, then unmold.\nCombine dark chocolate, butter and corn syrup in a heatproof bowl. Place bowl over a pot of simmering water. Whisk mixture until chocolate is melted and mixture is smooth. \nDip the tops of the donuts onto the chocolate glaze, then sprinkle with walnuts and Ovo Rocks. Let set."
+      "ingredients": "(Donuts)\n1 cup bread flour \n¼ tsp. baking soda\n1 tsp. baking powder\n1 egg \n⅓ brown sugar \n¼ cup milk \n¼ cup Greek yoghurt \n1 tsp. vanilla \n2 tbsps. butter, melted \n(Chocolate Glaze)\n½ cup dark chocolate, chopped\n2 tbsps. butter \n3 tsps. corn syrup\n¼ cup walnuts, chopped \n1 pack Ovo Rocks",
+      "procedure": "Preheat oven to 175°C. Grease a donut pan. \nWhisk together flour, baking soda and baking powder. \nIn a separate bowl, whisk together egg, brown sugar, milk, yoghurt, vanilla and butter. \nCombine the wet and dry ingredients until just combined. Transfer to a piping bag, then pipe onto the greased donut pan until ⅔ full.\nBake for 8-10 minutes. Let cool, then unmold.\nCombine dark chocolate, butter and corn syrup in a heatproof bowl. Place bowl over a pot of simmering water. Whisk mixture until chocolate is melted and mixture is smooth. \nDip the tops of the donuts onto the chocolate glaze, then sprinkle with walnuts and Ovo Rocks. Let set."
     },
     "photo": {
       "filename": "IG7.jpg",
@@ -174,7 +174,7 @@ const JULY_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "July IG",
-    "caption": "There’s no denying that an Oreo Cheesecake is a classic dessert that never fails to hit the spot. Instead of going out of your way and purchasing a slice or a whole cake, why not whip up these No-Bake Oreo Cheesecake Cups at home? \n\nMade with just few simple ingredients that you can easily find at #TheMarketplace, these Oreo Cheesecake Cups are also portioned perfectly and individually. Prepare this ahead of time and enjoy it as a dessert or to unwind with as you binge-watch the next TV series on your list. Enjoy!\n\nServing Time: 2-3 hours\nYield: 6 servings\n\nIngredients\n\n21 pcs. Oreos, roughly chopped\n1 ½ cups cream cheese, softened\n1 tsp. vanilla extract\n¾ cup powdered sugar\n¾ cup heavy cream\n½ cup Oreos, crushed\n6 pcs. Oreos, whole\n\nProcedure\n\n1. Beat cream cheese with a hand mixer until smooth.\n2. Add in powdered sugar and vanilla extract. Mix until well combined with no lumps, then set aside.\n3. In another bowl,  whip heavy cream until stiff peaks. \n4. Fold whipped cream and chopped Oreos into the cream cheese mixture.\n5. In a dessert glass, fill the bottom with roughly chopped Oreo, then top with the cheesecake mixture.\n6. Refrigerate for at least 2 hours. Add a piece of Oreo on top before serving.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "There’s no denying that an Oreo Cheesecake is a classic dessert that never fails to hit the spot. Instead of going out of your way and purchasing a slice or a whole cake, why not whip up these No-Bake Oreo Cheesecake Cups at home? \n\nMade with just few simple ingredients that you can easily find at #TheMarketplace, these Oreo Cheesecake Cups are also portioned perfectly and individually. Prepare this ahead of time and enjoy it as a dessert or to unwind with as you binge-watch the next TV series on your list. Enjoy!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Oreo"
     ],
@@ -182,8 +182,8 @@ const JULY_IG_DATA = [
       "servingTime": "2-3 hours",
       "yield": "6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n21 pcs. Oreos, roughly chopped\n1 ½ cups cream cheese, softened\n1 tsp. vanilla extract\n¾ cup powdered sugar\n¾ cup heavy cream\n½ cup Oreos, crushed\n6 pcs. Oreos, whole",
-      "procedure": "Procedure\nBeat cream cheese with a hand mixer until smooth.\nAdd in powdered sugar and vanilla extract. Mix until well combined with no lumps, then set aside.\nIn another bowl,  whip heavy cream until stiff peaks. \nFold whipped cream and chopped Oreos into the cream cheese mixture.\nIn a dessert glass, fill the bottom with roughly chopped Oreo, then top with the cheesecake mixture. \nRefrigerate for at least 2 hours. Add a piece of Oreo on top before serving."
+      "ingredients": "21 pcs. Oreos, roughly chopped\n1 ½ cups cream cheese, softened\n1 tsp. vanilla extract\n¾ cup powdered sugar\n¾ cup heavy cream\n½ cup Oreos, crushed\n6 pcs. Oreos, whole",
+      "procedure": "Beat cream cheese with a hand mixer until smooth.\nAdd in powdered sugar and vanilla extract. Mix until well combined with no lumps, then set aside.\nIn another bowl,  whip heavy cream until stiff peaks. \nFold whipped cream and chopped Oreos into the cream cheese mixture.\nIn a dessert glass, fill the bottom with roughly chopped Oreo, then top with the cheesecake mixture. \nRefrigerate for at least 2 hours. Add a piece of Oreo on top before serving."
     },
     "photo": {
       "filename": "IG8.jpg",
@@ -199,7 +199,7 @@ const JULY_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "July IG",
-    "caption": "Here’s a simple yet classic shrimp dish that will make your mouth water in an instant!\n\nThis recipe for Black Pepper Shrimp combines familiar Asian flavors with a peppery kick thanks to Sunbest Black Pepper. It’s sweet, savory, tangy, and pairs excellently with garlic rice, garlic noodles, or garlic bread. Enjoy it with one of the refreshment recipes that you can find on this page! All the ingredients you need are available at #TheMarketplace, so look no further. \n\nServing Time: 15-20 minutes\nYield: 4-6 servings\n\nIngredients\n\n500g shrimp, peeled and deveined \n1 tbsp. Sunbest Black Pepper, freshly ground\n2 tsps. salt \n¼ cup butter\n5 cloves garlic, sliced \n1 tbsp. oyster sauce \n1 tbsp. rice wine \n1 tsp. sugar \n2 tbsps. parsley, chopped\nLemon wedges for garnish\n\nProcedure\n\n1. Season shrimp with salt and pepper. \n2. Melt butter over medium heat. Sear shrimp in a single layer. Do this in batches if your pan can’t accommodate all of the shrimp at once. Set aside shrimp while retaining oil in the pan.\n3. Add garlic and sauté until lightly browned. Mix in oyster sauce, rice wine and sugar. \n4. Add back cooked shrimp and coat well with the sauce. \n5. Garnish with parsley and lemon wedges. \n\nDid you know? You can now get your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Here’s a simple yet classic shrimp dish that will make your mouth water in an instant!\n\nThis recipe for Black Pepper Shrimp combines familiar Asian flavors with a peppery kick thanks to Sunbest Black Pepper. It’s sweet, savory, tangy, and pairs excellently with garlic rice, garlic noodles, or garlic bread. Enjoy it with one of the refreshment recipes that you can find on this page! All the ingredients you need are available at #TheMarketplace, so look no further.\n\nDid you know? You can now get your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Sunbest"
     ],
@@ -207,8 +207,8 @@ const JULY_IG_DATA = [
       "servingTime": "15-20  minutes",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n500g shrimp, peeled and deveined \n1 tbsp. Sunbest Black Pepper, freshly ground\n2 tsps. salt \n¼ cup butter\n5 cloves garlic, sliced \n1 tbsp. oyster sauce \n1 tbsp. rice wine \n1 tsp. sugar \n2 tbsps. parsley, chopped\nLemon wedges for garnish",
-      "procedure": "Procedure\nSeason shrimp with salt and pepper. \nMelt butter over medium heat. Sear shrimp in a single layer. Do this in batches if your pan can’t accommodate all of the shrimp at once. Set aside shrimp while retaining oil in the pan.\nAdd garlic and sauté until lightly browned. Mix in oyster sauce, rice wine and sugar. \nAdd back cooked shrimp and coat well with the sauce. \nGarnish with parsley and lemon wedges."
+      "ingredients": "500g shrimp, peeled and deveined \n1 tbsp. Sunbest Black Pepper, freshly ground\n2 tsps. salt \n¼ cup butter\n5 cloves garlic, sliced \n1 tbsp. oyster sauce \n1 tbsp. rice wine \n1 tsp. sugar \n2 tbsps. parsley, chopped\nLemon wedges for garnish",
+      "procedure": "Season shrimp with salt and pepper. \nMelt butter over medium heat. Sear shrimp in a single layer. Do this in batches if your pan can’t accommodate all of the shrimp at once. Set aside shrimp while retaining oil in the pan.\nAdd garlic and sauté until lightly browned. Mix in oyster sauce, rice wine and sugar. \nAdd back cooked shrimp and coat well with the sauce. \nGarnish with parsley and lemon wedges."
     },
     "photo": {
       "filename": "IG9.jpg",
@@ -224,7 +224,7 @@ const JULY_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "July IG",
-    "caption": "Make your afternoon coffee breaks more exciting by turning your favorite caffeinated beverage into Coffee Jelly.\n\nAll you need to do is dissolve Great Taste Strong Coffee Granules with some gulaman mix, wait for everything to set, and serve it with a creamy vanilla milk. The dark coffee jelly with all its bitter notes balances out so well with the sweet, fragrant milk. Trust us on this one! It’s lovely as a dessert, too. Find all the ingredients you need at #TheMarketplace!\n\nServing Time: 2 hours\nYield: 4 servings\n\nIngredients\n\n95g gulaman mix \n1 1/2 cups water, room temperature\n3 tbsps. Great Taste Strong Coffee Granules \n½ cup water, hot\n1 cup cream\n½ condensed milk\n¼ cup fresh milk\n ¼ tsp. vanilla extract\n\nProcedure\n\n1. In a small pot, dissolve gulaman mix in room temperature water. Put pot over medium heat.\n2. Dissolve Great Taste Strong Coffee Granules in hot water, then add to the gulaman mix. Let boil while continuously stirring.\n3. Turn off heat and transfer to a rectangular container. Let cool until gulaman is firm.\n4. In a bowl, combine cream, condensed milk, fresh milk and vanilla extract.\n5. Slice coffee gulaman into cubes. Add gulaman to the cream mixture and refrigerate for at least an hour before serving.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Make your afternoon coffee breaks more exciting by turning your favorite caffeinated beverage into Coffee Jelly.\n\nAll you need to do is dissolve Great Taste Strong Coffee Granules with some gulaman mix, wait for everything to set, and serve it with a creamy vanilla milk. The dark coffee jelly with all its bitter notes balances out so well with the sweet, fragrant milk. Trust us on this one! It’s lovely as a dessert, too. Find all the ingredients you need at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Great Taste"
     ],
@@ -232,8 +232,8 @@ const JULY_IG_DATA = [
       "servingTime": "2 hours",
       "yield": "4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n95g gulaman mix \n1 1/2 cups water, room temperature\n3 tbsps. Great Taste Strong Coffee Granules \n½ cup hot water\n1 cup cream\n½ condensed milk\n¼ cup fresh milk\n ¼ tsp. vanilla extract",
-      "procedure": "Procedure\nIn a small pot, dissolve gulaman mix in room temperature water. Put pot over medium heat.\nDissolve Great Taste Strong Coffee Granules in hot water, then add to the gulaman mix. Let boil while continuously stirring.\nTurn off heat and transfer to a rectangular container. Let cool until gulaman is firm.\nIn a bowl, combine cream, condensed milk, fresh milk and vanilla extract.\nSlice coffee gulaman into cubes. Add gulaman to the cream mixture and refrigerate for at least an hour before serving."
+      "ingredients": "95g gulaman mix \n1 1/2 cups water, room temperature\n3 tbsps. Great Taste Strong Coffee Granules \n½ cup hot water\n1 cup cream\n½ condensed milk\n¼ cup fresh milk\n ¼ tsp. vanilla extract",
+      "procedure": "In a small pot, dissolve gulaman mix in room temperature water. Put pot over medium heat.\nDissolve Great Taste Strong Coffee Granules in hot water, then add to the gulaman mix. Let boil while continuously stirring.\nTurn off heat and transfer to a rectangular container. Let cool until gulaman is firm.\nIn a bowl, combine cream, condensed milk, fresh milk and vanilla extract.\nSlice coffee gulaman into cubes. Add gulaman to the cream mixture and refrigerate for at least an hour before serving."
     },
     "photo": {
       "filename": "IG10.jpg",
@@ -249,7 +249,7 @@ const JULY_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "July IG",
-    "caption": "Step up your sandwich game with these Menudillo Bread Cones made with Gardenia’s High Fiber Wheat Raisin Loaf!\n\nServe them as tea-time snacks or if you’re in the mood for a heavy merienda. No need to add raisins into the menudillo since the Gardenia bread already contains them! You may also opt to use a regular Gardenia Wheat Loaf for a raisin-free version. The addition of mayonnaise gives the menudillo a creamy touch, which makes it a scrumptious bread filling. Get all your ingredients fresh only at #TheMarketplace!\n\nServing Time: 30-45 minutes\nYield: 4-6 servings\n\nIngredients\n\n1 loaf Gardenia Wheat Raisin, edges trimmed \n2 tsps. mayonnaise \n2 tbsps. oil \n5 cloves garlic, chopped\n1 red onion, chopped \n¼ kg. ground pork \n200 ml. tomato sauce \n½ carrot, cubed\n½ potato, cubed\nSalt and pepper to taste\n\nProcedure\n\n1. Flatten each slice of bread with a rolling pin. Form into cones, and seal with water. Toast until crisp. \n2. Heat up oil over medium heat. Sauté garlic and onion until soft. Add pork and cook until browned. \n3. Add in tomato sauce, carrots and potatoes. Let simmer until thick and veggies are cooked through. Season with salt and pepper. \n4. Fill each bread cone with mayonnaise and the cooked menudillo. \n\nPrefer to order your groceries online and have them delivered to you instead? Visit #TheMarketplace online at http://bit.ly/OrderTheMarketplace! Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Step up your sandwich game with these Menudillo Bread Cones made with Gardenia’s High Fiber Wheat Raisin Loaf!\n\nServe them as tea-time snacks or if you’re in the mood for a heavy merienda. No need to add raisins into the menudillo since the Gardenia bread already contains them! You may also opt to use a regular Gardenia Wheat Loaf for a raisin-free version. The addition of mayonnaise gives the menudillo a creamy touch, which makes it a scrumptious bread filling. Get all your ingredients fresh only at #TheMarketplace!\n\nPrefer to order your groceries online and have them delivered to you instead? Visit #TheMarketplace online at http://bit.ly/OrderTheMarketplace! Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Gardenia"
     ],
@@ -257,8 +257,8 @@ const JULY_IG_DATA = [
       "servingTime": "30-45 minutes",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 loaf Gardenia Wheat Raisin, edges trimmed \n2 tsps. mayonnaise \n2 tbsps. oil \n5 cloves garlic, chopped\n1 red onion, chopped \n¼ kg. ground pork \n200 ml. tomato sauce \n½ carrot, cubed\n½ potato, cubed\nSalt and pepper to taste",
-      "procedure": "Procedure\nFlatten each slice of bread with a rolling pin. Form into cones, and seal with water. Toast until crisp. \nHeat up oil over medium heat. Sauté garlic and onion until soft. Add pork and cook until browned. \nAdd in tomato sauce, carrots and potatoes. Let simmer until thick and veggies are cooked through. Season with salt and pepper. \nFill each bread cone with mayonnaise and the cooked menudillo."
+      "ingredients": "1 loaf Gardenia Wheat Raisin, edges trimmed \n2 tsps. mayonnaise \n2 tbsps. oil \n5 cloves garlic, chopped\n1 red onion, chopped \n¼ kg. ground pork \n200 ml. tomato sauce \n½ carrot, cubed\n½ potato, cubed\nSalt and pepper to taste",
+      "procedure": "Flatten each slice of bread with a rolling pin. Form into cones, and seal with water. Toast until crisp. \nHeat up oil over medium heat. Sauté garlic and onion until soft. Add pork and cook until browned. \nAdd in tomato sauce, carrots and potatoes. Let simmer until thick and veggies are cooked through. Season with salt and pepper. \nFill each bread cone with mayonnaise and the cooked menudillo."
     },
     "photo": {
       "filename": "IG11.jpg",
@@ -274,7 +274,7 @@ const JULY_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "July IG",
-    "caption": "Did you know that you can get some of Cebu’s best lechon in boneless form and in ready-to-heat packets? If you’re thinking ZubuChon, then you’re right!\n\nThere are a few delicious ways to enjoy lechon, and one of the most popular ones is Lechon Sisig. Having your lechon in ready-to-heat form saves you a lot of time in preparing this dish, and because of that, this version of Lechon Sisig is ready to devour in less than 20 minutes. Get your ready-to-heat ZubuChon Boneless Lechon the next time you shop at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 2-3 servings\n\nIngredients\n\n1 tbsp. oil\n1 pack Zubuchon Ready to Heat Boneless Lechon\n½ cup red onions\n2 tbsps. soy sauce\n1 tbsp. liquid seasoning\n1 tsp. pepper\n2 tbsps. mayonnaise\n3 pcs. red chili, sliced\n3 pcs. green chili, sliced\n\nProcedure\n\n1. Set a pan over medium heat. Add oil and Zubuchon Ready to Heat Boneless Lechon. Fry until crisp.\n2. Add onions and sauté until soft. Then, add soy sauce, liquid seasoning and pepper.\n3. Turn off the heat, then mix in mayonnaise, red chili and green chili.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Did you know that you can get some of Cebu’s best lechon in boneless form and in ready-to-heat packets? If you’re thinking ZubuChon, then you’re right!\n\nThere are a few delicious ways to enjoy lechon, and one of the most popular ones is Lechon Sisig. Having your lechon in ready-to-heat form saves you a lot of time in preparing this dish, and because of that, this version of Lechon Sisig is ready to devour in less than 20 minutes. Get your ready-to-heat ZubuChon Boneless Lechon the next time you shop at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Zubuchon"
     ],
@@ -282,8 +282,8 @@ const JULY_IG_DATA = [
       "servingTime": "15 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n 1 tbsp. oil\n 1 pack Zubuchon Ready to Heat Boneless Lechon\n ½ cup red onions\n 2 tbsps. soy sauce\n 1 tbsp. liquid seasoning\n 1 tsp. pepper \n 2 tbsps. mayonnaise \n 3 pcs. red chili, sliced\n 3 pcs. green chili, sliced",
-      "procedure": "Procedure\nSet a pan over medium heat. Add oil and Zubuchon Ready to Heat Boneless Lechon. Fry until crisp. \nAdd onions and sauté until soft. Then, add soy sauce, liquid seasoning and pepper.\nTurn off the heat, then mix in mayonnaise, red chili and green chili."
+      "ingredients": " 1 tbsp. oil\n 1 pack Zubuchon Ready to Heat Boneless Lechon\n ½ cup red onions\n 2 tbsps. soy sauce\n 1 tbsp. liquid seasoning\n 1 tsp. pepper \n 2 tbsps. mayonnaise \n 3 pcs. red chili, sliced\n 3 pcs. green chili, sliced",
+      "procedure": "Set a pan over medium heat. Add oil and Zubuchon Ready to Heat Boneless Lechon. Fry until crisp. \nAdd onions and sauté until soft. Then, add soy sauce, liquid seasoning and pepper.\nTurn off the heat, then mix in mayonnaise, red chili and green chili."
     },
     "photo": {
       "filename": "IG12.jpg",
@@ -356,7 +356,7 @@ const JULY_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "July IG",
-    "caption": "If you love mashed potatoes and cheese, then you will certainly fall head over heels for Aligot.\n\nOriginating from France, this fondue-like potato dish is creamy, cheesy, and comforting. Using Emborg Mozzarella and Parmesan, the nuttiness of the cheeses melds with the mashed potatoes, giving it that irresistible cheese pull upon every spoonful. So delicious and a tad mischievous, this is a glorious dish to have as a side or even as a main course if you wish.\n\nEmborg cheeses and other exclusive imported dairy products are available at #TheMarketplace. Shop now!\n\nServing Time: 35-40 minutes\nYield: 3-5 servings\n\nIngredients\n\n4 potatoes, peeled and cut into chunks\n1 cup butter, at room temperature\n2 cups cream\n3 cups mozzarella cheese, grated  \n½ cup parmesan cheese, grated \nSalt and pepper to taste\n\nProcedure\n\n1. Boil potatoes in salted water until fork tender. Drain, then finely mash. You can do this by hand using a masher or if available, with a food processor or ricer.\n2. Add the potatoes back to the pot, and place over low heat. Add in butter and cream. Mix until smooth.\n3. Beat in mozzarella and parmesan cheese until stringy and fully incorporated. \n4. Season with salt and pepper to taste. \n5. Serve warm. \n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "If you love mashed potatoes and cheese, then you will certainly fall head over heels for Aligot.\n\nOriginating from France, this fondue-like potato dish is creamy, cheesy, and comforting. Using Emborg Mozzarella and Parmesan, the nuttiness of the cheeses melds with the mashed potatoes, giving it that irresistible cheese pull upon every spoonful. So delicious and a tad mischievous, this is a glorious dish to have as a side or even as a main course if you wish.\n\nEmborg cheeses and other exclusive imported dairy products are available at #TheMarketplace. Shop now!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Emborg"
     ],
@@ -364,8 +364,8 @@ const JULY_IG_DATA = [
       "servingTime": "35-40 minutes",
       "yield": "3-5 servings",
       "tips": "",
-      "ingredients": "Ingredients\n4 potatoes, peeled and cut into chunks\n1 cup butter, at room temperature\n2 cups cream\n3 cups mozzarella cheese, grated  \n½ cup parmesan cheese, grated \nSalt and pepper to taste",
-      "procedure": "Procedure\nBoil potatoes in salted water until fork tender. Drain, then finely mash. You can do this by hand using a masher or if available, with a food processor or ricer.\nAdd the potatoes back to the pot, and place over low heat. Add in butter and cream. Mix until smooth.\nBeat in mozzarella and parmesan cheese until stringy and fully incorporated. \nSeason with salt and pepper to taste. \nServe warm."
+      "ingredients": "4 potatoes, peeled and cut into chunks\n1 cup butter, at room temperature\n2 cups cream\n3 cups mozzarella cheese, grated  \n½ cup parmesan cheese, grated \nSalt and pepper to taste",
+      "procedure": "Boil potatoes in salted water until fork tender. Drain, then finely mash. You can do this by hand using a masher or if available, with a food processor or ricer.\nAdd the potatoes back to the pot, and place over low heat. Add in butter and cream. Mix until smooth.\nBeat in mozzarella and parmesan cheese until stringy and fully incorporated. \nSeason with salt and pepper to taste. \nServe warm."
     },
     "photo": {
       "filename": "IG16.jpg",

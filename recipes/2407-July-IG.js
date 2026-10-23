@@ -19,8 +19,8 @@ const JULY_IG_DATA = [
       "servingTime": "15 minutes",
       "yield": "1 serving",
       "tips": "",
-      "ingredients": "Ingredients\n4 slices bacon\n2 slices white bread\n1 tbsp. butter, softened\n2 tbsps. mayonnaise\n½ cup lettuce leaves \n3 slices tomato, sliced\nSalt and pepper to taste\n3 slices Eden Cheddar Slices",
-      "procedure": "Procedure\nSet a non-stick pan over medium heat, then fry bacon strips until crisp. Drain on paper towels to remove excess grease.\nSpread butter onto sliced bread and toast using the same pan.\nTo assemble, spread mayonnaise on each bread slice. Place a layer of lettuce on the bottom bread slice, then tomato slices, and season with  of salt and pepper. Add Eden Cheddar Cheese slices and crispy bacon. Top with the other toasted bread slice."
+      "ingredients": "4 slices bacon\n2 slices white bread\n1 tbsp. butter, softened\n2 tbsps. mayonnaise\n½ cup lettuce leaves \n3 slices tomato, sliced\nSalt and pepper to taste\n3 slices Eden Cheddar Slices",
+      "procedure": "Set a non-stick pan over medium heat, then fry bacon strips until crisp. Drain on paper towels to remove excess grease.\nSpread butter onto sliced bread and toast using the same pan.\nTo assemble, spread mayonnaise on each bread slice. Place a layer of lettuce on the bottom bread slice, then tomato slices, and season with  of salt and pepper. Add Eden Cheddar Cheese slices and crispy bacon. Top with the other toasted bread slice."
     },
     "photo": {
       "filename": "IG1.jpg",

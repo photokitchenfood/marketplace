@@ -11,7 +11,7 @@ const AUGUST_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "August IG",
-    "caption": "Add a caffeinated twist to your favorite Oreo cheesecake in this recipe for No-Bake Coffee Cheesecake Jars!\nUsing Nescafé Black Roast instant coffee, expect robust and bold notes of the popular breakfast beverage whipped into a creamy, cheesy dessert. Because it’s no-bake, it’s also fuss-free and takes less than an hour to prepare. Great to have as a dessert or if you simply need an afternoon pick-me-up. Pairs best with some Nescafé Coffee, of course! Find all the ingredients you need at #TheMarketplace!\n\nServing Time: 30-35 minutes\nYield: 6 jars\nOptional: Top with whipped cream and more Oreo crumbs. \n\nIngredients\n\n2 cups Oreo crumbs\n2 tbsps. white sugar \n1 tsp. salt\n½ cup butter, melted\n2 tsps. Nescafé Black Roast Coffee, dissolved in 2 tbsps. warm water \n1 (250g) tub spreadable cream cheese\n1 cup whipping cream, chilled\n1 ½ cups powdered sugar \n2 cups Oreo crumbs \n\nProcedure\n\n1. Combine Oreo crumbs, sugar, salt and butter. Divide into 6 serving jars. Press into the bottom of the jars to form a crust. Chill while making the filling. \n2. Whisk together dissolved Nescafé Black Roast Coffee and cream cheese until smooth and well combined. \n3. In another bowl, whisk together whipping cream and powdered sugar until soft peaks form. \n4. Fold together coffee cream cheese mixture and whipped cream. \n5. Divide coffee cheesecake mixture into the 6 chilled jars. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Add a caffeinated twist to your favorite Oreo cheesecake in this recipe for No-Bake Coffee Cheesecake Jars!\nUsing Nescafé Black Roast instant coffee, expect robust and bold notes of the popular breakfast beverage whipped into a creamy, cheesy dessert. Because it’s no-bake, it’s also fuss-free and takes less than an hour to prepare. Great to have as a dessert or if you simply need an afternoon pick-me-up. Pairs best with some Nescafé Coffee, of course! Find all the ingredients you need at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Oreo",
       "Nescafé"
@@ -20,8 +20,8 @@ const AUGUST_IG_DATA = [
       "servingTime": "30-35 minutes",
       "yield": "6 jars",
       "tips": "Top with whipped cream and more Oreo crumbs.",
-      "ingredients": "Ingredients\n2 cups Oreo crumbs\n2 tbsps. white sugar \n1 tsp. salt\n½ cup butter, melted\n2 tsps. Nescafé Black Roast Coffee, dissolved in 2 tbsps. warm water \n1 (250g) tub spreadable cream cheese\n1 cup whipping cream, chilled\n1 ½ cups powdered sugar \n2 cups Oreo crumbs",
-      "procedure": "Procedure\nCombine Oreo crumbs, sugar, salt and butter. Divide into 6 serving jars. Press into the bottom of the jars to form a crust. Chill while making the filling. \nWhisk together dissolved Nescafé Black Roast Coffee and cream cheese until smooth and well combined. \nIn another bowl, whisk together whipping cream and powdered sugar until soft peaks form. \nFold together coffee cream cheese mixture and whipped cream. \nDivide coffee cheesecake mixture into the 6 chilled jars."
+      "ingredients": "2 cups Oreo crumbs\n2 tbsps. white sugar \n1 tsp. salt\n½ cup butter, melted\n2 tsps. Nescafé Black Roast Coffee, dissolved in 2 tbsps. warm water \n1 (250g) tub spreadable cream cheese\n1 cup whipping cream, chilled\n1 ½ cups powdered sugar \n2 cups Oreo crumbs",
+      "procedure": "Combine Oreo crumbs, sugar, salt and butter. Divide into 6 serving jars. Press into the bottom of the jars to form a crust. Chill while making the filling. \nWhisk together dissolved Nescafé Black Roast Coffee and cream cheese until smooth and well combined. \nIn another bowl, whisk together whipping cream and powdered sugar until soft peaks form. \nFold together coffee cream cheese mixture and whipped cream. \nDivide coffee cheesecake mixture into the 6 chilled jars."
     },
     "photo": {
       "filename": "IG1.jpg",
@@ -56,7 +56,7 @@ const AUGUST_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "August IG",
-    "caption": "Ever wondered what a Monte Cristo Sandwich is? \nThink of it as a ham and cheese French toast, and to make it even richer, slather on some mayonnaise and mustard if you prefer! You’d want to use a sturdy and tasty bread for this recipe, which is why Gardenia White Bread works best. Serve your Monte Cristo with a side of strawberry jam if you’re the type who loves a salty-and-sweet combination! Find all the ingredients you need at #TheMarketplace!\n\nServing Time: 12-15 minutes\nYield: 2 sandwiches\nOptional: Serve with some strawberry jam on the side.\n\nIngredients\n\n4 slices Gardenia White Bread  \n4 cheese slices \n4 ham slices\n1 egg\n¾ cup milk \n2 tsps. sugar \n2 tbsps. butter \n\nProcedure\n\n1. Place two slices of cheese and two slices of ham in between two slices of Gardenia White Bread. \n2. In a shallow container, whisk together egg, milk and sugar. \n3. Dip all sides of each sandwich into the egg mixture. \n4. Melt butter in a pan over medium heat. Fry each sandwich until golden brown on both sides. \n5. Slice diagonally before serving. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Ever wondered what a Monte Cristo Sandwich is? \nThink of it as a ham and cheese French toast, and to make it even richer, slather on some mayonnaise and mustard if you prefer! You’d want to use a sturdy and tasty bread for this recipe, which is why Gardenia White Bread works best. Serve your Monte Cristo with a side of strawberry jam if you’re the type who loves a salty-and-sweet combination! Find all the ingredients you need at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Gardenia"
     ],
@@ -64,8 +64,8 @@ const AUGUST_IG_DATA = [
       "servingTime": "12-15 minutes",
       "yield": "2 sandwiches",
       "tips": "Serve with strawberry jam on the side.",
-      "ingredients": "Ingredients\n4 slices Gardenia White Bread  \n4 cheese slices \n4 ham slices\n1 egg\n¾ cup milk \n2 tsps. sugar \n2 tbsps. butter",
-      "procedure": "Procedure\nPlace two slices of cheese and two slices of ham in between two slices of Gardenia White Bread. \nIn a shallow container, whisk together egg, milk and sugar. \nDip all sides of each sandwich into the egg mixture. \nMelt butter in a pan over medium heat. Fry each sandwich until golden brown on both sides. \nSlice diagonally before serving."
+      "ingredients": "4 slices Gardenia White Bread  \n4 cheese slices \n4 ham slices\n1 egg\n¾ cup milk \n2 tsps. sugar \n2 tbsps. butter",
+      "procedure": "Place two slices of cheese and two slices of ham in between two slices of Gardenia White Bread. \nIn a shallow container, whisk together egg, milk and sugar. \nDip all sides of each sandwich into the egg mixture. \nMelt butter in a pan over medium heat. Fry each sandwich until golden brown on both sides. \nSlice diagonally before serving."
     },
     "photo": {
       "filename": "IG3.jpg",
@@ -138,7 +138,7 @@ const AUGUST_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "August IG",
-    "caption": "Got 5 minutes?\n\nGive your body a boost of health by preparing this refreshing and probiotic-packed fruit shake using Dutch Mill ProYo! Choose from either Strawberry or Blueberry flavor and then blitz with your favorite fruits. \n\nApart from being high in Vitamins B1 & B2, Dutch Mill ProYo is an excellent source of calcium, Vitamin D, and live lactobacillus, making it naturally low in fat. The Strawberry Dutch Mill ProYo is great to blend with some bananas, strawberries, and a touch of honey. Get all the ingredients you need fresh from #TheMarketplace!\n\nServing Time: 5 minutes\nYield: 2-3 servings\nOptional: Garnish with banana and strawberry slices. \n\nIngredients\n\n1 bottle Dutch Mill Proyo Strawberry\n6 strawberries, green tops removed \n2 bananas, peeled and frozen\n1 tbsp. honey\n\nProcedure\n\n1. Blend together Dutch Mill Proyo Strawberry, strawberries, bananas and honey until smooth and well combined.\n2. Serve chilled. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Got 5 minutes?\n\nGive your body a boost of health by preparing this refreshing and probiotic-packed fruit shake using Dutch Mill ProYo! Choose from either Strawberry or Blueberry flavor and then blitz with your favorite fruits. \n\nApart from being high in Vitamins B1 & B2, Dutch Mill ProYo is an excellent source of calcium, Vitamin D, and live lactobacillus, making it naturally low in fat. The Strawberry Dutch Mill ProYo is great to blend with some bananas, strawberries, and a touch of honey. Get all the ingredients you need fresh from #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Dutch Mill"
     ],
@@ -146,8 +146,8 @@ const AUGUST_IG_DATA = [
       "servingTime": "5 minutes",
       "yield": "2-3 servings",
       "tips": "Garnish with banana and strawberry slices.",
-      "ingredients": "Ingredients\n1 bottle Dutch Mill Proyo Strawberry\n6 strawberries, green tops removed \n2 bananas, peeled and frozen\n1 tbsp. honey",
-      "procedure": "Procedure\nBlend together Dutch Mill Proyo Strawberry, strawberries, bananas and honey until smooth and well combined. \nServe chilled."
+      "ingredients": "1 bottle Dutch Mill Proyo Strawberry\n6 strawberries, green tops removed \n2 bananas, peeled and frozen\n1 tbsp. honey",
+      "procedure": "Blend together Dutch Mill Proyo Strawberry, strawberries, bananas and honey until smooth and well combined. \nServe chilled."
     },
     "photo": {
       "filename": "IG7.jpg",
@@ -163,7 +163,7 @@ const AUGUST_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "August IG",
-    "caption": "During these challenging times, dining out can be very tricky especially if you’re craving some comfort food.\n\nInstead of heading out, why not dine in and prepare your favorite Grilled Chicken Barbecue dish, complete with java rice and atchara, using Del Monte Quick n’ Easy BBQ Marinade? The trick is to marinate the chicken overnight to get all that goodness locked in the meat. Add all these ingredients to your list for when you shop at #TheMarketplace next!\n\nServing Time: 2-3 hours\nYield: 3-5 servings\nOptional: Serve with java rice and atchara for a complete meal.  \n\nIngredients\n\n½ kg bone-in chicken pieces \nSalt & pepper to taste \n1 cup Del Monte Quick n’ Easy BBQ Marinade \n2 tbsps. oil \n\nProcedure\n\n1. Season chicken with salt and pepper. Mix in Del Monte Quick n’ Easy BBQ Marinade and coat chicken pieces well. \n2. Marinate for 2 hours or ideally overnight. \n3. Heat up a grill pan over medium heat. Add in oil, then sear marinated chicken in batches until nicely browned in both sides and cooked through. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "During these challenging times, dining out can be very tricky especially if you’re craving some comfort food.\n\nInstead of heading out, why not dine in and prepare your favorite Grilled Chicken Barbecue dish, complete with java rice and atchara, using Del Monte Quick n’ Easy BBQ Marinade? The trick is to marinate the chicken overnight to get all that goodness locked in the meat. Add all these ingredients to your list for when you shop at #TheMarketplace next!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Del Monte"
     ],
@@ -171,8 +171,8 @@ const AUGUST_IG_DATA = [
       "servingTime": "2-3 hours",
       "yield": "3-5 servings",
       "tips": "Serve with java rice and atchara for a complete meal.",
-      "ingredients": "Ingredients\n½ kg bone-in chicken pieces \nSalt & pepper to taste \n1 cup Del Monte Quick n’ Easy BBQ Marinade \n2 tbsps. oil",
-      "procedure": "Procedure\nSeason chicken with salt and pepper. Mix in Del Monte Quick n’ Easy BBQ Marinade and coat chicken pieces well. \nMarinate for 2 hours or ideally overnight. \nHeat up a grill pan over medium heat. Add in oil, then sear marinated chicken in batches until nicely browned in both sides and cooked through."
+      "ingredients": "½ kg bone-in chicken pieces \nSalt & pepper to taste \n1 cup Del Monte Quick n’ Easy BBQ Marinade \n2 tbsps. oil",
+      "procedure": "Season chicken with salt and pepper. Mix in Del Monte Quick n’ Easy BBQ Marinade and coat chicken pieces well. \nMarinate for 2 hours or ideally overnight. \nHeat up a grill pan over medium heat. Add in oil, then sear marinated chicken in batches until nicely browned in both sides and cooked through."
     },
     "photo": {
       "filename": "IG8.jpg",
@@ -188,7 +188,7 @@ const AUGUST_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "August IG",
-    "caption": "Being a home barista is very common nowadays, and if you’re looking for dairy-free options for your daily latte, grab a liter of Vitasoy Soya Milk in the Café for Baristas edition on your next grocery run!\n\nCreamier and frothier compared to regular soya milk, use it for this delicious Salted Caramel Soy-Latte. Get the recipe below and find all the ingredients you need only at #TheMarketplace!\n\nServing Time: 5 minutes\nYield: 1 serving\n\nIngredients\n\n1 cup Vitasoy Soy Milk Cafe Barista \n½ cup cold water \n1 shot espresso \n3 tbsps. caramel syrup\nIce \n\nProcedure\n\n1. In a jar, combine Vitasoy Soy Milk Cafe Barista, water, espresso and 2 tbsps. Of caramel syrup. Shake until frothy and well combined. \n2. Put ice in your serving glass. Add in frothed soy caramel latte, then drizzle with remaining 1 tbsp. of caramel syrup on top.\n\nDid you know? You can now stay at home and order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Being a home barista is very common nowadays, and if you’re looking for dairy-free options for your daily latte, grab a liter of Vitasoy Soya Milk in the Café for Baristas edition on your next grocery run!\n\nCreamier and frothier compared to regular soya milk, use it for this delicious Salted Caramel Soy-Latte. Get the recipe below and find all the ingredients you need only at #TheMarketplace!\n\nDid you know? You can now stay at home and order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Vitasoy"
     ],
@@ -196,8 +196,8 @@ const AUGUST_IG_DATA = [
       "servingTime": "5 minutes",
       "yield": "1 serving",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup Vitasoy Soy Milk Café Barista \n½ cup cold water \n1 shot espresso \n3 tbsps. Caramel syrup\nIce",
-      "procedure": "Procedure\nIn a jar, combine Vitasoy Soy Milk Café Barista, water, espresso and 2 tbsps. Of caramel syrup. Shake until frothy and well combined. \nPut ice in your serving glass. Add in frothed soy caramel latte, then drizzle with remaining 1 tbsp. of caramel syrup on top."
+      "ingredients": "1 cup Vitasoy Soy Milk Café Barista \n½ cup cold water \n1 shot espresso \n3 tbsps. Caramel syrup\nIce",
+      "procedure": "In a jar, combine Vitasoy Soy Milk Café Barista, water, espresso and 2 tbsps. Of caramel syrup. Shake until frothy and well combined. \nPut ice in your serving glass. Add in frothed soy caramel latte, then drizzle with remaining 1 tbsp. of caramel syrup on top."
     },
     "photo": {
       "filename": "IG9.jpg",
@@ -213,7 +213,7 @@ const AUGUST_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "August IG",
-    "caption": "Here’s a quick, light, and delicious sandwich that you can easily whip up in less than 15 minutes. Toast some Gardenia Wheat Bread and layer with a homemade tuna spread, some sliced cheese, and avocados. Don’t forget to serve with some crisps on the side for a restaurant-like experience!\n\nAvocados are a game changer for any sandwich because apart from their pleasant, neutral flavor, the velvety and buttery texture instantly adds a special element to your sandwiches. No wonder they’re such a common sight in kitchens nowadays! Head over to #TheMarketplace and get all the ingredients you need fresh.\n\nServing Time: 10 minutes\nYield: 3 servings\n\nIngredients\n\n1 can tuna\n3 tbsps. mayonnaise \n1 tsp. pickled relish\n1 tbsp. spring onions\n1 tbsp. red onions\nSalt and pepper to taste\n1 avocado, sliced\n3 cheese slices\n6 slices Gardenia Wheat Bread, toasted\n\nProcedure\n\n1. Drain canned tuna and place it in a bowl.\n2. Add in mayonnaise, pickled relish, spring onions and red onions. Mix until well incorporated. Season with salt and pepper to taste.\n3. Place sliced avocados on toasted bread, then top with a layer of tuna spread and cheese slice. Top with another slice of toasted bread. \n\nPrefer to order your groceries online and have them delivered to you instead? Visit #TheMarketplace online at https://bit.ly/TheMarketplaceGoRobinsons! Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Here’s a quick, light, and delicious sandwich that you can easily whip up in less than 15 minutes. Toast some Gardenia Wheat Bread and layer with a homemade tuna spread, some sliced cheese, and avocados. Don’t forget to serve with some crisps on the side for a restaurant-like experience!\n\nAvocados are a game changer for any sandwich because apart from their pleasant, neutral flavor, the velvety and buttery texture instantly adds a special element to your sandwiches. No wonder they’re such a common sight in kitchens nowadays! Head over to #TheMarketplace and get all the ingredients you need fresh.\n\nPrefer to order your groceries online and have them delivered to you instead? Visit #TheMarketplace online at https://bit.ly/TheMarketplaceGoRobinsons! Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Gardenia"
     ],
@@ -221,8 +221,8 @@ const AUGUST_IG_DATA = [
       "servingTime": "10 minutes",
       "yield": "3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 can tuna\n3 tbsps. mayonnaise \n1 tsp. pickled relish\n1 tbsp. spring onions\n1 tbsp. red onions\nSalt and pepper to taste\n1 avocado, sliced\n3 cheese slices\n6 slices Gardenia Wheat Bread, toasted",
-      "procedure": "Procedure\nDrain canned tuna and place it in a bowl.\nAdd in mayonnaise, pickled relish, spring onions and red onions. Mix until well incorporated. Season with salt and pepper to taste.\nPlace sliced avocados on toasted bread, then top with a layer of tuna spread and cheese slice. Top with another slice of toasted bread."
+      "ingredients": "1 can tuna\n3 tbsps. mayonnaise \n1 tsp. pickled relish\n1 tbsp. spring onions\n1 tbsp. red onions\nSalt and pepper to taste\n1 avocado, sliced\n3 cheese slices\n6 slices Gardenia Wheat Bread, toasted",
+      "procedure": "Drain canned tuna and place it in a bowl.\nAdd in mayonnaise, pickled relish, spring onions and red onions. Mix until well incorporated. Season with salt and pepper to taste.\nPlace sliced avocados on toasted bread, then top with a layer of tuna spread and cheese slice. Top with another slice of toasted bread."
     },
     "photo": {
       "filename": "IG10.jpg",
@@ -238,7 +238,7 @@ const AUGUST_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "August IG",
-    "caption": "Give the classic Monde Cheese Bars a zingy and citrusy spin with this quick recipe for Lemon Cream Cheese Bars!\n\nSimply combine cream cheese, fresh lemon juice, and powdered sugar, and then sandwich the finished product in between Monde Cream Cheese Bars. It’s a refreshing and exciting take on the well-loved cheese bars—think of them as a simple hack for easy, no-bake lemon cheesecake bars! Pairs deliciously with coffee, tea, or milk. Add all the ingredients you need to your #TheMarketplace cart!\n\nServing Time: 15 minutes\nYield: 6 bars\n\nIngredients\n\n8 oz cream cheese, softened\n¾ cup powdered sugar\n½ tsp. lemon zest\n1 tbsp. lemon juice\n6 pcs. Monde Cheese Bar\nLemon slices for garnish\n\nProcedure\n\n1. Using an electric mixer, combine cream cheese and powdered sugar until smooth.\n2. Add lemon zest and lemon juice then mix again. Set aside.\n3. Slice Monde Cheese Bars in half lengthwise. Fill cheese bars with lemon cream cheese frosting. \n4. Garnish with lemon slices before serving.\n\nNow you can order your groceries online via https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at http://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Give the classic Monde Cheese Bars a zingy and citrusy spin with this quick recipe for Lemon Cream Cheese Bars!\n\nSimply combine cream cheese, fresh lemon juice, and powdered sugar, and then sandwich the finished product in between Monde Cream Cheese Bars. It’s a refreshing and exciting take on the well-loved cheese bars—think of them as a simple hack for easy, no-bake lemon cheesecake bars! Pairs deliciously with coffee, tea, or milk. Add all the ingredients you need to your #TheMarketplace cart!\n\nNow you can order your groceries online via https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at http://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Monde"
     ],
@@ -246,8 +246,8 @@ const AUGUST_IG_DATA = [
       "servingTime": "15 minutes",
       "yield": "6 bars",
       "tips": "",
-      "ingredients": "Ingredients\n8 oz cream cheese, softened\n¾ cup powdered sugar\n½ tsp. lemon zest\n1 tbsp. lemon juice\n6 pcs. Monde Cheese Bar\nLemon slices for garnish",
-      "procedure": "Procedure\nUsing an electric mixer, combine cream cheese and powdered sugar until smooth.\nAdd lemon zest and lemon juice then mix again. Set aside.\nSlice Monde Cheese Bars in half lengthwise. Fill cheese bars with lemon cream cheese frosting. \nGarnish with lemon slices before serving."
+      "ingredients": "8 oz cream cheese, softened\n¾ cup powdered sugar\n½ tsp. lemon zest\n1 tbsp. lemon juice\n6 pcs. Monde Cheese Bar\nLemon slices for garnish",
+      "procedure": "Using an electric mixer, combine cream cheese and powdered sugar until smooth.\nAdd lemon zest and lemon juice then mix again. Set aside.\nSlice Monde Cheese Bars in half lengthwise. Fill cheese bars with lemon cream cheese frosting. \nGarnish with lemon slices before serving."
     },
     "photo": {
       "filename": "IG11.jpg",
@@ -263,7 +263,7 @@ const AUGUST_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "August IG",
-    "caption": "Have a special occasion or celebration scheduled soon? Make it more meaningful by preparing this roasted chicken feast using Bounty Fresh Family Feast 100% All-natural Chicken.\n\nServed with a Peruvian dressing that’s bursting with bold spice and laced with a kick, simply follow our instructions for roasting the chicken so you can enjoy it at its best! It might seem daunting to prepare your own roasted chicken, especially if it’s your first time, but the rewards are definitely delicious and fulfilling, making your celebration even more meaningful because it was made from the heart.\n\n#TheMarketplace carries only the freshest quality ingredients, so head on over and shop now!\n\nServing Time: 2 hours\nYield: 1 roasted chicken\nOptional: Serve with salad or rice for a complete meal.\n\nIngredients\n\n(Roast Chicken)\n4 cloves garlic\n1 tsp. cumin\n1 ½ tsp. paprika\n1 tsp. dried oregano\n1 ½ tsps. salt \n½ tsp. black pepper\n4 tbsps. olive oil\n4 tbsps. lemon juice\n1 whole chicken, spatchcocked\n\n(Peruvian Dressing)\n½ cup sour cream\n2 tbsps. mayonnaise\n1 tbsp. lemon juice\n1 cup cilantro leaves, chopped\n1 jalapeño, seeded & chopped\n2 cloves garlic, minced\nSalt and pepper to taste\n\nProcedure\n\n1. Preheat oven to 200°C.\n2. In a blender, combine garlic, cumin, paprika, oregano, salt, peppe, olive oil and lemon juice. \n3. Pat dry chicken. Carefully loosen the skin, and add about a tablespoon of the marinade underneath the skin. Massage to evenly spread.\n4. Pour the rest of the marinade over the chicken. Coat all parts of the chicken including the inside. Cover with cling wrap, and marinate for at least an hour.\n5. Roast chicken for 60 minutes while basting every 15 minutes. Internal temperature should reach 165°C. \n6. In a bowl, whisk sour cream, mayonnaise and lemon juice together. Add cilantro leaves, jalapeño and garlic. Season with salt and pepper.\n7. Serve dressing alongside chicken.\n\nNow you can order your groceries online via https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at http://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Have a special occasion or celebration scheduled soon? Make it more meaningful by preparing this roasted chicken feast using Bounty Fresh Family Feast 100% All-natural Chicken.\n\nServed with a Peruvian dressing that’s bursting with bold spice and laced with a kick, simply follow our instructions for roasting the chicken so you can enjoy it at its best! It might seem daunting to prepare your own roasted chicken, especially if it’s your first time, but the rewards are definitely delicious and fulfilling, making your celebration even more meaningful because it was made from the heart.\n\n#TheMarketplace carries only the freshest quality ingredients, so head on over and shop now!\n\nNow you can order your groceries online via https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at http://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Bounty Fresh"
     ],
@@ -271,8 +271,8 @@ const AUGUST_IG_DATA = [
       "servingTime": "2 hours",
       "yield": "1 roasted chicken",
       "tips": "Serve with salad or rice for a complete meal.",
-      "ingredients": "Ingredients\nRoast Chicken:\n4 cloves garlic\n1 tsp. cumin\n1 ½ tsp. paprika\n1 tsp. dried oregano\n1 ½ tsps. salt \n½ tsp. black pepper\n4 tbsps. olive oil\n4 tbsps. lemon juice\n1 whole chicken, spatchcocked\nDressing:\n½ cup sour cream\n2 tbsps. mayonnaise\n1 tbsp. lemon juice\n1 cup cilantro leaves, chopped\n1 jalapeño, seeded & chopped\n2 cloves garlic, minced\nSalt and pepper to taste",
-      "procedure": "Procedure\n \nPreheat oven to 200°C.\nIn a blender, combine garlic, cumin, paprika, oregano, salt, peppe, olive oil and lemon juice. \nPat dry chicken. Carefully loosen the skin, and add about a tablespoon of the marinade underneath the skin. Massage to evenly spread.\nPour the rest of the marinade over the chicken. Coat all parts of the chicken including the inside. Cover with cling wrap, and marinate for at least an hour.\nRoast chicken for 60 minutes while basting every 15 minutes. Internal temperature should reach 165°C. \nIn a bowl, whisk sour cream, mayonnaise and lemon juice together. Add cilantro leaves, jalapeño and garlic. Season with salt and pepper.\nServe dressing alongside chicken."
+      "ingredients": "Roast Chicken:\n4 cloves garlic\n1 tsp. cumin\n1 ½ tsp. paprika\n1 tsp. dried oregano\n1 ½ tsps. salt \n½ tsp. black pepper\n4 tbsps. olive oil\n4 tbsps. lemon juice\n1 whole chicken, spatchcocked\nDressing:\n½ cup sour cream\n2 tbsps. mayonnaise\n1 tbsp. lemon juice\n1 cup cilantro leaves, chopped\n1 jalapeño, seeded & chopped\n2 cloves garlic, minced\nSalt and pepper to taste",
+      "procedure": "Preheat oven to 200°C.\nIn a blender, combine garlic, cumin, paprika, oregano, salt, peppe, olive oil and lemon juice. \nPat dry chicken. Carefully loosen the skin, and add about a tablespoon of the marinade underneath the skin. Massage to evenly spread.\nPour the rest of the marinade over the chicken. Coat all parts of the chicken including the inside. Cover with cling wrap, and marinate for at least an hour.\nRoast chicken for 60 minutes while basting every 15 minutes. Internal temperature should reach 165°C. \nIn a bowl, whisk sour cream, mayonnaise and lemon juice together. Add cilantro leaves, jalapeño and garlic. Season with salt and pepper.\nServe dressing alongside chicken."
     },
     "photo": {
       "filename": "IG12.jpg",
@@ -288,7 +288,7 @@ const AUGUST_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "August IG",
-    "caption": "If you’re a fan of fruity brekkie bowls, then you’ll definitely fall in love with this Blueberry ProYo Smoothie Bowl, made even healthier with Dutch Mill ProYo Blueberry Yoghurt Drink.\n\nApart from being packed with vitamins and probiotics such as live lactobacillus, did you know that Dutch Mill’s ProYo is also safe for the lactose intolerant? Simply blend with frozen blueberries and serve with fruits and granola for a delicious and healthy breakfast. Find all the ingredients you need, as well as the freshest berries and fruits, only at #TheMarketplace!\n\nServing Time: 7-10 minutes\nYield: 1-2 servings\n\nIngredients\n\n2 cups frozen blueberries\n1 cup Dutch Mill Proyo Blueberry\n1 cup strawberries, halved\n1 cup blueberries\n1 banana, sliced\n2 tbsps. granola\n\nProcedure\n\n1. Combine frozen blueberries and Dutch Mill Proyo Blueberry in a blender.\n2. Split into two servings. Top with strawberries, blueberries and bananas.\n3. Garnish with granola before serving.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "If you’re a fan of fruity brekkie bowls, then you’ll definitely fall in love with this Blueberry ProYo Smoothie Bowl, made even healthier with Dutch Mill ProYo Blueberry Yoghurt Drink.\n\nApart from being packed with vitamins and probiotics such as live lactobacillus, did you know that Dutch Mill’s ProYo is also safe for the lactose intolerant? Simply blend with frozen blueberries and serve with fruits and granola for a delicious and healthy breakfast. Find all the ingredients you need, as well as the freshest berries and fruits, only at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Dutch Mill"
     ],
@@ -296,8 +296,8 @@ const AUGUST_IG_DATA = [
       "servingTime": "7-10 minutes",
       "yield": "1-2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 cups frozen blueberries\n1 cup Dutch Mill Proyo Blueberry\n1 cup strawberries, halved\n1 cup blueberries\n1 banana, sliced\n2 tbsps. granola",
-      "procedure": "Procedure\nCombine frozen blueberries and Dutch Mill Proyo Blueberry in a blender.\nSplit into two servings. Top with strawberries, blueberries and bananas.\nGarnish with granola before serving."
+      "ingredients": "2 cups frozen blueberries\n1 cup Dutch Mill Proyo Blueberry\n1 cup strawberries, halved\n1 cup blueberries\n1 banana, sliced\n2 tbsps. granola",
+      "procedure": "Combine frozen blueberries and Dutch Mill Proyo Blueberry in a blender.\nSplit into two servings. Top with strawberries, blueberries and bananas.\nGarnish with granola before serving."
     },
     "photo": {
       "filename": "IG13.jpg",
@@ -313,7 +313,7 @@ const AUGUST_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "August IG",
-    "caption": "Celebrate all your wins, whether big or small, with this Ultimate Cookie Skillet à la Mode.\n\nNothing beats the comfort of digging into a homemade skillet cookie that’s soft and gooey inside and crisp on the surface. A scoop (or two) of Selecta Hershey’s Cookies ‘n’ Creme Ice Cream is the perfect partner that adds both a bit of mischief and indulgence to this dessert. We’re not kidding when we say this is indeed the ultimate cookie skillet dessert, so enjoy and don’t forget that happiness is only real when shared. Find all the ingredients you need at #TheMarketplace!\n\nServing Time: 20-30 minutes\nYield: 3-4 servings\n\nIngredients\n\n½ cup butter, softened\n½ cup white sugar\n½ cup brown sugar, packed\n1 egg\n1 ½ cup flour\n⅓ cup cacao powder\n½ tsp. baking soda\n½ tsp. salt \n1 cup chocolate chips\n½ cup Oreos, chopped\n2 scoops Selecta Hershey’s Cookies ‘n’ Creme Ice Cream\n\nProcedure\n\n1. Preheat oven to 180°C.\n2. Using an electric mixer, cream butter, white sugar and brown sugar until smooth. Add in the egg and mix well.\n3. Sift together flour, cacao powder, baking soda and salt. \n4. Carefully add flour mixture to wet mixture. Mix until just combined, then fold in chocolate chips and chopped Oreos.\n5. Transfer to a skillet and bake for 15-20 mins.\n6. Let it cool, then top with scoops of Selecta Hershey’s Cookies ‘n’ Creme Ice Cream before serving.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Celebrate all your wins, whether big or small, with this Ultimate Cookie Skillet à la Mode.\n\nNothing beats the comfort of digging into a homemade skillet cookie that’s soft and gooey inside and crisp on the surface. A scoop (or two) of Selecta Hershey’s Cookies ‘n’ Creme Ice Cream is the perfect partner that adds both a bit of mischief and indulgence to this dessert. We’re not kidding when we say this is indeed the ultimate cookie skillet dessert, so enjoy and don’t forget that happiness is only real when shared. Find all the ingredients you need at #TheMarketplace!\n\n6. Let it cool, then top with scoops of Selecta Hershey’s Cookies ‘n’ Creme Ice Cream before serving.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Selecta",
       "Oreo"
@@ -322,8 +322,8 @@ const AUGUST_IG_DATA = [
       "servingTime": "20-30 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n½ cup butter, softened\n½ cup white sugar\n½ cup brown sugar, packed\n1 egg\n1 ½ cup flour\n⅓ cup cacao powder\n½ tsp. baking soda\n½ tsp. salt \n1 cup chocolate chips\n½ cup Oreos, chopped\n2 scoops Selecta Hershey’s Cookies ‘n’ Creme Ice Cream",
-      "procedure": "Procedure\nPreheat oven to 180°C.\nUsing an electric mixer, cream butter, white sugar and brown sugar until smooth. Add in the egg and mix well.\nSift together flour, cacao powder, baking soda and salt. \nCarefully add flour mixture to wet mixture. Mix until just combined, then fold in chocolate chips and chopped oreos.\nTransfer to a skillet and bake for 15-20 mins.\nLet it cool, then top with scoops of Selecta Hershey’s Cookies and Creme Ice Cream before serving."
+      "ingredients": "½ cup butter, softened\n½ cup white sugar\n½ cup brown sugar, packed\n1 egg\n1 ½ cup flour\n⅓ cup cacao powder\n½ tsp. baking soda\n½ tsp. salt \n1 cup chocolate chips\n½ cup Oreos, chopped\n2 scoops Selecta Hershey’s Cookies ‘n’ Creme Ice Cream",
+      "procedure": "Preheat oven to 180°C.\nUsing an electric mixer, cream butter, white sugar and brown sugar until smooth. Add in the egg and mix well.\nSift together flour, cacao powder, baking soda and salt. \nCarefully add flour mixture to wet mixture. Mix until just combined, then fold in chocolate chips and chopped oreos.\nTransfer to a skillet and bake for 15-20 mins.\nLet it cool, then top with scoops of Selecta Hershey’s Cookies and Creme Ice Cream before serving."
     },
     "photo": {
       "filename": "IG14.jpg",

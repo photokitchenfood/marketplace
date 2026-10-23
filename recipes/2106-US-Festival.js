@@ -11,7 +11,7 @@ const US_FESTIVAL_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "US Festival",
-    "caption": "Being a traditional Cuban cocktail, a classic rum-based mojito is usually prepared with lime juice and mint, but in this recipe, we’re adding a blast of berry flavors using Hawaiian Punch!\n\nThis Mixed Berry Mojito is the ultimate drink for sunny weekend afternoons, lazing around with your favorite book in hand. All it takes is 5 minutes to prepare and six ingredients that you can find at #TheMarketplace. This is truly one refreshing cocktail that’s easy, fruity, and delicious. \n\nServing Time: 5 minutes\nYield: 2 servings\n\nIngredients\n\n¼ cup fresh mixed berries\n4 lime slices\n1 ounce lime juice \n1 ounce rum \n1 can Hawaiian Punch \nIce\n\nProcedure\n\n1. Divide mixed berries and lime slices in two serving glasses. Muddle berries and lime together in each glass. \n2. Add lime juice, rum and Hawaiian Punch. Mix well.\n3. Top off with ice. \n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Being a traditional Cuban cocktail, a classic rum-based mojito is usually prepared with lime juice and mint, but in this recipe, we’re adding a blast of berry flavors using Hawaiian Punch!\n\nThis Mixed Berry Mojito is the ultimate drink for sunny weekend afternoons, lazing around with your favorite book in hand. All it takes is 5 minutes to prepare and six ingredients that you can find at #TheMarketplace. This is truly one refreshing cocktail that’s easy, fruity, and delicious.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Hawaiian Punch"
     ],
@@ -19,8 +19,8 @@ const US_FESTIVAL_DATA = [
       "servingTime": "5 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n¼ cup fresh mixed berries\n4 lime slices\n1 ounce lime juice \n1 ounce rum \n1 can Hawaiian Punch \nIce",
-      "procedure": "Procedure\nDivide mixed berries and lime slices in two serving glasses. Muddle berries and lime together in each glass. \nAdd lime juice, rum and Hawaiian Punch. Mix well. \nTop off with ice."
+      "ingredients": "¼ cup fresh mixed berries\n4 lime slices\n1 ounce lime juice \n1 ounce rum \n1 can Hawaiian Punch \nIce",
+      "procedure": "Divide mixed berries and lime slices in two serving glasses. Muddle berries and lime together in each glass. \nAdd lime juice, rum and Hawaiian Punch. Mix well. \nTop off with ice."
     },
     "photo": {
       "filename": "US1.jpg",
@@ -74,7 +74,7 @@ const US_FESTIVAL_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "US Festival",
-    "caption": "Turn your favorite banoffee pie into an equally decadent breakfast with this Banoffee Cereal Parfait!\n\nSimply layer Post’s Great Grains Cereal in Banana Nut Crunch with sliced bananas, chocolate chips, and yoghurt. Chill for 10 minutes and get ready to indulge! Find more Post cereals and other imported breakfast items only at #TheMarketplace!\n\nServing Time: 12 minutes\nYield: 1 serving\n\nIngredients\n\n½ cup Post Great Grains Banana Nut Crunch Cereal\n1 banana, sliced \n¼ cup chocolate chips\n¼ cup yoghurt\n\nProcedure\n\n1. In a serving glass or jar, layer together Post Great Grains Banana Nut Crunch Cereal, bananas, chocolate and yoghurt.\n2. Chill for at least 10 minutes. \nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Turn your favorite banoffee pie into an equally decadent breakfast with this Banoffee Cereal Parfait!\n\nSimply layer Post’s Great Grains Cereal in Banana Nut Crunch with sliced bananas, chocolate chips, and yoghurt. Chill for 10 minutes and get ready to indulge! Find more Post cereals and other imported breakfast items only at #TheMarketplace!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Post",
       "Great Grains"
@@ -83,8 +83,8 @@ const US_FESTIVAL_DATA = [
       "servingTime": "12 minutes",
       "yield": "1 serving",
       "tips": "",
-      "ingredients": "Ingredients\n½ cup Post Great Grains Banana Nut Crunch Cereal\n1 banana, sliced \n¼ cup chocolate chips\n¼ cup yoghurt",
-      "procedure": "Procedure\nIn a serving glass or jar, layer together Post Great Grains Banana Nut Crunch Cereal, bananas, chocolate and yoghurt. \nChill for at least 10 minutes."
+      "ingredients": "½ cup Post Great Grains Banana Nut Crunch Cereal\n1 banana, sliced \n¼ cup chocolate chips\n¼ cup yoghurt",
+      "procedure": "In a serving glass or jar, layer together Post Great Grains Banana Nut Crunch Cereal, bananas, chocolate and yoghurt. \nChill for at least 10 minutes."
     },
     "photo": {
       "filename": "US4.jpg",
@@ -100,7 +100,7 @@ const US_FESTIVAL_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "US Festival",
-    "caption": "Here’s a new way to enjoy your canned Vienna sausages!\n\nUsing Prime Deli’s Chicken Vienna Sausages, prepare a satisfying batch of tacos for brunch by simply frying them, and then serve with fresh vegetables and tortillas. Don’t forget to enjoy them with some salsa and sour cream on the side! Shop for imported canned goods and grocery items at #TheMarketplace! We curate only the best brands for you.\n\nServing Time: 10 minutes\nYield: 2 servings\nOptional: Serve with sour cream and salsa. \n\nIngredients\n\n1 can Prime Deli Chicken Vienna Sausage \n¼ cup green cabbage, shredded\n¼ cup purple cabbage, shredded \n¼ cup tomatoes, diced \n2 soft tortillas, toasted \n\nProcedure\n\n1. Fry Prime Deli Chicken Vienna Sausages over medium-high heat until slightly toasted.\n2. Combine green and purple cabbage and tomatoes. \n3. Top each tortilla with the cabbage and tomato mix, then with the fried sausages. \n\nDid you know? You can now get your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Here’s a new way to enjoy your canned Vienna sausages!\n\nUsing Prime Deli’s Chicken Vienna Sausages, prepare a satisfying batch of tacos for brunch by simply frying them, and then serve with fresh vegetables and tortillas. Don’t forget to enjoy them with some salsa and sour cream on the side! Shop for imported canned goods and grocery items at #TheMarketplace! We curate only the best brands for you.\n\nDid you know? You can now get your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Prime Deli"
     ],
@@ -108,8 +108,8 @@ const US_FESTIVAL_DATA = [
       "servingTime": "10 minutes",
       "yield": "2 servings",
       "tips": "Serve with sour cream and salsa.",
-      "ingredients": "Ingredients\n1 can Prime Deli Chicken Vienna Sausage \n¼ cup green cabbage, shredded\n¼ cup purple cabbage, shredded \n¼ cup tomatoes, diced \n2 soft tortillas, toasted",
-      "procedure": "Procedure\nFry Prime Deli Chicken Vienna Sausages over medium-high heat until slightly toasted. \nCombine green and purple cabbage and tomatoes. \nTop each tortilla with the cabbage and tomato mix, then with the fried sausages."
+      "ingredients": "1 can Prime Deli Chicken Vienna Sausage \n¼ cup green cabbage, shredded\n¼ cup purple cabbage, shredded \n¼ cup tomatoes, diced \n2 soft tortillas, toasted",
+      "procedure": "Fry Prime Deli Chicken Vienna Sausages over medium-high heat until slightly toasted. \nCombine green and purple cabbage and tomatoes. \nTop each tortilla with the cabbage and tomato mix, then with the fried sausages."
     },
     "photo": {
       "filename": "US5.jpg",
@@ -125,7 +125,7 @@ const US_FESTIVAL_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "US Festival",
-    "caption": "No other confectionery embodies the decadent combination of chocolate and peanut butter the way Reese’s does. Their peanut butter cups have become an iconic snack that’s usually enjoyed on its own, and they are also a great ingredient for brownies!\n\nThis easy recipe for Reese’s Brownies combines two familiar comfort delights and are such a treat to have as an afternoon snack or dessert. If you love chocolate and peanut butter, this recipe was meant for you. Pair it with a scoop of vanilla ice cream for extra indulgence. Get all the ingredients you need plus other imported confectionery from #TheMarketplace!\n\nServing Time: 30-35 minutes\nYield: 18-20 bars\n\nIngredients\n\n1 cup white sugar\n1 cup brown sugar\n½ tsp. salt  \n½ cup cocoa powder\n1 ½ cups flour \n½ tsp. baking powder\n1 cup butter, melted \n1 tsp. vanilla \n4 eggs \n10 pcs. Reese’s Peanut Butter Cups, coarsely chopped \n\nProcedure\n\n1. Preheat oven to 175°C. Grease a 13x9” inch pan.\n2. In a large mixing bowl, whisk together white sugar, brown sugar, salt, cocoa powder, flour and baking powder.\n3. In a separate bowl, combine butter, vanilla and eggs. Add this to the dry mixture, and mix until just combined.\n4. Transfer to the greased pan, then top with Reese’s Peanut Butter Cups. \n5. Bake for 25-30 minutes, or until a toothpick inserted in the center comes out clean. \n\nYou can also order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "No other confectionery embodies the decadent combination of chocolate and peanut butter the way Reese’s does. Their peanut butter cups have become an iconic snack that’s usually enjoyed on its own, and they are also a great ingredient for brownies!\n\nThis easy recipe for Reese’s Brownies combines two familiar comfort delights and are such a treat to have as an afternoon snack or dessert. If you love chocolate and peanut butter, this recipe was meant for you. Pair it with a scoop of vanilla ice cream for extra indulgence. Get all the ingredients you need plus other imported confectionery from #TheMarketplace!\n\nYou can also order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Reese's"
     ],
@@ -133,8 +133,8 @@ const US_FESTIVAL_DATA = [
       "servingTime": "30-35 minutes",
       "yield": "18-20 bars",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup white sugar\n1 cup brown sugar\n½ tsp. salt  \n½ cup cocoa powder\n1 ½ cups flour \n½ tsp. baking powder\n1 cup butter, melted \n1 tsp. vanilla \n4 eggs \n10 pcs. Reese’s Peanut Butter Cups, coarsely chopped",
-      "procedure": "Procedure\nPreheat oven to 175°C. Grease a 13x9” inch pan. \nIn a large mixing bowl, whisk together white sugar, brown sugar, salt, cocoa powder, flour and baking powder. \nIn a separate bowl, combine butter, vanilla and eggs. Add this to the dry mixture, and mix until just combined. \nTransfer to the greased pan, then top with Reese’s Peanut Butter Cups. \nBake for 25-30 minutes, or until a toothpick inserted in the center comes out clean."
+      "ingredients": "1 cup white sugar\n1 cup brown sugar\n½ tsp. salt  \n½ cup cocoa powder\n1 ½ cups flour \n½ tsp. baking powder\n1 cup butter, melted \n1 tsp. vanilla \n4 eggs \n10 pcs. Reese’s Peanut Butter Cups, coarsely chopped",
+      "procedure": "Preheat oven to 175°C. Grease a 13x9” inch pan. \nIn a large mixing bowl, whisk together white sugar, brown sugar, salt, cocoa powder, flour and baking powder. \nIn a separate bowl, combine butter, vanilla and eggs. Add this to the dry mixture, and mix until just combined. \nTransfer to the greased pan, then top with Reese’s Peanut Butter Cups. \nBake for 25-30 minutes, or until a toothpick inserted in the center comes out clean."
     },
     "photo": {
       "filename": "US6.jpg",

@@ -11,7 +11,7 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "International Coffee Day",
-    "caption": "Give the classic panna cotta a coffee-flavored twist with this recipe for Coffee Panna Cotta!\n\nMade with Nescafé Gold coffee grounds, the robustness from the coffee blends perfectly with the creamy vanilla base. Swirl with chocolate sauce and garnish with slivered almonds for a sophisticated presentation! Get all the ingredients you need at #TheMarketplace!\n\nServing Time: 3 hours\nYield: 4-6 servings\n\nIngredients\n\n1 ½ cup milk \n1 tbsp. gelatine powder\n1 cup cream \n½ cup condensed milk \n1 tbsp. Nescafé Gold coffee grounds \n1 cup chocolate sauce \n¼ cup almonds, slivered \n\nProcedure\n1. Combine milk and gelatine powder until granules are fully incorporated. \n2. In a saucepan over low heat, combine cream, condensed milk and Nescafé Gold coffee grounds. Let simmer. Mix in milk mixture. \n3. Strain and transfer into ramekins. Let cool down to room temperature, then refrigerate to set for at least 2 hours. \n4. Unmold, then drizzle with chocolate sauce and almonds on top. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Give the classic panna cotta a coffee-flavored twist with this recipe for Coffee Panna Cotta!\n\nMade with Nescafé Gold coffee grounds, the robustness from the coffee blends perfectly with the creamy vanilla base. Swirl with chocolate sauce and garnish with slivered almonds for a sophisticated presentation! Get all the ingredients you need at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Nescafé"
     ],
@@ -19,8 +19,8 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
       "servingTime": "3 hours",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 ½ cup milk \n1 tbsp. gelatine powder\n1 cup cream \n½ cup condensed milk \n1 tbsp. Nescafé Gold coffee grounds \n1 cup chocolate sauce \n¼ cup almonds, slivered",
-      "procedure": "Procedure\nCombine milk and gelatine powder until granules are fully incorporated. \nIn a saucepan over low heat, combine cream, condensed milk and Nescafé Gold coffee grounds. Let simmer. Mix in milk mixture. \nStrain and transfer into ramekins. Let cool down to room temperature, then refrigerate to set for at least 2 hours. \nUnmold, then drizzle with chocolate sauce and almonds on top."
+      "ingredients": "1 ½ cup milk \n1 tbsp. gelatine powder\n1 cup cream \n½ cup condensed milk \n1 tbsp. Nescafé Gold coffee grounds \n1 cup chocolate sauce \n¼ cup almonds, slivered",
+      "procedure": "Combine milk and gelatine powder until granules are fully incorporated. \nIn a saucepan over low heat, combine cream, condensed milk and Nescafé Gold coffee grounds. Let simmer. Mix in milk mixture. \nStrain and transfer into ramekins. Let cool down to room temperature, then refrigerate to set for at least 2 hours. \nUnmold, then drizzle with chocolate sauce and almonds on top."
     },
     "photo": {
       "filename": "ICD1.jpg",
@@ -36,7 +36,7 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "International Coffee Day",
-    "caption": "Love coffee and toast? Then this recipe for Coffee French Toast Sticks will definitely became a quick favorite.\n\nOld Town White Coffee is added to the classic French toast egg bath for an aromatic touch. Fry with some butter and dust with powdered sugar for absolute decadence. Find Old Town White Coffee, along with your other favorite imported coffee brands, only at #TheMarketplace!\n\nServing Time: 20 minutes\nYield: 4-6 servings\n\nIngredients\n\n5 slices white bread \n2 packs Old Town White Coffee \n½ cup hot water \n½ cup milk\n2 tbsps. sugar\n1 egg \n3 tbsps. butter \n2 tbsps. powdered sugar\n\nProcedure\n1. Slice bread into sticks. \n2. Dissolve Old Town White Coffee in hot water. Whisk in milk, sugar and egg. \n3. Lightly dip bread sticks into the coffee mixture. \n4. Melt butter in a pan over medium heat, then fry dipped bread sticks in batches until nicely browned on all sides.\n5. Dust with powdered sugar on top. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Love coffee and toast? Then this recipe for Coffee French Toast Sticks will definitely became a quick favorite.\n\nOld Town White Coffee is added to the classic French toast egg bath for an aromatic touch. Fry with some butter and dust with powdered sugar for absolute decadence. Find Old Town White Coffee, along with your other favorite imported coffee brands, only at #TheMarketplace!\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Old Town"
     ],
@@ -44,8 +44,8 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
       "servingTime": "20 minutes",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n5 slices white bread \n2 packs Old Town White Coffee \n½ cup hot water \n½ cup milk\n2 tbsps. sugar\n1 egg \n3 tbsps. butter \n2 tbsps. powdered sugar",
-      "procedure": "Procedure\nSlice bread into sticks. \nDissolve Old Town White Coffee in hot water. Whisk in milk, sugar and egg. \nLightly dip bread sticks into the coffee mixture. \nMelt butter in a pan over medium heat, then fry dipped bread sticks in batches until nicely browned on all sides. \n Dust with powdered sugar on top."
+      "ingredients": "5 slices white bread \n2 packs Old Town White Coffee \n½ cup hot water \n½ cup milk\n2 tbsps. sugar\n1 egg \n3 tbsps. butter \n2 tbsps. powdered sugar",
+      "procedure": "Slice bread into sticks. \nDissolve Old Town White Coffee in hot water. Whisk in milk, sugar and egg. \nLightly dip bread sticks into the coffee mixture. \nMelt butter in a pan over medium heat, then fry dipped bread sticks in batches until nicely browned on all sides. \n Dust with powdered sugar on top."
     },
     "photo": {
       "filename": "ICD2.jpg",
@@ -61,7 +61,7 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "International Coffee Day",
-    "caption": "As we celebrate all things coffee this month, here’s one dessert that puts our favorite caffeinated beverage at the forefront of its flavor profile: tiramisu.\n\nIn this recipe, we’ve given the classic tiramisu a new look by turning it into a Tiramisu Parfait. With the use of Great Taste coffee powder, tuck into layers of tangy cream cheese, sweet vanilla, and bittersweet cocoa powder. It’s the perfect way to end an Italian dinner. Shop at #TheMarketplace today, and get all the ingredients you need!\n\nServing Time: 2 hours\nYield: 3-4 servings\n\nIngredients\n\n3 egg yolks \n½ cup white sugar \n1 bar cream cheese, softened\n½ tsp. vanilla\n15 pcs. broas \n3 tbsps. Great Taste coffee powder \n½ cup hot water \n1 tsp. coffee liqueur or rum\n¼ cup cocoa powder\n\nProcedure\n\n1. Combine egg yolks and white sugar in a heatproof bowl. Place over a pot of simmering water without the bowl touching the liquid. Beat egg yolks and sugar together until it becomes fluffy and pale yellow. \n2. Remove bowl from the heat, then beat in cream cheese and vanilla until smooth. Set aside. \n3. Combine Great Taste coffee powder, hot water and coffee liqueur or rum. Briefly broas into this mix right before layering with the cream mixture. \n4. To assemble, layer soaked broas and cream in parfait glasses starting with the broas first and ending with the cream. Dust with cocoa powder on top. \n5. Chill for at least 1 hour before serving.  \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "As we celebrate all things coffee this month, here’s one dessert that puts our favorite caffeinated beverage at the forefront of its flavor profile: tiramisu.\n\nIn this recipe, we’ve given the classic tiramisu a new look by turning it into a Tiramisu Parfait. With the use of Great Taste coffee powder, tuck into layers of tangy cream cheese, sweet vanilla, and bittersweet cocoa powder. It’s the perfect way to end an Italian dinner. Shop at #TheMarketplace today, and get all the ingredients you need!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Great Taste"
     ],
@@ -69,8 +69,8 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
       "servingTime": "2 hours",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n3 egg yolks \n½ cup white sugar \n1 bar cream cheese, softened\n½ tsp. vanilla\n15 pcs. broas \n3 tbsps. Great Taste coffee powder \n½ cup hot water \n1 tsp. coffee liqueur or rum\n¼ cup cocoa powder",
-      "procedure": "Procedure\nCombine egg yolks and white sugar in a heatproof bowl. Place over a pot of simmering water without the bowl touching the liquid. Beat egg yolks and sugar together until it becomes fluffy and pale yellow. \nRemove bowl from the heat, then beat in cream cheese and vanilla until smooth. Set aside. \nCombine Great Taste coffee powder, hot water and coffee liqueur or rum. Briefly broas into this mix right before layering with the cream mixture. \nTo assemble, layer soaked broas and cream in parfait glasses starting with the broas first and ending with the cream. Dust with cocoa powder on top. \nChill for at least 1 hour before serving."
+      "ingredients": "3 egg yolks \n½ cup white sugar \n1 bar cream cheese, softened\n½ tsp. vanilla\n15 pcs. broas \n3 tbsps. Great Taste coffee powder \n½ cup hot water \n1 tsp. coffee liqueur or rum\n¼ cup cocoa powder",
+      "procedure": "Combine egg yolks and white sugar in a heatproof bowl. Place over a pot of simmering water without the bowl touching the liquid. Beat egg yolks and sugar together until it becomes fluffy and pale yellow. \nRemove bowl from the heat, then beat in cream cheese and vanilla until smooth. Set aside. \nCombine Great Taste coffee powder, hot water and coffee liqueur or rum. Briefly broas into this mix right before layering with the cream mixture. \nTo assemble, layer soaked broas and cream in parfait glasses starting with the broas first and ending with the cream. Dust with cocoa powder on top. \nChill for at least 1 hour before serving."
     },
     "photo": {
       "filename": "ICD3.jpg",
@@ -86,7 +86,7 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "International Coffee Day",
-    "caption": "Jazz up your CBTL Hazelnut 3-in-1 Coffee with this recipe for Hazelnut Coffee Milkshake! Simply combine the coffee with vanilla ice cream, melted chocolate, and chopped hazelnuts and enjoy a creamier and more luscious beverage. This recipe makes two servings, so share it with someone you love! Find all the ingredients you need, along with other instant coffee brands, at #TheMarketplace!\n\nServing Time: 10-15 minutes\nYield: 2 glasses\n\nIngredients\n\n2 sachets CBTL Hazelnut 3-in-1 Coffee\n250ml water, warm\n3 cups vanilla ice cream\n½ cup chocolate, melted\n¼ cup hazelnuts, chopped\n\nProcedure\n\n1. Dissolve CBTL Hazelnut 3-in-1 Coffee with warm water. Set aside to cool.\n2. Using a blender, combine CBTL Hazelnut Coffee and vanilla ice cream until smooth.\n3. Add about 2 tablespoons of melted chocolate around the inner rim of your serving glass.\n4. Fill glass with hazelnut coffee milkshake, then top with chopped hazelnuts.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Jazz up your CBTL Hazelnut 3-in-1 Coffee with this recipe for Hazelnut Coffee Milkshake! Simply combine the coffee with vanilla ice cream, melted chocolate, and chopped hazelnuts and enjoy a creamier and more luscious beverage. This recipe makes two servings, so share it with someone you love! Find all the ingredients you need, along with other instant coffee brands, at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "CBTL"
     ],
@@ -94,8 +94,8 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
       "servingTime": "10-15 minutes",
       "yield": "2 glasses",
       "tips": "",
-      "ingredients": "Ingredients\n2 sachets CBTL Hazelnut 3-in-1 Coffee\n250ml water, warm\n3 cups vanilla ice cream\n½ cup chocolate, melted\n¼ cup hazelnuts, chopped",
-      "procedure": "Procedure\nDissolve CBTL Hazelnut 3-in-1 Coffee with warm water. Set aside to cool.\nUsing a blender, combine CBTL Hazelnut Coffee and vanilla ice cream until smooth.\nAdd about 2 tablespoons of melted chocolate around the inner rim of your serving glass.\nFill glass with hazelnut coffee milkshake, then top with chopped hazelnuts."
+      "ingredients": "2 sachets CBTL Hazelnut 3-in-1 Coffee\n250ml water, warm\n3 cups vanilla ice cream\n½ cup chocolate, melted\n¼ cup hazelnuts, chopped",
+      "procedure": "Dissolve CBTL Hazelnut 3-in-1 Coffee with warm water. Set aside to cool.\nUsing a blender, combine CBTL Hazelnut Coffee and vanilla ice cream until smooth.\nAdd about 2 tablespoons of melted chocolate around the inner rim of your serving glass.\nFill glass with hazelnut coffee milkshake, then top with chopped hazelnuts."
     },
     "photo": {
       "filename": "ICD4.jpg",
@@ -130,7 +130,7 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "International Coffee Day",
-    "caption": "If you’re in the mood to make an indulgent dessert this weekend, give this recipe for 3-in-1 Coffee Cheesecake a go. This no-bake recipe makes it less intimidating to prepare, and the use of UCC 3-in-1 Coffee Mix takes the worry away from ensuring a perfect brew. Tangy, sweet, and with just the right hint of coffee flavor, this dessert almost tastes like a tiramisu but with more of the cheese. Simply order from #TheMarketplace online and have all your groceries delivered to your doorstep!\n\nServing Time: 5 hours\nYield: 6-8 servings\n\nIngredients\n\n2 cups cookie crumbs\n¼ cup white sugar \n1 tsp. salt  \n½ cup butter, melted \n2 packs UCC 3-in-1 Coffee Mix \n¼ cup hot water\n2 tbsps. gelatine powder\n1 bar cream cheese, softened \n1 cup powdered sugar\n½ cup sour cream \n1 cup whipping cream\n\nProcedure\n\n1. Combine cookie crumbs, white sugar, salt and butter. Once fully incorporated, press onto the base of your serving tray. Chill for 1 hour. \n2. Dissolve UCC 3-in-1 Coffee Mix in hot water. Mix in gelatine powder. Set aside. \n3. Using a stand mixer fitted with a paddle attachment, beat cream cheese and sugar together until smooth.\n4. Mix in sour cream and dissolved coffee-gelatine mixture. \n5. Change to a whisk attachment, then add in cream. Whisk until soft peaks form. \n6. Add mixture on top of the cookie crust, Let set for at least 3 hours or ideally, overnight. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "If you’re in the mood to make an indulgent dessert this weekend, give this recipe for 3-in-1 Coffee Cheesecake a go. This no-bake recipe makes it less intimidating to prepare, and the use of UCC 3-in-1 Coffee Mix takes the worry away from ensuring a perfect brew. Tangy, sweet, and with just the right hint of coffee flavor, this dessert almost tastes like a tiramisu but with more of the cheese. Simply order from #TheMarketplace online and have all your groceries delivered to your doorstep!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "UCC"
     ],
@@ -138,8 +138,8 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
       "servingTime": "5 hours",
       "yield": "6-8 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 cups cookie crumbs\n¼ cup white sugar \n1 tsp. salt  \n½ cup butter, melted \n2 packs UCC 3-in-1 Coffee Mix \n¼ cup hot water\n2 tbsps. gelatine powder\n1 bar cream cheese, softened \n1 cup powdered sugar\n½ cup sour cream \n1 cup whipping cream",
-      "procedure": "Procedure\nCombine cookie crumbs, white sugar, salt and butter. Once fully incorporated, press onto the base of your serving tray. Chill for 1 hour. \nDissolve UCC 3-in-1 Coffee Mix in hot water. Mix in gelatine powder. Set aside. \nUsing a stand mixer fitted with a paddle attachment, beat cream cheese and sugar together until smooth. Mix in sour cream and dissolved coffee-gelatine mixture. \nChange to a whisk attachment, then add in cream. Whisk until soft peaks form. \nAdd mixture on top of the cookie crust, Let set for at least 3 hours or ideally, overnight."
+      "ingredients": "2 cups cookie crumbs\n¼ cup white sugar \n1 tsp. salt  \n½ cup butter, melted \n2 packs UCC 3-in-1 Coffee Mix \n¼ cup hot water\n2 tbsps. gelatine powder\n1 bar cream cheese, softened \n1 cup powdered sugar\n½ cup sour cream \n1 cup whipping cream",
+      "procedure": "Combine cookie crumbs, white sugar, salt and butter. Once fully incorporated, press onto the base of your serving tray. Chill for 1 hour. \nDissolve UCC 3-in-1 Coffee Mix in hot water. Mix in gelatine powder. Set aside. \nUsing a stand mixer fitted with a paddle attachment, beat cream cheese and sugar together until smooth. Mix in sour cream and dissolved coffee-gelatine mixture. \nChange to a whisk attachment, then add in cream. Whisk until soft peaks form. \nAdd mixture on top of the cookie crust, Let set for at least 3 hours or ideally, overnight."
     },
     "photo": {
       "filename": "ICD6.jpg",
@@ -155,7 +155,7 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "International Coffee Day",
-    "caption": "Ever tried Mexican Coffee before?\n\nMade with strong, freshly brewed Artisans Roasted Coffee and mixed with chocolate and cinnamon, this caffeinated concoction is topped off with heavy cream. You can think of it as a marriage between hot chocolate and coffee, but with a dash of cinnamon to spice things up. Whether enjoyed for breakfast or in the afternoon, this is definitely one decadent way to dress up your coffee. Shop at #TheMarketplace today for all your coffee-related needs and more!\n\nServing Time: 8 minutes\nYield: 1 serving\n\nIngredients\n\n½ cup Artisans Roasted Coffee, brewed \n¼ tsp. ground cloves\n¼ tsp. cinnamon\n1 tbsp. chocolate syrup \n¼ cup heavy cream \n1 tsp. white sugar \n\nProcedure\n\n1. Combine brewed Artisans Roasted Coffee, cloves, cinnamon and chocolate syrup. \n2. Using a handheld frother, beat heavy cream and sugar until thickened. \n3. Fill your glass with ice cubes. Add coffee mixture, then top with the cream mixture. Sprinkle with more cinnamon on top if desired. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Ever tried Mexican Coffee before?\n\nMade with strong, freshly brewed Artisans Roasted Coffee and mixed with chocolate and cinnamon, this caffeinated concoction is topped off with heavy cream. You can think of it as a marriage between hot chocolate and coffee, but with a dash of cinnamon to spice things up. Whether enjoyed for breakfast or in the afternoon, this is definitely one decadent way to dress up your coffee. Shop at #TheMarketplace today for all your coffee-related needs and more!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Artisans"
     ],
@@ -163,8 +163,8 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
       "servingTime": "8 minutes",
       "yield": "1 serving",
       "tips": "",
-      "ingredients": "Ingredients\n½ cup Artisans Roasted Coffee, brewed \n¼ tsp. ground cloves\n¼ tsp. cinnamon\n1 tbsp. chocolate syrup \n¼ cup heavy cream \n1 tsp. white sugar",
-      "procedure": "Procedure\nCombine brewed Artisans Roasted Coffee, cloves, cinnamon and chocolate syrup. \nUsing a handheld frother, beat heavy cream and sugar until thickened. \nFill your glass with ice cubes. Add coffee mixture, then top with the cream mixture. Sprinkle with more cinnamon on top if desired."
+      "ingredients": "½ cup Artisans Roasted Coffee, brewed \n¼ tsp. ground cloves\n¼ tsp. cinnamon\n1 tbsp. chocolate syrup \n¼ cup heavy cream \n1 tsp. white sugar",
+      "procedure": "Combine brewed Artisans Roasted Coffee, cloves, cinnamon and chocolate syrup. \nUsing a handheld frother, beat heavy cream and sugar until thickened. \nFill your glass with ice cubes. Add coffee mixture, then top with the cream mixture. Sprinkle with more cinnamon on top if desired."
     },
     "photo": {
       "filename": "ICD7.jpg",
@@ -180,7 +180,7 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "International Coffee Day",
-    "caption": "If you’ve ever been to Vietnam, then you might have tasted their Vietnamese Egg Coffee, which is quite a unique way to enjoy the caffeinated beverage. Prepared with egg yolks, condensed milk, and a strong cup of dark coffee such as the one of Gourmet Farms, think of it as having a leche flan and coffee together. It’s an interesting way to prepare coffee that’s made for those who have a sweet tooth and an inclination towards darker-roasted coffees. Curious to try it? Head to #TheMarketplace now and get all the ingredients you need!\n\nServing Time: 15 minutes\nYield: 3 servings\n\nIngredients\n\n1 egg yolk \n4 tbsps. condensed milk \n3 cups Gourmet Farms Coffee, brewed \n\nProcedure\n1. Using a handheld mixer, beat together egg yolk and condensed milk until light and fluffy. This will take 8-10 minutes. \n2. Top brewed Gourmet Farms Coffee with the cream mixture. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "If you’ve ever been to Vietnam, then you might have tasted their Vietnamese Egg Coffee, which is quite a unique way to enjoy the caffeinated beverage. Prepared with egg yolks, condensed milk, and a strong cup of dark coffee such as the one of Gourmet Farms, think of it as having a leche flan and coffee together. It’s an interesting way to prepare coffee that’s made for those who have a sweet tooth and an inclination towards darker-roasted coffees. Curious to try it? Head to #TheMarketplace now and get all the ingredients you need!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Gourmet Farms"
     ],
@@ -188,8 +188,8 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
       "servingTime": "15 minutes",
       "yield": "3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 egg yolk \n4 tbsps. condensed milk \n3 cups Gourmet Farms Coffee, brewed",
-      "procedure": "Procedure\nUsing a handheld mixer, beat together egg yolk and condensed milk until light and fluffy. This will take 8-10 minutes. \nTop brewed Gourmet Farms Coffee with the cream mixture."
+      "ingredients": "1 egg yolk \n4 tbsps. condensed milk \n3 cups Gourmet Farms Coffee, brewed",
+      "procedure": "Using a handheld mixer, beat together egg yolk and condensed milk until light and fluffy. This will take 8-10 minutes. \nTop brewed Gourmet Farms Coffee with the cream mixture."
     },
     "photo": {
       "filename": "ICD8.jpg",
@@ -224,7 +224,7 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "International Coffee Day",
-    "caption": "Instant coffee goes a long way in this recipe for Coffee Bread Pudding. It’s also a great way to make use of leftover bread! Made with Woolworths Essentials Instant Coffee Powder, stale bread is given a new life with this rich dessert that’s bursting with flavors of vanilla, butter, and coffee. Best paired with a cup of coffee, of course! Find all the ingredients you need and more at #TheMarketplace!\n\nServing Time: 30-35 minutes\nYield: 6 servings\n\nIngredients\n\n2 tbsps. Woolworths Essentials Instant Coffee Powder\n¼ cup milk\n4 eggs\n3 tbsps. sugar\n½ tsp. vanilla extract\n4 cups stale bread, cubed\n3 tbsps. butter, melted\n2 tbsps. powder sugar\n\nProcedure\n1. Preheat oven to 350°F.\n2. In a large bowl, mix together Woolworths Essentials Instant Coffee Powder, milk, eggs, sugar, and vanilla extract. \n3. Add bread cubes, and coat with the egg mixture well.\n4. Brush the inside of muffin tray with butter. Add about ¾ cup of  the bread pudding mixture.\n5. Brush the top of each with the remaining butter, and bake for 20 minutes.\n6. Dust with powdered sugar, then serve alongside whipped cream.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Instant coffee goes a long way in this recipe for Coffee Bread Pudding. It’s also a great way to make use of leftover bread! Made with Woolworths Essentials Instant Coffee Powder, stale bread is given a new life with this rich dessert that’s bursting with flavors of vanilla, butter, and coffee. Best paired with a cup of coffee, of course! Find all the ingredients you need and more at #TheMarketplace!\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Woolworths"
     ],
@@ -232,8 +232,8 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
       "servingTime": "30-35 minutes",
       "yield": "6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. Woolworths Essentials Instant Coffee Powder\n¼ cup milk\n4 eggs\n3 tbsps. sugar\n½ tsp. vanilla extract\n4 cups stale bread, cubed\n3 tbsps. butter, melted\n2 tbsps. powder sugar",
-      "procedure": "Procedure\nPreheat oven to 350°F.\nIn a large bowl, mix together Woolworths Essentials Instant Coffee Powder, milk, eggs, sugar, and vanilla extract. \nAdd bread cubes, and coat with the egg mixture well.\nBrush the inside of muffin tray with butter. Add about ¾ cup of  the bread pudding mixture.\nBrush the top of each with the remaining butter, and bake for 20 minutes.\nDust with powdered sugar, then serve alongside whipped cream."
+      "ingredients": "2 tbsps. Woolworths Essentials Instant Coffee Powder\n¼ cup milk\n4 eggs\n3 tbsps. sugar\n½ tsp. vanilla extract\n4 cups stale bread, cubed\n3 tbsps. butter, melted\n2 tbsps. powder sugar",
+      "procedure": "Preheat oven to 350°F.\nIn a large bowl, mix together Woolworths Essentials Instant Coffee Powder, milk, eggs, sugar, and vanilla extract. \nAdd bread cubes, and coat with the egg mixture well.\nBrush the inside of muffin tray with butter. Add about ¾ cup of  the bread pudding mixture.\nBrush the top of each with the remaining butter, and bake for 20 minutes.\nDust with powdered sugar, then serve alongside whipped cream."
     },
     "photo": {
       "filename": "ICD10.jpg",

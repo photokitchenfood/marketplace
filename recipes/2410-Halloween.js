@@ -19,8 +19,8 @@ const HALLOWEEN_DATA = [
       "servingTime": "45 minutes",
       "yield": "12 brownies",
       "tips": "",
-      "ingredients": "Ingredients\nFOR THE BROWNIES:\n1/2 cup unsalted butter, melted\n1 cup granulated sugar\n2 large eggs\n1 tsp. vanilla extract\n⅓ cup unsweetened cocoa powder\n½ cup all-purpose flour\n¼ tsp. salt\n¼ tsp. baking powder\n4 (43g) packs Hershey's Harry Potter Milk Chocolate bars, chopped \nFOR TOPPING:\n2 (43g) packs Hershey's Harry Potter Milk Chocolate bars, chopped \n1 cup white chocolate chips \nDark chocolate chips or melted dark chocolate, for eye",
-      "procedure": "Procedure\nPreheat the oven to 175°C. Grease and line an 8x8-inch baking dish with parchment paper.\nIn a medium bowl, whisk together melted butter and granulated sugar until well combined. Mix in the eggs and vanilla extract, stirring until smooth.\nIn another bowl, whisk together cocoa powder, flour, salt, and baking powder. Gradually add the dry ingredients to the wet mixture, stirring until just combined.\nFold in the chopped Hershey's Harry Potter Milk Chocolate bars into the brownie batter.\nPour the batter into the prepared baking dish and spread it evenly. Bake for 20-25 minutes, or until a toothpick inserted into the center comes out with a few moist crumbs.\nWhile the brownies are baking, melt the white chocolate chips in a microwave-safe bowl in 30-second intervals, stirring after each interval until smooth.\nOnce the brownies are done baking, remove them from the oven and let them cool completely in the pan on a wire rack.\nOnce cooled, cut the brownies into squares. Drizzle or spread the melted white chocolate on top of each brownie to create ghost shapes. Use dark chocolate to dot eyes on each ghost. \nTop with more Hershey's Harry Potter Milk Chocolate."
+      "ingredients": "FOR THE BROWNIES:\n1/2 cup unsalted butter, melted\n1 cup granulated sugar\n2 large eggs\n1 tsp. vanilla extract\n⅓ cup unsweetened cocoa powder\n½ cup all-purpose flour\n¼ tsp. salt\n¼ tsp. baking powder\n4 (43g) packs Hershey's Harry Potter Milk Chocolate bars, chopped \nFOR TOPPING:\n2 (43g) packs Hershey's Harry Potter Milk Chocolate bars, chopped \n1 cup white chocolate chips \nDark chocolate chips or melted dark chocolate, for eye",
+      "procedure": "Preheat the oven to 175°C. Grease and line an 8x8-inch baking dish with parchment paper.\nIn a medium bowl, whisk together melted butter and granulated sugar until well combined. Mix in the eggs and vanilla extract, stirring until smooth.\nIn another bowl, whisk together cocoa powder, flour, salt, and baking powder. Gradually add the dry ingredients to the wet mixture, stirring until just combined.\nFold in the chopped Hershey's Harry Potter Milk Chocolate bars into the brownie batter.\nPour the batter into the prepared baking dish and spread it evenly. Bake for 20-25 minutes, or until a toothpick inserted into the center comes out with a few moist crumbs.\nWhile the brownies are baking, melt the white chocolate chips in a microwave-safe bowl in 30-second intervals, stirring after each interval until smooth.\nOnce the brownies are done baking, remove them from the oven and let them cool completely in the pan on a wire rack.\nOnce cooled, cut the brownies into squares. Drizzle or spread the melted white chocolate on top of each brownie to create ghost shapes. Use dark chocolate to dot eyes on each ghost. \nTop with more Hershey's Harry Potter Milk Chocolate."
     },
     "photo": {
       "filename": "HW1.jpg",
@@ -44,8 +44,8 @@ const HALLOWEEN_DATA = [
       "servingTime": "10 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 (120g) pack Cimory Blueberry Yogurt Drink\n2 cups vanilla ice cream\n½ cup milk \n¼ cup frozen blueberries\nFOR TOPPING:\nWhipped cream\nFresh blueberries, for eyes\nStrawberry syrup, for blood tears",
-      "procedure": "Procedure\nIn a blender, combine Cimory Blueberry Yogurt Drink, vanilla ice cream, milk and frozen blueberries. Blend until smooth and creamy.\nPour the milkshake into glasses.\nTop each serving generously with whipped cream to create a ghostly appearance.\nPlace fresh blueberries on the whipped cream as eyes.\nDrizzle strawberry syrup over the whipped cream to create blood tears."
+      "ingredients": "1 (120g) pack Cimory Blueberry Yogurt Drink\n2 cups vanilla ice cream\n½ cup milk \n¼ cup frozen blueberries\nFOR TOPPING:\nWhipped cream\nFresh blueberries, for eyes\nStrawberry syrup, for blood tears",
+      "procedure": "In a blender, combine Cimory Blueberry Yogurt Drink, vanilla ice cream, milk and frozen blueberries. Blend until smooth and creamy.\nPour the milkshake into glasses.\nTop each serving generously with whipped cream to create a ghostly appearance.\nPlace fresh blueberries on the whipped cream as eyes.\nDrizzle strawberry syrup over the whipped cream to create blood tears."
     },
     "photo": {
       "filename": "HW2.jpg",
@@ -69,8 +69,8 @@ const HALLOWEEN_DATA = [
       "servingTime": "10 minutes",
       "yield": "4 pcs.",
       "tips": "",
-      "ingredients": "Ingredients\n4 pcs. Swift Chicken Franks\n4 slices sandwich cheese \n4 hotdog buns, toasted\nCurly lettuce for base\nKetchup for fake blood",
-      "procedure": "Procedure\nCook Swift Chicken Franks according to package instructions. \nWhile the franks are cooking, cut cheese slices into thin strips to resemble bandages.\nOnce the franks are cooked, wrap the cheese strips around each frank in a crisscross pattern, leaving gaps to create a \"mummy\" look.\nPlace a layer of curly lettuce on each hotdog bun. Top with the “Mummy Hotdogs”. \nDrizzle ketchup over each mummy hotdog to create fake blood."
+      "ingredients": "4 pcs. Swift Chicken Franks\n4 slices sandwich cheese \n4 hotdog buns, toasted\nCurly lettuce for base\nKetchup for fake blood",
+      "procedure": "Cook Swift Chicken Franks according to package instructions. \nWhile the franks are cooking, cut cheese slices into thin strips to resemble bandages.\nOnce the franks are cooked, wrap the cheese strips around each frank in a crisscross pattern, leaving gaps to create a \"mummy\" look.\nPlace a layer of curly lettuce on each hotdog bun. Top with the “Mummy Hotdogs”. \nDrizzle ketchup over each mummy hotdog to create fake blood."
     },
     "photo": {
       "filename": "HW3.jpg",

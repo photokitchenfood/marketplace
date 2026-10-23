@@ -19,8 +19,8 @@ const HAM_FEST_DATA = [
       "servingTime": "50 minutes",
       "yield": "4-5 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 (500g) pack Purefoods Brick Ham, sliced\n1 (450g) can pineapple sliced\n¼ cup pineapple juice\n½ cup brown sugar\n¼ tsp. clove powder\nSalt and pepper to taste\n⅛ cup rosemary sprigs",
-      "procedure": "Procedure\nPreheat oven to 175°C.\nArrange sliced Purefoods Brick Ham in a baking dish alternating with pineapple slices.\nWhisk together pineapple juice, brown sugar, and cloves powder. Season with salt and pepper. Pour this mixture over the ham slices and pineapples.\nBake for 30 minutes, or until the ham and pineapples are caramelized. \nGarnish with rosemary sprigs."
+      "ingredients": "1 (500g) pack Purefoods Brick Ham, sliced\n1 (450g) can pineapple sliced\n¼ cup pineapple juice\n½ cup brown sugar\n¼ tsp. clove powder\nSalt and pepper to taste\n⅛ cup rosemary sprigs",
+      "procedure": "Preheat oven to 175°C.\nArrange sliced Purefoods Brick Ham in a baking dish alternating with pineapple slices.\nWhisk together pineapple juice, brown sugar, and cloves powder. Season with salt and pepper. Pour this mixture over the ham slices and pineapples.\nBake for 30 minutes, or until the ham and pineapples are caramelized. \nGarnish with rosemary sprigs."
     },
     "photo": {
       "filename": "HF1.jpg",

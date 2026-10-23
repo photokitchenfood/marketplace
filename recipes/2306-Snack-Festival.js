@@ -11,7 +11,7 @@ const SNACK_FESTIVAL_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Snack Festival",
-    "caption": "Get creative with Nissin Bread Stix and use them as a coating for this Herb-Crusted Cheese Ball!\n\nGarlicky and bursting with cheesy flavors, serve this addictive and delicious dip with your favorite array of crackers such as pretzels, crostinis, and even more Nissin Bread Stix, if you prefer! Head over #TheMarketplace now and find all the ingredients that you need for this crazy delicious dip.\n\nServing Time: 1 hour and 30 minutes\nYield: 3-4 servings\nOptional: Serve with your favorite crackers.\n\nIngredients\n\n1 bar cream cheese, softened \n½ cup parmesan cheese, grated \n5 cloves garlic, minced \nSalt and pepper to taste \n2 tbsps. parsley, chopped \n2 tbsps. dill, chopped \n½ tsp. garlic powder\n½ tsp. onion powder\n1 cup Nissin Bread Stix, crushed into crumbs \n\nProcedure\n\n1. In a mixing bowl, beat cream cheese until smooth. Mix in parmesan cheese and garlic, and stir until well combined. Season with salt and pepper. \n2. Place the cream cheese mixture onto a sheet of plastic wrap, and shape into a ball. Chill for at least 1 hour to firm up. \n3. Combine parsley, dill, garlic powder, onion powder and crushed Nissin Bread Stix. \n4. Unwrap the cheese ball, then roll in the herb bread crumbs while pressing gently to make sure cheese ball is evenly coated. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Get creative with Nissin Bread Stix and use them as a coating for this Herb-Crusted Cheese Ball!\n\nGarlicky and bursting with cheesy flavors, serve this addictive and delicious dip with your favorite array of crackers such as pretzels, crostinis, and even more Nissin Bread Stix, if you prefer! Head over #TheMarketplace now and find all the ingredients that you need for this crazy delicious dip.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nissin"
     ],
@@ -19,8 +19,8 @@ const SNACK_FESTIVAL_DATA = [
       "servingTime": "1 hour 30 minutes",
       "yield": "3-4 servings",
       "tips": "Serve with your favorite crackers.",
-      "ingredients": "Ingredients\n1 bar cream cheese, softened \n½ cup parmesan cheese, grated \n5 cloves garlic, minced \nSalt and pepper to taste \n2 tbsps. parsley, chopped \n2 tbsps. dill, chopped \n½ tsp. garlic powder\n½ tsp. onion powder\n1 cup Nissin Bread Stix, crushed into crumbs",
-      "procedure": "Procedure\nIn a mixing bowl, beat cream cheese until smooth. Mix in parmesan cheese and garlic, and stir until well combined. Season with salt and pepper. \nPlace the cream cheese mixture onto a sheet of plastic wrap, and shape into a ball. Chill for at least 1 hour to firm up. \nCombine parsley, dill, garlic powder, onion powder and crushed Nissin Bread Stix. \nUnwrap the cheese ball, then roll in the herb bread crumbs while pressing gently to make sure cheese ball is evenly coated."
+      "ingredients": "1 bar cream cheese, softened \n½ cup parmesan cheese, grated \n5 cloves garlic, minced \nSalt and pepper to taste \n2 tbsps. parsley, chopped \n2 tbsps. dill, chopped \n½ tsp. garlic powder\n½ tsp. onion powder\n1 cup Nissin Bread Stix, crushed into crumbs",
+      "procedure": "In a mixing bowl, beat cream cheese until smooth. Mix in parmesan cheese and garlic, and stir until well combined. Season with salt and pepper. \nPlace the cream cheese mixture onto a sheet of plastic wrap, and shape into a ball. Chill for at least 1 hour to firm up. \nCombine parsley, dill, garlic powder, onion powder and crushed Nissin Bread Stix. \nUnwrap the cheese ball, then roll in the herb bread crumbs while pressing gently to make sure cheese ball is evenly coated."
     },
     "photo": {
       "filename": "SF1.jpg",
@@ -36,7 +36,7 @@ const SNACK_FESTIVAL_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Snack Festival",
-    "caption": "Not all salads have to be boring, especially if they’re made with Doritos.\n\nThat’s right! The next time you visit #TheMarketplace, grab a bag of Doritos Nacho Cheese, plus all the other ingredients below, and whip up this Tex-Mex inspired salad that’s crunchy, delicious, and super easy to make! Call it a lazy salad; we think it’s a masterpiece.\n\nServing Time: 5 minutes\nYield: 2-3 servings\n\nIngredients\n\n3 cups romaine lettuce\n½ cup tomatoes, diced\n¼ cup black olives\n¼ cup corn kernels\n⅓ cup beans\n½ cup avocado, sliced\n1 ½ cup Doritos Nacho Cheese\n⅓ cup sour cream\n\nProcedure\n\n1. In a large bowl, toss together romaine lettuce, tomatoes, black olives, corn kernels, beans, and avocado. \n2. Add in Doritos Nacho Cheese and transfer to a serving plate. Serve alongside sour cream.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Not all salads have to be boring, especially if they’re made with Doritos.\n\nThat’s right! The next time you visit #TheMarketplace, grab a bag of Doritos Nacho Cheese, plus all the other ingredients below, and whip up this Tex-Mex inspired salad that’s crunchy, delicious, and super easy to make! Call it a lazy salad; we think it’s a masterpiece.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Doritos"
     ],
@@ -44,8 +44,8 @@ const SNACK_FESTIVAL_DATA = [
       "servingTime": "5 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n3 cups romaine lettuce\n½ cup tomatoes, diced\n¼ cup black olives\n¼ cup corn kernels\n⅓ cup beans\n½ cup avocado, sliced\n1 ½ cup Doritos Nacho Cheese\n⅓ cup sour cream",
-      "procedure": "Procedure\nIn a large bowl, toss together romaine lettuce, tomatoes, black olives, corn kernels, beans, and avocado. \nAdd in Doritos Nacho Cheese and transfer to a serving plate. Serve alongside sour cream."
+      "ingredients": "3 cups romaine lettuce\n½ cup tomatoes, diced\n¼ cup black olives\n¼ cup corn kernels\n⅓ cup beans\n½ cup avocado, sliced\n1 ½ cup Doritos Nacho Cheese\n⅓ cup sour cream",
+      "procedure": "In a large bowl, toss together romaine lettuce, tomatoes, black olives, corn kernels, beans, and avocado. \nAdd in Doritos Nacho Cheese and transfer to a serving plate. Serve alongside sour cream."
     },
     "photo": {
       "filename": "SF2.jpg",
@@ -61,7 +61,7 @@ const SNACK_FESTIVAL_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Snack Festival",
-    "caption": "Coke and chicken wings? Sure, why not?! And so these Cola Chicken Wings made with Coke Zero were born.\n\nActing as more of a glaze than a meat tenderizer, Coke Zero, when simmered down and seasoned with ginger, garlic, soy sauce, and scallions, provides a sweet-and-savory coating that has a hint of brown sugar to balance out all the strong Asian flavors. \n\nWarning, it’s a highly addictive yet also pretty versatile glaze that you can also use for pork chops and stir-fried beef. Get all the ingredients you need and make your own batch of these addictive wings at #TheMarketplace! \n\nServing Time: 30-35 minutes\nYield: 5-6 servings\n\nIngredients\n\n700g chicken wings\nSalt and pepper to taste\n⅓ cup flour\n⅓ cup cornstarch\nCanola oil for deep frying\n1 cup Coke Zero Sugar\n2 tbsps. garlic, grated\n1 tbsp. ginger, grated\n3 tbsps. soy sauce\n⅛ cup scallions, sliced\n1 tbsp. sesame seeds, toasted\n\nProcedure\n\n1. Season chicken wings with salt and pepper. Set aside.\n2. Combine flour and cornstarch, and season with salt and pepper. \n3. Preheat oil to 170°C. Lightly coat chicken wings with breading, then deep fry until golden brown and cooked through. Set aside.\n4. In a saucepan, combine Coke Zero Sugar, garlic, ginger, and soy sauce. Set over medium heat. Let simmer until thickened.\n5. Add in fried chicken wings, and toss to coat.\n6. Transfer to a plate, and garnish with scallions and sesame seeds.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Coke and chicken wings? Sure, why not?! And so these Cola Chicken Wings made with Coke Zero were born.\n\nActing as more of a glaze than a meat tenderizer, Coke Zero, when simmered down and seasoned with ginger, garlic, soy sauce, and scallions, provides a sweet-and-savory coating that has a hint of brown sugar to balance out all the strong Asian flavors. \n\nWarning, it’s a highly addictive yet also pretty versatile glaze that you can also use for pork chops and stir-fried beef. Get all the ingredients you need and make your own batch of these addictive wings at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Coca-Cola"
     ],
@@ -69,8 +69,8 @@ const SNACK_FESTIVAL_DATA = [
       "servingTime": "30-35 minutes",
       "yield": "5-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n700g chicken wings\nSalt and pepper to taste\n⅓ cup flour\n⅓ cup cornstarch\nCanola oil for deep frying\n1 cup Coke Zero Sugar\n2 tbsps. garlic, grated\n1 tbsp. ginger, grated\n3 tbsps. soy sauce\n⅛ cup scallions, sliced\n1 tbsp. sesame seeds, toasted",
-      "procedure": "Procedure\nSeason chicken wings with salt and pepper. Set aside.\nCombine flour and cornstarch, and season with salt and pepper. \nPreheat oil to 170°C. Lightly coat chicken wings with breading, then deep fry until golden brown and cooked through. Set aside.\nIn a saucepan, combine Coke Zero Sugar, garlic, ginger, and soy sauce. Set over medium heat. Let simmer until thickened.\nAdd in fried chicken wings, and toss to coat.\nTransfer to a plate, and garnish with scallions and sesame seeds."
+      "ingredients": "700g chicken wings\nSalt and pepper to taste\n⅓ cup flour\n⅓ cup cornstarch\nCanola oil for deep frying\n1 cup Coke Zero Sugar\n2 tbsps. garlic, grated\n1 tbsp. ginger, grated\n3 tbsps. soy sauce\n⅛ cup scallions, sliced\n1 tbsp. sesame seeds, toasted",
+      "procedure": "Season chicken wings with salt and pepper. Set aside.\nCombine flour and cornstarch, and season with salt and pepper. \nPreheat oil to 170°C. Lightly coat chicken wings with breading, then deep fry until golden brown and cooked through. Set aside.\nIn a saucepan, combine Coke Zero Sugar, garlic, ginger, and soy sauce. Set over medium heat. Let simmer until thickened.\nAdd in fried chicken wings, and toss to coat.\nTransfer to a plate, and garnish with scallions and sesame seeds."
     },
     "photo": {
       "filename": "SF3.jpg",
@@ -86,7 +86,7 @@ const SNACK_FESTIVAL_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Snack Festival",
-    "caption": "Crisp in texture and sweet-and-sour in flavor, grab a bunch of Korean Apples the next time you visit #TheMarketplace and make these irresistible Korean Apple Tarts that evoke warmth and comfort in every bite. Chopped walnuts add more character to these decadent pastries. Enjoy with some homemade spiced chai latte, your favorite tea, coffee, or a glass of cold milk.\n\nServing Time: 45 minutes\nYield: 1 dozen\n\nIngredients\n\n1 cup sugar\n¼ cup cinnamon \n3 pcs. Korean Apples, sliced thinly\n3 sheets Puff Pastry\n¼ cup flour\n1 egg yolk\n1 tbsp. heavy cream\n¼ cup brown sugar\n1 cup walnuts, roasted & chopped\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. Combine sugar and cinnamon. Coat sliced Korean Apples with half of the cinnamon sugar, and let marinate for 15 minutes.\n3. Dust puff pastry with flour, then slice each sheet into 4 squares. Create a frame by scoring the border of each puff pastry square. Create holes in the center using a fork.\n4. Combine egg yolk and heavy cream. Brush only the border of the puff pastry sheet, then sprinkle brown sugar over it. \n5. Add slices of marinated apples in the center. Bake for 12-15 minutes, or until puff pastry is golden brown.\n6. Remove from the oven, then top with roasted walnuts.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Crisp in texture and sweet-and-sour in flavor, grab a bunch of Korean Apples the next time you visit #TheMarketplace and make these irresistible Korean Apple Tarts that evoke warmth and comfort in every bite. Chopped walnuts add more character to these decadent pastries. Enjoy with some homemade spiced chai latte, your favorite tea, coffee, or a glass of cold milk.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
     ],
@@ -94,8 +94,8 @@ const SNACK_FESTIVAL_DATA = [
       "servingTime": "45 minutes",
       "yield": "1 dozen",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup sugar\n¼ cup cinnamon \n3 pcs. Korean Apples, sliced thinly\n3 sheets Puff Pastry\n¼ cup flour\n1 egg yolk\n1 tbsp. heavy cream\n¼ cup brown sugar\n1 cup walnuts, roasted & chopped",
-      "procedure": "Procedure\nPreheat oven to 175°C.\nCombine sugar and cinnamon. Coat sliced Korean Apples with half of the cinnamon sugar, and let marinate for 15 minutes.\nDust puff pastry with flour, then slice each sheet into 4 squares. Create a frame by scoring the border of each puff pastry square. Create holes in the center using a fork.\nCombine egg yolk and heavy cream. Brush only the border of the puff pastry sheet, then sprinkle brown sugar over it. \nAdd slices of marinated apples in the center. Bake for 12-15 minutes, or until puff pastry is golden brown.\nRemove from the oven, then top with roasted walnuts."
+      "ingredients": "1 cup sugar\n¼ cup cinnamon \n3 pcs. Korean Apples, sliced thinly\n3 sheets Puff Pastry\n¼ cup flour\n1 egg yolk\n1 tbsp. heavy cream\n¼ cup brown sugar\n1 cup walnuts, roasted & chopped",
+      "procedure": "Preheat oven to 175°C.\nCombine sugar and cinnamon. Coat sliced Korean Apples with half of the cinnamon sugar, and let marinate for 15 minutes.\nDust puff pastry with flour, then slice each sheet into 4 squares. Create a frame by scoring the border of each puff pastry square. Create holes in the center using a fork.\nCombine egg yolk and heavy cream. Brush only the border of the puff pastry sheet, then sprinkle brown sugar over it. \nAdd slices of marinated apples in the center. Bake for 12-15 minutes, or until puff pastry is golden brown.\nRemove from the oven, then top with roasted walnuts."
     },
     "photo": {
       "filename": "SF4.jpg",

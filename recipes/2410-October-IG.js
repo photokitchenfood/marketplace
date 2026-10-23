@@ -38,8 +38,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "40 minutes",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n5 pcs. Village Gourmet Tortilla\nCooking spray\n1 cup Sharp Cheddar cheese, shredded\n1/2 cup Monterey Jack cheese, shredded\n1 cup spinach, chopped\n1/2 cup tomatoes, diced\n8 eggs\n1 cup milk\n1/4 cup heavy cream\n1/4 tsp. salt\n1/8 tsp. black pepper\n1 tbsp. spring onions, chopped",
-      "procedure": "Procedure\nPreheat oven to 190°C.\nLay Village Gourmet Tortillas on a flat surface and spray lightly with cooking spray. Stack the VIllage Gourmet Tortillas on top of each other in a pie plate, overlapping as needed to cover the bottom.\nSprinkle ½ cup Sharp Cheddar cheese, Monterey Jack cheese, spinach, and ham evenly over the tortillas.\nIn a large bowl, whisk together eggs, milk, heavy cream, salt, and pepper until well combined.\nPour the egg mixture over the filling.\nBake for 25-30 minutes, or until the quiche is set and the edges are golden brown.\nLet cool slightly before serving. Top with remaining Sharp Cheddar Cheese and spring onions."
+      "ingredients": "5 pcs. Village Gourmet Tortilla\nCooking spray\n1 cup Sharp Cheddar cheese, shredded\n1/2 cup Monterey Jack cheese, shredded\n1 cup spinach, chopped\n1/2 cup tomatoes, diced\n8 eggs\n1 cup milk\n1/4 cup heavy cream\n1/4 tsp. salt\n1/8 tsp. black pepper\n1 tbsp. spring onions, chopped",
+      "procedure": "Preheat oven to 190°C.\nLay Village Gourmet Tortillas on a flat surface and spray lightly with cooking spray. Stack the VIllage Gourmet Tortillas on top of each other in a pie plate, overlapping as needed to cover the bottom.\nSprinkle ½ cup Sharp Cheddar cheese, Monterey Jack cheese, spinach, and ham evenly over the tortillas.\nIn a large bowl, whisk together eggs, milk, heavy cream, salt, and pepper until well combined.\nPour the egg mixture over the filling.\nBake for 25-30 minutes, or until the quiche is set and the edges are golden brown.\nLet cool slightly before serving. Top with remaining Sharp Cheddar Cheese and spring onions."
     },
     "photo": {
       "filename": "IG2.jpg",
@@ -63,8 +63,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "30 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n8 slices Monde Fluffy Wheat Bread\n2 large eggs\n½ cup milk\n¼ cup heavy cream\n1 tsp. vanilla extract\n¼ tsp. cinnamon\n¼ tsp. ground nutmeg\n⅛ cup butter\n1 cup banana, sliced\n1 cup strawberry, sliced\n1 tbsp. powdered sugar\nMint leaves for garnish, optional",
-      "procedure": "Procedure\nSlice Monde Fluffy Wheat Bread into one inch squares.\nIn a large bowl, whisk together eggs, milk, heavy cream, vanilla extract, cinnamon, and nutmeg until well combined.\nDip bread squares into the egg mixture, soaking both sides.\nHeat a large skillet or griddle over medium heat. Grease with butter. Cook soaked Monde Fluffy Wheat Bread for 2-3 minutes per side, or until golden brown and heated through.\nThread the cooked bread slices onto skewers alternating with bananas and strawberries.\nDust with powdered sugar and garnish with mint leaves."
+      "ingredients": "8 slices Monde Fluffy Wheat Bread\n2 large eggs\n½ cup milk\n¼ cup heavy cream\n1 tsp. vanilla extract\n¼ tsp. cinnamon\n¼ tsp. ground nutmeg\n⅛ cup butter\n1 cup banana, sliced\n1 cup strawberry, sliced\n1 tbsp. powdered sugar\nMint leaves for garnish, optional",
+      "procedure": "Slice Monde Fluffy Wheat Bread into one inch squares.\nIn a large bowl, whisk together eggs, milk, heavy cream, vanilla extract, cinnamon, and nutmeg until well combined.\nDip bread squares into the egg mixture, soaking both sides.\nHeat a large skillet or griddle over medium heat. Grease with butter. Cook soaked Monde Fluffy Wheat Bread for 2-3 minutes per side, or until golden brown and heated through.\nThread the cooked bread slices onto skewers alternating with bananas and strawberries.\nDust with powdered sugar and garnish with mint leaves."
     },
     "photo": {
       "filename": "IG3.jpg",
@@ -88,8 +88,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "30 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 (400g) pack Kawan Plain Paratha\n2 cups banana, sliced\n¾ cup condensed milk\n½ tsp. cinnamon powder\n3 tbsps. butter",
-      "procedure": "Procedure\nLay a piece of Kawan Plain Paratha on a clean surface. Fill the center with condensed milk, bananas and cinnamon. Bring the edges together and seal tightly.\nHeat a skillet or griddle over medium heat. Add some butter, and fry each paratha starting seam side down. Cook on both sides until golden brown, about 3 minutes per side.\nTransfer to a serving plate and drizzle with remaining condensed milk. Garnish with mint leaves."
+      "ingredients": "1 (400g) pack Kawan Plain Paratha\n2 cups banana, sliced\n¾ cup condensed milk\n½ tsp. cinnamon powder\n3 tbsps. butter",
+      "procedure": "Lay a piece of Kawan Plain Paratha on a clean surface. Fill the center with condensed milk, bananas and cinnamon. Bring the edges together and seal tightly.\nHeat a skillet or griddle over medium heat. Add some butter, and fry each paratha starting seam side down. Cook on both sides until golden brown, about 3 minutes per side.\nTransfer to a serving plate and drizzle with remaining condensed milk. Garnish with mint leaves."
     },
     "photo": {
       "filename": "IG4.jpg",
@@ -113,8 +113,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "30-35 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 (228g) pack Ajinomoto Gyoza\n¼ cup sesame oil\n½ cup carrots, julienned\n½ cup shimeji mushrooms, trimmed\n½ cup shiitake mushrooms, sliced\n4 cups chicken broth\n1 tbsp. soy sauce\n½ tsp. ginger, grated\n½ tbsp. gochujang\n300g egg noodles\n½ cup edamame, shelled\n1 tbsp. sesame seeds",
-      "procedure": "Procedure\nHeat a non stick pan over medium heat. Add and add about a tablespoon of water. Cover with a lid, and cook for about 2 minutes. Remove the lid and add a tablespoon of sesame oil. Sear for another 2-3 minutes, or until the bottom of the gyoza is golden and crispy. Set aside.\nUsing the same pan, add 2 tablespoons of sesame oil. Sauté carrots, shimeji mushrooms, and shiitake mushrooms. Set aside.\nIn a medium pot, bring chicken broth to a boil. Reduce heat to a simmer. Add in soy sauce, remaining sesame oil, ginger, and gochujang to the broth. Stir to combine. Mix in egg noodles to the soup, cook until tender. \nTransfer noodles into a serving bowl. Top with cooked Ajinomoto Gyoza, carrots, mushrooms and edamame.\nPour the broth and garnish with sesame seeds. Serve immediately."
+      "ingredients": "1 (228g) pack Ajinomoto Gyoza\n¼ cup sesame oil\n½ cup carrots, julienned\n½ cup shimeji mushrooms, trimmed\n½ cup shiitake mushrooms, sliced\n4 cups chicken broth\n1 tbsp. soy sauce\n½ tsp. ginger, grated\n½ tbsp. gochujang\n300g egg noodles\n½ cup edamame, shelled\n1 tbsp. sesame seeds",
+      "procedure": "Heat a non stick pan over medium heat. Add and add about a tablespoon of water. Cover with a lid, and cook for about 2 minutes. Remove the lid and add a tablespoon of sesame oil. Sear for another 2-3 minutes, or until the bottom of the gyoza is golden and crispy. Set aside.\nUsing the same pan, add 2 tablespoons of sesame oil. Sauté carrots, shimeji mushrooms, and shiitake mushrooms. Set aside.\nIn a medium pot, bring chicken broth to a boil. Reduce heat to a simmer. Add in soy sauce, remaining sesame oil, ginger, and gochujang to the broth. Stir to combine. Mix in egg noodles to the soup, cook until tender. \nTransfer noodles into a serving bowl. Top with cooked Ajinomoto Gyoza, carrots, mushrooms and edamame.\nPour the broth and garnish with sesame seeds. Serve immediately."
     },
     "photo": {
       "filename": "IG5.jpg",
@@ -157,8 +157,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "20 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n¼ cup soy sauce\n¼ cup mirin\n1 tbsp. sake \n1 tbsp. sugar\n1 tsp. garlic, grated\n½ tsp. ginger, grated\n1 tbsp. canola oil\n1 (350g) pack Napoleons Beef Yakiniku \n3 cups cooked rice\n½ cup scallions, chopped\n2 egg yolks\n2 tsps. black sesame seeds\n2 tsps. togarashi powder",
-      "procedure": "Procedure\nIn a small bowl, combine soy sauce, mirin, sake, sugar, garlic and ginger. Set aside yakiniku sauce.\nHeat a skillet over medium-high heat, and add canola oil. Stir-fry Napoleons Beef Yakiniku until nicely-browned and cooked through.\nPour yakiniku sauce over rice and mix until fully coated.\nTo assemble, place a serving of flavored rice in a bowl. Top with cooked Napoleons Beef Yakiniku, and make a small well in the middle for the egg yolk.\nGarnish with scallions, egg yolk, black sesame seeds and togarashi powder. Serve immediately."
+      "ingredients": "¼ cup soy sauce\n¼ cup mirin\n1 tbsp. sake \n1 tbsp. sugar\n1 tsp. garlic, grated\n½ tsp. ginger, grated\n1 tbsp. canola oil\n1 (350g) pack Napoleons Beef Yakiniku \n3 cups cooked rice\n½ cup scallions, chopped\n2 egg yolks\n2 tsps. black sesame seeds\n2 tsps. togarashi powder",
+      "procedure": "In a small bowl, combine soy sauce, mirin, sake, sugar, garlic and ginger. Set aside yakiniku sauce.\nHeat a skillet over medium-high heat, and add canola oil. Stir-fry Napoleons Beef Yakiniku until nicely-browned and cooked through.\nPour yakiniku sauce over rice and mix until fully coated.\nTo assemble, place a serving of flavored rice in a bowl. Top with cooked Napoleons Beef Yakiniku, and make a small well in the middle for the egg yolk.\nGarnish with scallions, egg yolk, black sesame seeds and togarashi powder. Serve immediately."
     },
     "photo": {
       "filename": "IG7.jpg",
@@ -182,8 +182,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "30-35 minutes",
       "yield": "3 servings",
       "tips": "Best paired with hummus or tzatziki.",
-      "ingredients": "Ingredients\n1 (750g) pack Cook’s Mediterranean Roast Chicken Leg Quarters\n2 tbsps. olive oil\n3 pcs. naan bread, warmed\n1 cup lettuce\n½ cup tomatoes, sliced\n½ cup cucumber, sliced\n¼ cup red onion, sliced\n½ cup feta cheese, crumbled",
-      "procedure": "Procedure\nHeat a skillet over medium-high heat. Add olive oil and sear Cook’s Mediterranean Roast Chicken Leg Quarters until cooked through and nicely browned. \nLet cool, then shred the chicken.\nFill each naan bread with lettuce, tomatoes, cucumber, red onions, feta, and shredded Cook’s Mediterranean Roast Chicken Leg Quarters.\nServe alongside preferred sauce."
+      "ingredients": "1 (750g) pack Cook’s Mediterranean Roast Chicken Leg Quarters\n2 tbsps. olive oil\n3 pcs. naan bread, warmed\n1 cup lettuce\n½ cup tomatoes, sliced\n½ cup cucumber, sliced\n¼ cup red onion, sliced\n½ cup feta cheese, crumbled",
+      "procedure": "Heat a skillet over medium-high heat. Add olive oil and sear Cook’s Mediterranean Roast Chicken Leg Quarters until cooked through and nicely browned. \nLet cool, then shred the chicken.\nFill each naan bread with lettuce, tomatoes, cucumber, red onions, feta, and shredded Cook’s Mediterranean Roast Chicken Leg Quarters.\nServe alongside preferred sauce."
     },
     "photo": {
       "filename": "IG8.jpg",

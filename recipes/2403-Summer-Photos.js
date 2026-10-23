@@ -19,8 +19,8 @@ const SUMMER_PHOTOS_DATA = [
       "servingTime": "25-30 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup cream cheese, softened\n1 ½ cup Libby’s Corned Beef \n1 cup Swiss cheese, shredded\n½ cup sauerkraut, drained well\n¼ cup thousand Island dressing\n1 cup mozzarella Cheese, shredded\n2 tbsps. sour cream\n1 tbsp. parsley, chopped",
-      "procedure": "Procedure\nPreheat oven to 200°C.\nIn a large bowl, combine cream cheese, Libby’s Corned Beef, swiss cheese, sauerkraut, and thousand Island dressing. \nTransfer into a small cast iron pan or baking dish. Top with mozzarella cheese. \nBake for 15-20 minutes, or until cheese is melted and top is golden brown.\nTop with a dollop of sour cream and chopped  parsley."
+      "ingredients": "1 cup cream cheese, softened\n1 ½ cup Libby’s Corned Beef \n1 cup Swiss cheese, shredded\n½ cup sauerkraut, drained well\n¼ cup thousand Island dressing\n1 cup mozzarella Cheese, shredded\n2 tbsps. sour cream\n1 tbsp. parsley, chopped",
+      "procedure": "Preheat oven to 200°C.\nIn a large bowl, combine cream cheese, Libby’s Corned Beef, swiss cheese, sauerkraut, and thousand Island dressing. \nTransfer into a small cast iron pan or baking dish. Top with mozzarella cheese. \nBake for 15-20 minutes, or until cheese is melted and top is golden brown.\nTop with a dollop of sour cream and chopped  parsley."
     },
     "photo": {
       "filename": "SUM1.jpg",
@@ -44,8 +44,8 @@ const SUMMER_PHOTOS_DATA = [
       "servingTime": "5 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n8 cups Selecta Ube Macapuno Ice Cream\n¾ cup coconut milk\n1 ¼ cup boba pearls, cooked\n¼ cup shredded macapuno",
-      "procedure": "Procedure\nBlend 6 cups of Selecta Ube Macapuno Ice Cream and coconut milk until thick and smooth.\nFill each glass with boba pearls and macapuno. Pour over Ube Macapuno milkshake. Top with a scoop of ube macapuno ice cream, and serve immediately."
+      "ingredients": "8 cups Selecta Ube Macapuno Ice Cream\n¾ cup coconut milk\n1 ¼ cup boba pearls, cooked\n¼ cup shredded macapuno",
+      "procedure": "Blend 6 cups of Selecta Ube Macapuno Ice Cream and coconut milk until thick and smooth.\nFill each glass with boba pearls and macapuno. Pour over Ube Macapuno milkshake. Top with a scoop of ube macapuno ice cream, and serve immediately."
     },
     "photo": {
       "filename": "SUM2.jpg",
@@ -69,8 +69,8 @@ const SUMMER_PHOTOS_DATA = [
       "servingTime": "5 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 ½ cup marshmallows, torched\n¾ cup graham cracker\n6 scoops Nestlé Extra Creamy Chocolate Ice Cream\n⅓ cup chocolate fudge syrup",
-      "procedure": "Procedure\nLayer each dessert glass with marshmallows, graham crackers and Nestlé Extra Creamy Ice Cream. Drizzle with chocolate fudge syrup.\nRepeat this layering until you fill your serving glass, making sure to end with a scoop of Nestlé Chocolate Ice Cream."
+      "ingredients": "1 ½ cup marshmallows, torched\n¾ cup graham cracker\n6 scoops Nestlé Extra Creamy Chocolate Ice Cream\n⅓ cup chocolate fudge syrup",
+      "procedure": "Layer each dessert glass with marshmallows, graham crackers and Nestlé Extra Creamy Ice Cream. Drizzle with chocolate fudge syrup.\nRepeat this layering until you fill your serving glass, making sure to end with a scoop of Nestlé Chocolate Ice Cream."
     },
     "photo": {
       "filename": "SUM3.jpg",
@@ -113,8 +113,8 @@ const SUMMER_PHOTOS_DATA = [
       "servingTime": "10 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n4 large scoops vanilla ice cream\n2 cups whole milk\n10 pcs. Casino Speculoos à la Cannelle biscuits, plus more for garnish \n2 tbsps. malted milk powder\n½ cup cookie butter\nWhipped cream, for topping",
-      "procedure": "Procedure\nIn a blender, combine together vanilla ice cream, milk, Casino Speculoos à la Cannelle biscuits, malted milk powder and ¼ cup cookie butter. Process until smooth. \nSmear remaining cookie butter on the inside of your serving milkshake glasses. Fill each with the Malted Speculoos Milkshake. \nTop each milkshake with whipped cream, crushed and whole Casino Speculoos à la Cannelle biscuits."
+      "ingredients": "4 large scoops vanilla ice cream\n2 cups whole milk\n10 pcs. Casino Speculoos à la Cannelle biscuits, plus more for garnish \n2 tbsps. malted milk powder\n½ cup cookie butter\nWhipped cream, for topping",
+      "procedure": "In a blender, combine together vanilla ice cream, milk, Casino Speculoos à la Cannelle biscuits, malted milk powder and ¼ cup cookie butter. Process until smooth. \nSmear remaining cookie butter on the inside of your serving milkshake glasses. Fill each with the Malted Speculoos Milkshake. \nTop each milkshake with whipped cream, crushed and whole Casino Speculoos à la Cannelle biscuits."
     },
     "photo": {
       "filename": "SUM2.jpg",
@@ -157,8 +157,8 @@ const SUMMER_PHOTOS_DATA = [
       "servingTime": "30 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n 2 cups milk chocolate, chopped\n½ cup candy sprinkles \n12 pcs. Meadows Vanilla Wafer Sticks \n2 cup strawberries \n2 cups blueberries \n3 green apples, sliced \n3 tbsps. lemon juice",
-      "procedure": "Procedure\nUsing a double boiler, melt milk chocolate until smooth. \nPlace candy sprinkles in a plate for rolling the wafer later on. Prepare a tray lined with parchment paper.  \nDip the Meadows Vanilla Wafer Sticks in the melted chocolate, then roll into the plate of candy sprinkles to coat. Place on the parchment-lined tray, and repeat for all remaining vanilla wafer sticks. Chill until set. \nSkewer together strawberries and blueberries. \nCoat sliced apples with lemon juice to prevent from browning quickly. \nArrange fruits, chocolate-coated wafer sticks and other desired biscuits and cookies in cups."
+      "ingredients": " 2 cups milk chocolate, chopped\n½ cup candy sprinkles \n12 pcs. Meadows Vanilla Wafer Sticks \n2 cup strawberries \n2 cups blueberries \n3 green apples, sliced \n3 tbsps. lemon juice",
+      "procedure": "Using a double boiler, melt milk chocolate until smooth. \nPlace candy sprinkles in a plate for rolling the wafer later on. Prepare a tray lined with parchment paper.  \nDip the Meadows Vanilla Wafer Sticks in the melted chocolate, then roll into the plate of candy sprinkles to coat. Place on the parchment-lined tray, and repeat for all remaining vanilla wafer sticks. Chill until set. \nSkewer together strawberries and blueberries. \nCoat sliced apples with lemon juice to prevent from browning quickly. \nArrange fruits, chocolate-coated wafer sticks and other desired biscuits and cookies in cups."
     },
     "photo": {
       "filename": "SUM4.jpg",
@@ -182,8 +182,8 @@ const SUMMER_PHOTOS_DATA = [
       "servingTime": "1 hour",
       "yield": "6-8 servings",
       "tips": "",
-      "ingredients": "Ingredients\n¼ pc. watermelon, sliced into triangles\n1 cup Waitrose Belgian Milk Chocolate, chopped\n⅛ cup cashew, chopped\n2 tbsps. rainbow sprinkles",
-      "procedure": "Procedure\nPush a popsicle stick into each watermelon triangle to create skewers. Freeze for at least 30 minutes, or until firm.\nIn a heat-resistant bowl set over a pan of simmering water, add chopped Waitrose Belgian Milk Chocolate. Melt the chocolate until smooth.\nWorking quickly, remove the watermelon skewers from the freezer one at a time. Drizzle melted chocolate over frozen watermelon.\nWhile the chocolate is still wet, immediately sprinkle with your desired toppings like chopped cashews and rainbow sprinkles.\nPlace the watermelon skewers upright in a tray lined with parchment paper. Freeze for another 10-15 minutes, or until the chocolate is set."
+      "ingredients": "¼ pc. watermelon, sliced into triangles\n1 cup Waitrose Belgian Milk Chocolate, chopped\n⅛ cup cashew, chopped\n2 tbsps. rainbow sprinkles",
+      "procedure": "Push a popsicle stick into each watermelon triangle to create skewers. Freeze for at least 30 minutes, or until firm.\nIn a heat-resistant bowl set over a pan of simmering water, add chopped Waitrose Belgian Milk Chocolate. Melt the chocolate until smooth.\nWorking quickly, remove the watermelon skewers from the freezer one at a time. Drizzle melted chocolate over frozen watermelon.\nWhile the chocolate is still wet, immediately sprinkle with your desired toppings like chopped cashews and rainbow sprinkles.\nPlace the watermelon skewers upright in a tray lined with parchment paper. Freeze for another 10-15 minutes, or until the chocolate is set."
     },
     "photo": {
       "filename": "SUM5.jpg",
@@ -207,8 +207,8 @@ const SUMMER_PHOTOS_DATA = [
       "servingTime": "15 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n300g Casino Bio Penne Au Blé Complet\n6 cups mixed greens\n2 cups strawberries, halved\n1 ½ cup avocado, peeled, pitted, and diced\nStrawberry Vinaigrette:\n¾ cup strawberries, hulled \n3 tbsps. olive oil\n3 tbsps. apple cider vinegar\n1 tbsp. honey \n1 tsp. dijon mustard\nSalt and black pepper to taste",
-      "procedure": "Procedure\nCook Casino Bio Penne Au Blé Complet in heavily salted boiling water until al dente. Drain and set aside.\nIn a large bowl add mixed greens, strawberries avocado, and cooked penne. Set aside\nIn a blender, combine strawberries, olive oil, apple cider vinegar, honey, and dijon mustard. Blend until smooth. Season with salt and black pepper.\nDrizzle the dressing over the salad and toss gently to coat."
+      "ingredients": "300g Casino Bio Penne Au Blé Complet\n6 cups mixed greens\n2 cups strawberries, halved\n1 ½ cup avocado, peeled, pitted, and diced\nStrawberry Vinaigrette:\n¾ cup strawberries, hulled \n3 tbsps. olive oil\n3 tbsps. apple cider vinegar\n1 tbsp. honey \n1 tsp. dijon mustard\nSalt and black pepper to taste",
+      "procedure": "Cook Casino Bio Penne Au Blé Complet in heavily salted boiling water until al dente. Drain and set aside.\nIn a large bowl add mixed greens, strawberries avocado, and cooked penne. Set aside\nIn a blender, combine strawberries, olive oil, apple cider vinegar, honey, and dijon mustard. Blend until smooth. Season with salt and black pepper.\nDrizzle the dressing over the salad and toss gently to coat."
     },
     "photo": {
       "filename": "SUM6.jpg",
@@ -232,8 +232,8 @@ const SUMMER_PHOTOS_DATA = [
       "servingTime": "30-40 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. olive oil\n⅓ cup onion, diced\n2 cloves garlic, minced\n½ tsp. oregano\n¾ cup shiitake mushroom, sliced\n1 cup shimeji mushroom, trimmed\n1 tbsp. tomato paste\n1 jar Casino Bio Raviolis Vegetable\n½ cup chicken stock\nSalt and pepper to taste\n1 ½ cup spinach\n1 cup mozzarella cheese, grated\n½ tbsp. red chili flakes\n⅛ cup parsley",
-      "procedure": "Procedure\nPreheat oven to 175°C.\nSet a pan over medium heat. Sauté onion and garlic in olive oil until fragrant and translucent. Then, add oregano and cook for about a minute. Add the shiitake and shimeji mushrooms, and cook until soft and slightly browned.\nAdd tomato paste and cook for about 2 minutes. Add the Casino Bio Ravioli and chicken stock.\nMix and simmer for 2-3 minutes. Season with salt and pepper. Add spinach and cook for another 2 minutes.\nIn an oven-safe dish, transfer ravioli and top with mozzarella cheese. Bake for 10-12 minutes or until melted and nicely golden.\nGarnish with red chili flakes and parsley."
+      "ingredients": "2 tbsps. olive oil\n⅓ cup onion, diced\n2 cloves garlic, minced\n½ tsp. oregano\n¾ cup shiitake mushroom, sliced\n1 cup shimeji mushroom, trimmed\n1 tbsp. tomato paste\n1 jar Casino Bio Raviolis Vegetable\n½ cup chicken stock\nSalt and pepper to taste\n1 ½ cup spinach\n1 cup mozzarella cheese, grated\n½ tbsp. red chili flakes\n⅛ cup parsley",
+      "procedure": "Preheat oven to 175°C.\nSet a pan over medium heat. Sauté onion and garlic in olive oil until fragrant and translucent. Then, add oregano and cook for about a minute. Add the shiitake and shimeji mushrooms, and cook until soft and slightly browned.\nAdd tomato paste and cook for about 2 minutes. Add the Casino Bio Ravioli and chicken stock.\nMix and simmer for 2-3 minutes. Season with salt and pepper. Add spinach and cook for another 2 minutes.\nIn an oven-safe dish, transfer ravioli and top with mozzarella cheese. Bake for 10-12 minutes or until melted and nicely golden.\nGarnish with red chili flakes and parsley."
     },
     "photo": {
       "filename": "SUM7.jpg",
@@ -257,8 +257,8 @@ const SUMMER_PHOTOS_DATA = [
       "servingTime": "10 minutes",
       "yield": "6-8 servings",
       "tips": "Add 1/2 cup of white rum for an extra kick.",
-      "ingredients": "Ingredients\n3 cups pineapple juice\n¾ cup mango juice\n3 tbsps. simple syrup\n2 cups ice\n1 bottle Fiorelli Prosecco DOC Extra Dry, chilled\n1 cup pineapple, sliced into chunks \n¼ cup rosemary sprigs",
-      "procedure": "Procedure\nIn a large pitcher, pour in the pineapple juice, mango juice, and simple syrup.\nFill the pitcher with ice. Gently pour in the chilled Fiorelli Prosecco DOC Extra Dry.\nGive the punch a stir to combine everything. Serve immediately in chilled glasses\nGarnish each glass with a fresh pineapple slice and a sprig of rosemary."
+      "ingredients": "3 cups pineapple juice\n¾ cup mango juice\n3 tbsps. simple syrup\n2 cups ice\n1 bottle Fiorelli Prosecco DOC Extra Dry, chilled\n1 cup pineapple, sliced into chunks \n¼ cup rosemary sprigs",
+      "procedure": "In a large pitcher, pour in the pineapple juice, mango juice, and simple syrup.\nFill the pitcher with ice. Gently pour in the chilled Fiorelli Prosecco DOC Extra Dry.\nGive the punch a stir to combine everything. Serve immediately in chilled glasses\nGarnish each glass with a fresh pineapple slice and a sprig of rosemary."
     },
     "photo": {
       "filename": "SUM8.jpg",
@@ -282,8 +282,8 @@ const SUMMER_PHOTOS_DATA = [
       "servingTime": "4 hours and 15 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 cups seedless watermelon, cubed\n1 1/3 cup strawberries, halved\n2 tbsps. lemon juice \n2 tbsps. sugar\n2 cups Echo Falls Fruit Fusion\n2 pcs. watermelon, sliced into triangles\n2 pcs. strawberry\n⅛ cup mint sprigs",
-      "procedure": "Procedure\nCombine the watermelon, strawberries, lemon juice, sugar, and Echo Falls Fruit Fusion in a blender.\nTransfer to an ice cube tray. Freeze for at least 4 hours, or ideally, overnight.\nOnce the mixture is frozen, remove from the the ice cube tray. Transfer the ice cubes into a blender and, blend until slushie-like.\nPour slushie into serving glasses, and garnish with sliced watermelon, strawberry and mint sprigs."
+      "ingredients": "2 cups seedless watermelon, cubed\n1 1/3 cup strawberries, halved\n2 tbsps. lemon juice \n2 tbsps. sugar\n2 cups Echo Falls Fruit Fusion\n2 pcs. watermelon, sliced into triangles\n2 pcs. strawberry\n⅛ cup mint sprigs",
+      "procedure": "Combine the watermelon, strawberries, lemon juice, sugar, and Echo Falls Fruit Fusion in a blender.\nTransfer to an ice cube tray. Freeze for at least 4 hours, or ideally, overnight.\nOnce the mixture is frozen, remove from the the ice cube tray. Transfer the ice cubes into a blender and, blend until slushie-like.\nPour slushie into serving glasses, and garnish with sliced watermelon, strawberry and mint sprigs."
     },
     "photo": {
       "filename": "SUM9.jpg",

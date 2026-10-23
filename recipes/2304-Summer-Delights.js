@@ -11,7 +11,7 @@ const SUMMER_DELIGHTS_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Summer Delights",
-    "caption": "All we need this summer is a refreshing salad, so try making this Savory Honeydew Melon Salad with the freshest honeydew melons from #TheMarketplace!\n\nWhat makes it savory then? The addition of fish sauce, garlic, and chili adds a twist of Thai flavors to the dish. Brown sugar balances the combination, and lime juice amps up the umami. Try it out!\n\nServing Time: 12 minutes\nYield: 2-3 servings\n\nIngredients\n\nDRESSING\n¼ cup fish sauce \n¼ cup lime juice \n2 tbsps. brown sugar \n1 clove garlic, grated\n1 red chili, chopped\n¼ cup warm water\n\n1 small golden honeydew melon\n1 red onion, thinly sliced\n2 red chilies, sliced\n¼ cup cilantro sprigs\n\nProcedure\n\n1. Whisk together all of the dressing ingredients, until sugar is well dissolved. Set aside. \n2. Using a melon baller, carve out rounds from the flesh of the honey dew melon. \n3. In a large bowl, combine golden honeydew melon balls, red onions, red chillies and prepared dressing. Toss to coat. Season with salt and pepper. \n4. Transfer to a serving bowl, then garnish with cilantro sprigs. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "All we need this summer is a refreshing salad, so try making this Savory Honeydew Melon Salad with the freshest honeydew melons from #TheMarketplace!\n\nWhat makes it savory then? The addition of fish sauce, garlic, and chili adds a twist of Thai flavors to the dish. Brown sugar balances the combination, and lime juice amps up the umami. Try it out!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
     ],
@@ -19,8 +19,8 @@ const SUMMER_DELIGHTS_DATA = [
       "servingTime": "12 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\nDRESSING:\n¼ cup fish sauce \n¼ cup lime juice \n2 tbsps. brown sugar \n1 clove garlic, grated\n1 red chili, chopped\n¼ cup warm water\n\n1 small golden honeydew melon\n1 red onion, thinly sliced\n2 red chilies, sliced\n¼ cup cilantro sprigs",
-      "procedure": "Procedure\nWhisk together all of the dressing ingredients, until sugar is well dissolved. Set aside. \nUsing a melon baller, carve out rounds from the flesh of the honey dew melon. \nIn a large bowl, combine golden honeydew melon balls, red onions, red chillies and prepared dressing. Toss to coat. Season with salt and pepper. \nTransfer to a serving bowl, then garnish with cilantro sprigs."
+      "ingredients": "DRESSING:\n¼ cup fish sauce \n¼ cup lime juice \n2 tbsps. brown sugar \n1 clove garlic, grated\n1 red chili, chopped\n¼ cup warm water\n\n1 small golden honeydew melon\n1 red onion, thinly sliced\n2 red chilies, sliced\n¼ cup cilantro sprigs",
+      "procedure": "Whisk together all of the dressing ingredients, until sugar is well dissolved. Set aside. \nUsing a melon baller, carve out rounds from the flesh of the honey dew melon. \nIn a large bowl, combine golden honeydew melon balls, red onions, red chillies and prepared dressing. Toss to coat. Season with salt and pepper. \nTransfer to a serving bowl, then garnish with cilantro sprigs."
     },
     "photo": {
       "filename": "SD1.jpg",
@@ -36,7 +36,7 @@ const SUMMER_DELIGHTS_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Summer Delights",
-    "caption": "Looking for a way to jazz up your bananas? These Maple Roasted Bananas made with Cavendish bananas from #TheMarketplace will be your new go-to method for enjoying this potassium-filled fruit!\n\nServe them plain with brown sugar pecans and whipped cream, enjoy with your favorite ice creams, or use as a topping for pancakes and waffles!\n\nServing Time: 25 minutes\nYield: 2 servings\n\nIngredients\n\n2 pcs. Cavendish bananas \n¼ cup maple syrup \n2 tbsps. unsalted butter \n¼ cup pecans, chopped\n1 tbsp. brown sugar \n½ cup whipped cream\n\nProcedure\n\n1. Preheat oven to 190C. Prepare a foil-lined baking tray. \n2. Keeping the skin on, slice the bananas lengthwise. Place the sliced bananas cut-side up on the lined baking tray, then spread maple syrup all over the bananas. \n3. Bake for 10-12 minutes, or until bananas are soft and caramelized. \n4. Meanwhile, in a small pan, toast butter and pecans together. When it has browned, mix in the brown sugar, and continue to cook until the sugar is dissolved. \n5. Top roasted bananas with the pecan mixture. Just before serving, place dollops of whipped cream on top as well. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Looking for a way to jazz up your bananas? These Maple Roasted Bananas made with Cavendish bananas from #TheMarketplace will be your new go-to method for enjoying this potassium-filled fruit!\n\nServe them plain with brown sugar pecans and whipped cream, enjoy with your favorite ice creams, or use as a topping for pancakes and waffles!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
     ],
@@ -44,8 +44,8 @@ const SUMMER_DELIGHTS_DATA = [
       "servingTime": "25 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 pcs. Cavendish bananas \n¼ cup maple syrup \n2 tbsps. unsalted butter \n¼ cup pecans, chopped\n1 tbsp. brown sugar \n½ cup whipped cream",
-      "procedure": "Procedure\nPreheat oven to 190C. Prepare a foil-lined baking tray. \nKeeping the skin on, slice the bananas lengthwise. Place the sliced bananas cut-side up on the lined baking tray, then spread maple syrup all over the bananas. \nBake for 10-12 minutes, or until bananas are soft and caramelized. \nMeanwhile, in a small pan, toast butter and pecans together. When it has browned, mix in the brown sugar, and continue to cook until the sugar is dissolved. \nTop roasted bananas with the pecan mixture. Just before serving, place dollops of whipped cream on top as well."
+      "ingredients": "2 pcs. Cavendish bananas \n¼ cup maple syrup \n2 tbsps. unsalted butter \n¼ cup pecans, chopped\n1 tbsp. brown sugar \n½ cup whipped cream",
+      "procedure": "Preheat oven to 190C. Prepare a foil-lined baking tray. \nKeeping the skin on, slice the bananas lengthwise. Place the sliced bananas cut-side up on the lined baking tray, then spread maple syrup all over the bananas. \nBake for 10-12 minutes, or until bananas are soft and caramelized. \nMeanwhile, in a small pan, toast butter and pecans together. When it has browned, mix in the brown sugar, and continue to cook until the sugar is dissolved. \nTop roasted bananas with the pecan mixture. Just before serving, place dollops of whipped cream on top as well."
     },
     "photo": {
       "filename": "SD2.jpg",
@@ -61,7 +61,7 @@ const SUMMER_DELIGHTS_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Summer Delights",
-    "caption": "Ever tried grilling watermelons?\n\nApart from getting those beautiful charred marks, the grill helps caramelize the watermelon’s sweetness, lending some smokiness while also providing some chew to the watermelon’s texture.\n\nWe recommend using seedless watermelons from #TheMarketplace, and then tossing them in a combination of olive oil, cucumbers, cherry tomatoes, arugula, mint leaves, and feta cheese, for the ultimate summer salad. Enjoy!\n\nServing Time: 20 minutes\nYield: 3 servings\n\nIngredients\n\n2 tbsps. olive oil\n½ pc. seedless watermelon, sliced into triangles\n1 cup cucumber, thinly sliced\n1 cup cherry tomatoes, halved\n3 cups arugula \n¼ cup mint leaves \n½ cup feta cheese, crumbled\n\nDRESSING\n⅓ cup olive oil \n2 tbsps. wholegrain mustard \n3 tbsps. lemon juice\n3 tbsps. honey\nSalt and pepper to taste\n\nProcedure\n\n1. Preheat a non-stick grill pan over medium high heat. Spread olive oil all over, then grill watermelon slices until nicely charred on both sides. Do this in batches. \n2. Whisk together all dressing ingredients until well combined. Season with salt and pepper to taste.\n3. In a bowl, toss together grilled watermelon, cucumber, cherry tomatoes, arugula, mint and the prepared dressing to coat. \n4. Transfer to a serving dish, then garnish with feta cheese. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Ever tried grilling watermelons?\n\nApart from getting those beautiful charred marks, the grill helps caramelize the watermelon’s sweetness, lending some smokiness while also providing some chew to the watermelon’s texture.\n\nWe recommend using seedless watermelons from #TheMarketplace, and then tossing them in a combination of olive oil, cucumbers, cherry tomatoes, arugula, mint leaves, and feta cheese, for the ultimate summer salad. Enjoy!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
     ],
@@ -69,8 +69,8 @@ const SUMMER_DELIGHTS_DATA = [
       "servingTime": "20 minutes",
       "yield": "3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. olive oil\n½ pc. seedless watermelon, sliced into triangles\n1 cup cucumber, thinly sliced\n1 cup cherry tomatoes, halved\n3 cups arugula \n¼ cup mint leaves \n½ cup feta cheese, crumbled\n\nDRESSING: \n⅓ cup olive oil \n2 tbsps. wholegrain mustard \n3 tbsps. lemon juice\n3 tbsps. honey\nSalt and pepper to taste",
-      "procedure": "Procedure\nPreheat a non-stick grill pan over medium high heat. Spread olive oil all over, then grill watermelon slices until nicely charred on both sides. Do this in batches. \nWhisk together all dressing ingredients until well combined. Season with salt and pepper to taste. \nIn a bowl, toss together grilled watermelon, cucumber, cherry tomatoes, arugula, mint and the prepared dressing to coat. \nTransfer to a serving dish, then garnish with feta cheese."
+      "ingredients": "2 tbsps. olive oil\n½ pc. seedless watermelon, sliced into triangles\n1 cup cucumber, thinly sliced\n1 cup cherry tomatoes, halved\n3 cups arugula \n¼ cup mint leaves \n½ cup feta cheese, crumbled\n\nDRESSING: \n⅓ cup olive oil \n2 tbsps. wholegrain mustard \n3 tbsps. lemon juice\n3 tbsps. honey\nSalt and pepper to taste",
+      "procedure": "Preheat a non-stick grill pan over medium high heat. Spread olive oil all over, then grill watermelon slices until nicely charred on both sides. Do this in batches. \nWhisk together all dressing ingredients until well combined. Season with salt and pepper to taste. \nIn a bowl, toss together grilled watermelon, cucumber, cherry tomatoes, arugula, mint and the prepared dressing to coat. \nTransfer to a serving dish, then garnish with feta cheese."
     },
     "photo": {
       "filename": "SD3.jpg",

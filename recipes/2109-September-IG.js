@@ -11,7 +11,7 @@ const SEPTEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "September IG",
-    "caption": "Got plans this Friday night? Cap off the week with some comfort food and a good movie. This recipe for Silipeño Corn Dip is cheesy, tangy, spicy, and comes packed with delicious sweet corn kernels. Grab your favorite corn chips, turn on the air-conditioning, slip into your comfiest PJs, and watch that show you’ve been dying to see. Get all the snacks you need for a perfect Friday night only at #TheMarketplace!\n\nServing Time: 20 minutes\nYield: 3 servings\nIngredients\n\n1 cup cream cheese, softened\n½ cup sour cream\n1 tbsp. lemon juice\n2 cloves garlic, minced\n1 cup corn kernels, drained\n⅓ cup Nacho King Silipeño\n2 cups mozzarella cheese, shredded\nSalt and pepper to taste\n¼ cup cilantro sprigs\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. In a large bowl, combine cream cheese, sour cream and lemon juice. Mix until smooth.\n3. Add in garlic, corn kernels, Nacho King Silipeño, and 1¾ cups mozzarella cheese. \n4. Season with salt and pepper. Top with the remaining ¼ cup mozzarella cheese.\n5. Bake for 15 minutes until cheese is fully melted and golden brown.\n6. Finish off with cilantro sprigs before serving.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Got plans this Friday night? Cap off the week with some comfort food and a good movie. This recipe for Silipeño Corn Dip is cheesy, tangy, spicy, and comes packed with delicious sweet corn kernels. Grab your favorite corn chips, turn on the air-conditioning, slip into your comfiest PJs, and watch that show you’ve been dying to see. Get all the snacks you need for a perfect Friday night only at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Nacho King"
     ],
@@ -19,8 +19,8 @@ const SEPTEMBER_IG_DATA = [
       "servingTime": "20 minutes",
       "yield": "3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup cream cheese, softened\n½ cup sour cream\n1 tbsp. lemon juice\n2 cloves garlic, minced\n1 cup corn kernels, drained\n⅓ cup Nacho King Silipeño\n2 cups mozzarella cheese, shredded\nSalt and pepper to taste\n¼ cup cilantro sprigs",
-      "procedure": "Procedure\nPreheat oven to 175°C.\nIn a large bowl, combine cream cheese, sour cream and lemon juice. Mix until smooth.\nAdd in garlic, corn kernels, Nacho King Silipeño, and 1¾ cups mozzarella cheese. \nSeason with salt and pepper. Top with the remaining ¼ cup mozzarella cheese.\nBake for 15 minutes until cheese is fully melted and golden brown.\nFinish off with cilantro sprigs before serving."
+      "ingredients": "1 cup cream cheese, softened\n½ cup sour cream\n1 tbsp. lemon juice\n2 cloves garlic, minced\n1 cup corn kernels, drained\n⅓ cup Nacho King Silipeño\n2 cups mozzarella cheese, shredded\nSalt and pepper to taste\n¼ cup cilantro sprigs",
+      "procedure": "Preheat oven to 175°C.\nIn a large bowl, combine cream cheese, sour cream and lemon juice. Mix until smooth.\nAdd in garlic, corn kernels, Nacho King Silipeño, and 1¾ cups mozzarella cheese. \nSeason with salt and pepper. Top with the remaining ¼ cup mozzarella cheese.\nBake for 15 minutes until cheese is fully melted and golden brown.\nFinish off with cilantro sprigs before serving."
     },
     "photo": {
       "filename": "IG1.jpg",
@@ -36,7 +36,7 @@ const SEPTEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "September IG",
-    "caption": "Turn your luncheon meat into a boujee breakfast with this this Luncheon Loaf Frittata! Combining fluffy eggs with savory cubes of Ox & Palm Luncheon Loaf, this one-skillet meal checks all the boxes when it comes to comfort food. Add all the ingredients you need to your cart the next time you shop at #TheMarketplace!\n\nServing Time: 20 minutes\nYield: 4-6 servings\n\nIngredients\n\n1 can Ox & Palm Luncheon Loaf, cubed \n2 tbsps. canola oil \n1 red onion, sliced \n1 red bell pepper, sliced \n1 bunch leeks, sliced \n8 eggs, whisked \nSalt & pepper to taste \n¼ cup parmesan cheese\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. Heat up an oven-safe skillet over medium heat. Add in oil and Ox & Palm Luncheon Loaf cubes. Fry until nicely browned.\n3. Add onions, bell peppers and leeks, and cook until softened.\n4. Mix in eggs and season with salt and pepper to taste.\n5. Top with parmesan cheese and bake for 8-10 minutes, or until eggs are set. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Turn your luncheon meat into a boujee breakfast with this this Luncheon Loaf Frittata! Combining fluffy eggs with savory cubes of Ox & Palm Luncheon Loaf, this one-skillet meal checks all the boxes when it comes to comfort food. Add all the ingredients you need to your cart the next time you shop at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Ox & Palm"
     ],
@@ -44,8 +44,8 @@ const SEPTEMBER_IG_DATA = [
       "servingTime": "20 minutes",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 can Ox & Palm Luncheon Loaf, cubed \n2 tbsps. canola oil \n1 red onion, sliced \n1 red bell pepper, sliced \n1 bunch leeks, sliced \n8 eggs, whisked \nSalt & pepper to taste \n¼ cup parmesan cheese",
-      "procedure": "Procedure\nPreheat oven to 175°C. \nHeat up an oven-safe skillet over medium heat. Add in oil and Ox & Palm Luncheon Loaf cubes. Fry until nicely browned. \nAdd onions, bell peppers and leeks, and cook until softened. \nMix in eggs and season with salt and pepper to taste. \nTop with parmesan cheese and bake for 8-10 minutes, or until eggs are set."
+      "ingredients": "1 can Ox & Palm Luncheon Loaf, cubed \n2 tbsps. canola oil \n1 red onion, sliced \n1 red bell pepper, sliced \n1 bunch leeks, sliced \n8 eggs, whisked \nSalt & pepper to taste \n¼ cup parmesan cheese",
+      "procedure": "Preheat oven to 175°C. \nHeat up an oven-safe skillet over medium heat. Add in oil and Ox & Palm Luncheon Loaf cubes. Fry until nicely browned. \nAdd onions, bell peppers and leeks, and cook until softened. \nMix in eggs and season with salt and pepper to taste. \nTop with parmesan cheese and bake for 8-10 minutes, or until eggs are set."
     },
     "photo": {
       "filename": "IG2.jpg",
@@ -99,7 +99,7 @@ const SEPTEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "September IG",
-    "caption": "Here’s a creative way to enjoy your French toast: roll ‘em up! Using Gardenia’s High Fiber Wheat Raisin Loaf, we added some peanut butter, cinnamon, and sugar for some delicious, soulful flavours. Perfect for the upcoming -ber months! Enjoy with a cup of coffee or a glass of cold, creamy milk. Grab all the ingredients you need at #TheMarketplace!\n\nServing Time: 20-30 minutes\nYield: 3 servings\n\nIngredients\n\n9 slices Gardenia Wheat Raisin Bread\n1 cup peanut butter\n2 eggs\n¼ cup milk\n2 tbsps. sugar\n1 tsp. cinnamon powder\n2 tbsps. butter\n1 tbsp. powdered sugar\n\nProcedure\n\n1. Using a rolling pin, flatten each slice of Gardenia Wheat Raisin Bread.\n2. Spread peanut butter on the flattened bread pieces, and roll into logs. Set aside.\n3. In a bowl, combine eggs, milk, sugar and cinnamon powder. \n4. Set a pan over medium heat, then add butter. Lightly soak each roll into the egg mixture, then fry until golden brown.\n5. Dust with powdered sugar before serving.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Here’s a creative way to enjoy your French toast: roll ‘em up! Using Gardenia’s High Fiber Wheat Raisin Loaf, we added some peanut butter, cinnamon, and sugar for some delicious, soulful flavours. Perfect for the upcoming -ber months! Enjoy with a cup of coffee or a glass of cold, creamy milk. Grab all the ingredients you need at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Gardenia"
     ],
@@ -107,8 +107,8 @@ const SEPTEMBER_IG_DATA = [
       "servingTime": "20-30 minutes",
       "yield": "3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n9 slices Gardenia Wheat Raisin Bread\n1 cup peanut butter\n2 eggs\n¼ cup milk\n2 tbsps. sugar\n1 tsp. cinnamon powder\n2 tbsps. butter\n1 tbsp. powdered sugar",
-      "procedure": "Procedure\nUsing a rolling pin, flatten each slice of Gardenia Wheat Raisin Bread.\nSpread peanut butter on the flattened bread pieces, and roll into logs. Set aside.\nIn a bowl, combine eggs, milk, sugar and cinnamon powder. \nSet a pan over medium heat, then add butter. Lightly soak each roll into the egg mixture, then fry until golden brown.\nDust with powdered sugar before serving."
+      "ingredients": "9 slices Gardenia Wheat Raisin Bread\n1 cup peanut butter\n2 eggs\n¼ cup milk\n2 tbsps. sugar\n1 tsp. cinnamon powder\n2 tbsps. butter\n1 tbsp. powdered sugar",
+      "procedure": "Using a rolling pin, flatten each slice of Gardenia Wheat Raisin Bread.\nSpread peanut butter on the flattened bread pieces, and roll into logs. Set aside.\nIn a bowl, combine eggs, milk, sugar and cinnamon powder. \nSet a pan over medium heat, then add butter. Lightly soak each roll into the egg mixture, then fry until golden brown.\nDust with powdered sugar before serving."
     },
     "photo": {
       "filename": "IG5.jpg",
@@ -124,7 +124,7 @@ const SEPTEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "September IG",
-    "caption": "Banana pudding was once the hype, and it has remained one of the most well-loved comfort foods. Making it from scratch can take up a lot of time, so in this recipe for Banana Bar Pudding Parfait, we’ve cut down the prep time to only 10 minutes and used only five ingredients. What are you waiting for? Shop all the ingredients you need at #TheMarketplace today!\n\nServing Time: 10 minutes\nYield: 2 servings\n\nIngredients\n\n1 cup vanilla pudding\n4 pcs. Monde Banana Bar\n1 cup banana, sliced\n2 tbsps. white chocolate, grated\n¼ cup caramel fudge\n\nProcedure\n\n1. Fill the bottom of a dessert glass with Monde Banana bar. Add a layer of sliced bananas, then top with vanilla pudding.\n2. Garnish with more sliced bananas and grated white chocolate.\n3. Serve alongside caramel fudge.\n\nDid you know? You can now stay at home and order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Banana pudding was once the hype, and it has remained one of the most well-loved comfort foods. Making it from scratch can take up a lot of time, so in this recipe for Banana Bar Pudding Parfait, we’ve cut down the prep time to only 10 minutes and used only five ingredients. What are you waiting for? Shop all the ingredients you need at #TheMarketplace today!\n\nDid you know? You can now stay at home and order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Monde"
     ],
@@ -132,8 +132,8 @@ const SEPTEMBER_IG_DATA = [
       "servingTime": "10 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup vanilla pudding\n4 pcs. Monde Banana Bar\n1 cup banana, sliced\n2 tbsps. white chocolate, grated\n¼ cup caramel fudge",
-      "procedure": "Procedure\nFill the bottom of a dessert glass with Monde Banana bar. Add a layer of sliced bananas, then top with vanilla pudding.\nGarnish with more sliced bananas and grated white chocolate.\nServe alongside caramel fudge."
+      "ingredients": "1 cup vanilla pudding\n4 pcs. Monde Banana Bar\n1 cup banana, sliced\n2 tbsps. white chocolate, grated\n¼ cup caramel fudge",
+      "procedure": "Fill the bottom of a dessert glass with Monde Banana bar. Add a layer of sliced bananas, then top with vanilla pudding.\nGarnish with more sliced bananas and grated white chocolate.\nServe alongside caramel fudge."
     },
     "photo": {
       "filename": "IG6.jpg",
@@ -149,7 +149,7 @@ const SEPTEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "September IG",
-    "caption": "In the mood for Chinese but not so much for meat? Quorn Pieces give you the feeling of tucking into your favorite meats, but without actually consuming them. We love Quorn, especially as a substitute for chicken or pork. And in this Orange Quorn Rice Bowl, you’ll hardly be able to tell the difference. Find Quorn and other meat alternatives fresh at #TheMarketplace!\n\nServing Time: 30-35 minutes\nYield: 2 servings\n\nIngredients\n\n2 cups canola oil \n1 pack Quorn Pieces\n1 tbsp. soy sauce\n2 tbsps. oyster sauce\n¼ cup orange juice\n1 tbsp. rice vinegar\n2 tbsps. sugar\n2 cloves garlic, grated\n1 tbsp. cornstarch\n3 cups rice, cooked\n2 cups French beans, blanched\n1 orange, sliced\n1 tbsp. sesame seeds\n3 tbsps. leeks, sliced\n\nProcedure\n\n1. Set a frying pan over medium heat. Add oil and fry Quorn Pieces until golden brown, then set aside.\n2. In a bowl, combine soy sauce, oyster sauce, orange juice and rice vinegar. Add sugar and garlic, mix until sugar is dissolved.\n3. Set a saucepan over medium heat and add the sauce, then simmer for 2 minutes.\n4. Dissolve cornstarch with 2 tablespoons of water. Mix into the sauce, then let boil until it thickens.\n5. Toss in fried Quorn Pieces until fully coated.\n6. Divide rice into 2 serving bowls, then top with Orange Quorn and French beans.\n7. Garnish with orange slices, sesame seeds and scallions before serving.\n\nPrefer to order your groceries online and have them delivered to you instead? Visit #TheMarketplace online at https://bit.ly/TheMarketplaceGoRobinsons! Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "In the mood for Chinese but not so much for meat? Quorn Pieces give you the feeling of tucking into your favorite meats, but without actually consuming them. We love Quorn, especially as a substitute for chicken or pork. And in this Orange Quorn Rice Bowl, you’ll hardly be able to tell the difference. Find Quorn and other meat alternatives fresh at #TheMarketplace!\n\nPrefer to order your groceries online and have them delivered to you instead? Visit #TheMarketplace online at https://bit.ly/TheMarketplaceGoRobinsons! Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Quorn"
     ],
@@ -157,8 +157,8 @@ const SEPTEMBER_IG_DATA = [
       "servingTime": "30-35 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 cups canola oil \n1 pack Quorn Pieces\n1 tbsp. soy sauce\n2 tbsps. oyster sauce\n¼ cup orange juice\n1 tbsp. rice vinegar\n2 tbsps. sugar\n2 cloves garlic, grated\n1 tbsp. cornstarch\n3 cups rice, cooked\n2 cups French beans, blanched\n1 orange, sliced\n1 tbsp. sesame seeds\n3 tbsps. leeks, sliced",
-      "procedure": "Procedure\nSet a frying pan over medium heat. Add oil and fry Quorn Pieces until golden brown, then set aside.\nIn a bowl, combine soy sauce, oyster sauce, orange juice and rice vinegar. Add sugar and garlic, mix until sugar is dissolved.\nSet a saucepan over medium heat and add the sauce, then simmer for 2 minutes.\nDissolve cornstarch with 2 tablespoons of water. Mix into the sauce, then let boil until it thickens.\nToss in fried Quorn Pieces until fully coated.\nDivide rice into 2 serving bowls, then top with Orange Quorn and French beans.\nGarnish with orange slices, sesame seeds and scallions before serving."
+      "ingredients": "2 cups canola oil \n1 pack Quorn Pieces\n1 tbsp. soy sauce\n2 tbsps. oyster sauce\n¼ cup orange juice\n1 tbsp. rice vinegar\n2 tbsps. sugar\n2 cloves garlic, grated\n1 tbsp. cornstarch\n3 cups rice, cooked\n2 cups French beans, blanched\n1 orange, sliced\n1 tbsp. sesame seeds\n3 tbsps. leeks, sliced",
+      "procedure": "Set a frying pan over medium heat. Add oil and fry Quorn Pieces until golden brown, then set aside.\nIn a bowl, combine soy sauce, oyster sauce, orange juice and rice vinegar. Add sugar and garlic, mix until sugar is dissolved.\nSet a saucepan over medium heat and add the sauce, then simmer for 2 minutes.\nDissolve cornstarch with 2 tablespoons of water. Mix into the sauce, then let boil until it thickens.\nToss in fried Quorn Pieces until fully coated.\nDivide rice into 2 serving bowls, then top with Orange Quorn and French beans.\nGarnish with orange slices, sesame seeds and scallions before serving."
     },
     "photo": {
       "filename": "IG7.jpg",
@@ -174,7 +174,7 @@ const SEPTEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "September IG",
-    "caption": "Remember when everyone was crazy about Banoffee? From pies to cakes, it was everywhere! We’re bringing back this decadent dessert in the form of a Banoffee Sundae that uses Bulla Vanilla Yoghurt instead of ice cream! Apart from being slightly healthier, the tartness from the yoghurt adds a lot of complexity to this sweet treat. Find all the ingredients you need only at #TheMarketplace!\n\nServing Time: 3 minutes\nYield: 1 serving\n\nIngredients\n\n1 pack Bulla Vanilla Yoghurt\n1 banana, sliced\n3 tbsps. pecans, toasted \n¼ cup caramel sauce \nProcedure\n\n1. Top Bulla Vanilla Yoghurt with bananas, pecans and caramel sauce. \n\nNow you can order your groceries online via https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at http://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Remember when everyone was crazy about Banoffee? From pies to cakes, it was everywhere! We’re bringing back this decadent dessert in the form of a Banoffee Sundae that uses Bulla Vanilla Yoghurt instead of ice cream! Apart from being slightly healthier, the tartness from the yoghurt adds a lot of complexity to this sweet treat. Find all the ingredients you need only at #TheMarketplace!\n\nNow you can order your groceries online via https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at http://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Bulla"
     ],
@@ -182,8 +182,8 @@ const SEPTEMBER_IG_DATA = [
       "servingTime": "3 minutes",
       "yield": "1 serving",
       "tips": "",
-      "ingredients": "Ingredients\n1 pack Bulla Vanilla Yoghurt\n 1 banana, sliced\n3 tbsps. pecans, toasted \n¼ cup caramel sauce",
-      "procedure": "Procedure\nTop Bulla Vanilla Yoghurt with bananas, pecans and caramel sauce."
+      "ingredients": "1 pack Bulla Vanilla Yoghurt\n 1 banana, sliced\n3 tbsps. pecans, toasted \n¼ cup caramel sauce",
+      "procedure": "Top Bulla Vanilla Yoghurt with bananas, pecans and caramel sauce."
     },
     "photo": {
       "filename": "IG8.jpg",
@@ -218,7 +218,7 @@ const SEPTEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "September IG",
-    "caption": "Rice-stuffed bell peppers are a common sight, but have you tried using fiber-rich quinoa instead? Using a tasty combination of Waitrose Quinoa, corn, beans, tomatoes, and other spices, these Quinoa-stuffed peppers are not only filling but also healthy. Don’t forget to spritz them with some lime for an extra kick! Get your Waitrose Quinoa, along with other imported grocery items at #TheMarketplace!\n\nServing Time: 45-60 minutes\nYield: 3 servings\n\nIngredients\n\n1 cup Waitrose Quinoa\n3 bell peppers, halved\n3 tbsps. olive oil\nSalt and pepper to taste\n½ cup corn kernels\n½ cup beans, drained\n½ cup tomato, diced\n2 tbsps. olive oil\n½ tsp. cumin\n½ tsp. oregano\n¼ tsp paprika\n½ cup cilantro sprigs\n1 lime, sliced into wedges\n\nProcedure\n\n1. Preheat oven to 350°F.\n2. Cook Waitrose Quinoa according to package instructions.\n3. Put halved bell peppers on a baking tray, then drizzle with olive oil and season with salt and pepper. Bake for 15-20 minutes.\n4. In a large bowl, combine cooked quinoa, corn kernels, beans, and tomatoes. Drizzle with more olive oil.\n5. Mix in cumin, oregano and paprika. Season with salt and pepper, and mix until fully incorporated.\n6. Stuff roasted bell peppers with quinoa. Garnish with cilantro sprigs and lime wedges.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Rice-stuffed bell peppers are a common sight, but have you tried using fiber-rich quinoa instead? Using a tasty combination of Waitrose Quinoa, corn, beans, tomatoes, and other spices, these Quinoa-stuffed peppers are not only filling but also healthy. Don’t forget to spritz them with some lime for an extra kick! Get your Waitrose Quinoa, along with other imported grocery items at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Waitrose"
     ],
@@ -226,8 +226,8 @@ const SEPTEMBER_IG_DATA = [
       "servingTime": "45-60 minutes",
       "yield": "3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup Waitrose Quinoa\n3 bell peppers, halved\n3 tbsps. olive oil\nSalt and pepper to taste\n½ cup corn kernels\n½ cup beans, drained\n½ cup tomato, diced\n2 tbsps. olive oil\n½ tsp. cumin\n½ tsp. oregano\n¼ tsp paprika\n½ cup cilantro sprigs\n1 lime, sliced into wedges",
-      "procedure": "Procedure\nPreheat oven to 350°F.\nCook Waitrose Quinoa according to package instructions.\nPut halved bell peppers on a baking tray, then drizzle with olive oil and season with salt and pepper. Bake for 15-20 minutes.\nIn a large bowl, combine cooked quinoa, corn kernels, beans, and tomatoes. Drizzle with more olive oil.\nMix in cumin, oregano and paprika. Season with salt and pepper, and mix until fully incorporated.\nStuff roasted bell peppers with quinoa. Garnish with cilantro sprigs and lime wedges."
+      "ingredients": "1 cup Waitrose Quinoa\n3 bell peppers, halved\n3 tbsps. olive oil\nSalt and pepper to taste\n½ cup corn kernels\n½ cup beans, drained\n½ cup tomato, diced\n2 tbsps. olive oil\n½ tsp. cumin\n½ tsp. oregano\n¼ tsp paprika\n½ cup cilantro sprigs\n1 lime, sliced into wedges",
+      "procedure": "Preheat oven to 350°F.\nCook Waitrose Quinoa according to package instructions.\nPut halved bell peppers on a baking tray, then drizzle with olive oil and season with salt and pepper. Bake for 15-20 minutes.\nIn a large bowl, combine cooked quinoa, corn kernels, beans, and tomatoes. Drizzle with more olive oil.\nMix in cumin, oregano and paprika. Season with salt and pepper, and mix until fully incorporated.\nStuff roasted bell peppers with quinoa. Garnish with cilantro sprigs and lime wedges."
     },
     "photo": {
       "filename": "IG10.jpg",
@@ -281,7 +281,7 @@ const SEPTEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "September IG",
-    "caption": "Imagine the tanginess of a well-prepared cheesecake on a delicious Oreo crust and studded with rich and chocolatey Reese’s Peanut Butter Cups? Heavenly!\nPerfect to make as a weekend dessert or as a present for a loved one (who doesn’t love a personal touch?), this cheesecake is a labor of love that’s worth every single calorie. Get the recipe below and get all the ingredients you need at #TheMarketplace!\n\nServing Time: 6 hours\nYield: 1 9-inch cake\n\nIngredients\n\n(Crust)\n2 cups Oreo cookies, crushed\n6 tbsps. butter, melted \n\n(Cheesecake batter)\n4 blocks cream cheese, softened \n1 cup white sugar \n3 tbsps. cornstarch\n4 eggs\n1 egg yolk\n2 tsps. lemon juice\n2 tsps. vanilla \n1 cup sour cream\n4 packs Reese’s Peanut Butter Cups, chopped\n\n(Topping)\n½ cup heavy cream\n1 cup chocolate, chopped\n3 packs Reese’s Peanut Butter Cups, chopped \n\nProcedure\n\n1 Preheat oven to 175°C. Wrap the outside of a 9-inch springform pan with foil. \n2. Combine crust ingredients and press onto the bottom of the springform pan. Bake for 10 minutes, then let cool completely.\n3. Drop oven temperature to 150°C. \n4. Beat cream cheese until smooth. Add in sugar and cornstarch and mix until well combined. Add in eggs one at a time, then the lemon juice, vanilla and sour cream. Keep mixing until batter is smooth and without lumps. Fold in Reese’s.\n5. Transfer cheesecake batter to your springform pan. Bake in a water bath, and bake for 1 hour and 40 minutes. Let it come to room temperature before cooling in the refrigerator for at least 4 hours.\n6. Heat up heavy cream. Place chocolate in a bowl, then top with the heated cream. Whisk until chocolate is fully melted and ganache is smooth. Add this on top of the cooled cheesecake, then sprinkle Reese’s Peanut Butter Cups on top. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Imagine the tanginess of a well-prepared cheesecake on a delicious Oreo crust and studded with rich and chocolatey Reese’s Peanut Butter Cups? Heavenly!\nPerfect to make as a weekend dessert or as a present for a loved one (who doesn’t love a personal touch?), this cheesecake is a labor of love that’s worth every single calorie. Get the recipe below and get all the ingredients you need at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Oreo",
       "Reese's"
@@ -290,8 +290,8 @@ const SEPTEMBER_IG_DATA = [
       "servingTime": "6 hours",
       "yield": "1 9-inch cake",
       "tips": "",
-      "ingredients": "Ingredients\n(Crust)\n2 cups Oreo cookies, crushed\n6 tbsps. butter, melted \n(Cheesecake batter)\n4 blocks cream cheese, softened \n1 cup white sugar \n3 tbsps. cornstarch\n4 eggs\n1 egg yolk\n2 tsps. lemon juice\n2 tsps. vanilla \n1 cup sour cream\n4 packs Reese’s Peanut Butter Cups, chopped\n(Topping)\n½ cup heavy cream\n1 cup chocolate, chopped\n3 packs Reese’s Peanut Butter Cups, chopped",
-      "procedure": "Procedure\nPreheat oven to 175°C. Wrap the outside of a 9-inch springform pan with foil. \nCombine crust ingredients and press onto the bottom of the springform pan. Bake for 10 minutes, then let cool completely.\nDrop oven temperature to 150°C. \nBeat cream cheese until smooth. Add in sugar and cornstarch and mix until well combined. Add in eggs one at a time, then the lemon juice, vanilla and sour cream. Keep mixing until batter is smooth and without lumps. Fold in Reese’s. \nTransfer cheesecake batter to your springform pan. Bake in a water bath, and bake for 1 hour and 40 minutes. Let it come to room temperature before cooling in the refrigerator for at least 4 hours. \nHeat up heavy cream. Place chocolate in a bowl, then top with the heated cream. Whisk until chocolate is fully melted and ganache is smooth. Add this on top of the cooled cheesecake, then sprinkle Reese’s Peanut Butter Cups on top."
+      "ingredients": "(Crust)\n2 cups Oreo cookies, crushed\n6 tbsps. butter, melted \n(Cheesecake batter)\n4 blocks cream cheese, softened \n1 cup white sugar \n3 tbsps. cornstarch\n4 eggs\n1 egg yolk\n2 tsps. lemon juice\n2 tsps. vanilla \n1 cup sour cream\n4 packs Reese’s Peanut Butter Cups, chopped\n(Topping)\n½ cup heavy cream\n1 cup chocolate, chopped\n3 packs Reese’s Peanut Butter Cups, chopped",
+      "procedure": "Preheat oven to 175°C. Wrap the outside of a 9-inch springform pan with foil. \nCombine crust ingredients and press onto the bottom of the springform pan. Bake for 10 minutes, then let cool completely.\nDrop oven temperature to 150°C. \nBeat cream cheese until smooth. Add in sugar and cornstarch and mix until well combined. Add in eggs one at a time, then the lemon juice, vanilla and sour cream. Keep mixing until batter is smooth and without lumps. Fold in Reese’s. \nTransfer cheesecake batter to your springform pan. Bake in a water bath, and bake for 1 hour and 40 minutes. Let it come to room temperature before cooling in the refrigerator for at least 4 hours. \nHeat up heavy cream. Place chocolate in a bowl, then top with the heated cream. Whisk until chocolate is fully melted and ganache is smooth. Add this on top of the cooled cheesecake, then sprinkle Reese’s Peanut Butter Cups on top."
     },
     "photo": {
       "filename": "IG13.jpg",
@@ -307,7 +307,7 @@ const SEPTEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "September IG",
-    "caption": "One of the simplest ways to satisfy both Filipino and pasta cravings is through this simple Laing Pasta recipe. Made with SaGaNa’s Daing with Laing Sauce, the lip-smacking combination of salty fish and creamy laing makes for the perfect pasta sauce. Just add in some garlic for an extra kick and some extra chilies if you’re feeling extra adventurous! Find all the ingredients you need at #TheMarketplace!\n \nServing Time: 15-20 minutes\nYield: 2-3 serving\n\nIngredients\n\n250g spaghetti noodles\n2 tbsps. olive oil\n2 tbsps. garlic, minced\n1 bottle Sagana Daing with Laing Sauce\nSalt and pepper to taste\n3 red chilies, sliced\n2 tbsps. parsley, chopped\n\nProcedure\n\n1. In a pot, boil heavily salted water. Cook spaghetti noodles according to package instructions. Set aside half a cup of pasta water.\n2. Set a pan over medium heat, then add olive oil and sauté garlic until soft.\n3. Add Sagana Daing with Laing Sauce. Flake the daing into smaller pieces. Add the pasta water and cooked noodles, and mix well.\n4. Season with salt and pepper to taste. \n5. Transfer to a serving plate and top with red chilies and chopped parsley.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "One of the simplest ways to satisfy both Filipino and pasta cravings is through this simple Laing Pasta recipe. Made with SaGaNa’s Daing with Laing Sauce, the lip-smacking combination of salty fish and creamy laing makes for the perfect pasta sauce. Just add in some garlic for an extra kick and some extra chilies if you’re feeling extra adventurous! Find all the ingredients you need at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Sagana"
     ],
@@ -315,8 +315,8 @@ const SEPTEMBER_IG_DATA = [
       "servingTime": "15-20 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n250g spaghetti noodles\n2 tbsps. olive oil\n2 tbsps. garlic, minced\n1 bottle SaGaNa Daing with Laing Sauce\nSalt and pepper to taste\n3 red chilies, sliced\n2 tbsps. parsley, chopped",
-      "procedure": "Procedure\nIn a pot, boil heavily salted water. Cook spaghetti noodles according to package instructions. Set aside half a cup of pasta water. \nSet a pan over medium heat, then add olive oil and sauté garlic until soft.\nAdd Sagana Daing with Laing Sauce. Flake the daing into smaller pieces. Add the pasta water and cooked noodles, and mix well.\nSeason with salt and pepper to taste. \nTransfer to a serving plate and top with red chilies and chopped parsley."
+      "ingredients": "250g spaghetti noodles\n2 tbsps. olive oil\n2 tbsps. garlic, minced\n1 bottle SaGaNa Daing with Laing Sauce\nSalt and pepper to taste\n3 red chilies, sliced\n2 tbsps. parsley, chopped",
+      "procedure": "In a pot, boil heavily salted water. Cook spaghetti noodles according to package instructions. Set aside half a cup of pasta water. \nSet a pan over medium heat, then add olive oil and sauté garlic until soft.\nAdd Sagana Daing with Laing Sauce. Flake the daing into smaller pieces. Add the pasta water and cooked noodles, and mix well.\nSeason with salt and pepper to taste. \nTransfer to a serving plate and top with red chilies and chopped parsley."
     },
     "photo": {
       "filename": "FB1.jpg",
@@ -351,7 +351,7 @@ const SEPTEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "September IG",
-    "caption": "In the mood for pizza? Don’t call for delivery just yet! Try these Pizza Pockets made with Gardenia White Bread. So easy to prepare and incredibly satisfying, this might be your new favorite way to enjoy pizza.\n\nFor this recipe, we used ham, cheese, and parsley, but feel free to add your favorite toppings such as mushrooms, basil, and even pepperoni slices! These Pizza Pockets are yours to enjoy—so have fun with them! Don’t forget to shop at #TheMarketplace for the freshest ingredients.\n\nServing Time: 25-30 minutes\nYield: 3-4 servings\n\nIngredients\n\n1 egg, beaten\n2 tbsps. milk\n8 slices Gardenia White Bread\n1 cup marinara sauce\n¾ cup ham, sliced\n1 cup mozzarella cheese, grated\nFlat leaf parsley for garnish\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. Whisk together egg and milk. \n3. Using a rolling pin, flatten each slice of Gardenia White Bread.\n4. Spread about a tablespoon of marinara sauce over the flattened bread slices. Add ham slices and top with mozzarella cheese.\n5. Brush some egg wash on the edges, then fold into half and crimp the sides using a fork. Transfer to a baking tray, then brush the tops with egg wash as well.\n6. Bake for 10 minutes. Garnish with parsley before serving.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "In the mood for pizza? Don’t call for delivery just yet! Try these Pizza Pockets made with Gardenia White Bread. So easy to prepare and incredibly satisfying, this might be your new favorite way to enjoy pizza.\n\nFor this recipe, we used ham, cheese, and parsley, but feel free to add your favorite toppings such as mushrooms, basil, and even pepperoni slices! These Pizza Pockets are yours to enjoy—so have fun with them! Don’t forget to shop at #TheMarketplace for the freshest ingredients.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Gardenia"
     ],
@@ -359,8 +359,8 @@ const SEPTEMBER_IG_DATA = [
       "servingTime": "25-30 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 egg, beaten\n2 tbsps. milk\n8 slices Gardenia White Bread\n1 cup marinara sauce\n¾ cup ham, sliced\n1 cup mozzarella cheese, grated\nFlat leaf parsley for garnish",
-      "procedure": "Procedure\nPreheat oven to 175°C.\nWhisk together egg and milk. \nUsing a rolling pin, flatten each slice of Gardenia White Bread.\nSpread about a tablespoon of marinara sauce over the flattened bread slices. Add ham slices and top with mozzarella cheese.\nBrush some egg wash on the edges, then fold into half and crimp the sides using a fork. Transfer to a baking tray, then brush the tops with egg wash as well.\nBake for 10 minutes. Garnish with parsley before serving."
+      "ingredients": "1 egg, beaten\n2 tbsps. milk\n8 slices Gardenia White Bread\n1 cup marinara sauce\n¾ cup ham, sliced\n1 cup mozzarella cheese, grated\nFlat leaf parsley for garnish",
+      "procedure": "Preheat oven to 175°C.\nWhisk together egg and milk. \nUsing a rolling pin, flatten each slice of Gardenia White Bread.\nSpread about a tablespoon of marinara sauce over the flattened bread slices. Add ham slices and top with mozzarella cheese.\nBrush some egg wash on the edges, then fold into half and crimp the sides using a fork. Transfer to a baking tray, then brush the tops with egg wash as well.\nBake for 10 minutes. Garnish with parsley before serving."
     },
     "photo": {
       "filename": "FB3.jpg",
@@ -376,7 +376,7 @@ const SEPTEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "September IG",
-    "caption": "There’s nothing like the classic, tropical combination of mangoes and coconut to add a touch of sunshine to your day.\n\nMade with premium and delicious Bulla Mango Yoghurt, these Mango & Coconut Frozen Yoghurt Bars are creamy, fruity, and tangy. The best part? This frozen treat requires only three ingredients. That’s right! Freshness is key, and the best place to grab your fruits and yoghurt is at #TheMarketplace!\n\nServing Time: 3 hours\nYield: 6-8 servings\n\nIngredients\n\n6 packs Bulla Mango Yoghurt \n2 mangoes, deseeded and cubed \n½ cup desiccated coconut\n\nProcedure\n\n1. Line a baking tray with parchment paper. \n2. Combine Bulla Mango Yoghurt and mangoes. Transfer to lined tray. Top with desiccated coconut. \n3. Freeze for at least 3 hours or ideally overnight. Slice into squares. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "There’s nothing like the classic, tropical combination of mangoes and coconut to add a touch of sunshine to your day.\n\nMade with premium and delicious Bulla Mango Yoghurt, these Mango & Coconut Frozen Yoghurt Bars are creamy, fruity, and tangy. The best part? This frozen treat requires only three ingredients. That’s right! Freshness is key, and the best place to grab your fruits and yoghurt is at #TheMarketplace!\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Bulla"
     ],
@@ -384,8 +384,8 @@ const SEPTEMBER_IG_DATA = [
       "servingTime": "3 hours",
       "yield": "6-8 servings",
       "tips": "",
-      "ingredients": "Ingredients\n6 packs Bulla Mango Yoghurt \n2 mangoes, deseeded and cubed \n½ cup desiccated coconut",
-      "procedure": "Procedure\nLine a baking tray with parchment paper. \nCombine Bulla Mango Yoghurt and mangoes. Transfer to lined tray. Top with desiccated coconut. \nFreeze for at least 3 hours or ideally overnight. Slice into squares."
+      "ingredients": "6 packs Bulla Mango Yoghurt \n2 mangoes, deseeded and cubed \n½ cup desiccated coconut",
+      "procedure": "Line a baking tray with parchment paper. \nCombine Bulla Mango Yoghurt and mangoes. Transfer to lined tray. Top with desiccated coconut. \nFreeze for at least 3 hours or ideally overnight. Slice into squares."
     },
     "photo": {
       "filename": "FB4.jpg",
@@ -458,7 +458,7 @@ const SEPTEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "September IG",
-    "caption": "Add a Japanese touch to your fried chicken with this easy recipe for Karaage Don! Using ready-to-fry Purefoods Chicken Karaage, serve with some homemade pickled cucumbers, togarashi, and Japanese mayonnaise for taste closer to Tokyo. Itadakimasu! Get all the ingredients you need fresh only from #TheMarketplace!\n\nServing Time: 40-45 minutes\nYield: 2-3 servings\n\nIngredients\n\n2 tbsps. sugar\n2 tbsps. vinegar\n1 tsp. salt\n½ cup water\n1 cup cucumber, sliced\nOil for frying\n1 pack Purefoods Chicken Karaage\n3 cups rice, cooked\n2 tbsps. sesame seeds\n½ cup Japanese mayonnaise\n1 ½ tbsp. togarashi powder\n\nProcedure\n\n1. In a small pot, combine sugar, vinegar, salt and water. Boil for 3 minutes.\n2. Pour over sliced cucumbers, and let marinate for at least 30 minutes. .\n3. Preheat oil to 350°F.\n4. Deep fry Purefoods Chicken Karaage until golden brown. Drain oil and set aside.\n5. Fill serving bowl with rice, and top with fried Purefoods Chicken Karaage, pickled cucumbers and sesame seeds.\n6. Drizzle japanese mayo on chicken karaage and sprinkle togarashi powder before serving.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Add a Japanese touch to your fried chicken with this easy recipe for Karaage Don! Using ready-to-fry Purefoods Chicken Karaage, serve with some homemade pickled cucumbers, togarashi, and Japanese mayonnaise for taste closer to Tokyo. Itadakimasu! Get all the ingredients you need fresh only from #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Purefoods"
     ],
@@ -466,8 +466,8 @@ const SEPTEMBER_IG_DATA = [
       "servingTime": "40-45 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. sugar\n2 tbsps. vinegar\n1 tsp. salt\n½ cup water\n1 cup cucumber, sliced\nOil for frying\n1 pack Purefoods Chicken Karaage\n3 cups rice, cooked\n2 tbsps. sesame seeds\n½ cup Japanese mayonnaise\n1 ½ tbsp. togarashi powder",
-      "procedure": "Procedure\nIn a small pot, combine sugar, vinegar, salt and water. Boil for 3 minutes.\nPour over sliced cucumbers, and let marinate for at least 30 minutes. .\nPreheat oil to 350°F.\nDeep fry Purefoods Chicken Karaage until golden brown. Drain oil and set aside.\nFill serving bowl with rice, and top with fried Purefoods Chicken Karaage, pickled cucumbers and sesame seeds.\nDrizzle japanese mayo on chicken karaage and sprinkle togarashi powder before serving."
+      "ingredients": "2 tbsps. sugar\n2 tbsps. vinegar\n1 tsp. salt\n½ cup water\n1 cup cucumber, sliced\nOil for frying\n1 pack Purefoods Chicken Karaage\n3 cups rice, cooked\n2 tbsps. sesame seeds\n½ cup Japanese mayonnaise\n1 ½ tbsp. togarashi powder",
+      "procedure": "In a small pot, combine sugar, vinegar, salt and water. Boil for 3 minutes.\nPour over sliced cucumbers, and let marinate for at least 30 minutes. .\nPreheat oil to 350°F.\nDeep fry Purefoods Chicken Karaage until golden brown. Drain oil and set aside.\nFill serving bowl with rice, and top with fried Purefoods Chicken Karaage, pickled cucumbers and sesame seeds.\nDrizzle japanese mayo on chicken karaage and sprinkle togarashi powder before serving."
     },
     "photo": {
       "filename": "FB8.jpg",

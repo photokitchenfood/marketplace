@@ -30,7 +30,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "A fiber-rich alternative to rice, adlai, an heirloom grain, has a texture similar to barley, making it a great ingredient to use for a Mushroom Risotto.\n\nWe cooked some Hineleban Adlai with stock and added aromatics, as well as a variety of mushrooms for this recipe. Parmesan cheese adds a nutty flavor and a creamy pull. Want it a little more luxe? Add a drizzle of truffle oil before serving. Find all the ingredients you need at #TheMarketplace and don’t forget to check out the delivery options as well!\n\nServing Time: 35 minutes\nYield: 2 servings\n\nIngredients\n\n3 tbsps. olive oil \n1 cup shiitake mushrooms, sliced \n1 cup shimeji mushrooms \n3 tbsps. unsalted butter\n1 white onion, chopped \n4 garlic cloves, minced \n3 thyme sprigs \n1 cup Hineleban Adlai, washed \n1 ½ cup stock (chicken or vegetable)\n1 cup cream\n¼ cup parmesan cheese\nSalt and pepper to taste\n\nProcedure\n\n1. In a large pan over medium-high heat, add in olive oil. Sear shiitake mushrooms in batches until nicely browned on both sides. Do the same for the shimeji mushrooms. Set aside mushrooms.\n2. Using the same pan, melt butter. Add in onions, garlic and thyme. Sweat over medium-low heat. Once aromatics are soft and translucent, mix in Hineleban Adlai. \n3. Keep your flame low, then add stock ½ cup at a time while mixing continuously to prevent the bottom from scorching. \n4. When the stock is finished, mix in cream, parmesan cheese and cooked mushrooms. Let simmer until adlai is fully cooked, then season with salt and pepper. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "A fiber-rich alternative to rice, adlai, an heirloom grain, has a texture similar to barley, making it a great ingredient to use for a Mushroom Risotto.\n\nWe cooked some Hineleban Adlai with stock and added aromatics, as well as a variety of mushrooms for this recipe. Parmesan cheese adds a nutty flavor and a creamy pull. Want it a little more luxe? Add a drizzle of truffle oil before serving. Find all the ingredients you need at #TheMarketplace and don’t forget to check out the delivery options as well!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Hineleban"
     ],
@@ -38,8 +38,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "35 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n3 tbsps. olive oil \n1 cup shiitake mushrooms, sliced \n1 cup shimeji mushrooms \n3 tbsps. unsalted butter \n1 white onion, chopped \n4 garlic cloves, minced \n3 thyme sprigs \n1 cup Hineleban Adlai, washed \n1 ½ cup stock (chicken or vegetable)\n1 cup cream\n¼ cup parmesan cheese\nSalt and pepper to taste",
-      "procedure": "Procedure\nIn a large pan over medium-high heat, add in olive oil. Sear shiitake mushrooms in batches until nicely browned on both sides. Do the same for the shimeji mushrooms. Set aside mushrooms. \nUsing the same pan, melt butter. Add in onions, garlic and thyme. Sweat over medium-low heat. Once aromatics are soft and translucent, mix in Hineleban Adlai. \nKeep your flame low, then add stock ½ cup at a time while mixing continuously to prevent the bottom from scorching. \nWhen the stock is finished, mix in cream, parmesan cheese and cooked mushrooms. Let simmer until adlai is fully cooked, then season with salt and pepper."
+      "ingredients": "3 tbsps. olive oil \n1 cup shiitake mushrooms, sliced \n1 cup shimeji mushrooms \n3 tbsps. unsalted butter \n1 white onion, chopped \n4 garlic cloves, minced \n3 thyme sprigs \n1 cup Hineleban Adlai, washed \n1 ½ cup stock (chicken or vegetable)\n1 cup cream\n¼ cup parmesan cheese\nSalt and pepper to taste",
+      "procedure": "In a large pan over medium-high heat, add in olive oil. Sear shiitake mushrooms in batches until nicely browned on both sides. Do the same for the shimeji mushrooms. Set aside mushrooms. \nUsing the same pan, melt butter. Add in onions, garlic and thyme. Sweat over medium-low heat. Once aromatics are soft and translucent, mix in Hineleban Adlai. \nKeep your flame low, then add stock ½ cup at a time while mixing continuously to prevent the bottom from scorching. \nWhen the stock is finished, mix in cream, parmesan cheese and cooked mushrooms. Let simmer until adlai is fully cooked, then season with salt and pepper."
     },
     "photo": {
       "filename": "IG2.jpg",
@@ -55,7 +55,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "What’s great about pasta salads is that they are easy to prepare and easy to store, too!\n\nIn this simple yet tasty recipe for Mediterranean Pasta Salad, we used La Española Extra Virgin Olive Oil with Garlic for a light yet fruity flavor with a garlicky kick! Simply combine some cooked farfalle (or penne) with your favorite Greek-inspired vegetables, a sprinkle of herbs, toss, top with feta, and you’re good to go! Find La Española products, along with other premium olive oil brands, only at #TheMarketplace!\n\nServing Time: 12 minutes\nYield: 2-3 servings\n\nIngredients\n\n1 tbsp. dijon mustard \n4 cloves garlic, minced \n1 tsp. dried thyme \n1 tsp. dried oregano\n½ tsp. paprika \n3 tbsps. lemon juice \n2 tbsps. honey\n½ cup La Española Extra Virgin Olive Oil with Garlic\n3 tbsps. basil leaves, chopped\nSalt and pepper to taste\n250g farfalle, cooked according to package instructions \n½ cup black olives, pitted and sliced \n½ cup cherry tomatoes, halved \n½ cup cucumber, cubed \n¼ cup red onions, sliced \n½ cup feta cheese \n\nProcedure\n\n1. Whisk together dijon mustard, garlic, thyme, oregano, paprika, lemon juice and honey. Slowly stream in La Espanola Extra Virgin Olive Oil with Garlic while whisking continuously to make an emulsion. Mix in basil, then season with salt and pepper to taste.\n2. In a large bowl, combine farfalle, black olives, cherry tomatoes, cucumber, red onions and feta cheese, Drizzle in dressing and toss until everything is well coated. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "What’s great about pasta salads is that they are easy to prepare and easy to store, too!\n\nIn this simple yet tasty recipe for Mediterranean Pasta Salad, we used La Española Extra Virgin Olive Oil with Garlic for a light yet fruity flavor with a garlicky kick! Simply combine some cooked farfalle (or penne) with your favorite Greek-inspired vegetables, a sprinkle of herbs, toss, top with feta, and you’re good to go! Find La Española products, along with other premium olive oil brands, only at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "La Española"
     ],
@@ -63,8 +63,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "12 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 tbsp. dijon mustard \n4 cloves garlic, minced \n1 tsp. dried thyme \n1 tsp. dried oregano\n½ tsp. paprika \n3 tbsps. lemon juice \n2 tbsps. honey\n½ cup La Española Extra Virgin Olive Oil with Garlic\n3 tbsps. basil leaves, chopped\nSalt and pepper to taste\n250g farfalle, cooked according to package instructions \n½ cup black olives, pitted and sliced \n½ cup cherry tomatoes, halved \n½ cup cucumber, cubed \n¼ cup red onions, sliced \n½ cup feta cheese",
-      "procedure": "Procedure\nWhisk together dijon mustard, garlic, thyme, oregano, paprika, lemon juice and honey. Slowly stream in La Española Extra Virgin Olive Oil with Garlic while whisking continuously to make an emulsion. Mix in basil, then season with salt and pepper to taste. \nIn a large bowl, combine farfalle, black olives, cherry tomatoes, cucumber, red onions and feta cheese, Drizzle in dressing and toss until everything is well coated."
+      "ingredients": "1 tbsp. dijon mustard \n4 cloves garlic, minced \n1 tsp. dried thyme \n1 tsp. dried oregano\n½ tsp. paprika \n3 tbsps. lemon juice \n2 tbsps. honey\n½ cup La Española Extra Virgin Olive Oil with Garlic\n3 tbsps. basil leaves, chopped\nSalt and pepper to taste\n250g farfalle, cooked according to package instructions \n½ cup black olives, pitted and sliced \n½ cup cherry tomatoes, halved \n½ cup cucumber, cubed \n¼ cup red onions, sliced \n½ cup feta cheese",
+      "procedure": "Whisk together dijon mustard, garlic, thyme, oregano, paprika, lemon juice and honey. Slowly stream in La Española Extra Virgin Olive Oil with Garlic while whisking continuously to make an emulsion. Mix in basil, then season with salt and pepper to taste. \nIn a large bowl, combine farfalle, black olives, cherry tomatoes, cucumber, red onions and feta cheese, Drizzle in dressing and toss until everything is well coated."
     },
     "photo": {
       "filename": "IG3.jpg",
@@ -80,7 +80,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "Chicken Fricassee is a hearty and easy French chicken dish that’s made with a rich sauce of herbs, white wine, mushrooms, and cream. For ease, we used Magnolia Recado Cut Chicken, which you can get fresh from #TheMarketplace.\n\nPerfect as a dinner to wrap up the weekend and great to make-ahead for those busy weekdays when you need to reach out for a comforting meal, try this recipe out and let us know what you think!\n\nServing Time: 30-40 minutes\nYield: 4-5 servings\n\nIngredients\n\n3 tbsps. olive oil\n½ cup white button mushrooms, quartered\n½ cup shiitake mushrooms, sliced \n½ cup shimeji mushrooms\n1 pack Magnolia Recado Cut Chicken\n2 tbsps. butter\n1 white onion, chopped\n4 garlic cloves, chopped \n4 sprigs thyme \n½ cup dry white wine \n2 cups heavy cream \n1 chicken broth cube \nSalt and pepper to taste\n\nProcedure\n\n1. In a large heavy-bottom pot, heat up olive oil over medium-high heat. Brown mushrooms, then set aside while retaining oil in the pan. \n2. Sear Magnolia Recado Cut Chicken in batches until all pieces are golden brown. Set aside chicken. \n3. In the same pan, melt butter. Add in onions, garlic and thyme. Sweat aromatics until soft. Add in white wine and scrape off the brown bits that have settle into the pan. \n4. Once most of the wine has evaporated, add in cream, seared chicken, seared mushrooms and chicken broth cube. Let simmer for 10-15 minutes, or until chicken pieces are cooked through. \n5. Season with salt and pepper to taste. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Chicken Fricassee is a hearty and easy French chicken dish that’s made with a rich sauce of herbs, white wine, mushrooms, and cream. For ease, we used Magnolia Recado Cut Chicken, which you can get fresh from #TheMarketplace.\n\nPerfect as a dinner to wrap up the weekend and great to make-ahead for those busy weekdays when you need to reach out for a comforting meal, try this recipe out and let us know what you think!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Magnolia"
     ],
@@ -88,8 +88,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "30-40 minutes",
       "yield": "4-5 servings",
       "tips": "",
-      "ingredients": "Ingredients\n3 tbsps. olive oil\n½ cup white button mushrooms, quartered\n½ cup shiitake mushrooms, sliced \n½ cup shimeji mushrooms\n1 pack Magnolia Recado Cut Chicken\n2 tbsps. butter\n1 white onion, chopped\n4 garlic cloves, chopped \n4 sprigs thyme \n½ cup dry white wine \n2 cups heavy cream \n1 chicken broth cube \nSalt and pepper to taste",
-      "procedure": "Procedure\nIn a large heavy-bottom pot, heat up olive oil over medium-high heat. Brown mushrooms, then set aside while retaining oil in the pan. \nSear Magnolia Recado Cut Chicken in batches until all pieces are golden brown. Set aside chicken. \nIn the same pan, melt butter. Add in onions, garlic and thyme. Sweat aromatics until soft. Add in white wine and scrape off the brown bits that have settle into the pan. \nOnce most of the wine has evaporated, add in cream, seared chicken, seared mushrooms and chicken broth cube. Let simmer for 10-15 minutes, or until chicken pieces are cooked through. \nSeason with salt and pepper to taste."
+      "ingredients": "3 tbsps. olive oil\n½ cup white button mushrooms, quartered\n½ cup shiitake mushrooms, sliced \n½ cup shimeji mushrooms\n1 pack Magnolia Recado Cut Chicken\n2 tbsps. butter\n1 white onion, chopped\n4 garlic cloves, chopped \n4 sprigs thyme \n½ cup dry white wine \n2 cups heavy cream \n1 chicken broth cube \nSalt and pepper to taste",
+      "procedure": "In a large heavy-bottom pot, heat up olive oil over medium-high heat. Brown mushrooms, then set aside while retaining oil in the pan. \nSear Magnolia Recado Cut Chicken in batches until all pieces are golden brown. Set aside chicken. \nIn the same pan, melt butter. Add in onions, garlic and thyme. Sweat aromatics until soft. Add in white wine and scrape off the brown bits that have settle into the pan. \nOnce most of the wine has evaporated, add in cream, seared chicken, seared mushrooms and chicken broth cube. Let simmer for 10-15 minutes, or until chicken pieces are cooked through. \nSeason with salt and pepper to taste."
     },
     "photo": {
       "filename": "IG4.jpg",
@@ -105,7 +105,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "Arm & Hammer Baking Soda has a lot of purposes. Apart from using it to clean your home, don’t forget that you can also use it for one of life’s simplest joys: cookies.\n\nThis easy recipe for peanut butter cookies is great to make on the weekend and to keep in your cookie jar for those evenings when you find yourself in a mood for some milk and cookies. Find Arm & Hammer Baking Soda and other baking needs when you shop at #TheMarketplace!\n\nServing Time: 45-60 minutes\nYield: 2 dozen\n\nIngredients\n\n1 cup butter, softened \n1 cup white sugar \n1 cup light brown sugar \n1 tsp. salt \n1 cup smooth peanut butter \n2 eggs \n1 tsp. vanilla extract \n2 ½ cups all purpose flour\n1 tsp. baking powder \n2 tsps. Arm & Hammer baking soda \n1 cup peanuts, toasted and chopped \n\nProcedure\n\n1. Preheat oven to 175°C. Line a sheet tray with parchment paper. \n2. In a stand mixer fitted with a paddle attachment, beat together butter, white sugar, brown sugar and salt until smooth. Next, beat in peanut butter, eggs and vanilla. Mix on medium speed for 3 minutes. \n3. In a separate bowl, whisk together flour, baking powder, Arm & Hammer baking soda and peanuts. \n4. Add dry ingredients to the butter and egg mixture. Paddle on high for 30 seconds up to 1 minute until just combined. Chill for 15 minutes. \n5. Scoop onto the lined sheet tray, spacing the dough 2 inches apart. Bake for 10 minutes. \n6. Let cool on a rack for at least 5 minutes. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Arm & Hammer Baking Soda has a lot of purposes. Apart from using it to clean your home, don’t forget that you can also use it for one of life’s simplest joys: cookies.\n\nThis easy recipe for peanut butter cookies is great to make on the weekend and to keep in your cookie jar for those evenings when you find yourself in a mood for some milk and cookies. Find Arm & Hammer Baking Soda and other baking needs when you shop at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Arm & Hammer"
     ],
@@ -113,8 +113,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "45-60  minutes",
       "yield": "2 dozen",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup butter, softened \n1 cup white sugar \n1 cup light brown sugar \n1 tsp. salt \n1 cup smooth peanut butter \n2 eggs \n1 tsp. vanilla extract \n2 ½ cups all purpose flour\n1 tsp. baking powder \n2 tsps. Arm & Hammer baking soda \n1 cup peanuts, toasted and chopped",
-      "procedure": "Procedure\nPreheat oven to 175°C. Line a sheet tray with parchment paper. \nIn a stand mixer fitted with a paddle attachment, beat together butter, white sugar, brown sugar and salt until smooth. Next, beat in peanut butter, eggs and vanilla. Mix on medium speed for 3 minutes. \nIn a separate bowl, whisk together flour, baking powder, Arm & Hammer baking soda and peanuts. \nAdd dry ingredients to the butter and egg mixture. Paddle on high for 30 seconds up to 1 minute until just combined. Chill for 15 minutes. \nScoop onto the lined sheet tray, spacing the dough 2 inches apart. Bake for 10 minutes. \nLet cool on a rack for at least 5 minutes."
+      "ingredients": "1 cup butter, softened \n1 cup white sugar \n1 cup light brown sugar \n1 tsp. salt \n1 cup smooth peanut butter \n2 eggs \n1 tsp. vanilla extract \n2 ½ cups all purpose flour\n1 tsp. baking powder \n2 tsps. Arm & Hammer baking soda \n1 cup peanuts, toasted and chopped",
+      "procedure": "Preheat oven to 175°C. Line a sheet tray with parchment paper. \nIn a stand mixer fitted with a paddle attachment, beat together butter, white sugar, brown sugar and salt until smooth. Next, beat in peanut butter, eggs and vanilla. Mix on medium speed for 3 minutes. \nIn a separate bowl, whisk together flour, baking powder, Arm & Hammer baking soda and peanuts. \nAdd dry ingredients to the butter and egg mixture. Paddle on high for 30 seconds up to 1 minute until just combined. Chill for 15 minutes. \nScoop onto the lined sheet tray, spacing the dough 2 inches apart. Bake for 10 minutes. \nLet cool on a rack for at least 5 minutes."
     },
     "photo": {
       "filename": "IG5.jpg",
@@ -130,7 +130,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "This recipe for Honey Rosemary Iced Tea will surely cool you down, especially during these hot afternoons we’ve been experiencing lately!\n\nSteep some black tea and add some of Aunt Sue’s Raw Honey. Rosemary sprigs add a lovely, floral and earthy touch to this wholesome beverage, while a spritz of lemon lends some brightness. Get all the ingredients you need delivered to your doorstep via #TheMarketplace website!\n\nServing Time: 20 minutes\nYield: 8 glasses\n\nIngredients\n\n6 cups water\n4 bags black tea\n3/4 cup Aunt Sue’s Raw Honey\n2 cups ice\n1 cup rosemary sprigs\n1 lemon, cut into wedges\n\nProcedure\n\n1. Boil water and add the black tea. Let steep for 10 minutes and let cool.\n2. Add Aunt Sue’s Raw Honey and stir until dissolved.\n3. Fill glass with ice and pour over the tea. Garnish with rosemary sprigs and lemon wedges before serving.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "This recipe for Honey Rosemary Iced Tea will surely cool you down, especially during these hot afternoons we’ve been experiencing lately!\n\nSteep some black tea and add some of Aunt Sue’s Raw Honey. Rosemary sprigs add a lovely, floral and earthy touch to this wholesome beverage, while a spritz of lemon lends some brightness. Get all the ingredients you need delivered to your doorstep via #TheMarketplace website!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Aunt Sue’s"
     ],
@@ -138,8 +138,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "20 minutes",
       "yield": "8 glasses",
       "tips": "",
-      "ingredients": "Ingredients\n6 cups water\n4 bags black tea\n3/4 cup Aunt Sue’s Raw Honey\n2 cups ice\n1 cup rosemary sprigs\n1 lemon, cut into wedges",
-      "procedure": "Procedure\nBoil water and add the black tea. Let steep for 10 minutes and let cool.\nAdd Aunt Sue’s Raw Honey and stir until dissolved.\nFill glass with ice and pour over the tea. Garnish with rosemary sprigs and lemon wedges before serving."
+      "ingredients": "6 cups water\n4 bags black tea\n3/4 cup Aunt Sue’s Raw Honey\n2 cups ice\n1 cup rosemary sprigs\n1 lemon, cut into wedges",
+      "procedure": "Boil water and add the black tea. Let steep for 10 minutes and let cool.\nAdd Aunt Sue’s Raw Honey and stir until dissolved.\nFill glass with ice and pour over the tea. Garnish with rosemary sprigs and lemon wedges before serving."
     },
     "photo": {
       "filename": "IG6.jpg",
@@ -155,7 +155,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "Have some cucumbers lying around? Jazz them up and make this Cucumber Pasta Salad with Monsieur Albert Mayonnaise!\n\nCucumbers are known to pack a lot of hydration, making them a great ingredient to cook with, especially when the weather is warm. If you’re planning to go on a hike, pack some cucumber slices since they provide extra hydration, too! Stock up on the freshest fruits and vegetables from the #TheMarketplace! \n\nServing Time: 20 minutes\nYield: 3-4 servings\n\nIngredients\n\n300g rotini pasta\nSalt and pepper to taste\n¾ cup Monsieur Albert Mayonnaise\n½ cup sour cream\n1 tbsp. lemon juice\n⅛ cup dill\n1 cucumber, sliced\n1 red onion, sliced\n\nProcedure\n\n1. Cook pasta according to package instructions in heavily salted water. Drain and set aside.\n2. In a large bowl, whisk together Monsieur Albert Mayonnaise, sour cream, lemon juice and dill. Season with salt and pepper.\n3. Coat cooked pasta with mayonnaise mixture then add sliced cucumber and red onions. Mix until well coated. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Have some cucumbers lying around? Jazz them up and make this Cucumber Pasta Salad with Monsieur Albert Mayonnaise!\n\nCucumbers are known to pack a lot of hydration, making them a great ingredient to cook with, especially when the weather is warm. If you’re planning to go on a hike, pack some cucumber slices since they provide extra hydration, too! Stock up on the freshest fruits and vegetables from the #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Monsieur Albert"
     ],
@@ -163,8 +163,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "20 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n300g rotini pasta\nSalt and pepper to taste\n¾ cup Monsieur Albert Mayonnaise\n½ cup sour cream\n1 tbsp. lemon juice\n⅛ cup dill\n1 cucumber, sliced\n1 red onion, sliced",
-      "procedure": "Procedure\nCook pasta according to package instructions in heavily salted water. Drain and set aside.\nIn a large bowl, whisk together Monsieur Albert Mayonnaise, sour cream, lemon juice and dill. Season with salt and pepper.\nCoat cooked pasta with mayonnaise mixture then add sliced cucumber and red onions. Mix until well coated."
+      "ingredients": "300g rotini pasta\nSalt and pepper to taste\n¾ cup Monsieur Albert Mayonnaise\n½ cup sour cream\n1 tbsp. lemon juice\n⅛ cup dill\n1 cucumber, sliced\n1 red onion, sliced",
+      "procedure": "Cook pasta according to package instructions in heavily salted water. Drain and set aside.\nIn a large bowl, whisk together Monsieur Albert Mayonnaise, sour cream, lemon juice and dill. Season with salt and pepper.\nCoat cooked pasta with mayonnaise mixture then add sliced cucumber and red onions. Mix until well coated."
     },
     "photo": {
       "filename": "IG7.jpg",
@@ -180,7 +180,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "Summery, citrusy, and tangy, this Fettuccine al Limone is always a crowd pleaser.\n\nWith a simple yet tasty sauce made with Nestlé All Purpose Cream and the bright flavors of lemon, the addition of butter, parmesan, and thyme add balance and creaminess to this rustic dish. Excited to make this pasta dish? Shop at #TheMarketplace online now and have all your groceries delivered to your doorstep!\n\nServing Time: 30 minutes\nYield: 3-4 servings\n\nIngredients\n\n400g fettuccine pasta\nSalt and pepper to taste\n1 cup Nestlé All Purpose Cream\n3 tbsps. lemon zest\n8 tbsps. butter\n⅔ cup parmesan cheese\n2 tbsps. lemon juice\n2 tbsps. thyme sprigs\n\nProcedure\n\n1. Cook pasta in heavily salted water until al dente. Save 1 cup of pasta water for adding to the sauce later on.\n2. Add Nestlé All Purpose Cream in a pan and set it on medium heat. Let simmer then add 2 tablespoons lemon zest.\n3. Slowly add a tablespoon of butter while stirring continuously until emulsified.\n4. Add ¾ cup of pasta water and cooked pasta. Toss until pasta is coated with sauce\n5. Add in parmesan cheese and mix until cheese is melted, season with salt and pepper then finish off with lemon juice.\n6. Transfer into a plate and top with the remaining lemon zest and garnish with thyme sprigs.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Summery, citrusy, and tangy, this Fettuccine al Limone is always a crowd pleaser.\n\nWith a simple yet tasty sauce made with Nestlé All Purpose Cream and the bright flavors of lemon, the addition of butter, parmesan, and thyme add balance and creaminess to this rustic dish. Excited to make this pasta dish? Shop at #TheMarketplace online now and have all your groceries delivered to your doorstep!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nestlé"
     ],
@@ -188,8 +188,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "30 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n400g fettuccine pasta\nSalt and pepper to taste\n1 cup Nestlé All Purpose Cream\n3 tbsps. lemon zest\n8 tbsps. butter\n⅔ cup parmesan cheese\n2 tbsps. lemon juice\n2 tbsps. thyme sprigs",
-      "procedure": "Procedure\nCook pasta in heavily salted water until al dente. Save 1 cup of pasta water for adding to the sauce later on.\nAdd Nestlé All Purpose Cream in a pan and set it on medium heat. Let simmer then add 2 tablespoons lemon zest.\nSlowly add a tablespoon of butter while stirring continuously until emulsified.\nAdd ¾ cup of pasta water and cooked pasta. Toss until pasta is coated with sauce\nAdd in parmesan cheese and mix until cheese is melted, season with salt and pepper then finish off with lemon juice.\nTransfer into a plate and top with the remaining lemon zest and garnish with thyme sprigs."
+      "ingredients": "400g fettuccine pasta\nSalt and pepper to taste\n1 cup Nestlé All Purpose Cream\n3 tbsps. lemon zest\n8 tbsps. butter\n⅔ cup parmesan cheese\n2 tbsps. lemon juice\n2 tbsps. thyme sprigs",
+      "procedure": "Cook pasta in heavily salted water until al dente. Save 1 cup of pasta water for adding to the sauce later on.\nAdd Nestlé All Purpose Cream in a pan and set it on medium heat. Let simmer then add 2 tablespoons lemon zest.\nSlowly add a tablespoon of butter while stirring continuously until emulsified.\nAdd ¾ cup of pasta water and cooked pasta. Toss until pasta is coated with sauce\nAdd in parmesan cheese and mix until cheese is melted, season with salt and pepper then finish off with lemon juice.\nTransfer into a plate and top with the remaining lemon zest and garnish with thyme sprigs."
     },
     "photo": {
       "filename": "IG8.jpg",
@@ -205,7 +205,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "A traditional English dessert made with meringue, cream, and strawberries, an Eton Mess is always a delicious play on textures, as well as on creamy and fruity flavors.\n\nFor this recipe, we layered both meringue cookies and butter cookies for extra flavor and texture, along with layers of whipped Nestlé All Purpose Cream for some richness in every bite. Make it this weekend and find all the ingredients you need at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 2 servings\n\nIngredients\n\n1 cup Nestlé All Purpose Cream\n⅓ cup powdered sugar\n1 cup strawberry jam\n2 cups strawberries, sliced\n⅛ cup butter cookies, crushed\n1 cup meringue cookies\n¼ cup mint leaves\n\nProcedure\n\n1. In a mixing bowl, whip Nestlé All Purpose Cream with powdered sugar until stiff peaks.\n2. Fill the bottom of a dessert glass with strawberry jam then add a layer of fresh strawberries, half tablespoon of butter cookies and meringue cookies. Add a layer of whipped cream.\n3. Repeat the layer of fresh strawberries and cookies and finish off with another layer of cream.\n4. Chill then top with mint leaves before serving.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "A traditional English dessert made with meringue, cream, and strawberries, an Eton Mess is always a delicious play on textures, as well as on creamy and fruity flavors.\n\nFor this recipe, we layered both meringue cookies and butter cookies for extra flavor and texture, along with layers of whipped Nestlé All Purpose Cream for some richness in every bite. Make it this weekend and find all the ingredients you need at #TheMarketplace!\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nestlé"
     ],
@@ -213,8 +213,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "30 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup Nestlé All Purpose Cream\n⅓ cup powdered sugar\n1 cup strawberry jam\n2 cups strawberries, sliced\n⅛ cup butter cookies, crushed\n1 cup meringue cookies\n¼ cup mint leaves",
-      "procedure": "Procedure\nIn a mixing bowl, whip Nestlé All Purpose Cream with powdered sugar until stiff peaks.\nFill the bottom of a dessert glass with strawberry jam then add a layer of fresh strawberries, half tablespoon of butter cookies and meringue cookies. Add a layer of whipped cream.\nRepeat the layer of fresh strawberries and cookies and finish off with another layer of cream.\nChill then top with mint leaves before serving."
+      "ingredients": "1 cup Nestlé All Purpose Cream\n⅓ cup powdered sugar\n1 cup strawberry jam\n2 cups strawberries, sliced\n⅛ cup butter cookies, crushed\n1 cup meringue cookies\n¼ cup mint leaves",
+      "procedure": "In a mixing bowl, whip Nestlé All Purpose Cream with powdered sugar until stiff peaks.\nFill the bottom of a dessert glass with strawberry jam then add a layer of fresh strawberries, half tablespoon of butter cookies and meringue cookies. Add a layer of whipped cream.\nRepeat the layer of fresh strawberries and cookies and finish off with another layer of cream.\nChill then top with mint leaves before serving."
     },
     "photo": {
       "filename": "IG9.jpg",
@@ -230,7 +230,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "This 3-ingredient White Chocolate Mousse will surely satisfy any sweet tooth!\n\nNormally, milk chocolate is used for mousse, but white chocolate works equally well! Simply melt some chopped white chocolate and boil with Nestlé All Purpose Cream, chill, top with chopped pistachios, and you’re all set! Add these three ingredients to your #TheMarketplace shopping list and make this delicious dessert whenever you please.\n\nServing Time: 3 hours\nYield: 2 servings\n\nIngredients\n\n1¼ cups Nestlé All Purpose Cream\n¾ cup white chocolate, chopped\n¼ cup pistachios, chopped\n\nProcedure\n\n1. In a double boiler, heat half cup of Nestlé All Purpose Cream. Add chopped white chocolate and remove from the heat.\n2. Let sit for about 2-3 minutes until chocolate is fully melted.\n3. In another bowl whip the remaining cream using an electric mixer until soft peaks.\n4. Slowly fold in whipped cream with white chocolate mixture and transfer to a dessert glass.\n5. Chill for at least 2 hours. Top with chopped pistachios before serving.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "This 3-ingredient White Chocolate Mousse will surely satisfy any sweet tooth!\n\nNormally, milk chocolate is used for mousse, but white chocolate works equally well! Simply melt some chopped white chocolate and boil with Nestlé All Purpose Cream, chill, top with chopped pistachios, and you’re all set! Add these three ingredients to your #TheMarketplace shopping list and make this delicious dessert whenever you please.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nestlé"
     ],
@@ -238,8 +238,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "3 hours",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1¼ cups Nestlé All Purpose Cream\n¾ cup white chocolate, chopped\n¼ cup pistachios, chopped",
-      "procedure": "Procedure\nIn a double boiler, heat half cup of Nestlé All Purpose Cream. Add chopped white chocolate and remove from the heat.\nLet sit for about 2-3 minutes until chocolate is fully melted.\nIn another bowl whip the remaining cream using an electric mixer until soft peaks.\nSlowly fold in whipped cream with white chocolate mixture and transfer to a dessert glass.\nChill for at least 2 hours. Top with chopped pistachios before serving."
+      "ingredients": "1¼ cups Nestlé All Purpose Cream\n¾ cup white chocolate, chopped\n¼ cup pistachios, chopped",
+      "procedure": "In a double boiler, heat half cup of Nestlé All Purpose Cream. Add chopped white chocolate and remove from the heat.\nLet sit for about 2-3 minutes until chocolate is fully melted.\nIn another bowl whip the remaining cream using an electric mixer until soft peaks.\nSlowly fold in whipped cream with white chocolate mixture and transfer to a dessert glass.\nChill for at least 2 hours. Top with chopped pistachios before serving."
     },
     "photo": {
       "filename": "IG10.jpg",
@@ -255,7 +255,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "Maja Blanca is a delicious local dessert bursting with coconut and corn. Usually served during the holidays and a common sight during fiestas and get-togethers as well, here’s a simple recipe using Cream Pure Cornstarch that you can make and take with you to your next gathering! Find all the ingredients you need from #TheMarketplace.\n\nServing Time: 3-4 hours\nYield: 8 servings\n\nIngredients\n\n2 cans coconut milk \n½ cup sugar\n1 can corn kernels\n½ cup Cream Pure Cornstarch\n¼ cup desiccated coconut\n\nProcedure\n\n1. Set pot over medium heat. Add coconut milk and sugar then let boil.\n2. Drain corn kernels and save ¼ cup of water from the corn and add Cream Pure Cornstarch. Mix until fully dissolved.\n3. Slowly add cornstarch mixture into the coconut milk while continuously stirring until it thickens.\n4. Add corn kernels and mix. Transfer to a lined tray and spread evenly. Refrigerate for at least 2-3 hours.\n5. In a non-stick pan, toast desiccated coconut until golden brown.\n6. Cut fully set Maja Blanca and top with toasted coconut before serving.\n\nDid you know? You can now get your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Maja Blanca is a delicious local dessert bursting with coconut and corn. Usually served during the holidays and a common sight during fiestas and get-togethers as well, here’s a simple recipe using Cream Pure Cornstarch that you can make and take with you to your next gathering! Find all the ingredients you need from #TheMarketplace.\n\nDid you know? You can now get your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
     ],
@@ -263,8 +263,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "3-4 hours",
       "yield": "8 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 cans coconut milk \n½ cup sugar\n1 can corn kernels\n½ cup Cream Pure Cornstarch\n¼ cup desiccated coconut",
-      "procedure": "Procedure\nSet pot over medium heat. Add coconut milk and sugar then let boil.\nDrain corn kernels and save ¼ cup of water from the corn and add Cream Pure Cornstarch. Mix until fully dissolved.\nSlowly add cornstarch mixture into the coconut milk while continuously stirring until it thickens.\nAdd corn kernels and mix. Transfer to a lined tray and spread evenly. Refrigerate for at least 2-3 hours.\nIn a non-stick pan, toast desiccated coconut until golden brown.\nCut fully set Maja Blanca and top with toasted coconut before serving."
+      "ingredients": "2 cans coconut milk \n½ cup sugar\n1 can corn kernels\n½ cup Cream Pure Cornstarch\n¼ cup desiccated coconut",
+      "procedure": "Set pot over medium heat. Add coconut milk and sugar then let boil.\nDrain corn kernels and save ¼ cup of water from the corn and add Cream Pure Cornstarch. Mix until fully dissolved.\nSlowly add cornstarch mixture into the coconut milk while continuously stirring until it thickens.\nAdd corn kernels and mix. Transfer to a lined tray and spread evenly. Refrigerate for at least 2-3 hours.\nIn a non-stick pan, toast desiccated coconut until golden brown.\nCut fully set Maja Blanca and top with toasted coconut before serving."
     },
     "photo": {
       "filename": "IG11.jpg",
@@ -280,7 +280,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "S’mores are typically associated to the great outdoors, but this recipe for S’mores Dip allows you to enjoy the decadent combination of chocolate, marshmallows, and M.Y. San Graham Crackers right at the comfort of your home.\n\nEnjoy it as a midnight snack, or if you’re simply craving a sweet treat to wrap up a busy week. Get all the ingredients you need at #TheMarketplace!\n\nServing Time: 20 minutes\nYield: 2 servings\n\nIngredients\n\n1 ½ cup milk chocolate, chopped\n2 cups marshmallows\n1 pack M.Y. San Graham Crackers\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. In a microwaveable dish, add the chocolate and melt for about 30 seconds or until chocolates are half melted.\n3. Top with marshmallows and bake for 3-5 minutes until the marshmallows are nicely toasted.\n4. Serve while hot alongside M.Y. San Graham Crackers.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "S’mores are typically associated to the great outdoors, but this recipe for S’mores Dip allows you to enjoy the decadent combination of chocolate, marshmallows, and M.Y. San Graham Crackers right at the comfort of your home.\n\nEnjoy it as a midnight snack, or if you’re simply craving a sweet treat to wrap up a busy week. Get all the ingredients you need at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "M.Y. San"
     ],
@@ -288,8 +288,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "20 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 ½ cup milk chocolate, chopped\n2 cups marshmallows\n1 pack M.Y. San Graham Crackers",
-      "procedure": "Procedure\nPreheat oven to 175°C.\nIn a microwaveable dish, add the chocolate and melt for about 30 seconds or until chocolates are half melted.\nTop with marshmallows and bake for 3-5 minutes until the marshmallows are nicely toasted.\nServe while hot alongside M.Y. San Graham Crackers."
+      "ingredients": "1 ½ cup milk chocolate, chopped\n2 cups marshmallows\n1 pack M.Y. San Graham Crackers",
+      "procedure": "Preheat oven to 175°C.\nIn a microwaveable dish, add the chocolate and melt for about 30 seconds or until chocolates are half melted.\nTop with marshmallows and bake for 3-5 minutes until the marshmallows are nicely toasted.\nServe while hot alongside M.Y. San Graham Crackers."
     },
     "photo": {
       "filename": "IG12.jpg",
@@ -305,7 +305,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "These Egg-in-a-Hole sandwiches may seem complex to make, but they’re actually pretty easy!\n\nUsing Fuwa Fuwa Bacon & Mayo Mini Loaf for an extra layer of flavor, make sure you have a cookie cutter at hand to create a hole to slide the egg in! Garnish with red pepper flakes for a bit of a kick, and add some color with chopped parsley. Enjoy it for breakfast or brunch, and get all the ingredients you need at #TheMarketplace!\n\nServing Time: 20 minutes\nYield: 3 servings\n\nIngredients\n\n6 slices Fuwa Fuwa Bacon & Mayo Mini Loaf\n2 tbsps. butter\n6 eggs\n1 tbsp. red pepper flakes\n1 tbsp. parsley, chopped\n\nProcedure\n\n1. Using a round cookie cutter, create a hole in the middle of each slice of Fuwa Fuwa Bacon & Mayo Mini Loaf. Set aside.\n2. Set pan over medium low heat, add butter then toast the bread. Flip the bread and fill the hole with an egg, cover and cook for 3 minutes.\n3. Transfer to a serving plate. Top with red pepper flakes and chopped parsley.\n\nDid you know? You can now get your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "These Egg-in-a-Hole sandwiches may seem complex to make, but they’re actually pretty easy!\n\nUsing Fuwa Fuwa Bacon & Mayo Mini Loaf for an extra layer of flavor, make sure you have a cookie cutter at hand to create a hole to slide the egg in! Garnish with red pepper flakes for a bit of a kick, and add some color with chopped parsley. Enjoy it for breakfast or brunch, and get all the ingredients you need at #TheMarketplace!\n\nDid you know? You can now get your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Fuwa Fuwa"
     ],
@@ -313,8 +313,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "20 minutes",
       "yield": "3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n6 slices Fuwa Fuwa Bacon & Mayo Mini Loaf\n2 tbsps. butter\n6 eggs\n1 tbsp. red pepper flakes\n1 tbsp. parsley, chopped",
-      "procedure": "Procedure\nUsing a round cookie cutter, create a hole in the middle of each slice of Fuwa Fuwa Bacon & Mayo Mini Loaf. Set aside.\nSet pan over medium low heat, add butter then toast the bread. Flip the bread and fill the hole with an egg, cover and cook for 3 minutes.\nTransfer to a serving plate. Top with red pepper flakes and chopped parsley."
+      "ingredients": "6 slices Fuwa Fuwa Bacon & Mayo Mini Loaf\n2 tbsps. butter\n6 eggs\n1 tbsp. red pepper flakes\n1 tbsp. parsley, chopped",
+      "procedure": "Using a round cookie cutter, create a hole in the middle of each slice of Fuwa Fuwa Bacon & Mayo Mini Loaf. Set aside.\nSet pan over medium low heat, add butter then toast the bread. Flip the bread and fill the hole with an egg, cover and cook for 3 minutes.\nTransfer to a serving plate. Top with red pepper flakes and chopped parsley."
     },
     "photo": {
       "filename": "IG13.jpg",
@@ -330,7 +330,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "Apple pies always pack a lot of comfort because of their familiar flavors and buttery texture. However, it might seem intimidating to bake a whole pie, so why not try out these Apple Pie Pockets instead?\n\nMade with Marby Whole Wheat Loaf and coated with cinnamon sugar and egg for a deliciously crisp shell, these Apple Pie Pockets are best enjoyed with your favorite coffee, tea, or cold glass of milk. Find all the ingredients you need fresh at #TheMarketplace!\n\nServing Time: 40 minutes\nYield: 8 servings\n\nIngredients\n\n2 green apples, cubed\n2 tsps. cinnamon powder\n1 cup sugar\n½ cup water\n8 slices Marby Whole Wheat Bread\n1 egg\n1 tbsp. milk\n\nProcedure\n\n1. Preheat oven to 350°F.\n2. Combine green apples, 1 teaspoon cinnamon powder, ½ cup sugar and water in a sauce pot, then set it over medium heat. Cook until water is reduced and apples are tender. Set aside.\n3. Using a rolling pin, flatten each slice of Marby Whole Wheat bread. Fill with two tablespoons of the apple filling.\n4. Combine egg and milk then brush the sides of the bread and seal using a fork.\n5. Combine the remaining sugar and cinnamon. Brush apple pockets with egg wash, then sprinkle with cinnamon sugar.\n6. Bake for 12-15 minutes or until golden brown. Serve while hot alongside caramel syrup.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Apple pies always pack a lot of comfort because of their familiar flavors and buttery texture. However, it might seem intimidating to bake a whole pie, so why not try out these Apple Pie Pockets instead?\n\nMade with Marby Whole Wheat Loaf and coated with cinnamon sugar and egg for a deliciously crisp shell, these Apple Pie Pockets are best enjoyed with your favorite coffee, tea, or cold glass of milk. Find all the ingredients you need fresh at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Marby"
     ],
@@ -338,8 +338,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "40 minutes",
       "yield": "8 pieces",
       "tips": "",
-      "ingredients": "Ingredients\n2 green apples, cubed\n2 tsps. cinnamon powder\n1 cup sugar\n½ cup water\n8 slices Marby Whole Wheat Bread\n1 egg\n1 tbsp. milk",
-      "procedure": "Procedure\nPreheat oven to 350°F.\nCombine green apples, 1 teaspoon cinnamon powder, ½ cup sugar and water in a sauce pot, then set it over medium heat. Cook until water is reduced and apples are tender. Set aside.\nUsing a rolling pin, flatten each slice of Marby Whole Wheat bread. Fill with two tablespoons of the apple filling.\nCombine egg and milk then brush the sides of the bread and seal using a fork.\nCombine the remaining sugar and cinnamon. Brush apple pockets with egg wash, then sprinkle with cinnamon sugar.\nBake for 12-15 minutes or until golden brown. Serve while hot alongside caramel syrup."
+      "ingredients": "2 green apples, cubed\n2 tsps. cinnamon powder\n1 cup sugar\n½ cup water\n8 slices Marby Whole Wheat Bread\n1 egg\n1 tbsp. milk",
+      "procedure": "Preheat oven to 350°F.\nCombine green apples, 1 teaspoon cinnamon powder, ½ cup sugar and water in a sauce pot, then set it over medium heat. Cook until water is reduced and apples are tender. Set aside.\nUsing a rolling pin, flatten each slice of Marby Whole Wheat bread. Fill with two tablespoons of the apple filling.\nCombine egg and milk then brush the sides of the bread and seal using a fork.\nCombine the remaining sugar and cinnamon. Brush apple pockets with egg wash, then sprinkle with cinnamon sugar.\nBake for 12-15 minutes or until golden brown. Serve while hot alongside caramel syrup."
     },
     "photo": {
       "filename": "IG14.jpg",
@@ -355,7 +355,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "Ever heard of a Meat-Free Meatball Sandwich? \n\nBeyond Meatballs are now available at #TheMarketplace, and this recipe contains a medley of rich and moreish flavors such as marinara sauce and mozzarella cheese served in between slices of toasted ciabatta. Don’t forget to enjoy this hearty sandwich with your favorite potato chips!\n\nServing Time: 20 minutes\nYield: 1-2 servings\n\nIngredients\n\n2 tbsps. olive oil\n1 pack Beyond Meatballs\n1 pc. ciabatta bread\n⅓ cup marinara sauce\n½ cup mozzarella cheese, shredded\n1 tbsp. parsley, chopped\n\nProcedure\n\n1. Preheat oven to 350°F.\n2. Set pan over medium heat. Add olive oil, then fry Beyond Meatballs until nicely browned. Set aside.\n3. Slice ciabatta bread in half and toast. Spread half of the marinara sauce and add the cooked meatballs on top.\n4. Cover meatballs with the remaining sauce and top with mozzarella cheese.\n5. Bake for 5-7 minutes until cheese is golden brown. Garnish with chopped parsley.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Ever heard of a Meat-Free Meatball Sandwich? \n\nBeyond Meatballs are now available at #TheMarketplace, and this recipe contains a medley of rich and moreish flavors such as marinara sauce and mozzarella cheese served in between slices of toasted ciabatta. Don’t forget to enjoy this hearty sandwich with your favorite potato chips!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Beyond Meat"
     ],
@@ -363,8 +363,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "20 minutes",
       "yield": "1-2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. olive oil\n1 pack Beyond Meatballs\n1 pc. ciabatta bread\n⅓ cup marinara sauce\n½ cup mozzarella cheese, shredded\n1 tbsp. parsley, chopped",
-      "procedure": "Procedure\nPreheat oven to 350°F.\nSet pan over medium heat. Add olive oil, then fry Beyond Meatballs until nicely browned. Set aside.\nSlice ciabatta bread in half and toast. Spread half of the marinara sauce and add the cooked meatballs on top.\nCover meatballs with the remaining sauce and top with mozzarella cheese.\nBake for 5-7 minutes until cheese is golden brown. Garnish with chopped parsley."
+      "ingredients": "2 tbsps. olive oil\n1 pack Beyond Meatballs\n1 pc. ciabatta bread\n⅓ cup marinara sauce\n½ cup mozzarella cheese, shredded\n1 tbsp. parsley, chopped",
+      "procedure": "Preheat oven to 350°F.\nSet pan over medium heat. Add olive oil, then fry Beyond Meatballs until nicely browned. Set aside.\nSlice ciabatta bread in half and toast. Spread half of the marinara sauce and add the cooked meatballs on top.\nCover meatballs with the remaining sauce and top with mozzarella cheese.\nBake for 5-7 minutes until cheese is golden brown. Garnish with chopped parsley."
     },
     "photo": {
       "filename": "IG15.jpg",
@@ -380,7 +380,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "Trying to cut down on meat but craving a good Korean meal?\n\nAdd a pack of Veega Meat-Free Bulgogi the next time you shop at #TheMarketplace and create your own Veega Bulgogi Rice Bowl at home with some cucumbers and carrots. Sprinkle with sesame seeds and add more gochujang (Korean hot pepper paste) if you want it extra fiery!\n\nServing Time: 10 minutes\nYield: 2 servings\n\nIngredients\n\n1 pack Veega Meat-Free Bulgogi\n2 tbsps. red chili\n2 cups rice, cooked\n1 cup cucumber, sliced into ribbons\n¾ cup carrot, julienned\n1 tbsp. sesame seeds\n\nProcedure\n\n1. Set a pan over medium heat, then add Veega Meat-Free Bulgogi and red chili. Cook until reheated, then set aside.\n2. Fill two bowls with rice. Split cooked Veega Bulgogi into two, and add over the rice.\n3. Top with cucumber and carrots. Garnish with sesame seeds.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Trying to cut down on meat but craving a good Korean meal?\n\nAdd a pack of Veega Meat-Free Bulgogi the next time you shop at #TheMarketplace and create your own Veega Bulgogi Rice Bowl at home with some cucumbers and carrots. Sprinkle with sesame seeds and add more gochujang (Korean hot pepper paste) if you want it extra fiery!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Veega"
     ],
@@ -388,8 +388,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "10 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 pack Veega Meat-Free Bulgogi\n2 tbsps. red chili\n2 cups rice, cooked\n1 cup cucumber, sliced into ribbons\n¾ cup carrot, julienned\n1 tbsp. sesame seeds",
-      "procedure": "Procedure\nSet a pan over medium heat, then add Veega Meat-Free Bulgogi and red chili. Cook until reheated, then set aside.\nFill two bowls with rice. Split cooked Veega Bulgogi into two, and add over the rice.\nTop with cucumber and carrots. Garnish with sesame seeds."
+      "ingredients": "1 pack Veega Meat-Free Bulgogi\n2 tbsps. red chili\n2 cups rice, cooked\n1 cup cucumber, sliced into ribbons\n¾ cup carrot, julienned\n1 tbsp. sesame seeds",
+      "procedure": "Set a pan over medium heat, then add Veega Meat-Free Bulgogi and red chili. Cook until reheated, then set aside.\nFill two bowls with rice. Split cooked Veega Bulgogi into two, and add over the rice.\nTop with cucumber and carrots. Garnish with sesame seeds."
     },
     "photo": {
       "filename": "IG16.jpg",
@@ -405,7 +405,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "Enjoy this Tapa Breakfast Burrito recipe without the meat, thanks to Veega Meat-Free Tapa!\n\nSimply cook the meat-free tapa in a pan along with some garlic rice and scrambled eggs, and roll in a tortilla. It tastes just like the real thing! #TheMarketplace carries a wide array of meat-free alternatives, so don’t forget to check them out the next time you shop for groceries!\n\nServing Time: 30-35 minutes\nYield: 4 servings\n\nIngredients\n\n2 packs Veega Meat-Free Tapa\n2 tbsps. oil\n3 tbsps. garlic, minced\n3 cups rice, day old\nSalt to taste\n5 eggs, beaten\n4 tortilla wraps\n1 lime, sliced into wedges\n\nProcedure\n\n1. Set a pan over medium heat, then add Veega Meat-Free Tapa and cook until reheated. Set aside\n2. Using the same pan, add oil and garlic. Cook until golden brown, then add cooked rice and season with salt.\n3. In another pan, cook eggs until fluffy.\n4. Fill tortilla wrap with cooked Veega Tapa, garlic rice and scrambled eggs. Fold the edges and roll, then cut in half.\n5. Serve with lime wedges and tomato cucumber salad.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Enjoy this Tapa Breakfast Burrito recipe without the meat, thanks to Veega Meat-Free Tapa!\n\nSimply cook the meat-free tapa in a pan along with some garlic rice and scrambled eggs, and roll in a tortilla. It tastes just like the real thing! #TheMarketplace carries a wide array of meat-free alternatives, so don’t forget to check them out the next time you shop for groceries!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Veega"
     ],
@@ -413,8 +413,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "30-35 minutes",
       "yield": "4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 packs Veega Meat-Free Tapa\n2 tbsps. oil\n3 tbsps. garlic, minced\n3 cups rice, day old\nSalt to taste\n5 eggs, beaten\n4 tortilla wraps\n1 lime, sliced into wedges",
-      "procedure": "Procedure\nSet a pan over medium heat, then add Veega Meat-Free Tapa and cook until reheated. Set aside\nUsing the same pan, add oil and garlic. Cook until golden brown, then add cooked rice and season with salt.\nIn another pan, cook eggs until fluffy.\nFill tortilla wrap with cooked Veega Tapa, garlic rice and scrambled eggs. Fold the edges and roll, then cut in half.\nServe with lime wedges and tomato cucumber salad."
+      "ingredients": "2 packs Veega Meat-Free Tapa\n2 tbsps. oil\n3 tbsps. garlic, minced\n3 cups rice, day old\nSalt to taste\n5 eggs, beaten\n4 tortilla wraps\n1 lime, sliced into wedges",
+      "procedure": "Set a pan over medium heat, then add Veega Meat-Free Tapa and cook until reheated. Set aside\nUsing the same pan, add oil and garlic. Cook until golden brown, then add cooked rice and season with salt.\nIn another pan, cook eggs until fluffy.\nFill tortilla wrap with cooked Veega Tapa, garlic rice and scrambled eggs. Fold the edges and roll, then cut in half.\nServe with lime wedges and tomato cucumber salad."
     },
     "photo": {
       "filename": "IG17.jpg",
@@ -430,7 +430,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "Prepare these easy Corned Beef Taquitos in under half an hour with Ox & Palm Chunky Corned Beef!\n\nThe appetizing combination of taco seasoning, garlic, beef, and mozzarella will definitely beg for second servings. Fresh sprigs of cilantro also brightens up each bite and cuts through the richness of the corned beef taco mixture. Serve alongside your favorite salsa and get all the ingredients you need fresh from #TheMarketplace!\n\nServing Time: 20 minutes\nYield: 6 pieces\n\nIngredients\n\n1 tbsp. oil\n½ cup onion, diced\n2 tbsps. garlic, minced\n2 cans Ox & Palm Chunky Corned Beef\n3 tbsps. taco seasoning\nSalt and pepper to taste\n½ cup cilantro sprigs, chopped\n1 cup mozzarella cheese, grated\n6 tortilla wraps\n\nProcedure\n\n1. Preheat oven to 175°C. \n2. Heat up oil in a pan over medium heat. Sauté onion and garlic until soft. Add in Ox & Palm Chunky Corned Beef, and cook until juices have evaporated. \n3. Mix in taco seasoning and season with salt and pepper to taste. Turn off heat, then mix in cilantro. \n4. Fill tortillas with the corned beef mixture and cheese. Roll to secure, then place on a baking tray. Bake for 8-10 minutes, or until cheese is melted and tortillas are nicely toasted. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Prepare these easy Corned Beef Taquitos in under half an hour with Ox & Palm Chunky Corned Beef!\n\nThe appetizing combination of taco seasoning, garlic, beef, and mozzarella will definitely beg for second servings. Fresh sprigs of cilantro also brightens up each bite and cuts through the richness of the corned beef taco mixture. Serve alongside your favorite salsa and get all the ingredients you need fresh from #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Ox & Palm"
     ],
@@ -438,8 +438,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "20 minutes",
       "yield": "6 pieces",
       "tips": "",
-      "ingredients": "Ingredients\n1 tbsp. oil\n½ cup onion, diced\n2 tbsps. garlic, minced\n2 cans Ox & Palm Chunky Corned Beef\n3 tbsps. taco seasoning\nSalt and pepper to taste\n½ cup cilantro sprigs, chopped\n1 cup mozzarella cheese, grated\n6 tortilla wraps",
-      "procedure": "Procedure\nPreheat oven to 175°C. \nHeat up oil in a pan over medium heat. Sauté onion and garlic until soft. Add in Ox & Palm Chunky Corned Beef, and cook until juices have evaporated. \nMix in taco seasoning and season with salt and pepper to taste. Turn off heat, then mix in cilantro. \nFill tortillas with the corned beef mixture and cheese. Roll to secure, then place on a baking tray. Bake for 8-10 minutes, or until cheese is melted and tortillas are nicely toasted."
+      "ingredients": "1 tbsp. oil\n½ cup onion, diced\n2 tbsps. garlic, minced\n2 cans Ox & Palm Chunky Corned Beef\n3 tbsps. taco seasoning\nSalt and pepper to taste\n½ cup cilantro sprigs, chopped\n1 cup mozzarella cheese, grated\n6 tortilla wraps",
+      "procedure": "Preheat oven to 175°C. \nHeat up oil in a pan over medium heat. Sauté onion and garlic until soft. Add in Ox & Palm Chunky Corned Beef, and cook until juices have evaporated. \nMix in taco seasoning and season with salt and pepper to taste. Turn off heat, then mix in cilantro. \nFill tortillas with the corned beef mixture and cheese. Roll to secure, then place on a baking tray. Bake for 8-10 minutes, or until cheese is melted and tortillas are nicely toasted."
     },
     "photo": {
       "filename": "IG18.jpg",
@@ -455,7 +455,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "Made popular by the trendy New York café Serendipity 3, Frozen Hot Chocolate seems like a huge irony of a dessert drink, but it is, without a doubt, a most delicious one.\n\nHave the famous New York beverage right at home with this recipe for Frozen Hot Chocolate made with Elle & Vire Whipping Cream. Turn on your favorite jazz tunes and savor each sip, just like you would in the Big Apple. Head over to #TheMarketplace now and shop all the ingredients you need.\n\nServing Time: 45 minutes\nYield: 2 servings\n\nIngredients\n\n2 cups milk\n¼ cup cacao powder\n¾ cup semi sweet chocolate, chopped\n1/4 cup sugar\n2 cups Elle & Vire Whipping Cream, chilled\n¼ tsp vanilla extract\n1 tbsp. milk chocolate, shavings\n\nProcedure\n\n1. In a small saucepan, boil together milk, cacao powder and semi sweet chocolate until dissolved. Let cool completely, then chill for 30 minutes. \n2. Whisk together sugar, Elle & Vire Whipping Cream and vanilla until soft peaks form. Reserve about 2 tablespoons for topping later on. \n3. For the rest of the whipped cream, add in milk and chocolate mixture, then whip for 1-2 minutes more. \n4. Divide frozen hot chocolate into 2 glasses, then top with whipped cream and milk chocolate shavings. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Made popular by the trendy New York café Serendipity 3, Frozen Hot Chocolate seems like a huge irony of a dessert drink, but it is, without a doubt, a most delicious one.\n\nHave the famous New York beverage right at home with this recipe for Frozen Hot Chocolate made with Elle & Vire Whipping Cream. Turn on your favorite jazz tunes and savor each sip, just like you would in the Big Apple. Head over to #TheMarketplace now and shop all the ingredients you need.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Elle & Vire"
     ],
@@ -463,8 +463,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "45 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 cups milk\n¼ cup cacao powder\n¾ cup semi sweet chocolate, chopped\n1/4 cup sugar\n2 cups Elle & Vire Whipping Cream, chilled\n¼ tsp vanilla extract\n1 tbsp. milk chocolate, shavings",
-      "procedure": "Procedure\nIn a small saucepan, boil together milk, cacao powder and semi sweet chocolate until dissolved. Let cool completely, then chill for 30 minutes. \nWhisk together sugar, Elle & Vire Whipping Cream and vanilla until soft peaks form. Reserve about 2 tablespoons for topping later on. \nFor the rest of the whipped cream, add in milk and chocolate mixture, then whip for 1-2 minutes more. \nDivide frozen hot chocolate into 2 glasses, then top with whipped cream and milk chocolate shavings."
+      "ingredients": "2 cups milk\n¼ cup cacao powder\n¾ cup semi sweet chocolate, chopped\n1/4 cup sugar\n2 cups Elle & Vire Whipping Cream, chilled\n¼ tsp vanilla extract\n1 tbsp. milk chocolate, shavings",
+      "procedure": "In a small saucepan, boil together milk, cacao powder and semi sweet chocolate until dissolved. Let cool completely, then chill for 30 minutes. \nWhisk together sugar, Elle & Vire Whipping Cream and vanilla until soft peaks form. Reserve about 2 tablespoons for topping later on. \nFor the rest of the whipped cream, add in milk and chocolate mixture, then whip for 1-2 minutes more. \nDivide frozen hot chocolate into 2 glasses, then top with whipped cream and milk chocolate shavings."
     },
     "photo": {
       "filename": "IG19.jpg",
@@ -480,7 +480,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "Start your day with a delicious and nutritious Mango Strawberry Chia Pudding made with Goodday Original Cultured Milk Drink, which is packed with probiotics to aid in gut health and digestion. \n\nFruity and filling, feel free to add your other favorite fruits to this pudding. Don’t forget to get them fresh at #TheMarketplace!\n\nServing Time: 40 minutes\nYield: 1-2 servings\n\nIngredients\n\n1 cup Goodday Original Cultured Milk Drink\n¼ cup chia seeds\n3 tbsps. honey\n2 tbsps. strawberry jam\n½ cup granola\n1 cup mango, diced\n½ cup strawberry, diced\n1 tbsp. mint leaves\n\nProcedure\n\n1. Combine Goodday Original Cultured Milk Drink, chia seeds and honey. \n2. Divide into two. Mix in strawberry jam in one chia pudding portion. Refrigerate both for 30 minutes. \n3. Fill a glass with granola, plain chia pudding, mangoes, strawberry chia pudding and strawberries. Garnish with mint. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Start your day with a delicious and nutritious Mango Strawberry Chia Pudding made with Goodday Original Cultured Milk Drink, which is packed with probiotics to aid in gut health and digestion. \n\nFruity and filling, feel free to add your other favorite fruits to this pudding. Don’t forget to get them fresh at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Goodday"
     ],
@@ -488,8 +488,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "40 minutes",
       "yield": "1-2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup Goodday Original Cultured Milk Drink\n¼ cup chia seeds\n3 tbsps. honey\n2 tbsps. strawberry jam\n½ cup granola\n1 cup mango, diced\n½ cup strawberry, diced\n1 tbsp. mint leaves",
-      "procedure": "Procedure\nCombine Goodday Original Cultured Milk Drink, chia seeds and honey. \nDivide into two. Mix in strawberry jam in one chia pudding portion. Refrigerate both for 30 minutes. \nFill a glass with granola, plain chia pudding, mangoes, strawberry chia pudding and strawberries. Garnish with mint."
+      "ingredients": "1 cup Goodday Original Cultured Milk Drink\n¼ cup chia seeds\n3 tbsps. honey\n2 tbsps. strawberry jam\n½ cup granola\n1 cup mango, diced\n½ cup strawberry, diced\n1 tbsp. mint leaves",
+      "procedure": "Combine Goodday Original Cultured Milk Drink, chia seeds and honey. \nDivide into two. Mix in strawberry jam in one chia pudding portion. Refrigerate both for 30 minutes. \nFill a glass with granola, plain chia pudding, mangoes, strawberry chia pudding and strawberries. Garnish with mint."
     },
     "photo": {
       "filename": "IG20.jpg",
@@ -505,7 +505,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "We have a feeling that this Reverse Grilled Ham & Cheese Sandwich will soon be your next favorite go-to recipe.\n\nAll you need is 10 minutes, along with some really good cheese such as President Edam Cheese, which is made from premium dairy and is sweet and nutty in taste. Add the ingredients below to your cart the next time you shop at #TheMarketplace!\n\nServing Time: 10 minutes\nYield: 2 pieces\n\nIngredients\n\n2 tbsps. butter\n4 slices French bread\n6 slices ham\n1 pack President Edam Cheese\n½ cup flat leaf parsley\n\nProcedure\n\n1. Preheat oven to 190°C at broil. \n2. Melt butter in a pan. Once foaming, toast French bread on both sides. \n3. Fill each sandwich with 3 slices of ham and 2 slices of President Edam Cheese. Top each with another slice of President Edam Cheese, then broil for 5 minutes. \n4. Garnish with parsley. \n\nDid you know? You can now get your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "We have a feeling that this Reverse Grilled Ham & Cheese Sandwich will soon be your next favorite go-to recipe.\n\nAll you need is 10 minutes, along with some really good cheese such as President Edam Cheese, which is made from premium dairy and is sweet and nutty in taste. Add the ingredients below to your cart the next time you shop at #TheMarketplace!\n\nDid you know? You can now get your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "President"
     ],
@@ -513,8 +513,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "10 minutes",
       "yield": "2 pieces",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. butter\n4 slices French bread\n6 slices ham\n1 pack President Edam Cheese\n½ cup flat leaf parsley",
-      "procedure": "Procedure\nPreheat oven to 190°C at broil. \nMelt butter in a pan. Once foaming, toast French bread on both sides. \nFill each sandwich with 3 slices of ham and 2 slices of President Edam Cheese. Top each with another slice of President Edam Cheese, then broil for 5 minutes. \nGarnish with parsley."
+      "ingredients": "2 tbsps. butter\n4 slices French bread\n6 slices ham\n1 pack President Edam Cheese\n½ cup flat leaf parsley",
+      "procedure": "Preheat oven to 190°C at broil. \nMelt butter in a pan. Once foaming, toast French bread on both sides. \nFill each sandwich with 3 slices of ham and 2 slices of President Edam Cheese. Top each with another slice of President Edam Cheese, then broil for 5 minutes. \nGarnish with parsley."
     },
     "photo": {
       "filename": "IG21.jpg",
@@ -530,7 +530,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "It’s always nice to have a cold and sweet ready-to-eat treat in your fridge or freezer.\n\nThese Frozen Granola Yoghurt Cups made with Parmalat Strawberry Yoghurt tick all those boxes and come with an additional boost of health! Make them ahead of time or whip up a batch to snack on during the weekend. They’re so good and luscious, you might have to make two batches instead of one! Find Parmalat Yoghurt and other healthy dairy products at #TheMarketplace.\n\nServing Time: 3 hours\nYield: 12 servings\n\nIngredients\n\n3/4 cup peanut butter\n3 tbsps. honey\n2 cups granola\n½ tsp. flaky salt\n2 ⅓ cup Parmalat Strawberry Yoghurt\n1 cup frozen cranberries\n⅓ cup pistachios, chopped\n\nProcedure\n\n1. In a microwavable bowl, combine peanut butter and honey. Heat for 30 seconds or until melted. Mix in granola and flaky salt.\n2. Fill each lined 12 muffin tray with 2 tablespoons of the granola base and press firmly. Freeze for 20 minutes.\n3. Pour in Parmalat Strawberry Yoghurt and top with frozen cranberries and chopped pistachios.\n4. Freeze for at least 2 hours to set.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "It’s always nice to have a cold and sweet ready-to-eat treat in your fridge or freezer.\n\nThese Frozen Granola Yoghurt Cups made with Parmalat Strawberry Yoghurt tick all those boxes and come with an additional boost of health! Make them ahead of time or whip up a batch to snack on during the weekend. They’re so good and luscious, you might have to make two batches instead of one! Find Parmalat Yoghurt and other healthy dairy products at #TheMarketplace.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Parmalat"
     ],
@@ -538,8 +538,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "3 hours",
       "yield": "12 servings",
       "tips": "",
-      "ingredients": "Ingredients\n3/4 cup peanut butter\n3 tbsps. honey\n2 cups granola\n½ tsp. flaky salt\n2 ⅓ cup Parmalat Strawberry Yoghurt\n1 cup frozen cranberries\n⅓ cup pistachios, chopped",
-      "procedure": "Procedure\nIn a microwavable bowl, combine peanut butter and honey. Heat for 30 seconds or until melted. Mix in granola and flaky salt.\nFill each lined 12 muffin tray with 2 tablespoons of the granola base and press firmly. Freeze for 20 minutes.\nPour in Parmalat Strawberry Yoghurt and top with frozen cranberries and chopped pistachios.\nFreeze for at least 2 hours to set."
+      "ingredients": "3/4 cup peanut butter\n3 tbsps. honey\n2 cups granola\n½ tsp. flaky salt\n2 ⅓ cup Parmalat Strawberry Yoghurt\n1 cup frozen cranberries\n⅓ cup pistachios, chopped",
+      "procedure": "In a microwavable bowl, combine peanut butter and honey. Heat for 30 seconds or until melted. Mix in granola and flaky salt.\nFill each lined 12 muffin tray with 2 tablespoons of the granola base and press firmly. Freeze for 20 minutes.\nPour in Parmalat Strawberry Yoghurt and top with frozen cranberries and chopped pistachios.\nFreeze for at least 2 hours to set."
     },
     "photo": {
       "filename": "IG22.jpg",
@@ -574,7 +574,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "Craving some crispy pork sandwiches? Give them an Oriental touch and try out this recipe for Crispy Pork Bao Buns made with The Good Meat’s Crispy Pork Roll.\n\nSimply fry the pork roll slices in a pan and layer with cucumber, mayonnaise, sriracha, carrots, chili, and cilantro in between freshly steamed mantou buns. You’ll get delightful and satisfying bao buns bursting with refreshing flavors and contrasting textures. Get all the ingredients you need for this recipe at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 4-6 pieces\n\nIngredients\n\n½ cup mayonnaise\n2 tbsps. sriracha\nSalt and pepper to taste\n½ cup canola oil \n1 pack The Good Meat Crispy Pork Roll\n4 mantou buns\n¾ cup cucumber, slices\n1 cup carrot, julienned\n⅛ cup red chili, sliced\n½ cup cilantro sprigs\n\nProcedure\n\n1. Combine mayonnaise and sriracha. Season with salt and pepper. \n2. In a frying pan over medium-high heat, add in canola oil. Fry The Good Meat Crispy Pork Rolls until crispy and golden brown on both sides, about 2 minutes per side. \n3. Microwave or steam mantou buns for 4 minutes. Once cool enough to handle, slice in half. \n4. To assemble, spread a layer of sriracha mayonnaise on mantou buns. Fill with The Good Meat Crispy Pork Roll, cucumber, carrots, red chili and cilantro. \n5. Serve remaining sriracha mayonnaise on the side. \n\nDid you know? You can now get your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Craving some crispy pork sandwiches? Give them an Oriental touch and try out this recipe for Crispy Pork Bao Buns made with The Good Meat’s Crispy Pork Roll.\n\nSimply fry the pork roll slices in a pan and layer with cucumber, mayonnaise, sriracha, carrots, chili, and cilantro in between freshly steamed mantou buns. You’ll get delightful and satisfying bao buns bursting with refreshing flavors and contrasting textures. Get all the ingredients you need for this recipe at #TheMarketplace!\n\nDid you know? You can now get your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "The Good Meat"
     ],
@@ -582,8 +582,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "15 minutes",
       "yield": "4-6 pieces",
       "tips": "",
-      "ingredients": "Ingredients\n½ cup mayonnaise\n2 tbsps. sriracha\nSalt and pepper to taste\n½ cup canola oil \n1 pack The Good Meat Crispy Pork Roll\n4 mantou buns\n¾ cup cucumber, slices\n1 cup carrot, julienned\n⅛ cup red chili, sliced\n½ cup cilantro sprigs",
-      "procedure": "Procedure\nCombine mayonnaise and sriracha. Season with salt and pepper. \nIn a frying pan over medium-high heat, add in canola oil. Fry The Good Meat Crispy Pork Rolls until crispy and golden brown on both sides, about 2 minutes per side. \nMicrowave or steam mantou buns for 4 minutes. Once cool enough to handle, slice in half. \nTo assemble, spread a layer of sriracha mayonnaise on mantou buns. Fill with The Good Meat Crispy Pork Roll, cucumber, carrots, red chili and cilantro. \nServe remaining sriracha mayonnaise on the side."
+      "ingredients": "½ cup mayonnaise\n2 tbsps. sriracha\nSalt and pepper to taste\n½ cup canola oil \n1 pack The Good Meat Crispy Pork Roll\n4 mantou buns\n¾ cup cucumber, slices\n1 cup carrot, julienned\n⅛ cup red chili, sliced\n½ cup cilantro sprigs",
+      "procedure": "Combine mayonnaise and sriracha. Season with salt and pepper. \nIn a frying pan over medium-high heat, add in canola oil. Fry The Good Meat Crispy Pork Rolls until crispy and golden brown on both sides, about 2 minutes per side. \nMicrowave or steam mantou buns for 4 minutes. Once cool enough to handle, slice in half. \nTo assemble, spread a layer of sriracha mayonnaise on mantou buns. Fill with The Good Meat Crispy Pork Roll, cucumber, carrots, red chili and cilantro. \nServe remaining sriracha mayonnaise on the side."
     },
     "photo": {
       "filename": "IG24.jpg",
@@ -599,7 +599,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "If you’re looking for a meat-free alternative to chicken nuggets, then grab a pack of Quorn Crispy Nuggets the next time you visit #TheMarketplace. You’ll hardly be able to tell the difference between Quorn’s and your favorite fast food chain’s chicken nuggets.\n\nFry the nuggets and dress them in a delicious sweet-and-savory teriyaki sauce for an easy Asian bowl that’s hearty and delicious down to the last bite. \n\nServing Time: 25 minutes\nYield: 2 servings\n\nIngredients\n\n½ cup water\n2 tbsps. soy sauce\n3 tbsps. brown sugar\n½ tbsp. garlic powder\n¼ tsp. pepper\n1 tbsp. cornstarch dissolved in 1 tbsp. water\n1 cup oil\n1 pack Quorn Crispy Nuggets\n3 cups rice, cooked\n2 cups bok choy, shredded & blanched\n¼ cup spring onions, chopped\n1 tbsp. sesame seeds\n\nProcedure\n\n1. In a small saucepan, boil together water, soy sauce, brown sugar, garlic powder and pepper. Whisk in cornstarch slurry, and continue to cook until thick. Set aside. \n2. In a frying pan over medium-high heat, add in oil. Once hot, add in Quorn Crispy Nuggets and cook until golden brown on both sides, about 3 minutes per side. Drain on paper towels once cooked. \n3. Coat cooked Quorn Crispy Nuggets with the teriyaki sauce. Arrange on top of rice and bok choy. Garnish with spring onions and sesame seeds. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "If you’re looking for a meat-free alternative to chicken nuggets, then grab a pack of Quorn Crispy Nuggets the next time you visit #TheMarketplace. You’ll hardly be able to tell the difference between Quorn’s and your favorite fast food chain’s chicken nuggets.\n\nFry the nuggets and dress them in a delicious sweet-and-savory teriyaki sauce for an easy Asian bowl that’s hearty and delicious down to the last bite.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Quorn"
     ],
@@ -607,8 +607,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "25 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n½ cup water\n2 tbsps. soy sauce\n3 tbsps. brown sugar\n½ tbsp. garlic powder\n¼ tsp. pepper\n1 tbsp. cornstarch dissolved in 1 tbsp. water\n1 cup oil\n1 pack Quorn Crispy Nuggets\n3 cups rice, cooked\n2 cups bok choy, shredded & blanched\n¼ cup spring onions, chopped\n1 tbsp. sesame seeds",
-      "procedure": "Procedure\nIn a small saucepan, boil together water, soy sauce, brown sugar, garlic powder and pepper. Whisk in cornstarch slurry, and continue to cook until thick. Set aside. \nIn a frying pan over medium-high heat, add in oil. Once hot, add in Quorn Crispy Nuggets and cook until golden brown on both sides, about 3 minutes per side. Drain on paper towels once cooked. \nCoat cooked Quorn Crispy Nuggets with the teriyaki sauce. Arrange on top of rice and bok choy. Garnish with spring onions and sesame seeds."
+      "ingredients": "½ cup water\n2 tbsps. soy sauce\n3 tbsps. brown sugar\n½ tbsp. garlic powder\n¼ tsp. pepper\n1 tbsp. cornstarch dissolved in 1 tbsp. water\n1 cup oil\n1 pack Quorn Crispy Nuggets\n3 cups rice, cooked\n2 cups bok choy, shredded & blanched\n¼ cup spring onions, chopped\n1 tbsp. sesame seeds",
+      "procedure": "In a small saucepan, boil together water, soy sauce, brown sugar, garlic powder and pepper. Whisk in cornstarch slurry, and continue to cook until thick. Set aside. \nIn a frying pan over medium-high heat, add in oil. Once hot, add in Quorn Crispy Nuggets and cook until golden brown on both sides, about 3 minutes per side. Drain on paper towels once cooked. \nCoat cooked Quorn Crispy Nuggets with the teriyaki sauce. Arrange on top of rice and bok choy. Garnish with spring onions and sesame seeds."
     },
     "photo": {
       "filename": "IG25.jpg",
@@ -643,7 +643,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "Try this fun and creative way to enjoy spaghetti!\n\nShape the noodles into nests and top them off with PureFoods Tender Juicy Spaghetti Sauce! Make them as cheesy as you desire, pop them in the oven, and enjoy the crunchy textures that are bursting with the familiar and nostalgic spaghetti-and-hotdog combination we all love. Find all the ingredients you need at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 12-16 pieces\n\nIngredients\n\n1 pack (1kg) Purefoods Tender Juicy Spaghetti Sauce \n1kg spaghetti noodles, cooked according to package instructions\nSalt and pepper to taste\n1 cup mozzarella cheese\n1 cup parmesan cheese \n2 eggs, whisked\nBasil sprigs for garnish \n\nProcedure\n\n1. Preheat oven to 200°C. Grease a muffin pan.\n2. In a large pot, heat up Purefoods Tender Juicy Spaghetti Sauce. Reserve 2 cups of the sauce for topping later on. Mix in cooked spaghetti noodles. Season with salt and pepper. \n3. Turn off the heat, then mix in mozzarella cheese, parmesan cheese and eggs. Toss together with the sauce and noodles until well combined. \n4. Divide spaghetti into the greased muffin pans. Bake for 15-18 minutes.\n5. Top with more spaghetti sauce and garnish with basil sprigs. \n\nDid you know? You can now get your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Try this fun and creative way to enjoy spaghetti!\n\nShape the noodles into nests and top them off with PureFoods Tender Juicy Spaghetti Sauce! Make them as cheesy as you desire, pop them in the oven, and enjoy the crunchy textures that are bursting with the familiar and nostalgic spaghetti-and-hotdog combination we all love. Find all the ingredients you need at #TheMarketplace!\n\nDid you know? You can now get your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Purefoods"
     ],
@@ -651,8 +651,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "30 minutes",
       "yield": "12-16 pieces",
       "tips": "",
-      "ingredients": "Ingredients\n1 pack (1kg) Purefoods Tender Juicy Spaghetti Sauce \n1kg spaghetti noodles, cooked according to package instructions \nSalt and pepper to taste\n1 cup mozzarella cheese\n1 cup parmesan cheese \n2 eggs, whisked\nBasil sprigs for garnish",
-      "procedure": "Procedure\nPreheat oven to 200°C. Grease a muffin pan. \nIn a large pot, heat up Purefoods Tender Juicy Spaghetti Sauce. Reserve 2 cups of the sauce for topping later on. Mix in cooked spaghetti noodles. Season with salt and pepper. \nTurn off the heat, then mix in mozzarella cheese, parmesan cheese and eggs. Toss together with the sauce and noodles until well combined. \nDivide spaghetti into the greased muffin pans. Bake for 15-18 minutes. \nTop with more spaghetti sauce and garnish with basil sprigs."
+      "ingredients": "1 pack (1kg) Purefoods Tender Juicy Spaghetti Sauce \n1kg spaghetti noodles, cooked according to package instructions \nSalt and pepper to taste\n1 cup mozzarella cheese\n1 cup parmesan cheese \n2 eggs, whisked\nBasil sprigs for garnish",
+      "procedure": "Preheat oven to 200°C. Grease a muffin pan. \nIn a large pot, heat up Purefoods Tender Juicy Spaghetti Sauce. Reserve 2 cups of the sauce for topping later on. Mix in cooked spaghetti noodles. Season with salt and pepper. \nTurn off the heat, then mix in mozzarella cheese, parmesan cheese and eggs. Toss together with the sauce and noodles until well combined. \nDivide spaghetti into the greased muffin pans. Bake for 15-18 minutes. \nTop with more spaghetti sauce and garnish with basil sprigs."
     },
     "photo": {
       "filename": "FB1.jpg",
@@ -687,7 +687,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "Running out of ideas on how to enjoy lechon? Try this Pan con Lechon for something new!\n\nSimply pile Zubuchon’s Boneless Lechon on a baguette along with some cabbage, relish, mayonnaise, and add a bit of cheese if you wish! Enjoy with a side of chips, or salad for a healthier touch. Get all the ingredients you need fresh only at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 2 sandwiches\n\nIngredients\n\n¼ cup vegetable oil\n1 pack Zubuchon Boneless Lechon \n2 pcs. mini baguette \n½ cup mayonnaise \n2 tbsps. ketchup\n2 tbsps. pickle relish\n1 cup cabbage, sliced thinly \n½ cup red onions, sliced thinly \n\nProcedure\n\n1. In a pan over medium heat, add in oil. Fry Zubuchon Boneless Lechon until crispy and nicely browned. \n2. Shred lechon meat and slice lechon skin into strips. Set aside.\n3. Toast baguette until warmed through. \n4. Combine mayonnaise, ketchup and pickle relish. Toss in cabbage and red onions until well coated with the sauce.\n5. Fill each baguette with coleslaw, then top with lechon shreds.  \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Running out of ideas on how to enjoy lechon? Try this Pan con Lechon for something new!\n\nSimply pile Zubuchon’s Boneless Lechon on a baguette along with some cabbage, relish, mayonnaise, and add a bit of cheese if you wish! Enjoy with a side of chips, or salad for a healthier touch. Get all the ingredients you need fresh only at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Zubuchon"
     ],
@@ -695,8 +695,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "15 minutes",
       "yield": "2 sandwiches",
       "tips": "",
-      "ingredients": "Ingredients\n¼ cup vegetable oil \n1 pack Zubuchon Boneless Lechon \n2 pcs. mini baguette \n½ cup mayonnaise \n2 tbsps. ketchup\n2 tbsps. pickle relish\n1 cup cabbage, sliced thinly \n½ cup red onions, sliced thinly",
-      "procedure": "Procedure\nIn a pan over medium heat, add in oil. Fry Zubuchon Boneless Lechon until crispy and nicely browned. \nShred lechon meat and slice lechon skin into strips. Set aside. \nToast baguette until warmed through. \nCombine mayonnaise, ketchup and pickle relish. Toss in cabbage and red onions until well coated with the sauce. \nFill each baguette with coleslaw, then top with lechon shreds."
+      "ingredients": "¼ cup vegetable oil \n1 pack Zubuchon Boneless Lechon \n2 pcs. mini baguette \n½ cup mayonnaise \n2 tbsps. ketchup\n2 tbsps. pickle relish\n1 cup cabbage, sliced thinly \n½ cup red onions, sliced thinly",
+      "procedure": "In a pan over medium heat, add in oil. Fry Zubuchon Boneless Lechon until crispy and nicely browned. \nShred lechon meat and slice lechon skin into strips. Set aside. \nToast baguette until warmed through. \nCombine mayonnaise, ketchup and pickle relish. Toss in cabbage and red onions until well coated with the sauce. \nFill each baguette with coleslaw, then top with lechon shreds."
     },
     "photo": {
       "filename": "FB3.jpg",
@@ -712,7 +712,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "Get a fuller, bigger, and meatier pizza bite with these Pizza Cups made with Beretta Salame Piccante!\n\nFiery, smoky, and bursting with robust flavors, this brand of salami pairs so well with mozzarella cheese and marinara. #TheMarketplace carries Beretta Salame Piccante, along with other imported premium meats. Shop now and try this easy recipe today!\n\nServing Time: 15 minutes\nYield: 12 pieces\n\nIngredients\n\n1 pack Beretta Salame Piccante, sliced \n12 pcs. mini tortilla \n1 cup marinara sauce \n2 cups mozzarella cheese\nBasil sprigs for garnish \n\nProcedure\n\n1. Preheat oven to 175°C. Grease a muffin pan. \n2. In a dry pan over medium-high heat, fry sliced Beretta Salame Piccante until toasted.\n3. Cut tortillas into rounds just big enough to fit the slots in the muffin pan. \n4. Place tortilla rounds into the slots, pressing each into the mold. Top with marinara sauce, then mozzarella cheese and finally, with the Beretta Salame Piccante. \n5. Bake for 8-10 minutes, or until cheese is melted and tortilla is nicely toasted. \n6. Garnish with basil right before serving. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Get a fuller, bigger, and meatier pizza bite with these Pizza Cups made with Beretta Salame Piccante!\n\nFiery, smoky, and bursting with robust flavors, this brand of salami pairs so well with mozzarella cheese and marinara. #TheMarketplace carries Beretta Salame Piccante, along with other imported premium meats. Shop now and try this easy recipe today!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Beretta"
     ],
@@ -720,8 +720,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "15 minutes",
       "yield": "12 pieces",
       "tips": "",
-      "ingredients": "Ingredients\n1 pack Beretta Salame Piccante, sliced \n12 pcs. mini tortilla \n1 cup marinara sauce \n2 cups mozzarella cheese\nBasil sprigs for garnish",
-      "procedure": "Procedure\nPreheat oven to 175°C. Grease a muffin pan. \nIn a dry pan over medium-high heat, fry sliced Beretta Salame Piccante until toasted. \nCut tortillas into rounds just big enough to fit the slots in the muffin pan. \nPlace tortilla rounds into the slots, pressing each into the mold. Top with marinara sauce, then mozzarella cheese and finally, with the Beretta Salame Piccante. \nBake for 8-10 minutes, or until cheese is melted and tortilla is nicely toasted. \nGarnish with basil right before serving."
+      "ingredients": "1 pack Beretta Salame Piccante, sliced \n12 pcs. mini tortilla \n1 cup marinara sauce \n2 cups mozzarella cheese\nBasil sprigs for garnish",
+      "procedure": "Preheat oven to 175°C. Grease a muffin pan. \nIn a dry pan over medium-high heat, fry sliced Beretta Salame Piccante until toasted. \nCut tortillas into rounds just big enough to fit the slots in the muffin pan. \nPlace tortilla rounds into the slots, pressing each into the mold. Top with marinara sauce, then mozzarella cheese and finally, with the Beretta Salame Piccante. \nBake for 8-10 minutes, or until cheese is melted and tortilla is nicely toasted. \nGarnish with basil right before serving."
     },
     "photo": {
       "filename": "FB4.jpg",
@@ -737,7 +737,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "Entertaining at home? There’s no need to buy a fancy fondue set! Simply grab a pack of Isigny Sainte-Mère L'instant Fondue at #TheMarketplace, get your favorite fresh vegetables and fruits, and plate accordingly!\n\nQuick, easy, and delicious, Isigny Sainte-Mère L'instant Fondue uses a combination of Camembert, Pont l’Eveque, and Livarot for balanced flavors that go well with just about anything! \n\nServing Time: 10 minutes\nYield: 3-5 servings\n\nIngredients\n\n1 baguette \n1 celery\n2 carrots\n2 green apples\n1 cup cherry tomatoes\n1 bundle grapes \n8-10 ham slices\n1 pack Isigny Sainte-Mère L'instant Fondue \n\nProcedure\n\n1. Slice baguette into cubes, then toast until crispy and golden brown. \n2. Peel celery and carrots, then slice into matchsticks. Slice green apples into wedges. \n3. Arrange bread cubes, celery, carrots, green apples, cherry tomatoes, grapes and ham into a serving platter. \n4. Remove the plastic cover of L’Instant Fondue, then microwave for 4-5 minutes, or until cheese is fully melted.\n5. Serve L’Instant Fondue with your dipper platter. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Entertaining at home? There’s no need to buy a fancy fondue set! Simply grab a pack of Isigny Sainte-Mère L'instant Fondue at #TheMarketplace, get your favorite fresh vegetables and fruits, and plate accordingly!\n\nQuick, easy, and delicious, Isigny Sainte-Mère L'instant Fondue uses a combination of Camembert, Pont l’Eveque, and Livarot for balanced flavors that go well with just about anything!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Isigny"
     ],
@@ -745,8 +745,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "10 minutes",
       "yield": "3-5 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 baguette \n1 celery\n2 carrots\n2 green apples\n1 cup cherry tomatoes\n1 bundle grapes \n8-10 ham slices\n1 pack Isigny Sainte-Mère L'instant Fondue",
-      "procedure": "Procedure\nSlice baguette into cubes, then toast until crispy and golden brown. \nPeel celery and carrots, then slice into matchsticks. Slice green apples into wedges. \nArrange bread cubes, celery, carrots, green apples, cherry tomatoes, grapes and ham into a serving platter. \nRemove the plastic cover of L’Instant Fondue, then microwave for 4-5 minutes, or until cheese is fully melted. \nServe L’Instant Fondue with your dipper platter."
+      "ingredients": "1 baguette \n1 celery\n2 carrots\n2 green apples\n1 cup cherry tomatoes\n1 bundle grapes \n8-10 ham slices\n1 pack Isigny Sainte-Mère L'instant Fondue",
+      "procedure": "Slice baguette into cubes, then toast until crispy and golden brown. \nPeel celery and carrots, then slice into matchsticks. Slice green apples into wedges. \nArrange bread cubes, celery, carrots, green apples, cherry tomatoes, grapes and ham into a serving platter. \nRemove the plastic cover of L’Instant Fondue, then microwave for 4-5 minutes, or until cheese is fully melted. \nServe L’Instant Fondue with your dipper platter."
     },
     "photo": {
       "filename": "FB5.jpg",
@@ -800,7 +800,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "When you have leftover ham, you know it’s time to make some sandwiches!\n\nUsing Fuwa Fuwa Mini Milk Loaf, we made some Monte Cristo sandwiches. A hybrid of a French toast and a Croque-monsieur, layer each sandwich with ham and cheese, and finish them off with powdered sugar. Trust us when we say you’ll want to make these sandwiches over and over. Find all the ingredients you need at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 3 pieces\n\nIngredients\n\n1 egg \n1 cup milk \n1 tsp. vanilla \n1 pack Fuwa Fuwa Mini Milk Loaf \n¼ cup butter\n3 tbsps. strawberry jam \n3 ham slices \n3 cheddar cheese slices \nPowdered sugar for topping \n\nProcedure\n\n1. Whisk together egg, milk and vanilla. Dip each slice of Fuwa Fuwa Mini Milk Loaf briefly into the batter, letting excess batter drip.\n2. In a pan over medium heat, melt some butter. Fry coated bread slices until nicely browned on both sides. Do this by batches all the batter and bread slices are finished. \n3. Spread a tablespoon of strawberry jam on top of the fried bread, then top with one slice each of ham and cheddar cheese, then place another fried bread on top. Repeat for remaining ingredients. \n4. Dust with powdered sugar on top right before serving. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "When you have leftover ham, you know it’s time to make some sandwiches!\n\nUsing Fuwa Fuwa Mini Milk Loaf, we made some Monte Cristo sandwiches. A hybrid of a French toast and a Croque-monsieur, layer each sandwich with ham and cheese, and finish them off with powdered sugar. Trust us when we say you’ll want to make these sandwiches over and over. Find all the ingredients you need at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Fuwa Fuwa"
     ],
@@ -808,8 +808,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "15 minutes",
       "yield": "3 pieces",
       "tips": "",
-      "ingredients": "Ingredients\n1 egg \n1 cup milk \n1 tsp. vanilla \n1 pack Fuwa Fuwa Mini Milk Loaf \n¼ cup butter\n3 tbsps. strawberry jam \n3 ham slices \n3 cheddar cheese slices \nPowdered sugar for topping",
-      "procedure": "Procedure\nWhisk together egg, milk and vanilla. Dip each slice of Fuwa Fuwa Mini Milk Loaf briefly into the batter, letting excess batter drip. \nIn a pan over medium heat, melt some butter. Fry coated bread slices until nicely browned on both sides. Do this by batches all the batter and bread slices are finished. \nSpread a tablespoon of strawberry jam on top of the fried bread, then top with one slice each of ham and cheddar cheese, then place another fried bread on top. Repeat for remaining ingredients. \nDust with powdered sugar on top right before serving."
+      "ingredients": "1 egg \n1 cup milk \n1 tsp. vanilla \n1 pack Fuwa Fuwa Mini Milk Loaf \n¼ cup butter\n3 tbsps. strawberry jam \n3 ham slices \n3 cheddar cheese slices \nPowdered sugar for topping",
+      "procedure": "Whisk together egg, milk and vanilla. Dip each slice of Fuwa Fuwa Mini Milk Loaf briefly into the batter, letting excess batter drip. \nIn a pan over medium heat, melt some butter. Fry coated bread slices until nicely browned on both sides. Do this by batches all the batter and bread slices are finished. \nSpread a tablespoon of strawberry jam on top of the fried bread, then top with one slice each of ham and cheddar cheese, then place another fried bread on top. Repeat for remaining ingredients. \nDust with powdered sugar on top right before serving."
     },
     "photo": {
       "filename": "FB8.jpg",
@@ -825,7 +825,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "Remember when banoffee was the number one food trend?\n\nIn all fairness, you can never go wrong with the delicious combination of caramel and bananas, so here’s a recipe for Banoffee Pie that you can make at home, whenever you wish!\n\nWe think the secret to a great banoffee pie lies in the whipped cream, so make sure to use only Elle & Vire. Its premium quality makes it perfect for forming those soft peaks and with a taste that’s not too sweet. Find Elle & Vire products at #TheMarketplace!\n\nServing Time: 1 hour and 30 minutes\nYield: 1 9-inch pie\n\nIngredients\n\n(For the Crust)\n2 cups graham cracker crumbs \n⅓ cup white sugar \n½ tsp. salt \n⅓ cup unsalted butter, melted\n\n(For the Filling)\n½ cup salted butter \n½ cup brown sugar \n2 cups condensed milk\n\n(For the Topping)\n2 bananas, sliced \n3 tbsps. lemon juice\n2 cups Elle & Vire Whipping Cream, chilled \n¼ cup powdered sugar \n1 tsp. vanilla extract\n¼ cup milk chocolate, grated\n\nProcedure\n\n1. Preheat oven to 175°C. \n2. Combine graham cracker cumbers, sugar, salt and butter until well combined and the mixture clumps together. Press into a 9-inch pie plate, then bake for 10 minutes. Let cool completely. \n3. In a saucepan over medium-high heat, melt together butter and brown sugar. Once sugar is fully dissolved, whisk in condensed milk. Let boil for 3-5 minutes while continuously mixing. Let cool, then add to the crust. Freeze for 30 minutes, or until firm.\n4. Coat bananas with lemon juice. Arrange on top of the chilled toffee. \n5. Whisk together chilled Elle & Vire Whipping Cream, powdered sugar and vanilla extract until medium peaks form.\n6. Top assembled banoffee pie with whipped cream and a sprinkling of grated chocolate. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Remember when banoffee was the number one food trend?\n\nIn all fairness, you can never go wrong with the delicious combination of caramel and bananas, so here’s a recipe for Banoffee Pie that you can make at home, whenever you wish!\n\nWe think the secret to a great banoffee pie lies in the whipped cream, so make sure to use only Elle & Vire. Its premium quality makes it perfect for forming those soft peaks and with a taste that’s not too sweet. Find Elle & Vire products at #TheMarketplace!\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Elle & Vire"
     ],
@@ -833,8 +833,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "1 hour and 30 minutes",
       "yield": "1 9-inch pie",
       "tips": "",
-      "ingredients": "Ingredients\nCRUST:\n2 cups graham cracker crumbs \n⅓ cup white sugar \n½ tsp. salt \n⅓ cup unsalted butter, melted\nFILLING:\n½ cup salted butter \n½ cup brown sugar \n2 cups condensed milk\nTOPPING:\n2 bananas, sliced \n3 tbsps. lemon juice\n2 cups Elle & Vire Whipping Cream, chilled \n¼ cup powdered sugar \n1 tsp. vanilla extract\n¼ cup milk chocolate, grated",
-      "procedure": "Procedure\nPreheat oven to 175°C. \nCombine graham cracker cumbers, sugar, salt and butter until well combined and the mixture clumps together. Press into a 9-inch pie plate, then bake for 10 minutes. Let cool completely. \nIn a saucepan over medium-high heat, melt together butter and brown sugar. Once sugar is fully dissolved, whisk in condensed milk. Let boil for 3-5 minutes while continuously mixing. Let cool, then add to the crust. Freeze for 30 minutes, or until firm. \nCoat bananas with lemon juice. Arrange on top of the chilled toffee. \nWhisk together chilled Elle & Vire Whipping Cream, powdered sugar and vanilla extract until medium peaks form. \nTop assembled banoffee pie with whipped cream and a sprinkling of grated chocolate."
+      "ingredients": "CRUST:\n2 cups graham cracker crumbs \n⅓ cup white sugar \n½ tsp. salt \n⅓ cup unsalted butter, melted\nFILLING:\n½ cup salted butter \n½ cup brown sugar \n2 cups condensed milk\nTOPPING:\n2 bananas, sliced \n3 tbsps. lemon juice\n2 cups Elle & Vire Whipping Cream, chilled \n¼ cup powdered sugar \n1 tsp. vanilla extract\n¼ cup milk chocolate, grated",
+      "procedure": "Preheat oven to 175°C. \nCombine graham cracker cumbers, sugar, salt and butter until well combined and the mixture clumps together. Press into a 9-inch pie plate, then bake for 10 minutes. Let cool completely. \nIn a saucepan over medium-high heat, melt together butter and brown sugar. Once sugar is fully dissolved, whisk in condensed milk. Let boil for 3-5 minutes while continuously mixing. Let cool, then add to the crust. Freeze for 30 minutes, or until firm. \nCoat bananas with lemon juice. Arrange on top of the chilled toffee. \nWhisk together chilled Elle & Vire Whipping Cream, powdered sugar and vanilla extract until medium peaks form. \nTop assembled banoffee pie with whipped cream and a sprinkling of grated chocolate."
     },
     "photo": {
       "filename": "FB9.jpg",
@@ -850,7 +850,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "Vietnamese coffee is always a treat, but have you tried enjoying it with Dutch Mill Delight yoghurt instead of milk?\n\nWe know it sounds like an odd combination, but the tartness from the yoghurt actually brightens up the coffee flavors even more and tempers out the condensed milk’s sweetness. If you’re craving a Vietnamese coffee that’s not cloyingly sweet, this might be the recipe you’re looking for. Dutch Mill Delight, along with other yoghurt products, are available at #TheMarketplace!\n\nServing Time: 5-8 minutes\nYield: 2 servings\n\nIngredients\n\n2 tbsps. Vietnamese ground coffee\n¼ cup hot water \n1 ½ cups Dutch Mill Delight \n¼ cup condensed milk \n1 cup ice cubes \n\nProcedure\n\n1. Brew vietnamese coffee grounds, preferably using a Vietnamese Coffee Phin Filter. \n2. Combine Dutch Mill Delight and condensed milk. Divide into 2 serving glasses, then top each with coffee and ice. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Vietnamese coffee is always a treat, but have you tried enjoying it with Dutch Mill Delight yoghurt instead of milk?\n\nWe know it sounds like an odd combination, but the tartness from the yoghurt actually brightens up the coffee flavors even more and tempers out the condensed milk’s sweetness. If you’re craving a Vietnamese coffee that’s not cloyingly sweet, this might be the recipe you’re looking for. Dutch Mill Delight, along with other yoghurt products, are available at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Dutch Mill"
     ],
@@ -858,8 +858,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "5-8 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. Vietnamese ground coffee\n¼ cup hot water \n1 ½ cup Dutch Mill Delight \n¼ cup condensed milk \n1 cup ice cubes",
-      "procedure": "Procedure\nBrew vietnamese coffee grounds, preferably using a Vietnamese Coffee Phin Filter. \nCombine Dutch Mill Delight and condensed milk. Divide into 2 serving glasses, then top each with coffee and ice."
+      "ingredients": "2 tbsps. Vietnamese ground coffee\n¼ cup hot water \n1 ½ cup Dutch Mill Delight \n¼ cup condensed milk \n1 cup ice cubes",
+      "procedure": "Brew vietnamese coffee grounds, preferably using a Vietnamese Coffee Phin Filter. \nCombine Dutch Mill Delight and condensed milk. Divide into 2 serving glasses, then top each with coffee and ice."
     },
     "photo": {
       "filename": "FB10.jpg",
@@ -875,7 +875,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "Got a hankering for a sweet, savory, yet sophisticated snack? These Pear & Edam Crostinis can surely curb those cravings.\n\nEdam cheese is known for its firm texture and light, nutty flavor, making it the perfect cheese to use for these crostinis. We used Edam from President since it comes properly portioned. Not to mention, its premium quality definitely adds a lift to the sweet pears and balsamic onions. Find President dairy products at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 12 pieces\n\nIngredients\n\n1 baguette, sliced diagonally  \n¼ cup olive oil \nSalt and pepper to taste\n2 tbsps. butter \n2 white onions, sliced thinly \n1 tsp. salt \n1 tbsp. brown sugar\n1 tbsp. balsamic vinegar\n1 pack President Natural Edam Slices \n2 pears, cored and sliced thinly \n½ cup dried cranberries \n½ cup walnuts, toasted and chopped \n\nProcedure\n\n1. Drizzle baguette slices with olive oil, then season with salt and pepper. Toast until crisp and golden brown. \n2. In a pan over medium-high heat, melt butter. Add in onions and salt. Cook until onions are soft and translucent. Mix in sugar and balsamic vinegar. Cook until jammy. \n3. Top each toasted baguette with President Natural Edam Slices, pear slices, caramelized onions, dried cranberries and chopped walnuts. \n\nDid you know? You can now get your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Got a hankering for a sweet, savory, yet sophisticated snack? These Pear & Edam Crostinis can surely curb those cravings.\n\nEdam cheese is known for its firm texture and light, nutty flavor, making it the perfect cheese to use for these crostinis. We used Edam from President since it comes properly portioned. Not to mention, its premium quality definitely adds a lift to the sweet pears and balsamic onions. Find President dairy products at #TheMarketplace!\n\nDid you know? You can now get your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "President"
     ],
@@ -883,8 +883,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "15 minutes",
       "yield": "12 pieces",
       "tips": "",
-      "ingredients": "Ingredients\n1 baguette, sliced diagonally  \n¼ cup olive oil \nSalt and pepper to taste\n2 tbsps. butter \n2 white onions, sliced thinly \n1 tsp. salt \n1 tbsp. brown sugar\n1 tbsp. balsamic vinegar\n1 pack President Natural Edam Slices \n2 pears, cored and sliced thinly \n½ cup dried cranberries \n½ cup walnuts, toasted and chopped",
-      "procedure": "Procedure\nDrizzle baguette slices with olive oil, then season with salt and pepper. Toast until crisp and golden brown. \nIn a pan over medium-high heat, melt butter. Add in onions and salt. Cook until onions are soft and translucent. Mix in sugar and balsamic vinegar. Cook until jammy. \nTop each toasted baguette with President Natural Edam Slices, pear slices, caramelized onions, dried cranberries and chopped walnuts."
+      "ingredients": "1 baguette, sliced diagonally  \n¼ cup olive oil \nSalt and pepper to taste\n2 tbsps. butter \n2 white onions, sliced thinly \n1 tsp. salt \n1 tbsp. brown sugar\n1 tbsp. balsamic vinegar\n1 pack President Natural Edam Slices \n2 pears, cored and sliced thinly \n½ cup dried cranberries \n½ cup walnuts, toasted and chopped",
+      "procedure": "Drizzle baguette slices with olive oil, then season with salt and pepper. Toast until crisp and golden brown. \nIn a pan over medium-high heat, melt butter. Add in onions and salt. Cook until onions are soft and translucent. Mix in sugar and balsamic vinegar. Cook until jammy. \nTop each toasted baguette with President Natural Edam Slices, pear slices, caramelized onions, dried cranberries and chopped walnuts."
     },
     "photo": {
       "filename": "FB11.jpg",
@@ -900,7 +900,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "Cheesecakes can be daunting to make, so if you’re in need of a quick, sweet fix,  try these No-Bake Strawberry Yoghurt Cheesecake Cups made with Parmalat Strawberry Yoghurt.\n\nAll it takes is 20 minutes to prepare! Laced with delicious strawberries and honey and sitting atop a buttery graham cracker crust, this dessert snack is easy, quick to prepare, and delicious. Grab all the ingredients you need from #TheMarketplace!\n\nServing Time: 20 minutes\nYield: 4 servings\n\nIngredients\n\n1 cup graham cracker crumbs \n2 tbsps. white sugar \n¼ cup salted butter, melted \n4 ounce cream cheese, softened \n2 packs Parmalat Strawberry Yoghurt \n¼ cup honey \n16 strawberries, sliced\nMint sprigs for garnish\n\nProcedure\n\n1. Combine graham cracker crumbs, sugar, and butter. Divide into 4 serving glasses, then press firmly to make the cheesecake crust. Chill while you make the cheesecake filling.\n2. Whisk together cream cheese, Parmalat Strawberry Yoghurt and honey until smooth and well incorporated. Fold in most of the strawberries, reserving some for topping later on.\n3. Divide strawberry cheesecake filling into the chilled serving glasses, then top each with remaining strawberry slices. Garnish with mint. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Cheesecakes can be daunting to make, so if you’re in need of a quick, sweet fix,  try these No-Bake Strawberry Yoghurt Cheesecake Cups made with Parmalat Strawberry Yoghurt.\n\nAll it takes is 20 minutes to prepare! Laced with delicious strawberries and honey and sitting atop a buttery graham cracker crust, this dessert snack is easy, quick to prepare, and delicious. Grab all the ingredients you need from #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Parmalat"
     ],
@@ -908,8 +908,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "20 minutes",
       "yield": "4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup graham cracker crumbs \n2 tbsps. white sugar \n¼ cup salted butter, melted \n4 ounce cream cheese, softened \n2 packs Parmalat Strawberry Yoghurt \n¼ cup honey \n16 strawberries, sliced\nMint sprigs for garnish",
-      "procedure": "Procedure\nCombine graham cracker crumbs, sugar, and butter. Divide into 4 serving glasses, then press firmly to make the cheesecake crust. Chill while you make the cheesecake filling. \nWhisk together cream cheese, Parmalat Strawberry Yoghurt and honey until smooth and well incorporated. Fold in most of the strawberries, reserving some for topping later on. \nDivide strawberry cheesecake filling into the chilled serving glasses, then top each with remaining strawberry slices. Garnish with mint."
+      "ingredients": "1 cup graham cracker crumbs \n2 tbsps. white sugar \n¼ cup salted butter, melted \n4 ounce cream cheese, softened \n2 packs Parmalat Strawberry Yoghurt \n¼ cup honey \n16 strawberries, sliced\nMint sprigs for garnish",
+      "procedure": "Combine graham cracker crumbs, sugar, and butter. Divide into 4 serving glasses, then press firmly to make the cheesecake crust. Chill while you make the cheesecake filling. \nWhisk together cream cheese, Parmalat Strawberry Yoghurt and honey until smooth and well incorporated. Fold in most of the strawberries, reserving some for topping later on. \nDivide strawberry cheesecake filling into the chilled serving glasses, then top each with remaining strawberry slices. Garnish with mint."
     },
     "photo": {
       "filename": "FB12.jpg",
@@ -925,7 +925,7 @@ const DECEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "December IG",
-    "caption": "There are indeed many ways to enjoy carbonara, and one of the more familiar ways that we Pinoys eat it is with cream!\n\nIn this recipe for Ham & Bell Pepper Carbonara, we used Nestlé All Purpose Cream to cook up a creamy sauce that’s bursting with flavors of bell pepper and delicious ham. Enjoy this recipe in less than 30 minutes! Find all the ingredients you need at #TheMarketplace.\n\nServing Time: 20 minutes\nYield: 4-6 servings\n\nIngredients\n\n2 tbsps. vegetable oil\n6 pcs. sandwich ham, sliced into squares\n2 tbsps. unsalted butter\n1 green bell pepper, sliced into cubes \n1 yellow bell pepper, sliced into cubes \n1 white onion, chopped\n4 cloves garlic, chopped \n3 packs Nestlé All Purpose Cream \n1 chicken broth cube \n½ cup parmesan cheese \nSalt and pepper to taste\n500g spaghetti noodles, cooked according to package instructions \n3 tbsps. parsley, chopped \n\nProcedure\n\n1. In a large pan over medium-high heat, add in oil. Fry ham squares until nicely browned. Set aside ham while retaining oil in the pan. \n2. Add in butter. Once fully melted, add bell peppers, onions and garlic. Sauté until soft. Mix in Nestle All Purpose Cream, chicken broth cube and parmesan cheese. Let simmer for 3 minutes.\n3. Mix in cooked spaghetti noodles, then season with salt and pepper to taste. Turn off heat, then mix in parsley. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "There are indeed many ways to enjoy carbonara, and one of the more familiar ways that we Pinoys eat it is with cream!\n\nIn this recipe for Ham & Bell Pepper Carbonara, we used Nestlé All Purpose Cream to cook up a creamy sauce that’s bursting with flavors of bell pepper and delicious ham. Enjoy this recipe in less than 30 minutes! Find all the ingredients you need at #TheMarketplace.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nestlé"
     ],
@@ -933,8 +933,8 @@ const DECEMBER_IG_DATA = [
       "servingTime": "20 minutes",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. vegetable oil\n6 pcs. sandwich ham, sliced into squares\n2 tbsps. unsalted butter\n1 green bell pepper, sliced into cubes \n1 yellow bell pepper, sliced into cubes \n1 white onion, chopped\n4 cloves garlic, chopped \n3 packs Nestlé All Purpose Cream \n1 chicken broth cube \n½ cup parmesan cheese \nSalt and pepper to taste\n500g spaghetti noodles, cooked according to package instructions \n3 tbsps. parsley, chopped",
-      "procedure": "Procedure\nIn a large pan over medium-high heat, add in oil. Fry ham squares until nicely browned. Set aside ham while retaining oil in the pan. \nAdd in butter. Once fully melted, add bell peppers, onions and garlic. Sauté until soft. Mix in Nestlé All Purpose Cream, chicken broth cube and parmesan cheese. Let simmer for 3 minutes.\nMix in cooked spaghetti noodles, then season with salt and pepper to taste. Turn off heat, then mix in parsley."
+      "ingredients": "2 tbsps. vegetable oil\n6 pcs. sandwich ham, sliced into squares\n2 tbsps. unsalted butter\n1 green bell pepper, sliced into cubes \n1 yellow bell pepper, sliced into cubes \n1 white onion, chopped\n4 cloves garlic, chopped \n3 packs Nestlé All Purpose Cream \n1 chicken broth cube \n½ cup parmesan cheese \nSalt and pepper to taste\n500g spaghetti noodles, cooked according to package instructions \n3 tbsps. parsley, chopped",
+      "procedure": "In a large pan over medium-high heat, add in oil. Fry ham squares until nicely browned. Set aside ham while retaining oil in the pan. \nAdd in butter. Once fully melted, add bell peppers, onions and garlic. Sauté until soft. Mix in Nestlé All Purpose Cream, chicken broth cube and parmesan cheese. Let simmer for 3 minutes.\nMix in cooked spaghetti noodles, then season with salt and pepper to taste. Turn off heat, then mix in parsley."
     },
     "photo": {
       "filename": "FB13.jpg",

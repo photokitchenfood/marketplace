@@ -87,7 +87,7 @@ const FATHERS_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Fathers Day",
-    "caption": "This Father’s Day season, prepare Dad’s favorite tacos, but maybe opt for a lighter and healthier protein by swapping the beef for Century Tuna Flakes in Sunflower Oil. \n\nDressed with lots of veggies and served in crunchy taco shells, this is definitely a healthier alternative to your regular tacos, without compromising on flavor. Grab all the ingredients you need at #TheMarketplace!\n\nServing Time: 5 minutes\nYield: 1-2 servings\n\nIngredients\n\n3 pcs. lettuce, shredded\n3 taco shells\n1 can Century Tuna Flakes in Sunflower Oil\n1 cup tomato, diced\n1 onion, sliced\n2 lime wedges\n\nProcedure\n\n1. Assemble lettuce in taco shells.\n2. Add Century Tuna Flakes in Sunflower Oil. Top with tomatoes and onions.\n3. Serve with lime wedges on the side.\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "This Father’s Day season, prepare Dad’s favorite tacos, but maybe opt for a lighter and healthier protein by swapping the beef for Century Tuna Flakes in Sunflower Oil. \n\nDressed with lots of veggies and served in crunchy taco shells, this is definitely a healthier alternative to your regular tacos, without compromising on flavor. Grab all the ingredients you need at #TheMarketplace!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Century Tuna"
     ],
@@ -95,8 +95,8 @@ const FATHERS_DAY_DATA = [
       "servingTime": "5 minutes",
       "yield": "1-2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n3 pcs. lettuce, shredded\n3 taco shells\n1 can Century Tuna Flakes in Sunflower Oil \n1 cup tomato, diced\n1 onion, sliced\n2 lime wedges",
-      "procedure": "Procedure\nAssemble lettuce in taco shells.\nAdd Century Tuna Flakes in Sunflower Oil. Top with tomatoes and onions.\nServe with lime wedges on the side."
+      "ingredients": "3 pcs. lettuce, shredded\n3 taco shells\n1 can Century Tuna Flakes in Sunflower Oil \n1 cup tomato, diced\n1 onion, sliced\n2 lime wedges",
+      "procedure": "Assemble lettuce in taco shells.\nAdd Century Tuna Flakes in Sunflower Oil. Top with tomatoes and onions.\nServe with lime wedges on the side."
     },
     "photo": {
       "filename": "FD5.jpg",
@@ -112,7 +112,7 @@ const FATHERS_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Fathers Day",
-    "caption": "Give your vegetables a creative and more delicious spin in this hearty Red Pesto Ratatouille that’s made using Clara Olé Red Pesto. Think of this dish as a lasagna with vegetables replacing the pasta sheets and sans the cheese. Trust us, with this much flavor, you won’t even need it. Grab all the ingredients and vegetables you need fresh from #TheMarketplace!\n\nServing Time: 40-45 minutes\nYield: 3-4 servings\n\nIngredients\n\n1 onion, diced\n2 cloves garlic, minced\n2 tbsps. olive oil\n1 can diced tomatoes\n1 tsp. oregano\n1 bay leaf\nSalt & pepper to taste\n1 zucchini, sliced\n1 eggplant, sliced\n4 tomatoes, sliced\n1 pack Clara Olé Red Pesto\n3 sprigs basil\n\nProcedure\n\n1. Preheat oven to 350°F.\n2. Set a pan over medium heat. Sauté onion and garlic in olive oil. Add bay leaf and oregano. Cook until onions and garlic are soft.\n3. Add diced tomatoes and let simmer for 7 minutes. Set aside. This is your pomodoro sauce.\n4. In a round baking dish, add a scoop of pomodoro sauce and a scoop of Clara Olé Red Pesto. Spread evenly.\n5. Line zucchini, eggplant and tomatoes around to fill the baking dish.\n6. Top with more scoops of Clara Olé Red pesto and dollops of pomodoro sauce.\n7. Cover with foil and bake for 20 minutes. After, remove the foil and bake for another 10 minutes.\n8. Garnish with basil sprigs and serve.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Give your vegetables a creative and more delicious spin in this hearty Red Pesto Ratatouille that’s made using Clara Olé Red Pesto. Think of this dish as a lasagna with vegetables replacing the pasta sheets and sans the cheese. Trust us, with this much flavor, you won’t even need it. Grab all the ingredients and vegetables you need fresh from #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Clara Olé"
     ],
@@ -120,8 +120,8 @@ const FATHERS_DAY_DATA = [
       "servingTime": "40-45 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 onion, diced\n2 cloves garlic, minced\n2 tbsps. olive oil\n1 can diced tomatoes\n1 tsp. oregano\n1 bay leaf\nSalt & pepper to taste\n1 zucchini, sliced\n1 eggplant, sliced\n4 tomatoes, sliced\n1 pack Clara Olé Red Pesto\n3 sprigs basil",
-      "procedure": "Procedure\nPreheat oven to 350°F.\nSet a pan over medium heat. Sauté onion and garlic in olive oil. Add bay leaf and oregano. Cook until onions and garlic are soft.\nAdd diced tomatoes and let simmer for 7 minutes. Set aside. This is your pomodoro sauce.\nIn a round baking dish, add a scoop of pomodoro sauce and a scoop of Clara Olé Red Pesto. Spread evenly.\nLine zucchini, eggplant and tomatoes around to fill the baking dish.\nTop with more scoops of Clara Olé Red pesto and dollops of pomodoro sauce.\nCover with foil and bake for 20 minutes. After, remove the foil and bake for another 10 minutes.\nGarnish with basil sprigs and serve."
+      "ingredients": "1 onion, diced\n2 cloves garlic, minced\n2 tbsps. olive oil\n1 can diced tomatoes\n1 tsp. oregano\n1 bay leaf\nSalt & pepper to taste\n1 zucchini, sliced\n1 eggplant, sliced\n4 tomatoes, sliced\n1 pack Clara Olé Red Pesto\n3 sprigs basil",
+      "procedure": "Preheat oven to 350°F.\nSet a pan over medium heat. Sauté onion and garlic in olive oil. Add bay leaf and oregano. Cook until onions and garlic are soft.\nAdd diced tomatoes and let simmer for 7 minutes. Set aside. This is your pomodoro sauce.\nIn a round baking dish, add a scoop of pomodoro sauce and a scoop of Clara Olé Red Pesto. Spread evenly.\nLine zucchini, eggplant and tomatoes around to fill the baking dish.\nTop with more scoops of Clara Olé Red pesto and dollops of pomodoro sauce.\nCover with foil and bake for 20 minutes. After, remove the foil and bake for another 10 minutes.\nGarnish with basil sprigs and serve."
     },
     "photo": {
       "filename": "FD6.jpg",
@@ -137,7 +137,7 @@ const FATHERS_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Fathers Day",
-    "caption": "Most Dads love spicy ramen, so here’s an easy recipe that you can recreate at home for Spicy Tantanmen.\n\nUsing Nongshim’s Super Spicy noodles, soy milk helps temper down the spice a notch while still allowing the key flavors to shine through. Sesame, mirin, and bean paste turn these instant noodles into a gourmet meal. Head over to #TheMarketplace to get all the ingredients you need!\n\nServing Time: 20-25 minutes\nYield: 2 servings\n\nIngredients\n\nCooking oil\n2 tbsps. garlic\n1 tsp. ginger\n300g ground pork\n1 tbsp. bean paste\n2 tbsps. soy sauce\n2 tbsps. mirin\n1 ½ cup soy milk\n2 packs Nongshim Super Spicy Noodles\n1 cup bok choy, blanched\n2 tbsps. leeks\n2 tbsps. sesame seeds\n\nProcedure\n\n1. Set a pan over medium heat. Sauté garlic and ginger in oil, then add ground pork. Cook until meat is browned.\n2. Add bean paste, soy sauce, and mirin. Simmer for 10 minutes.\n3. Boil water and cook Nongshim Super Spicy Noodles according to package instructions. Drain noodles, and set aside ½ cup of the boiling water.\n4. In the same pot, combine soy milk, seasoning packet and boiling water.\n5. Assemble noodles in a bowl. Top with ground pork and bok choy. Pour broth.\n6. Garnish with leeks and sesame seeds before serving.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Most Dads love spicy ramen, so here’s an easy recipe that you can recreate at home for Spicy Tantanmen.\n\nUsing Nongshim’s Super Spicy noodles, soy milk helps temper down the spice a notch while still allowing the key flavors to shine through. Sesame, mirin, and bean paste turn these instant noodles into a gourmet meal. Head over to #TheMarketplace to get all the ingredients you need!\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Nongshim"
     ],
@@ -145,8 +145,8 @@ const FATHERS_DAY_DATA = [
       "servingTime": "20-25 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\nCooking oil\n2 tbsps. garlic\n1 tsp. ginger\n300g ground pork\n1 tbsp. bean paste\n2 tbsps. soy sauce\n2 tbsps. mirin\n1 ½ cup soy milk\n2 packs Nongshim Super Spicy Noodles\n1 cup bok choy, blanched\n2 tbsps. leeks\n2 tbsps. sesame seeds",
-      "procedure": "Procedure\nSet a pan over medium heat. Sauté garlic and ginger in oil, then add ground pork. Cook until meat is browned. \nAdd bean paste, soy sauce, and mirin. Simmer for 10 minutes.\nBoil water and cook Nongshim Super Spicy Noodles according to package instructions. Drain noodles, and set aside ½ cup of the boiling water. \nIn the same pot, combine soy milk, seasoning packet and boiling water.\nAssemble noodles in a bowl. Top with ground pork and bok choy. Pour broth. \nGarnish with leeks and sesame seeds before serving."
+      "ingredients": "Cooking oil\n2 tbsps. garlic\n1 tsp. ginger\n300g ground pork\n1 tbsp. bean paste\n2 tbsps. soy sauce\n2 tbsps. mirin\n1 ½ cup soy milk\n2 packs Nongshim Super Spicy Noodles\n1 cup bok choy, blanched\n2 tbsps. leeks\n2 tbsps. sesame seeds",
+      "procedure": "Set a pan over medium heat. Sauté garlic and ginger in oil, then add ground pork. Cook until meat is browned. \nAdd bean paste, soy sauce, and mirin. Simmer for 10 minutes.\nBoil water and cook Nongshim Super Spicy Noodles according to package instructions. Drain noodles, and set aside ½ cup of the boiling water. \nIn the same pot, combine soy milk, seasoning packet and boiling water.\nAssemble noodles in a bowl. Top with ground pork and bok choy. Pour broth. \nGarnish with leeks and sesame seeds before serving."
     },
     "photo": {
       "filename": "FD7.jpg",
@@ -162,7 +162,7 @@ const FATHERS_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Fathers Day",
-    "caption": "Ensure Gold is a nutritional supplement drink that’s clinically proven to improve strength and immunity for adults. To make it more exciting and enjoyable to consume, here’s a recipe for Vanilla Malted Milkshake using Ensure Gold! Get all the ingredients you need, including Ensure Gold, at #TheMarketplace!\n\nServing Time: 5 minutes\nYield: 1 glass\n\nIngredients\n\n6 tbsps. Ensure Gold Vanilla\n180ml water\n1 scoop vanilla ice cream\n¼ cup malt chocolate balls\n\nProcedure\n\n1. Dissolve Ensure Gold Vanilla in water.\n2. In a blender, combine ice cream, dissolved Ensure Gold and 2 tbsps. of the malt chocolate balls. \n3. Top with remaining malt chocolate balls.\n\nDid you know? You can now get your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Ensure Gold is a nutritional supplement drink that’s clinically proven to improve strength and immunity for adults. To make it more exciting and enjoyable to consume, here’s a recipe for Vanilla Malted Milkshake using Ensure Gold! Get all the ingredients you need, including Ensure Gold, at #TheMarketplace!\n\nDid you know? You can now get your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Ensure"
     ],
@@ -170,8 +170,8 @@ const FATHERS_DAY_DATA = [
       "servingTime": "5 minutes",
       "yield": "1 glass",
       "tips": "",
-      "ingredients": "Ingredients\n6 tbsps. Ensure Gold Vanilla\n180ml water \n1 scoop vanilla ice cream\n¼ cup malt chocolate balls",
-      "procedure": "Procedure\nDissolve Ensure Gold Vanilla in water.\nIn a blender, combine ice cream, dissolved Ensure Gold and 2 tbsps. of the malt chocolate balls. \nTop with remaining malt chocolate balls."
+      "ingredients": "6 tbsps. Ensure Gold Vanilla\n180ml water \n1 scoop vanilla ice cream\n¼ cup malt chocolate balls",
+      "procedure": "Dissolve Ensure Gold Vanilla in water.\nIn a blender, combine ice cream, dissolved Ensure Gold and 2 tbsps. of the malt chocolate balls. \nTop with remaining malt chocolate balls."
     },
     "photo": {
       "filename": "FD8.jpg",
@@ -187,7 +187,7 @@ const FATHERS_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Fathers Day",
-    "caption": "Here’s a local twist to an iconic cocktail!\n\nMade with Rite ‘n Lite’s Calamansi + Ginger + Honey, this Calamansi-Ginger Mojito is so refreshing, it will instantly transport you to your favorite sun-kissed beach. Bursting with local, tropical flavors, each sip reminds us of the perfect summer holiday. Get all the ingredients you need at #TheMarketplace!\n\nServing Time: 5 minutes\nYield: 2 glasses\n\nIngredients\n\n2 sprigs mint\n2 tbsps. calamansi juice\n2 shots white rum\n2 cups ice\n2 cans Rite ‘n Lite Calamansi Ginger Honey\n4 pcs. calamansi, sliced\n\nProcedure\n\n1. In a glass, crush mint with muddler. Add calamansi juice and white rum.\n2. Fill glass with ice and pour over Rite ‘n Lite Calamansi Ginger Honey.\n3. Garnish with calamansi before serving.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Here’s a local twist to an iconic cocktail!\n\nMade with Rite ‘n Lite’s Calamansi + Ginger + Honey, this Calamansi-Ginger Mojito is so refreshing, it will instantly transport you to your favorite sun-kissed beach. Bursting with local, tropical flavors, each sip reminds us of the perfect summer holiday. Get all the ingredients you need at #TheMarketplace!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Rite n Lite"
     ],
@@ -195,8 +195,8 @@ const FATHERS_DAY_DATA = [
       "servingTime": "5 minutes",
       "yield": "2 glasses",
       "tips": "",
-      "ingredients": "Ingredients\n2 sprigs mint\n2 tbsps. calamansi juice\n2 shots white rum\n2 cups ice\n2 cans Rite ‘n Lite Calamansi Ginger Honey\n4 pcs. calamansi, sliced",
-      "procedure": "Procedure\nIn a glass, crush mint with muddler. Add calamansi juice and white rum.\nFill glass with ice and pour over Rite ‘n Lite Calamansi Ginger Honey.\nGarnish with calamansi before serving."
+      "ingredients": "2 sprigs mint\n2 tbsps. calamansi juice\n2 shots white rum\n2 cups ice\n2 cans Rite ‘n Lite Calamansi Ginger Honey\n4 pcs. calamansi, sliced",
+      "procedure": "In a glass, crush mint with muddler. Add calamansi juice and white rum.\nFill glass with ice and pour over Rite ‘n Lite Calamansi Ginger Honey.\nGarnish with calamansi before serving."
     },
     "photo": {
       "filename": "FD9.jpg",
@@ -212,7 +212,7 @@ const FATHERS_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Fathers Day",
-    "caption": "Feeling fancy tonight or celebrating a special occasion?\n\nThis Baked Camembert Bread Bowl made with Ile de France cheese is indulgent, elegant, and super easy to make. Camembert is known to be a soft, creamy cheese which is on the nuttier side. Paired with garlic, butter, and parsley, it makes for such a scrumptious appetizer or starter. Find all the ingredients you need at #TheMarketplace!\n\nServing Time: 20 minutes\nYield: 4-5 servings\n\nIngredients\n\n1 whole Italian bread, or your preferred loaf bread \n1 whole Ile De France Camembert\n⅓ bar butter\n3 tbsps. garlic, chopped\n3 tbsps. parsley, chopped\nSalt and pepper to taste\n\nProcedure\n\n1. Preheat oven to 350°F.\n2. Cut out a hole on top of the bread big enough to nestle the Camembert cheese. \n3. Put Ile De France Camembert in the hole. \n4. Combine butter, garlic, and parsley. Season with salt and pepper. Brush this all over bread.\n5. Bake for 15 minutes, or until cheese is soft and melted.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Feeling fancy tonight or celebrating a special occasion?\n\nThis Baked Camembert Bread Bowl made with Ile de France cheese is indulgent, elegant, and super easy to make. Camembert is known to be a soft, creamy cheese which is on the nuttier side. Paired with garlic, butter, and parsley, it makes for such a scrumptious appetizer or starter. Find all the ingredients you need at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Ile de France"
     ],
@@ -220,8 +220,8 @@ const FATHERS_DAY_DATA = [
       "servingTime": "20 minutes",
       "yield": "4-5 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 whole Italian bread, or your preferred loaf bread \n1 whole Ile De France Camembert\n⅓ bar butter\n3 tbsps. garlic, chopped\n3 tbsps. parsley, chopped\nSalt and pepper to taste",
-      "procedure": "Procedure\nPreheat oven to 350°F.\nCut out a hole on top of the bread big enough to nestle the Camembert cheese. \nPut Ile De France Camembert in the hole. \nCombine butter, garlic, and parsley. Season with salt and pepper. Brush this all over bread.\nBake for 15 minutes, or until cheese is soft and melted."
+      "ingredients": "1 whole Italian bread, or your preferred loaf bread \n1 whole Ile De France Camembert\n⅓ bar butter\n3 tbsps. garlic, chopped\n3 tbsps. parsley, chopped\nSalt and pepper to taste",
+      "procedure": "Preheat oven to 350°F.\nCut out a hole on top of the bread big enough to nestle the Camembert cheese. \nPut Ile De France Camembert in the hole. \nCombine butter, garlic, and parsley. Season with salt and pepper. Brush this all over bread.\nBake for 15 minutes, or until cheese is soft and melted."
     },
     "photo": {
       "filename": "FD10.jpg",
@@ -237,7 +237,7 @@ const FATHERS_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Fathers Day",
-    "caption": "Love iced creamy coffee? Prepare these Coffee Popsicles in advance and enjoy one of these caffeinated treats whenever you need a sweet pick-me-up that’ll boost your mood!\n\nMade with Basilio Coffee for its robust flavor, the addition of condensed milk and vanilla makes this coffee-based treat into a perfect dessert or afternoon snack. Shop for all the ingredients you need at #TheMarketplace!\n\nServing Time: 6-8 hours\nYield: 6 servings\n\nIngredients\n\n3 packets Basilio Coffee Single Cup Brew\n450ml water\n¾ cup condensed milk\n1 cup cream\n1 tsp vanilla\n\nProcedure\n\n1. Brew Basilio Coffee and set aside.\n2. Fill ¾ of each popsicle mold with Basilio Coffee and freeze for at least an hour.\n3. While waiting, mix condensed milk, cream, and vanilla.\n4. Fill popsicle molds with vanilla mixture, and freeze again for 6-7 hours before serving.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Love iced creamy coffee? Prepare these Coffee Popsicles in advance and enjoy one of these caffeinated treats whenever you need a sweet pick-me-up that’ll boost your mood!\n\nMade with Basilio Coffee for its robust flavor, the addition of condensed milk and vanilla makes this coffee-based treat into a perfect dessert or afternoon snack. Shop for all the ingredients you need at #TheMarketplace!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Basilio"
     ],
@@ -245,8 +245,8 @@ const FATHERS_DAY_DATA = [
       "servingTime": "6-8 hours",
       "yield": "6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n3 packets Basilio Coffee Single Cup Brew\n450ml water\n¾ cup condensed milk\n1 cup cream\n1 tsp vanilla",
-      "procedure": "Procedure\nBrew Basilio Coffee and set aside.\nFill ¾ of each popsicle mold with Basilio Coffee and freeze for at least an hour.\nWhile waiting, mix condensed milk, cream, and vanilla.\nFill popsicle molds with vanilla mixture, and freeze again for 6-7 hours before serving."
+      "ingredients": "3 packets Basilio Coffee Single Cup Brew\n450ml water\n¾ cup condensed milk\n1 cup cream\n1 tsp vanilla",
+      "procedure": "Brew Basilio Coffee and set aside.\nFill ¾ of each popsicle mold with Basilio Coffee and freeze for at least an hour.\nWhile waiting, mix condensed milk, cream, and vanilla.\nFill popsicle molds with vanilla mixture, and freeze again for 6-7 hours before serving."
     },
     "photo": {
       "filename": "FD11.jpg",
@@ -262,7 +262,7 @@ const FATHERS_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Fathers Day",
-    "caption": "Here’s a fun way to enjoy Diabetasol, a meal replacement powder for adults that helps control blood sugar levels. It also makes for a delicious Milk Pudding ingredient. Read up on the recipe below and get all the items you need at #TheMarketplace!\n\nServing Time: 2 hours\nYield: 2-3 servings\n\nIngredients\n\n2 tsps. gelatin powder\n2 tbsps. water\n10 scoops of Diabetasol Vanilla Milk\n500 ml. water\n4 tbsps. pistachios, chopped\n\nProcedure\n\n1. Mix gelatin powder and water. Set aside and wait for it to bloom.\n2. Set a pot over medium heat. Mix Diabetasol Vanilla Milk and water. Add bloomed gelatin and mix until fully incorporated.\n3. Pour over a dessert glass cup and refrigerate for 2 hours.\n4. Sprinkle with pistachios before serving.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Here’s a fun way to enjoy Diabetasol, a meal replacement powder for adults that helps control blood sugar levels. It also makes for a delicious Milk Pudding ingredient. Read up on the recipe below and get all the items you need at #TheMarketplace!\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Diabetasol"
     ],
@@ -270,8 +270,8 @@ const FATHERS_DAY_DATA = [
       "servingTime": "2 hours",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tsps. gelatin powder\n2 tbsps. water\n10 scoops of Diabetasol Vanilla Milk\n500 ml. water\n4 tbsps. pistachios, chopped",
-      "procedure": "Procedure\nMix gelatin powder and water. Set aside and wait for it to bloom.\nSet a pot over medium heat. Mix Diabetasol Vanilla Milk and water. Add bloomed gelatin and mix until fully incorporated.\nPour over a dessert glass cup and refrigerate for 2 hours.\nSprinkle with pistachios before serving."
+      "ingredients": "2 tsps. gelatin powder\n2 tbsps. water\n10 scoops of Diabetasol Vanilla Milk\n500 ml. water\n4 tbsps. pistachios, chopped",
+      "procedure": "Mix gelatin powder and water. Set aside and wait for it to bloom.\nSet a pot over medium heat. Mix Diabetasol Vanilla Milk and water. Add bloomed gelatin and mix until fully incorporated.\nPour over a dessert glass cup and refrigerate for 2 hours.\nSprinkle with pistachios before serving."
     },
     "photo": {
       "filename": "FD12.jpg",
@@ -287,7 +287,7 @@ const FATHERS_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Fathers Day",
-    "caption": "Celebrate Dad this month of June with a delicious and meaty Corned Pork Galette using La Filipina Corned Pork. Spiced with a hint of cayenne, this galette makes use of a homemade crust that’s buttery and complements the meaty filling so perfectly. Try it out and let us know what you think of the recipe! All ingredients are available at #TheMarketplace. \n\nServing Time: 30-35 minutes\nYield: 4-5 servings\n\nIngredients\n\n1 tbsp. olive oil\n½ cup onion, diced\n2 garlic cloves, minced\n1 can La Filipina Corned Pork\n1 tsp. cayenne\n1 cup zucchini, sliced\nSalt and pepper to taste\n1 sheet 8x8 puff pastry\n1 egg\n1 tbsp. sesame seeds\n1 tbsp. parsley, chopped\n\nProcedure\n\n1. Preheat oven to 350°F.\n2. Set a pan over medium heat. Add olive oil, then sauté onions and garlic until soft.\n3. Add zucchini and La Filipina Corned Pork. Add cayenne and season with salt and pepper.\n4. Dust puff pastry with flour and flatten it out using a rolling pin. \n5. Top with corned pork filling and interfold the edges.\n6. Beat an egg and add a bit of water. Brush this onto the exposed crust.\n7. Sprinkle with sesame seeds and bake for 20 minutes, or until golden brown.\n8. Garnish with parsley before serving.\n\nNow you can simply head online and order your groceries at http://bit.ly/OrderTheMarketplace. We’re also on Viber! Join our community via https://bit.ly/TheMarketplaceCommunity.",
+    "caption": "Celebrate Dad this month of June with a delicious and meaty Corned Pork Galette using La Filipina Corned Pork. Spiced with a hint of cayenne, this galette makes use of a homemade crust that’s buttery and complements the meaty filling so perfectly. Try it out and let us know what you think of the recipe! All ingredients are available at #TheMarketplace.\n\nNow you can simply head online and order your groceries at http://bit.ly/OrderTheMarketplace. We’re also on Viber! Join our community via https://bit.ly/TheMarketplaceCommunity.",
     "brand": [
       "La Filipina"
     ],
@@ -295,8 +295,8 @@ const FATHERS_DAY_DATA = [
       "servingTime": "30-35 minutes",
       "yield": "4-5 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 tbsp. olive oil\n½ cup onion, diced\n2 garlic cloves, minced\n1 can La Filipina Corned Pork\n1 tsp. cayenne\n1 cup zucchini, sliced\nSalt and pepper to taste\n1 sheet 8x8 puff pastry\n1 egg\n1 tbsp. sesame seeds\n1 tbsp. parsley, chopped",
-      "procedure": "Procedure\nPreheat oven to 350°F.\nSet a pan over medium heat. Add olive oil, then sauté onions and garlic until soft.\nAdd zucchini and La Filipina Corned Pork. Add cayenne and season with salt and pepper.\nDust puff pastry with flour and flatten it out using a rolling pin. \nTop with corned pork filling and interfold the edges.\nBeat an egg and add a bit of water. Brush this onto the exposed crust.\nSprinkle with sesame seeds and bake for 20 minutes, or until golden brown.\nGarnish with parsley before serving."
+      "ingredients": "1 tbsp. olive oil\n½ cup onion, diced\n2 garlic cloves, minced\n1 can La Filipina Corned Pork\n1 tsp. cayenne\n1 cup zucchini, sliced\nSalt and pepper to taste\n1 sheet 8x8 puff pastry\n1 egg\n1 tbsp. sesame seeds\n1 tbsp. parsley, chopped",
+      "procedure": "Preheat oven to 350°F.\nSet a pan over medium heat. Add olive oil, then sauté onions and garlic until soft.\nAdd zucchini and La Filipina Corned Pork. Add cayenne and season with salt and pepper.\nDust puff pastry with flour and flatten it out using a rolling pin. \nTop with corned pork filling and interfold the edges.\nBeat an egg and add a bit of water. Brush this onto the exposed crust.\nSprinkle with sesame seeds and bake for 20 minutes, or until golden brown.\nGarnish with parsley before serving."
     },
     "photo": {
       "filename": "FD13.jpg",
@@ -312,7 +312,7 @@ const FATHERS_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Fathers Day",
-    "caption": "Most of the time, simple ingredients when cooked right shine the brightest. A perfect example is this Roasted Cherry Tomato with Spinach Fettuccine. Simply roast two cups of cherry tomatoes with olive oil, salt, and thyme in an oven, and be wowed by all the umami flavors bursting from the tomatoes. Toss with some al dente San Remo spinach fettuccine and call it a day. Clean, simple, and so satisfying. Find all the ingredients you need at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 4-5 servings\n\nIngredients\n\n2 cups cherry tomatoes\n4 cloves garlic, minced\n1 tsp. thyme\n3 tbsps. olive oil\nSalt & pepper to taste\nSan Remo Spinach Fettuccine\n1 tbsp. butter\nFlat leaf parsley, for garnish\n\nProcedure\n\n1. Preheat oven to 170°C.\n2. Place cherry tomatoes in an oven-safe tray. Drizzle with olive oil and thyme. Season with salt and pepper.\n3. Roast for 15 minutes and set aside.\n4. In a pot, boil water and season with salt.\n5. Cook San Remo Spinach Fettuccine according to package instructions, or until al dente .\n6. Set a pan over medium heat, then add butter and sauté garlic. Add roasted cherry tomatoes and San Remo Spinach Fettuccine. Season with salt and pepper.\n7. Garnish with flat leaf parsley and serve.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Most of the time, simple ingredients when cooked right shine the brightest. A perfect example is this Roasted Cherry Tomato with Spinach Fettuccine. Simply roast two cups of cherry tomatoes with olive oil, salt, and thyme in an oven, and be wowed by all the umami flavors bursting from the tomatoes. Toss with some al dente San Remo spinach fettuccine and call it a day. Clean, simple, and so satisfying. Find all the ingredients you need at #TheMarketplace!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "San Remo"
     ],
@@ -320,8 +320,8 @@ const FATHERS_DAY_DATA = [
       "servingTime": "30 minutes",
       "yield": "4-5 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 cups cherry tomatoes\n4 cloves garlic, minced\n1 tsp. thyme\n3 tbsps. olive oil\nSalt & pepper to taste\nSan Remo Spinach Fettuccine\n1 tbsp. butter\nFlat leaf parsley, for garnish",
-      "procedure": "Procedure\nPreheat oven to 170°C.\nPlace cherry tomatoes in an oven-safe tray. Drizzle with olive oil and thyme. Season with salt and pepper.\nRoast for 15 minutes and set aside.\nIn a pot, boil water and season with salt.\nCook San Remo Spinach Fettuccine according to package instructions, or until al dente .\nSet a pan over medium heat, then add butter and sauté garlic. Add roasted cherry tomatoes and San Remo Spinach Fettuccine. Season with salt and pepper.\nGarnish with flat leaf parsley and serve."
+      "ingredients": "2 cups cherry tomatoes\n4 cloves garlic, minced\n1 tsp. thyme\n3 tbsps. olive oil\nSalt & pepper to taste\nSan Remo Spinach Fettuccine\n1 tbsp. butter\nFlat leaf parsley, for garnish",
+      "procedure": "Preheat oven to 170°C.\nPlace cherry tomatoes in an oven-safe tray. Drizzle with olive oil and thyme. Season with salt and pepper.\nRoast for 15 minutes and set aside.\nIn a pot, boil water and season with salt.\nCook San Remo Spinach Fettuccine according to package instructions, or until al dente .\nSet a pan over medium heat, then add butter and sauté garlic. Add roasted cherry tomatoes and San Remo Spinach Fettuccine. Season with salt and pepper.\nGarnish with flat leaf parsley and serve."
     },
     "photo": {
       "filename": "FD14.jpg",
@@ -337,7 +337,7 @@ const FATHERS_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Fathers Day",
-    "caption": "An all-time classic, these Beer-Battered Fish & Chips make use of Japanese Kirin Ichiban beer. Perfect ice-cold for drinking, Kirin is a 100% malt beer that delivers a strong, rich flavor with herbal, spicy, and zesty hoppy notes. It works surprisingly well as a batter for deep-frying fish, too! Round off the whole meal with a delicious dipping sauce made with lemon mayonnaise and dill pickle relish. Try it next weekend for an unforgettable dinner with the family. Grab all the ingredients you need at #TheMarketplace! \n\nServing Time: 30-40 minutes\nYield: 2-3 servings\n\nIngredients\n\n400g cream dory fillet\nCooking oil for deep-frying\n1 cup flour\n1 tsp. garlic powder\n1 tsp. salt\n½ tsp. pepper\n1 egg\n1 bottle Kirin Ichiban Beer\n3 tbsps. mayonnaise\n1 tbsp. lemon juice\n2 tsps. pickle relish\n1 tsp. dill\nSalt & pepper to taste\nLemon wedges\n\nProcedure\n\n1. Pat dry cream dory fillet and slice into 1 ½ inch thick slices. Set aside.\n2. Preheat oil to 370°F.\n3. In a mixing bowl, combine flour, garlic powder, salt, and pepper.\n4. Beat egg, and combine with the dry mixture. Gradually add Kirin Ichiban Beer until batter consistency is achieved.\n5. Coat each strip of fish with batter, then immediately fry until golden brown.\n6. Mix mayonnaise, lemon juice, pickle relish and dill. Season with salt and pepper.\n7. Serve beer-battered fish alongside dipping sauce, lemon wedges and shoestring fries.\n\nYou can also order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "An all-time classic, these Beer-Battered Fish & Chips make use of Japanese Kirin Ichiban beer. Perfect ice-cold for drinking, Kirin is a 100% malt beer that delivers a strong, rich flavor with herbal, spicy, and zesty hoppy notes. It works surprisingly well as a batter for deep-frying fish, too! Round off the whole meal with a delicious dipping sauce made with lemon mayonnaise and dill pickle relish. Try it next weekend for an unforgettable dinner with the family. Grab all the ingredients you need at #TheMarketplace!\n\nYou can also order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Kirin"
     ],
@@ -345,8 +345,8 @@ const FATHERS_DAY_DATA = [
       "servingTime": "30-40 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n400g cream dory fillet\nCooking oil for deep-frying\n1 cup flour\n1 tsp. garlic powder\n1 tsp. salt\n½ tsp. pepper\n1 egg\n1 bottle Kirin Ichiban Beer\n3 tbsps. mayonnaise\n1 tbsp. lemon juice\n2 tsps. pickle relish\n1 tsp. dill\nSalt & pepper to taste\nLemon wedges",
-      "procedure": "Procedure\nPat dry cream dory fillet and slice into 1 ½ inch thick slices. Set aside.\nPreheat oil to 370°F.\nIn a mixing bowl, combine flour, garlic powder, salt, and pepper.\nBeat egg, and combine with the dry mixture. Gradually add Kirin Ichiban Beer until batter consistency is achieved.\nCoat each strip of fish with batter, then immediately fry until golden brown.\nMix mayonnaise, lemon juice, pickle relish and dill. Season with salt and pepper.\nServe beer-battered fish alongside dipping sauce, lemon wedges and shoestring fries."
+      "ingredients": "400g cream dory fillet\nCooking oil for deep-frying\n1 cup flour\n1 tsp. garlic powder\n1 tsp. salt\n½ tsp. pepper\n1 egg\n1 bottle Kirin Ichiban Beer\n3 tbsps. mayonnaise\n1 tbsp. lemon juice\n2 tsps. pickle relish\n1 tsp. dill\nSalt & pepper to taste\nLemon wedges",
+      "procedure": "Pat dry cream dory fillet and slice into 1 ½ inch thick slices. Set aside.\nPreheat oil to 370°F.\nIn a mixing bowl, combine flour, garlic powder, salt, and pepper.\nBeat egg, and combine with the dry mixture. Gradually add Kirin Ichiban Beer until batter consistency is achieved.\nCoat each strip of fish with batter, then immediately fry until golden brown.\nMix mayonnaise, lemon juice, pickle relish and dill. Season with salt and pepper.\nServe beer-battered fish alongside dipping sauce, lemon wedges and shoestring fries."
     },
     "photo": {
       "filename": "FD15.jpg",

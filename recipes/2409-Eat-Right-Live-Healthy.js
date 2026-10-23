@@ -38,8 +38,8 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
       "servingTime": "50 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup heavy cream\n1 tbsp. powdered sugar (or your preferred sweetener)\n1/4 tsp. vanilla extract\nA pinch of salt\n1/4 cup honey\n2 tsps. lavender buds \n2 tbsps. Nescafé Gold\n½ cup hot water\n1 cup milk \n2 cups ice cubes",
-      "procedure": "Procedure\nIn a blender, combine heavy cream, powdered sugar, vanilla extract, and salt. Blend on high speed for 1-2 minutes, or until the mixture is thick and frothy.\nTransfer the cold foam to a jar or container, and refrigerate for at least 30 minutes, or until it's completely chilled.\nIn a small saucepan, combine honey and 1 teaspoon lavender buds. Heat over low heat for 5-7 minutes, stirring occasionally. Remove from heat and let steep for 10-15 minutes. Strain the lavender buds using a cheesecloth. \nIn a mason jar or large glass, dissolve Nescafé Gold in hot water. Combine with the infused honey and milk. \nFill each glass with ice cubes and the Honey Lavender Latte. Stir well to combine. Top with cold foam, and garnish with remaining lavender buds. Serve immediately"
+      "ingredients": "1 cup heavy cream\n1 tbsp. powdered sugar (or your preferred sweetener)\n1/4 tsp. vanilla extract\nA pinch of salt\n1/4 cup honey\n2 tsps. lavender buds \n2 tbsps. Nescafé Gold\n½ cup hot water\n1 cup milk \n2 cups ice cubes",
+      "procedure": "In a blender, combine heavy cream, powdered sugar, vanilla extract, and salt. Blend on high speed for 1-2 minutes, or until the mixture is thick and frothy.\nTransfer the cold foam to a jar or container, and refrigerate for at least 30 minutes, or until it's completely chilled.\nIn a small saucepan, combine honey and 1 teaspoon lavender buds. Heat over low heat for 5-7 minutes, stirring occasionally. Remove from heat and let steep for 10-15 minutes. Strain the lavender buds using a cheesecloth. \nIn a mason jar or large glass, dissolve Nescafé Gold in hot water. Combine with the infused honey and milk. \nFill each glass with ice cubes and the Honey Lavender Latte. Stir well to combine. Top with cold foam, and garnish with remaining lavender buds. Serve immediately"
     },
     "photo": {
       "filename": "ERLH2.jpg",
@@ -63,8 +63,8 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
       "servingTime": "15 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup rolled oats\n2 cups milk\n3 packs Swiss Miss Chocolate Hazelnut \n½ cup banana, sliced\n⅛ cup peanut butter\n4 tbsps. chocolate chips\n4 tbsps. hazelnut, chopped",
-      "procedure": "Procedure\nIn a small saucepan, combine oats, milk, and Swiss Miss Chocolate Hazelnut.\nBring the mixture to a boil, then reduce heat, and simmer for 3-5 minutes, or until the oats are tender and the mixture has thickened.\nPour oatmeal into bowls and top with banana, peanut butter, chocolate chips and hazelnuts."
+      "ingredients": "1 cup rolled oats\n2 cups milk\n3 packs Swiss Miss Chocolate Hazelnut \n½ cup banana, sliced\n⅛ cup peanut butter\n4 tbsps. chocolate chips\n4 tbsps. hazelnut, chopped",
+      "procedure": "In a small saucepan, combine oats, milk, and Swiss Miss Chocolate Hazelnut.\nBring the mixture to a boil, then reduce heat, and simmer for 3-5 minutes, or until the oats are tender and the mixture has thickened.\nPour oatmeal into bowls and top with banana, peanut butter, chocolate chips and hazelnuts."
     },
     "photo": {
       "filename": "ERLH3.jpg",
@@ -88,8 +88,8 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
       "servingTime": "40 minutes",
       "yield": "1 dozen",
       "tips": "",
-      "ingredients": "Ingredients\n1 ripe banana, mashed\n1/2 cup peanut butter\n1/4 cup maple syrup\n1 large egg\n½ cup Quaker Banana & Honey Oatmeal\n1/4 cup all-purpose flour\n1 tsp. baking powder\n1/4 tsp. salt\n1 ½ cup strawberry jam\n¼ cup roasted peanuts, chopped",
-      "procedure": "Procedure\nPreheat oven to 190°C\nIn a bowl, whisk together mashed bananas, ¼ cup peanut butter, maple syrup, and egg.\nIn a separate bowl, combine Quaker Banana & Honey Oatmeal, flour, baking powder, and salt. Gradually add the dry ingredients to the wet ingredients, mixing until just combined.\nSpoon the dough onto a baking sheet lined with parchment paper. Using a teaspoon, press the center of each cookie dough creating a thumbprint. Bake in a preheated oven for 10-12 minutes, or until golden brown.\nLet cool on the baking sheet for a few minutes before transferring to a wire rack to cool completely.\nFill each cookie with about 1 tablespoon of jam. Drizzle with the remaining peanut butter and peanuts."
+      "ingredients": "1 ripe banana, mashed\n1/2 cup peanut butter\n1/4 cup maple syrup\n1 large egg\n½ cup Quaker Banana & Honey Oatmeal\n1/4 cup all-purpose flour\n1 tsp. baking powder\n1/4 tsp. salt\n1 ½ cup strawberry jam\n¼ cup roasted peanuts, chopped",
+      "procedure": "Preheat oven to 190°C\nIn a bowl, whisk together mashed bananas, ¼ cup peanut butter, maple syrup, and egg.\nIn a separate bowl, combine Quaker Banana & Honey Oatmeal, flour, baking powder, and salt. Gradually add the dry ingredients to the wet ingredients, mixing until just combined.\nSpoon the dough onto a baking sheet lined with parchment paper. Using a teaspoon, press the center of each cookie dough creating a thumbprint. Bake in a preheated oven for 10-12 minutes, or until golden brown.\nLet cool on the baking sheet for a few minutes before transferring to a wire rack to cool completely.\nFill each cookie with about 1 tablespoon of jam. Drizzle with the remaining peanut butter and peanuts."
     },
     "photo": {
       "filename": "ERLH4.jpg",
@@ -113,8 +113,8 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
       "servingTime": "1 hour",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\nFOR THE FILLING:\n2 apples, peeled, cored, and chopped\n1 cup fresh blueberries\n¼ cup granulated sugar\n⅛ cup packed brown sugar\n½ tbsp. all-purpose flour\n½ tsp. ground cinnamon\n⅛ tsp. nutmeg\n¼ tsp. salt\nFOR THE TOPPING:\n½ cup all-purpose flour\n¼ cup granulated sugar\n⅛ cup packed brown sugar\n¼ tsp. ground cinnamon\n¼ tsp. salt\n¼  cup unsalted butter, melted\n1 cup Kellogg’s Corn Flakes, crushed\n2 scoops vanilla ice cream\n1 tbsp. mint leaves",
-      "procedure": "Procedure\nPreheat oven to 190°C.\nIn a large bowl, combine apples, blueberries, granulated sugar, brown sugar, flour, cinnamon, nutmeg, and salt. Toss to coat evenly.\nIn a small bowl, combine flour, granulated sugar, brown sugar, cinnamon, and salt. Stir in the melted butter until combined. Fold in the crushed Kellogg’s Corn Flakes\nPour the filling into a greased baking dish. Sprinkle the topping evenly over the filling. Bake for 40-45 minutes, or until the topping is golden brown and the filling is bubbling.\nLet cool slightly before serving. Enjoy warm with a scoop of vanilla ice cream and mint leaves."
+      "ingredients": "FOR THE FILLING:\n2 apples, peeled, cored, and chopped\n1 cup fresh blueberries\n¼ cup granulated sugar\n⅛ cup packed brown sugar\n½ tbsp. all-purpose flour\n½ tsp. ground cinnamon\n⅛ tsp. nutmeg\n¼ tsp. salt\nFOR THE TOPPING:\n½ cup all-purpose flour\n¼ cup granulated sugar\n⅛ cup packed brown sugar\n¼ tsp. ground cinnamon\n¼ tsp. salt\n¼  cup unsalted butter, melted\n1 cup Kellogg’s Corn Flakes, crushed\n2 scoops vanilla ice cream\n1 tbsp. mint leaves",
+      "procedure": "Preheat oven to 190°C.\nIn a large bowl, combine apples, blueberries, granulated sugar, brown sugar, flour, cinnamon, nutmeg, and salt. Toss to coat evenly.\nIn a small bowl, combine flour, granulated sugar, brown sugar, cinnamon, and salt. Stir in the melted butter until combined. Fold in the crushed Kellogg’s Corn Flakes\nPour the filling into a greased baking dish. Sprinkle the topping evenly over the filling. Bake for 40-45 minutes, or until the topping is golden brown and the filling is bubbling.\nLet cool slightly before serving. Enjoy warm with a scoop of vanilla ice cream and mint leaves."
     },
     "photo": {
       "filename": "ERLH5.jpg",
@@ -138,8 +138,8 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
       "servingTime": "2 hours",
       "yield": "8 servings",
       "tips": "",
-      "ingredients": "Ingredients\nFOR THE CAKE:\n2 pcs. Meadows Earl Grey Tea\n½ cup milk, warmed\n2 cups all-purpose flour\n2 tsp. baking powder\n¼ tsp. salt\n½ cup unsalted butter, softened\n1 cup granulated sugar  \n4 large eggs\n1 tsp. vanilla extract\nFOR THE GLAZE:\n1/4 cup honey\n1/4 cup lemon juice\n1/4 cup powdered sugar\nFOR THE TOPPING:\n1 lemon, sliced\n⅛ cup brown sugar",
-      "procedure": "Procedure\nSteep Meadows Earl Grey Tea bags in milk for at least 1 hour, or ideally, overnight. Discard the tea bags.\nPreheat oven to 175°C. Grease and flour a 9x5-inch loaf pan.\nIn a medium bowl, whisk together flour, baking powder, and salt.\nIn a large bowl, cream together butter and sugar until light and fluffy. Beat in the eggs one at a time, scraping down the sides of the bowl after each addition. \nAdd the dry ingredients to the wet ingredients, alternating with the cooled Earl Grey milk, starting and ending with the dry ingredients. Mix just until combined. \nPour the batter into the prepared loaf pan. Bake for 50-60 minutes, or until a toothpick inserted into the center comes out clean. Let cool in the pan for 10 minutes before transferring to a wire rack to cool completely. \nIn a small bowl, whisk together honey, lemon juice, and powdered sugar until smooth.\nOnce the cake is completely cool, drizzle the glaze over the top. Garnish with lemon slices and sprinkle with brown sugar. Lightly torch the top to caramelize the sugar."
+      "ingredients": "FOR THE CAKE:\n2 pcs. Meadows Earl Grey Tea\n½ cup milk, warmed\n2 cups all-purpose flour\n2 tsp. baking powder\n¼ tsp. salt\n½ cup unsalted butter, softened\n1 cup granulated sugar  \n4 large eggs\n1 tsp. vanilla extract\nFOR THE GLAZE:\n1/4 cup honey\n1/4 cup lemon juice\n1/4 cup powdered sugar\nFOR THE TOPPING:\n1 lemon, sliced\n⅛ cup brown sugar",
+      "procedure": "Steep Meadows Earl Grey Tea bags in milk for at least 1 hour, or ideally, overnight. Discard the tea bags.\nPreheat oven to 175°C. Grease and flour a 9x5-inch loaf pan.\nIn a medium bowl, whisk together flour, baking powder, and salt.\nIn a large bowl, cream together butter and sugar until light and fluffy. Beat in the eggs one at a time, scraping down the sides of the bowl after each addition. \nAdd the dry ingredients to the wet ingredients, alternating with the cooled Earl Grey milk, starting and ending with the dry ingredients. Mix just until combined. \nPour the batter into the prepared loaf pan. Bake for 50-60 minutes, or until a toothpick inserted into the center comes out clean. Let cool in the pan for 10 minutes before transferring to a wire rack to cool completely. \nIn a small bowl, whisk together honey, lemon juice, and powdered sugar until smooth.\nOnce the cake is completely cool, drizzle the glaze over the top. Garnish with lemon slices and sprinkle with brown sugar. Lightly torch the top to caramelize the sugar."
     },
     "photo": {
       "filename": "ERLH6.jpg",
@@ -163,8 +163,8 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
       "servingTime": "2 hours and 5 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup Vitasoy Plus Original Soy Milk, warmed\n1 tbsp. matcha powder\n2 tbsps. maple syrup\n1/4 cup chia seeds\n2 cups strawberries, quartered\n2 tbsps. almonds, sliced\n1 tbsp. mint leaves",
-      "procedure": "Procedure\nIn a small bowl, whisk together Vitasoy Plus Soy Milk, matcha powder, and maple syrup.\nAdd in chia seeds and mix. Cover the bowl and refrigerate for at least 2-4 hours, or overnight. \nDivide the pudding into serving glasses, and top with strawberries and almonds. Garnish with mint leaves and serve."
+      "ingredients": "1 cup Vitasoy Plus Original Soy Milk, warmed\n1 tbsp. matcha powder\n2 tbsps. maple syrup\n1/4 cup chia seeds\n2 cups strawberries, quartered\n2 tbsps. almonds, sliced\n1 tbsp. mint leaves",
+      "procedure": "In a small bowl, whisk together Vitasoy Plus Soy Milk, matcha powder, and maple syrup.\nAdd in chia seeds and mix. Cover the bowl and refrigerate for at least 2-4 hours, or overnight. \nDivide the pudding into serving glasses, and top with strawberries and almonds. Garnish with mint leaves and serve."
     },
     "photo": {
       "filename": "ERLH7.jpg",
@@ -188,8 +188,8 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
       "servingTime": "2 hours and 5 mins",
       "yield": "10 servings",
       "tips": "",
-      "ingredients": "Ingredients\n4 cups Gatorade No Sugar Blue Bolt\n¾ cup lemon juice\n⅓ cup honey\n¼ cup water\n1 cup lemon, sliced",
-      "procedure": "Procedure\nIn a large pitcher, combine Gatorade No Sugar Blue Bolt, lemon juice, and water. Stir until well combined\nPlace a piece of sliced lemon into each popsicle mold, and pour the mixture ensuring it's evenly distributed.\nGently insert the popsicle sticks into the mixture, making sure they are centered.\nPlace the molds in the freezer for 2 hours, or until solid.\nRemove the popsicles from the molds and enjoy immediately."
+      "ingredients": "4 cups Gatorade No Sugar Blue Bolt\n¾ cup lemon juice\n⅓ cup honey\n¼ cup water\n1 cup lemon, sliced",
+      "procedure": "In a large pitcher, combine Gatorade No Sugar Blue Bolt, lemon juice, and water. Stir until well combined\nPlace a piece of sliced lemon into each popsicle mold, and pour the mixture ensuring it's evenly distributed.\nGently insert the popsicle sticks into the mixture, making sure they are centered.\nPlace the molds in the freezer for 2 hours, or until solid.\nRemove the popsicles from the molds and enjoy immediately."
     },
     "photo": {
       "filename": "ERLH8.jpg",
@@ -213,8 +213,8 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
       "servingTime": "5 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 ½ cup Del Monte Heart Smart Pineapple Juice\n2 tbsps. lime juice\n3 tbsps. honey\n2 tbsps. coconut flakes\n2 cups ice cubes\n½ cup coconut milk\n¼ cup pineapple, sliced\n¼ cup lime, sliced\n2 tbsps. mint leaves",
-      "procedure": "Procedure\nUsing a cocktail shaker, combine Del Monte Heart Smart Pineapple Juice, lime juice and 2 tablespoons honey.\nDip the rim of the serving glass into remaining honey, then coat with coconut flakes.\nFill the glass with ice and shaken pineapple juice. Slowly pour the coconut milk on top of the juice.\nGarnish with sliced pineapple, lime and mint leaves. Serve immediately."
+      "ingredients": "1 ½ cup Del Monte Heart Smart Pineapple Juice\n2 tbsps. lime juice\n3 tbsps. honey\n2 tbsps. coconut flakes\n2 cups ice cubes\n½ cup coconut milk\n¼ cup pineapple, sliced\n¼ cup lime, sliced\n2 tbsps. mint leaves",
+      "procedure": "Using a cocktail shaker, combine Del Monte Heart Smart Pineapple Juice, lime juice and 2 tablespoons honey.\nDip the rim of the serving glass into remaining honey, then coat with coconut flakes.\nFill the glass with ice and shaken pineapple juice. Slowly pour the coconut milk on top of the juice.\nGarnish with sliced pineapple, lime and mint leaves. Serve immediately."
     },
     "photo": {
       "filename": "ERLH9.jpg",
@@ -238,8 +238,8 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
       "servingTime": "30-35 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 tbsp. butter\n1 tbsp. all-purpose flour\n1 cup beef broth\n⅛ cup ketchup\n½ tsp. Worcestershire sauce\nSalt and pepper to taste\n2 cups Unmeat Roast Beef Style\n300g frozen french fries\n1 cup cheese curds\n1 tbsp. parsley, chopped",
-      "procedure": "Procedure\nIn a saucepan over medium heat, melt the butter. Whisk in the flour, and cook for 1-2 minutes, until the roux becomes a light golden brown.\nGradually whisk in beef broth until the gravy is smooth and thickened.\nStir in the ketchup, Worcestershire sauce, salt, and pepper. Bring to a simmer and cook for 5-7 minutes. \nIn a skillet, heat the Unmeat Roast Beef until reduced. Set aside for later.\nCook French fries according to package instructions.\nPlace a serving of hot french fries on a plate. Top with the heated Unmeat Roast Beef, cheese curds, and a generous amount of beef gravy. Garnish with chopped parsley."
+      "ingredients": "1 tbsp. butter\n1 tbsp. all-purpose flour\n1 cup beef broth\n⅛ cup ketchup\n½ tsp. Worcestershire sauce\nSalt and pepper to taste\n2 cups Unmeat Roast Beef Style\n300g frozen french fries\n1 cup cheese curds\n1 tbsp. parsley, chopped",
+      "procedure": "In a saucepan over medium heat, melt the butter. Whisk in the flour, and cook for 1-2 minutes, until the roux becomes a light golden brown.\nGradually whisk in beef broth until the gravy is smooth and thickened.\nStir in the ketchup, Worcestershire sauce, salt, and pepper. Bring to a simmer and cook for 5-7 minutes. \nIn a skillet, heat the Unmeat Roast Beef until reduced. Set aside for later.\nCook French fries according to package instructions.\nPlace a serving of hot french fries on a plate. Top with the heated Unmeat Roast Beef, cheese curds, and a generous amount of beef gravy. Garnish with chopped parsley."
     },
     "photo": {
       "filename": "ERLH10.jpg",

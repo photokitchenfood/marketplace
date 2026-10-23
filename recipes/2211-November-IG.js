@@ -11,7 +11,7 @@ const NOVEMBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "November IG",
-    "caption": "A savory dish that will definitely remind you of the tropics is this Halibut with Mango Dressing made with Kewpie Mango Dressing. Refreshing and delicious, the zingy, tangy flavors of mango add a punchy character to the halibut.\n\nApart from their iconic mayonnaise, Kewpie also makes a variety of lip-smacking sauces and dressings. Find them at #TheMarketplace the next time you drop by!\n\nServing Time: 20 minutes\nYield: 3 servings\n\nIngredients\n\n3 pcs. Halibut fillet\nSalt and pepper to taste\n2 tbsps. olive oil \n2 tbsps. butter \n1 mango, flesh diced\n1 cucumber, diced\n1 red onion, thinly sliced \n½ cup Kewpie Mango Dressing \n2 tbsps. Dill, chopped\n\nProcedure\n\n1. Pat dry Halibut fillets, then season with salt and pepper. \n2. Heat up olive oil in a non-stick pan over medium-high heat. Sear Halibut fillets until nicely browned on both sides. Add in butter, then baste for 3-5 minutes, or until fish is cooked through. \n3. Combines mangoes, cucumber, red onions, Kewpie Mango Dressing and dill. Season with salt and pepper to taste.\n4. Transfer cooked Halibut into a serving plate, then top with the mango dressing. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "A savory dish that will definitely remind you of the tropics is this Halibut with Mango Dressing made with Kewpie Mango Dressing. Refreshing and delicious, the zingy, tangy flavors of mango add a punchy character to the halibut.\n\nApart from their iconic mayonnaise, Kewpie also makes a variety of lip-smacking sauces and dressings. Find them at #TheMarketplace the next time you drop by!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Kewpie"
     ],
@@ -19,8 +19,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "20 minutes",
       "yield": "3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n3 pcs. Halibut fillet\nSalt and pepper to taste\n2 tbsps. olive oil \n2 tbsps. butter \n1 mango, flesh diced\n1 cucumber, diced\n1 red onion, thinly sliced \n½ cup Kewpie Mango Dressing \n2 tbsps. Dill, chopped",
-      "procedure": "Procedure\nPat dry Halibut fillets, then season with salt and pepper. \nHeat up olive oil in a non-stick pan over medium-high heat. Sear Halibut fillets until nicely browned on both sides. Add in butter, then baste for 3-5 minutes, or until fish is cooked through. \nCombines mangoes, cucumber, red onions, Kewpie Mango Dressing and dill. Season with salt and pepper to taste.\nTransfer cooked Halibut into a serving plate, then top with the mango dressing."
+      "ingredients": "3 pcs. Halibut fillet\nSalt and pepper to taste\n2 tbsps. olive oil \n2 tbsps. butter \n1 mango, flesh diced\n1 cucumber, diced\n1 red onion, thinly sliced \n½ cup Kewpie Mango Dressing \n2 tbsps. Dill, chopped",
+      "procedure": "Pat dry Halibut fillets, then season with salt and pepper. \nHeat up olive oil in a non-stick pan over medium-high heat. Sear Halibut fillets until nicely browned on both sides. Add in butter, then baste for 3-5 minutes, or until fish is cooked through. \nCombines mangoes, cucumber, red onions, Kewpie Mango Dressing and dill. Season with salt and pepper to taste.\nTransfer cooked Halibut into a serving plate, then top with the mango dressing."
     },
     "photo": {
       "filename": "IG1.jpg",
@@ -36,7 +36,7 @@ const NOVEMBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "November IG",
-    "caption": "One of the best pulutan is undeniably chicharon bulaklak, and thanks to Purefoods Chicharon Bulaklak, you can enjoy this sinful yet delicious cheat snack anytime you want.\n\nIn this Salt & Pepper Chicharon Bulaklak, we’ve jazzed up the chicharon with bell peppers cooked in oyster sauce for a smoky-sweet finish. Get packs of Purefoods Chicharon Bulaklak the next time you shop at #TheMarketplace!\n\nServing Time: 25 minutes\nYield: 4-6 servings\n\nIngredients\n\nCooking oil for deep-frying\n3 packs Purefoods Chicharon Bulaklak\nSalt to taste\n2 tbsps. sesame oil \n1 red bell pepper, sliced into chunks\n1 green bell pepper, sliced into chunks \n2 tbsps. oyster sauce \n2 tsps. black pepper, freshly ground\n4 red chilis, sliced\n2 green chilis, sliced \n\nProcedure\n\n1. Deep-fry Purefoods Chicharon Bulaklak until crisp and golden brown, about 5 minutes per batch. \n2. Drain, then season with salt immediately after removing from the hot oil. \n3. Sauté red and green bell peppers in sesame oil. Once soft, add in oyster sauce and black pepper. \n4. Toss in deep-fried Chicharon Bulaklak, red chilis and green chilis. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "One of the best pulutan is undeniably chicharon bulaklak, and thanks to Purefoods Chicharon Bulaklak, you can enjoy this sinful yet delicious cheat snack anytime you want.\n\nIn this Salt & Pepper Chicharon Bulaklak, we’ve jazzed up the chicharon with bell peppers cooked in oyster sauce for a smoky-sweet finish. Get packs of Purefoods Chicharon Bulaklak the next time you shop at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Purefoods"
     ],
@@ -44,8 +44,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "25 minutes",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\nCooking oil for deep-frying\n3 packs Purefoods Chicharon Bulaklak\nSalt to taste\n2 tbsps. sesame oil \n1 red bell pepper, sliced into chunks\n1 green bell pepper, sliced into chunks \n2 tbsps. oyster sauce \n2 tsps. black pepper, freshly ground\n4 red chilis, sliced\n2 green chilis, sliced",
-      "procedure": "Procedure\nDeep-fry Purefoods Chicharon Bulaklak until crisp and golden brown, about 5 minutes per batch. \nDrain, then season with salt immediately after removing from the hot oil. \nSauté red and green bell peppers in sesame oil. Once soft, add in oyster sauce and black pepper. \nToss in deep-fried Chicharon Bulaklak, red chilis and green chilis."
+      "ingredients": "Cooking oil for deep-frying\n3 packs Purefoods Chicharon Bulaklak\nSalt to taste\n2 tbsps. sesame oil \n1 red bell pepper, sliced into chunks\n1 green bell pepper, sliced into chunks \n2 tbsps. oyster sauce \n2 tsps. black pepper, freshly ground\n4 red chilis, sliced\n2 green chilis, sliced",
+      "procedure": "Deep-fry Purefoods Chicharon Bulaklak until crisp and golden brown, about 5 minutes per batch. \nDrain, then season with salt immediately after removing from the hot oil. \nSauté red and green bell peppers in sesame oil. Once soft, add in oyster sauce and black pepper. \nToss in deep-fried Chicharon Bulaklak, red chilis and green chilis."
     },
     "photo": {
       "filename": "IG2.jpg",
@@ -61,7 +61,7 @@ const NOVEMBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "November IG",
-    "caption": "This recipe for Liempo Kimchi Fried Rice is truly comfort in a bowl. Using Purefoods Pinoy BBQ ala Liempo sliced into strips, we created a kimchi fried rice unlike any other that’s tangy, savory, a tad spicy, and super meaty. Get all the ingredients that you need for this recipe at #TheMarketplace and try this recipe out this week! You won’t regret it, we promise.\n\nServing Time: 15 minutes\nYield: 4-6 servings\n\nIngredients\n\n3 tbsps. cooking oil \n1 pack Purefoods Pinoy BBQ ala Liempo, sliced into strips\n1 tbsp. sesame oil\n5 cloves garlic, chopped\n¼ cup. leeks, sliced\n1 ½ cups kimchi, chopped\n4 cups cooked white rice\n2 tbsps. soy sauce \nSalt and pepper to taste\n¼ cup nori strips \n4 eggs, cooked sunny-side-up\n\nProcedure\n\n1. Fry Purefoods Pinoy BBQ ala Liempo until nicely browned. Set aside while retaining oil in the pan. \n2. Add sesame oil in the same pan, then sauté garlic and 2 tbsps. leeks until soft. Mix in kimchi, white rice and soy sauce. Toss together until everything is well combined. Season with salt and pepper. \n3. Add back fried Purefoods Pinoy BBQ ala Liempo, and toss again to combine. \n4. Top each serving with nori strips and 1 sunny-side-up egg each. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "This recipe for Liempo Kimchi Fried Rice is truly comfort in a bowl. Using Purefoods Pinoy BBQ ala Liempo sliced into strips, we created a kimchi fried rice unlike any other that’s tangy, savory, a tad spicy, and super meaty. Get all the ingredients that you need for this recipe at #TheMarketplace and try this recipe out this week! You won’t regret it, we promise.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Purefoods"
     ],
@@ -69,8 +69,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "15 minutes",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n3 tbsps. cooking oil \n1 pack Purefoods Pinoy BBQ ala Liempo, sliced into strips\n1 tbsp. sesame oil\n5 cloves garlic, chopped\n¼ cup. leeks, sliced\n1 ½ cups kimchi, chopped\n4 cups cooked white rice\n2 tbsps. soy sauce \nSalt and pepper to taste\n¼ cup nori strips \n4 eggs, cooked sunny-side-up",
-      "procedure": "Procedure\nFry Purefoods Pinoy BBQ ala Liempo until nicely browned. Set aside while retaining oil in the pan. \nAdd sesame oil in the same pan, then sauté garlic and 2 tbsps. leeks until soft. Mix in kimchi, white rice and soy sauce. Toss together until everything is well combined. Season with salt and pepper. \nAdd back fried Purefoods Pinoy BBQ ala Liempo, and toss again to combine. \nTop each serving with nori strips and 1 sunny-side-up egg each."
+      "ingredients": "3 tbsps. cooking oil \n1 pack Purefoods Pinoy BBQ ala Liempo, sliced into strips\n1 tbsp. sesame oil\n5 cloves garlic, chopped\n¼ cup. leeks, sliced\n1 ½ cups kimchi, chopped\n4 cups cooked white rice\n2 tbsps. soy sauce \nSalt and pepper to taste\n¼ cup nori strips \n4 eggs, cooked sunny-side-up",
+      "procedure": "Fry Purefoods Pinoy BBQ ala Liempo until nicely browned. Set aside while retaining oil in the pan. \nAdd sesame oil in the same pan, then sauté garlic and 2 tbsps. leeks until soft. Mix in kimchi, white rice and soy sauce. Toss together until everything is well combined. Season with salt and pepper. \nAdd back fried Purefoods Pinoy BBQ ala Liempo, and toss again to combine. \nTop each serving with nori strips and 1 sunny-side-up egg each."
     },
     "photo": {
       "filename": "IG3.jpg",
@@ -86,7 +86,7 @@ const NOVEMBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "November IG",
-    "caption": "Used in a lot in Asian dishes, five-spice powder comprises cloves, ground star anise, Chinese cinnamon, fennel seeds, and Sichuan peppercorns. It has that familiar smell that instantly reminds you of Taiwanese street food snacks, especially Taiwanese fried chicken!\n\nTaking cues from that, we made this Sticky 5-Spice Roast Chicken with Bounty Family Feast Whole Chicken that captures all those Asian flavors in a format that’s worth gathering around the table for.\n\nFind all the ingredients you need for this recipe, along with other Bounty Fresh products, at #TheMarketplace!\n\nServing Time: 1 hour and 30 minutes\nYield: 4 servings\n\nIngredients\n\n1 pack Bounty Family Feast Whole Chicken \nSalt and pepper \n¼ cup hoisin\n2 tbsps. honey \n2 tbsps. oyster sauce\n2 tbsps. dark soy sauce\n5 cloves garlic cloves, minced\n1 tbsp. Chinese five-spice powder\n2 tsps. sesame seeds\n\nProcedure\n\n1. Preheat oven to 175C. Pat dry Bounty Family Feast Whole Chicken, then season with salt and pepper all over. Transfer into a baking tray. \n2. Combine hoisin, honey, oyster sauce, dark soy sauce, garlic, Chinese five-spice powder and sesame seeds. Brush this all over the chicken, then bake for 1 hour.\n3. Increase the oven temperature to 190C, then bake the chicken for an additional 15 minutes. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Used in a lot in Asian dishes, five-spice powder comprises cloves, ground star anise, Chinese cinnamon, fennel seeds, and Sichuan peppercorns. It has that familiar smell that instantly reminds you of Taiwanese street food snacks, especially Taiwanese fried chicken!\n\nTaking cues from that, we made this Sticky 5-Spice Roast Chicken with Bounty Family Feast Whole Chicken that captures all those Asian flavors in a format that’s worth gathering around the table for.\n\nFind all the ingredients you need for this recipe, along with other Bounty Fresh products, at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Bounty Fresh"
     ],
@@ -94,8 +94,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "1 hour 30 minutes",
       "yield": "4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 pack Bounty Family Feast Whole Chicken \nSalt and pepper \n¼ cup hoisin\n2 tbsps. honey \n2 tbsps. oyster sauce\n2 tbsps. dark soy sauce\n5 cloves garlic cloves, minced\n1 tbsp. Chinese five-spice powder\n2 tsps. sesame seeds",
-      "procedure": "Procedure\nPreheat oven to 175C. Pat dry Bounty Family Feast Whole Chicken, then season with salt and pepper all over. Transfer into a baking tray. \nCombine hoisin, honey, oyster sauce, dark soy sauce, garlic, Chinese five-spice powder and sesame seeds. Brush this all over the chicken, then bake for 1 hour. \nIncrease the oven temperature to 190C, then bake the chicken for an additional 15 minutes."
+      "ingredients": "1 pack Bounty Family Feast Whole Chicken \nSalt and pepper \n¼ cup hoisin\n2 tbsps. honey \n2 tbsps. oyster sauce\n2 tbsps. dark soy sauce\n5 cloves garlic cloves, minced\n1 tbsp. Chinese five-spice powder\n2 tsps. sesame seeds",
+      "procedure": "Preheat oven to 175C. Pat dry Bounty Family Feast Whole Chicken, then season with salt and pepper all over. Transfer into a baking tray. \nCombine hoisin, honey, oyster sauce, dark soy sauce, garlic, Chinese five-spice powder and sesame seeds. Brush this all over the chicken, then bake for 1 hour. \nIncrease the oven temperature to 190C, then bake the chicken for an additional 15 minutes."
     },
     "photo": {
       "filename": "IG4.jpg",
@@ -168,7 +168,7 @@ const NOVEMBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "November IG",
-    "caption": "Sometimes, all you need is a simple yet delicious breakfast, and this Pesto Egg Toast checks those boxes.\n\nMade with Marby Superloaf, simply fry the bread on a pan with butter, add pesto, then crack an egg in. You can easily make this in under ten minutes and get ready for the day! Make this Pesto Egg Toast at home and get all the ingredients you need for this recipe at #TheMarketplace!\n\nServing Time: 8 minutes\nYield: 3 servings\n\nIngredients\n\n2 tbsps. Butter, melted\n3 slices Marby Superloaf\n6 tbsps. pesto\n3 eggs\nSalt and pepper to taste\n\nProcedure\n\n1. Brush Marby Superloaf bread slices with butter, then toast until crispy golden brown.\n2. In a small non-stick pan, add in 2 tbsps. of pesto at a time, then crack an egg in. Season with salt and pepper, and cook until desired doneness of egg. Slide over on top of one toasted bread. \n3. Repeat for remaining pesto, eggs and bread. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Sometimes, all you need is a simple yet delicious breakfast, and this Pesto Egg Toast checks those boxes.\n\nMade with Marby Superloaf, simply fry the bread on a pan with butter, add pesto, then crack an egg in. You can easily make this in under ten minutes and get ready for the day! Make this Pesto Egg Toast at home and get all the ingredients you need for this recipe at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Marby"
     ],
@@ -176,8 +176,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "8 minutes",
       "yield": "3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. Butter, melted\n3 slices Marby Superloaf\n6 tbsps. pesto\n3 eggs\nSalt and pepper to taste",
-      "procedure": "Procedure\nBrush Marby Superloaf bread slices with butter, then toast until crispy golden brown.\nIn a small non-stick pan, add in 2 tbsps. of pesto at a time, then crack an egg in. Season with salt and pepper, and cook until desired doneness of egg. Slide over on top of one toasted bread. \nRepeat for remaining pesto, eggs and bread."
+      "ingredients": "2 tbsps. Butter, melted\n3 slices Marby Superloaf\n6 tbsps. pesto\n3 eggs\nSalt and pepper to taste",
+      "procedure": "Brush Marby Superloaf bread slices with butter, then toast until crispy golden brown.\nIn a small non-stick pan, add in 2 tbsps. of pesto at a time, then crack an egg in. Season with salt and pepper, and cook until desired doneness of egg. Slide over on top of one toasted bread. \nRepeat for remaining pesto, eggs and bread."
     },
     "photo": {
       "filename": "FB1.jpg",
@@ -193,7 +193,7 @@ const NOVEMBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "November IG",
-    "caption": "These pigs in a blanket scream “Arriba!” in this recipe for Mexican Pigs-in-a-Blanket made with Bambi Whole Wheat Tortillas.\n\nApart from the use of tortillas, this classic comfort food of sausage-stuffed pastry, is packed with a Mexican twist thanks to refried beans, melted cheese, salsa, and a whisper of mustard. Make this for your next pika-pika spread and get all the ingredients you need at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 16 pieces\n\nIngredients\n\n½ cup refried beans \n2 pcs. Bambi Whole Wheat Tortillas \n2 tbsps. cooking oil\n4 pcs. Sausages\n½ cup quickmelt cheese, grated\n½ cup salsa \n¼ cup yellow mustard \n\nProcedure\n\n1. Spread ¼ cup refried beans on each Bambi Whole Wheat Tortilla. Slice 4 times to make 8 triangles. Repeat for remaining tortilla and refried beans. \n2. Fry sausages in oil until nicely browned and warmed through. \n3. Slice each sausage into 4. Wrap each piece of sausage with a tortilla triangle, then place onto a baking tray. \n4. Top all tortilla-wrapped sausages with cheese, then broil until cheese is melted and tortillas are toasted. \n5. Serve with salsa and mustard. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "These pigs in a blanket scream “Arriba!” in this recipe for Mexican Pigs-in-a-Blanket made with Bambi Whole Wheat Tortillas.\n\nApart from the use of tortillas, this classic comfort food of sausage-stuffed pastry, is packed with a Mexican twist thanks to refried beans, melted cheese, salsa, and a whisper of mustard. Make this for your next pika-pika spread and get all the ingredients you need at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Bambi"
     ],
@@ -201,8 +201,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "15 minutes",
       "yield": "16 pcs.",
       "tips": "",
-      "ingredients": "Ingredients\n½ cup refried beans \n2 pcs. Bambi Whole Wheat Tortillas \n2 tbsps. cooking oil\n4 pcs. Sausages\n½ cup quickmelt cheese, grated\n½ cup salsa \n¼ cup yellow mustard",
-      "procedure": "Procedure\nSpread ¼ cup refried beans on each Bambi Whole Wheat Tortilla. Slice 4 times to make 8 triangles. Repeat for remaining tortilla and refried beans. \nFry sausages in oil until nicely browned and warmed through. \nSlice each sausage into 4. Wrap each piece of sausage with a tortilla triangle, then place onto a baking tray. \nTop all tortilla-wrapped sausages with cheese, then broil until cheese is melted and tortillas are toasted. \nServe with salsa and mustard."
+      "ingredients": "½ cup refried beans \n2 pcs. Bambi Whole Wheat Tortillas \n2 tbsps. cooking oil\n4 pcs. Sausages\n½ cup quickmelt cheese, grated\n½ cup salsa \n¼ cup yellow mustard",
+      "procedure": "Spread ¼ cup refried beans on each Bambi Whole Wheat Tortilla. Slice 4 times to make 8 triangles. Repeat for remaining tortilla and refried beans. \nFry sausages in oil until nicely browned and warmed through. \nSlice each sausage into 4. Wrap each piece of sausage with a tortilla triangle, then place onto a baking tray. \nTop all tortilla-wrapped sausages with cheese, then broil until cheese is melted and tortillas are toasted. \nServe with salsa and mustard."
     },
     "photo": {
       "filename": "FB2.jpg",
@@ -218,7 +218,7 @@ const NOVEMBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "November IG",
-    "caption": "Here’s one of those recipes that’s a no-brainer and is a pantry masterpiece: Beef Salpicao Udon.\n\nUsing Kitchen City Beef Salpicao, this is great to whip up especially if you have leftover packets of udon in your fridge. Simply cook with bok choy and spring onions, and you have a filling meal that’ll surely please your belly and taste buds! Find Kitchen City Beef Salpicao, along with other ready-to-heat cooked foods at #TheMarketplace!\n\nServing Time: 12 minutes\nYield: 3-4 servings\n\nIngredients\n\n2 packs udon\n2 packs Kitchen City Beef Salpicao\n1 cup bok choy\nSalt and pepper to taste\n3 tbsps. spring onions, chopped\n\nProcedure\n\n1. Cook udon for 3-4 minutes, or until al dente. Set aside ½ cup noodle water before draining. \n2. Set pan over medium heat, then add in Kitchen City Beef Salpicao. Once reheated, add in bok choy and cooked udon. Mix well.\n3. Mix in noodle water. Season with salt and pepper as needed.\n4. Transfer to a serving plate. Top with spring onions.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Here’s one of those recipes that’s a no-brainer and is a pantry masterpiece: Beef Salpicao Udon.\n\nUsing Kitchen City Beef Salpicao, this is great to whip up especially if you have leftover packets of udon in your fridge. Simply cook with bok choy and spring onions, and you have a filling meal that’ll surely please your belly and taste buds! Find Kitchen City Beef Salpicao, along with other ready-to-heat cooked foods at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Kitchen City"
     ],
@@ -226,8 +226,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "12 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 packs udon\n2 packs Kitchen City Beef Salpicao\n1 cup bok choy\nSalt and pepper to taste\n3 tbsps. spring onions, chopped",
-      "procedure": "Procedure\nCook udon for 3-4 minutes, or until al dente. Set aside ½ cup noodle water before draining. \nSet pan over medium heat, then add in Kitchen City Beef Salpicao. Once reheated, add in bok choy and cooked udon. Mix well.\nMix in noodle water. Season with salt and pepper as needed.\nTransfer to a serving plate. Top with spring onions."
+      "ingredients": "2 packs udon\n2 packs Kitchen City Beef Salpicao\n1 cup bok choy\nSalt and pepper to taste\n3 tbsps. spring onions, chopped",
+      "procedure": "Cook udon for 3-4 minutes, or until al dente. Set aside ½ cup noodle water before draining. \nSet pan over medium heat, then add in Kitchen City Beef Salpicao. Once reheated, add in bok choy and cooked udon. Mix well.\nMix in noodle water. Season with salt and pepper as needed.\nTransfer to a serving plate. Top with spring onions."
     },
     "photo": {
       "filename": "FB3.jpg",
@@ -262,7 +262,7 @@ const NOVEMBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "November IG",
-    "caption": "Missing summer these ber-months? Concoct this Coconut Mojito in less than ten minutes using Dizon Fresh Buko Juice! White rum is all you need to turn this drink into a boozy treat, or enjoy it as a mocktail, too! Head over to #TheMarketplace now and get all the ingredients you need for this drink today!\n\nServing Time: 5 minutes\nYield: 2 servings\n\nIngredients\n\n2 tbsps. light corn syrup\n3 tbsps. coconut flakes\n3 tbsps. mint leaves \n¼ cup lime slices\n½ tbsp. calamansi concentrate\n3 shots white rum\n2 cups ice\n½ cup Dizon Fresh Buko Juice\n½ cup tonic water\n\nProcedure\n\n1. Coat the rim of a glass with light corn syrup and coconut flakes.\n2. In a cocktail shaker, add in 2 tbsps. of mint leaves and half of the lime slices. Mash together using a muddler. \n3. Add in calamansi concentrate and white rum. Fill with one cup ice and Dizon Fresh Buko Juice. Shake until well combined.\n4. Fill serving glasses with remaining mint, lime and ice. Pour the Coconut Mojito mixture halfway into each glass, then top  with tonic water.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Missing summer these ber-months? Concoct this Coconut Mojito in less than ten minutes using Dizon Fresh Buko Juice! White rum is all you need to turn this drink into a boozy treat, or enjoy it as a mocktail, too! Head over to #TheMarketplace now and get all the ingredients you need for this drink today!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Dizon Fresh"
     ],
@@ -270,8 +270,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "5 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. light corn syrup\n3 tbsps. coconut flakes\n3 tbsps. mint leaves \n¼ cup lime slices\n½ tbsp. calamansi concentrate\n3 shots white rum\n2 cups ice\n½ cup Dizon Fresh Buko Juice\n½ cup tonic water",
-      "procedure": "Procedure\nCoat the rim of a glass with light corn syrup and coconut flakes.\nIn a cocktail shaker, add in 2 tbsps. of mint leaves and half of the lime slices. Mash together using a muddler. \nAdd in calamansi concentrate and white rum. Fill with one cup ice and Dizon Fresh Buko Juice. Shake until well combined.\nFill serving glasses with remaining mint, lime and ice. Pour the Coconut Mojito mixture halfway into each glass, then top  with tonic water."
+      "ingredients": "2 tbsps. light corn syrup\n3 tbsps. coconut flakes\n3 tbsps. mint leaves \n¼ cup lime slices\n½ tbsp. calamansi concentrate\n3 shots white rum\n2 cups ice\n½ cup Dizon Fresh Buko Juice\n½ cup tonic water",
+      "procedure": "Coat the rim of a glass with light corn syrup and coconut flakes.\nIn a cocktail shaker, add in 2 tbsps. of mint leaves and half of the lime slices. Mash together using a muddler. \nAdd in calamansi concentrate and white rum. Fill with one cup ice and Dizon Fresh Buko Juice. Shake until well combined.\nFill serving glasses with remaining mint, lime and ice. Pour the Coconut Mojito mixture halfway into each glass, then top  with tonic water."
     },
     "photo": {
       "filename": "FB5.jpg",
@@ -325,7 +325,7 @@ const NOVEMBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "November IG",
-    "caption": "Need ideas for a meatless Monday — or any day for that matter! Veggies are always good for you, especially when tossed in a delicious yogurt dressing made with DVF Greek-Style Yogurt.\n\nThis Roasted Cauliflower Salad with Yogurt Dressing combines the refreshing flavors of lemon, dill, and coriander, studded with tangy bites of cranberry, nutty cashews, and smoky paprika. Actually, you won’t even miss eating meat after you’ve tried this delish dish. Find all the ingredients you need to whip up this scrumptious salad at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 2-3 servings\n\nIngredients\n\nYogurt Dressing:\n1 pack DVF Greek-Style Yogurt\n2 tbsps. lemon juice\n1 tbsp. dijon mustard \n1 cup parsley, chopped\n1 cup dill, chopped \nSalt and pepper to taste\nCauliflower Salad:\n5 cups cauliflower, chunks\n4 tbsps. olive oil\n1 tsp. paprika\n1 pc. red onion, sliced\n1 cup cilantro sprigs\n½ cup cashews, chopped\n½ cup dried cranberries\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. In a bowl, combine DVF Greek-Style Yogurt, lemon juice, dijon mustard, parsley and dill. Season with salt and pepper. Set aside.\n3. In a baking tray, add cauliflower and coat with olive oil. Season with salt and pepper, then mix in paprika. Bake for 15-20 minutes.\n4. In a large bowl, toss together roasted cauliflower, red onions, cilantro, cashews and dried cranberries.\n5. Create a bed of yogurt dressing, then top with roasted cauliflower salad.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Need ideas for a meatless Monday — or any day for that matter! Veggies are always good for you, especially when tossed in a delicious yogurt dressing made with DVF Greek-Style Yogurt.\n\nThis Roasted Cauliflower Salad with Yogurt Dressing combines the refreshing flavors of lemon, dill, and coriander, studded with tangy bites of cranberry, nutty cashews, and smoky paprika. Actually, you won’t even miss eating meat after you’ve tried this delish dish. Find all the ingredients you need to whip up this scrumptious salad at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "DVF"
     ],
@@ -333,8 +333,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "30 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\nYogurt Dressing:\n1 pack DVF Greek-Style Yogurt\n2 tbsps. lemon juice\n1 tbsp. dijon mustard \n1 cup parsley, chopped\n1 cup dill, chopped \nSalt and pepper to taste\nCauliflower Salad:\n5 cups cauliflower, chunks\n4 tbsps. olive oil\n1 tsp. paprika\n1 pc. red onion, sliced\n1 cup cilantro sprigs\n½ cup cashews, chopped\n½ cup dried cranberries",
-      "procedure": "Procedure\nPreheat oven to 175°C.\nIn a bowl, combine DVF Greek-Style Yogurt, lemon juice, dijon mustard, parsley and dill. Season with salt and pepper. Set aside.\nIn a baking tray, add cauliflower and coat with olive oil. Season with salt and pepper, then mix in paprika. Bake for 15-20 minutes.\nIn a large bowl, toss together roasted cauliflower, red onions, cilantro, cashews and dried cranberries.\nCreate a bed of yogurt dressing, then top with roasted cauliflower salad."
+      "ingredients": "Yogurt Dressing:\n1 pack DVF Greek-Style Yogurt\n2 tbsps. lemon juice\n1 tbsp. dijon mustard \n1 cup parsley, chopped\n1 cup dill, chopped \nSalt and pepper to taste\nCauliflower Salad:\n5 cups cauliflower, chunks\n4 tbsps. olive oil\n1 tsp. paprika\n1 pc. red onion, sliced\n1 cup cilantro sprigs\n½ cup cashews, chopped\n½ cup dried cranberries",
+      "procedure": "Preheat oven to 175°C.\nIn a bowl, combine DVF Greek-Style Yogurt, lemon juice, dijon mustard, parsley and dill. Season with salt and pepper. Set aside.\nIn a baking tray, add cauliflower and coat with olive oil. Season with salt and pepper, then mix in paprika. Bake for 15-20 minutes.\nIn a large bowl, toss together roasted cauliflower, red onions, cilantro, cashews and dried cranberries.\nCreate a bed of yogurt dressing, then top with roasted cauliflower salad."
     },
     "photo": {
       "filename": "FB8.jpg",
@@ -350,7 +350,7 @@ const NOVEMBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "November IG",
-    "caption": "Got some kimchi and udon in the fridge? Put them together and make this easy Cheesy Kimchi Udon with Eden Cheese!\n\nWe added some beef sukiyaki in the recipe, but no pressure if you’d like to stick to having it beef-free! This comforting dish is part-Asian, part-Western, and 100% good. Grab a block of Eden Cheese and get cooking! All the ingredients you need for this recipe are available at #TheMarketplace.\n\nServing Time: 30 minutes\nYield: 2-3 servings\n\nIngredients\n\n2 packs udon\n2 tbsps. cooking oil \n300g beef sukiyaki\n2 tbsps. butter\n5 cloves garlic, minced\n½ cup kimchi, chopped\n1 tbsp. gochujang\n1 cup Eden Cheese, grated\n1 cup cream\n1 tsp. gochugaru\n2 tbsps. sugar\nSalt and pepper to taste\n½ cup spring onions, chopped\n\nProcedure\n\n1. Cook udon until al dente, about 3-4 minutes. Drain, then set aside. \n2. Set a pan over medium heat, then sear beef sukiyaki until golden brown. Set aside.\n3. In the same pan, add butter. Sauté garlic, kimchi and gochujang until slightly toasted. \n4. Mix in cream, ¾ cup Eden Cheese, gochugaru and sugar. Cook until cheese is fully melted and sauce has thickened. \n5. Toss in cooked udon and seared beef sukiyaki. Season with salt and pepper to taste.\n6. Garnish with spring onions and remaining Eden Cheese.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Got some kimchi and udon in the fridge? Put them together and make this easy Cheesy Kimchi Udon with Eden Cheese!\n\nWe added some beef sukiyaki in the recipe, but no pressure if you’d like to stick to having it beef-free! This comforting dish is part-Asian, part-Western, and 100% good. Grab a block of Eden Cheese and get cooking! All the ingredients you need for this recipe are available at #TheMarketplace.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Eden"
     ],
@@ -358,8 +358,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "30 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 packs udon\n2 tbsps. cooking oil \n300g beef sukiyaki\n2 tbsps. butter\n5 cloves garlic, minced\n½ cup kimchi, chopped\n1 tbsp. gochujang\n1 cup Eden Cheese, grated\n1 cup cream\n1 tsp. gochugaru\n2 tbsps. Sugar\nSalt and pepper to taste\n½ cup spring onions, chopped",
-      "procedure": "Procedure\nCook udon until al dente, about 3-4 minutes. Drain, then set aside. \nSet a pan over medium heat, then sear beef sukiyaki until golden brown. Set aside.\nIn the same pan, add butter. Sauté garlic, kimchi and gochujang until slightly toasted. \nMix in cream, ¾ cup Eden Cheese, gochugaru and sugar. Cook until cheese is fully melted and sauce has thickened. \nToss in cooked udon and seared beef sukiyaki. Season with salt and pepper to taste.\nGarnish with spring onions and remaining Eden Cheese."
+      "ingredients": "2 packs udon\n2 tbsps. cooking oil \n300g beef sukiyaki\n2 tbsps. butter\n5 cloves garlic, minced\n½ cup kimchi, chopped\n1 tbsp. gochujang\n1 cup Eden Cheese, grated\n1 cup cream\n1 tsp. gochugaru\n2 tbsps. Sugar\nSalt and pepper to taste\n½ cup spring onions, chopped",
+      "procedure": "Cook udon until al dente, about 3-4 minutes. Drain, then set aside. \nSet a pan over medium heat, then sear beef sukiyaki until golden brown. Set aside.\nIn the same pan, add butter. Sauté garlic, kimchi and gochujang until slightly toasted. \nMix in cream, ¾ cup Eden Cheese, gochugaru and sugar. Cook until cheese is fully melted and sauce has thickened. \nToss in cooked udon and seared beef sukiyaki. Season with salt and pepper to taste.\nGarnish with spring onions and remaining Eden Cheese."
     },
     "photo": {
       "filename": "FB9.jpg",
@@ -375,7 +375,7 @@ const NOVEMBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "November IG",
-    "caption": "Planning a dinner spread tonight? Then you must make these Crispy Garlic Smashed Potatoes that are oozing with texture and flavor thanks to Anchor Pure New Zealand Butter.\n\nThe perfect accompaniment to steaks, pork chops, fish, chicken — or even on their own, these garlicky smashed taters are the perfect carb to pair with your proteins. Head over to #TheMarketplace now or opt for online delivery to get these ingredients at your doorstep!\n\nServing Time: 40-45 minutes\nYield: 2-3 servings\n\nIngredients\n\n400g marble potatoes\nSalt and pepper to taste\n¼ cup olive oil\n⅔ cup Anchor Pure New Zealand Butter\n6 cloves garlic, minced\n3 tbsps. parsley, chopped\n½ cup parmesan cheese\n\nProcedure\n\n1. Preheat oven to 210°C.\n2. Boil marble potatoes in heavily salted water, and cook until fork tender.\n3. Transfer boiled potatoes in a baking tray. Gently smash using a potato masher or measuring cup, making sure the potatoes remain intact.\n4. Drizzle with olive oil , then eason with salt and pepper. Bake for 20-30 minutes or until golden brown and crispy.\n5. Melt together Anchor Pure New Zealand Butter and garlic. Once garlic is golden brown, mix in parsley and parmesan cheese.\n6. Top potatoes with garlic butter before serving.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Planning a dinner spread tonight? Then you must make these Crispy Garlic Smashed Potatoes that are oozing with texture and flavor thanks to Anchor Pure New Zealand Butter.\n\nThe perfect accompaniment to steaks, pork chops, fish, chicken — or even on their own, these garlicky smashed taters are the perfect carb to pair with your proteins. Head over to #TheMarketplace now or opt for online delivery to get these ingredients at your doorstep!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Anchor"
     ],
@@ -383,8 +383,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "40-45 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n400g marble potatoes\nSalt and pepper to taste\n¼ cup olive oil\n⅔ cup Anchor Pure New Zealand Butter\n6 cloves garlic, minced\n3 tbsps. parsley, chopped\n½ cup parmesan cheese",
-      "procedure": "Procedure\nPreheat oven to 210°C.\nBoil marble potatoes in heavily salted water, and cook until fork tender.\nTransfer boiled potatoes in a baking tray. Gently smash using a potato masher or measuring cup, making sure the potatoes remain intact.\nDrizzle with olive oil , then eason with salt and pepper. Bake for 20-30 minutes or until golden brown and crispy.\nMelt together Anchor Pure New Zealand Butter and garlic. Once garlic is golden brown, mix in parsley and parmesan cheese.\nTop potatoes with garlic butter before serving."
+      "ingredients": "400g marble potatoes\nSalt and pepper to taste\n¼ cup olive oil\n⅔ cup Anchor Pure New Zealand Butter\n6 cloves garlic, minced\n3 tbsps. parsley, chopped\n½ cup parmesan cheese",
+      "procedure": "Preheat oven to 210°C.\nBoil marble potatoes in heavily salted water, and cook until fork tender.\nTransfer boiled potatoes in a baking tray. Gently smash using a potato masher or measuring cup, making sure the potatoes remain intact.\nDrizzle with olive oil , then eason with salt and pepper. Bake for 20-30 minutes or until golden brown and crispy.\nMelt together Anchor Pure New Zealand Butter and garlic. Once garlic is golden brown, mix in parsley and parmesan cheese.\nTop potatoes with garlic butter before serving."
     },
     "photo": {
       "filename": "FB10.jpg",

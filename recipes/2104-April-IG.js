@@ -20,8 +20,8 @@ const APRIL_IG_DATA = [
       "servingTime": "15 minutes",
       "yield": "1-2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n½ can Spam or luncheon meat, sliced  \n2 sausages, sliced \n1 pack Nongshim Claypot Ramyun\n½ block tofu, sliced \n4 pcs. bok choy\n¼ cup shiitake mushrooms, sliced \n2 tbsps. leeks, sliced",
-      "procedure": "Procedure\nFry Spam and sausages until toasted. \nCook Nongshim Claypot Ramyun according to package directions. \nTop with fried Spam, sausages, tofu, bok choy and shiitake mushrooms. Cover and let cook for 2-3 minutes. \nGarnish with leeks."
+      "ingredients": "½ can Spam or luncheon meat, sliced  \n2 sausages, sliced \n1 pack Nongshim Claypot Ramyun\n½ block tofu, sliced \n4 pcs. bok choy\n¼ cup shiitake mushrooms, sliced \n2 tbsps. leeks, sliced",
+      "procedure": "Fry Spam and sausages until toasted. \nCook Nongshim Claypot Ramyun according to package directions. \nTop with fried Spam, sausages, tofu, bok choy and shiitake mushrooms. Cover and let cook for 2-3 minutes. \nGarnish with leeks."
     },
     "photo": {
       "filename": "IG1.jpg",
@@ -45,8 +45,8 @@ const APRIL_IG_DATA = [
       "servingTime": "30 minutes",
       "yield": "6-8 crepes",
       "tips": "",
-      "ingredients": "Ingredients\nCRÊPES:\n½ cup flour \n1 egg\n½ cup milk \n½ cup water \n1 tbsp. butter, melted \n½ tsp. vanilla \n2 tsps. white sugar \n\nFILLING/TOPPING:\n½ cup chocolate spread \n½ cup mangoes, cubed \n¼ cup pistachios, chopped \n1 pack Cocoa Monster Dark Chocolate Dried Mangoes",
-      "procedure": "Procedure\nCombine all crêpe ingredients in a bowl. Whisk until well combined. Strain to remove lumps. Chill for 5 minutes. \nHeat a non-stick pan over medium heat. Ladle in ¼ cup of the crêpe batter and swirl immediately to spread the batter thinly. Once edges are slightly browned and bubbles start to form in the middle, flip the crêpe and cook for 1 more minute. \nRepeat for the remaining crêpe batter. \nFill each crêpe with chocolate spread and mango cubes. Top with pistachios and Cocoa Monster Dark Chocolate Dried Mangoes."
+      "ingredients": "CRÊPES:\n½ cup flour \n1 egg\n½ cup milk \n½ cup water \n1 tbsp. butter, melted \n½ tsp. vanilla \n2 tsps. white sugar \n\nFILLING/TOPPING:\n½ cup chocolate spread \n½ cup mangoes, cubed \n¼ cup pistachios, chopped \n1 pack Cocoa Monster Dark Chocolate Dried Mangoes",
+      "procedure": "Combine all crêpe ingredients in a bowl. Whisk until well combined. Strain to remove lumps. Chill for 5 minutes. \nHeat a non-stick pan over medium heat. Ladle in ¼ cup of the crêpe batter and swirl immediately to spread the batter thinly. Once edges are slightly browned and bubbles start to form in the middle, flip the crêpe and cook for 1 more minute. \nRepeat for the remaining crêpe batter. \nFill each crêpe with chocolate spread and mango cubes. Top with pistachios and Cocoa Monster Dark Chocolate Dried Mangoes."
     },
     "photo": {
       "filename": "IG2.jpg",
@@ -70,8 +70,8 @@ const APRIL_IG_DATA = [
       "servingTime": "15 minutes",
       "yield": "10-12 cookies",
       "tips": "",
-      "ingredients": "Ingredients\n½ cup white sugar \n½ cup corn syrup\n½ cup peanut butter \n3 cups Honey Gold Cornflakes",
-      "procedure": "Procedure\nLine a tray with wax paper. \nIn a saucepan, heat together sugar and corn syrup over medium heat. Stir continuously until sugar is dissolved. \nTurn off the heat, and mix in peanut butter. \nCombine peanut butter-sugar mixture and Honey Gold Cornflakes. Carefully mix together until cornflakes are well coated. \nDrop cornflake mixture by the spoonful onto lined tray. \nChill for 5-8 minutes, or until set."
+      "ingredients": "½ cup white sugar \n½ cup corn syrup\n½ cup peanut butter \n3 cups Honey Gold Cornflakes",
+      "procedure": "Line a tray with wax paper. \nIn a saucepan, heat together sugar and corn syrup over medium heat. Stir continuously until sugar is dissolved. \nTurn off the heat, and mix in peanut butter. \nCombine peanut butter-sugar mixture and Honey Gold Cornflakes. Carefully mix together until cornflakes are well coated. \nDrop cornflake mixture by the spoonful onto lined tray. \nChill for 5-8 minutes, or until set."
     },
     "photo": {
       "filename": "IG3.jpg",
@@ -95,8 +95,8 @@ const APRIL_IG_DATA = [
       "servingTime": "5 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\nOrange wedge for rimming glasses\nBrown sugar for rimming glasses\nOrange and lime slices for serving  \n2 cups Ceres 100% Orange Juice, chilled\n¼ cup lime juice \n¼ cup tequila \n1 bottle champagne or prosecco, chilled",
-      "procedure": "Procedure\nRim each glass with an orange wedge and dip in brown sugar to coat. Garnish each glass with an orange and lime slice. \nIn a pitcher, combine orange juice, lime juice and tequila.\nDivide into your serving glasses. Top with champagne or prosecco."
+      "ingredients": "Orange wedge for rimming glasses\nBrown sugar for rimming glasses\nOrange and lime slices for serving  \n2 cups Ceres 100% Orange Juice, chilled\n¼ cup lime juice \n¼ cup tequila \n1 bottle champagne or prosecco, chilled",
+      "procedure": "Rim each glass with an orange wedge and dip in brown sugar to coat. Garnish each glass with an orange and lime slice. \nIn a pitcher, combine orange juice, lime juice and tequila.\nDivide into your serving glasses. Top with champagne or prosecco."
     },
     "photo": {
       "filename": "IG4.jpg",
@@ -120,8 +120,8 @@ const APRIL_IG_DATA = [
       "servingTime": "5 minutes",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 bar Anchor salted butter, softened \n5 cloves garlic, minced \n¼ cup parsley, chopped\nZest of 1 lemon \nSalt & pepper to taste",
-      "procedure": "Procedure\nUsing a spatula, cream butter until smooth. \nMix in garlic, parsley and lemon zest. Season with salt and pepper to taste. \nServe with crackers or toasted bread."
+      "ingredients": "1 bar Anchor salted butter, softened \n5 cloves garlic, minced \n¼ cup parsley, chopped\nZest of 1 lemon \nSalt & pepper to taste",
+      "procedure": "Using a spatula, cream butter until smooth. \nMix in garlic, parsley and lemon zest. Season with salt and pepper to taste. \nServe with crackers or toasted bread."
     },
     "photo": {
       "filename": "IG5.jpg",
@@ -145,8 +145,8 @@ const APRIL_IG_DATA = [
       "servingTime": "15-20 minutes",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n3 tbsps. olive oil\n1 pack Johnsonville Hot & Spicy Sausages, sliced \n5 cloves garlic, chopped\n1 white onion, chopped \n 1 red bell pepper, sliced into strips\n1 green bell peppers, sliced into strips \n3 cups marinara sauce\n¼ cup parmesan cheese, grated\n500g penne, cooked according to package directions\nSalt & pepper to taste\n¼ cup basil leaves",
-      "procedure": "Procedure\nFry Johnsonville sausages in 1 tbsp. Olive oil until toasted on both sides. Set aside. \nIn the same pan, add remaining olive oil. Saute´ garlic and onions. Add bell peppers and cook for 3-5 minutes, or until bell peppers are soft. \nAdd marinara sauce and parmesan cheese. Let simmer for 5-8 minutes. \nMix in cooked penne. Season with salt and pepper to taste. \nTurn off heat, and mix in basil leaves."
+      "ingredients": "3 tbsps. olive oil\n1 pack Johnsonville Hot & Spicy Sausages, sliced \n5 cloves garlic, chopped\n1 white onion, chopped \n 1 red bell pepper, sliced into strips\n1 green bell peppers, sliced into strips \n3 cups marinara sauce\n¼ cup parmesan cheese, grated\n500g penne, cooked according to package directions\nSalt & pepper to taste\n¼ cup basil leaves",
+      "procedure": "Fry Johnsonville sausages in 1 tbsp. Olive oil until toasted on both sides. Set aside. \nIn the same pan, add remaining olive oil. Saute´ garlic and onions. Add bell peppers and cook for 3-5 minutes, or until bell peppers are soft. \nAdd marinara sauce and parmesan cheese. Let simmer for 5-8 minutes. \nMix in cooked penne. Season with salt and pepper to taste. \nTurn off heat, and mix in basil leaves."
     },
     "photo": {
       "filename": "IG6.jpg",
@@ -170,8 +170,8 @@ const APRIL_IG_DATA = [
       "servingTime": "15 minutes",
       "yield": "3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. olive oil \n5 cloves garlic, chopped  \n3 cups spinach \n1 cup button mushrooms, sliced \n3 Bounty Fresh Free Range Specialty Eggs \nSalt & pepper to taste \n3 tbsps. parmesan cheese, grated",
-      "procedure": "Procedure\nPreheat oven to 175°C. \nHeat olive oil over medium heat. Sauté garlic until soft. \nAdd spinach and cook until wilted, about 3 minutes. Mix in mushrooms and cook for 2 more minutes. Season with salt and pepper to taste. \nTransfer to an ovenproof skillet. Make wells in the center for the eggs. Carefully drop in eggs. Season each egg with salt and pepper to taste. \nBake covered for 8-10 minutes. \nUncover, and top with parmesan cheese."
+      "ingredients": "2 tbsps. olive oil \n5 cloves garlic, chopped  \n3 cups spinach \n1 cup button mushrooms, sliced \n3 Bounty Fresh Free Range Specialty Eggs \nSalt & pepper to taste \n3 tbsps. parmesan cheese, grated",
+      "procedure": "Preheat oven to 175°C. \nHeat olive oil over medium heat. Sauté garlic until soft. \nAdd spinach and cook until wilted, about 3 minutes. Mix in mushrooms and cook for 2 more minutes. Season with salt and pepper to taste. \nTransfer to an ovenproof skillet. Make wells in the center for the eggs. Carefully drop in eggs. Season each egg with salt and pepper to taste. \nBake covered for 8-10 minutes. \nUncover, and top with parmesan cheese."
     },
     "photo": {
       "filename": "IG7.jpg",
@@ -233,8 +233,8 @@ const APRIL_IG_DATA = [
       "servingTime": "15-20 minutes",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n3 tbsps. canola oil \n5 cloves garlic, chopped\n1 red onions, sliced \n3 pcs. red chilis, sliced \n½ kg ground pork \n2 tbsps. tomato paste\n2 tbsps. soy sauce \n1 cup Healthy Boy Hot Basil Cooking Sauce \n1 cup Thai basil leaves \n500g rice noodles, cooked according to package directions",
-      "procedure": "Procedure \nIn a large wok or pan, heat up canola oil. Sauté garlic, red onion and chili until fragrant. \nAdd ground pork and cook until brown, about 8-10 minutes. \nMix in tomato paste, soy sauce and Healthy Boy Hot Basil Cooking Sauce. Season with salt and pepper to taste. \nTurn off heat, and mix in Thai basil. \nTop rice noodles with the Thai Basil & Pork Stir-Fry."
+      "ingredients": "3 tbsps. canola oil \n5 cloves garlic, chopped\n1 red onions, sliced \n3 pcs. red chilis, sliced \n½ kg ground pork \n2 tbsps. tomato paste\n2 tbsps. soy sauce \n1 cup Healthy Boy Hot Basil Cooking Sauce \n1 cup Thai basil leaves \n500g rice noodles, cooked according to package directions",
+      "procedure": "In a large wok or pan, heat up canola oil. Sauté garlic, red onion and chili until fragrant. \nAdd ground pork and cook until brown, about 8-10 minutes. \nMix in tomato paste, soy sauce and Healthy Boy Hot Basil Cooking Sauce. Season with salt and pepper to taste. \nTurn off heat, and mix in Thai basil. \nTop rice noodles with the Thai Basil & Pork Stir-Fry."
     },
     "photo": {
       "filename": "IG10.jpg",
@@ -258,8 +258,8 @@ const APRIL_IG_DATA = [
       "servingTime": "10-12 minutes",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n¼ cup olive oil\n10 cloves garlic, sliced thinly \n1 tsp. red chili flakes \n2 pcs. anchovy fillets\n1 cup cherry tomatoes \n2 cans Bay of Gold Tuna \n¼ cup capers \n500g spaghetti noodles, cooked according to package directions\n¼ cup parsley, chopped \nSalt & pepper to taste",
-      "procedure": "Procedure\nCombine olive oil and garlic in a pan. Slowly heat up over medium heat. Once oil starts to sizzle, add in chili flakes and anchovy fillets. \nAdd cherry tomatoes, tuna and capers. Cook for 3-5 minutes.\nMix in cooked spaghetti and parsley. \nSeason with salt and pepper to taste."
+      "ingredients": "¼ cup olive oil\n10 cloves garlic, sliced thinly \n1 tsp. red chili flakes \n2 pcs. anchovy fillets\n1 cup cherry tomatoes \n2 cans Bay of Gold Tuna \n¼ cup capers \n500g spaghetti noodles, cooked according to package directions\n¼ cup parsley, chopped \nSalt & pepper to taste",
+      "procedure": "Combine olive oil and garlic in a pan. Slowly heat up over medium heat. Once oil starts to sizzle, add in chili flakes and anchovy fillets. \nAdd cherry tomatoes, tuna and capers. Cook for 3-5 minutes.\nMix in cooked spaghetti and parsley. \nSeason with salt and pepper to taste."
     },
     "photo": {
       "filename": "FB1.jpg",
@@ -283,8 +283,8 @@ const APRIL_IG_DATA = [
       "servingTime": "5 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 can Dole Sparkling Lemon-Lime\n2 ounces gin \n2 ounces lemon juice\n2 ounces simple syrup \nLemon and lime wedges for serving \nIce for serving \nMint sprigs for serving",
-      "procedure": "Procedure\nIn a pitcher, combine Dole Sparkling Lemon-Lime, gin, lemon juice and simple syrup. \nPlace lemon and lime wedges, ice and mint in your serving glasses. Pour over the lemon-lime gin mixture."
+      "ingredients": "1 can Dole Sparkling Lemon-Lime\n2 ounces gin \n2 ounces lemon juice\n2 ounces simple syrup \nLemon and lime wedges for serving \nIce for serving \nMint sprigs for serving",
+      "procedure": "In a pitcher, combine Dole Sparkling Lemon-Lime, gin, lemon juice and simple syrup. \nPlace lemon and lime wedges, ice and mint in your serving glasses. Pour over the lemon-lime gin mixture."
     },
     "photo": {
       "filename": "FB2.jpg",
@@ -308,8 +308,8 @@ const APRIL_IG_DATA = [
       "servingTime": "20-25 minutes",
       "yield": "3-5 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. olive oil \n3 cloves garlic, chopped\n1 white onion, chopped \n1 bottle Barilla Bolognese sauce\n250g penne noodles, cooked according to package directions\n¼ cup parmesan cheese, grated \n1 cup mozzarella cheese, grated \n½ cup flat leaf parsley, chopped",
-      "procedure": "Procedure\nPreheat oven at 190°C. \nHeat up olive oil over medium heat. Sauté the garlic and onion until soft. \nAdd Barilla Bolognese sauce, and let simmer for 5 minutes. \nMix in cooked penne noodles, parmesan cheese, ½ cup mozzarella cheese and flat leaf parsley.  \nTransfer bolognese penne into an ovenproof dish. Top with remaining mozzarella cheese, and bake for 10 minutes."
+      "ingredients": "2 tbsps. olive oil \n3 cloves garlic, chopped\n1 white onion, chopped \n1 bottle Barilla Bolognese sauce\n250g penne noodles, cooked according to package directions\n¼ cup parmesan cheese, grated \n1 cup mozzarella cheese, grated \n½ cup flat leaf parsley, chopped",
+      "procedure": "Preheat oven at 190°C. \nHeat up olive oil over medium heat. Sauté the garlic and onion until soft. \nAdd Barilla Bolognese sauce, and let simmer for 5 minutes. \nMix in cooked penne noodles, parmesan cheese, ½ cup mozzarella cheese and flat leaf parsley.  \nTransfer bolognese penne into an ovenproof dish. Top with remaining mozzarella cheese, and bake for 10 minutes."
     },
     "photo": {
       "filename": "FB3.jpg",
@@ -333,8 +333,8 @@ const APRIL_IG_DATA = [
       "servingTime": "10 minutes",
       "yield": "3-5 servings",
       "tips": "",
-      "ingredients": "Ingredients\n½ bar Anchor salted butter \n8 cloves garlic, chopped\n½ kg shrimp, peeled and deveined \n1 lemon, thinly sliced \nSalt & pepper to taste\n1 tsp. paprika\n¼ cup parsley, chopped",
-      "procedure": "Procedure\nHeat a pan over medium heat. Add butter and let melt. Once butter starts to sizzle, add in the garlic. Cook until lightly browned. \nAdd in shrimp, and let cook for 3-5 minutes. \nMix in lemon slices. Season with salt, pepper and paprika. \nTurn off heat, and mix in parsley."
+      "ingredients": "½ bar Anchor salted butter \n8 cloves garlic, chopped\n½ kg shrimp, peeled and deveined \n1 lemon, thinly sliced \nSalt & pepper to taste\n1 tsp. paprika\n¼ cup parsley, chopped",
+      "procedure": "Heat a pan over medium heat. Add butter and let melt. Once butter starts to sizzle, add in the garlic. Cook until lightly browned. \nAdd in shrimp, and let cook for 3-5 minutes. \nMix in lemon slices. Season with salt, pepper and paprika. \nTurn off heat, and mix in parsley."
     },
     "photo": {
       "filename": "FB4.jpg",

@@ -11,7 +11,7 @@ const TMP_ANNIVERSARY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "TMP Anniversary",
-    "caption": "No feeling, other than pure bliss, can compare when it comes to tucking into a decadent Bacon Cheeseburger that’s oozing with melted cheese and meat juices. It’s a merriment of the beefy flavours from the patty, the creaminess of the cheese, and the crisp bite from the bacon. Using Beef Bacon and an Angus Beef Patty both from Purefoods, this recipe will surely satisfy any burger craving. Best paired with a cold glass of your favorite soda or a milkshake! Find all the ingredients you need fresh at #TheMarketplace! \n\nServing Time: 20 minutes\nYield: 1 burger\n\nIngredients\n\n2 strips Purefoods Beef Bacon\n1 Purefoods Angus Beef Patty \n2 slices cheddar cheese\n1 burger bun, toasted\n2 pcs. curly lettuce \n2 slices sandwich tomato\n\nProcedure\n\n1. Heat up a frying pan over medium heat. Fry Purefoods Beef Bacon until crispy. Set aside, then sear Purefoods Angus Beef Patty on both sides until nicely browned and cooked through on the inside.\n2. Turn off heat, then top the cooked beef patty with cheese slices. Cover. \n3. To arrange the burger, top the bottom burger bun with lettuce, then the beef patty with cheese slices, then with tomato slices and finally with bacon strips. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "No feeling, other than pure bliss, can compare when it comes to tucking into a decadent Bacon Cheeseburger that’s oozing with melted cheese and meat juices. It’s a merriment of the beefy flavours from the patty, the creaminess of the cheese, and the crisp bite from the bacon. Using Beef Bacon and an Angus Beef Patty both from Purefoods, this recipe will surely satisfy any burger craving. Best paired with a cold glass of your favorite soda or a milkshake! Find all the ingredients you need fresh at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Purefoods"
     ],
@@ -19,8 +19,8 @@ const TMP_ANNIVERSARY_DATA = [
       "servingTime": "20 minutes",
       "yield": "1 burger",
       "tips": "",
-      "ingredients": "Ingredients\n2 strips Purefoods Beef Bacon\n1 Purefoods Angus Beef Patty \n2 slices cheddar cheese\n1 burger bun, toasted\n2 pcs. curly lettuce \n2 slices sandwich tomato",
-      "procedure": "Procedure\nHeat up a frying pan over medium heat. Fry Purefoods Beef Bacon until crispy. Set aside, then sear Purefoods Angus Beef Patty on both sides until nicely browned and cooked through on the inside\nTurn off heat, then top the cooked beef patty with cheese slices. Cover. \nTo arrange the burger, top the bottom burger bun with lettuce, then the beef patty with cheese slices, then with tomato slices and finally with bacon strips."
+      "ingredients": "2 strips Purefoods Beef Bacon\n1 Purefoods Angus Beef Patty \n2 slices cheddar cheese\n1 burger bun, toasted\n2 pcs. curly lettuce \n2 slices sandwich tomato",
+      "procedure": "Heat up a frying pan over medium heat. Fry Purefoods Beef Bacon until crispy. Set aside, then sear Purefoods Angus Beef Patty on both sides until nicely browned and cooked through on the inside\nTurn off heat, then top the cooked beef patty with cheese slices. Cover. \nTo arrange the burger, top the bottom burger bun with lettuce, then the beef patty with cheese slices, then with tomato slices and finally with bacon strips."
     },
     "photo": {
       "filename": "A1.jpg",
@@ -36,7 +36,7 @@ const TMP_ANNIVERSARY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "TMP Anniversary",
-    "caption": "Wake up to the familiar savory flavors of Pampanga’s Best Beef Tapa, all rolled up in a delicious wrap in this recipe for Tapsilog Burrito! Complete with scrambled eggs and garlic rice, opt to add a bit of creaminess with some cheese or Japanese mayonnaise, too. Perfect for packing along for your road trips or simply enjoyed with your morning cup of coffee. Get all the ingredients you need from #TheMarketplace!\n\nServing Time: 45 minutes\nYield: 4 burritos\n\nIngredients\n\n3 tbsps. butter\n5 cloves garlic, chopped\n2 cups cooked rice \nSalt and pepper to taste\n2 tbsps. spring onions, chopped\n1 tbsp. vegetable oil \n4 eggs, beaten \n4 large tortillas\n1 pack Pampanga’s Best Beef Tapa, cooked according to package instructions\n2 tomatoes, diced\n1 red onion, diced\n\nProcedure\n\n1. Heat up a pan over medium heat. Melt butter, then add garlic and fry until golden brown. Mix in rice, then season with salt and pepper to taste. Mix in spring onions. Set aside. \n2. Heat up oil over low heat. Add eggs and cook while continuously mixing. Cook until desired doneness of scrambled eggs. Set aside. \n3. Lay a tortilla on a chopping board. Arrange beef tapa, garlic rice and scrambled eggs on top, then fold on all sides to secure. \n4. Combine tomatoes and red onions. Season with salt and pepper to taste. Serve this with the Tapsilog Burrito. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Wake up to the familiar savory flavors of Pampanga’s Best Beef Tapa, all rolled up in a delicious wrap in this recipe for Tapsilog Burrito! Complete with scrambled eggs and garlic rice, opt to add a bit of creaminess with some cheese or Japanese mayonnaise, too. Perfect for packing along for your road trips or simply enjoyed with your morning cup of coffee. Get all the ingredients you need from #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Pampanga's Best"
     ],
@@ -44,8 +44,8 @@ const TMP_ANNIVERSARY_DATA = [
       "servingTime": "45 minutes",
       "yield": "4 burritos",
       "tips": "",
-      "ingredients": "Ingredients\n3 tbsps. butter\n5 cloves garlic, chopped\n2 cups cooked rice \nSalt and pepper to taste\n2 tbsps. spring onions, chopped\n1 tbsp. vegetable oil \n4 eggs, beaten \n4 large tortillas\n1 pack Pampanga’s Best Beef Tapa, cooked according to package instructions\n2 tomatoes, diced\n1 red onion, diced",
-      "procedure": "Procedure\nHeat up a pan over medium heat. Melt butter, then add garlic and fry until golden brown. Mix in rice, then season with salt and pepper to taste. Mix in spring onions. Set aside. \nHeat up oil over low heat. Add eggs and cook while continuously mixing. Cook until desired doneness of scrambled eggs. Set aside. \nLay a tortilla on a chopping board. Arrange beef tapa, garlic rice and scrambled eggs on top, then fold on all sides to secure. \nCombine tomatoes and red onions. Season with salt and pepper to taste. Serve this with the Tapsilog Burrito."
+      "ingredients": "3 tbsps. butter\n5 cloves garlic, chopped\n2 cups cooked rice \nSalt and pepper to taste\n2 tbsps. spring onions, chopped\n1 tbsp. vegetable oil \n4 eggs, beaten \n4 large tortillas\n1 pack Pampanga’s Best Beef Tapa, cooked according to package instructions\n2 tomatoes, diced\n1 red onion, diced",
+      "procedure": "Heat up a pan over medium heat. Melt butter, then add garlic and fry until golden brown. Mix in rice, then season with salt and pepper to taste. Mix in spring onions. Set aside. \nHeat up oil over low heat. Add eggs and cook while continuously mixing. Cook until desired doneness of scrambled eggs. Set aside. \nLay a tortilla on a chopping board. Arrange beef tapa, garlic rice and scrambled eggs on top, then fold on all sides to secure. \nCombine tomatoes and red onions. Season with salt and pepper to taste. Serve this with the Tapsilog Burrito."
     },
     "photo": {
       "filename": "A2.jpg",
@@ -61,7 +61,7 @@ const TMP_ANNIVERSARY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "TMP Anniversary",
-    "caption": "Add a Pinoy twist to the classic Chinese steamed bun by making these Chicken Tocino Mantou at home! Using CDO Funtastyk Chicken Tocino, which is sweet and savory, cook until caramelized and then sandwich in between mantou buns, along with some cucumber and cilantro. Don’t forget to add some chili for a spicy kick! Find CDO products, along with other ready-to-cook breakfast favorites, at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 8 mantou buns\n\nIngredients\n\n2 tbsps. vegetable oil\n1 pack CDO Funtastyk Chicken Tocino\n8 mantou buns, steamed \n1 cucumber, sliced\n1 cup cilantro sprigs \n¼ cup red chili, sliced\n\nProcedure\n\n1. Heat up oil in a frying pan over medium heat. Cook CDO Funtastyk Chicken Tocino until caramelized and cooked through on the inside, about 6 minutes.\n2. Slice mantou buns. Fill with cucumber slices, cilantro sprigs and red chili. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Add a Pinoy twist to the classic Chinese steamed bun by making these Chicken Tocino Mantou at home! Using CDO Funtastyk Chicken Tocino, which is sweet and savory, cook until caramelized and then sandwich in between mantou buns, along with some cucumber and cilantro. Don’t forget to add some chili for a spicy kick! Find CDO products, along with other ready-to-cook breakfast favorites, at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "CDO"
     ],
@@ -69,8 +69,8 @@ const TMP_ANNIVERSARY_DATA = [
       "servingTime": "15 minutes",
       "yield": "8 mantou buns",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. vegetable oil\n1 pack CDO Funtastyk Chicken Tocino\n8 mantou buns, steamed \n1 cucumber, sliced\n1 cup cilantro sprigs \n¼ cup red chili, sliced",
-      "procedure": "Procedure\nHeat up oil in a frying pan over medium heat. Cook CDO Funtastyk Chicken Tocino until caramelized and cooked through on the inside, about 6 minutes. \nSlice mantou buns. Fill with cucumber slices, cilantro sprigs and red chili."
+      "ingredients": "2 tbsps. vegetable oil\n1 pack CDO Funtastyk Chicken Tocino\n8 mantou buns, steamed \n1 cucumber, sliced\n1 cup cilantro sprigs \n¼ cup red chili, sliced",
+      "procedure": "Heat up oil in a frying pan over medium heat. Cook CDO Funtastyk Chicken Tocino until caramelized and cooked through on the inside, about 6 minutes. \nSlice mantou buns. Fill with cucumber slices, cilantro sprigs and red chili."
     },
     "photo": {
       "filename": "A3.jpg",
@@ -86,7 +86,7 @@ const TMP_ANNIVERSARY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "TMP Anniversary",
-    "caption": "A simple yet classic Italian salad, a caprese is usually served cool and with alternating slices of mozzarella, tomatoes, and basil. However, in this recipe, we’ve tried baking the caprese salad in the oven, and the result is a decadent Hot Caprese Dip! Made with Arla Mozzarella Cheese, this dip is perfect for chill nights at home, paired with toasted garlic bread or crackers and a glass of wine. Find premium dairy products from Arla and from other imported dairy brands at #TheMarketplace!\n\nServing Time: 20 minutes\nYield: 2-4 servings\nOptional: Serve with toasted garlic bread or crackers\n\nIngredients\n\n1 tbsp. butter, softened\n1 pack Arla Mozzarella Cheese\n1 cup heavy cream\n2 cups cherry tomatoes, sliced \nSalt and pepper to taste\n1 cup basil leaves\n\nProcedure\n1. Preheat oven to 180°C. Grease a baking dish with butter. \n2. Combine Arla Mozzarella Cheese, heavy cream and cherry tomatoes. Season with salt and pepper. Transfer to the greased baking dish. \n3. Bake for 10 minutes, or until cheese is melted and browned on top. \n4. Garnish with basil leaves. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "A simple yet classic Italian salad, a caprese is usually served cool and with alternating slices of mozzarella, tomatoes, and basil. However, in this recipe, we’ve tried baking the caprese salad in the oven, and the result is a decadent Hot Caprese Dip! Made with Arla Mozzarella Cheese, this dip is perfect for chill nights at home, paired with toasted garlic bread or crackers and a glass of wine. Find premium dairy products from Arla and from other imported dairy brands at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Arla"
     ],
@@ -94,8 +94,8 @@ const TMP_ANNIVERSARY_DATA = [
       "servingTime": "20 minutes",
       "yield": "2-4 servings",
       "tips": "Serve with toasted garlic bread or crackers.",
-      "ingredients": "Ingredients\n1 tbsp. butter, softened\n1 pack Arla Mozzarella Cheese\n1 cup heavy cream\n2 cups cherry tomatoes, sliced \nSalt and pepper to taste\n1 cup basil leaves",
-      "procedure": "Procedure\nPreheat oven to 180°C. Grease a baking dish with butter. \nCombine Arla Mozzarella Cheese, heavy cream and cherry tomatoes. Season with salt and pepper. Transfer to the greased baking dish. \nBake for 10 minutes, or until cheese is melted and browned on top. \nGarnish with basil leaves."
+      "ingredients": "1 tbsp. butter, softened\n1 pack Arla Mozzarella Cheese\n1 cup heavy cream\n2 cups cherry tomatoes, sliced \nSalt and pepper to taste\n1 cup basil leaves",
+      "procedure": "Preheat oven to 180°C. Grease a baking dish with butter. \nCombine Arla Mozzarella Cheese, heavy cream and cherry tomatoes. Season with salt and pepper. Transfer to the greased baking dish. \nBake for 10 minutes, or until cheese is melted and browned on top. \nGarnish with basil leaves."
     },
     "photo": {
       "filename": "A4.jpg",
@@ -111,7 +111,7 @@ const TMP_ANNIVERSARY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "TMP Anniversary",
-    "caption": "A match made in heaven, popcorn and ice cream come together in this luscious Salted Caramel Popcorn Sundae! Using two luxurious scoops of Grom’s Caramello Salato Gelato, make this sweet treat in 15 minutes, complete with an addictive caramel syrup that you can sinfully swirl in. Grab pints of Grom Gelato, along with other imported ice cream brands, only at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 2 servings\nOptional: Serve with sugar cones.\n\nIngredients\n\n½ cup white sugar \n1 tsp. salt\n2 tbsps. butter \n½ tsp. baking soda \n1 cup cooked popcorn \n2 scoops Grom Caramello Salato \n\nProcedure\n1. Heat up a pan over medium heat. Add in white sugar and cook until melted and caramelized. Mix in salt, butter and baking soda until foamy. \n2. Mix in popcorn, then transfer to a foil-lined tray. Let set for 10 minutes. \n3. Fill serving vessels with salted caramel popcorn. Top with a scoop of Grom Caramello Salato. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "A match made in heaven, popcorn and ice cream come together in this luscious Salted Caramel Popcorn Sundae! Using two luxurious scoops of Grom’s Caramello Salato Gelato, make this sweet treat in 15 minutes, complete with an addictive caramel syrup that you can sinfully swirl in. Grab pints of Grom Gelato, along with other imported ice cream brands, only at #TheMarketplace!\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Grom"
     ],
@@ -119,8 +119,8 @@ const TMP_ANNIVERSARY_DATA = [
       "servingTime": "15 minutes",
       "yield": "2 servings",
       "tips": "Serve with sugar cones.",
-      "ingredients": "Ingredients\n½ cup white sugar \n1 tsp. salt\n2 tbsps. butter \n½ tsp. baking soda \n1 cup cooked popcorn \n2 scoops Grom Caramello Salato",
-      "procedure": "Procedure\nHeat up a pan over medium heat. Add in white sugar and cook until melted and caramelized. Mix in salt, butter and baking soda until foamy. \nMix in popcorn, then transfer to a foil-lined tray. Let set for 10 minutes. \nFill serving vessels with salted caramel popcorn. Top with a scoop of Grom Caramello Salato."
+      "ingredients": "½ cup white sugar \n1 tsp. salt\n2 tbsps. butter \n½ tsp. baking soda \n1 cup cooked popcorn \n2 scoops Grom Caramello Salato",
+      "procedure": "Heat up a pan over medium heat. Add in white sugar and cook until melted and caramelized. Mix in salt, butter and baking soda until foamy. \nMix in popcorn, then transfer to a foil-lined tray. Let set for 10 minutes. \nFill serving vessels with salted caramel popcorn. Top with a scoop of Grom Caramello Salato."
     },
     "photo": {
       "filename": "A5.jpg",
@@ -136,7 +136,7 @@ const TMP_ANNIVERSARY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "TMP Anniversary",
-    "caption": "Bursting with umami, this Shoyu Butter Udon made with Emborg unsalted butter is a comforting dish that’s packed with creamy flavors that marry so well with the umami-loaded soy sauce. Corn kernels add some bite and sweetness, sesame seeds for some nuttiness, and some leeks add a nice garlicky touch. Egg yolks do wonders to this dish’s texture, and you’ll surely want to create this recipe over and over. Find all the ingredients you need fresh from #TheMarketplace!\n\nServing Time: 20 minutes\nYield: 2 servings\n\nIngredients\n\n250g udon noodles\n¼ cup Emborg butter \n3 cloves garlic, chopped \n3 tbsps. soy sauce \n½ tsp. pepper \n¼ cup corn kernels \n1 tbsp. sesame seeds, toasted \n1 tbsp. leeks, sliced \n2 egg yolks \n\nProcedure\n\n1. Boil salted water. Cook udon for 4-5 minutes. Drain, then set aside. \n2. In a pan over medium heat, melt butter. Add in garlic and cook until lightly browned. Add in soy sauce, pepper and corn. Let simmer for 2 minutes. \n3. Mix in cooked udon noodles, sesame seeds and leeks. \n4. Top each serving with an egg yolk. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Bursting with umami, this Shoyu Butter Udon made with Emborg unsalted butter is a comforting dish that’s packed with creamy flavors that marry so well with the umami-loaded soy sauce. Corn kernels add some bite and sweetness, sesame seeds for some nuttiness, and some leeks add a nice garlicky touch. Egg yolks do wonders to this dish’s texture, and you’ll surely want to create this recipe over and over. Find all the ingredients you need fresh from #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Emborg"
     ],
@@ -144,8 +144,8 @@ const TMP_ANNIVERSARY_DATA = [
       "servingTime": "20 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n250g udon noodles\n¼ cup Emborg butter \n3 cloves garlic, chopped \n3 tbsps. soy sauce \n½ tsp. pepper \n¼ cup corn kernels \n1 tbsp. sesame seeds, toasted \n1 tbsp. leeks, sliced \n2 egg yolks",
-      "procedure": "Procedure\nBoil salted water. Cook udon for 4-5 minutes. Drain, then set aside. \nIn a pan over medium heat, melt butter. Add in garlic and cook until lightly browned. Add in soy sauce, pepper and corn. Let simmer for 2 minutes. \nMix in cooked udon noodles, sesame seeds and leeks. \nTop each serving with an egg yolk."
+      "ingredients": "250g udon noodles\n¼ cup Emborg butter \n3 cloves garlic, chopped \n3 tbsps. soy sauce \n½ tsp. pepper \n¼ cup corn kernels \n1 tbsp. sesame seeds, toasted \n1 tbsp. leeks, sliced \n2 egg yolks",
+      "procedure": "Boil salted water. Cook udon for 4-5 minutes. Drain, then set aside. \nIn a pan over medium heat, melt butter. Add in garlic and cook until lightly browned. Add in soy sauce, pepper and corn. Let simmer for 2 minutes. \nMix in cooked udon noodles, sesame seeds and leeks. \nTop each serving with an egg yolk."
     },
     "photo": {
       "filename": "A6.jpg",
@@ -161,7 +161,7 @@ const TMP_ANNIVERSARY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "TMP Anniversary",
-    "caption": "Add some character to your everyday butter with this recipe for Cranberry Orange Butter made with Anchor Unsalted Butter! Perfect for muffins, scones, or a simple slice of bread with jam, this butter is bursting with fruity goodness and a nice citrusy finish. Get all the ingredients you need for this recipe today at #TheMarketplace!\n\nServing Time: 1 hour and 30 minutes\nYield: 4-6 servings\nOptional: Serve with bread or your favorite pastries. \n\nIngredients\n\n1 bar Anchor Unsalted Butter, softened\nZest of 1 orange \n¼ cup powdered sugar \n½ cup dried cranberries, chopped\n\nProcedure\n\n1. Combine Anchor Unsalted Butter, orange zest, powdered sugar and cranberries. \n2. Transfer to a large sheet of foil and form it into a log. Secure ends by twisting it tightly. \n3. Freeze for at least 1 hour. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Add some character to your everyday butter with this recipe for Cranberry Orange Butter made with Anchor Unsalted Butter! Perfect for muffins, scones, or a simple slice of bread with jam, this butter is bursting with fruity goodness and a nice citrusy finish. Get all the ingredients you need for this recipe today at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Anchor"
     ],
@@ -169,8 +169,8 @@ const TMP_ANNIVERSARY_DATA = [
       "servingTime": "1 hour and 30 minutes",
       "yield": "4-6 servings",
       "tips": "Serve with bread or your favorite pastries.",
-      "ingredients": "Ingredients\n1 bar Anchor Unsalted Butter, softened\nZest of 1 orange \n¼ cup powdered sugar \n½ cup dried cranberries, chopped",
-      "procedure": "Procedure\nCombine Anchor Unsalted Butter, orange zest, powdered sugar and cranberries. \nTransfer to a large sheet of foil and form it into a log. Secure ends by twisting it tightly. \nFreeze for at least 1 hour."
+      "ingredients": "1 bar Anchor Unsalted Butter, softened\nZest of 1 orange \n¼ cup powdered sugar \n½ cup dried cranberries, chopped",
+      "procedure": "Combine Anchor Unsalted Butter, orange zest, powdered sugar and cranberries. \nTransfer to a large sheet of foil and form it into a log. Secure ends by twisting it tightly. \nFreeze for at least 1 hour."
     },
     "photo": {
       "filename": "A7.jpg",
@@ -186,7 +186,7 @@ const TMP_ANNIVERSARY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "TMP Anniversary",
-    "caption": "Beef caldereta has always been a sure hit with rice, but have you ever tried making it with pasta?\n\nThis Beef Caldereta Pasta, made with Purefoods Beef Caldereta, is an Italian spin on the well-loved Filipino-Spanish comfort food. The tomato-based sauce laced with briny olives makes for a great sauce to go with fettuccine. To add creaminess, we used grated cheddar cheese. We feel that this recipe will pair perfectly with toasted garlic bread, too, so in the meantime, make sure you have some ready when you prepare this hearty pasta dish. Head over to #TheMarketplace now and stock up on all the ingredients you need.\n\nServing Time: 30 minutes\nYield: 2-3 servings\n\nIngredients\n\n2 tbsps. butter \n1 tbsp. tomato paste \n1 pack Purefoods Beef Caldereta \n1 cup green olives \n¼ cup cheddar cheese, grated\n¼ cup parsley, chopped \n250g fettuccine noodles, cooked according to package instructions \n\nProcedure\n\n1. In a pan over medium heat, melt butter. Add in tomato paste and cook until lightly browned. \n2. Add in Pure Foods Beef Caldereta and green olives. Mix in cheddar cheese and let simmer until cheese is melted. Mix in parsley. \n3. Serve with cooked fettuccine noodles \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Beef caldereta has always been a sure hit with rice, but have you ever tried making it with pasta?\n\nThis Beef Caldereta Pasta, made with Purefoods Beef Caldereta, is an Italian spin on the well-loved Filipino-Spanish comfort food. The tomato-based sauce laced with briny olives makes for a great sauce to go with fettuccine. To add creaminess, we used grated cheddar cheese. We feel that this recipe will pair perfectly with toasted garlic bread, too, so in the meantime, make sure you have some ready when you prepare this hearty pasta dish. Head over to #TheMarketplace now and stock up on all the ingredients you need.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Purefoods"
     ],
@@ -194,8 +194,8 @@ const TMP_ANNIVERSARY_DATA = [
       "servingTime": "30 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. butter \n1 tbsp. tomato paste \n1 pack Purefoods Beef Caldereta \n1 cup green olives \n¼ cup cheddar cheese, grated\n¼ cup parsley, chopped \n250g fettuccine noodles, cooked according to package instructions",
-      "procedure": "Procedure\nIn a pan over medium heat, melt butter. Add in tomato paste and cook until lightly browned. \nAdd in Pure Foods Beef Caldereta and green olives. Mix in cheddar cheese and let simmer until cheese is melted. Mix in parsley. \nServe with cooked fettuccine noodles"
+      "ingredients": "2 tbsps. butter \n1 tbsp. tomato paste \n1 pack Purefoods Beef Caldereta \n1 cup green olives \n¼ cup cheddar cheese, grated\n¼ cup parsley, chopped \n250g fettuccine noodles, cooked according to package instructions",
+      "procedure": "In a pan over medium heat, melt butter. Add in tomato paste and cook until lightly browned. \nAdd in Pure Foods Beef Caldereta and green olives. Mix in cheddar cheese and let simmer until cheese is melted. Mix in parsley. \nServe with cooked fettuccine noodles"
     },
     "photo": {
       "filename": "A8.jpg",
@@ -211,7 +211,7 @@ const TMP_ANNIVERSARY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "TMP Anniversary",
-    "caption": "Known as “the world’s most edible fish”, the pompano is flat-bodied and very easy to eat. Not to mention, its versatility makes it an easy star on any dinner table. In this recipe for Grilled Pompano with Salsa Verde and Tomato Salad, the earthy and citrusy flavors from the salsa verde permeate through the grilled fish, resulting to a delicious merriment of smokey and bright flavors, with the tomato salad working its magic as a refreshing palate cleanser. At #TheMarketplace, we ensure that all the seafood we stock up on is from the freshest catch, so look no further and add these ingredients to your cart today!\n\nServing Time: 20 minutes\nYield: 2-3 servings\n\nIngredients\n\n1 pompano, gutted and cleaned \n2 tbsps. vegetable oil\nSalt and pepper to taste \n½ cup parsley, chopped\n½ cup cilantro, chopped \n1 tbsp. lemon juice\n1 tsp. chili flakes\n1 tsp. garlic, minced\n¼ cup olive oil \n5 tomatoes, diced\n1 red onion, sliced\n\nProcedure\n\n1. Spread oil all over pompano. Season with salt and pepper. Grill over medium flame until browned on both sides and cooked through on the inside, about 10 minutes. \n2. Combine parsley, cilantro, lemon juice, chili flakes, garlic and olive oil. Season with salt and pepper to taste. \n3. Combine tomatoes and onions. Season with salt and pepper to taste. \n4. Top grilled pompano with salsa verde, and serve with tomato salad. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Known as “the world’s most edible fish”, the pompano is flat-bodied and very easy to eat. Not to mention, its versatility makes it an easy star on any dinner table. In this recipe for Grilled Pompano with Salsa Verde and Tomato Salad, the earthy and citrusy flavors from the salsa verde permeate through the grilled fish, resulting to a delicious merriment of smokey and bright flavors, with the tomato salad working its magic as a refreshing palate cleanser. At #TheMarketplace, we ensure that all the seafood we stock up on is from the freshest catch, so look no further and add these ingredients to your cart today!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "! Generic"
     ],
@@ -219,8 +219,8 @@ const TMP_ANNIVERSARY_DATA = [
       "servingTime": "20 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 pompano, gutted and cleaned \n2 tbsps. vegetable oil\nSalt and pepper to taste \n½ cup parsley, chopped\n½ cup cilantro, chopped \n1 tbsp. lemon juice\n1 tsp. chili flakes\n1 tsp. garlic, minced\n¼ cup olive oil \n5 tomatoes, diced\n1 red onion, sliced",
-      "procedure": "Procedure\nSpread oil all over pompano. Season with salt and pepper. Grill over medium flame until browned on both sides and cooked through on the inside, about 10 minutes. \nCombine parsley, cilantro, lemon juice, chili flakes, garlic and olive oil. Season with salt and pepper to taste. \nCombine tomatoes and onions. Season with salt and pepper to taste. \nTop grilled pompano with salsa verde, and serve with tomato salad."
+      "ingredients": "1 pompano, gutted and cleaned \n2 tbsps. vegetable oil\nSalt and pepper to taste \n½ cup parsley, chopped\n½ cup cilantro, chopped \n1 tbsp. lemon juice\n1 tsp. chili flakes\n1 tsp. garlic, minced\n¼ cup olive oil \n5 tomatoes, diced\n1 red onion, sliced",
+      "procedure": "Spread oil all over pompano. Season with salt and pepper. Grill over medium flame until browned on both sides and cooked through on the inside, about 10 minutes. \nCombine parsley, cilantro, lemon juice, chili flakes, garlic and olive oil. Season with salt and pepper to taste. \nCombine tomatoes and onions. Season with salt and pepper to taste. \nTop grilled pompano with salsa verde, and serve with tomato salad."
     },
     "photo": {
       "filename": "A9.jpg",
@@ -236,7 +236,7 @@ const TMP_ANNIVERSARY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "TMP Anniversary",
-    "caption": "The use of tandoori ovens is one of the bedrocks of Indian cuisine, and in today’s recipe idea, we make use of Cold Storage Tandoori Salmon, which cans up all that smokey goodness from the tandoor oven and puts it in generous bites of salmon. Served on soft, chewy naan bread, the addition of red onion, cucumber, cilantro, and feta cheese, makes this dish a winner that definitely leans on the healthier side. Find premium canned tuna from both local and international brands only at #TheMarketplace!\n\nServing Time: 20-25 minutes\nYield: 2 servings\n\nIngredients\n\n2 pcs. naan bread\n2 tbsps. olive oil\n2 packs Cold Storage Tandoori Salmon\n⅓ cup red onion, sliced\n1 cup cucumber, sliced\n¼ cup feta cheese\n¼ cup cilantro leaves\n\nProcedure\n1. Set a pan over medium heat. Toast naan bread until nicely brown on both sides, then set aside.\n2. Using the same pan, add olive oil and sear Cold Storage Tandoori Salmon until nicely browned on all sides and cooked through on the inside, about 8 minutes.\n3. Flake cooked Tandoori Salmon and arrange over toasted naan bread.\n4. Top with onions, cucumbers, feta cheese and cilantro leaves.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "The use of tandoori ovens is one of the bedrocks of Indian cuisine, and in today’s recipe idea, we make use of Cold Storage Tandoori Salmon, which cans up all that smokey goodness from the tandoor oven and puts it in generous bites of salmon. Served on soft, chewy naan bread, the addition of red onion, cucumber, cilantro, and feta cheese, makes this dish a winner that definitely leans on the healthier side. Find premium canned tuna from both local and international brands only at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Cold Storage"
     ],
@@ -244,8 +244,8 @@ const TMP_ANNIVERSARY_DATA = [
       "servingTime": "20-25 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 pcs. naan bread\n2 tbsps. olive oil\n2 packs Cold Storage Tandoori Salmon\n⅓ cup red onion, sliced\n1 cup cucumber, sliced\n¼ cup feta cheese\n¼ cup cilantro leaves",
-      "procedure": "Procedure\nSet a pan over medium heat. Toast naan bread until nicely brown on both sides, then set aside.\nUsing the same pan, add olive oil and sear Cold Storage Tandoori Salmon until nicely browned on all sides and cooked through on the inside, about 8 minutes.\nFlake cooked Tandoori Salmon and arrange over toasted naan bread.\nTop with onions, cucumbers, feta cheese and cilantro leaves."
+      "ingredients": "2 pcs. naan bread\n2 tbsps. olive oil\n2 packs Cold Storage Tandoori Salmon\n⅓ cup red onion, sliced\n1 cup cucumber, sliced\n¼ cup feta cheese\n¼ cup cilantro leaves",
+      "procedure": "Set a pan over medium heat. Toast naan bread until nicely brown on both sides, then set aside.\nUsing the same pan, add olive oil and sear Cold Storage Tandoori Salmon until nicely browned on all sides and cooked through on the inside, about 8 minutes.\nFlake cooked Tandoori Salmon and arrange over toasted naan bread.\nTop with onions, cucumbers, feta cheese and cilantro leaves."
     },
     "photo": {
       "filename": "A10.jpg",
@@ -261,7 +261,7 @@ const TMP_ANNIVERSARY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "TMP Anniversary",
-    "caption": "These Bang Bang Shrimp Rolls made with Fishta Seafood Shrimp offer a bite of delicious comfort, any time of the day. Here at #TheMarketplace, we are dedicated and committed to only offering the freshest catch, so you can count on our seafood selection to be clean-tasting and of premium quality. Make these impressive rolls in less than an hour; they’re so good, you’ll definitely want seconds!\n\nServing Time: 45 minutes\nYield: 6 servings\n\nIngredients\n\n1 kg. Fishta Seafood Shrimp\nSalt and pepper to taste\n1 cup mayonnaise\n¼ cup cream cheese, softened\n½ tbsp. paprika\n½ tbsp. cayenne\n6 bread rolls, toasted\n¼ cup spring onions, chopped\n1 lemon, sliced into wedges\n\nProcedure\n\n1. Boil Fishta Seafood Shrimp in salted water. Drain, then let cool. Peel all the shrimp and chop, then set aside.\n2. In a large bowl, combine mayonnaise, cream cheese, paprika and cayenne. Fold in chopped shrimp and season with salt and pepper.\n3. Fill the rolls with shrimp mixture and top with spring onions. Serve alongside lemon wedges.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "These Bang Bang Shrimp Rolls made with Fishta Seafood Shrimp offer a bite of delicious comfort, any time of the day. Here at #TheMarketplace, we are dedicated and committed to only offering the freshest catch, so you can count on our seafood selection to be clean-tasting and of premium quality. Make these impressive rolls in less than an hour; they’re so good, you’ll definitely want seconds!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Fishta Seafood"
     ],
@@ -269,8 +269,8 @@ const TMP_ANNIVERSARY_DATA = [
       "servingTime": "45 minutes",
       "yield": "6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 kg. Fishta Seafood Shrimp\nSalt and pepper to taste\n1 cup mayonnaise\n¼ cup cream cheese, softened\n½ tbsp. paprika\n½ tbsp. cayenne\n6 bread rolls, toasted\n¼ cup spring onions, chopped\n1 lemon, sliced into wedges",
-      "procedure": "Procedure\nBoil Fishta Seafood Shrimp in salted water. Drain, then let cool. Peel all the shrimp and chop, then set aside.\nIn a large bowl, combine mayonnaise, cream cheese, paprika and cayenne. Fold in chopped shrimp and season with salt and pepper.\nFill the rolls with shrimp mixture and top with spring onions. Serve alongside lemon wedges."
+      "ingredients": "1 kg. Fishta Seafood Shrimp\nSalt and pepper to taste\n1 cup mayonnaise\n¼ cup cream cheese, softened\n½ tbsp. paprika\n½ tbsp. cayenne\n6 bread rolls, toasted\n¼ cup spring onions, chopped\n1 lemon, sliced into wedges",
+      "procedure": "Boil Fishta Seafood Shrimp in salted water. Drain, then let cool. Peel all the shrimp and chop, then set aside.\nIn a large bowl, combine mayonnaise, cream cheese, paprika and cayenne. Fold in chopped shrimp and season with salt and pepper.\nFill the rolls with shrimp mixture and top with spring onions. Serve alongside lemon wedges."
     },
     "photo": {
       "filename": "A11.jpg",
@@ -286,7 +286,7 @@ const TMP_ANNIVERSARY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "TMP Anniversary",
-    "caption": "Dory is one of the easiest fish to cook with because they’re meaty, fresh-tasting, and simply delicious. Using The Galleon Depot‘s Frozen Fish Fillets for this Crispy Dory with Pineapple Salsa recipe, this dish is a collision of textures. Crisp, deep-fried fish contrasted by the refreshing pineapple salsa and herb couscous will definitely whisk you away to the Mediterranean islands. Find all the ingredients you need fresh only from #TheMarketplace!\n\nServing Time: 1 hour\nYield: 3-4 servings\n\nIngredients\n\n(For the Crispy Dory)\n1 pack The Galleon Depot Frozen Fish Fillets\nSalt and pepper to taste\n1 cup flour\n4 eggs, beaten\n2 cups bread crumbs\n2 cups oil\n(For the Pineapple Salsa)\n1 cup pineapple tidbits\n1 cup tomato, diced\n¾ cup onion, diced\n2 tbsps. cilantro, chopped\n(For the Herbed Couscous)\n3 cups couscous, cooked\n4 tbsps. brown butter\n⅓ cup dried cranberries\n⅓ cup almonds, slivered\n½ cup parsley, chopped\n\nProcedure\n\n1. Pat dry The Galleon Depot Frozen Fish Fillets and cut each into 3 parts. Season with salt and pepper.\n2. Dredge in flour then dip in the egg and coat with bread crumbs. Freeze for 30 minutes to set the breading.\n3. Preheat oil to 170°C and fry fish fillet until golden brown and cooked through.\n4. In a bowl, combine pineapple, tomatoes, onions and cilantro.\n5. In a another bowl, combine couscous and brown butter. Season with salt and pepper. Add dried cranberries, almonds and parsley.\n6. Arrange fish fillet and couscous on a plate and top with pineapple salsa.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Dory is one of the easiest fish to cook with because they’re meaty, fresh-tasting, and simply delicious. Using The Galleon Depot‘s Frozen Fish Fillets for this Crispy Dory with Pineapple Salsa recipe, this dish is a collision of textures. Crisp, deep-fried fish contrasted by the refreshing pineapple salsa and herb couscous will definitely whisk you away to the Mediterranean islands. Find all the ingredients you need fresh only from #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "The Galleon Depot"
     ],
@@ -294,8 +294,8 @@ const TMP_ANNIVERSARY_DATA = [
       "servingTime": "1 hour",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\nCrispy Dory:\n1 pack The Galleon Depot Frozen Fish Fillets\nSalt and pepper to taste\n1 cup flour\n4 eggs, beaten\n2 cups bread crumbs\n2 cups oil\nPineapple Salsa:\n1 cup pineapple tidbits\n1 cup tomato, diced\n¾ cup onion, diced\n2 tbsps. cilantro, chopped\nHerbed Couscous:\n3 cups couscous, cooked\n4 tbsps. brown butter\n⅓ cup dried cranberries\n⅓ cup almonds, slivered\n½ cup parsley, chopped",
-      "procedure": "Procedure\nPat dry The Galleon Depot Frozen Fish Fillets and cut each into 3 parts. Season with salt and pepper.\nDredge in flour then dip in the egg and coat with bread crumbs. Freeze for 30 minutes to set the breading.\nPreheat oil to 170°C and fry fish fillet until golden brown and cooked through.\nIn a bowl, combine pineapple, tomatoes, onions and cilantro.\nIn a another bowl, combine couscous and brown butter. Season with salt and pepper. Add dried cranberries, almonds and parsley.\nArrange fish fillet and couscous on a plate and top with pineapple salsa."
+      "ingredients": "Crispy Dory:\n1 pack The Galleon Depot Frozen Fish Fillets\nSalt and pepper to taste\n1 cup flour\n4 eggs, beaten\n2 cups bread crumbs\n2 cups oil\nPineapple Salsa:\n1 cup pineapple tidbits\n1 cup tomato, diced\n¾ cup onion, diced\n2 tbsps. cilantro, chopped\nHerbed Couscous:\n3 cups couscous, cooked\n4 tbsps. brown butter\n⅓ cup dried cranberries\n⅓ cup almonds, slivered\n½ cup parsley, chopped",
+      "procedure": "Pat dry The Galleon Depot Frozen Fish Fillets and cut each into 3 parts. Season with salt and pepper.\nDredge in flour then dip in the egg and coat with bread crumbs. Freeze for 30 minutes to set the breading.\nPreheat oil to 170°C and fry fish fillet until golden brown and cooked through.\nIn a bowl, combine pineapple, tomatoes, onions and cilantro.\nIn a another bowl, combine couscous and brown butter. Season with salt and pepper. Add dried cranberries, almonds and parsley.\nArrange fish fillet and couscous on a plate and top with pineapple salsa."
     },
     "photo": {
       "filename": "A12.jpg",
@@ -311,7 +311,7 @@ const TMP_ANNIVERSARY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "TMP Anniversary",
-    "caption": "Are you in a bit of a time crunch but craving a healthy yet satisfying lunch? Add these items the next time you shop at #TheMarketplace for an easy meal that’s packed with nutrients. This Smoked Salmon Citrus Salad is paired with a sweet and tangy honey lemon vinaigrette that elevates all the ingredients’ natural flavors. You can even make more of the dressing for your next salad bowl! Hearty, delicious, and light, this recipe is perfect for those who are on-the-go and who want healthier meal options. Enjoy!\n\nServing Time: 20 minutes\nYield: 2 servings\n\nIngredients\n\n(For the Honey Lemon Vinaigrette)\n¼ cup lemon juice\n1 tbsp. lemon zest\n2  tbsps. honey\n⅓ cup olive oil\n½ tbsp. dill, chopped\n1 tbsp. parsley, chopped\nSalt and pepper to taste\n(For the Smoked Salmon Salad)\n2 packs Gold Standard Pepper-Smoked Salmon\n1 cup cucumber, slivered\n1 cup grapefruit, segmented\n1 cup orange, segmented\n½ cup red radish, sliced thinly\n⅓ cup dill\n\nProcedure\n\n1. In a small jar, combine lemon juice, lemon zest, honey, olive oil, dill and parsley. Season with salt and pepper, shake until well incorporated.\n2. Arrange Pepper-Smoked Salmon, cucumber, grapefruit, orange and red radish on a plate and garnish with dill.\n3. Serve salad with honey lemon vinaigrette. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Are you in a bit of a time crunch but craving a healthy yet satisfying lunch? Add these items the next time you shop at #TheMarketplace for an easy meal that’s packed with nutrients. This Smoked Salmon Citrus Salad is paired with a sweet and tangy honey lemon vinaigrette that elevates all the ingredients’ natural flavors. You can even make more of the dressing for your next salad bowl! Hearty, delicious, and light, this recipe is perfect for those who are on-the-go and who want healthier meal options. Enjoy!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Gold Standard"
     ],
@@ -319,8 +319,8 @@ const TMP_ANNIVERSARY_DATA = [
       "servingTime": "20 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\nHoney Lemon Vinaigrette:\n¼ cup lemon juice\n1 tbsp. lemon zest\n2  tbsps. honey\n⅓ cup olive oil\n½ tbsp. dill, chopped\n1 tbsp. parsley, chopped\nSalt and pepper to taste\nSmoked Salmon Salad:\n2 packs Gold Standard Pepper-Smoked Salmon\n1 cup cucumber, slivered\n1 cup grapefruit, segmented\n1 cup orange, segmented\n½ cup red radish, sliced thinly\n⅓ cup dill",
-      "procedure": "Procedure\nIn a small jar, combine lemon juice, lemon zest, honey, olive oil, dill and parsley. Season with salt and pepper, shake until well incorporated.\nArrange Pepper-Smoked Salmon, cucumber, grapefruit, orange and red radish on a plate and garnish with dill.\nServe salad with honey lemon vinaigrette."
+      "ingredients": "Honey Lemon Vinaigrette:\n¼ cup lemon juice\n1 tbsp. lemon zest\n2  tbsps. honey\n⅓ cup olive oil\n½ tbsp. dill, chopped\n1 tbsp. parsley, chopped\nSalt and pepper to taste\nSmoked Salmon Salad:\n2 packs Gold Standard Pepper-Smoked Salmon\n1 cup cucumber, slivered\n1 cup grapefruit, segmented\n1 cup orange, segmented\n½ cup red radish, sliced thinly\n⅓ cup dill",
+      "procedure": "In a small jar, combine lemon juice, lemon zest, honey, olive oil, dill and parsley. Season with salt and pepper, shake until well incorporated.\nArrange Pepper-Smoked Salmon, cucumber, grapefruit, orange and red radish on a plate and garnish with dill.\nServe salad with honey lemon vinaigrette."
     },
     "photo": {
       "filename": "A13.jpg",
@@ -336,7 +336,7 @@ const TMP_ANNIVERSARY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "TMP Anniversary",
-    "caption": "Thai curries come in many different colors to differentiate them from each other in terms of flavor profile rather than by spice level. Red curry is versatile and carries a lot of depth in it, making it easy to pair with any protein. In this recipe, we used Seaking’s Keta Salmon Chunks to make a Salmon Red Curry, which is bursting with flavors of spice and the creaminess of coconut milk. If you’re looking to eat a bit healthier to make room for the Christmas feastings, consider making this recipe! All the ingredients you need can be found at #TheMarketplace!\n\nServing Time: 45 minutes\nYield: 2-3 servings\n\nIngredients\n\n1 pack Seaking Keta Salmon Chunks\n2 tbsps. oil \n⅓ cup onion, diced\n2 tbsps. garlic, minced\n2 tbsps. ginger, minced\n2 tbsps. red curry paste\n1 tbsp. yellow curry paste\n1 ½ cup coconut milk\n1 tbsp. fish sauce\nSalt and pepper to taste\n1 cup bok choy\n1 tbsp. red chili, sliced\n⅛ cup cilantro sprigs\n⅓ cup lime, wedges\n\nProcedure\n\n1. Remove excess moisture of Seaking Keta Salmon Chunks. Set a pan over medium heat, add oil and sear salmon chunks then set aside.\n2. Using the same pan, sauté onions, garlic and ginger until soft and fragrant.\n3. Add red curry, yellow curry and coconut milk. Mix well and add fish sauce, season with salt and pepper as needed.\n4. Add seared salmon and simmer for 5 minutes. Add bok choy and let simmer again for another 3 minutes.\n5. Garnish with red chilies and cilantro. Serve with lime wedges.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Thai curries come in many different colors to differentiate them from each other in terms of flavor profile rather than by spice level. Red curry is versatile and carries a lot of depth in it, making it easy to pair with any protein. In this recipe, we used Seaking’s Keta Salmon Chunks to make a Salmon Red Curry, which is bursting with flavors of spice and the creaminess of coconut milk. If you’re looking to eat a bit healthier to make room for the Christmas feastings, consider making this recipe! All the ingredients you need can be found at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Seaking"
     ],
@@ -344,8 +344,8 @@ const TMP_ANNIVERSARY_DATA = [
       "servingTime": "45 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 pack Seaking Keta Salmon Chunks\n2 tbsps. oil \n⅓ cup onion, diced\n2 tbsps. garlic, minced\n2 tbsps. ginger, minced\n2 tbsps. red curry paste\n1 tbsp. yellow curry paste\n1 ½ cup coconut milk\n1 tbsp. fish sauce\nSalt and pepper to taste\n1 cup bok choy\n1 tbsp. red chili, sliced\n⅛ cup cilantro sprigs\n⅓ cup lime, wedges",
-      "procedure": "Procedure\nRemove excess moisture of Seaking Keta Salmon Chunks. Set a pan over medium heat, add oil and sear salmon chunks then set aside.\nUsing the same pan, sauté onions, garlic and ginger until soft and fragrant.\nAdd red curry, yellow curry and coconut milk. Mix well and add fish sauce, season with salt and pepper as needed.\nAdd seared salmon and simmer for 5 minutes. Add bok choy and let simmer again for another 3 minutes.\nGarnish with red chilies and cilantro. Serve with lime wedges."
+      "ingredients": "1 pack Seaking Keta Salmon Chunks\n2 tbsps. oil \n⅓ cup onion, diced\n2 tbsps. garlic, minced\n2 tbsps. ginger, minced\n2 tbsps. red curry paste\n1 tbsp. yellow curry paste\n1 ½ cup coconut milk\n1 tbsp. fish sauce\nSalt and pepper to taste\n1 cup bok choy\n1 tbsp. red chili, sliced\n⅛ cup cilantro sprigs\n⅓ cup lime, wedges",
+      "procedure": "Remove excess moisture of Seaking Keta Salmon Chunks. Set a pan over medium heat, add oil and sear salmon chunks then set aside.\nUsing the same pan, sauté onions, garlic and ginger until soft and fragrant.\nAdd red curry, yellow curry and coconut milk. Mix well and add fish sauce, season with salt and pepper as needed.\nAdd seared salmon and simmer for 5 minutes. Add bok choy and let simmer again for another 3 minutes.\nGarnish with red chilies and cilantro. Serve with lime wedges."
     },
     "photo": {
       "filename": "A14.jpg",
@@ -361,7 +361,7 @@ const TMP_ANNIVERSARY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "TMP Anniversary",
-    "caption": "With high levels of Omega-3 fatty acids, did you know that gindara literally means “silver cod” when translated from Japanese? No wonder it is a fitting fish to be cooked with miso, soy sauce, and other Japanese ingredients. We used Pacific Bay’s Gindara Steaks as they already come in the perfect size for this recipe. Simple yet so flavorful, this dish is best paired with some ice-cold and crisp sake. Find all the ingredients you need (including the sake!) at #TheMarketplace!\n\nServing Time: 45 minutes\nYield: 2 servings\n\nIngredients\n\n2 tbsps. soy sauce\n2 tbsps. miso paste\n1 ½ tbsp. honey\n1 tbsp. rice vinegar\n⅛ tsp. pepper\n1 pack Pacific Bay Gindara Steak\n1 tbsp. oil\n1 tbsp. butter\n1 cup shiitake mushroom, sliced\n2 cups bok choy, halved & blanched\n2 cups rice, cooked\n2 tbsps. sesame seeds, toasted\n\nProcedure\n1. In a small bowl, combine soy sauce, miso paste, honey, rice vinegar and pepper. Mix well and set aside.\n2. Pat dry Pacific Bay Gindara Steak. Sear gindara steak in a preheated pan with oil.\n3. Glaze gindara with miso glaze then set aside.\n4. Using the same pan, add butter and sauté shiitake mushroom until tender.\n5. Fill a bowl with rice and top with glazed gindara, mushroom and bok choy.\n6. Garnish with toasted sesame seeds before serving.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "With high levels of Omega-3 fatty acids, did you know that gindara literally means “silver cod” when translated from Japanese? No wonder it is a fitting fish to be cooked with miso, soy sauce, and other Japanese ingredients. We used Pacific Bay’s Gindara Steaks as they already come in the perfect size for this recipe. Simple yet so flavorful, this dish is best paired with some ice-cold and crisp sake. Find all the ingredients you need (including the sake!) at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Pacific Bay"
     ],
@@ -369,8 +369,8 @@ const TMP_ANNIVERSARY_DATA = [
       "servingTime": "45 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. soy sauce\n2 tbsps. miso paste\n1 ½ tbsp. honey\n1 tbsp. rice vinegar\n⅛ tsp. pepper\n1 pack Pacific Bay Gindara Steak\n1 tbsp. oil\n1 tbsp. butter\n1 cup shiitake mushroom, sliced\n2 cups bok choy, halved & blanched\n2 cups rice, cooked\n2 tbsps. sesame seeds, toasted",
-      "procedure": "Procedure\nIn a small bowl, combine soy sauce, miso paste, honey, rice vinegar and pepper. Mix well and set aside.\nPat dry Pacific Bay Gindara Steak. Sear gindara steak in a preheated pan with oil.\nGlaze gindara with miso glaze then set aside.\nUsing the same pan, add butter and sauté shiitake mushroom until tender.\nFill a bowl with rice and top with glazed gindara, mushroom and bok choy.\nGarnish with toasted sesame seeds before serving."
+      "ingredients": "2 tbsps. soy sauce\n2 tbsps. miso paste\n1 ½ tbsp. honey\n1 tbsp. rice vinegar\n⅛ tsp. pepper\n1 pack Pacific Bay Gindara Steak\n1 tbsp. oil\n1 tbsp. butter\n1 cup shiitake mushroom, sliced\n2 cups bok choy, halved & blanched\n2 cups rice, cooked\n2 tbsps. sesame seeds, toasted",
+      "procedure": "In a small bowl, combine soy sauce, miso paste, honey, rice vinegar and pepper. Mix well and set aside.\nPat dry Pacific Bay Gindara Steak. Sear gindara steak in a preheated pan with oil.\nGlaze gindara with miso glaze then set aside.\nUsing the same pan, add butter and sauté shiitake mushroom until tender.\nFill a bowl with rice and top with glazed gindara, mushroom and bok choy.\nGarnish with toasted sesame seeds before serving."
     },
     "photo": {
       "filename": "A15.jpg",
@@ -386,7 +386,7 @@ const TMP_ANNIVERSARY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "TMP Anniversary",
-    "caption": "Grilled cheese sandwiches are often paired with tomato soups to balance out the cheesy flavors with the tangy tomatoes, so we thought, why not turn the tables around and make Grilled Cheese Croutons to go with the tomato soup instead? We used Marby John Pullman Special Bread, American cheese, and basil for the croutons, providing bold flavors that contrast the creamy and tangy tomato soup quite nicely. Give this recipe a go and get all the ingredients you need at #TheMarketplace!\n\nServing Time: 1 hour\nYield: 2 servings\n\nIngredients\n(For the Tomato Soup)\n2 tbsps. butter\n1 pc. white onion, sliced\n2 tbsps. garlic, minced \n2 pcs. thyme sprigs\n2 cans diced tomatoes\n2 cups chicken broth\n½ cup heavy cream\nSalt and pepper to taste\n\n(For the Grilled Cheese Croutons)\n6 slices Marby John Pullman Special Bread\n6 slices American cheese\n3 tbsp. butter\n⅛ cup basil leaves\n\nProcedure\n1. Set a pot over medium heat and add butter. Sauté onions and garlic until tender. Add thyme sprigs and diced tomatoes.\n2. Add chicken broth and heavy cream. Season with salt and pepper. Let simmer for 10 minutes.\n3. Remove thyme sprigs and blend until smooth. Put back in the pot and simmer for another 5 minutes.\n4. Cut the edges of Marby John Pullman Special Bread. Fill with 2 slices of American cheese.\n5. Preheat pan and add butter, grill cheese sandwich until nicely toasted.\n6. Cut into 4 squares and top over tomato soup. Garnish with basil leaves before serving.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Grilled cheese sandwiches are often paired with tomato soups to balance out the cheesy flavors with the tangy tomatoes, so we thought, why not turn the tables around and make Grilled Cheese Croutons to go with the tomato soup instead? We used Marby John Pullman Special Bread, American cheese, and basil for the croutons, providing bold flavors that contrast the creamy and tangy tomato soup quite nicely. Give this recipe a go and get all the ingredients you need at #TheMarketplace!\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Marby"
     ],
@@ -394,8 +394,8 @@ const TMP_ANNIVERSARY_DATA = [
       "servingTime": "1 hour",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\nTomato Soup:\n2 tbsps. butter\n1 pc. white onion, sliced\n2 tbsps. garlic, minced \n2 pcs. thyme sprigs\n2 cans diced tomatoes\n2 cups chicken broth\n½ cup heavy cream\nSalt and pepper to taste\nGrilled Cheese Croutons:\n6 slices Marby John Pullman Special Bread\n6 slices American cheese\n3 tbsp. butter\n⅛ cup basil leaves",
-      "procedure": "Procedure\nSet a pot over medium heat and add butter. Sauté onions and garlic until tender. Add thyme sprigs and diced tomatoes.\nAdd chicken broth and heavy cream. Season with salt and pepper. Let simmer for 10 minutes.\nRemove thyme sprigs and blend until smooth. Put back in the pot and simmer for another 5 minutes.\nCut the edges of Marby John Pullman Special Bread. Fill with 2 slices of American cheese.\nPreheat pan and add butter, grill cheese sandwich until nicely toasted.\nCut into 4 squares and top over tomato soup. Garnish with basil leaves before serving."
+      "ingredients": "Tomato Soup:\n2 tbsps. butter\n1 pc. white onion, sliced\n2 tbsps. garlic, minced \n2 pcs. thyme sprigs\n2 cans diced tomatoes\n2 cups chicken broth\n½ cup heavy cream\nSalt and pepper to taste\nGrilled Cheese Croutons:\n6 slices Marby John Pullman Special Bread\n6 slices American cheese\n3 tbsp. butter\n⅛ cup basil leaves",
+      "procedure": "Set a pot over medium heat and add butter. Sauté onions and garlic until tender. Add thyme sprigs and diced tomatoes.\nAdd chicken broth and heavy cream. Season with salt and pepper. Let simmer for 10 minutes.\nRemove thyme sprigs and blend until smooth. Put back in the pot and simmer for another 5 minutes.\nCut the edges of Marby John Pullman Special Bread. Fill with 2 slices of American cheese.\nPreheat pan and add butter, grill cheese sandwich until nicely toasted.\nCut into 4 squares and top over tomato soup. Garnish with basil leaves before serving."
     },
     "photo": {
       "filename": "A16.jpg",

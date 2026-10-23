@@ -19,8 +19,8 @@ const SNACK_FESTIVAL_DATA = [
       "servingTime": "15 minutes",
       "yield": "5-7 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup ricotta cheese\n1 cup fresh basil leaves\n1 clove garlic, minced\n¼ tsp. sea salt\n1 cup prosciutto\n5 packs My San Sky Flakes Oat Fiber",
-      "procedure": "Procedure\nAdd the ricotta, ¾ cup basil, garlic, and sea salt to a food processor. Pulse the mixture until it's smooth and well combined. \nAssemble the crackers just before serving. Top each My San Sky Flakes Oat Fiber with a dollop of the ricotta mixture.\nPlace a piece of prosciutto on top of the ricotta on each cracker.\nGarnish with the remaining basil leaves and serve."
+      "ingredients": "1 cup ricotta cheese\n1 cup fresh basil leaves\n1 clove garlic, minced\n¼ tsp. sea salt\n1 cup prosciutto\n5 packs My San Sky Flakes Oat Fiber",
+      "procedure": "Add the ricotta, ¾ cup basil, garlic, and sea salt to a food processor. Pulse the mixture until it's smooth and well combined. \nAssemble the crackers just before serving. Top each My San Sky Flakes Oat Fiber with a dollop of the ricotta mixture.\nPlace a piece of prosciutto on top of the ricotta on each cracker.\nGarnish with the remaining basil leaves and serve."
     },
     "photo": {
       "filename": "SF1.jpg",
@@ -44,8 +44,8 @@ const SNACK_FESTIVAL_DATA = [
       "servingTime": "20 minutes",
       "yield": "8-10 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1/4 cup goat cheese\n1/4 cup mascarpone cheese\n1/2 teaspoon lemon zest\n3 cups Lays Truffle\n1/4 cup caviar\n¼ cup fresh chives",
-      "procedure": "Procedure\nIn a small bowl, combine the goat cheese, mascarpone cheese, and lemon zest. Use a rubber spatula to mix everything together until well combined and smooth.\nTransfer to a piping bag and set aside.\nPipe a small amount of the goat cheese mixture onto each Lays Truffle Chips.\nTop each with a caviar and fresh chives."
+      "ingredients": "1/4 cup goat cheese\n1/4 cup mascarpone cheese\n1/2 teaspoon lemon zest\n3 cups Lays Truffle\n1/4 cup caviar\n¼ cup fresh chives",
+      "procedure": "In a small bowl, combine the goat cheese, mascarpone cheese, and lemon zest. Use a rubber spatula to mix everything together until well combined and smooth.\nTransfer to a piping bag and set aside.\nPipe a small amount of the goat cheese mixture onto each Lays Truffle Chips.\nTop each with a caviar and fresh chives."
     },
     "photo": {
       "filename": "SF2.jpg",
@@ -69,8 +69,8 @@ const SNACK_FESTIVAL_DATA = [
       "servingTime": "1 hour and 15 minutes",
       "yield": "5-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 ¼ cup sour cream\n1 cup cream cheese, softened\n1 ½ cup sharp cheddar cheese, shredded\n½ tsp. garlic powder\n¼ tsp. onion powder\nSalt and pepper to taste\n1 ¼ cup bacon, chopped cooked\n½ cup spring onions, thinly sliced\n1 pack Calbee Potato Chips Cheddar Sour and Cream",
-      "procedure": "Procedure\nIn a large bowl, using an electric mixer, beat together sour cream and cream cheese until smooth and well combined.\nAdd 1 cup cheddar cheese, garlic powder, onion powder, salt, and black pepper. Mix everything together until well combined.\nGently fold in 1 cup crumbled bacon and spring onions. Save about a tablespoon of spring onions for topping later on, and add the rest into the mixture. \nCover the dip with plastic wrap and refrigerate for at least 1 hour, to allow the flavors to meld.\nOnce chilled, transfer the dip to a serving bowl. Top with the remaining sharp cheddar, bacon, and spring onions. \nServe alongside Calbee Cheddar and Sour Cream Potato Chips."
+      "ingredients": "1 ¼ cup sour cream\n1 cup cream cheese, softened\n1 ½ cup sharp cheddar cheese, shredded\n½ tsp. garlic powder\n¼ tsp. onion powder\nSalt and pepper to taste\n1 ¼ cup bacon, chopped cooked\n½ cup spring onions, thinly sliced\n1 pack Calbee Potato Chips Cheddar Sour and Cream",
+      "procedure": "In a large bowl, using an electric mixer, beat together sour cream and cream cheese until smooth and well combined.\nAdd 1 cup cheddar cheese, garlic powder, onion powder, salt, and black pepper. Mix everything together until well combined.\nGently fold in 1 cup crumbled bacon and spring onions. Save about a tablespoon of spring onions for topping later on, and add the rest into the mixture. \nCover the dip with plastic wrap and refrigerate for at least 1 hour, to allow the flavors to meld.\nOnce chilled, transfer the dip to a serving bowl. Top with the remaining sharp cheddar, bacon, and spring onions. \nServe alongside Calbee Cheddar and Sour Cream Potato Chips."
     },
     "photo": {
       "filename": "SF3.jpg",
@@ -94,8 +94,8 @@ const SNACK_FESTIVAL_DATA = [
       "servingTime": "25 minutes",
       "yield": "5-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. olive oil\n½ cup white onion, diced\n400g ground beef\n1 cup black beans, rinsed and drained\n1 ¼ cup enchilada sauce\n½ tsp. cumin\n¼ tsp. chili powder\nSalt and pepper to taste\n1 pack Meadows Barbecue Potato Chips\n½ cup tomatoes, diced\n½ cup cheese sauce\n¼ cup sour cream\n¼ cup avocado, sliced\n2 tbsps. cilantro",
-      "procedure": "Procedure\nHeat a large oven-safe skillet over medium heat and add olive oil. Add diced onions and cook for 3-4 minutes, or until softened.\nStir in ground beef to the skillet, and cook until nicely browned, then add in black beans, and cook 1-2 minutes to heat through.\nPour in the enchilada sauce. Season with salt, pepper, cumin, and chili powder.\nBring the mixture to a simmer and cook for a few minutes, stirring occasionally, to allow the sauce to thicken slightly.\nRemove from the heat and transfer to a bowl. In the same skillet add a bed of Meadows Barbecue Potato Chips, transfer back the cooked beef.\nTop with tomatoes, and drizzle with cheese sauce. Garnish with sour cream, avocado slices, and cilantro."
+      "ingredients": "2 tbsps. olive oil\n½ cup white onion, diced\n400g ground beef\n1 cup black beans, rinsed and drained\n1 ¼ cup enchilada sauce\n½ tsp. cumin\n¼ tsp. chili powder\nSalt and pepper to taste\n1 pack Meadows Barbecue Potato Chips\n½ cup tomatoes, diced\n½ cup cheese sauce\n¼ cup sour cream\n¼ cup avocado, sliced\n2 tbsps. cilantro",
+      "procedure": "Heat a large oven-safe skillet over medium heat and add olive oil. Add diced onions and cook for 3-4 minutes, or until softened.\nStir in ground beef to the skillet, and cook until nicely browned, then add in black beans, and cook 1-2 minutes to heat through.\nPour in the enchilada sauce. Season with salt, pepper, cumin, and chili powder.\nBring the mixture to a simmer and cook for a few minutes, stirring occasionally, to allow the sauce to thicken slightly.\nRemove from the heat and transfer to a bowl. In the same skillet add a bed of Meadows Barbecue Potato Chips, transfer back the cooked beef.\nTop with tomatoes, and drizzle with cheese sauce. Garnish with sour cream, avocado slices, and cilantro."
     },
     "photo": {
       "filename": "SF4.jpg",

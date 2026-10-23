@@ -30,7 +30,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "As the Yuletide season approaches, it’s time to start preparing for the holiday festivities! This includes planning hearty, family-sized meals for all your get togethers and celebrations.\n\nIf you’re thinking of a way to jazz up the traditional macaroni and cheese, this recipe for Spam Mac & Cheese adds a familiar bite to the well-loved baked pasta dish. Because a lot of the savory flavors come from the cheeses, opt for Spam Lite to balance the taste so it’s not too salty. Grab all the ingredients you need at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 4-5 servings\n\nIngredients\n\n500g elbow macaroni\nSalt to taste\n2 tbsps. oil\n2 cans Spam Lite, cubes\n2 tbsps. butter\n2 tbsps. flour\n3 cups milk\n2 cups sharp cheddar cheese, grated\n1 cup parmesan cheese, grated\n½ tsp. white pepper powder\n¼ tsp. paprika powder\n3 tbsps. butter\n1 cup panko breadcrumbs\n3 tbsps. parsley, chopped\n\nProcedure\n\n1. Cook elbow pasta in heavily salted water until al dente. Drain and set aside.\n2. Set a pot over medium heat. Sear Spam until nicely brown then set aside.\n3. Using the same pot, add butter and flour to create a roux. Add milk and mix until roux is fully dissolved.\n4. Add sharp cheddar cheese and parmesan cheese. Mix until smooth.\n5. Add wite pepper and paprika. Then mix in cooked elbow pasta and Spam Lite.\n6. Set pan over medium heat, add butter and panko crumbs. Mix occasionally until golden brown.\n7. Transfer Spam mac and cheese in a serving dish then top with crispy panko crumbs and parsley.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "As the Yuletide season approaches, it’s time to start preparing for the holiday festivities! This includes planning hearty, family-sized meals for all your get togethers and celebrations.\n\nIf you’re thinking of a way to jazz up the traditional macaroni and cheese, this recipe for Spam Mac & Cheese adds a familiar bite to the well-loved baked pasta dish. Because a lot of the savory flavors come from the cheeses, opt for Spam Lite to balance the taste so it’s not too salty. Grab all the ingredients you need at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Spam"
     ],
@@ -38,8 +38,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "30 minutes",
       "yield": "4-5 servings",
       "tips": "",
-      "ingredients": "Ingredients\n500g elbow macaroni\nSalt to taste\n2 tbsps. oil\n2 cans Spam Lite, cubes\n2 tbsps. butter\n2 tbsps. flour\n3 cups milk\n2 cups sharp cheddar cheese, grated\n1 cup parmesan cheese, grated\n½ tsp. white pepper powder\n¼ tsp. paprika powder\n3 tbsps. butter\n1 cup panko breadcrumbs\n3 tbsps. parsley, chopped",
-      "procedure": "Procedure\nCook elbow pasta in heavily salted water until al dente. Drain and set aside.\nSet a pot over medium heat. Sear Spam until nicely brown then set aside.\nUsing the same pot, add butter and flour to create a roux. Add milk and mix until roux is fully dissolved.\nAdd sharp cheddar cheese and parmesan cheese. Mix until smooth.\nAdd wite pepper and paprika. Then mix in cooked elbow pasta and Spam Lite.\nSet pan over medium heat, add butter and panko crumbs. Mix occasionally until golden brown.\nTransfer Spam mac and cheese in a serving dish then top with crispy panko crumbs and parsley."
+      "ingredients": "500g elbow macaroni\nSalt to taste\n2 tbsps. oil\n2 cans Spam Lite, cubes\n2 tbsps. butter\n2 tbsps. flour\n3 cups milk\n2 cups sharp cheddar cheese, grated\n1 cup parmesan cheese, grated\n½ tsp. white pepper powder\n¼ tsp. paprika powder\n3 tbsps. butter\n1 cup panko breadcrumbs\n3 tbsps. parsley, chopped",
+      "procedure": "Cook elbow pasta in heavily salted water until al dente. Drain and set aside.\nSet a pot over medium heat. Sear Spam until nicely brown then set aside.\nUsing the same pot, add butter and flour to create a roux. Add milk and mix until roux is fully dissolved.\nAdd sharp cheddar cheese and parmesan cheese. Mix until smooth.\nAdd wite pepper and paprika. Then mix in cooked elbow pasta and Spam Lite.\nSet pan over medium heat, add butter and panko crumbs. Mix occasionally until golden brown.\nTransfer Spam mac and cheese in a serving dish then top with crispy panko crumbs and parsley."
     },
     "photo": {
       "filename": "C2.jpg",
@@ -55,7 +55,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "Chicken pot pie is a holiday staple, and this recipe for Ham Pot Pie adds a delicious spin to the Christmas classic!\n\nInstead of using chunks of chicken, we used Purefoods Fiesta Chicken Ham instead! Paired with aromatics and a decadent cream sauce, this pot pie is also a great idea to make with leftover Christmas ham. Find all the ingredients you need, including your favorite celebration hams, at #TheMarketplace!\n\nServing Time: 45-50 minutes\nYield: 2-3 servings\n\nIngredients\n\n4 tbsps. butter\n2 tbsps. garlic, minced\n¾ cup onion, diced\n2 tbsps. flour\n1 cup chicken stock\n¾ cup heavy cream\n1 tbsp. chicken powder\n1 cup mixed vegetables\n1 ½ cup Purefoods Fiesta Chicken Ham Pre-sliced, diced\nSalt and pepper to taste \n1 pc. 8-inch puff pastry\n1 egg\n2 tbsps. milk\n\nProcedure\n\n1. Preheat oven to 350°F.\n2. Set pot over medium heat. Add butter and sauté garlic and onions until translucent. \n3. Add flour and slowly mix in chicken stock. Mix well and let simmer until it thickens. \n4. Add heavy cream and chicken powder, then let simmer again for 3 minutes.\n5. Add mixed vegetables and Purefoods Fiesta Chicken Ham. season with salt and pepper and simmer for 2 minutes. Transfer to a oven safe baking dish\n6. Flatten 8-inch puff pastry to fit in baking dish. In a small bowl combine egg and milk.\n7. Cover baking dish with puff pastry and brush with egg wash. Bake for 20 minutes until golden brown.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Chicken pot pie is a holiday staple, and this recipe for Ham Pot Pie adds a delicious spin to the Christmas classic!\n\nInstead of using chunks of chicken, we used Purefoods Fiesta Chicken Ham instead! Paired with aromatics and a decadent cream sauce, this pot pie is also a great idea to make with leftover Christmas ham. Find all the ingredients you need, including your favorite celebration hams, at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Purefoods"
     ],
@@ -63,8 +63,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "45-50 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n4 tbsps. butter\n2 tbsps. garlic, minced\n¾ cup onion,  diced\n2 tbsps. flour\n1 cup chicken stock\n¾ cup heavy cream\n1 tbsp. chicken powder\n1 cup mixed vegetables\n1 ½ cup Purefoods Fiesta Chicken Ham Pre-sliced, diced\nSalt and pepper to taste \n1 pc. 8-inch puff pastry\n1 egg\n2 tbsps. milk",
-      "procedure": "Procedure\nPreheat oven to 350°F.\nSet pot over medium heat. Add butter and sauté garlic and onions until translucent. \nAdd flour and slowly mix in chicken stock. Mix well and let simmer until it thickens. \nAdd heavy cream and chicken powder, then let simmer again for 3 minutes.\nAdd mixed vegetables and Purefoods Fiesta Chicken Ham. season with salt and pepper and simmer for 2 minutes. Transfer to a oven safe baking dish\nFlatten 8 inch puff pastry to fit in baking dish. In a small bowl combine egg and milk.\nCover baking dish with puff pastry and brush with egg wash. Bake for 20 minutes until golden brown."
+      "ingredients": "4 tbsps. butter\n2 tbsps. garlic, minced\n¾ cup onion,  diced\n2 tbsps. flour\n1 cup chicken stock\n¾ cup heavy cream\n1 tbsp. chicken powder\n1 cup mixed vegetables\n1 ½ cup Purefoods Fiesta Chicken Ham Pre-sliced, diced\nSalt and pepper to taste \n1 pc. 8-inch puff pastry\n1 egg\n2 tbsps. milk",
+      "procedure": "Preheat oven to 350°F.\nSet pot over medium heat. Add butter and sauté garlic and onions until translucent. \nAdd flour and slowly mix in chicken stock. Mix well and let simmer until it thickens. \nAdd heavy cream and chicken powder, then let simmer again for 3 minutes.\nAdd mixed vegetables and Purefoods Fiesta Chicken Ham. season with salt and pepper and simmer for 2 minutes. Transfer to a oven safe baking dish\nFlatten 8 inch puff pastry to fit in baking dish. In a small bowl combine egg and milk.\nCover baking dish with puff pastry and brush with egg wash. Bake for 20 minutes until golden brown."
     },
     "photo": {
       "filename": "C3.jpg",
@@ -80,7 +80,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "Got ham? Make these palate-pleasing Melon & Ham Skewers as a sophisticated pika-pika for your holiday dinners!\n\nNot only are they classy, but they also make good use of Purefoods Fiesta Ham, which always finds its way into every Filipino household during the holidays. The sweet melon adds a refreshing bite to the savory ham, and don’t forget the creamy mozzarella balls to round it all up! Basil leaves add a nice, bright finish to these irresistible hors d'oeuvres. Find all the ingredients you need fresh at #TheMarketplace!\n\nServing Time: 15 minutes\nOptional: You may use cream cheese as replacement for fresh mozzarella.\n\nIngredients\n\n1 cantaloupe melon \n1 kg. Purefoods Fiesta Ham Pre-sliced\n2 cups basil leaves\n4 cups fresh mozzarella balls\n\nProcedure\n\n1. Cut melon into half and create a ball using a melon baller.\n2. Cut each slice of Purefoods Fiesta Ham into half.\n3. Pierce the basil leaf using a bamboo skewer and slide it to the bottom. Then add melon, ham, mozzarella cheese and finish with another layer of basil and melon.\n4. Repeat the steps for the following skewers.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Got ham? Make these palate-pleasing Melon & Ham Skewers as a sophisticated pika-pika for your holiday dinners!\n\nNot only are they classy, but they also make good use of Purefoods Fiesta Ham, which always finds its way into every Filipino household during the holidays. The sweet melon adds a refreshing bite to the savory ham, and don’t forget the creamy mozzarella balls to round it all up! Basil leaves add a nice, bright finish to these irresistible hors d'oeuvres. Find all the ingredients you need fresh at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Purefoods"
     ],
@@ -88,8 +88,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "15 minutes",
       "yield": "",
       "tips": "You may use cream cheese as replacement for fresh mozzarella",
-      "ingredients": "Ingredients\n1 cantaloupe melon \n1 kg. Purefoods Fiesta Ham Pre-sliced\n2 cups basil leaves\n4 cups fresh mozzarella balls",
-      "procedure": "Procedure\nCut melon into half and create a ball using a melon baller.\nCut each slice of Purefoods Fiesta Ham into half.\nPierce the basil leaf using a bamboo skewer and slide it to the bottom. Then add melon, ham, mozzarella cheese and finish with another layer of basil and melon.\nRepeat the steps for the following skewers."
+      "ingredients": "1 cantaloupe melon \n1 kg. Purefoods Fiesta Ham Pre-sliced\n2 cups basil leaves\n4 cups fresh mozzarella balls",
+      "procedure": "Cut melon into half and create a ball using a melon baller.\nCut each slice of Purefoods Fiesta Ham into half.\nPierce the basil leaf using a bamboo skewer and slide it to the bottom. Then add melon, ham, mozzarella cheese and finish with another layer of basil and melon.\nRepeat the steps for the following skewers."
     },
     "photo": {
       "filename": "C4.jpg",
@@ -105,7 +105,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "‘Tis the season for comfort and indulgence!\n\nTuck into these Coffee Crepes a la Mode made with Selecta Coffee Crumble ice cream as you wait for the clock to strike 12! Chocolatey, creamy, and buttery, with a nice touch of coffee to boot, this is definitely one Christmas treat worth swooning over. Find your favorite Selecta ice cream flavors, along with other frozen sweet treats, at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 2 servings\n\nIngredients\n\n¾ cups flour\n¼ cup cacao powder\n1 tbsp. sugar\n1 cup milk\n2 eggs\n5 tbsps. butter\n½ cup chocolate fudge\n2 scoops Selecta Coffee Crumble Ice Cream\n¼ cup almonds, chopped\n\nProcedure\n\n1. In a mixing bowl, sift together flour and cacao powder then add sugar. Create a well in the middle.\n2. Add milk, eggs and 2 tablespoons melted butter. Mix until well incorporated.\n3. Set a pan over medium heat. Add butter and ¼ cup of the crepe mixture. Spread evenly on the pan. Flip until golden brown.\n4. Fold each crepe into four and transfer to a plate.\n5. Drizzle with chocolate fudge, and add a scoop of Selecta Coffee Crumble Ice Cream.\n6. Serve alongside almonds.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "‘Tis the season for comfort and indulgence!\n\nTuck into these Coffee Crepes a la Mode made with Selecta Coffee Crumble ice cream as you wait for the clock to strike 12! Chocolatey, creamy, and buttery, with a nice touch of coffee to boot, this is definitely one Christmas treat worth swooning over. Find your favorite Selecta ice cream flavors, along with other frozen sweet treats, at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Selecta"
     ],
@@ -113,8 +113,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "30 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n¾ cups flour\n¼ cup cacao powder\n1 tbsp. sugar\n1 cup milk\n2 eggs\n5 tbsps. butter\n½ cup chocolate fudge\n2 scoops Selecta Coffee Crumble Ice Cream\n¼ cup almonds, chopped",
-      "procedure": "Procedure\nIn a mixing bowl, sift together flour and cacao powder then add sugar. Create a well in the middle.\nAdd milk, eggs and 2 tablespoons melted butter. Mix until well incorporated.\nSet a pan over medium heat. Add butter and ¼ cup of the crepe mixture. Spread evenly on the pan. Flip until golden brown.\nFold each crepe into four and transfer to a plate.\nDrizzle with chocolate fudge, and add a scoop of Selecta Coffee Crumble Ice Cream.\nServe alongside almonds."
+      "ingredients": "¾ cups flour\n¼ cup cacao powder\n1 tbsp. sugar\n1 cup milk\n2 eggs\n5 tbsps. butter\n½ cup chocolate fudge\n2 scoops Selecta Coffee Crumble Ice Cream\n¼ cup almonds, chopped",
+      "procedure": "In a mixing bowl, sift together flour and cacao powder then add sugar. Create a well in the middle.\nAdd milk, eggs and 2 tablespoons melted butter. Mix until well incorporated.\nSet a pan over medium heat. Add butter and ¼ cup of the crepe mixture. Spread evenly on the pan. Flip until golden brown.\nFold each crepe into four and transfer to a plate.\nDrizzle with chocolate fudge, and add a scoop of Selecta Coffee Crumble Ice Cream.\nServe alongside almonds."
     },
     "photo": {
       "filename": "C5.jpg",
@@ -130,7 +130,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "Want to make a memorable yet easy dish this holiday season?\n\nThis recipe for Cheesy Mushroom Tart will definitely make an impression! Using three different types of mushrooms, some thyme, milk, butter, and Emborg Shredded Cheddar Topping, this savory tart spells nothing but comfort. Best served fresh from the oven! Find Emborg cheese, along with other premium dairy products at #TheMarketplace!\n\nServing Time: 25 minutes\nYield: 2-3 servings\n\nIngredients\n\n3 tbsps. butter\n½ cup shiitake mushrooms, sliced\n½ cup clamshell mushrooms\n½ cup oyster mushrooms\n1 pc. 8-inch puff pastry\n1 ½ cup Emborg Shredded Cheddar Topping\n1 egg\n1 tbsp. milk\n¼ cup thyme sprigs\n\nProcedure\n\n1. Preheat oven to 350°F.\n2. Set a pan over medium heat. Add butter and sauté shiitake, clamshell and oyster mushrooms, then set aside.\n3. Flatten the puff pastry and top with Emborg Cheddar Topping and sautéed mushrooms.\n4. Fold the edges to secure topping. In a small bowl, combine egg and milk. Brush the edges with egg wash.\n5. Bake for 15 minutes until golden. Remove from the oven and top with thyme sprigs.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Want to make a memorable yet easy dish this holiday season?\n\nThis recipe for Cheesy Mushroom Tart will definitely make an impression! Using three different types of mushrooms, some thyme, milk, butter, and Emborg Shredded Cheddar Topping, this savory tart spells nothing but comfort. Best served fresh from the oven! Find Emborg cheese, along with other premium dairy products at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Emborg"
     ],
@@ -138,8 +138,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "25 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n3 tbsps. butter\n½ cup shiitake mushrooms, sliced\n½ cup clamshell mushrooms\n½ cup oyster mushrooms\n1 pc. 8-inch puff pastry\n1 ½ cup Emborg Shredded Cheddar Topping\n1 egg\n1 tbsp. milk\n¼ cup thyme sprigs",
-      "procedure": "Procedure\nPreheat oven to 350°F.\nSet a pan over medium heat. Add butter and sauté shiitake, clamshell and oyster mushrooms, then set aside.\nFlatten the puff pastry and top with Emborg Cheddar Topping and sautéed mushrooms.\nFold the edges to secure topping. In a small bowl, combine egg and milk. Brush the edges with egg wash.\nBake for 15 minutes until golden. Remove from the oven and top with thyme sprigs."
+      "ingredients": "3 tbsps. butter\n½ cup shiitake mushrooms, sliced\n½ cup clamshell mushrooms\n½ cup oyster mushrooms\n1 pc. 8-inch puff pastry\n1 ½ cup Emborg Shredded Cheddar Topping\n1 egg\n1 tbsp. milk\n¼ cup thyme sprigs",
+      "procedure": "Preheat oven to 350°F.\nSet a pan over medium heat. Add butter and sauté shiitake, clamshell and oyster mushrooms, then set aside.\nFlatten the puff pastry and top with Emborg Cheddar Topping and sautéed mushrooms.\nFold the edges to secure topping. In a small bowl, combine egg and milk. Brush the edges with egg wash.\nBake for 15 minutes until golden. Remove from the oven and top with thyme sprigs."
     },
     "photo": {
       "filename": "C6.jpg",
@@ -174,7 +174,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "A common sight at every Noche Buena table is a big bowl of pasta salad! While elbow macaroni is a popular choice, here’s one made with spiral-shaped fusilli pasta to add a literal twist!\n\nUsing Lady’s Choice Mayonnaise, this Fusilli Salad embodies a variety of colors and flavors that one can allude to the Yuletide season. Don’t forget to pack some in containers for your guests to take home! Find all the items you need fresh at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 4-5 servings\n\nIngredients\n\n500g fusilli pasta\nSalt and pepper to taste\n250g chicken breast, boiled & cut into cubes\n1 cup cucumber, diced\n1 cup carrots, julienned\n1 cup tomatoes, diced\n1 ½ cup Lady’s Choice Mayonnaise\n2 tbsps. parsley, chopped\n\nProcedure\n1. Cook fusilli pasta in heavily salted water until al dente. Drain and then set aside.\n2. In a large mixing bowl, combine cooked pasta, chicken breast, cucumber, carrots and tomatoes.\n3. Coat with Lady’s Choice Mayonnaise, and season with salt and pepper.\n4. Garnish with chopped parsley before serving.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "A common sight at every Noche Buena table is a big bowl of pasta salad! While elbow macaroni is a popular choice, here’s one made with spiral-shaped fusilli pasta to add a literal twist!\n\nUsing Lady’s Choice Mayonnaise, this Fusilli Salad embodies a variety of colors and flavors that one can allude to the Yuletide season. Don’t forget to pack some in containers for your guests to take home! Find all the items you need fresh at #TheMarketplace!\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Lady's Choice"
     ],
@@ -182,8 +182,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "30 minutes",
       "yield": "4-5 servings",
       "tips": "",
-      "ingredients": "Ingredients\n500g fusilli pasta\nSalt and pepper to taste\n250g chicken breast, boiled & cut into cubes\n1 cup cucumber, diced\n1 cup carrots, julienned\n1 cup tomatoes, diced\n1 ½ cup Lady’s Choice Mayonnaise\n2 tbsps. parsley, chopped",
-      "procedure": "Procedure\nCook fusilli pasta in heavily salted water until al dente. Drain and then set aside.\nIn a large mixing bowl, combine cooked pasta, chicken breast, cucumber, carrots and tomatoes.\nCoat with Lady’s Choice Mayonnaise, and season with salt and pepper.\nGarnish with chopped parsley before serving."
+      "ingredients": "500g fusilli pasta\nSalt and pepper to taste\n250g chicken breast, boiled & cut into cubes\n1 cup cucumber, diced\n1 cup carrots, julienned\n1 cup tomatoes, diced\n1 ½ cup Lady’s Choice Mayonnaise\n2 tbsps. parsley, chopped",
+      "procedure": "Cook fusilli pasta in heavily salted water until al dente. Drain and then set aside.\nIn a large mixing bowl, combine cooked pasta, chicken breast, cucumber, carrots and tomatoes.\nCoat with Lady’s Choice Mayonnaise, and season with salt and pepper.\nGarnish with chopped parsley before serving."
     },
     "photo": {
       "filename": "CM2.jpg",
@@ -199,7 +199,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "With a surplus of ham during the holidays, we made sure to provide you with recipes to maximize their deliciousness!\n\nIn this recipe for Ham & Pea Carbonara, CDO’s Chicken Ham is used in this creamy pasta dish. Buttery, delightful, and studded with delicious green peas for texture and color, what’s there not to love? Head over to #TheMarketplace now and get all the ingredients you need!\n\nServing Time: 20 minutes\nYield: 4-5 servings\n\nIngredients\n\n500g spaghetti noodles\nSalt and pepper to taste\n2 tbsps. butter\n½ cup onions, diced\n2 tbsps. garlic, minced\n1 ½ cup CDO Chicken Ham Pre-sliced\n1 cup green peas\n1 cup heavy cream\n1 cup parmesan cheese, grated\n\nProcedure\n\n1. Cook spaghetti noodles in heavily salted water until al dente. Drain and save 1/2 cup pasta water then set aside.\n2. Set a pan over medium heat. Add butter and sauté onions and garlic until translucent.\n3. Mix in CDO Chicken Ham and green peas. Add heavy cream and mix. Add pasta water let simmer for 3 minutes.\n4. Mix in spaghetti noodles until well incorporated. Serve alongside grated parmesan cheese.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "With a surplus of ham during the holidays, we made sure to provide you with recipes to maximize their deliciousness!\n\nIn this recipe for Ham & Pea Carbonara, CDO’s Chicken Ham is used in this creamy pasta dish. Buttery, delightful, and studded with delicious green peas for texture and color, what’s there not to love? Head over to #TheMarketplace now and get all the ingredients you need!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "CDO"
     ],
@@ -207,8 +207,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "20 minutes",
       "yield": "4-5 servings",
       "tips": "",
-      "ingredients": "Ingredients\n500g spaghetti noodles\nSalt and pepper to taste\n2 tbsps. butter\n½ cup onions, diced\n2 tbsps. garlic, minced\n1 ½ cup CDO Chicken Ham Pre-sliced\n1 cup green peas\n1 cup heavy cream\n1 cup parmesan cheese, grated",
-      "procedure": "Procedure\nCook spaghetti noodles in heavily salted water until al dente. Drain and save 1/2 cup pasta water then set aside.\nSet a pan over medium heat. Add butter and sauté onions and garlic until translucent.\nMix in CDO Chicken Ham and green peas. Add heavy cream and mix. Add pasta water let simmer for 3 minutes.\nMix in spaghetti noodles until well incorporated. Serve alongside grated parmesan cheese."
+      "ingredients": "500g spaghetti noodles\nSalt and pepper to taste\n2 tbsps. butter\n½ cup onions, diced\n2 tbsps. garlic, minced\n1 ½ cup CDO Chicken Ham Pre-sliced\n1 cup green peas\n1 cup heavy cream\n1 cup parmesan cheese, grated",
+      "procedure": "Cook spaghetti noodles in heavily salted water until al dente. Drain and save 1/2 cup pasta water then set aside.\nSet a pan over medium heat. Add butter and sauté onions and garlic until translucent.\nMix in CDO Chicken Ham and green peas. Add heavy cream and mix. Add pasta water let simmer for 3 minutes.\nMix in spaghetti noodles until well incorporated. Serve alongside grated parmesan cheese."
     },
     "photo": {
       "filename": "CM3.jpg",
@@ -224,7 +224,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "Have a holiday potluck coming up? This Scalloped Potato and Ham Casserole will be a sure hit. Bursting with the goodness of creamy potatoes and cheese, the addition of diced CDO Holiday Ham adds a delicious, porky bite that’s definitely in theme with the holiday season. Have all the ingredients you need delivered to your doorstep with just a few clicks! Shop via the #TheMarketplace online today!\n\nServing Time: 1 hour and 15 minutes\nYield: 2-3 servings\n\nIngredients\n\n2 tbsps. butter\n1 ½ tbsp. flour\n1 cup milk \n½ tsp. garlic powder\nSalt and pepper to taste\n3 potatoes, peeled & sliced\n1 cup CDO Holiday Ham, diced\n½ cup mozzarella cheese\n1 tbsp. parsley, chopped\n\nProcedure\n\n1. Preheat oven to 350°F.\n2. Set a small pot over medium heat. Add butter and flour, then pour in milk. Let simmer until it thickens.\n3. Add garlic powder and season with salt and pepper then set aside.\n4. In an oven safe baking dish, line sliced potatoes and ½ cup diced ham. Pour over white sauce and cover with foil.\n5. Bake for 45 minutes and remove from the oven. Top with mozzarella cheese and the remaining ham.\n6. Bake again for another 15 minutes. Garnish with chopped parsley before serving.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Have a holiday potluck coming up? This Scalloped Potato and Ham Casserole will be a sure hit. Bursting with the goodness of creamy potatoes and cheese, the addition of diced CDO Holiday Ham adds a delicious, porky bite that’s definitely in theme with the holiday season. Have all the ingredients you need delivered to your doorstep with just a few clicks! Shop via the #TheMarketplace online today!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "CDO"
     ],
@@ -232,8 +232,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "1 hour and 15 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. butter\n1 ½ tbsp. flour\n1 cup milk \n½ tsp. garlic powder\nSalt and pepper to taste\n3 potatoes, peeled & sliced\n1 cup CDO Holiday Ham, diced\n½ cup mozzarella cheese\n1 tbsp. parsley, chopped",
-      "procedure": "Procedure\nPreheat oven to 350°F.\nSet a small pot over medium heat. Add butter and flour, then pour in milk. Let simmer until it thickens.\nAdd garlic powder and season with salt and pepper then set aside.\nIn an oven safe baking dish, line sliced potatoes and ½ cup diced ham. Pour over white sauce and cover with foil.\nBake for 45 minutes and remove from the oven. Top with mozzarella cheese and the remaining ham.\nBake again for another 15 minutes. Garnish with chopped parsley before serving."
+      "ingredients": "2 tbsps. butter\n1 ½ tbsp. flour\n1 cup milk \n½ tsp. garlic powder\nSalt and pepper to taste\n3 potatoes, peeled & sliced\n1 cup CDO Holiday Ham, diced\n½ cup mozzarella cheese\n1 tbsp. parsley, chopped",
+      "procedure": "Preheat oven to 350°F.\nSet a small pot over medium heat. Add butter and flour, then pour in milk. Let simmer until it thickens.\nAdd garlic powder and season with salt and pepper then set aside.\nIn an oven safe baking dish, line sliced potatoes and ½ cup diced ham. Pour over white sauce and cover with foil.\nBake for 45 minutes and remove from the oven. Top with mozzarella cheese and the remaining ham.\nBake again for another 15 minutes. Garnish with chopped parsley before serving."
     },
     "photo": {
       "filename": "CM4.jpg",
@@ -249,7 +249,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "A fun, classic, and popular canapé, Pigs in a Blanket originated in the United Kingdom and was popularized by Betty Crocker’s cookbook for kids in 1957. The pig refers to a sausage, which, in this case, is a Swift Mighty Meaty Chicken Frank, and the blanket alluding to the puff pastry wrapped around it. Bite-sized and enjoyable to eat, these Pigs in a Blanket take only half an hour to make, and are a great starter for your holiday feasts. All the ingredients you need are available at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 14 servings\n\nIngredients\n\n2 pcs. 8-inch puff pastry\n14 pcs. Swift Mighty Meaty Chicken Franks Jumbo\n1 egg\n1 tbsp. milk\n1 tbsp. white sesame seeds\n1 tbsp. black sesame seeds\n½ cup ketchup\n½ cup mustard\n\nProcedure\n\n1. Preheat oven to 350°F.\n2. Cut puff pastry into 7 strips. Wrap each piece of Swift Chicken Franks with 1 strip of puff pastry.\n3. In a small bowl, combine egg and milk. Brush each wrapped chicken franks with egg wash and sprinkle with white and black sesame seeds.\n4. Bake for 12-15 minutes until golden. Remove from the oven and serve alongside ketchup and mustard.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "A fun, classic, and popular canapé, Pigs in a Blanket originated in the United Kingdom and was popularized by Betty Crocker’s cookbook for kids in 1957. The pig refers to a sausage, which, in this case, is a Swift Mighty Meaty Chicken Frank, and the blanket alluding to the puff pastry wrapped around it. Bite-sized and enjoyable to eat, these Pigs in a Blanket take only half an hour to make, and are a great starter for your holiday feasts. All the ingredients you need are available at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Swift"
     ],
@@ -257,8 +257,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "30 minutes",
       "yield": "14 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 pcs. 8-inch puff pastry\n14 pcs. Swift Mighty Meaty Chicken Franks Jumbo\n1 egg\n1 tbsp. milk\n1 tbsp. white sesame seeds\n1 tbsp. black sesame seeds\n½ cup ketchup\n½ cup mustard",
-      "procedure": "Procedure\nPreheat oven to 350°F.\nCut puff pastry into 7 strips. Wrap each piece of Swift Chicken Franks with 1 strip of puff pastry.\nIn a small bowl, combine egg and milk. Brush each wrapped chicken franks with egg wash and sprinkle with white and black sesame seeds.\nBake for 12-15 minutes until golden. Remove from the oven and serve alongside ketchup and mustard."
+      "ingredients": "2 pcs. 8-inch puff pastry\n14 pcs. Swift Mighty Meaty Chicken Franks Jumbo\n1 egg\n1 tbsp. milk\n1 tbsp. white sesame seeds\n1 tbsp. black sesame seeds\n½ cup ketchup\n½ cup mustard",
+      "procedure": "Preheat oven to 350°F.\nCut puff pastry into 7 strips. Wrap each piece of Swift Chicken Franks with 1 strip of puff pastry.\nIn a small bowl, combine egg and milk. Brush each wrapped chicken franks with egg wash and sprinkle with white and black sesame seeds.\nBake for 12-15 minutes until golden. Remove from the oven and serve alongside ketchup and mustard."
     },
     "photo": {
       "filename": "CM5.jpg",
@@ -274,7 +274,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "With a lot of get-togethers this holiday season, it’s important to keep our health in check. Balance out all the happy feasting with some healthy meals here and there with light breakfasts such as this simple Peach Granola Yogurt Parfait made with fruits and Pascual Greek Style Yogurt! Grab all the ingredients you need at #TheMarketplace!\n\nServing Time: 10 minutes\nYield: 1 serving\n\nIngredients\n\n1 cup granola\n2 tbsps. dried cranberries\n2 tbsps. almond, slivered\n1 cup Pascual Greek Style Yogurt\n1 cup peach, sliced\n\nProcedure\n\n1. In a small bowl, combine granola, half of cranberries and almonds.\n2. In a dessert glass, fill the bottom with granola and add a layer of Pascual Greek Style Yogurt.\n3. Add a layer of peaches and granola. Then add another layer of Greek Style Yogurt.\n4. Top with peaches and the remaining cranberries.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "With a lot of get-togethers this holiday season, it’s important to keep our health in check. Balance out all the happy feasting with some healthy meals here and there with light breakfasts such as this simple Peach Granola Yogurt Parfait made with fruits and Pascual Greek Style Yogurt! Grab all the ingredients you need at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Pascual"
     ],
@@ -282,8 +282,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "10 minutes",
       "yield": "1 serving",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup granola\n2 tbsps. dried cranberries\n2 tbsps. almond, slivered\n1 cup Pascual Greek Style Yogurt\n1 cup peach, sliced",
-      "procedure": "Procedure\nIn a small bowl, combine granola, half of cranberries and almonds.\nIn a dessert glass, fill the bottom with granola and add a layer of Pascual Greek Style Yogurt.\n Add a layer of peaches and granola. Then add another layer of Greek Style Yogurt.\nTop with peaches and the remaining cranberries."
+      "ingredients": "1 cup granola\n2 tbsps. dried cranberries\n2 tbsps. almond, slivered\n1 cup Pascual Greek Style Yogurt\n1 cup peach, sliced",
+      "procedure": "In a small bowl, combine granola, half of cranberries and almonds.\nIn a dessert glass, fill the bottom with granola and add a layer of Pascual Greek Style Yogurt.\n Add a layer of peaches and granola. Then add another layer of Greek Style Yogurt.\nTop with peaches and the remaining cranberries."
     },
     "photo": {
       "filename": "CM6.jpg",
@@ -299,7 +299,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "A hearty pasta recipe originating from Rome, this Shrimp Alfredo Pasta made with Anchor Cooking Cream is a sure way to delight the palate. A lighter option compared to heavier meat-based pasta bakes, whip this dish for weeknight dinners or festive get-together brunches. Find all the ingredients you need at #TheMarketplace!\n\nServing Time: 30-40 minutes\nYield: 3-4 servings\n\nIngredients\n\n400g fettuccine pasta\nSalt and pepper to taste\n3 tbsps. butter\n½ kg. shrimp, peeled\n½ cup onions, diced\n2 tbsps. garlic, minced\n1 cup Anchor Cooking Cream\n⅛ cup parsley leaves\n\nProcedure\n\n1. Cook fettuccine in heavily salted water until al dente. Drain and save ⅓ cup pasta water and set aside.\n2. Set a pan over medium heat. Add butter and sear shrimp until cooked then set aside.\n3. In the same pan, sauté onions and garlic until translucent. Add Anchor Cooking Cream and pasta water. Mix and let simmer for 3 minutes.\n4. Season with salt and pepper. Add cooked fettuccine and seared shrimp. Garnish with parsley leaves.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "A hearty pasta recipe originating from Rome, this Shrimp Alfredo Pasta made with Anchor Cooking Cream is a sure way to delight the palate. A lighter option compared to heavier meat-based pasta bakes, whip this dish for weeknight dinners or festive get-together brunches. Find all the ingredients you need at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Anchor"
     ],
@@ -307,8 +307,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "30-40 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n400g fettuccine pasta\nSalt and pepper to taste\n3 tbsps. butter\n½ kg. shrimp, peeled\n½ cup onions, diced\n2 tbsps. garlic, minced\n1 cup Anchor Cooking Cream\n⅛ cup parsley leaves",
-      "procedure": "Procedure\nCook fettuccine in heavily salted water until al dente. Drain and save ⅓ cup pasta water and set aside.\nSet a pan over medium heat. Add butter and sear shrimp until cooked then set aside.\nIn the same pan, sauté onions and garlic until translucent. Add Anchor Cooking Cream and pasta water. Mix and let simmer for 3 minutes.\nSeason with salt and pepper. Add cooked fettuccine and seared shrimp. Garnish with parsley leaves."
+      "ingredients": "400g fettuccine pasta\nSalt and pepper to taste\n3 tbsps. butter\n½ kg. shrimp, peeled\n½ cup onions, diced\n2 tbsps. garlic, minced\n1 cup Anchor Cooking Cream\n⅛ cup parsley leaves",
+      "procedure": "Cook fettuccine in heavily salted water until al dente. Drain and save ⅓ cup pasta water and set aside.\nSet a pan over medium heat. Add butter and sear shrimp until cooked then set aside.\nIn the same pan, sauté onions and garlic until translucent. Add Anchor Cooking Cream and pasta water. Mix and let simmer for 3 minutes.\nSeason with salt and pepper. Add cooked fettuccine and seared shrimp. Garnish with parsley leaves."
     },
     "photo": {
       "filename": "CM7.jpg",
@@ -324,7 +324,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "May your brunches be merry and bright with this recipe for French Toast a ala Mode!\n\nA double scoop of Nestlé Double Dutch ice cream certainly adds a decadent touch to the classic French toast. Sprinkle with almonds and drizzle with chocolate fudge to make it extra special! Get all the ingredients you need at #TheMarketplace today!\n\nServing Time: 15 minutes\nYield: 2 servings\n\nIngredients\n\n2 eggs\n⅓ cup milk\n2 tbsps. sugar\n4 slices French bread\n2 tbsp. butter\n2 scoops Nestlé Double Dutch Ice Cream\n¾ cup chocolate fudge\n½ cup almonds, chopped\n\nProcedure\n\n1. In a bowl, combine eggs, milk and sugar.\n2. Set a pan over medium heat, then add butter. Lightly soak each bread slice and cook until golden brown on each side.\n3. Add a scoop of Nestlé Double Dutch Ice Cream and drizzle with chocolate fudge and top with nuts.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "May your brunches be merry and bright with this recipe for French Toast a ala Mode!\n\nA double scoop of Nestlé Double Dutch ice cream certainly adds a decadent touch to the classic French toast. Sprinkle with almonds and drizzle with chocolate fudge to make it extra special! Get all the ingredients you need at #TheMarketplace today!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Nestlé"
     ],
@@ -332,8 +332,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "15 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 eggs\n⅓ cup milk\n2 tbsps. sugar\n4 slices French bread\n2 tbsp. butter\n2 scoops Nestlé Double Dutch Ice Cream\n¾ cup chocolate fudge\n½ cup almonds, chopped",
-      "procedure": "Procedure\nIn a bowl, combine eggs, milk and sugar.\nSet a pan over medium heat, then add butter. Lightly soak each bread slice and cook until golden brown on each side.\nAdd a scoop of Nestlé Double Dutch Ice Cream and drizzle with chocolate fudge and top with nuts."
+      "ingredients": "2 eggs\n⅓ cup milk\n2 tbsps. sugar\n4 slices French bread\n2 tbsp. butter\n2 scoops Nestlé Double Dutch Ice Cream\n¾ cup chocolate fudge\n½ cup almonds, chopped",
+      "procedure": "In a bowl, combine eggs, milk and sugar.\nSet a pan over medium heat, then add butter. Lightly soak each bread slice and cook until golden brown on each side.\nAdd a scoop of Nestlé Double Dutch Ice Cream and drizzle with chocolate fudge and top with nuts."
     },
     "photo": {
       "filename": "CM8.jpg",
@@ -349,7 +349,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "Aren’t these Cranberry Pistachio Yogurt Bars simply perfect for the season?\n\nUsing Yoplait Vanilla Yogurt, these festive snacks look like snow-covered bars studded with greens and reds. Make a batch for your tea-time break, or as take-away treats for friends and family. All ingredients are available at #TheMarketplace!\n\nServing Time: 2 hours\nYield: 5-6 servings\n\nIngredients\n\n2 packs gelatin\n10 packs Yoplait Vanilla Yogurt\n¾ cup frozen cranberries\n½ cup pistachios, chopped\n\nProcedure\n\n1. Dissolve gelatin in ¼ cup hot water.\n2. In a bowl, combine gelatin and yogurt, mix well. Add ½ cup frozen cranberries and half of chopped pistachios.\n3. Line tray with parchment paper and transfer yogurt mixture. Spread evenly and top with the remaining cranberries and pistachios. \n4. Freeze for at least 1 hour and 30 minutes before serving.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Aren’t these Cranberry Pistachio Yogurt Bars simply perfect for the season?\n\nUsing Yoplait Vanilla Yogurt, these festive snacks look like snow-covered bars studded with greens and reds. Make a batch for your tea-time break, or as take-away treats for friends and family. All ingredients are available at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Yoplait"
     ],
@@ -357,8 +357,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "2 hours",
       "yield": "5-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 packs gelatin\n10 packs Yoplait Vanilla Yogurt\n¾ cup frozen cranberries\n½ cup pistachios, chopped",
-      "procedure": "Procedure\nDissolve gelatin in ¼ cup hot water.\nIn a bowl, combine gelatin and yogurt, mix well. Add ½ cup frozen cranberries and half of chopped pistachios.\nLine tray with parchment paper and transfer yogurt mixture. Spread evenly and top with the remaining cranberries and pistachios. \nFreeze for at least 1 hour and 30 minutes before serving."
+      "ingredients": "2 packs gelatin\n10 packs Yoplait Vanilla Yogurt\n¾ cup frozen cranberries\n½ cup pistachios, chopped",
+      "procedure": "Dissolve gelatin in ¼ cup hot water.\nIn a bowl, combine gelatin and yogurt, mix well. Add ½ cup frozen cranberries and half of chopped pistachios.\nLine tray with parchment paper and transfer yogurt mixture. Spread evenly and top with the remaining cranberries and pistachios. \nFreeze for at least 1 hour and 30 minutes before serving."
     },
     "photo": {
       "filename": "CM9.jpg",
@@ -374,7 +374,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "Transform Lemon Square’s Lava Cakes into little bite-sized desserts in this recipe for Mini Black Forest Lava Cake! Simply pipe on some whipping cream onto each Lemon Square Lava Cake, top with Maraschino cherries, and drizzle with chocolate sauce. Layer on top of each other and impress your guests with this delicious dessert! Best part? Kids can enjoy it, too, because it’s alcohol-free! Find Lemon Square baked goods, along with other ready-to-eat cakes, at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 2 servings\n\nIngredients\n\n2 cups whipped cream\n4 pcs. Lemon Square Lava Cake\n2 cups whipped cream\n1 cup Maraschino cherries\n½ cup chocolate sauce\n2 tbsps. white chocolate shavings\n\nProcedure\n\n1. Using a piping bag with a star tip, add a layer of whipped cream over Lemon Square Lava Cake.\n2. Add Maraschino cherries on top and drizzle with chocolate sauce. Cover with another piece of lava cake and top with whipped cream. \n3. Garnish with maraschino cherry and white chocolate shavings before serving.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Transform Lemon Square’s Lava Cakes into little bite-sized desserts in this recipe for Mini Black Forest Lava Cake! Simply pipe on some whipping cream onto each Lemon Square Lava Cake, top with Maraschino cherries, and drizzle with chocolate sauce. Layer on top of each other and impress your guests with this delicious dessert! Best part? Kids can enjoy it, too, because it’s alcohol-free! Find Lemon Square baked goods, along with other ready-to-eat cakes, at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "! Generic"
     ],
@@ -382,8 +382,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "15 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 cups whipped cream\n4 pcs. Lemon Square Lava Cake\n2 cups whipped cream\n1 cup Maraschino cherries\n½ cup chocolate sauce\n2 tbsps. white chocolate shavings",
-      "procedure": "Procedure\nUsing a piping bag with a star tip, add a layer of whipped cream over Lemon Square Lava Cake.\nAdd Maraschino cherries on top and drizzle with chocolate sauce. Cover with another piece of lava cake and top with whipped cream. \nGarnish with maraschino cherry and white chocolate shavings before serving."
+      "ingredients": "2 cups whipped cream\n4 pcs. Lemon Square Lava Cake\n2 cups whipped cream\n1 cup Maraschino cherries\n½ cup chocolate sauce\n2 tbsps. white chocolate shavings",
+      "procedure": "Using a piping bag with a star tip, add a layer of whipped cream over Lemon Square Lava Cake.\nAdd Maraschino cherries on top and drizzle with chocolate sauce. Cover with another piece of lava cake and top with whipped cream. \nGarnish with maraschino cherry and white chocolate shavings before serving."
     },
     "photo": {
       "filename": "CF1.jpg",
@@ -399,7 +399,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "French toasts usually err on the sweeter side, but why not try a savory approach to it in this recipe for Bacon Garlic French Toast?\n\nWe like using Fuwa Fuwa Butter Bread for this recipe as the extra touch of butter takes the toast to great lengths. Add some cheddar to the egg bath for extra flavor, and then top with crispy bacon. Hungry yet? Head over to #TheMarketplace now and find all the ingredients you need!\n\nServing Time: 30 minutes\nYield: 3 servings\nOptional: Serve with pomodoro sauce.\n\nIngredients\n\n1 tbsp. oil \n3 strips bacon \n1 egg \n½ cup milk \n3 tbsps. cheddar cheese, grated \nSalt & pepper to taste \n3 slices Fuwa Fuwa Butter bread\n3 tbsps. parmesan cheese, grated \n2 tsps. parsley\n\nProcedure\n\n1. Heat up oil in a frying pan over medium heat. Fry bacon strips until crisp. Set aside bacon while retaining some of the bacon fat in the pan. \n2. In a bowl, whisk together egg, milk and cheddar. Season with salt and pepper. \n3. Briefly dip each Fuwa Fuwa Butter bread in the egg mixture. Fry in the bacon fat until golden brown on both sides. \n4. Sprinkle parmesan cheese and parsley on top. Serve with bacon strips. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "French toasts usually err on the sweeter side, but why not try a savory approach to it in this recipe for Bacon Garlic French Toast?\n\nWe like using Fuwa Fuwa Butter Bread for this recipe as the extra touch of butter takes the toast to great lengths. Add some cheddar to the egg bath for extra flavor, and then top with crispy bacon. Hungry yet? Head over to #TheMarketplace now and find all the ingredients you need!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Fuwa Fuwa"
     ],
@@ -407,8 +407,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "30 minutes",
       "yield": "3 servings",
       "tips": "Serve with pomodoro sauce.",
-      "ingredients": "Ingredients\n1 tbsp. oil \n3 strips bacon \n1 egg \n½ cup milk \n3 tbsps. cheddar cheese, grated \nSalt & pepper to taste \n3 slices Fuwa Fuwa Butter bread\n3 tbsps. parmesan cheese, grated \n2 tsps. parsley",
-      "procedure": "Procedure\nHeat up oil in a frying pan over medium heat. Fry bacon strips until crisp. Set aside bacon while retaining some of the bacon fat in the pan. \nIn a bowl, whisk together egg, milk and cheddar. Season with salt and pepper. \nBriefly dip each Fuwa Fuwa Butter bread in the egg mixture. Fry in the bacon fat until golden brown on both sides. \nSprinkle parmesan cheese and parsley on top. Serve with bacon strips."
+      "ingredients": "1 tbsp. oil \n3 strips bacon \n1 egg \n½ cup milk \n3 tbsps. cheddar cheese, grated \nSalt & pepper to taste \n3 slices Fuwa Fuwa Butter bread\n3 tbsps. parmesan cheese, grated \n2 tsps. parsley",
+      "procedure": "Heat up oil in a frying pan over medium heat. Fry bacon strips until crisp. Set aside bacon while retaining some of the bacon fat in the pan. \nIn a bowl, whisk together egg, milk and cheddar. Season with salt and pepper. \nBriefly dip each Fuwa Fuwa Butter bread in the egg mixture. Fry in the bacon fat until golden brown on both sides. \nSprinkle parmesan cheese and parsley on top. Serve with bacon strips."
     },
     "photo": {
       "filename": "CF2.jpg",
@@ -424,7 +424,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "Add a Pinoy twist to your next pasta night!\n\nTry out this recipe for Smoked Bangus White Puttanesca, made with Century Quality Bangus Belly, garlic, anchovies, and olives. Capers add a delicious, umami-packed zing to your pasta, so don’t skip this ingredient! Light and flavorful, you’ll surely make this a regular on your dinner table. Shop now and the freshest fish and vegetables at #TheMarketplace!\n\nServing Time: 25 minutes\nYield: 3-5 servings\n\nIngredients\n\n½ cup canola oil \n1 pack Century Quality Bangus Belly\n¼ cup olive oil \n5 cloves garlic, minced\n1 red onion, sliced \n2 anchovy fillets, minced \n½ cup tomatoes, diced\n400g fettuccine noodles, cooked according to package instructions \n½ cup black olives, pitted \n½ cup green olives, pitted\n½ cup capers \nSalt and pepper to taste \n¼ cup parsley, chopped\n\nProcedure\n\n1. Heat up oil in a frying pan over medium heat. Fry Century Quality Bangus Belly until golden brown on both sides and cooked through on the inside, about 6 minutes per piece. \n2. Set aside fish until cool enough to handle, then flake the fish flesh. \n3. In a large pan over medium heat, heat up olive oil. Add in garlic and onion, and sauté until soft and fragrant. Mix in anchovies, tomatoes and flakes bangus flesh. Cook for another 2 minutes.\n4. Mix in the fettuccine, olives and capers. Season with salt and pepper to taste. Turn off the heat, then mix in parsley. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Add a Pinoy twist to your next pasta night!\n\nTry out this recipe for Smoked Bangus White Puttanesca, made with Century Quality Bangus Belly, garlic, anchovies, and olives. Capers add a delicious, umami-packed zing to your pasta, so don’t skip this ingredient! Light and flavorful, you’ll surely make this a regular on your dinner table. Shop now and the freshest fish and vegetables at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Century"
     ],
@@ -432,8 +432,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "25 minutes",
       "yield": "3-5 servings",
       "tips": "",
-      "ingredients": "Ingredients\n½ cup canola oil \n1 pack Century Quality Bangus Belly\n¼ cup olive oil \n5 cloves garlic, minced\n1 red onion, sliced \n2 anchovy fillets, minced \n½ cup tomatoes, diced\n400g fettuccine noodles, cooked according to package instructions \n½ cup black olives, pitted \n½ cup green olives, pitted\n½ cup capers \nSalt and pepper to taste \n¼ cup parsley, chopped",
-      "procedure": "Procedure\nHeat up oil in a frying pan over medium heat. Fry Century Quality Bangus Belly until golden brown on both sides and cooked through on the inside, about 6 minutes per piece. \nSet aside fish until cool enough to handle, then flake the fish flesh. \nIn a large pan over medium heat, heat up olive oil. Add in garlic and onion, and sauté until soft and fragrant. Mix in anchovies, tomatoes and flakes bangus flesh. Cook for another 2 minutes.\nMix in the fettuccine, olives and capers. Season with salt and pepper to taste. Turn off the heat, then mix in parsley."
+      "ingredients": "½ cup canola oil \n1 pack Century Quality Bangus Belly\n¼ cup olive oil \n5 cloves garlic, minced\n1 red onion, sliced \n2 anchovy fillets, minced \n½ cup tomatoes, diced\n400g fettuccine noodles, cooked according to package instructions \n½ cup black olives, pitted \n½ cup green olives, pitted\n½ cup capers \nSalt and pepper to taste \n¼ cup parsley, chopped",
+      "procedure": "Heat up oil in a frying pan over medium heat. Fry Century Quality Bangus Belly until golden brown on both sides and cooked through on the inside, about 6 minutes per piece. \nSet aside fish until cool enough to handle, then flake the fish flesh. \nIn a large pan over medium heat, heat up olive oil. Add in garlic and onion, and sauté until soft and fragrant. Mix in anchovies, tomatoes and flakes bangus flesh. Cook for another 2 minutes.\nMix in the fettuccine, olives and capers. Season with salt and pepper to taste. Turn off the heat, then mix in parsley."
     },
     "photo": {
       "filename": "CF3.jpg",
@@ -449,7 +449,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "Balance is always the key to a healthy, happy life. So if you’re dishing out rich dishes like lechon and creamy pasta bakes for your holiday dinners, don’t forget to throw in a salad as well!\n\nTaking its name from the Waldorf-Astoria hotel in New York City, a Waldorf Salad is a fruit and nut salad with apples and celery as its distinct ingredients. Dressed in mayonnaise, salt, and pepper, this simple recipe brings full-on flavor that’s bursting with freshness and texture. Shop at #TheMarketplace online for all the ingredients you need and have them delivered to your doorstep!\n\nServing Time: 20 minutes\nYield: 2-3 servings\n\nIngredients\n\nSalt and pepper to taste\n1 chicken breast\n3 Washington Red Apples, sliced into cubes \n½ cup grapes, halves \n½ cup walnuts, toasted and chopped \n¼ cup celery, sliced\n1 cup mayonnaise \n\nProcedure\n\n1. Boil water seasoned with salt and pepper. Poach chicken breast until cooked through, about 10 minutes. Set aside until cool enough to handle, then slice into cubes. \n2. Combine chicken cubes, Washington Red Apples, walnuts, celery and mayonnaise. Mix until everything is well coated with sauce. Season with salt and pepper to taste. \n3. Chill for at least 15 minutes. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Balance is always the key to a healthy, happy life. So if you’re dishing out rich dishes like lechon and creamy pasta bakes for your holiday dinners, don’t forget to throw in a salad as well!\n\nTaking its name from the Waldorf-Astoria hotel in New York City, a Waldorf Salad is a fruit and nut salad with apples and celery as its distinct ingredients. Dressed in mayonnaise, salt, and pepper, this simple recipe brings full-on flavor that’s bursting with freshness and texture. Shop at #TheMarketplace online for all the ingredients you need and have them delivered to your doorstep!\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "! Generic"
     ],
@@ -457,8 +457,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "20 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\nSalt and pepper to taste\n1 chicken breast\n3 Washington Red Apples, sliced into cubes \n½ cup grapes, halves \n½ cup walnuts, toasted and chopped \n¼ cup celery, sliced\n1 cup mayonnaise",
-      "procedure": "Procedure\nBoil water seasoned with salt and pepper. Poach chicken breast until cooked through, about 10 minutes. Set aside until cool enough to handle, then slice into cubes. \nCombine chicken cubes, Washington Red Apples, walnuts, celery and mayonnaise. Mix until everything is well coated with sauce. Season with salt and pepper to taste. \nChill for at least 15 minutes."
+      "ingredients": "Salt and pepper to taste\n1 chicken breast\n3 Washington Red Apples, sliced into cubes \n½ cup grapes, halves \n½ cup walnuts, toasted and chopped \n¼ cup celery, sliced\n1 cup mayonnaise",
+      "procedure": "Boil water seasoned with salt and pepper. Poach chicken breast until cooked through, about 10 minutes. Set aside until cool enough to handle, then slice into cubes. \nCombine chicken cubes, Washington Red Apples, walnuts, celery and mayonnaise. Mix until everything is well coated with sauce. Season with salt and pepper to taste. \nChill for at least 15 minutes."
     },
     "photo": {
       "filename": "CF4.jpg",
@@ -474,7 +474,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "Having a few back-to-back holiday feasts? Here’s a light dish to have in between!\n\nMade with Sarangani Bay Alaskan Pollock fish fillets, this recipe for Sticky Asian Pollock boasts oriental flavors such as sesame oil, Chinese five spice, and chilies, cooked in a sticky slurry that coats every fillet with a burst of flavor. Best paired with brown rice! Head over to #TheMarketplace and stock up on the freshest fish and other seafood for the holiday season!\n\nServing Time: 25 minutes\nYield: 3-5 servings\n\nIngredients\n\n2 tbsps. water \n¼ cup soy sauce \n2 tbsps. honey \n1 tbsp. rice vinegar \n1 tbsp. sesame oil \n1 tbsp. mirin \n½ tsp. Chinese five spice\n3 red chilies, sliced \n2 tbsps. cornstarch slurry\n500g Sarangani Bay Alaskan Pollock fish fillet\nCilantro for garnish\n\nProcedure\n\n1. Preheat oven to 180°C. \n2. In a saucepan set over medium heat, combine soy sauce, honey, rice vinegar, sesame oil, mirin, Chinese five spice and red chilis. Let boil for 2 minutes. Bring down to a simmer, then mix in cornstarch slurry. Let simmer until thick. \n3. Pat dry Pollock fillets. Season with salt and pepper on both sides, then transfer to a baking tray lined with foil. Generously brush with the glaze. \n4. Bake for 12 minutes. Switch oven settings to broil, then cook for another 5 minutes. \n5. Garnish with cilantro.  \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Having a few back-to-back holiday feasts? Here’s a light dish to have in between!\n\nMade with Sarangani Bay Alaskan Pollock fish fillets, this recipe for Sticky Asian Pollock boasts oriental flavors such as sesame oil, Chinese five spice, and chilies, cooked in a sticky slurry that coats every fillet with a burst of flavor. Best paired with brown rice! Head over to #TheMarketplace and stock up on the freshest fish and other seafood for the holiday season!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Sarangani Bay"
     ],
@@ -482,8 +482,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "25 minutes",
       "yield": "3-5 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. water \n¼ cup soy sauce \n2 tbsps. honey \n1 tbsp. rice vinegar \n1 tbsp. sesame oil \n1 tbsp. mirin \n½ tsp. Chinese five spice\n3 red chilies, sliced \n2 tbsps. cornstarch slurry\n500g Sarangani Bay Alaskan Pollock fish fillet\nCilantro for garnish",
-      "procedure": "Procedure\nPreheat oven to 180°C. \nIn a saucepan set over medium heat, combine soy sauce, honey, rice vinegar, sesame oil, mirin, Chinese five spice and red chilis. Let boil for 2 minutes. Bring down to a simmer, then mix in cornstarch slurry. Let simmer until thick. \nPat dry Pollock fillets. Season with salt and pepper on both sides, then transfer to a baking tray lined with foil. Generously brush with the glaze. \nBake for 12 minutes. Switch oven settings to broil, then cook for another 5 minutes. \nGarnish with cilantro."
+      "ingredients": "2 tbsps. water \n¼ cup soy sauce \n2 tbsps. honey \n1 tbsp. rice vinegar \n1 tbsp. sesame oil \n1 tbsp. mirin \n½ tsp. Chinese five spice\n3 red chilies, sliced \n2 tbsps. cornstarch slurry\n500g Sarangani Bay Alaskan Pollock fish fillet\nCilantro for garnish",
+      "procedure": "Preheat oven to 180°C. \nIn a saucepan set over medium heat, combine soy sauce, honey, rice vinegar, sesame oil, mirin, Chinese five spice and red chilis. Let boil for 2 minutes. Bring down to a simmer, then mix in cornstarch slurry. Let simmer until thick. \nPat dry Pollock fillets. Season with salt and pepper on both sides, then transfer to a baking tray lined with foil. Generously brush with the glaze. \nBake for 12 minutes. Switch oven settings to broil, then cook for another 5 minutes. \nGarnish with cilantro."
     },
     "photo": {
       "filename": "CF5.jpg",
@@ -499,7 +499,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "An easy and delicious way to elevate your regular toast is with some smoked salmon. We used New Nordic’s Traditional Smoked Salmon for this Smoked Salmon Toast, along with some creamy eggs, capers, and of course, butter and spring onions. Enjoy!\n\nFind delicious varieties of smoked salmon and other fresh seafood options only at #TheMarketplace!\n\nServing Time: 10 minutes\nYield: 2 servings\n\nIngredients\n\n2 slices baguette\n2 tbsps. butter \n3 eggs, beaten\nSalt and pepper to taste\n4 slices New Nordic Traditional Smoked Salmon \n¼ cup capers, drained \nSpring onions for garnish\n\nProcedure\n\n1. Toast baguette slices and crispy and golden brown. \n2. Set a pan over low heat, then melt butter. Cook eggs while continuously stirring until fluffy. Season with salt and pepper. \n3. Top baguette with scrambled eggs, 2 slices of Smoked Salmon each and capers. Garnish with spring onion. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "An easy and delicious way to elevate your regular toast is with some smoked salmon. We used New Nordic’s Traditional Smoked Salmon for this Smoked Salmon Toast, along with some creamy eggs, capers, and of course, butter and spring onions. Enjoy!\n\nFind delicious varieties of smoked salmon and other fresh seafood options only at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "New Nordic"
     ],
@@ -507,8 +507,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "10 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 slices baguette\n2 tbsps. butter \n3 eggs, beaten\nSalt and pepper to taste \n4 slices New Nordic Traditional Smoked Salmon \n¼ cup capers, drained \nSpring onions for garnish",
-      "procedure": "Procedure\nToast baguette slices and crispy and golden brown. \nSet a pan over low heat, then melt butter. Cook eggs while continuously stirring until fluffy. Season with salt and pepper. \nTop baguette with scrambled eggs, 2 slices of Smoked Salmon each and capers. Garnish with spring onion."
+      "ingredients": "2 slices baguette\n2 tbsps. butter \n3 eggs, beaten\nSalt and pepper to taste \n4 slices New Nordic Traditional Smoked Salmon \n¼ cup capers, drained \nSpring onions for garnish",
+      "procedure": "Toast baguette slices and crispy and golden brown. \nSet a pan over low heat, then melt butter. Cook eggs while continuously stirring until fluffy. Season with salt and pepper. \nTop baguette with scrambled eggs, 2 slices of Smoked Salmon each and capers. Garnish with spring onion."
     },
     "photo": {
       "filename": "CF6.jpg",
@@ -524,7 +524,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "Want something lighter for the festive celebrations? Swap your fried chicken for these baked Herb Crusted Fish using Fisher Farms Pepper Steak Milkfish Fillet!\n\nSimply coat each fillet with an herbed panko breadcrumb blend and then bake. This recipe also works well with an airfryer! Serve with your sauce of choice such as garlic aioli, garlic butter, or even ketchup! Get the freshest fish and other seafood only from #TheMarketplace!\n\nServing Time: 25 minutes\nYield: 2-3 servings\n\nIngredients\n\n½ cup panko breadcrumbs\n1 clove garlic, grated \n3 tbsps. butter, melted \n1 tbsp. parsley, chopped\n1 tbsp. thyme, chopped\nSalt and pepper to taste\n1 pack Fisher Farms Pepper Steak Milkfish Fillet\n\nProcedure\n\n1. Preheat oven to 180°C. Line a baking tray with foil. \n2. Combine panko, garlic, butter, parsley and thyme. Season with salt and pepper. \n3. Arrange Fisher Farms Pepper Steak Milkfish Fillet on the tray. Top each piece with the crumb mixture. \n4. Bake for 12 minutes. Switch oven settings to broil, then continue to cook for 5 minutes. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Want something lighter for the festive celebrations? Swap your fried chicken for these baked Herb Crusted Fish using Fisher Farms Pepper Steak Milkfish Fillet!\n\nSimply coat each fillet with an herbed panko breadcrumb blend and then bake. This recipe also works well with an airfryer! Serve with your sauce of choice such as garlic aioli, garlic butter, or even ketchup! Get the freshest fish and other seafood only from #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Fisher Farms"
     ],
@@ -532,8 +532,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "25 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n½ cup panko breadcrumbs\n1 clove garlic, grated \n3 tbsps. butter, melted \n1 tbsp. parsley, chopped\n1 tbsp. thyme, chopped\nSalt and pepper to taste\n1 pack Fisher Farms Pepper Steak Milkfish Fillet",
-      "procedure": "Procedure\nPreheat oven to 180°C. Line a baking tray with foil. \nCombine panko, garlic, butter, parsley and thyme. Season with salt and pepper. \nArrange Fisher Farms Pepper Steak Milkfish Fillet on the tray. Top each piece with the crumb mixture. \nBake for 12 minutes. Switch oven settings to broil, then continue to cook for 5 minutes."
+      "ingredients": "½ cup panko breadcrumbs\n1 clove garlic, grated \n3 tbsps. butter, melted \n1 tbsp. parsley, chopped\n1 tbsp. thyme, chopped\nSalt and pepper to taste\n1 pack Fisher Farms Pepper Steak Milkfish Fillet",
+      "procedure": "Preheat oven to 180°C. Line a baking tray with foil. \nCombine panko, garlic, butter, parsley and thyme. Season with salt and pepper. \nArrange Fisher Farms Pepper Steak Milkfish Fillet on the tray. Top each piece with the crumb mixture. \nBake for 12 minutes. Switch oven settings to broil, then continue to cook for 5 minutes."
     },
     "photo": {
       "filename": "CF7.jpg",
@@ -549,7 +549,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "Swimming in a delicious tomato sauce and bursting with flavors of paprika, garlic, oregano, and feta cheese, these Greek Baked Shrimp are perfect to whip up if you’re craving a taste of the Mediterranean. Make sure to get your sugpo or large shrimp from #TheMarketplace for guaranteed freshness! This dish is best served with garlic bread, a simple garlic pasta, or some herbed rice, depending on your preference. \n\nServing Time: 20 minutes\nYield: 3-5 servings\n\nIngredients\n\n500g sugpo or large shrimp\nSalt and pepper to taste \n1 tsp. paprika \n3 tbsps. olive oil \n5 cloves garlic, minced\n1 red onion, minced \n1 tsp. oregano \n1 tsp. red chili flakes\n2 cups stewed tomatoes \n½ cup Greek feta cheese, crumbled\nBasil for garnish\n\nProcedure\n\n1. Pat dry sugpo. Season with salt, pepper and paprika. \n2. In a large pan over medium heat, heat up olive oil. Sear sugpo in batches. Set aside shrimp while retaining oil in the pan. \n3. Using the same pan, sauté garlic and onion. Mix in oregano, chili flakes and stewed tomatoes. Let simmer for 5 minutes. \n4. Season with salt and pepper, then add back Shrimp. Mix in feta cheese. \n5. Garnish with basil. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Swimming in a delicious tomato sauce and bursting with flavors of paprika, garlic, oregano, and feta cheese, these Greek Baked Shrimp are perfect to whip up if you’re craving a taste of the Mediterranean. Make sure to get your sugpo or large shrimp from #TheMarketplace for guaranteed freshness! This dish is best served with garlic bread, a simple garlic pasta, or some herbed rice, depending on your preference.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "! Generic"
     ],
@@ -557,8 +557,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "20 minutes",
       "yield": "3-5 servings",
       "tips": "",
-      "ingredients": "Ingredients\n500g sugpo or large shrimp\nSalt and pepper to taste \n1 tsp. paprika \n3 tbsps. olive oil \n5 cloves garlic, minced\n1 red onion, minced \n1 tsp. oregano \n1 tsp. red chili flakes\n2 cups stewed tomatoes \n½ cup Greek feta cheese, crumbled\nBasil for garnish",
-      "procedure": "Procedure\nPat dry sugpo. Season with salt, pepper and paprika. \nIn a large pan over medium heat, heat up olive oil. Sear sugpo in batches. Set aside shrimp while retaining oil in the pan. \nUsing the same pan, sauté garlic and onion. Mix in oregano, chili flakes and stewed tomatoes. Let simmer for 5 minutes. \nSeason with salt and pepper, then add back Shrimp. Mix in feta cheese. \nGarnish with basil."
+      "ingredients": "500g sugpo or large shrimp\nSalt and pepper to taste \n1 tsp. paprika \n3 tbsps. olive oil \n5 cloves garlic, minced\n1 red onion, minced \n1 tsp. oregano \n1 tsp. red chili flakes\n2 cups stewed tomatoes \n½ cup Greek feta cheese, crumbled\nBasil for garnish",
+      "procedure": "Pat dry sugpo. Season with salt, pepper and paprika. \nIn a large pan over medium heat, heat up olive oil. Sear sugpo in batches. Set aside shrimp while retaining oil in the pan. \nUsing the same pan, sauté garlic and onion. Mix in oregano, chili flakes and stewed tomatoes. Let simmer for 5 minutes. \nSeason with salt and pepper, then add back Shrimp. Mix in feta cheese. \nGarnish with basil."
     },
     "photo": {
       "filename": "CF8.jpg",
@@ -574,7 +574,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "Nothing keeps us cozy best than a warm bowl of soup. With a serving of this homemade Seafood Chowder, you’ll surely keep those holiday blues at bay.\n\nUsing Pike Market Mixed Seafoods, this creamy chowder hugs the belly and warms up the soul with its buttery, creamy flavours, and sweet, succulent seafood. At #TheMarketplace, you’re always sure to find the freshest catch. Grab all the ingredients you need today!\n\nServing Time: 20-25 minutes\nYield: 4-6 servings\n\nIngredients\n\n3 tbsps. butter \n1 white onion, diced \n1 carrot, diced \n1 stick celery, sliced \n3 sprigs thyme \n2 tbsps. flour \n2 cups seafood stock \n1 pack Pike Market Mixed Seafoods \n1 cup heavy cream \nSalt and pepper to taste \n1 tsp. nutmeg powder\n2 tbsps. parsley, chopped\n\nProcedure\n\n1. In a large pot over medium heat, melt butter. Once butter is foaming, sauté onions, carrots, celery and thyme until soft. Add in flour and cook until lightly browned. \n2. Add seafood stock and let boil. Add Pike Market Mixed Seafoods. Let simmer for 8-10 minutes. \n3. Mix in heavy cream, then season with salt, pepper and nutmeg. Add parsley. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Nothing keeps us cozy best than a warm bowl of soup. With a serving of this homemade Seafood Chowder, you’ll surely keep those holiday blues at bay.\n\nUsing Pike Market Mixed Seafoods, this creamy chowder hugs the belly and warms up the soul with its buttery, creamy flavours, and sweet, succulent seafood. At #TheMarketplace, you’re always sure to find the freshest catch. Grab all the ingredients you need today!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Pike Market"
     ],
@@ -582,8 +582,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "20-25 minutes",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n3 tbsps. butter \n1 white onion, diced \n1 carrot, diced \n1 stick celery, sliced \n3 sprigs thyme \n2 tbsps. flour \n2 cups seafood stock \n1 pack Pike Market Mixed Seafoods \n1 cup heavy cream \nSalt and pepper to taste \n1 tsp. nutmeg powder\n2 tbsps. parsley, chopped",
-      "procedure": "Procedure\nIn a large pot over medium heat, melt butter. Once butter is foaming, sauté onions, carrots, celery and thyme until soft. Add in flour and cook until lightly browned. \nAdd seafood stock and let boil. Add Pike Market Mixed Seafoods. Let simmer for 8-10 minutes. \nMix in heavy cream, then season with salt, pepper and nutmeg. Add parsley."
+      "ingredients": "3 tbsps. butter \n1 white onion, diced \n1 carrot, diced \n1 stick celery, sliced \n3 sprigs thyme \n2 tbsps. flour \n2 cups seafood stock \n1 pack Pike Market Mixed Seafoods \n1 cup heavy cream \nSalt and pepper to taste \n1 tsp. nutmeg powder\n2 tbsps. parsley, chopped",
+      "procedure": "In a large pot over medium heat, melt butter. Once butter is foaming, sauté onions, carrots, celery and thyme until soft. Add in flour and cook until lightly browned. \nAdd seafood stock and let boil. Add Pike Market Mixed Seafoods. Let simmer for 8-10 minutes. \nMix in heavy cream, then season with salt, pepper and nutmeg. Add parsley."
     },
     "photo": {
       "filename": "CF9.jpg",
@@ -599,7 +599,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "A classic dish from Peruvian descent, ceviche takes pride in one of the most primal forms of preparing seafood — through curing with citrus juices.\n\nIn this recipe for Tropical Salmon Ceviche using Superfish Raw Salmon Sashimi Cut, we use a mix of lemon, lime, and orange juices, along with some soy sauce and mirin to get a zesty, tangy marinade, while sliced mango adds a refreshing burst of sweetness. It’s important to get your fish at its absolute freshest, and at #TheMarketplace, you’ll be guaranteed the finest and most premium catch. Shop for ingredients now, and create this light and healthy dish today!\n\nServing Time: 12-15 minutes\nYield: 2-3 servings\n\nIngredients\n\n½ cup orange juice \n2 tbsps. lime juice\n1 tbsp. lemon juice\n3 tbsps. soy sauce \n1 tbsp. mirin \nSalt and pepper to taste\n1 pack Superfish Raw Salmon Sashimi Cut \n1 corn, boiled and decobbed \n1 mango, sliced \n¼ cup cilantro leaves\n\nProcedure\n\n1. To make the ceviche marinade, combine orange juice, lime juice, lemon juice, soy sauce and mirin. Season with salt and pepper. \n2. Marinate salmon in the ceviche marinade for 6-8 minutes. \n3. Arrange marinated salmon, mango and corn on a serving plate. Garnish with cilantro leaves. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "A classic dish from Peruvian descent, ceviche takes pride in one of the most primal forms of preparing seafood — through curing with citrus juices.\n\nIn this recipe for Tropical Salmon Ceviche using Superfish Raw Salmon Sashimi Cut, we use a mix of lemon, lime, and orange juices, along with some soy sauce and mirin to get a zesty, tangy marinade, while sliced mango adds a refreshing burst of sweetness. It’s important to get your fish at its absolute freshest, and at #TheMarketplace, you’ll be guaranteed the finest and most premium catch. Shop for ingredients now, and create this light and healthy dish today!\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Superfish"
     ],
@@ -607,8 +607,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "12-15 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n½ cup orange juice \n2 tbsps. lime juice\n1 tbsp. lemon juice\n3 tbsps. soy sauce \n1 tbsp. mirin \nSalt and pepper to taste\n1 pack Superfish Raw Salmon Sashimi Cut \n1 corn, boiled and decobbed \n1 mango, sliced \n¼ cup cilantro leaves",
-      "procedure": "Procedure\nTo make the ceviche marinade, combine orange juice, lime juice, lemon juice, soy sauce and mirin. Season with salt and pepper. \nMarinate salmon in the ceviche marinade for 6-8 minutes. \nArrange marinated salmon, mango and corn on a serving plate. Garnish with cilantro leaves."
+      "ingredients": "½ cup orange juice \n2 tbsps. lime juice\n1 tbsp. lemon juice\n3 tbsps. soy sauce \n1 tbsp. mirin \nSalt and pepper to taste\n1 pack Superfish Raw Salmon Sashimi Cut \n1 corn, boiled and decobbed \n1 mango, sliced \n¼ cup cilantro leaves",
+      "procedure": "To make the ceviche marinade, combine orange juice, lime juice, lemon juice, soy sauce and mirin. Season with salt and pepper. \nMarinate salmon in the ceviche marinade for 6-8 minutes. \nArrange marinated salmon, mango and corn on a serving plate. Garnish with cilantro leaves."
     },
     "photo": {
       "filename": "CF10.jpg",
@@ -624,7 +624,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "One of the easiest and yummiest ways to prepare salmon is by cooking it teriyaki-style. With all the holiday feasting, it’s good to have some light meals every now and then!\n\nWe baked some Sea King Keta Salmon with a teriyaki sauce made with soy sauce, mirin, sesame oil, brown sugar, and garlic, and the result is an umami-packed meal that pairs really nicely with rice...or opt for salad greens with sesame dressing if you please! Find the most premium seafood brands only at #TheMarketplace!\n\nServing Time: 25-30 minutes\nYield: 2 servings\n\nIngredients\n\n¼ cup soy sauce \n2 tbsps. water \n3 tbsps. brown sugar \n2 tsps. mirin \n2 tsps. sesame oil \n1 tsp. ginger, grated\n1 tsp. garlic, grated \n1 tbsp. cornstarch slurry\nSalt and pepper to taste\n2 slabs Sea King Keta Salmon\n2 tsps. sesame seeds, toasted\n2 tsps. spring onions, chopped\n\nProcedure\n\n1. Preheat oven to 180°C. Line a baking tray with foil. \n2. In a saucepan, combine soy sauce, water, brown sugar, mirin, sesame oil, ginger and garlic. Let boil for 2 minutes, then bring down to a simmer. Mix in cornstarch slurry. Cook until thick. \n3. Arrange salmon slabs on a tray. Season with salt and pepper. Generously brush with the teriyaki glaze. \n4. Bake for 12 minutes. Switch oven settings to broil, then cook for another 3 minutes. \n5. Garnish with sesame seeds and spring onions.  \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "One of the easiest and yummiest ways to prepare salmon is by cooking it teriyaki-style. With all the holiday feasting, it’s good to have some light meals every now and then!\n\nWe baked some Sea King Keta Salmon with a teriyaki sauce made with soy sauce, mirin, sesame oil, brown sugar, and garlic, and the result is an umami-packed meal that pairs really nicely with rice...or opt for salad greens with sesame dressing if you please! Find the most premium seafood brands only at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "! Generic"
     ],
@@ -632,8 +632,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "25-30 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n¼ cup soy sauce \n2 tbsps. water \n3 tbsps. brown sugar \n2 tsps. mirin \n2 tsps. sesame oil \n1 tsp. ginger, grated\n1 tsp. garlic, grated \n1 tbsp. cornstarch slurry\nSalt and pepper to taste\n2 slabs Sea King Keta Salmon\n2 tsps. sesame seeds, toasted\n2 tsps. spring onions, chopped",
-      "procedure": "Procedure\nPreheat oven to 180°C. Line a baking tray with foil. \nIn a saucepan, combine soy sauce, water, brown sugar, mirin, sesame oil, ginger and garlic. Let boil for 2 minutes, then bring down to a simmer. Mix in cornstarch slurry. Cook until thick. \nArrange salmon slabs on a tray. Season with salt and pepper. Generously brush with the teriyaki glaze. \nBake for 12 minutes. Switch oven settings to broil, then cook for another 3 minutes. \nGarnish with sesame seeds and spring onions."
+      "ingredients": "¼ cup soy sauce \n2 tbsps. water \n3 tbsps. brown sugar \n2 tsps. mirin \n2 tsps. sesame oil \n1 tsp. ginger, grated\n1 tsp. garlic, grated \n1 tbsp. cornstarch slurry\nSalt and pepper to taste\n2 slabs Sea King Keta Salmon\n2 tsps. sesame seeds, toasted\n2 tsps. spring onions, chopped",
+      "procedure": "Preheat oven to 180°C. Line a baking tray with foil. \nIn a saucepan, combine soy sauce, water, brown sugar, mirin, sesame oil, ginger and garlic. Let boil for 2 minutes, then bring down to a simmer. Mix in cornstarch slurry. Cook until thick. \nArrange salmon slabs on a tray. Season with salt and pepper. Generously brush with the teriyaki glaze. \nBake for 12 minutes. Switch oven settings to broil, then cook for another 3 minutes. \nGarnish with sesame seeds and spring onions."
     },
     "photo": {
       "filename": "CF11.jpg",
@@ -649,7 +649,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "Meunière is a French cooking method wherein a fish is dredged in flour and cooked in butter. For this recipe of classic Sole Meunière we used Cold Storage Sole Fillet because of its sweet, mild flavor, which instantly brightens up when cooked with butter. Lemons and capers balance out the richness, providing a super-delicious and delicately cooked fish that’s perfect for a light meal. Get all the ingredients you need fresh from #TheMarketplace!\n\nServing Time: 15-20 minutes\nYield: 2-4 servings\n\nIngredients\n\n½ cup flour \nSalt and pepper to taste \n1 pack Cold Storage Sole Fillet\n½ cup dry white wine\n¼ cup butter \n2 tbsps. lemon juice \n¼ cup capers, drained \n2 tbsps. parsley, chopped\n\nProcedure\n\n1. Season flour with salt and pepper. Pat-dry Sole Fillet, then lightly coat each with flour. \n2. In a frying pan set over medium heat, add olive oil. Fry Sole until golden brown on both sides and cooked through on the inside, about 6-8 minutes per piece. Set aside fish while retaining oil in the pan. \n3. Deglaze the pan with white wine. Once most of it evaporates, add in butter, lemon juice capers and parsley. Let simmer while mixing continuously until slightly thickened. Season with salt and pepper. \n4. Drizzle sauce all over the fried sole. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Meunière is a French cooking method wherein a fish is dredged in flour and cooked in butter. For this recipe of classic Sole Meunière we used Cold Storage Sole Fillet because of its sweet, mild flavor, which instantly brightens up when cooked with butter. Lemons and capers balance out the richness, providing a super-delicious and delicately cooked fish that’s perfect for a light meal. Get all the ingredients you need fresh from #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Cold Storage"
     ],
@@ -657,8 +657,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "15-20 minutes",
       "yield": "2-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n½ cup flour \nSalt and pepper to taste \n1 pack Cold Storage Sole Fillet\n½ cup dry white wine \n¼ cup butter \n2 tbsps. lemon juice \n¼ cup capers, drained \n2 tbsps. parsley, chopped",
-      "procedure": "Procedure\nSeason flour with salt and pepper. Pat-dry Sole Fillet, then lightly coat each with flour. \nIn a frying pan set over medium heat, add olive oil. Fry Sole until golden brown on both sides and cooked through on the inside, about 6-8 minutes per piece. Set aside fish while retaining oil in the pan. \nDeglaze the pan with white wine. Once most of it evaporates, add in butter, lemon juice capers and parsley. Let simmer while mixing continuously until slightly thickened. Season with salt and pepper. \nDrizzle sauce all over the fried sole."
+      "ingredients": "½ cup flour \nSalt and pepper to taste \n1 pack Cold Storage Sole Fillet\n½ cup dry white wine \n¼ cup butter \n2 tbsps. lemon juice \n¼ cup capers, drained \n2 tbsps. parsley, chopped",
+      "procedure": "Season flour with salt and pepper. Pat-dry Sole Fillet, then lightly coat each with flour. \nIn a frying pan set over medium heat, add olive oil. Fry Sole until golden brown on both sides and cooked through on the inside, about 6-8 minutes per piece. Set aside fish while retaining oil in the pan. \nDeglaze the pan with white wine. Once most of it evaporates, add in butter, lemon juice capers and parsley. Let simmer while mixing continuously until slightly thickened. Season with salt and pepper. \nDrizzle sauce all over the fried sole."
     },
     "photo": {
       "filename": "CF12.jpg",
@@ -674,7 +674,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "This holiday season, corn gets a luxurious upgrade with this naughty and nice dish of Seared Scallops with Chorizo & Corn, where medallions of Pacific Bay Scallop Meat are the star. Paired with chorizo, butter, and corn, you’ll have a starter that’s bursting with so much buttery sweet goodness. The smoky and peppery pop from the chorizo adds a nice festive touch to each bite. Look no further! Shop at #TheMarketplace now and get all the ingredients you need fresh! \n\nServing Time: 20-25 minutes\nYield: 2-4 servings\n\nIngredients\n\n1 pack Pacific Bay Scallop Meat, pat-dried \nSalt and pepper to taste\n3 tbsps. olive oil  \n2 pcs. chorizo, sliced\n2 tbsps. butter \n2 cloves garlic, chopped \n½ tsp. paprika \n2 cups corn kernels\n¼ cup parmesan cheese\n½ cup cream \n\nProcedure\n\n1. Season Pacific Bay Scallops with salt and pepper.\n2. Set a pan over medium heat, then add olive oil. Once hot, sear scallops until nicely browned on both sides — about 5 minutes.\n3. Set aside scallops while retaining oil in the pan. Fry chorizo until browned. Set aside. \n4. In the same pan, add butter. Sauté garlic until soft. Mix in paprika, corn, cream and parmesan. Season with salt and pepper. Add back chorizo. \n5. Serve scallops on top chorizo & corn. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "This holiday season, corn gets a luxurious upgrade with this naughty and nice dish of Seared Scallops with Chorizo & Corn, where medallions of Pacific Bay Scallop Meat are the star. Paired with chorizo, butter, and corn, you’ll have a starter that’s bursting with so much buttery sweet goodness. The smoky and peppery pop from the chorizo adds a nice festive touch to each bite. Look no further! Shop at #TheMarketplace now and get all the ingredients you need fresh!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Pacific Bay"
     ],
@@ -682,8 +682,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "20-25 minutes",
       "yield": "2-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 pack Pacific Bay Scallop Meat, pat-dried \nSalt and pepper to taste\n3 tbsps. olive oil  \n2 pcs. chorizo, sliced\n2 tbsps. butter \n2 cloves garlic, chopped \n½ tsp. paprika \n2 cups corn kernels\n¼ cup parmesan cheese\n½ cup cream",
-      "procedure": "Procedure\nSeason Pacific Bay Scallops with salt and pepper.\nSet a pan over medium heat, then add olive oil. Once hot, sear scallops until nicely browned on both sides — about 5 minutes.\nSet aside scallops while retaining oil in the pan. Fry chorizo until browned. Set aside. \nIn the same pan, add butter. Sauté garlic until soft. Mix in paprika, corn, cream and parmesan. Season with salt and pepper. Add back chorizo. \nServe scallops on top chorizo & corn."
+      "ingredients": "1 pack Pacific Bay Scallop Meat, pat-dried \nSalt and pepper to taste\n3 tbsps. olive oil  \n2 pcs. chorizo, sliced\n2 tbsps. butter \n2 cloves garlic, chopped \n½ tsp. paprika \n2 cups corn kernels\n¼ cup parmesan cheese\n½ cup cream",
+      "procedure": "Season Pacific Bay Scallops with salt and pepper.\nSet a pan over medium heat, then add olive oil. Once hot, sear scallops until nicely browned on both sides — about 5 minutes.\nSet aside scallops while retaining oil in the pan. Fry chorizo until browned. Set aside. \nIn the same pan, add butter. Sauté garlic until soft. Mix in paprika, corn, cream and parmesan. Season with salt and pepper. Add back chorizo. \nServe scallops on top chorizo & corn."
     },
     "photo": {
       "filename": "CF13.jpg",

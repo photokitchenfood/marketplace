@@ -11,7 +11,7 @@ const JUNE_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "June IG",
-    "caption": "A traditional Japanese stir-fried noodle dish, yakisoba often uses a mix of pork, vegetables, and a sweet-savory sauce. In today’s recipe, we’re swapping the pork for something lighter—tuna! We love Doña Elena Tuna Chunks because they’re so meaty and filling! Get all the ingredients you need at #TheMarketplace!\nServing Time: 15 minutes\nYield: 2-4 servings\nIngredients\n\n2 tbsps. canola oil \n5 cloves garlic, chopped\n1 red onion, chopped \n1 red bell pepper, diced \n½ cucumber, deseeded and diced \n2 cans Doña Elena Tuna Chunks\n3 tbsps. oyster sauce \n250g yakisoba noodles, cooked according to package directions\nSalt and pepper to taste\n1 tbsp. sesame oil \n1 tbsp. crispy garlic \nCilantro sprigs for garnish\n\nProcedure\n\n1. Sauté garlic and onions until soft. Add bell peppers, cucumber, Doña Elena Tuna and oyster sauce. Cook for 2-3 minutes. \n2. Mix in yakisoba noodles. Season with salt and pepper to taste. \n3. Turn off heat. Drizzle with sesame oil. \n4. Top with crispy garlic and cilantro sprigs.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "A traditional Japanese stir-fried noodle dish, yakisoba often uses a mix of pork, vegetables, and a sweet-savory sauce. In today’s recipe, we’re swapping the pork for something lighter—tuna! We love Doña Elena Tuna Chunks because they’re so meaty and filling! Get all the ingredients you need at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Doña Elena"
     ],
@@ -19,8 +19,8 @@ const JUNE_IG_DATA = [
       "servingTime": "15 minutes",
       "yield": "2-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. canola oil \n5 cloves garlic, chopped\n1 red onion, chopped \n1 red bell pepper, diced \n½ cucumber, deseeded and diced \n2 cans Doña Elena Tuna Chunks\n3 tbsps. oyster sauce \n250g yakisoba noodles, cooked according to package directions\nSalt and pepper to taste\n1 tbsp. sesame oil \n1 tbsp. crispy garlic \nCilantro sprigs for garnish",
-      "procedure": "Procedure\nSauté garlic and onions until soft. Add bell peppers, cucumber, Doña Elena Tuna and oyster sauce. Cook for 2-3 minutes. \nMix in yakisoba noodles. Season with salt and pepper to taste. \nTurn off heat. Drizzle with sesame oil. \nTop with crispy garlic and cilantro sprigs."
+      "ingredients": "2 tbsps. canola oil \n5 cloves garlic, chopped\n1 red onion, chopped \n1 red bell pepper, diced \n½ cucumber, deseeded and diced \n2 cans Doña Elena Tuna Chunks\n3 tbsps. oyster sauce \n250g yakisoba noodles, cooked according to package directions\nSalt and pepper to taste\n1 tbsp. sesame oil \n1 tbsp. crispy garlic \nCilantro sprigs for garnish",
+      "procedure": "Sauté garlic and onions until soft. Add bell peppers, cucumber, Doña Elena Tuna and oyster sauce. Cook for 2-3 minutes. \nMix in yakisoba noodles. Season with salt and pepper to taste. \nTurn off heat. Drizzle with sesame oil. \nTop with crispy garlic and cilantro sprigs."
     },
     "photo": {
       "filename": "IG1.jpg",
@@ -36,7 +36,7 @@ const JUNE_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "June IG",
-    "caption": "While Rendang is a prominently Indonesian dish, its influence has spread to neighboring Asian countries such as Malaysia, Singapore, and the Philippines! We know traveling is tricky at the moment, but we hope this Beef Rendang recipe made with Way Beef Rendang sauce takes you on a cultural trip! Available at #TheMarketplace!\nServing Time: 15 minutes\nYield: 2-4 servings\nIngredients\n\n3 tbsps. coconut oil \n½ kg beef chunks\n1 bottle Way Beef Rendang sauce \n1 cup coconut milk \n2 red chilis, sliced\n1 tsp. lime zest \nLime wedges for serving \nCurry leaves for garnish\n\nProcedure\n\n1. Heat up the coconut oil. Sear beef chunks until nicely browned on all sides.\n2. Add Way Beef Rendang sauce and coconut milk. Let simmer for 7-8 minutes, or until beef pieces are cooked through.\n3. Top with chilis and lime zest. Serve with lime wedges, and garnish with curry leaves.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "While Rendang is a prominently Indonesian dish, its influence has spread to neighboring Asian countries such as Malaysia, Singapore, and the Philippines! We know traveling is tricky at the moment, but we hope this Beef Rendang recipe made with Way Beef Rendang sauce takes you on a cultural trip! Available at #TheMarketplace!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Way"
     ],
@@ -44,8 +44,8 @@ const JUNE_IG_DATA = [
       "servingTime": "15 minutes",
       "yield": "2-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n3 tbsps. coconut oil \n½ kg beef chunks\n1 bottle Way Beef Rendang sauce \n1 cup coconut milk \n2 red chilis, sliced\n1 tsp. lime zest \nLime wedges for serving \nCurry leaves for garnish",
-      "procedure": "Procedure\nHeat up the coconut oil. Sear beef chunks until nicely browned on all sides. \nAdd Way Beef Rendang sauce and coconut milk. Let simmer for 7-8 minutes, or until beef pieces are cooked through. \nTop with chilis and lime zest. Serve with lime wedges, and garnish with curry leaves."
+      "ingredients": "3 tbsps. coconut oil \n½ kg beef chunks\n1 bottle Way Beef Rendang sauce \n1 cup coconut milk \n2 red chilis, sliced\n1 tsp. lime zest \nLime wedges for serving \nCurry leaves for garnish",
+      "procedure": "Heat up the coconut oil. Sear beef chunks until nicely browned on all sides. \nAdd Way Beef Rendang sauce and coconut milk. Let simmer for 7-8 minutes, or until beef pieces are cooked through. \nTop with chilis and lime zest. Serve with lime wedges, and garnish with curry leaves."
     },
     "photo": {
       "filename": "IG2.jpg",
@@ -61,7 +61,7 @@ const JUNE_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "June IG",
-    "caption": "Who doesn’t love bacon? A neat little trick to make chicken barbecue more exciting is to wrap the chicken in bacon strips for an added crunch and smoky flavour. We love using Mama Sita’s Barbecue Marinade for this dish because it complements the bacon perfectly. Make some this week! All the ingredients you need are available at #TheMarketplace.\nServing Time: 18 minutes\nYield: 4 pieces\nIngredients\n\n4 chicken breast fillets \n8 strips bacon \n½ cup Mama Sita’s Barbecue Marinade \nPepper to taste \n\nProcedure\n\n1. Preheat oven to 175°C.\n2. Wrap each chicken breast fillet with 2 strips of bacon.\n3. Coat each bacon-wrapped chicken with Mama Sita’s Barbecue Marinade. Season with pepper. \n4. Roast for 12-15 minutes, or until chicken pieces are cooked through.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Who doesn’t love bacon? A neat little trick to make chicken barbecue more exciting is to wrap the chicken in bacon strips for an added crunch and smoky flavour. We love using Mama Sita’s Barbecue Marinade for this dish because it complements the bacon perfectly. Make some this week! All the ingredients you need are available at #TheMarketplace.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Mama Sita's"
     ],
@@ -69,8 +69,8 @@ const JUNE_IG_DATA = [
       "servingTime": "18 minutes",
       "yield": "4 pieces",
       "tips": "",
-      "ingredients": "Ingredients\n4 chicken breast fillets \n8 strips bacon \n½ cup Mama Sita’s Barbecue Marinade \nPepper to taste",
-      "procedure": "Procedure\nPreheat oven to 175°C. \nWrap each chicken breast fillet with 2 strips of bacon.\nCoat each bacon-wrapped chicken with Mama Sita’s Barbecue Marinade. Season with pepper. \nRoast for 12-15 minutes, or until chicken pieces are cooked through."
+      "ingredients": "4 chicken breast fillets \n8 strips bacon \n½ cup Mama Sita’s Barbecue Marinade \nPepper to taste",
+      "procedure": "Preheat oven to 175°C. \nWrap each chicken breast fillet with 2 strips of bacon.\nCoat each bacon-wrapped chicken with Mama Sita’s Barbecue Marinade. Season with pepper. \nRoast for 12-15 minutes, or until chicken pieces are cooked through."
     },
     "photo": {
       "filename": "IG3.jpg",
@@ -86,7 +86,7 @@ const JUNE_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "June IG",
-    "caption": "There’s something really comforting about the flavor of honey mustard.\nPerhaps it’s the tried-and-tested combination of sweet, tangy, and savory that makes it such an enjoyable taste for both kids and adults. In this recipe, we swapped out the honey for maple syrup, and the result is a deeper, more delectable sauce that’s best enjoyed with chicken legs! Head over to #TheMarketplace and shop the ingredients for these Maple Mustard Chicken Leg Quarters today!\nServing Time: 25 minutes\nYield: 3 pieces\nTip: Roast chicken with preferred veggies for an easy one-pan dish!\nIngredients\n\n3 pcs. Magnolia Chicken Leg Quarters\nSalt and pepper to taste \n3 tbsps. wholegrain mustard \n¼ cup maple syrup\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. Combine maple syrup and mustard.\n3. Season Magnolia Chicken Leg Quarters with salt and pepper. Coat each chicken with the maple mustard mixture and transfer to a baking dish.\n4. Roast for 15-20 minutes, or until chicken pieces are cooked through. \n\nNow you can simply head online and order your groceries at http://bit.ly/OrderTheMarketplace. We’re also on Viber! Join our community via https://bit.ly/TheMarketplaceCommunity.",
+    "caption": "There’s something really comforting about the flavor of honey mustard.\nPerhaps it’s the tried-and-tested combination of sweet, tangy, and savory that makes it such an enjoyable taste for both kids and adults. In this recipe, we swapped out the honey for maple syrup, and the result is a deeper, more delectable sauce that’s best enjoyed with chicken legs! Head over to #TheMarketplace and shop the ingredients for these Maple Mustard Chicken Leg Quarters today!\n\nNow you can simply head online and order your groceries at http://bit.ly/OrderTheMarketplace. We’re also on Viber! Join our community via https://bit.ly/TheMarketplaceCommunity.",
     "brand": [
       "Magnolia"
     ],
@@ -94,8 +94,8 @@ const JUNE_IG_DATA = [
       "servingTime": "25 minutes",
       "yield": "3 pcs.",
       "tips": "Roast chicken with preferred veggies for an easy one-pan-dish!",
-      "ingredients": "Ingredients\n3pcs. Magnolia Chicken Leg Quarters \nSalt and pepper to taste \n3 tbsps. wholegrain mustard \n¼ cup maple syrup",
-      "procedure": "Procedure\nPreheat oven to 175°C. \nCombine maple syrup and mustard. \nSeason Magnolia Chicken Leg Quarters with salt and pepper. Coat each chicken with the maple mustard mixture and transfer to a baking dish. \nRoast for 15-20 minutes, or until chicken pieces are cooked through."
+      "ingredients": "3pcs. Magnolia Chicken Leg Quarters \nSalt and pepper to taste \n3 tbsps. wholegrain mustard \n¼ cup maple syrup",
+      "procedure": "Preheat oven to 175°C. \nCombine maple syrup and mustard. \nSeason Magnolia Chicken Leg Quarters with salt and pepper. Coat each chicken with the maple mustard mixture and transfer to a baking dish. \nRoast for 15-20 minutes, or until chicken pieces are cooked through."
     },
     "photo": {
       "filename": "IG4.jpg",
@@ -111,7 +111,7 @@ const JUNE_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "June IG",
-    "caption": "We often find ourselves with leftover bread that we can’t seem to figure out what to do with.\nWhether you prepare this Easy Wheat Bread Pudding with leftover bread or a brand new loaf, this delightful treat will surely satisfy any sweet tooth. Best enjoyed as an afternoon snack with some tea or coffee. Get all the ingredients you need for this recipe at #TheMarketplace!\nServing Time: 50 minutes\nYield: 6-8 servings\nTip: Serve with caramel syrup for an extra indulgent treat!\n\nIngredients\n\n5 cups Gardenia Wheat Bread, cubed\n⅓ cup raisins\n1 cup milk\n1 cup cream\n3 tbsps. butter, melted\n1 tsp. vanilla\n2 eggs, beaten\n⅓ cup brown sugar\nConfectioners’ sugar for dusting\nProcedure\n\n1. Preheat oven to 175°C.\n2. Combine Gardenia Wheat Bread and raisins. Transfer to a greased baking dish.\n3. Mix together milk, cream, butter, vanilla, eggs, and brown sugar. Pour this all over the bread and raisins.\n4. Bake for 30-45 minutes, or until the custard is set and the edges are nicely browned.\n5. Top with a dusting of confectioners’ sugar right before serving.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "We often find ourselves with leftover bread that we can’t seem to figure out what to do with.\nWhether you prepare this Easy Wheat Bread Pudding with leftover bread or a brand new loaf, this delightful treat will surely satisfy any sweet tooth. Best enjoyed as an afternoon snack with some tea or coffee. Get all the ingredients you need for this recipe at #TheMarketplace!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Gardenia"
     ],
@@ -119,8 +119,8 @@ const JUNE_IG_DATA = [
       "servingTime": "50 minutes",
       "yield": "6-8 servings",
       "tips": "Serve with caramel syrup for an extra indulgent treat!",
-      "ingredients": "Ingredients\n5 cups Gardenia Wheat Bread, cubed \n⅓ cup raisins \n1 cup milk \n1 cup cream\n3 tbsps. butter, melted\n1 tsp. vanilla \n2 eggs, beaten \n⅓ cup brown sugar \nConfectioners’ sugar for dusting",
-      "procedure": "Procedure\nPreheat oven to 175°C. \nCombine Gardenia Wheat Bread and raisins. Transfer to a greased baking dish. \nMix together milk, cream, butter, vanilla, eggs, and brown sugar. Pour this all over the bread and raisins. \nBake for 30-45 minutes, or until the custard is set and the edges are nicely browned. \nTop with a dusting of confectioners’ sugar right before serving."
+      "ingredients": "5 cups Gardenia Wheat Bread, cubed \n⅓ cup raisins \n1 cup milk \n1 cup cream\n3 tbsps. butter, melted\n1 tsp. vanilla \n2 eggs, beaten \n⅓ cup brown sugar \nConfectioners’ sugar for dusting",
+      "procedure": "Preheat oven to 175°C. \nCombine Gardenia Wheat Bread and raisins. Transfer to a greased baking dish. \nMix together milk, cream, butter, vanilla, eggs, and brown sugar. Pour this all over the bread and raisins. \nBake for 30-45 minutes, or until the custard is set and the edges are nicely browned. \nTop with a dusting of confectioners’ sugar right before serving."
     },
     "photo": {
       "filename": "IG5.jpg",
@@ -136,7 +136,7 @@ const JUNE_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "June IG",
-    "caption": "We all need a comforting meal every now and then, and this Cream Cheese Sausage Pasta is truly one to add on the list!\n\nUsing Emborg Cream Cheese, meaty slices of sausages with bursts of sweet corn kernels make this dish a certified comfort food staple. Cheesy, creamy, and so satisfying, this pasta dish takes less than 30 minutes to prepare. Grab all the ingredients you need at #TheMarketplace!\nServing Time: 18 minutes\nYield: 4-6 servings\n\nIngredients\n\n2 tbsps. olive oil\n150g sausages, sliced\n1 white onions, chopped\n5 cloves garlic, chopped\n1 bar Emborg cream cheese, cubed\n2 cups cream\n¾ cup sweet corn kernels\n500g penne, cooked according to package directions\nSalt and pepper to taste\nCilantro sprigs for garnish\nProcedure\n\n1. Heat up olive oil over medium heat. Fry sausage slices until nicely browned on both sides.\n2. Add onions and garlic, sauté until soft.\n3. Add Emborg Cream Cheese and cream. Mix until cream cheese is fully melted, then let simmer for 3-5 minutes.\n4. Mix in corn and penne. Season with salt and pepper to taste.\n5. Garnish with cilantro sprigs. \n\nYou can also order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "We all need a comforting meal every now and then, and this Cream Cheese Sausage Pasta is truly one to add on the list!\n\nUsing Emborg Cream Cheese, meaty slices of sausages with bursts of sweet corn kernels make this dish a certified comfort food staple. Cheesy, creamy, and so satisfying, this pasta dish takes less than 30 minutes to prepare. Grab all the ingredients you need at #TheMarketplace!\n\nYou can also order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Emborg"
     ],
@@ -144,8 +144,8 @@ const JUNE_IG_DATA = [
       "servingTime": "18 minutes",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. olive oil\n150g sausages, sliced \n1 white onions, chopped\n5 cloves garlic, chopped \n1 bar Emborg cream cheese, cubed \n2 cups cream\n¾ cup sweet corn kernels \n500g penne, cooked according to package directions \nSalt and pepper to taste \nCilantro sprigs for garnish",
-      "procedure": "Procedure\nHeat up olive oil over medium heat. Fry sausage slices until nicely browned on both sides. \nAdd onions and garlic, sauté until soft. \nAdd Emborg Cream Cheese and cream. Mix until cream cheese is fully melted, then let simmer for 3-5 minutes. \nMix in corn and penne. Season with salt and pepper to taste. \nGarnish with cilantro sprigs."
+      "ingredients": "2 tbsps. olive oil\n150g sausages, sliced \n1 white onions, chopped\n5 cloves garlic, chopped \n1 bar Emborg cream cheese, cubed \n2 cups cream\n¾ cup sweet corn kernels \n500g penne, cooked according to package directions \nSalt and pepper to taste \nCilantro sprigs for garnish",
+      "procedure": "Heat up olive oil over medium heat. Fry sausage slices until nicely browned on both sides. \nAdd onions and garlic, sauté until soft. \nAdd Emborg Cream Cheese and cream. Mix until cream cheese is fully melted, then let simmer for 3-5 minutes. \nMix in corn and penne. Season with salt and pepper to taste. \nGarnish with cilantro sprigs."
     },
     "photo": {
       "filename": "IG6.jpg",
@@ -161,7 +161,7 @@ const JUNE_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "June IG",
-    "caption": "Thinking of whipping up a satisfying brunch that’s bursting with flavour but is easy to make? Grab a pack of Gotzinger Cheese Kransky Chipolata Sausages at #TheMarketplace for this hearty Sausage and Veggie Scramble!\nWe love these Gotzinger Cheese Kransky Chipolata Sausages as they’re zingy and bursting with flavors of paprika, pepper, and melty cheese. Perfect with buttery scrambled eggs and earthy mushrooms. Yum!\nServing Time: 12 minutes\nYield: 2-4 servings\nTip: Serve with garlic bread or buttered toast for a full meal!\n\nIngredients\n\n2 tbsps. olive oil\n5-8 Gotzinger Sausages, sliced\n6 tbsps. butter\n4 shiitake mushrooms, sliced\n6 eggs, beaten\nSalt and pepper to taste\nProcedure\n\n1. Heat up olive oil over medium heat. Sear Gotzinger Sausages until nicely browned on both sides. Set aside.\n2. In the same pan, melt 3 tbsps. of butter. Add mushrooms and cook until browned. Set aside.\n3. Also in the same pan, melt the remaining 3 tbsps. of butter over low heat. Add eggs and mix continuously until cooked and creamy.\n4. Add back cooked sausages and mushrooms. \n\nOrder your groceries safely and place them online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Thinking of whipping up a satisfying brunch that’s bursting with flavour but is easy to make? Grab a pack of Gotzinger Cheese Kransky Chipolata Sausages at #TheMarketplace for this hearty Sausage and Veggie Scramble!\nWe love these Gotzinger Cheese Kransky Chipolata Sausages as they’re zingy and bursting with flavors of paprika, pepper, and melty cheese. Perfect with buttery scrambled eggs and earthy mushrooms. Yum!\n\nOrder your groceries safely and place them online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Gotzinger"
     ],
@@ -169,8 +169,8 @@ const JUNE_IG_DATA = [
       "servingTime": "12 minutes",
       "yield": "2-4 servings",
       "tips": "Serve with garlic bread or buttered toast for a full meal.",
-      "ingredients": "Ingredients\n2 tbsps. olive oil \n5-8 Gotzinger Sausages, sliced \n6 tbsps. butter \n4 shiitake mushrooms, sliced \n6 eggs, beaten  \nSalt and pepper to taste",
-      "procedure": "Procedure\nHeat up olive oil over medium heat. Sear Gotzinger Sausages until nicely browned on both sides. Set aside. \nIn the same pan, melt 3 tbsps. of butter. Add mushrooms and cook until browned. Set aside. \nAlso in the same pan, melt the remaining 3 tbsps. of butter over low heat. Add eggs and mix continuously until cooked and creamy.\nAdd back cooked sausages and mushrooms."
+      "ingredients": "2 tbsps. olive oil \n5-8 Gotzinger Sausages, sliced \n6 tbsps. butter \n4 shiitake mushrooms, sliced \n6 eggs, beaten  \nSalt and pepper to taste",
+      "procedure": "Heat up olive oil over medium heat. Sear Gotzinger Sausages until nicely browned on both sides. Set aside. \nIn the same pan, melt 3 tbsps. of butter. Add mushrooms and cook until browned. Set aside. \nAlso in the same pan, melt the remaining 3 tbsps. of butter over low heat. Add eggs and mix continuously until cooked and creamy.\nAdd back cooked sausages and mushrooms."
     },
     "photo": {
       "filename": "IG7.jpg",
@@ -243,7 +243,7 @@ const JUNE_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "June IG",
-    "caption": "Have you ever wondered what it would be like to create a Tinapa Fried Rice instead of eating all the components separately? We came up with a recipe to satiate that curiosity, and the result is a super umami-packed bowl of comfort that highlights a lot of local Filipino flavors. \nWe highly recommend using Sagana’s Garlic & Pepper Tinapa (available at #TheMarketplace) for this recipe as the garlicky goodness melds so well with the rice, salted egg, and tomato. Don’t forget to use leftover rice so that the flavors absorb better. The spring onions add a nice zing to round off each scrumptious bite. Enjoy!\nServing Time: 7 minutes\nYield: 2-3 servings\n\nIngredients\n\n1 bottle Sagana Tinapa (Garlic & Pepper)\n3 cups leftover rice\n2 tomatoes, diced\n2 salted eggs, diced\n1 tbsp. spring onions\nProcedure\n\n1. Heat up Sagana Tinapa in a frying pan while breaking up the tinapa pieces. \n2. Add leftover rice and mix until well-incorporated. \n3. Top with tomatoes, salted eggs, and spring onions. \n\nYou can also order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Have you ever wondered what it would be like to create a Tinapa Fried Rice instead of eating all the components separately? We came up with a recipe to satiate that curiosity, and the result is a super umami-packed bowl of comfort that highlights a lot of local Filipino flavors. \nWe highly recommend using Sagana’s Garlic & Pepper Tinapa (available at #TheMarketplace) for this recipe as the garlicky goodness melds so well with the rice, salted egg, and tomato. Don’t forget to use leftover rice so that the flavors absorb better. The spring onions add a nice zing to round off each scrumptious bite. Enjoy!\n\nYou can also order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Sagana"
     ],
@@ -251,8 +251,8 @@ const JUNE_IG_DATA = [
       "servingTime": "7 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 bottle Sagana Tinapa (Garlic & Pepper) \n3 cups leftover rice \n2 tomatoes, diced \n2 salted eggs, diced \n1 tbsp. spring onions",
-      "procedure": "Procedure\nHeat up Sagana Tinapa in a frying pan while breaking up the tinapa pieces. \nAdd leftover rice and mix until well-incorporated. \nTop with tomatoes, salted eggs, and spring onions."
+      "ingredients": "1 bottle Sagana Tinapa (Garlic & Pepper) \n3 cups leftover rice \n2 tomatoes, diced \n2 salted eggs, diced \n1 tbsp. spring onions",
+      "procedure": "Heat up Sagana Tinapa in a frying pan while breaking up the tinapa pieces. \nAdd leftover rice and mix until well-incorporated. \nTop with tomatoes, salted eggs, and spring onions."
     },
     "photo": {
       "filename": "FB1.jpg",
@@ -287,7 +287,7 @@ const JUNE_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "June IG",
-    "caption": "We love elevating pantry staples and turning them into something special. For this recipe, grab a bottle of Cheez Whiz and create these delicious Cheesy Beef Nachos for your next movie night at home. Grab all the ingredients you need at #TheMarketplace!\nServing Time: 12 minutes\nYield: 3-5 servings\n\nIngredients\n\n2 tbsps. canola oil\n2 cups ground beef\n3 tbsps. taco seasoning\nSalt and pepper to taste\n2 tomatoes, deseeded and diced\n1 red onion, diced\n1 cucumber, deseeded and diced\n3 cups tortilla chips\nCheez Whiz for drizzling and dipping\nProcedure\n\n1. Heat up oil over medium heat. Add ground beef and cook for 5-7 minutes. Add taco seasoning and season with salt and pepper to taste.\n2. Combine tomatoes, red onions and cucumber. Set aside.\n3. Arrange tortilla chips in a serving platter. Top with cooked ground beef, then with the tomato-onion-cucumber salsa.\n4. Drizzle generously with Cheez Whiz, and serve with extra Cheez Whiz for dipping.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "We love elevating pantry staples and turning them into something special. For this recipe, grab a bottle of Cheez Whiz and create these delicious Cheesy Beef Nachos for your next movie night at home. Grab all the ingredients you need at #TheMarketplace!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Cheez Whiz"
     ],
@@ -295,8 +295,8 @@ const JUNE_IG_DATA = [
       "servingTime": "12 minutes",
       "yield": "3-5 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. canola oil  \n2 cups ground beef\n3 tbsps. taco seasoning\nSalt and pepper to taste\n2 tomatoes, deseeded and diced \n1 red onion, diced \n1 cucumber, deseeded and diced \n3 cups tortilla chips \nCheez Whiz for drizzling and dipping",
-      "procedure": "Procedure\nHeat up oil over medium heat. Add ground beef and cook for 5-7 minutes. Add taco seasoning and season with salt and pepper to taste. \nCombine tomatoes, red onions and cucumber. Set aside.\nArrange tortilla chips in a serving platter. Top with cooked ground beef, then with the tomato-onion-cucumber salsa. \nDrizzle generously with Cheez Whiz, and serve with extra Cheez Whiz for dipping."
+      "ingredients": "2 tbsps. canola oil  \n2 cups ground beef\n3 tbsps. taco seasoning\nSalt and pepper to taste\n2 tomatoes, deseeded and diced \n1 red onion, diced \n1 cucumber, deseeded and diced \n3 cups tortilla chips \nCheez Whiz for drizzling and dipping",
+      "procedure": "Heat up oil over medium heat. Add ground beef and cook for 5-7 minutes. Add taco seasoning and season with salt and pepper to taste. \nCombine tomatoes, red onions and cucumber. Set aside.\nArrange tortilla chips in a serving platter. Top with cooked ground beef, then with the tomato-onion-cucumber salsa. \nDrizzle generously with Cheez Whiz, and serve with extra Cheez Whiz for dipping."
     },
     "photo": {
       "filename": "FB3.jpg",
@@ -312,7 +312,7 @@ const JUNE_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "June IG",
-    "caption": "Here’s a fun food activity to do with the kids!\nMake these easy and delicious Pizza Toasts with Gardenia White Bread. We used ham and cheese for this recipe, but feel free to use other ingredients such as mushrooms, bacon, bell peppers, or anything you and your kids love. Get all the ingredients you need fresh from #TheMarketplace.\nServing Time: 5 minutes\nYield: 4 pieces\n\nIngredients\n\n4 slices of Gardenia White Bread\n1 cup pizza sauce\n1 cup mozzarella cheese, grated\n¼ cup ham slices\nProcedure\n\n1. Spread pizza sauce all over each slice of Gardenia White Bread. \n2. Top with mozzarella cheese and ham slices.\n3. Toast until cheese is melted and bread is browned. \n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Here’s a fun food activity to do with the kids!\nMake these easy and delicious Pizza Toasts with Gardenia White Bread. We used ham and cheese for this recipe, but feel free to use other ingredients such as mushrooms, bacon, bell peppers, or anything you and your kids love. Get all the ingredients you need fresh from #TheMarketplace.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Gardenia"
     ],
@@ -320,8 +320,8 @@ const JUNE_IG_DATA = [
       "servingTime": "5 minutes",
       "yield": "4 pieces",
       "tips": "",
-      "ingredients": "Ingredients\n4 slices of Gardenia White Bread \n1 cup pizza sauce \n1 cup mozzarella cheese, grated \n¼ cup ham slices",
-      "procedure": "Procedure\nSpread pizza sauce all over each slice of Gardenia White Bread. \nTop with mozzarella cheese and ham slices.\nToast until cheese is melted and bread is browned."
+      "ingredients": "4 slices of Gardenia White Bread \n1 cup pizza sauce \n1 cup mozzarella cheese, grated \n¼ cup ham slices",
+      "procedure": "Spread pizza sauce all over each slice of Gardenia White Bread. \nTop with mozzarella cheese and ham slices.\nToast until cheese is melted and bread is browned."
     },
     "photo": {
       "filename": "FB4.jpg",
@@ -356,7 +356,7 @@ const JUNE_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "June IG",
-    "caption": "Who doesn’t love a good grilled cheese sandwich? \nThe cheese-melting could actually take a bit of time, so thank goodness for Eden Melt Sarap to speed up the process. This 3-Ingredient Grilled Cheese Sandwich is the perfect pick-me-up, especially if you’re craving an indulgent cheesy, savory snack. Get all the items you need at #TheMarketplace!\nServing Time: 6 minutes\nYield: 3 pieces\nTip: Serve with tomato soup for a hearty meal.\n\nIngredients\n\n6 slices sourdough bread\n9 slices Eden Cheese Melt Sarap\n6 tbsps. butter\nProcedure\n\n1. Place 3 slices of Eden Cheese Melt Sarap in between two slices of sourdough bread.\n2. In a frying pan, melt 2 tbsps. of butter for each sandwich. Once butter is melted, add the cheese sandwich. Cook for 1-2 minutes on one side. Flip, and let cook for another 1-2 minutes.\n3. Repeat for the remaining cheese sandwiches. \n\nOrder your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Who doesn’t love a good grilled cheese sandwich? \nThe cheese-melting could actually take a bit of time, so thank goodness for Eden Melt Sarap to speed up the process. This 3-Ingredient Grilled Cheese Sandwich is the perfect pick-me-up, especially if you’re craving an indulgent cheesy, savory snack. Get all the items you need at #TheMarketplace!\n\nOrder your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Eden"
     ],
@@ -364,8 +364,8 @@ const JUNE_IG_DATA = [
       "servingTime": "6 minutes",
       "yield": "3 pieces",
       "tips": "Serve with tomato soup for a hearty meal.",
-      "ingredients": "Ingredients\n6 slices sourdough bread \n9 slices Eden Cheese Melt Sarap\n6 tbsps. butter",
-      "procedure": "Procedure\nPlace 3 slices of Eden Cheese Melt Sarap in between two slices of sourdough bread. \nIn a frying pan, melt 2 tbsps. of butter for each sandwich. Once butter is melted, add the cheese sandwich. Cook for 1-2 minutes on one side. Flip, and let cook for another 1-2 minutes. \nRepeat for the remaining cheese sandwiches."
+      "ingredients": "6 slices sourdough bread \n9 slices Eden Cheese Melt Sarap\n6 tbsps. butter",
+      "procedure": "Place 3 slices of Eden Cheese Melt Sarap in between two slices of sourdough bread. \nIn a frying pan, melt 2 tbsps. of butter for each sandwich. Once butter is melted, add the cheese sandwich. Cook for 1-2 minutes on one side. Flip, and let cook for another 1-2 minutes. \nRepeat for the remaining cheese sandwiches."
     },
     "photo": {
       "filename": "FB6.jpg",
@@ -400,7 +400,7 @@ const JUNE_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "June IG",
-    "caption": "Made popular by Korean food trends, honey butter has become a flavor to crave.\nThis recipe for Honey-Butter Sweet Potato Fries uses 100% pure and natural Rowse cut honeycomb, which pairs so well with butter. Perfect for snacking or to go with your favorite burgers. All the ingredients you need are available at #TheMarketplace!\nServing Time: 35 minutes\nYield: 1-2 servings\n\nIngredients\n\n2 sweet potatoes, cut into thick matchsticks\n3 tbsps. olive oil\nSalt and pepper to taste\n3 tbsps. butter\n½ cup Rowse Cut Honeycomb in Acacia Honey\n¼ tsp. cinnamon powder\n3 sprigs thyme \nProcedure\n\n1. Preheat oven to 180°C.\n2. Coat sweet potatoes with olive oil. Season with salt and pepper. Transfer to a parchment-lined baking tray.\n3. Roast for 20 minutes. After that, flip and roast for an additional 10 minutes.\n4. Melt butter in a small saucepan. Add Rowse Cut Honeycomb in Acacia Honey, cinnamon powder and thyme.\n5. Once honey is about to boil, turn off heat. Drizzle all over cooked sweet potato fries. \n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Made popular by Korean food trends, honey butter has become a flavor to crave.\nThis recipe for Honey-Butter Sweet Potato Fries uses 100% pure and natural Rowse cut honeycomb, which pairs so well with butter. Perfect for snacking or to go with your favorite burgers. All the ingredients you need are available at #TheMarketplace!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Rowse"
     ],
@@ -408,8 +408,8 @@ const JUNE_IG_DATA = [
       "servingTime": "35 minutes",
       "yield": "1-2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 sweet potatoes, cut into thick matchsticks \n3 tbsps. olive oil \nSalt and pepper to taste \n3 tbsps. butter \n½ cup Rowse Cut Honeycomb in Acacia Honey \n¼ tsp. cinnamon powder \n3 sprigs thyme",
-      "procedure": "Procedure\nPreheat oven to 180°C.\nCoat sweet potatoes with olive oil. Season with salt and pepper. Transfer to a parchment-lined baking tray. \nRoast for 20 minutes. After that, flip and roast for an additional 10 minutes. \nMelt butter in a small saucepan. Add Rowse Cut Honeycomb in Acacia Honey, cinnamon powder and thyme. \nOnce honey is about to boil, turn off heat. Drizzle all over cooked sweet potato fries."
+      "ingredients": "2 sweet potatoes, cut into thick matchsticks \n3 tbsps. olive oil \nSalt and pepper to taste \n3 tbsps. butter \n½ cup Rowse Cut Honeycomb in Acacia Honey \n¼ tsp. cinnamon powder \n3 sprigs thyme",
+      "procedure": "Preheat oven to 180°C.\nCoat sweet potatoes with olive oil. Season with salt and pepper. Transfer to a parchment-lined baking tray. \nRoast for 20 minutes. After that, flip and roast for an additional 10 minutes. \nMelt butter in a small saucepan. Add Rowse Cut Honeycomb in Acacia Honey, cinnamon powder and thyme. \nOnce honey is about to boil, turn off heat. Drizzle all over cooked sweet potato fries."
     },
     "photo": {
       "filename": "FB8.jpg",

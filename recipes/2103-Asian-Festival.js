@@ -19,8 +19,8 @@ const ASIAN_FESTIVAL_DATA = [
       "servingTime": "30 mins",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\nOil, for frying\n400g french fries\n1 can of Highlands Gold Corned Beef\n1 Tbsp. butter\n1 Tbsp. flour\n1 cup beef stock\n1 tsp. soy sauce\nSalt & pepper to taste\n½ cup cheese, diced",
-      "procedure": "Procedure\nPre-heat the cooking oil.\nDeep-fry the french fries until golden brown. \nIn a separate pan, fry Highlands Gold Corned Beef until crispy. Set aside. \nUsing the same pan, melt butter and mix in flour. Add in beef stock while whisking continuously. Add soy sauce.\nSeason with salt and pepper to taste.\nTop your french fries with crispy corned beef and cheese. Drizzle with gravy."
+      "ingredients": "Oil, for frying\n400g french fries\n1 can of Highlands Gold Corned Beef\n1 Tbsp. butter\n1 Tbsp. flour\n1 cup beef stock\n1 tsp. soy sauce\nSalt & pepper to taste\n½ cup cheese, diced",
+      "procedure": "Pre-heat the cooking oil.\nDeep-fry the french fries until golden brown. \nIn a separate pan, fry Highlands Gold Corned Beef until crispy. Set aside. \nUsing the same pan, melt butter and mix in flour. Add in beef stock while whisking continuously. Add soy sauce.\nSeason with salt and pepper to taste.\nTop your french fries with crispy corned beef and cheese. Drizzle with gravy."
     },
     "photo": {
       "filename": "AF1.jpg",
@@ -44,8 +44,8 @@ const ASIAN_FESTIVAL_DATA = [
       "servingTime": "20 mins",
       "yield": "3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 Tbsp. oil\n½ cup green bell peppers, sliced\n½ cup red bell peppers, sliced\n½ cup red onions, sliced\n1 tsp. oregano\n1 tsp. cumin\n½ tsp. paprika\n½ tsp. chili powder\n½ tsp. garlic powder\n2 cans of Libby’s Chicken Vienna Sausage, drained\n¼ cup feta cheese\nCilantro, for garnish\nSalt & pepper, to taste\n6 tortillas, toasted",
-      "procedure": "Procedure\nSauté the green bell peppers, red bell peppers, and red onions in oil.\nOnce soft, mix in oregano, cumin, paprika, garlic, and chili powder.\nAdd the Chicken Vienna Sausages and season with salt and pepper.\nTo assemble, top toasted tortillas with sausage fajitas. Garnish with feta cheese and cilantro."
+      "ingredients": "2 Tbsp. oil\n½ cup green bell peppers, sliced\n½ cup red bell peppers, sliced\n½ cup red onions, sliced\n1 tsp. oregano\n1 tsp. cumin\n½ tsp. paprika\n½ tsp. chili powder\n½ tsp. garlic powder\n2 cans of Libby’s Chicken Vienna Sausage, drained\n¼ cup feta cheese\nCilantro, for garnish\nSalt & pepper, to taste\n6 tortillas, toasted",
+      "procedure": "Sauté the green bell peppers, red bell peppers, and red onions in oil.\nOnce soft, mix in oregano, cumin, paprika, garlic, and chili powder.\nAdd the Chicken Vienna Sausages and season with salt and pepper.\nTo assemble, top toasted tortillas with sausage fajitas. Garnish with feta cheese and cilantro."
     },
     "photo": {
       "filename": "AF2.jpg",
@@ -69,7 +69,7 @@ const ASIAN_FESTIVAL_DATA = [
       "servingTime": "45 mins",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n500g spaghetti noodles\n2 Tbsp. butter\n1 onion, diced\n3 cloves of garlic, minced\n1 pack frozen ready-to-cook sisig\n250ml cream\n100ml milk\nSalt & pepper to taste\n1 cup SanSan’s Carcar Chicharon, crushed\nParsley, for garnish",
+      "ingredients": "500g spaghetti noodles\n2 Tbsp. butter\n1 onion, diced\n3 cloves of garlic, minced\n1 pack frozen ready-to-cook sisig\n250ml cream\n100ml milk\nSalt & pepper to taste\n1 cup SanSan’s Carcar Chicharon, crushed\nParsley, for garnish",
       "procedure": "Cook spaghetti noodles according to the package’s directions. Set aside. \nSauté onions and garlic in butter. Once soft, add in sisig and cook until crispy.\nMix in cream and milk and let simmer until thick.  \nMix in pasta. Season with salt and pepper to taste. \nTop with crushed SanSan’s Carcar Chicharon. Garnish with parsley."
     },
     "photo": {
@@ -94,8 +94,8 @@ const ASIAN_FESTIVAL_DATA = [
       "servingTime": "10 mins",
       "yield": "1 serving",
       "tips": "",
-      "ingredients": "Ingredients\n1 pack Ottogi Jin Ramen\n¼ cup sweet corn\n1 cheese slice\n1 egg\nFurikake, for garnish\nNori bits, for garnish",
-      "procedure": "Procedure\nCook Ottogi Jin Ramen according to the package’s instructions.\nTop with sweet corn, cheese slice and egg.\nTop with furikake and nori bits."
+      "ingredients": "1 pack Ottogi Jin Ramen\n¼ cup sweet corn\n1 cheese slice\n1 egg\nFurikake, for garnish\nNori bits, for garnish",
+      "procedure": "Cook Ottogi Jin Ramen according to the package’s instructions.\nTop with sweet corn, cheese slice and egg.\nTop with furikake and nori bits."
     },
     "photo": {
       "filename": "AF4.jpg",
@@ -119,8 +119,8 @@ const ASIAN_FESTIVAL_DATA = [
       "servingTime": "15 mins",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 cups frozen blueberries\n1 cup frozen raspberries\n1 pack Cimory Yogurt Squeeze Blueberry\n1 pack Cimory Yogurt Squeeze Strawberry\n6 strawberries, sliced\n1 kiwi, sliced\n4 Tbsp. granola\n1 tsp. chia seeds",
-      "procedure": "Procedure\nBlend frozen blueberries and frozen raspberries with Cimory Yogurt Squeeze Blueberry and Strawberry. \nTop with strawberries and kiwi.\nGarnish with granola and chia seeds"
+      "ingredients": "2 cups frozen blueberries\n1 cup frozen raspberries\n1 pack Cimory Yogurt Squeeze Blueberry\n1 pack Cimory Yogurt Squeeze Strawberry\n6 strawberries, sliced\n1 kiwi, sliced\n4 Tbsp. granola\n1 tsp. chia seeds",
+      "procedure": "Blend frozen blueberries and frozen raspberries with Cimory Yogurt Squeeze Blueberry and Strawberry. \nTop with strawberries and kiwi.\nGarnish with granola and chia seeds"
     },
     "photo": {
       "filename": "AF5.jpg",
@@ -144,8 +144,8 @@ const ASIAN_FESTIVAL_DATA = [
       "servingTime": "5 mins",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 pack microwavable popcorn, salted\n2 tsp. sugar\n¼ cup No Brand Crispy & Rosemary Almonds\n¼ cup dried cranberries\n2 sprigs rosemary leaves",
-      "procedure": "Procedure\nCook popcorn according to the package’s instructions.\nSeason with sugar.\nMix in No Brand Crispy & Rosemary Almonds, dried cranberries and rosemary leaves."
+      "ingredients": "1 pack microwavable popcorn, salted\n2 tsp. sugar\n¼ cup No Brand Crispy & Rosemary Almonds\n¼ cup dried cranberries\n2 sprigs rosemary leaves",
+      "procedure": "Cook popcorn according to the package’s instructions.\nSeason with sugar.\nMix in No Brand Crispy & Rosemary Almonds, dried cranberries and rosemary leaves."
     },
     "photo": {
       "filename": "AF6.jpg",
@@ -169,8 +169,8 @@ const ASIAN_FESTIVAL_DATA = [
       "servingTime": "35-45 mins",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 Tbsps. butter\n1 white onion, chopped\n1 cup basmati rice\nA pinch of saffron\n1 1/2 cups water\n1 pack No Brand Grilled Spicy Chicken\n3 tomatoes, halves\n1 red onion, quartered\n½ cup plain yogurt\n1 Tbsp. lemon juice\n1 tsp. garlic, minced\nSalt to taste\n2 cups romaine lettuce, shredded",
-      "procedure": "Procedure\nSauté onion in butter until soft. Mix in saffron and basmati rice. Add water and cook for 15 minutes. \nPlace No Brand Grilled Spicy Chicken pieces in a skewer. Grill or pan-fry over high heat. After cooking, coat with the sauce included in the pack. \nGrill tomatoes and onions.\nMix together yogurt, lemon juice, and garlic. Season with salt.\nTo assemble, top basmati rice with chicken skewers, grilled veggies, and shredded lettuce. Serve with yogurt dip."
+      "ingredients": "2 Tbsps. butter\n1 white onion, chopped\n1 cup basmati rice\nA pinch of saffron\n1 1/2 cups water\n1 pack No Brand Grilled Spicy Chicken\n3 tomatoes, halves\n1 red onion, quartered\n½ cup plain yogurt\n1 Tbsp. lemon juice\n1 tsp. garlic, minced\nSalt to taste\n2 cups romaine lettuce, shredded",
+      "procedure": "Sauté onion in butter until soft. Mix in saffron and basmati rice. Add water and cook for 15 minutes. \nPlace No Brand Grilled Spicy Chicken pieces in a skewer. Grill or pan-fry over high heat. After cooking, coat with the sauce included in the pack. \nGrill tomatoes and onions.\nMix together yogurt, lemon juice, and garlic. Season with salt.\nTo assemble, top basmati rice with chicken skewers, grilled veggies, and shredded lettuce. Serve with yogurt dip."
     },
     "photo": {
       "filename": "AF7.jpg",
@@ -232,8 +232,8 @@ const ASIAN_FESTIVAL_DATA = [
       "servingTime": "25 mins",
       "yield": "3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n3 tilapia fillets\nSalt & pepper to taste\n1 Tbsp. oil\n1 Tbsp. butter\n2 Tbsps. lemon juice\n¼ cup olive oil\n1 tsp. honey\n¼ cup cilantro, chopped\n1 can Waitrose Essential Bean Salad in Water, drained\n1 lemon, sliced\nSalt and pepper to taste",
-      "procedure": "Procedure\nSeason tilapia fillet with salt and pepper. Pan-fry in oil and butter. Set aside. \nWhisk together lemon juice, olive oil, and honey. Season with salt and pepper.\nDrain Waitrose Essential Bean Salad and mix with cilantro.\nToss bean salad in vinaigrette. Top with seared fish and serve with lemon slices."
+      "ingredients": "3 tilapia fillets\nSalt & pepper to taste\n1 Tbsp. oil\n1 Tbsp. butter\n2 Tbsps. lemon juice\n¼ cup olive oil\n1 tsp. honey\n¼ cup cilantro, chopped\n1 can Waitrose Essential Bean Salad in Water, drained\n1 lemon, sliced\nSalt and pepper to taste",
+      "procedure": "Season tilapia fillet with salt and pepper. Pan-fry in oil and butter. Set aside. \nWhisk together lemon juice, olive oil, and honey. Season with salt and pepper.\nDrain Waitrose Essential Bean Salad and mix with cilantro.\nToss bean salad in vinaigrette. Top with seared fish and serve with lemon slices."
     },
     "photo": {
       "filename": "AF10.jpg",
@@ -276,8 +276,8 @@ const ASIAN_FESTIVAL_DATA = [
       "servingTime": "3 mins",
       "yield": "1 serving",
       "tips": "",
-      "ingredients": "Ingredients\n1 pack of Natural Nectar’s Black Truffle Potato Chips\n½ cup sour cream\n1 Tbsp. lemon juice\n1 tsp. truffle oil\n1 tsp. garlic, minced\nSalt and pepper to taste",
-      "procedure": "Procedure\nMix sour cream with lemon juice, truffle oil, and garlic.\nSeason with salt and pepper.\nServe with Natural Nectar’s Black Truffle Potato Chips."
+      "ingredients": "1 pack of Natural Nectar’s Black Truffle Potato Chips\n½ cup sour cream\n1 Tbsp. lemon juice\n1 tsp. truffle oil\n1 tsp. garlic, minced\nSalt and pepper to taste",
+      "procedure": "Mix sour cream with lemon juice, truffle oil, and garlic.\nSeason with salt and pepper.\nServe with Natural Nectar’s Black Truffle Potato Chips."
     },
     "photo": {
       "filename": "AF12.jpg",

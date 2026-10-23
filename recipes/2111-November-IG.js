@@ -11,7 +11,7 @@ const NOVEMBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "November IG",
-    "caption": "Coconut milk is a key ingredient in a lot of Thai dishes, and we’re using it in this recipe for a delicious Coconut Milk Braised Chicken that the family will surely enjoy.\n\nMade with Bounty Fresh’s Family Feast Whole Chicken, experience a play of vibrant aromatics on the palate balanced out with fragrant coconut milk. Make sure to cook extra rice because your family will definitely come back for seconds! Get the freshest poultry and other Bounty Fresh chicken products at #TheMarketplace!\n\nServing Time: 45 minutes\nYield: 3-5 servings\n\nIngredients\n\n3 tbsps. vegetable oil\n1 pack Bounty Fresh Family Feast Whole Chicken\n5 cloves garlic, chopped \n1 red onion, chopped \n2 red chilies\n3 tbsps. tanglad stalks, chopped \n3 tbsps. red curry paste \n2 cups coconut milk\n1 cup chicken stock \n1 tbsp. fish sauce\n½ tsp. pepper\n4 pcs. bokchoy, halved \n1 red bell pepper, sliced\n1 tbsp. lime juice\n\nProcedure\n\n1. In a large pot over medium heat, add oil. Sear Bounty Fresh Family Feast Whole Chicken until nicely browned. Set aside chicken while retaining oil in the pan. \n2. Sauté garlic, onion, chili and tanglad stalks until softened. Mix in red curry paste and cook until lightly browned. \n3. Mix in coconut milk, chicken stock fish sauce and pepper. Add back seared chicken, then let simmer covered for 20 minutes. \n4. Add in bok choy and bell peppers. Let simmer covered for another 8 minutes or until veggies are cooked through. \n5. Turn off heat, then mix in lime juice. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Coconut milk is a key ingredient in a lot of Thai dishes, and we’re using it in this recipe for a delicious Coconut Milk Braised Chicken that the family will surely enjoy.\n\nMade with Bounty Fresh’s Family Feast Whole Chicken, experience a play of vibrant aromatics on the palate balanced out with fragrant coconut milk. Make sure to cook extra rice because your family will definitely come back for seconds! Get the freshest poultry and other Bounty Fresh chicken products at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Bounty Fresh"
     ],
@@ -19,8 +19,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "45 minutes",
       "yield": "3-5 servings",
       "tips": "",
-      "ingredients": "Ingredients\n3 tbsps. vegetable oil\n1 pack Bounty Fresh Family Feast Whole Chicken\n5 cloves garlic, chopped \n1 red onion, chopped \n2 red chilies\n3 tbsps. tanglad stalks, chopped \n3 tbsps. red curry paste \n2 cups coconut milk\n1 cup chicken stock \n1 tbsp. fish sauce\n½ tsp. pepper\n4 pcs. bokchoy, halved \n1 red bell pepper, sliced\n1 tbsp. lime juice",
-      "procedure": "Procedure\nIn a large pot over medium heat, add oil. Sear Bounty Fresh Family Feast Whole Chicken until nicely browned. Set aside chicken while retaining oil in the pan. \nSauté garlic, onion, chili and tanglad stalks until softened. Mix in red curry paste and cook until lightly browned. \nMix in coconut milk, chicken stock fish sauce and pepper. Add back seared chicken, then let simmer covered for 20 minutes. \nAdd in bok choy and bell peppers. Let simmer covered for another 8 minutes or until veggies are cooked through. \nTurn off heat, then mix in lime juice."
+      "ingredients": "3 tbsps. vegetable oil\n1 pack Bounty Fresh Family Feast Whole Chicken\n5 cloves garlic, chopped \n1 red onion, chopped \n2 red chilies\n3 tbsps. tanglad stalks, chopped \n3 tbsps. red curry paste \n2 cups coconut milk\n1 cup chicken stock \n1 tbsp. fish sauce\n½ tsp. pepper\n4 pcs. bokchoy, halved \n1 red bell pepper, sliced\n1 tbsp. lime juice",
+      "procedure": "In a large pot over medium heat, add oil. Sear Bounty Fresh Family Feast Whole Chicken until nicely browned. Set aside chicken while retaining oil in the pan. \nSauté garlic, onion, chili and tanglad stalks until softened. Mix in red curry paste and cook until lightly browned. \nMix in coconut milk, chicken stock fish sauce and pepper. Add back seared chicken, then let simmer covered for 20 minutes. \nAdd in bok choy and bell peppers. Let simmer covered for another 8 minutes or until veggies are cooked through. \nTurn off heat, then mix in lime juice."
     },
     "photo": {
       "filename": "IG1.jpg",
@@ -36,7 +36,7 @@ const NOVEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "November IG",
-    "caption": "Give your next #TacoThursday a lighter remix with these Grilled Halibut Tacos made with Pacific Bay Halibut Fillet! Dress it up with some mangoes, red bell peppers, onions, and cilantro for a refreshing touch. Don’t forget to spritz some fresh lime juice before you dig in! Get your hands on the freshest seafood, and grab all the ingredients you need from #TheMarketplace!\n\nServing Time: 40 minutes\nYield: 4-5 servings\n\nIngredients\n\n2 packs Pacific Bay Halibut Fillet\nSalt and pepper to taste\n2 tbsps. taco seasoning\n10 tortillas\n2 cups mango, diced\n1 cup red bell pepper, diced\n1 cup red onion, sliced\n½ cup cilantro leaves\n2 limes, wedged\n\nProcedure\n\n1. Pat dry Pacific Bay Halibut Fillet. Season with salt, pepper and taco seasoning. Set aside.\n2. Set a grill pan over medium heat. Toast tortilla until lightly browned.\n3. Grill halibut fillet until golden brown and cooked through. Let cool, then flake.\n4. In a bowl, combine mango, red bell peppers, onions and cilantro leaves. Season with salt and pepper.\n5. To assemble, fill tortilla with flaked halibut and top with mango salsa. Serve with lime wedges. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Give your next #TacoThursday a lighter remix with these Grilled Halibut Tacos made with Pacific Bay Halibut Fillet! Dress it up with some mangoes, red bell peppers, onions, and cilantro for a refreshing touch. Don’t forget to spritz some fresh lime juice before you dig in! Get your hands on the freshest seafood, and grab all the ingredients you need from #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Pacific Bay"
     ],
@@ -44,8 +44,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "40 minutes",
       "yield": "4-5 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 packs Pacific Bay Halibut Fillet\nSalt and pepper to taste\n2 tbsps. taco seasoning\n10 tortillas\n2 cups mango, diced\n1 cup red bell pepper, diced\n1 cup red onion, sliced\n½ cup cilantro leaves\n2 limes, wedged",
-      "procedure": "Procedure\nPat dry Pacific Bay Halibut Fillet. Season with salt, pepper and taco seasoning. Set aside.\nSet a grill pan over medium heat. Toast tortilla until lightly browned.\nGrill halibut fillet until golden brown and cooked through. Let cool, then flake.\nIn a bowl, combine mango, red bell peppers, onions and cilantro leaves. Season with salt and pepper.\nTo assemble, fill tortilla with flaked halibut and top with mango salsa. Serve with lime wedges."
+      "ingredients": "2 packs Pacific Bay Halibut Fillet\nSalt and pepper to taste\n2 tbsps. taco seasoning\n10 tortillas\n2 cups mango, diced\n1 cup red bell pepper, diced\n1 cup red onion, sliced\n½ cup cilantro leaves\n2 limes, wedged",
+      "procedure": "Pat dry Pacific Bay Halibut Fillet. Season with salt, pepper and taco seasoning. Set aside.\nSet a grill pan over medium heat. Toast tortilla until lightly browned.\nGrill halibut fillet until golden brown and cooked through. Let cool, then flake.\nIn a bowl, combine mango, red bell peppers, onions and cilantro leaves. Season with salt and pepper.\nTo assemble, fill tortilla with flaked halibut and top with mango salsa. Serve with lime wedges."
     },
     "photo": {
       "filename": "IG2.jpg",
@@ -61,7 +61,7 @@ const NOVEMBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "November IG",
-    "caption": "Enjoy your favorite luncheon meat without the guilt by opting for plant-based Omnipork Luncheon instead! In this recipe for Omnipork Musubi, the popular Japanese spam-based snack gets a meat-free makeover without compromising on flavor. It even comes with a homemade sriracha mayo! Find Omnipork products, along with other meat alternatives, at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 3-4 servings\n\nIngredients\n\n(For the Main Dish)\n1 tbsps. soy sauce\n1 tbsps. rice vinegar\n2 tbsps. sugar \n4 tbsps. oil\n1 pack Omnipork Luncheon\n3 cups rice, cooked\n3 tbsps. mirin\n3 tbsps. furikake\n2 tbsps. black sesame seeds\n1 sheet nori\n(For the Sriracha Mayo)\n3 tbsps. Japanese mayonnaise\n2 tbsp. milk\n2 tbsps. sriracha\nSalt and pepper to taste\n\nProcedure\n\n1. In a small bowl, combine soy sauce, rice vinegar and sugar. Mix well until sugar is dissolved.\n2. Set a pan over medium heat, then add oil. Fry Omnipork until lightly browned on both sides. Brush with sauce then set aside.\n3. In a large bowl, mix rice and mirin. Mix in furikake and black sesame seeds.\n4. Form rice into the same shape of the omnipork. Add cooked Omnipork on top, then wrap both with a nori strip.\n5. In a small bowl, mix Japanese mayonnaise, milk and sriracha. Season with salt and pepper.\n6. Serve Omnipork musubi alongside sriracha mayo and shredded cabbage.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Enjoy your favorite luncheon meat without the guilt by opting for plant-based Omnipork Luncheon instead! In this recipe for Omnipork Musubi, the popular Japanese spam-based snack gets a meat-free makeover without compromising on flavor. It even comes with a homemade sriracha mayo! Find Omnipork products, along with other meat alternatives, at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Omnipork"
     ],
@@ -69,8 +69,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "30 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 tbsps. soy sauce\n1 tbsps. rice vinegar\n2 tbsps. sugar \n4 tbsps. oil\n1 pack Omnipork Luncheon\n3 cups rice, cooked\n3 tbsps. mirin\n3 tbsps. furikake\n2 tbsps. black sesame seeds\n1 sheet nori\nSriracha Mayo:\n3 tbsps. Japanese mayonnaise\n2 tbsp. milk\n2 tbsps. sriracha\nSalt and pepper to taste",
-      "procedure": "Procedure\nIn a small bowl, combine soy sauce, rice vinegar and sugar. Mix well until sugar is dissolved.\nSet a pan over medium heat, then add oil. Fry Omnipork until lightly browned on both sides. Brush with sauce then set aside.\nIn a large bowl, mix rice and mirin. Mix in furikake and black sesame seeds.\nForm rice into the same shape of the omnipork. Add cooked Omnipork on top, then wrap both with a nori strip.\nIn a small bowl, mix Japanese mayonnaise, milk and sriracha. Season with salt and pepper.\nServe Omnipork musubi alongside sriracha mayo and shredded cabbage."
+      "ingredients": "1 tbsps. soy sauce\n1 tbsps. rice vinegar\n2 tbsps. sugar \n4 tbsps. oil\n1 pack Omnipork Luncheon\n3 cups rice, cooked\n3 tbsps. mirin\n3 tbsps. furikake\n2 tbsps. black sesame seeds\n1 sheet nori\nSriracha Mayo:\n3 tbsps. Japanese mayonnaise\n2 tbsp. milk\n2 tbsps. sriracha\nSalt and pepper to taste",
+      "procedure": "In a small bowl, combine soy sauce, rice vinegar and sugar. Mix well until sugar is dissolved.\nSet a pan over medium heat, then add oil. Fry Omnipork until lightly browned on both sides. Brush with sauce then set aside.\nIn a large bowl, mix rice and mirin. Mix in furikake and black sesame seeds.\nForm rice into the same shape of the omnipork. Add cooked Omnipork on top, then wrap both with a nori strip.\nIn a small bowl, mix Japanese mayonnaise, milk and sriracha. Season with salt and pepper.\nServe Omnipork musubi alongside sriracha mayo and shredded cabbage."
     },
     "photo": {
       "filename": "IG3.jpg",
@@ -86,7 +86,7 @@ const NOVEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "November IG",
-    "caption": "Craving something fun and Korean-inspired? Make these Sausage Tteokbokki in less than 30 minutes!\n\nUsing Johnsonville Little Smokies, alternate each sausage with a rice cake for an addictive set of skewers that are laced with a sweet and spicy gochujang sauce. It’s the perfect snack to nibble on and enjoy with an ice-cold beer as you binge on the latest K-dramas! Find all the ingredients you need for this recipe at #TheMarketplace.\n\nServing Time: 20-25 minutes\nYield: 3-4 servings\n\nIngredients\n\n¼ cup gochujang\n2 tbsps. soy sauce\n2 tbsps. sugar\n2 tbsps. gochugaru\n1 tbsps. garlic, chopped\n2 cups dashi stock\n250g rice cakes\n1 pack Johnsonville Little Smokies\n⅓ cup scallions, chopped\n1 tbsp. sesame seeds\n\nProcedure\n\n1. In a small bowl, combine gochujang, soy sauce, sugar, gochugaru and garlic.\n2. Set a wok over medium heat. Add dashi stock and gochujang mixture, then let it boil.\n3. Add rice cake and cook for 5 minutes. Add Johnsonville Little Smokies. Let simmer again for another 3-4 minutes to thicken the sauce.\n4. In a bamboo skewer, alternately put rice cakes and sausages. Garnish with scallions and sesame seeds before serving.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Craving something fun and Korean-inspired? Make these Sausage Tteokbokki in less than 30 minutes!\n\nUsing Johnsonville Little Smokies, alternate each sausage with a rice cake for an addictive set of skewers that are laced with a sweet and spicy gochujang sauce. It’s the perfect snack to nibble on and enjoy with an ice-cold beer as you binge on the latest K-dramas! Find all the ingredients you need for this recipe at #TheMarketplace.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Johnsonville"
     ],
@@ -94,8 +94,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "20-25 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n¼ cup gochujang\n2 tbsps. soy sauce\n2 tbsps. sugar\n2 tbsps. gochugaru\n1 tbsps. garlic, chopped\n2 cups dashi stock\n250g rice cakes\n1 pack Johnsonville Little Smokies\n⅓ cup scallions, chopped\n1 tbsp. sesame seeds",
-      "procedure": "Procedure\nIn a small bowl, combine gochujang, soy sauce, sugar, gochugaru and garlic.\nSet a wok over medium heat. Add dashi stock and gochujang mixture, then let it boil.\nAdd rice cake and cook for 5 minutes. Add Johnsonville Little Smokies. Let simmer again for another 3-4 minutes to thicken the sauce.\nIn a bamboo skewer, alternately put rice cakes and sausages. Garnish with scallions and sesame seeds before serving."
+      "ingredients": "¼ cup gochujang\n2 tbsps. soy sauce\n2 tbsps. sugar\n2 tbsps. gochugaru\n1 tbsps. garlic, chopped\n2 cups dashi stock\n250g rice cakes\n1 pack Johnsonville Little Smokies\n⅓ cup scallions, chopped\n1 tbsp. sesame seeds",
+      "procedure": "In a small bowl, combine gochujang, soy sauce, sugar, gochugaru and garlic.\nSet a wok over medium heat. Add dashi stock and gochujang mixture, then let it boil.\nAdd rice cake and cook for 5 minutes. Add Johnsonville Little Smokies. Let simmer again for another 3-4 minutes to thicken the sauce.\nIn a bamboo skewer, alternately put rice cakes and sausages. Garnish with scallions and sesame seeds before serving."
     },
     "photo": {
       "filename": "IG4.jpg",
@@ -130,7 +130,7 @@ const NOVEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "November IG",
-    "caption": "Kimchi-bokkeum-bap, or more popularly known as Kimchi Fried Rice, is a popular dish in South Korea that’s made with kimchi and a variety of ingredients (usually leftover rice, meat, and vegetables). A popular ingredient to this dish is luncheon meat, and in our recipe for Kimchi Fried Rice, we’re using a can of Lotte Chicken Luncheon Meat to add a savoury, meaty bite. It definitely makes a world of a difference! Find it along with other imported Korean ingredients at #TheMarketpalce!\n\nServing Time: 15 minutes\nYield: 2-3 servings\n\nIngredients\n\n2 tbsps. gochujang\n1 tbsp. soy sauce\n1 tbsp. sugar\n1 tbsp. sesame oil\n2 tbsps. oil\n1 can Lotte Chicken Luncheon Meat, ½ inch diced\n2 tbsps. garlic\n¾ cup kimchi, chopped\n3 cups rice, cooked\n½ cup scallions, chopped\n1 tbsp. sesame seeds\n\nProcedure\n\n1. In a small bowl, combine gochujang, soy sauce sugar and sesame oil. Mix well and set aside.\n2. Set a pan over medium heat, then add oil and fry Lotte Chicken Luncheon Meat until golden brown. Set aside while retaining oil in the pan.\n3. Using the same pan, sauté garlic until soft then add kimchi and gochujang mixture. \n4. Add in rice and mix until rice is fully coated. Add half of the cooked luncheon meat.\n5. Transfer to a serving bowl and top with the remaining luncheon meat. Garnish with scallions and sesame seeds.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Kimchi-bokkeum-bap, or more popularly known as Kimchi Fried Rice, is a popular dish in South Korea that’s made with kimchi and a variety of ingredients (usually leftover rice, meat, and vegetables). A popular ingredient to this dish is luncheon meat, and in our recipe for Kimchi Fried Rice, we’re using a can of Lotte Chicken Luncheon Meat to add a savoury, meaty bite. It definitely makes a world of a difference! Find it along with other imported Korean ingredients at #TheMarketpalce!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Lotte"
     ],
@@ -138,8 +138,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "15 minutes",
       "yield": "2-3 servings",
       "tips": "Serve with fried egg.",
-      "ingredients": "Ingredients\n2 tbsps. gochujang\n1 tbsp. soy sauce\n1 tbsp. sugar\n1 tbsp. sesame oil\n2 tbsps. oil\n1 can Lotte Chicken Luncheon Meat, ½ inch diced\n2 tbsps. garlic\n¾ cup kimchi, chopped\n3 cups rice, cooked\n½ cup scallions, chopped\n1 tbsp. sesame seeds",
-      "procedure": "Procedure\nIn a small bowl, combine gochujang, soy sauce sugar and sesame oil. Mix well and set aside.\nSet a pan over medium heat, then add oil and fry Lotte Chicken Luncheon Meat until golden brown. Set aside while retaining oil in the pan.\nUsing the same pan, sauté garlic until soft then add kimchi and gochujang mixture. \nAdd in rice and mix until rice is fully coated. Add half of the cooked luncheon meat.\nTransfer to a serving bowl and top with the remaining luncheon meat. Garnish with scallions and sesame seeds."
+      "ingredients": "2 tbsps. gochujang\n1 tbsp. soy sauce\n1 tbsp. sugar\n1 tbsp. sesame oil\n2 tbsps. oil\n1 can Lotte Chicken Luncheon Meat, ½ inch diced\n2 tbsps. garlic\n¾ cup kimchi, chopped\n3 cups rice, cooked\n½ cup scallions, chopped\n1 tbsp. sesame seeds",
+      "procedure": "In a small bowl, combine gochujang, soy sauce sugar and sesame oil. Mix well and set aside.\nSet a pan over medium heat, then add oil and fry Lotte Chicken Luncheon Meat until golden brown. Set aside while retaining oil in the pan.\nUsing the same pan, sauté garlic until soft then add kimchi and gochujang mixture. \nAdd in rice and mix until rice is fully coated. Add half of the cooked luncheon meat.\nTransfer to a serving bowl and top with the remaining luncheon meat. Garnish with scallions and sesame seeds."
     },
     "photo": {
       "filename": "IG6.jpg",
@@ -155,7 +155,7 @@ const NOVEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "November IG",
-    "caption": "We all know Kewpie as the popular Japanese mayonnaise brand, but did you know that they also have salad dressings and versatile sauces to boot?\n\nIn this recipe for Reuben Sandwich with Thousand Island Dressing, juicy and meaty corned beef gets a creamy contrast with this popular, tangy, and sweet, light-orange dressing, crafted with a Japanese twist. Serve with some shredded cabbage and on multigrain bread to balance it all out! Explore our range of Kewpie products at #TheMarketplace!\n\nServing Time: 8 minutes\nYield: 1 serving\n\nIngredients\n\n2 slices multigrain bread \n4 slices corned beef \n3 tbsps. cabbage, shredded\n3 tbsps. Kewpie Thousand Island Dressing\n\nProcedure\n\n1. Toast bread until golden brown. \n2. Top one slice of bread with corned beef, then cabbage and finally, Kewpie Thousand Island Dressing. Close with another slice of bread. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "We all know Kewpie as the popular Japanese mayonnaise brand, but did you know that they also have salad dressings and versatile sauces to boot?\n\nIn this recipe for Reuben Sandwich with Thousand Island Dressing, juicy and meaty corned beef gets a creamy contrast with this popular, tangy, and sweet, light-orange dressing, crafted with a Japanese twist. Serve with some shredded cabbage and on multigrain bread to balance it all out! Explore our range of Kewpie products at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Kewpie"
     ],
@@ -163,8 +163,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "8 minutes",
       "yield": "1 serving",
       "tips": "",
-      "ingredients": "Ingredients\n2 slices multigrain bread \n4 slices corned beef \n3 tbsps. cabbage, shredded\n3 tbsps. Kewpie Thousand Island Dressing",
-      "procedure": "Procedure\nToast bread until golden brown. \nTop one slice of bread with corned beef, then cabbage and finally, Kewpie Thousand Island Dressing. Close with another slice of bread."
+      "ingredients": "2 slices multigrain bread \n4 slices corned beef \n3 tbsps. cabbage, shredded\n3 tbsps. Kewpie Thousand Island Dressing",
+      "procedure": "Toast bread until golden brown. \nTop one slice of bread with corned beef, then cabbage and finally, Kewpie Thousand Island Dressing. Close with another slice of bread."
     },
     "photo": {
       "filename": "IG7.jpg",
@@ -180,7 +180,7 @@ const NOVEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "November IG",
-    "caption": "A dainty and delicate dessert that’s versatile and light, this recipe for Chocolate-filled Crepes makes use of Caotina Swiss Chocolate Spread and a fruity combination of bananas and strawberries to add some sweetness and tang. Find Caotina chocolate spreads, along with other delicious jams and fillings, at #TheMarketplace! \n\nServing Time: 15 minutes\nYield: 2 servings\n\nIngredients\n\n½ cup all-purpose flour \n1 egg \n¼ cup milk\n¼ cup water \n⅛ tsp. salt \n1 tbsp. butter, melted plus more for frying\n½ cup Caotina Swiss Chocolate Spread \n1 banana, sliced \n6 strawberries, sliced\n\nProcedure\n\n1. Whisk together flour, egg, milk, water, salt and butter.\n2. Grease a non-stick frying with some butter. Heat up over medium heat, then add ¼ cup of the crepe batter and immediately swirl. Once it starts to bubble, flip and let cook for another 45 seconds. Repeat for remaining batter. \n3. Spread ¼ cup of Caotina Swiss Chocolate Spread on each crepe, then top with ½ of the bananas and ½ of the strawberries. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "A dainty and delicate dessert that’s versatile and light, this recipe for Chocolate-filled Crepes makes use of Caotina Swiss Chocolate Spread and a fruity combination of bananas and strawberries to add some sweetness and tang. Find Caotina chocolate spreads, along with other delicious jams and fillings, at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Caotina"
     ],
@@ -188,8 +188,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "15 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n½ cup all-purpose flour \n1 egg \n¼ cup milk\n¼ cup water \n⅛ tsp. salt \n1 tbsp. butter, melted plus more for frying\n½ cup Caotina Swiss Chocolate Spread \n1 banana, sliced \n6 strawberries, sliced",
-      "procedure": "Procedure\nWhisk together flour, egg, milk, water, salt and butter.\nGrease a non-stick frying with some butter. Heat up over medium heat, then add ¼ cup of the crepe batter and immediately swirl. Once it starts to bubble, flip and let cook for another 45 seconds. Repeat for remaining batter. \nSpread ¼ cup of Caotina Swiss Chocolate Spread on each crepe, then top with ½ of the bananas and ½ of the strawberries."
+      "ingredients": "½ cup all-purpose flour \n1 egg \n¼ cup milk\n¼ cup water \n⅛ tsp. salt \n1 tbsp. butter, melted plus more for frying\n½ cup Caotina Swiss Chocolate Spread \n1 banana, sliced \n6 strawberries, sliced",
+      "procedure": "Whisk together flour, egg, milk, water, salt and butter.\nGrease a non-stick frying with some butter. Heat up over medium heat, then add ¼ cup of the crepe batter and immediately swirl. Once it starts to bubble, flip and let cook for another 45 seconds. Repeat for remaining batter. \nSpread ¼ cup of Caotina Swiss Chocolate Spread on each crepe, then top with ½ of the bananas and ½ of the strawberries."
     },
     "photo": {
       "filename": "IG8.jpg",
@@ -205,7 +205,7 @@ const NOVEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "November IG",
-    "caption": "Here’s a snack that you won’t be able to resist!\n\nThis Cheesy Spinach Dip comes with Crisp Whole Wheat Finger Sticks to make dipping more delicious! Using Gold Series Whole Wheat Loaf, tuck into this hot dip that’s oozing with cheesy goodness and some spinach for texture and color. Get all the ingredients you need for this recipe fresh from #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 3-4 servings\n\nIngredients\n\n4 slices Gold Series Whole Wheat Loaf \n2 tbsps. butter, softened \n¼ cup cream cheese \n227g frozen spinach, chopped\n½ cup cooking cream \n¼ cup cheddar cheese, grated \n¼ cup mozzarella cheese, grated plus more for topping\nSalt and pepper to taste \n\nProcedure\n\n1. Spread butter on each side of the bread slices. Slice each into 4 sticks. Toast until crisp. \n2. In a non-stick pan over medium heat, melt cream cheese. Mix in spinach, cream, cheddar cheese and mozzarella cheese. Cook over low fire until cheeses are fully melted. \n3. Transfer to an ovenproof dish, then sprinkle with additional mozzarella cheese. Broil until cheese is melted and lightly browned. \n4. Serve dip with crisp Gold Series Whole Wheat Loaf fingers. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Here’s a snack that you won’t be able to resist!\n\nThis Cheesy Spinach Dip comes with Crisp Whole Wheat Finger Sticks to make dipping more delicious! Using Gold Series Whole Wheat Loaf, tuck into this hot dip that’s oozing with cheesy goodness and some spinach for texture and color. Get all the ingredients you need for this recipe fresh from #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "! Generic"
     ],
@@ -213,8 +213,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "15 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n4 slices Gold Series Whole Wheat Loaf \n2 tbsps. butter, softened \n¼ cup cream cheese \n227g frozen spinach, chopped\n½ cup cooking cream \n¼ cup cheddar cheese, grated \n¼ cup mozzarella cheese, grated plus more for topping\nSalt and pepper to taste",
-      "procedure": "Procedure\nSpread butter on each side of the bread slices. Slice each into 4 sticks. Toast until crisp. \nIn a non-stick pan over medium heat, melt cream cheese. Mix in spinach, cream, cheddar cheese and mozzarella cheese. Cook over low fire until cheeses are fully melted. \nTransfer to an ovenproof dish, then sprinkle with additional mozzarella cheese. Broil until cheese is melted and lightly browned. \nServe dip with crisp Gold Series Whole Wheat Loaf fingers."
+      "ingredients": "4 slices Gold Series Whole Wheat Loaf \n2 tbsps. butter, softened \n¼ cup cream cheese \n227g frozen spinach, chopped\n½ cup cooking cream \n¼ cup cheddar cheese, grated \n¼ cup mozzarella cheese, grated plus more for topping\nSalt and pepper to taste",
+      "procedure": "Spread butter on each side of the bread slices. Slice each into 4 sticks. Toast until crisp. \nIn a non-stick pan over medium heat, melt cream cheese. Mix in spinach, cream, cheddar cheese and mozzarella cheese. Cook over low fire until cheeses are fully melted. \nTransfer to an ovenproof dish, then sprinkle with additional mozzarella cheese. Broil until cheese is melted and lightly browned. \nServe dip with crisp Gold Series Whole Wheat Loaf fingers."
     },
     "photo": {
       "filename": "IG9.jpg",
@@ -249,7 +249,7 @@ const NOVEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "November IG",
-    "caption": "These tiny Keto Pancake Cereals made with a blend of almond and coconut flours and sweetened by Naturals Monk Fruit Sweetener are the perfect breakfast to have if you’re craving pancakes but want to keep it light. Have them with milk, with butter and maple syrup, or treat them as blinis and top with your favorite preserved fruits and jams. #TheMarketplace is always stocked with healthier alternatives to suit your dietary needs, so shop now!\n\nServing Time: 20 minutes\nYield: 1-2 servings\n\nIngredients\n\n½ cup almond flour \n½ cup coconut flour\n2 tsps. baking powder \n1 tbsp. Naturals Monk Fruit Sweetener \n3 eggs\n⅓ cup milk, unsweetened\n3 tbsps. butter\n\nProcedure\n\n1. In a bowl, whisk together almond flour, coconut flour, baking powder and Naturals Monk Fruit Sweetener. In a separate bowl, whisk together eggs and milk. \n2. Mix dry ingredients and wet ingredients until just combined. \n3. Set a non-stick pan over medium heat. Melt some butter just enough to lightly grease the pan, then place 1 tbsp. dollops of the pancake batter around the pan. \n4. Once you see bubbles, flip, and cook for another 15 seconds. Repeat for remaining batter. \n5. Optional: Serve with butter cubes and maple syrup. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "These tiny Keto Pancake Cereals made with a blend of almond and coconut flours and sweetened by Naturals Monk Fruit Sweetener are the perfect breakfast to have if you’re craving pancakes but want to keep it light. Have them with milk, with butter and maple syrup, or treat them as blinis and top with your favorite preserved fruits and jams. #TheMarketplace is always stocked with healthier alternatives to suit your dietary needs, so shop now!\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Naturals"
     ],
@@ -257,8 +257,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "20 minutes",
       "yield": "1-2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n½ cup almond flour \n½ cup coconut flour\n2 tsps. baking powder \n1 tbsp. Naturals Monk Fruit Sweetener \n3 eggs\n⅓ cup milk, unsweetened\n3 tbsps. butter",
-      "procedure": "Procedure\nIn a bowl, whisk together almond flour, coconut flour, baking powder and Naturals Monk Fruit Sweetener. In a separate bowl, whisk together eggs and milk. \nMix dry ingredients and wet ingredients until just combined. \nSet a non-stick pan over medium heat. Melt some butter just enough to lightly grease the pan, then place 1 tbsp. dollops of the pancake batter around the pan. \nOnce you see bubbles, flip, and cook for another 15 seconds. Repeat for remaining batter. \nOptional: Serve with butter cubes and maple syrup."
+      "ingredients": "½ cup almond flour \n½ cup coconut flour\n2 tsps. baking powder \n1 tbsp. Naturals Monk Fruit Sweetener \n3 eggs\n⅓ cup milk, unsweetened\n3 tbsps. butter",
+      "procedure": "In a bowl, whisk together almond flour, coconut flour, baking powder and Naturals Monk Fruit Sweetener. In a separate bowl, whisk together eggs and milk. \nMix dry ingredients and wet ingredients until just combined. \nSet a non-stick pan over medium heat. Melt some butter just enough to lightly grease the pan, then place 1 tbsp. dollops of the pancake batter around the pan. \nOnce you see bubbles, flip, and cook for another 15 seconds. Repeat for remaining batter. \nOptional: Serve with butter cubes and maple syrup."
     },
     "photo": {
       "filename": "IG11.jpg",
@@ -312,7 +312,7 @@ const NOVEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "November IG",
-    "caption": "Give your spring rolls a deliciously tangy and meaty twist with these Lechon Paksiw Spring Rolls made with Purefoods Lechon Paksiw. There’s no need to worry because all you have to do is pop the lechon paksiw in your microwave, form it into a paste with some cornstarch, roll in lumpia wrappers, and deep-fry to a crisp. Don’t forget the spiced vinegar and garlic rice! Find Purefoods microwavable dishes, along with other instant and ready-to-eat meals, at #TheMarketplace!\n\nServing Time: 20-30 minutes\nYield: 2-3 servings\nOptional: Serve with spiced vinegar and garlic rice.\n\nIngredients\n\n1 tsp. cornstarch\n2 tbsps. water\n1 pack Purefoods Lechon Paksiw\n⅛ cup spring onions, chopped\n6 lumpia wrappers\n2 cups oil\n\nProcedure\n\n1. Mix cornstarch and water together, then microwave for 30 seconds until it forms into a paste. Let cool.\n2. Reheat Purefoods Lechon Paksiw and shred the meat. Add spring onions and mix.\n3. Fill each lumpia wrapper with shredded lechon paksiw. Brush the sides with cornstarch paste and roll.\n4. Preheat oil and deep fry lechon paksiw spring rolls until golden brown all around .\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Give your spring rolls a deliciously tangy and meaty twist with these Lechon Paksiw Spring Rolls made with Purefoods Lechon Paksiw. There’s no need to worry because all you have to do is pop the lechon paksiw in your microwave, form it into a paste with some cornstarch, roll in lumpia wrappers, and deep-fry to a crisp. Don’t forget the spiced vinegar and garlic rice! Find Purefoods microwavable dishes, along with other instant and ready-to-eat meals, at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Purefoods"
     ],
@@ -320,8 +320,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "20-30 minutes",
       "yield": "2-3 servings",
       "tips": "Serve with spiced vinegar and garlic rice.",
-      "ingredients": "Ingredients\n1 tsp. cornstarch\n2 tbsps. water\n1 pack Purefoods Lechon Paksiw\n⅛ cup spring onions, chopped\n6 lumpia wrappers\n2 cups oil",
-      "procedure": "Procedure\nMix cornstarch and water together, then microwave for 30 seconds until it forms into a paste. Let cool.\nReheat Purefoods Lechon Paksiw and shred the meat. Add spring onions and mix.\nFill each lumpia wrapper with shredded lechon paksiw. Brush the sides with cornstarch paste and roll.\nPreheat oil and deep fry lechon paksiw spring rolls until golden brown all around ."
+      "ingredients": "1 tsp. cornstarch\n2 tbsps. water\n1 pack Purefoods Lechon Paksiw\n⅛ cup spring onions, chopped\n6 lumpia wrappers\n2 cups oil",
+      "procedure": "Mix cornstarch and water together, then microwave for 30 seconds until it forms into a paste. Let cool.\nReheat Purefoods Lechon Paksiw and shred the meat. Add spring onions and mix.\nFill each lumpia wrapper with shredded lechon paksiw. Brush the sides with cornstarch paste and roll.\nPreheat oil and deep fry lechon paksiw spring rolls until golden brown all around ."
     },
     "photo": {
       "filename": "FB3.jpg",
@@ -337,7 +337,7 @@ const NOVEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "November IG",
-    "caption": "This meat-free recipe for Crunchy Sisig Tacos tastes just like the real thing, you won’t even look for the pork. Made with The Good Meat’s meat-free sisig, simply heat on a pan and stuff into crispy taco shells. Don’t forget to add tomatoes, lettuce, and cheddar cheese for a true taco experience. Find The Good Meat products, along with other meat alternatives, at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 4 servings\n\nIngredients\n\n2 packs The Good Meat Sisig\n8 taco shells\n3 cups lettuce, shredded\n1 ½ cup tomatoes, diced\n1 cup cheddar cheese, grated\n\nProcedure\n\n1. Set a pan over medium heat, then add The Good Meat Sisig. Cook until liquid is reduced and sisig is nicely browned.\n2. To assemble, fill taco shells with shredded lettuce, then add cooked sisig. Top with tomatoes and cheddar cheese.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "This meat-free recipe for Crunchy Sisig Tacos tastes just like the real thing, you won’t even look for the pork. Made with The Good Meat’s meat-free sisig, simply heat on a pan and stuff into crispy taco shells. Don’t forget to add tomatoes, lettuce, and cheddar cheese for a true taco experience. Find The Good Meat products, along with other meat alternatives, at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "! Generic"
     ],
@@ -345,8 +345,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "15 minutes",
       "yield": "4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 packs The Good Meat Sisig\n8 taco shells\n3 cups lettuce, shredded\n1 ½ cup tomatoes, diced\n1 cup cheddar cheese, grated",
-      "procedure": "Procedure\nSet a pan over medium heat, then add The Good Meat Sisig. Cook until liquid is reduced and sisig is nicely browned.\nTo assemble, fill taco shells with shredded lettuce, then add cooked sisig. Top with tomatoes and cheddar cheese."
+      "ingredients": "2 packs The Good Meat Sisig\n8 taco shells\n3 cups lettuce, shredded\n1 ½ cup tomatoes, diced\n1 cup cheddar cheese, grated",
+      "procedure": "Set a pan over medium heat, then add The Good Meat Sisig. Cook until liquid is reduced and sisig is nicely browned.\nTo assemble, fill taco shells with shredded lettuce, then add cooked sisig. Top with tomatoes and cheddar cheese."
     },
     "photo": {
       "filename": "FB4.jpg",
@@ -381,7 +381,7 @@ const NOVEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "November IG",
-    "caption": "A favorite protein to go with bagels, smoked salmon can be quite pricey, so if you’re in a bit of a budget pinch, try making them instead using Bay of Gold Salmon in Olive Oil with Dill. Simply layer your halved bagel with cream cheese, red onions, capers, and fresh dill, and then add this delicious canned salmon for a tasty and light snack. Find all the ingredients you need for these Smoked Salmon Bagels at #TheMarketplace!\n\nServing Time: 10 minutes\nYield: 4 servings\n\nIngredients\n\n2 cans Bay of Gold Salmon in Olive Oil with Dill\n4 bagels\n4 oz. cream cheese\n½ cup onions, sliced\n¼ cup capers\n⅛ cup dill\n1 lemon, sliced in wedges\n\nProcedure\n\n1. Drain Bay of Gold Salmon.\n2. Cut each bagel in half. Spread cream cheese and top with smoked salmon, onions and capers.\n3. Garnish with dill and serve with lemon wedges.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "A favorite protein to go with bagels, smoked salmon can be quite pricey, so if you’re in a bit of a budget pinch, try making them instead using Bay of Gold Salmon in Olive Oil with Dill. Simply layer your halved bagel with cream cheese, red onions, capers, and fresh dill, and then add this delicious canned salmon for a tasty and light snack. Find all the ingredients you need for these Smoked Salmon Bagels at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Bay of Gold"
     ],
@@ -389,8 +389,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "10 minutes",
       "yield": "4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 cans Bay of Gold Salmon in Olive Oil with Dill\n4 bagels\n4 oz. cream cheese\n½ cup onions, sliced\n¼ cup capers\n⅛ cup dill\n1 lemon, sliced in wedges",
-      "procedure": "Procedure\nDrain Bay of Gold Salmon.\nCut each bagel in half. Spread cream cheese and top with smoked salmon, onions and capers.\nGarnish with dill and serve with lemon wedges."
+      "ingredients": "2 cans Bay of Gold Salmon in Olive Oil with Dill\n4 bagels\n4 oz. cream cheese\n½ cup onions, sliced\n¼ cup capers\n⅛ cup dill\n1 lemon, sliced in wedges",
+      "procedure": "Drain Bay of Gold Salmon.\nCut each bagel in half. Spread cream cheese and top with smoked salmon, onions and capers.\nGarnish with dill and serve with lemon wedges."
     },
     "photo": {
       "filename": "FB6.jpg",
@@ -444,7 +444,7 @@ const NOVEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "November IG",
-    "caption": "Missing Europe? Here’s a dish that will instantly whisk you away to the seaside.\n\nThis Mediterranean Sea Bass recipe, made with Cold Storage Chilean Sea Bass, is cooked with aromatics such as tomatoes, garlic, capers, olives, and basil. Top it off with some crumbled Feta cheese for an authentic Mediterranean experience. Serve with your choice of side salad and enjoy a healthy and wholesome dinner. Find the freshest seafood and all the other ingredients you need for this recipe at #TheMarketplace! \n\nServing Time: 20 minutes\nYield: 1-2 servings\n\nIngredients\n\n1 pack Cold Storage Chilean Sea Bass \nSalt & pepper to taste \n3 tbsps. olive oil \n1 white onion, chopped\n3 cloves garlic, chopped\n½ tsp. paprika \n1 cup stewed tomatoes \n¼ cup capers \n¼ cup black olives, sliced \n¼ cup basil leaves \n¼ cup Feta cheese, crumbled\n\nProcedure\n\n1. Pat dry Sea Bass. Season with salt and pepper to taste. \n2. In a pan over medium heat, add olive oil. Sear Sea Bass until nicely browned on both sides. Set aside while retaining oil in the pan. \n3. Sauté onion and garlic until soft. Mix in paprika and stewed tomatoes. Let simmer for 5 minutes, then season with salt and pepper. Mix in capers and black olives. Add back Sea Bass and coat with sauce. \n4. Turn off heat, then mix in basil and Feta cheese. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Missing Europe? Here’s a dish that will instantly whisk you away to the seaside.\n\nThis Mediterranean Sea Bass recipe, made with Cold Storage Chilean Sea Bass, is cooked with aromatics such as tomatoes, garlic, capers, olives, and basil. Top it off with some crumbled Feta cheese for an authentic Mediterranean experience. Serve with your choice of side salad and enjoy a healthy and wholesome dinner. Find the freshest seafood and all the other ingredients you need for this recipe at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Cold Storage"
     ],
@@ -452,8 +452,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "20 minutes",
       "yield": "1-2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 pack Cold Storage Chilean Sea Bass \nSalt & pepper to taste \n3 tbsps. olive oil \n1 white onion, chopped\n3 cloves garlic, chopped\n½ tsp. paprika \n1 cup stewed tomatoes \n¼ cup capers \n¼ cup black olives, sliced \n¼ cup basil leaves \n¼ cup Feta cheese, crumbled",
-      "procedure": "Procedure\nPat dry Sea Bass. Season with salt and pepper to taste. \nIn a pan over medium heat, add olive oil. Sear Sea Bass until nicely browned on both sides. Set aside while retaining oil in the pan. \nSauté onion and garlic until soft. Mix in paprika and stewed tomatoes. Let simmer for 5 minutes, then season with salt and pepper. Mix in capers and black olives. Add back Sea Bass and coat with sauce. \nTurn off heat, then mix in basil and Feta cheese."
+      "ingredients": "1 pack Cold Storage Chilean Sea Bass \nSalt & pepper to taste \n3 tbsps. olive oil \n1 white onion, chopped\n3 cloves garlic, chopped\n½ tsp. paprika \n1 cup stewed tomatoes \n¼ cup capers \n¼ cup black olives, sliced \n¼ cup basil leaves \n¼ cup Feta cheese, crumbled",
+      "procedure": "Pat dry Sea Bass. Season with salt and pepper to taste. \nIn a pan over medium heat, add olive oil. Sear Sea Bass until nicely browned on both sides. Set aside while retaining oil in the pan. \nSauté onion and garlic until soft. Mix in paprika and stewed tomatoes. Let simmer for 5 minutes, then season with salt and pepper. Mix in capers and black olives. Add back Sea Bass and coat with sauce. \nTurn off heat, then mix in basil and Feta cheese."
     },
     "photo": {
       "filename": "FB9.jpg",
@@ -469,7 +469,7 @@ const NOVEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "November IG",
-    "caption": "Craving a dessert that’s tangy and sweet? These Cranberry Swirl Cheesecake Bars will surely meet your expectations. With the addition of instant oats for texture and fiber, this easy-to-bake recipe blends the delicious tanginess of cream cheese with sweet cranberries from Ocean Spray’s Jellied Cranberry Sauce. Have it for dessert, or as a snack to go with your afternoon cup of coffee or tea. Find Ocean Spray products, along with other fruit-based items, at #TheMarketplace!\n\nServing Time: 5 hours\nYield: 4-6 servings\n\nIngredients\n\n2 cups instant oats \n½ cup brown sugar \n½ tsp. salt \n½ cup butter, melted\n2 tbsps. milk \n1 bar cream cheese, softened \n1 tbsp. vanilla \n1 cup powdered sugar \n½ cup whipping cream\n2 tsps. gelatin, bloomed in 3 tbsps. Water\n1 can Ocean Spray Jellied Cranberry Sauce \n\nProcedure\n\n1. Preheat oven to 175°C. \n2. In a bowl, combine oats, brown sugar, salt, milk and butter. Press into an 11x8-inch pan. Bake for 10-12 minutes. Let cool. \n3. Beat together cream cheese, vanilla and powdered sugar until smooth. Whisk in whipping cream and bloomed gelatin. \n4. In a saucepan, heat up Ocean Spray Jellied Cranberry Sauce until melted. Let slightly cool. \n5. Add cream cheese mixture on top of the oat crust. Place dollops of cranberry sauce all over, then swirl. \n6. Chill in the refrigerator to set for at least 4 hours. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Craving a dessert that’s tangy and sweet? These Cranberry Swirl Cheesecake Bars will surely meet your expectations. With the addition of instant oats for texture and fiber, this easy-to-bake recipe blends the delicious tanginess of cream cheese with sweet cranberries from Ocean Spray’s Jellied Cranberry Sauce. Have it for dessert, or as a snack to go with your afternoon cup of coffee or tea. Find Ocean Spray products, along with other fruit-based items, at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Ocean Spray"
     ],
@@ -477,8 +477,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "5 hours",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 cups instant oats \n½ cup brown sugar \n½ tsp. salt \n½ cup butter, melted\n2 tbsps. milk \n1 bar cream cheese, softened \n1 tbsp. vanilla \n1 cup powdered sugar \n½ cup whipping cream\n2 tsps. gelatin, bloomed in 3 tbsps. water\n1 can Ocean Spray Jellied Cranberry Sauce",
-      "procedure": "Procedure\nPreheat oven to 175°C. \nIn a bowl, combine oats, brown sugar, salt, milk and butter. Press into an 11x8-inch pan. Bake for 10-12 minutes. Let cool. \nBeat together cream cheese, vanilla and powdered sugar until smooth. Whisk in whipping cream and bloomed gelatin. \nIn a saucepan, heat up Ocean Spray Jellied Cranberry Sauce until melted. Let slightly cool. \nAdd cream cheese mixture on top of the oat crust. Place dollops of cranberry sauce all over, then swirl. \nChill in the refrigerator to set for at least 4 hours."
+      "ingredients": "2 cups instant oats \n½ cup brown sugar \n½ tsp. salt \n½ cup butter, melted\n2 tbsps. milk \n1 bar cream cheese, softened \n1 tbsp. vanilla \n1 cup powdered sugar \n½ cup whipping cream\n2 tsps. gelatin, bloomed in 3 tbsps. water\n1 can Ocean Spray Jellied Cranberry Sauce",
+      "procedure": "Preheat oven to 175°C. \nIn a bowl, combine oats, brown sugar, salt, milk and butter. Press into an 11x8-inch pan. Bake for 10-12 minutes. Let cool. \nBeat together cream cheese, vanilla and powdered sugar until smooth. Whisk in whipping cream and bloomed gelatin. \nIn a saucepan, heat up Ocean Spray Jellied Cranberry Sauce until melted. Let slightly cool. \nAdd cream cheese mixture on top of the oat crust. Place dollops of cranberry sauce all over, then swirl. \nChill in the refrigerator to set for at least 4 hours."
     },
     "photo": {
       "filename": "FB10.jpg",
@@ -494,7 +494,7 @@ const NOVEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "November IG",
-    "caption": "Enjoy your lasagna in this fun, rolled-up form with these Spinach Lasagna Roll-ups. Made with all the good stuff such as spinach, cream cheese, and mozzarella, we used Ragú’s Chunky Sauce in Parmesan & Romano for ease and to add an extra cheesy kick. Find your favorite pasta products and discover more instant pasta sauces and brands at #TheMarketplace!\n\nServing Time: 45 minutes\nYield: 4-5 servings\n\nIngredients\n\n500g lasagna noodles\nSalt and pepper to taste\n24 oz. cream cheese\n½ cup milk\n2 cups frozen spinach, squeezed dry & chopped\n2 tbsps. garlic powder\n680g Ragú Chunky Sauce\n1 ½ cup mozzarella cheese, grated\n⅛ cup flat leaf parsley leaves\n\nProcedure\n\n1. Preheat oven to 350°F.\n2. Cook lasagna noodles in heavily salted water according to package instructions. Drain, then set aside.\n3. In a large bowl, mix together cream cheese, milk, spinach and garlic powder. Season with salt and pepper. \n4. Spread about 3 tablespoons of cream cheese mixture over a piece of lasagna, then roll to secure filling.\n5. Fill the bottom of a baking dish with ⅓ cup of Ragu Chunky Sauce then add lasagna roll-ups.\n6.  Cover the lasagna with the rest of Ragu Sauce and top with mozzarella cheese.\n7. Bake for 15-20 minutes, or until mozzarella is melted and golden.\n8. Garnish with flat leaf parsley.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Enjoy your lasagna in this fun, rolled-up form with these Spinach Lasagna Roll-ups. Made with all the good stuff such as spinach, cream cheese, and mozzarella, we used Ragú’s Chunky Sauce in Parmesan & Romano for ease and to add an extra cheesy kick. Find your favorite pasta products and discover more instant pasta sauces and brands at #TheMarketplace!\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "! Generic"
     ],
@@ -502,8 +502,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "45 minutes",
       "yield": "4-5 servings",
       "tips": "",
-      "ingredients": "Ingredients\n500g lasagna noodles\nSalt and pepper to taste\n24 oz. cream cheese\n½ cup milk\n2 cups frozen spinach, squeezed dry & chopped\n2 tbsps. garlic powder\n680g Ragú Chunky Sauce\n1 ½ cup mozzarella cheese, grated\n⅛ cup flat leaf parsley leaves",
-      "procedure": "Procedure\nPreheat oven to 350°F.\nCook lasagna noodles in heavily salted water according to package instructions. Drain, then set aside.\nIn a large bowl, mix together cream cheese, milk, spinach and garlic powder. Season with salt and pepper. \nSpread about 3 tablespoons of cream cheese mixture over a piece of lasagna, then roll to secure filling.\nFill the bottom of a baking dish with ⅓ cup of Ragu Chunky Sauce then add lasagna roll-ups.\n Cover the lasagna with the rest of Ragu Sauce and top with mozzarella cheese.\nBake for 15-20 minutes, or until mozzarella is melted and golden.\nGarnish with flat leaf parsley."
+      "ingredients": "500g lasagna noodles\nSalt and pepper to taste\n24 oz. cream cheese\n½ cup milk\n2 cups frozen spinach, squeezed dry & chopped\n2 tbsps. garlic powder\n680g Ragú Chunky Sauce\n1 ½ cup mozzarella cheese, grated\n⅛ cup flat leaf parsley leaves",
+      "procedure": "Preheat oven to 350°F.\nCook lasagna noodles in heavily salted water according to package instructions. Drain, then set aside.\nIn a large bowl, mix together cream cheese, milk, spinach and garlic powder. Season with salt and pepper. \nSpread about 3 tablespoons of cream cheese mixture over a piece of lasagna, then roll to secure filling.\nFill the bottom of a baking dish with ⅓ cup of Ragu Chunky Sauce then add lasagna roll-ups.\n Cover the lasagna with the rest of Ragu Sauce and top with mozzarella cheese.\nBake for 15-20 minutes, or until mozzarella is melted and golden.\nGarnish with flat leaf parsley."
     },
     "photo": {
       "filename": "FB11.jpg",
@@ -519,7 +519,7 @@ const NOVEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "November IG",
-    "caption": "In the mood for a light salad? Look no further because this Apple Walnut Salad with Waitrose Low Fat Vinaigrette fits the bill. Easy to prepare and serves two to three, have this alongside your favorite sandwich for a full meal, or on its own for a healthy snack. Get all the ingredients you need fresh, and explore our range of salad dressings and condiments, at #TheMarketpalce!\n\nServing Time: 5 minutes\nYield: 2-3 servings\n\nIngredients\n\n1 cup green apples, sliced\n1 cup red apples, sliced\n¼ cup lemon juice \n350g mixed greens\n1 cup roasted walnuts, chopped\n¾ cup Waitrose Low Fat Vinaigrette\n\nProcedure\n\n1. In a bowl, coat green and red apples with lemon juice to prevent from oxidizing.\n2. Arrange mixed greens in a salad serving bowl, then top with green apples, red apples and roasted walnuts.\n3. Serve alongside Waitrose Low Fat Vinaigrette.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "In the mood for a light salad? Look no further because this Apple Walnut Salad with Waitrose Low Fat Vinaigrette fits the bill. Easy to prepare and serves two to three, have this alongside your favorite sandwich for a full meal, or on its own for a healthy snack. Get all the ingredients you need fresh, and explore our range of salad dressings and condiments, at #TheMarketpalce!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Waitrose"
     ],
@@ -527,8 +527,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "5 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup green apples, sliced\n1 cup red apples, sliced\n¼ cup lemon juice \n350g mixed greens\n1 cup roasted walnuts, chopped\n¾ cup Waitrose Low Fat Vinaigrette",
-      "procedure": "Procedure\nIn a bowl, coat green and red apples with lemon juice to prevent from oxidizing.\nArrange mixed greens in a salad serving bowl, then top with green apples, red apples and roasted walnuts.\nServe alongside Waitrose Low Fat Vinaigrette."
+      "ingredients": "1 cup green apples, sliced\n1 cup red apples, sliced\n¼ cup lemon juice \n350g mixed greens\n1 cup roasted walnuts, chopped\n¾ cup Waitrose Low Fat Vinaigrette",
+      "procedure": "In a bowl, coat green and red apples with lemon juice to prevent from oxidizing.\nArrange mixed greens in a salad serving bowl, then top with green apples, red apples and roasted walnuts.\nServe alongside Waitrose Low Fat Vinaigrette."
     },
     "photo": {
       "filename": "FB12.jpg",
@@ -544,7 +544,7 @@ const NOVEMBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "November IG",
-    "caption": "Simple and satisfying, these Caprese Pesto Bruschetta are perfect as appetizers or as a tasty and classy snack for your movie marathons. Made with sliced baguette and flavoured with Casino’s Pesto a la Genovese, the addition of sliced cherry tomatoes, creamy mozzarella, and nutty basil leaves provide that classic Italian caprese touch. Get all the ingredients you need for this recipe at #TheMarketplace!\n\nServing Time: 12 minutes\nYield: 3-5 servings\n\nIngredients\n\n1 baguette, sliced \n3 tbsps. olive oil \n2 cloves garlic, peeled \n1 bottle Casino Pesto a la Genovese\n1 cup cherry tomatoes, sliced \n1 cup fresh mozzarella, torn \n½ cup fresh basil leaves \n\nProcedure\n\n1. Drizzle baguette slices with olive oil, then toast until nicely browned. While still hot, rub garlic on the surface of the bread. \n2. Spread Casino Pesto a la Genovese all over bread slices, then arrange cherry tomatoes, mozzarella and basil on top. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Simple and satisfying, these Caprese Pesto Bruschetta are perfect as appetizers or as a tasty and classy snack for your movie marathons. Made with sliced baguette and flavoured with Casino’s Pesto a la Genovese, the addition of sliced cherry tomatoes, creamy mozzarella, and nutty basil leaves provide that classic Italian caprese touch. Get all the ingredients you need for this recipe at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Casino"
     ],
@@ -552,8 +552,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "12 minutes",
       "yield": "3-5 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 baguette, sliced \n3 tbsps. olive oil \n2 cloves garlic, peeled \n1 bottle Casino Pesto a la Genovese\n1 cup cherry tomatoes, sliced \n1 cup fresh mozzarella, torn \n½ cup fresh basil leaves",
-      "procedure": "Procedure\nDrizzle baguette slices with olive oil, then toast until nicely browned. While still hot, rub garlic on the surface of the bread. \nSpread Casino Pesto a la Genovese all over bread slices, then arrange cherry tomatoes, mozzarella and basil on top."
+      "ingredients": "1 baguette, sliced \n3 tbsps. olive oil \n2 cloves garlic, peeled \n1 bottle Casino Pesto a la Genovese\n1 cup cherry tomatoes, sliced \n1 cup fresh mozzarella, torn \n½ cup fresh basil leaves",
+      "procedure": "Drizzle baguette slices with olive oil, then toast until nicely browned. While still hot, rub garlic on the surface of the bread. \nSpread Casino Pesto a la Genovese all over bread slices, then arrange cherry tomatoes, mozzarella and basil on top."
     },
     "photo": {
       "filename": "FB13.jpg",

@@ -19,8 +19,8 @@ const MAY_IG_DATA = [
       "servingTime": "10 minutes",
       "yield": "1 serving",
       "tips": "Add your preferred sweetener if needed.",
-      "ingredients": "Ingredients\n2 tbsps. UCC Sumiyaki Blend\n⅓ cup hot water\n3 tbsps. purple yam jam\n1 ⅛ cup milk \n1 cup ice",
-      "procedure": "Procedure\nDissolve UCC Sumiyaki Blend in hot water. Set aside.\nIn a small bowl, combine the purple yam jam and ⅛ cup milk. Heat it up in the microwave until warmed through, then stir well to ensure there are no lumps.\nFill the bottom of your serving glass with prepared purple yam. Top with ice, then pour over remaining milk.\nSlowly pour over prepared UCC Sumiyaki Blend."
+      "ingredients": "2 tbsps. UCC Sumiyaki Blend\n⅓ cup hot water\n3 tbsps. purple yam jam\n1 ⅛ cup milk \n1 cup ice",
+      "procedure": "Dissolve UCC Sumiyaki Blend in hot water. Set aside.\nIn a small bowl, combine the purple yam jam and ⅛ cup milk. Heat it up in the microwave until warmed through, then stir well to ensure there are no lumps.\nFill the bottom of your serving glass with prepared purple yam. Top with ice, then pour over remaining milk.\nSlowly pour over prepared UCC Sumiyaki Blend."
     },
     "photo": {
       "filename": "IG1.jpg",
@@ -44,8 +44,8 @@ const MAY_IG_DATA = [
       "servingTime": "7 minutes",
       "yield": "1 serving",
       "tips": "",
-      "ingredients": "Ingredients\n¼ cup chocolate fudge syrup\n2 tbsps. peanuts, chopped\n1 stick UCC The Blend Brazil\n½ cup warm water\n1 cup ice\n½ cup tonic water\n¾ cup vanilla soft serve",
-      "procedure": "Procedure\nDip the rim of a glass in chocolate syrup, then coat with chopped peanuts.\nDissolve UCC The Blend Brazil in warm water.\nFill the rimmed glass with ice. Pour over prepared coffee. Slowly top with with tonic water.\nAdd a generous serving of vanilla soft serve.\nDrizzle with more chocolate syrup and serve immediately."
+      "ingredients": "¼ cup chocolate fudge syrup\n2 tbsps. peanuts, chopped\n1 stick UCC The Blend Brazil\n½ cup warm water\n1 cup ice\n½ cup tonic water\n¾ cup vanilla soft serve",
+      "procedure": "Dip the rim of a glass in chocolate syrup, then coat with chopped peanuts.\nDissolve UCC The Blend Brazil in warm water.\nFill the rimmed glass with ice. Pour over prepared coffee. Slowly top with with tonic water.\nAdd a generous serving of vanilla soft serve.\nDrizzle with more chocolate syrup and serve immediately."
     },
     "photo": {
       "filename": "IG2.jpg",
@@ -69,8 +69,8 @@ const MAY_IG_DATA = [
       "servingTime": "4 hours and 5 minutes",
       "yield": "8 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 cups Ceres Cranberry Fruit Juice\n1 cup lemon lime soda\n1 cup frozen cranberries\n1 cup kiwi, sliced",
-      "procedure": "Procedure\nCombine Ceres Cranberry Fruit Juice and lemon lime soda in a pitcher, then set aside.\nFill each popsicle mold with frozen cranberries and slices of kiwi. Pour the cranberry soda mixture until almost full.\nInsert the popsicle sticks into the popsicle mold. Freeze for at least 4 hours, or ideally overnight.\nOnce frozen, gently remove each popsicle from the mold and serve immediately."
+      "ingredients": "2 cups Ceres Cranberry Fruit Juice\n1 cup lemon lime soda\n1 cup frozen cranberries\n1 cup kiwi, sliced",
+      "procedure": "Combine Ceres Cranberry Fruit Juice and lemon lime soda in a pitcher, then set aside.\nFill each popsicle mold with frozen cranberries and slices of kiwi. Pour the cranberry soda mixture until almost full.\nInsert the popsicle sticks into the popsicle mold. Freeze for at least 4 hours, or ideally overnight.\nOnce frozen, gently remove each popsicle from the mold and serve immediately."
     },
     "photo": {
       "filename": "IG3.jpg",
@@ -94,8 +94,8 @@ const MAY_IG_DATA = [
       "servingTime": "30-35 Minutes",
       "yield": "3-4 servings",
       "tips": "The longer you simmer the sauce, the richer the flavor will be.",
-      "ingredients": "Ingredients\n1 tbsp. olive oil\n2 cloves garlic, minced\n1 tsp. dried basil\n½ tsp. dried oregano\n¼ tsp. red pepper flakes \n2 tbsps. tomato paste\n2 cups crushed tomatoes\nSalt and pepper to taste\n1 cup Emborg Shredded Mozzarella Cheese\n⅓ cup pepperoni\n⅛ cup fresh basil",
-      "procedure": "Procedure\nPreheat oven to 175°C.\nHeat the olive oil in a saucepan over medium heat. Add the garlic, and cook for 1-2 minutes, or until fragrant and softened.\nAdd the dried basil, dried oregano, pepper, red pepper flakes, and tomato paste. Cook until the tomato paste darkens, then add in crushed tomatoes. \nBring the sauce to a simmer, and season with salt and pepper. Reduce heat to low, and let simmer for at least 5 minutes, or 15 minutes for a thicker sauce.\nTransfer to an oven safe dish, top with Emborg Shredded Mozzarella Cheese and pepperoni. Bake for 10-12 minutes.\nRemove from the oven, and garnish with fresh basil. Serve alongside preferred toasted bread."
+      "ingredients": "1 tbsp. olive oil\n2 cloves garlic, minced\n1 tsp. dried basil\n½ tsp. dried oregano\n¼ tsp. red pepper flakes \n2 tbsps. tomato paste\n2 cups crushed tomatoes\nSalt and pepper to taste\n1 cup Emborg Shredded Mozzarella Cheese\n⅓ cup pepperoni\n⅛ cup fresh basil",
+      "procedure": "Preheat oven to 175°C.\nHeat the olive oil in a saucepan over medium heat. Add the garlic, and cook for 1-2 minutes, or until fragrant and softened.\nAdd the dried basil, dried oregano, pepper, red pepper flakes, and tomato paste. Cook until the tomato paste darkens, then add in crushed tomatoes. \nBring the sauce to a simmer, and season with salt and pepper. Reduce heat to low, and let simmer for at least 5 minutes, or 15 minutes for a thicker sauce.\nTransfer to an oven safe dish, top with Emborg Shredded Mozzarella Cheese and pepperoni. Bake for 10-12 minutes.\nRemove from the oven, and garnish with fresh basil. Serve alongside preferred toasted bread."
     },
     "photo": {
       "filename": "IG4.jpg",
@@ -119,8 +119,8 @@ const MAY_IG_DATA = [
       "servingTime": "30 minutes",
       "yield": "6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n4 cups Monde Cheese Bar, cubed\n4 large eggs\n2 cups milk \n¾ cup granulated sugar\n½ tsp. ground cinnamon\n¼ tsp. ground nutmeg\n¼ tsp. salt\n1 tsp. vanilla extract\n⅓ cup caramel fudge\n½ cup whipped cream",
-      "procedure": "Procedure\nPreheat oven to 175°C. Grease a baking dish, then set aside.\nIn a large bowl, whisk together eggs, milk, sugar, cinnamon, nutmeg, salt and vanilla extract until well combined.\nAdd the cubed Monde Cheese Bars into the egg mixture. Gently toss to coat the bread evenly. Let the mixture sit for about 2-3 minutes, allowing the bread to absorb the custard.\nPour the bread mixture into the prepared baking dish.\nBake for 20-25 minutes, or until the center is set and a toothpick inserted comes out clean.\nLet the bread pudding cool slightly before serving. Drizzle with caramel fudge. Serve alongside whipped cream."
+      "ingredients": "4 cups Monde Cheese Bar, cubed\n4 large eggs\n2 cups milk \n¾ cup granulated sugar\n½ tsp. ground cinnamon\n¼ tsp. ground nutmeg\n¼ tsp. salt\n1 tsp. vanilla extract\n⅓ cup caramel fudge\n½ cup whipped cream",
+      "procedure": "Preheat oven to 175°C. Grease a baking dish, then set aside.\nIn a large bowl, whisk together eggs, milk, sugar, cinnamon, nutmeg, salt and vanilla extract until well combined.\nAdd the cubed Monde Cheese Bars into the egg mixture. Gently toss to coat the bread evenly. Let the mixture sit for about 2-3 minutes, allowing the bread to absorb the custard.\nPour the bread mixture into the prepared baking dish.\nBake for 20-25 minutes, or until the center is set and a toothpick inserted comes out clean.\nLet the bread pudding cool slightly before serving. Drizzle with caramel fudge. Serve alongside whipped cream."
     },
     "photo": {
       "filename": "IG5.jpg",
@@ -144,8 +144,8 @@ const MAY_IG_DATA = [
       "servingTime": "25-30 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\nFor the chicken:\n500g Magnolia Gourmet Selection Chicken Thighs\nSalt and pepper to taste\n2 tbsps. olive oil\nFor the orzo:\n1 tbsp. olive oil\n1 pc. shallot, finely chopped\n3 cloves garlic, minced\n½ tsp. red pepper flakes\n1 cup sun-dried tomatoes, drained and chopped\n1 ½ cups orzo \n½ cup white wine\n2 tsps. fresh thyme leaves\n3 cups chicken broth or vegetable broth\n1 cup heavy cream\n3 cups fresh baby spinach\n¼ cup fresh basil leaves, chiffonade\n½ cup parmesan cheese, grated",
-      "procedure": "Procedure\nPat dry Magnolia Gourmet Selection Chicken Thighs, and generously season with salt and pepper.\nHeat olive oil in a large pan over medium-high heat. Sear the chicken thighs for 2-3 minutes per side, or until golden brown. Remove the chicken from the pan, and set aside.\nIn the same pan, add another tbsp. of olive oil. Sauté shallots, garlic and chili flakes until softened. \nAdd the sun-dried tomatoes and orzo. Cook for 1-2 minutes, stirring frequently, to toast the orzo slightly.\nPour in the white wine to deglaze, and scrape any browned bits from the bottom of the pan. Let the wine simmer for a minute or two, allowing the alcohol to cook off.\nStir in thyme, chicken broth, and heavy cream. Bring to a simmer.\nAdd the cooked chicken back to the pan. Reduce heat to low, cover, and simmer for 10-12 minutes, or until the orzo is tender and the chicken is cooked all the way through.\nOnce the orzo is cooked, stir in spinach and basil. Remove the pan from the heat, and stir in parmesan cheese."
+      "ingredients": "For the chicken:\n500g Magnolia Gourmet Selection Chicken Thighs\nSalt and pepper to taste\n2 tbsps. olive oil\nFor the orzo:\n1 tbsp. olive oil\n1 pc. shallot, finely chopped\n3 cloves garlic, minced\n½ tsp. red pepper flakes\n1 cup sun-dried tomatoes, drained and chopped\n1 ½ cups orzo \n½ cup white wine\n2 tsps. fresh thyme leaves\n3 cups chicken broth or vegetable broth\n1 cup heavy cream\n3 cups fresh baby spinach\n¼ cup fresh basil leaves, chiffonade\n½ cup parmesan cheese, grated",
+      "procedure": "Pat dry Magnolia Gourmet Selection Chicken Thighs, and generously season with salt and pepper.\nHeat olive oil in a large pan over medium-high heat. Sear the chicken thighs for 2-3 minutes per side, or until golden brown. Remove the chicken from the pan, and set aside.\nIn the same pan, add another tbsp. of olive oil. Sauté shallots, garlic and chili flakes until softened. \nAdd the sun-dried tomatoes and orzo. Cook for 1-2 minutes, stirring frequently, to toast the orzo slightly.\nPour in the white wine to deglaze, and scrape any browned bits from the bottom of the pan. Let the wine simmer for a minute or two, allowing the alcohol to cook off.\nStir in thyme, chicken broth, and heavy cream. Bring to a simmer.\nAdd the cooked chicken back to the pan. Reduce heat to low, cover, and simmer for 10-12 minutes, or until the orzo is tender and the chicken is cooked all the way through.\nOnce the orzo is cooked, stir in spinach and basil. Remove the pan from the heat, and stir in parmesan cheese."
     },
     "photo": {
       "filename": "IG6.jpg",

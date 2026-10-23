@@ -11,7 +11,7 @@ const BREAKFAST_FAIR_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Breakfast Fair",
-    "caption": "Almond Milk Rice Pudding is Middle Eastern in origin and is a great dish for those who prefer something dairy-free, egg-free, and vegan. This healthier alternative makes use of Blue Diamond Almond Milk to cook the aromatics in, lending a subtle nutty flavor that’s amplified with cinnamon, pistachios, and cranberries. Add sugar or honey to taste, and you’re all set!\n\nPrepare this delicious and health-filled breakfast with ingredients that you can find at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 2-3 servings\n\nIngredients\n\n1 cup white rice\n1 cup water\n2 cups Blue Diamond Almond Milk\n1/2 cup white sugar\n1/4 tsp. ground cinnamon\n1/4 tsp. salt\n1/4 cup chopped pistachios\n1/4 cup dried cranberries\n\nProcedure\n\n1. Rinse the rice in a fine-mesh sieve until the water runs clear.\n2. In a medium saucepan, combine the rice, water, Blue Diamond Almond Milk, sugar, cinnamon, and salt.\n3. Bring the mixture to a boil over medium heat, then reduce heat to low and simmer for 20-25 minutes, or until the rice is cooked through and the liquid is absorbed.\n4. Top each serving with pistachios and cranberries.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Almond Milk Rice Pudding is Middle Eastern in origin and is a great dish for those who prefer something dairy-free, egg-free, and vegan. This healthier alternative makes use of Blue Diamond Almond Milk to cook the aromatics in, lending a subtle nutty flavor that’s amplified with cinnamon, pistachios, and cranberries. Add sugar or honey to taste, and you’re all set!\n\nPrepare this delicious and health-filled breakfast with ingredients that you can find at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Blue Diamond"
     ],
@@ -19,8 +19,8 @@ const BREAKFAST_FAIR_DATA = [
       "servingTime": "30 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup white rice\n1 cup water\n2 cups Blue Diamond Almond Milk\n1/2 cup white sugar\n1/4 tsp. ground cinnamon\n1/4 tsp. Salt\n1/4 cup chopped pistachios\n1/4 cup dried cranberries",
-      "procedure": "Procedure\nRinse the rice in a fine-mesh sieve until the water runs clear.\nIn a medium saucepan, combine the rice, water, Blue Diamond Almond Milk, sugar, cinnamon, and salt.\nBring the mixture to a boil over medium heat, then reduce heat to low and simmer for 20-25 minutes, or until the rice is cooked through and the liquid is absorbed.\nTop each serving with pistachios and cranberries."
+      "ingredients": "1 cup white rice\n1 cup water\n2 cups Blue Diamond Almond Milk\n1/2 cup white sugar\n1/4 tsp. ground cinnamon\n1/4 tsp. Salt\n1/4 cup chopped pistachios\n1/4 cup dried cranberries",
+      "procedure": "Rinse the rice in a fine-mesh sieve until the water runs clear.\nIn a medium saucepan, combine the rice, water, Blue Diamond Almond Milk, sugar, cinnamon, and salt.\nBring the mixture to a boil over medium heat, then reduce heat to low and simmer for 20-25 minutes, or until the rice is cooked through and the liquid is absorbed.\nTop each serving with pistachios and cranberries."
     },
     "photo": {
       "filename": "BF1.jpg",
@@ -36,7 +36,7 @@ const BREAKFAST_FAIR_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Breakfast Fair",
-    "caption": "Add a generous serving of fiber to your mornings with these Oatmeal Fritters made with Quaker Instant Oats. Quick, savory, and delicious, these crunchy bites are filled with so much flavor and are match made in heaven with the delicious sour cream and dill sauce it comes with. Stock up your pantry with all the breakfast essentials you need — head over to #TheMarketplace and shop now!\n\nServing Time: 30 minutes\nYield: 6-8 patties\n\nIngredients\n\nFOR THE FRITTERS:\n1 cup Quaker Instant Oats\n1/2 cup all-purpose flour\n1 tsp. baking powder\n1/2 tsp. salt\n1/4 cup parmesan cheese, grated\n1/4 cup chives, chopped\n1/4 cup milk\n1 egg, beaten\n1 tbsp. olive oil\n\nFOR THE SAUCE:\n1/4 cup sour cream\n1 tbsp. mayonnaise\n1 tbsp. parsley, chopped\n1 tbsp. dill, chopped\n1 tsp. lemon juice\n1/4 tsp. salt\n1/4 tsp. black pepper\n\nProcedure\n\n1. In a large bowl, whisk together Quaker Instant Oats, flour, baking powder, salt, parmesan cheese and chives.\n2. In a separate bowl, whisk together the milk, egg and olive oil.\n3. Add the wet ingredients to the dry ingredients, and stir until just combined.\n4. Heat a large skillet over medium heat.\n5. Add 1/4 cup of batter to the skillet for each fritter.\n6. Cook the fritters for 2-3 minutes per side, or until golden brown.\n7. Repeat steps 5-6 to make the remaining fritters.\n8. To make the sauce, whisk together the sour cream, mayonnaise, parsley, dill, lemon juice, salt, and pepper.\n7. Serve oatmeal fritters with the sauce. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Add a generous serving of fiber to your mornings with these Oatmeal Fritters made with Quaker Instant Oats. Quick, savory, and delicious, these crunchy bites are filled with so much flavor and are match made in heaven with the delicious sour cream and dill sauce it comes with. Stock up your pantry with all the breakfast essentials you need — head over to #TheMarketplace and shop now!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Quaker"
     ],
@@ -44,8 +44,8 @@ const BREAKFAST_FAIR_DATA = [
       "servingTime": "30 minutes",
       "yield": "6-8 patties",
       "tips": "",
-      "ingredients": "Ingredients\nFOR THE FRITTERS:\n1 cup Quaker Instant Oats\n1/2 cup all-purpose flour\n1 tsp. baking powder\n1/2 tsp. salt\n1/4 cup parmesan cheese, grated\n1/4 cup chives, chopped\n1/4 cup milk\n1 egg, beaten\n1 tbsp. olive oil\nFOR THE SAUCE:\n1/4 cup sour cream\n1 tbsp. mayonnaise\n1 tbsp. parsley, chopped\n1 tbsp. dill, chopped\n1 tsp. lemon juice\n1/4 tsp. salt\n1/4 tsp. black pepper",
-      "procedure": "Procedure\nIn a large bowl, whisk together Quaker Instant Oats, flour, baking powder, salt, parmesan cheese and chives.\nIn a separate bowl, whisk together the milk, egg and olive oil.\nAdd the wet ingredients to the dry ingredients, and stir until just combined.\nHeat a large skillet over medium heat.\nAdd 1/4 cup of batter to the skillet for each fritter.\nCook the fritters for 2-3 minutes per side, or until golden brown.\nRepeat steps 5-6 to make the remaining fritters.\nTo make the sauce, whisk together the sour cream, mayonnaise, parsley, dill, lemon juice, salt, and pepper.\nServe oatmeal fritters with the sauce."
+      "ingredients": "FOR THE FRITTERS:\n1 cup Quaker Instant Oats\n1/2 cup all-purpose flour\n1 tsp. baking powder\n1/2 tsp. salt\n1/4 cup parmesan cheese, grated\n1/4 cup chives, chopped\n1/4 cup milk\n1 egg, beaten\n1 tbsp. olive oil\nFOR THE SAUCE:\n1/4 cup sour cream\n1 tbsp. mayonnaise\n1 tbsp. parsley, chopped\n1 tbsp. dill, chopped\n1 tsp. lemon juice\n1/4 tsp. salt\n1/4 tsp. black pepper",
+      "procedure": "In a large bowl, whisk together Quaker Instant Oats, flour, baking powder, salt, parmesan cheese and chives.\nIn a separate bowl, whisk together the milk, egg and olive oil.\nAdd the wet ingredients to the dry ingredients, and stir until just combined.\nHeat a large skillet over medium heat.\nAdd 1/4 cup of batter to the skillet for each fritter.\nCook the fritters for 2-3 minutes per side, or until golden brown.\nRepeat steps 5-6 to make the remaining fritters.\nTo make the sauce, whisk together the sour cream, mayonnaise, parsley, dill, lemon juice, salt, and pepper.\nServe oatmeal fritters with the sauce."
     },
     "photo": {
       "filename": "BF2.jpg",
@@ -61,7 +61,7 @@ const BREAKFAST_FAIR_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Breakfast Fair",
-    "caption": "Add a playful touch of cocoa to your morning latte with this Breakfast Cereal Latte made with Koko Krunch Cereal!\n\nDon’t you just love it when your milk takes on the sugary sweetness of the cereal that’s swimming in it? That’s the exact taste of this cereal milk! We didn’t put coffee in this so that the little ones can enjoy it, too, but you’re always free to add a shot or two of your favorite espresso. Shop at #TheMarketplace and explore our wide variety of breakfast cereal options to brighten up your mornings with.\n\nServing Time: 5 minutes\nYield: 1 serving\n\nIngredients\n\n1 cup milk\n1/4 cup chocolate syrup\nWhipped cream, for topping\n1/4 cup Koko Krunch cereal\n\nProcedure\n\n1. In a small saucepan, heat the milk and chocolate syrup over medium heat until the chocolate is melted and the mixture is hot.\n2. Pour the hot chocolate mixture into a mug.\n3. Top with the whipped cream and Koko Krunch cereal. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Add a playful touch of cocoa to your morning latte with this Breakfast Cereal Latte made with Koko Krunch Cereal!\n\nDon’t you just love it when your milk takes on the sugary sweetness of the cereal that’s swimming in it? That’s the exact taste of this cereal milk! We didn’t put coffee in this so that the little ones can enjoy it, too, but you’re always free to add a shot or two of your favorite espresso. Shop at #TheMarketplace and explore our wide variety of breakfast cereal options to brighten up your mornings with.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Koko Krunch"
     ],
@@ -69,8 +69,8 @@ const BREAKFAST_FAIR_DATA = [
       "servingTime": "5 minutes",
       "yield": "1 serving",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup milk\n1/4 cup chocolate syrup\nWhipped cream, for topping\n1/4 cup Koko Krunch cereal",
-      "procedure": "Procedure\nIn a small saucepan, heat the milk and chocolate syrup over medium heat until the chocolate is melted and the mixture is hot.\nPour the hot chocolate mixture into a mug.\nTop with the whipped cream and Koko Krunch cereal."
+      "ingredients": "1 cup milk\n1/4 cup chocolate syrup\nWhipped cream, for topping\n1/4 cup Koko Krunch cereal",
+      "procedure": "In a small saucepan, heat the milk and chocolate syrup over medium heat until the chocolate is melted and the mixture is hot.\nPour the hot chocolate mixture into a mug.\nTop with the whipped cream and Koko Krunch cereal."
     },
     "photo": {
       "filename": "BF3.jpg",
@@ -86,7 +86,7 @@ const BREAKFAST_FAIR_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Breakfast Fair",
-    "caption": "Remember those hard-to-put-down rice crispy treats that never failed to put a smile on our faces?\n\nThese ones made with Kellogg’s Fruit Loops not only look pretty; they taste absolutely delicious, too! Made with only four ingredients, these are great to make in big batches so that you can enjoy them as an afternoon snack as well. Enjoy with milk, coffee, or head over to #TheMarketplace and try it out with other cereals.\n\nServing Time: 1 hour\nYield: 12 bars\n\nIngredients\n\n4 tbsps. butter\n2 cups white mini marshmallow\n6 cups Kellogg’s Fruit Loops\n3 tbsps. rainbow sprinkles\n\nProcedure\n\n1. Grease a 9x13 inch baking pan with cooking spray.\n2. In a large microwave-safe bowl, melt the butter and marshmallows in 30-second increments, stirring after each increment until melted and smooth.\n3. Add the Kellogg’s Froot Loops cereal, and stir until well coated.\n4. Press the mixture into the prepared baking pan. Top with rainbow sprinkles.\n5. Let cool completely before cutting into bars.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Remember those hard-to-put-down rice crispy treats that never failed to put a smile on our faces?\n\nThese ones made with Kellogg’s Fruit Loops not only look pretty; they taste absolutely delicious, too! Made with only four ingredients, these are great to make in big batches so that you can enjoy them as an afternoon snack as well. Enjoy with milk, coffee, or head over to #TheMarketplace and try it out with other cereals.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Kellogg's"
     ],
@@ -94,8 +94,8 @@ const BREAKFAST_FAIR_DATA = [
       "servingTime": "1 hour",
       "yield": "12 bars",
       "tips": "",
-      "ingredients": "Ingredients\n4 tbsps. butter\n2 cups white mini marshmallow\n6 cups Kellogg’s Fruit Loops\n3 tbsps. rainbow sprinkles",
-      "procedure": "Procedure\nGrease a 9x13 inch baking pan with cooking spray.\nIn a large microwave-safe bowl, melt the butter and marshmallows in 30-second increments, stirring after each increment until melted and smooth.\nAdd the Kellogg’s Froot Loops cereal, and stir until well coated.\nPress the mixture into the prepared baking pan. Top with rainbow sprinkles.\nLet cool completely before cutting into bars."
+      "ingredients": "4 tbsps. butter\n2 cups white mini marshmallow\n6 cups Kellogg’s Fruit Loops\n3 tbsps. rainbow sprinkles",
+      "procedure": "Grease a 9x13 inch baking pan with cooking spray.\nIn a large microwave-safe bowl, melt the butter and marshmallows in 30-second increments, stirring after each increment until melted and smooth.\nAdd the Kellogg’s Froot Loops cereal, and stir until well coated.\nPress the mixture into the prepared baking pan. Top with rainbow sprinkles.\nLet cool completely before cutting into bars."
     },
     "photo": {
       "filename": "BF4.jpg",
@@ -111,7 +111,7 @@ const BREAKFAST_FAIR_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Breakfast Fair",
-    "caption": "Overnight oats became quite a trendy breakfast, so we’re bringing it back with a fruity twist — make this Mango Kiwi Overnight Oats with Nestlé Fresh Milk!\n\nBursting with the sweet and fruity flavors of mango and kiwi, toasted coconut flakes amp up the tropical vibe to this fiber-forward breakfast. Add these ingredients to your cart the next time you shop at #TheMarketplace! \n\nServing Time: 8 hours and 5 minutes\nYield: 2 servings\n\nIngredients\n\n1/2 cup rolled oats\n1/2 cup Nestlé Fresh Milk\n1/4 cup plain greek yogurt\n1 tbsp. honey\n1/2 cup mango, diced\n1 pc. kiwi, peeled and diced\n⅛ cup toasted coconut flakes\n\nProcedure\n\n1. In a jar or bowl, combine the oats, Nestlé Fresh Milk, yogurt and honey. Stir to combine.\n2. Cover the jar or bowl, and refrigerate overnight, or at least 8 hours.\n3. Just before eating, top with mangoes, kiwi, and toasted coconut flakes.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Overnight oats became quite a trendy breakfast, so we’re bringing it back with a fruity twist — make this Mango Kiwi Overnight Oats with Nestlé Fresh Milk!\n\nBursting with the sweet and fruity flavors of mango and kiwi, toasted coconut flakes amp up the tropical vibe to this fiber-forward breakfast. Add these ingredients to your cart the next time you shop at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nestlé"
     ],
@@ -119,8 +119,8 @@ const BREAKFAST_FAIR_DATA = [
       "servingTime": "8 hours and 5 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1/2 cup rolled oats\n1/2 cup Nestlé Fresh Milk\n1/4 cup plain greek yogurt\n1 tbsp. honey\n1/2 cup mango, diced\n1 pc. kiwi, peeled and diced\n⅛ cup toasted coconut flakes",
-      "procedure": "Procedure\nIn a jar or bowl, combine the oats, Nestlé Fresh Milk, yogurt and honey. Stir to combine.\nCover the jar or bowl, and refrigerate overnight, or at least 8 hours.\nJust before eating, top with mangoes, kiwi, and toasted coconut flakes."
+      "ingredients": "1/2 cup rolled oats\n1/2 cup Nestlé Fresh Milk\n1/4 cup plain greek yogurt\n1 tbsp. honey\n1/2 cup mango, diced\n1 pc. kiwi, peeled and diced\n⅛ cup toasted coconut flakes",
+      "procedure": "In a jar or bowl, combine the oats, Nestlé Fresh Milk, yogurt and honey. Stir to combine.\nCover the jar or bowl, and refrigerate overnight, or at least 8 hours.\nJust before eating, top with mangoes, kiwi, and toasted coconut flakes."
     },
     "photo": {
       "filename": "BF5.jpg",
@@ -136,7 +136,7 @@ const BREAKFAST_FAIR_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Breakfast Fair",
-    "caption": "Call them pasties or empanadas, these Corned Beef Turnovers are sure to please any Pinoy palate.\n\nMade with Argentina Corned Beef, which you can easily find at #TheMarketplace, add on some puff pastries to your shopping cart and assemble these savory treats for a strong start to your morning. Complemented with the rich and tangy flavors of mustard and mayonnaise, these turnovers are also great to bring to gatherings or as baon to work.\n\nServing Time: 1 hour\nYield: 12 pieces\n\nIngredients\n\n3 cans Argentina Corned Beef\n½ cup onion, sliced\n1/4 cup mayonnaise\n1 tbsp. Dijon mustard\nSalt and pepper to taste\n2 sheets frozen puff pastry, thawed\n¼ cup egg wash\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. Set a pan over medium heat, and add in Argentina Corned Beef. Cook until liquid has evaporated.\n3. Add in onions, and sauté for another 2-3 minutes. Turn off the heat, then add mayonnaise and mustard. Season with salt and pepper. Set aside\n4. On a lightly floured surface, roll out each sheet of puff pastry, and cut into rounds using an 11 centimeter cookie cutter.\n5. Place 1/4 cup of the corned beef filling in the center of each.\n6. Fold in half to form a half moon shape, then press the edges with a fork to seal.\n7. Transfer onto a lined baking tray, then brush the tops with egg wash. \n8. Bake in the preheated oven for 12-15 minutes, or until golden brown.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Call them pasties or empanadas, these Corned Beef Turnovers are sure to please any Pinoy palate.\n\nMade with Argentina Corned Beef, which you can easily find at #TheMarketplace, add on some puff pastries to your shopping cart and assemble these savory treats for a strong start to your morning. Complemented with the rich and tangy flavors of mustard and mayonnaise, these turnovers are also great to bring to gatherings or as baon to work.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Argentina"
     ],
@@ -144,8 +144,8 @@ const BREAKFAST_FAIR_DATA = [
       "servingTime": "1 hour",
       "yield": "12 pieces",
       "tips": "",
-      "ingredients": "Ingredients\n3 cans Argentina Corned Beef\n½ cup onion, sliced\n1/4 cup mayonnaise\n1 tbsp. Dijon mustard\nSalt and pepper to taste\n2 sheets frozen puff pastry, thawed\n¼ cup egg wash",
-      "procedure": "Procedure\nPreheat oven to 175°C.\nSet a pan over medium heat, and add in Argentina Corned Beef. Cook until liquid has evaporated.\nAdd in onions, and sauté for another 2-3 minutes. Turn off the heat, then add mayonnaise and mustard. Season with salt and pepper. Set aside\nOn a lightly floured surface, roll out each sheet of puff pastry, and cut into rounds using an 11 centimeter cookie cutter.\nPlace 1/4 cup of the corned beef filling in the center of each.\nFold in half to form a half moon shape, then press the edges with a fork to seal.\nTransfer onto a lined baking tray, then brush the tops with egg wash. \nBake in the preheated oven for 12-15 minutes, or until golden brown."
+      "ingredients": "3 cans Argentina Corned Beef\n½ cup onion, sliced\n1/4 cup mayonnaise\n1 tbsp. Dijon mustard\nSalt and pepper to taste\n2 sheets frozen puff pastry, thawed\n¼ cup egg wash",
+      "procedure": "Preheat oven to 175°C.\nSet a pan over medium heat, and add in Argentina Corned Beef. Cook until liquid has evaporated.\nAdd in onions, and sauté for another 2-3 minutes. Turn off the heat, then add mayonnaise and mustard. Season with salt and pepper. Set aside\nOn a lightly floured surface, roll out each sheet of puff pastry, and cut into rounds using an 11 centimeter cookie cutter.\nPlace 1/4 cup of the corned beef filling in the center of each.\nFold in half to form a half moon shape, then press the edges with a fork to seal.\nTransfer onto a lined baking tray, then brush the tops with egg wash. \nBake in the preheated oven for 12-15 minutes, or until golden brown."
     },
     "photo": {
       "filename": "BF6.jpg",
@@ -161,7 +161,7 @@ const BREAKFAST_FAIR_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Breakfast Fair",
-    "caption": "These Breakfast Dogs are just as tasty as they look!\n\nMade with Highlands Gold Beef Franks, enjoy each meaty bite with the goodness of smoky bacon and tangy ketchup. The egg on top makes for a mouthwatering Instagram photo and some good, messy breakfast fun. Find all the items that you need for this recipe at #TheMarketplace!\n\nServing Time: 20 minutes\nYield: 6 servings\n\nIngredients\n\n⅛ cup water\n6 pcs. Highlands Gold Beef Franks\n3 tbsps. oil\n12 slices bacon\n6 hotdog buns\n6 eggs\n1/4 cup ketchup\n2 tbsps. parsley, chopped\n\nProcedure\n\n1. Set pan over medium heat, then add water and Highlands Gold Beef Franks. Cook until water has reduced. Add a tbsp. of oil, and sear until nicely browned. Set aside.\n2. Using the same pan, cook bacon until crisp. Set aside.\n3. Using the same pan with the remaining bacon fat, toast the hotdog buns until lightly golden, set aside.\n4. Add the the remaining oil, and fry the eggs.\n5. To assemble, put 1 piece of Highlands Gold Beef Franks on each toasted hotdog bun, then add 2 pieces of bacon on each side.\n6. Drizzle ketchup over the hotdogs, and top with sunny side up eggs. Garnish with chopped parsley.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "These Breakfast Dogs are just as tasty as they look!\n\nMade with Highlands Gold Beef Franks, enjoy each meaty bite with the goodness of smoky bacon and tangy ketchup. The egg on top makes for a mouthwatering Instagram photo and some good, messy breakfast fun. Find all the items that you need for this recipe at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Highlands Gold"
     ],
@@ -169,8 +169,8 @@ const BREAKFAST_FAIR_DATA = [
       "servingTime": "20 minutes",
       "yield": "6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n⅛ cup water\n6 pcs. Highlands Gold Beef Franks\n3 tbsps. oil\n12 slices bacon\n6 hotdog buns\n6 eggs\n1/4 cup ketchup\n2 tbsps. parsley, chopped",
-      "procedure": "Procedure\nSet pan over medium heat, then add water and Highlands Gold Beef Franks. Cook until water has reduced. Add a tbsp. of oil, and sear until nicely browned. Set aside.\nUsing the same pan, cook bacon until crisp. Set aside.\nUsing the same pan with the remaining bacon fat, toast the hotdog buns until lightly golden, set aside.\nAdd the the remaining oil, and fry the eggs.\nTo assemble, put 1 piece of Highlands Gold Beef Franks on each toasted hotdog bun, then add 2 pieces of bacon on each side.\nDrizzle ketchup over the hotdogs, and top with sunny side up eggs. Garnish with chopped parsley."
+      "ingredients": "⅛ cup water\n6 pcs. Highlands Gold Beef Franks\n3 tbsps. oil\n12 slices bacon\n6 hotdog buns\n6 eggs\n1/4 cup ketchup\n2 tbsps. parsley, chopped",
+      "procedure": "Set pan over medium heat, then add water and Highlands Gold Beef Franks. Cook until water has reduced. Add a tbsp. of oil, and sear until nicely browned. Set aside.\nUsing the same pan, cook bacon until crisp. Set aside.\nUsing the same pan with the remaining bacon fat, toast the hotdog buns until lightly golden, set aside.\nAdd the the remaining oil, and fry the eggs.\nTo assemble, put 1 piece of Highlands Gold Beef Franks on each toasted hotdog bun, then add 2 pieces of bacon on each side.\nDrizzle ketchup over the hotdogs, and top with sunny side up eggs. Garnish with chopped parsley."
     },
     "photo": {
       "filename": "BF7.jpg",
@@ -186,7 +186,7 @@ const BREAKFAST_FAIR_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Breakfast Fair",
-    "caption": "There is just so much to love about this Beef Tapa Waffle Sandwich made with Purefoods Beef Tapa.\n\nButtery, golden waffles soak up all the best bits of the tapa; and of course, you have eggs to add richness with each bite. Hungry yet? Head over to #TheMarketplace now and stock up on all the items that you need to prepare this epic breakfast sandwich. Enjoy!\n\nServing Time: 30 minutes\nYield: 2 servings\n\nIngredients\n\nFOR THE WAFFLES\n1 cup all-purpose flour\n2 tsps. baking powder\n1/2 tsp. baking soda\n1/2 tsp. salt\n1/4 cup unsalted butter, melted \n1 cup milk\n2 large eggs\n\nFOR THE FILLING\n2 tbsps. vegetable oil\n1 (450g) pack Purefoods Beef Tapa\n2 large eggs, beaten\n1/4 cup shredded cheddar cheese\n4 slices cheddar cheese\n\nProcedure\n\n1. In a large bowl, whisk together flour, baking powder, baking soda and salt. In a separate bowl, whisk together the melted butter, milk, and eggs.\n2. Add the wet ingredients to the dry ingredients, and whisk until just combined.\n3. Pour the batter into a preheated waffle iron, and cook until crisp. \n4. Heat oil in a large skillet over medium heat. Add Purefoods Beef Tapa, and cook until nicely browned on both sides. Set aside.\n5. In the same skillet, cook the eggs until scrambled.\n6. To assemble, place a waffle on a plate, then top with scrambled eggs, tapa, and cheese. Top with another waffle.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "There is just so much to love about this Beef Tapa Waffle Sandwich made with Purefoods Beef Tapa.\n\nButtery, golden waffles soak up all the best bits of the tapa; and of course, you have eggs to add richness with each bite. Hungry yet? Head over to #TheMarketplace now and stock up on all the items that you need to prepare this epic breakfast sandwich. Enjoy!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Purefoods"
     ],
@@ -194,8 +194,8 @@ const BREAKFAST_FAIR_DATA = [
       "servingTime": "30 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\nFOR THE WAFFLES:\n1 cup all-purpose flour\n2 tsps. baking powder\n1/2 tsp. baking soda\n1/2 tsp. salt\n1/4 cup unsalted butter, melted \n1 cup milk\n2 large eggs\nFOR THE FILLING:\n2 tbsps. vegetable oil\n1 (450g) pack Purefoods Beef Tapa\n2 large eggs, beaten\n1/4 cup shredded cheddar cheese\n4 slices cheddar cheese",
-      "procedure": "Procedure\nIn a large bowl, whisk together flour, baking powder, baking soda and salt. In a separate bowl, whisk together the melted butter, milk, and eggs.\nAdd the wet ingredients to the dry ingredients, and whisk until just combined.\nPour the batter into a preheated waffle iron, and cook until crisp. \nHeat oil in a large skillet over medium heat. Add Purefoods Beef Tapa, and cook until nicely browned on both sides. Set aside.\nIn the same skillet, cook the eggs until scrambled.\nTo assemble, place a waffle on a plate, then top with scrambled eggs, tapa, and cheese. Top with another waffle."
+      "ingredients": "FOR THE WAFFLES:\n1 cup all-purpose flour\n2 tsps. baking powder\n1/2 tsp. baking soda\n1/2 tsp. salt\n1/4 cup unsalted butter, melted \n1 cup milk\n2 large eggs\nFOR THE FILLING:\n2 tbsps. vegetable oil\n1 (450g) pack Purefoods Beef Tapa\n2 large eggs, beaten\n1/4 cup shredded cheddar cheese\n4 slices cheddar cheese",
+      "procedure": "In a large bowl, whisk together flour, baking powder, baking soda and salt. In a separate bowl, whisk together the melted butter, milk, and eggs.\nAdd the wet ingredients to the dry ingredients, and whisk until just combined.\nPour the batter into a preheated waffle iron, and cook until crisp. \nHeat oil in a large skillet over medium heat. Add Purefoods Beef Tapa, and cook until nicely browned on both sides. Set aside.\nIn the same skillet, cook the eggs until scrambled.\nTo assemble, place a waffle on a plate, then top with scrambled eggs, tapa, and cheese. Top with another waffle."
     },
     "photo": {
       "filename": "BF8.jpg",
@@ -211,7 +211,7 @@ const BREAKFAST_FAIR_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Breakfast Fair",
-    "caption": "Photogenic and very delightful, this Dirty Matcha Latte combines the best of both worlds — matcha and coffee — for that extra caffeine kick with every sip!\n\nMade with Arla Organic Low Fat Lactose-Free Milk, this beverage is also a guilt-free treat for those who need to go easy on the dairy. Explore a wide range of Arla products at #TheMarketplace!\n\nServing Time: 5 minutes\nYield: 1 serving\n\nIngredients\n\n1 tsp. matcha powder\n1/4 cup hot water\n1 shot espresso\n1 cup Arla Organic Low Fat Lactose Free Milk\nIce cubes\n1 tsp. sugar, optional\n\nProcedure\n\n1. In a small bowl, whisk together the matcha powder and hot water until smooth.\n2. Add the espresso to a glass filled with ice cubes.\n3. Pour the matcha mixture into the glass and stir to combine.\n4. Add the Arla Organic Low Fat Lactose Free Milk and sugar, if using.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Photogenic and very delightful, this Dirty Matcha Latte combines the best of both worlds — matcha and coffee — for that extra caffeine kick with every sip!\n\nMade with Arla Organic Low Fat Lactose-Free Milk, this beverage is also a guilt-free treat for those who need to go easy on the dairy. Explore a wide range of Arla products at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Arla"
     ],
@@ -219,8 +219,8 @@ const BREAKFAST_FAIR_DATA = [
       "servingTime": "5 minutes",
       "yield": "1 serving",
       "tips": "",
-      "ingredients": "Ingredients\n1 tsp. matcha powder\n1/4 cup hot water\n1 shot espresso\n1 cup Arla Organic Low Fat Lactose Free Milk\nIce cubes\n1 tsp. sugar, optional",
-      "procedure": "Procedure\nIn a small bowl, whisk together the matcha powder and hot water until smooth.\nAdd the espresso to a glass filled with ice cubes.\nPour the matcha mixture into the glass and stir to combine.\nAdd the Arla Organic Low Fat Lactose Free Milk and sugar, if using."
+      "ingredients": "1 tsp. matcha powder\n1/4 cup hot water\n1 shot espresso\n1 cup Arla Organic Low Fat Lactose Free Milk\nIce cubes\n1 tsp. sugar, optional",
+      "procedure": "In a small bowl, whisk together the matcha powder and hot water until smooth.\nAdd the espresso to a glass filled with ice cubes.\nPour the matcha mixture into the glass and stir to combine.\nAdd the Arla Organic Low Fat Lactose Free Milk and sugar, if using."
     },
     "photo": {
       "filename": "BF9.jpg",
@@ -236,7 +236,7 @@ const BREAKFAST_FAIR_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Breakfast Fair",
-    "caption": "Wake up to these biscuits baking in the oven, because who can resist Bacon Cream Cheese Biscuits made with Philadelphia Cream Cheese?\n\nNot only are these bakes amazing for breakfast, but they also work great with fried chicken and pork chops. Drizzle with honey or maple syrup for a tinge of sweetness. Grab all the ingredients that you need for this recipe at #TheMarketplace!\n\nServing Time: 45 minutes\nYield: 12 pieces\n\nIngredients\n\n2 cups all-purpose flour\n1 tbsp. baking powder\n1 tsp. baking soda\n1 tsp. salt\n1/4 tsp. garlic powder\n1/8 tsp. black pepper\n1/2 cup unsalted butter, cold and cut into small pieces\n4 strips bacon, cooked and crumbled\n1 cup buttermilk\n1 (226g) bar Philadelphia Cream Cheese, sliced into cubes\n\nProcedure\n\n1. Preheat oven to 200C.\n2. In a large bowl, whisk together flour, baking powder, baking soda, salt, garlic powder and black pepper.\n3. Cut the butter into the flour mixture until it resembles coarse crumbs.\n4. Gently mix in crumbled bacon.\n5. Stir in the buttermilk and Philadelphia Cream Cheese until the dough just comes together.\n6. Turn the dough out onto a lightly floured surface. Pat the dough into a rectangle and fold it into thirds. Turn the dough, gather any crumbs, and flatten the dough back into a rectangle. Repeat this process two more times.\n7. Cut the dough into 2-inch squares, and arrange on a lined baking sheet. \n8. Bake for 15-20 minutes. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Wake up to these biscuits baking in the oven, because who can resist Bacon Cream Cheese Biscuits made with Philadelphia Cream Cheese?\n\nNot only are these bakes amazing for breakfast, but they also work great with fried chicken and pork chops. Drizzle with honey or maple syrup for a tinge of sweetness. Grab all the ingredients that you need for this recipe at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Philadelphia"
     ],
@@ -244,8 +244,8 @@ const BREAKFAST_FAIR_DATA = [
       "servingTime": "45 minutes",
       "yield": "12 pcs.",
       "tips": "",
-      "ingredients": "Ingredients\n2 cups all-purpose flour\n1 tbsp. baking powder\n1 tsp. baking soda\n1 tsp. salt\n1/4 tsp. garlic powder\n1/8 tsp. black pepper\n1/2 cup unsalted butter, cold and cut into small pieces\n4 strips bacon, cooked and crumbled\n1 cup buttermilk\n1 (226g) bar Philadelphia Cream Cheese, sliced into cubes",
-      "procedure": "Procedure\nPreheat oven to 200C.\nIn a large bowl, whisk together flour, baking powder, baking soda, salt, garlic powder and black pepper.\nCut the butter into the flour mixture until it resembles coarse crumbs.\nGently mix in crumbled bacon.\nStir in the buttermilk and Philadelphia Cream Cheese until the dough just comes together.\nTurn the dough out onto a lightly floured surface. Pat the dough into a rectangle and fold it into thirds. Turn the dough, gather any crumbs, and flatten the dough back into a rectangle. Repeat this process two more times.\nCut the dough into 2-inch squares, and arrange on a lined baking sheet. \nBake for 15-20 minutes."
+      "ingredients": "2 cups all-purpose flour\n1 tbsp. baking powder\n1 tsp. baking soda\n1 tsp. salt\n1/4 tsp. garlic powder\n1/8 tsp. black pepper\n1/2 cup unsalted butter, cold and cut into small pieces\n4 strips bacon, cooked and crumbled\n1 cup buttermilk\n1 (226g) bar Philadelphia Cream Cheese, sliced into cubes",
+      "procedure": "Preheat oven to 200C.\nIn a large bowl, whisk together flour, baking powder, baking soda, salt, garlic powder and black pepper.\nCut the butter into the flour mixture until it resembles coarse crumbs.\nGently mix in crumbled bacon.\nStir in the buttermilk and Philadelphia Cream Cheese until the dough just comes together.\nTurn the dough out onto a lightly floured surface. Pat the dough into a rectangle and fold it into thirds. Turn the dough, gather any crumbs, and flatten the dough back into a rectangle. Repeat this process two more times.\nCut the dough into 2-inch squares, and arrange on a lined baking sheet. \nBake for 15-20 minutes."
     },
     "photo": {
       "filename": "BF10.jpg",
@@ -261,7 +261,7 @@ const BREAKFAST_FAIR_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Breakfast Fair",
-    "caption": "Have you tried making your own butter?\n\nWell, we’re not asking you to start from scratch. What we mean is compound butter, which is a simple to way to make a block of Anchor Unsalted Butter even more exciting with your choice of ingredients. In this Honey Orange Compound Butter, we simply mixed a softened block of unsalted butter with honey, orange zest, and orange marmalade. Spread on toast and enjoy the citrusy flavors of orange with creamy butter. It’s really, really good. Try it with savory combinations as well! Head over to #TheMarketplace now and get all the ingredients that you need for this butter recipe!\n\nServing Time: 40 minutes\nYield: 4 servings\n\nIngredients\n\n1 cup (1 bar) Anchor Unsalted Butter, softened\n½ cup honey\n1 tsp. orange zest\n3 tbsps. orange marmalade\n\nProcedure\n\n1. In a medium bowl, cream together Anchor Unsalted Butter, honey and orange zest until light and fluffy.\n2. Stir in the orange marmalade.\n3. Transfer the butter to a piece of plastic wrap and roll it into a log.\n4. Refrigerate for at least 30 minutes, or until firm.\n5. Once the butter is firm, unwrap it and slice it into thin pats.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Have you tried making your own butter?\n\nWell, we’re not asking you to start from scratch. What we mean is compound butter, which is a simple to way to make a block of Anchor Unsalted Butter even more exciting with your choice of ingredients. In this Honey Orange Compound Butter, we simply mixed a softened block of unsalted butter with honey, orange zest, and orange marmalade. Spread on toast and enjoy the citrusy flavors of orange with creamy butter. It’s really, really good. Try it with savory combinations as well! Head over to #TheMarketplace now and get all the ingredients that you need for this butter recipe!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Anchor"
     ],
@@ -269,8 +269,8 @@ const BREAKFAST_FAIR_DATA = [
       "servingTime": "40 minutes",
       "yield": "4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup (1 bar) Anchor Unsalted Butter, softened\n½ cup honey\n1 tsp. orange zest\n3 tbsps. orange marmalade",
-      "procedure": "Procedure\nIn a medium bowl, cream together Anchor Unsalted Butter, honey and orange zest until light and fluffy.\nStir in the orange marmalade.\nTransfer the butter to a piece of plastic wrap and roll it into a log.\nRefrigerate for at least 30 minutes, or until firm.\nOnce the butter is firm, unwrap it and slice it into thin pats."
+      "ingredients": "1 cup (1 bar) Anchor Unsalted Butter, softened\n½ cup honey\n1 tsp. orange zest\n3 tbsps. orange marmalade",
+      "procedure": "In a medium bowl, cream together Anchor Unsalted Butter, honey and orange zest until light and fluffy.\nStir in the orange marmalade.\nTransfer the butter to a piece of plastic wrap and roll it into a log.\nRefrigerate for at least 30 minutes, or until firm.\nOnce the butter is firm, unwrap it and slice it into thin pats."
     },
     "photo": {
       "filename": "BF11.jpg",
@@ -286,7 +286,7 @@ const BREAKFAST_FAIR_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Breakfast Fair",
-    "caption": "The iconic university staple, Bacsilog is an ingenious idea made with the simple combination of bacon, rice, eggs, mayonnaise, and a shower of Eden Melt Sarap.\n\nBacsilog makes for an indulgent breakfast — or hangover snack — if you’re feeling a little naughty. Easy to prepare and serves four, head over to #TheMarketplace and stock up on the items that you need for this mouthwatering breakfast and feel the college vibes all over again.\n\nServing Time: 20 minutes\nYield: 4 servings\n\nIngredients\n\n2 tbsps. butter\n2 tbsps. all-purpose flour\n1 cup milk\n1 (160g) bar Eden Melt Sarap, grated\n2 tbsps. liquid seasoning \n16 strips bacon, cooked \n4 cups white rice, cooked\n4 pcs. sunny-side up eggs \n\nProcedure\n\n1. In a saucepan, melt butter over medium heat. Mix in flour. Slowly whisk in flour until roux is well incorporated, then bring to a simmer. \n2. Mix in Eden Melt Sarap and liquid seasoning. Simmer until thick, about 3 minutes. \n3. To assemble, top rice with 4 strips of bacon and 1 sunny-side up egg per serving, then drizzle cheese sauce all over. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "The iconic university staple, Bacsilog is an ingenious idea made with the simple combination of bacon, rice, eggs, mayonnaise, and a shower of Eden Melt Sarap.\n\nBacsilog makes for an indulgent breakfast — or hangover snack — if you’re feeling a little naughty. Easy to prepare and serves four, head over to #TheMarketplace and stock up on the items that you need for this mouthwatering breakfast and feel the college vibes all over again.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Eden"
     ],
@@ -294,8 +294,8 @@ const BREAKFAST_FAIR_DATA = [
       "servingTime": "20 minutes",
       "yield": "4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. butter\n2 tbsps. all-purpose flour\n1 cup milk\n1 (160g) bar Eden Melt Sarap, grated\n2 tbsps. liquid seasoning \n16 strips bacon, cooked \n4 cups white rice, cooked\n4 pcs. sunny-side up eggs",
-      "procedure": "Procedure\nIn a saucepan, melt butter over medium heat. Mix in flour. Slowly whisk in flour until roux is well incorporated, then bring to a simmer. \nMix in Eden Melt Sarap and liquid seasoning. Simmer until thick, about 3 minutes. \nTo assemble, top rice with 4 strips of bacon and 1 sunny-side up egg per serving, then drizzle cheese sauce all over."
+      "ingredients": "2 tbsps. butter\n2 tbsps. all-purpose flour\n1 cup milk\n1 (160g) bar Eden Melt Sarap, grated\n2 tbsps. liquid seasoning \n16 strips bacon, cooked \n4 cups white rice, cooked\n4 pcs. sunny-side up eggs",
+      "procedure": "In a saucepan, melt butter over medium heat. Mix in flour. Slowly whisk in flour until roux is well incorporated, then bring to a simmer. \nMix in Eden Melt Sarap and liquid seasoning. Simmer until thick, about 3 minutes. \nTo assemble, top rice with 4 strips of bacon and 1 sunny-side up egg per serving, then drizzle cheese sauce all over."
     },
     "photo": {
       "filename": "BF12.jpg",
@@ -311,7 +311,7 @@ const BREAKFAST_FAIR_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Breakfast Fair",
-    "caption": "A tasty mash-up between a French onion soup and a grilled cheese sandwich, this French Onion Grilled Cheese Sandwich made with Emborg American Cheddar Cheese Slices might just be your new favorite version of the classic American cheese sandwich.\n\nJust think about the mouthwatering combination of salty cheese paired, with caramelized onions on top of buttered sourdough bread, waiting to greet you in the morning. Take this as your sign to try this sandwich soon and head over to #TheMarketplace to shop the ingredients that you need for this recipe.\n\nServing Time: 25 minutes\nYield: 2 servings\n\nIngredients\n\n3 tbsps. unsalted butter\n1 large yellow onion, thinly sliced\n1 tsp. salt\n1/2 tsp. black pepper\n4 slices sourdough bread\n6 slices Emborg American Cheddar Cheese Slices\n\nProcedure\n\n1. Melt 2 tbsps. butter in a large skillet over medium heat. Add the onion and cook, stirring occasionally, until softened and translucent, about 10 minutes.\n2. Season with salt and pepper. Cook for an additional 10 minutes, or until the onions are caramelized and golden brown.\n3. Spread the onion mixture evenly over 2 slices of bread. Top with each with 3 slices of Emborg American Cheddar Cheese, then with the remaining slices of bread.\n4. Melt remaining butter in the skillet over medium heat. Add the sandwiches and cook until golden brown on the bottom, about 3 minutes.\n5. Flip the sandwiches and cook until the cheese is melted and the other side is golden brown, about 3 minutes more.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "A tasty mash-up between a French onion soup and a grilled cheese sandwich, this French Onion Grilled Cheese Sandwich made with Emborg American Cheddar Cheese Slices might just be your new favorite version of the classic American cheese sandwich.\n\nJust think about the mouthwatering combination of salty cheese paired, with caramelized onions on top of buttered sourdough bread, waiting to greet you in the morning. Take this as your sign to try this sandwich soon and head over to #TheMarketplace to shop the ingredients that you need for this recipe.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Emborg"
     ],
@@ -319,8 +319,8 @@ const BREAKFAST_FAIR_DATA = [
       "servingTime": "25 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n3 tbsps. unsalted butter\n1 large yellow onion, thinly sliced\n1 tsp. salt\n1/2 tsp. black pepper\n4 slices sourdough bread\n6 slices Emborg American Cheddar Cheese Slices",
-      "procedure": "Procedure\nMelt 2 tbsps. butter in a large skillet over medium heat. Add the onion and cook, stirring occasionally, until softened and translucent, about 10 minutes.\nSeason with salt and pepper. Cook for an additional 10 minutes, or until the onions are caramelized and golden brown.\nSpread the onion mixture evenly over 2 slices of bread. Top with each with 3 slices of Emborg American Cheddar Cheese, then with the remaining slices of bread.\nMelt remaining butter in the skillet over medium heat. Add the sandwiches and cook until golden brown on the bottom, about 3 minutes.\nFlip the sandwiches and cook until the cheese is melted and the other side is golden brown, about 3 minutes more."
+      "ingredients": "3 tbsps. unsalted butter\n1 large yellow onion, thinly sliced\n1 tsp. salt\n1/2 tsp. black pepper\n4 slices sourdough bread\n6 slices Emborg American Cheddar Cheese Slices",
+      "procedure": "Melt 2 tbsps. butter in a large skillet over medium heat. Add the onion and cook, stirring occasionally, until softened and translucent, about 10 minutes.\nSeason with salt and pepper. Cook for an additional 10 minutes, or until the onions are caramelized and golden brown.\nSpread the onion mixture evenly over 2 slices of bread. Top with each with 3 slices of Emborg American Cheddar Cheese, then with the remaining slices of bread.\nMelt remaining butter in the skillet over medium heat. Add the sandwiches and cook until golden brown on the bottom, about 3 minutes.\nFlip the sandwiches and cook until the cheese is melted and the other side is golden brown, about 3 minutes more."
     },
     "photo": {
       "filename": "BF13.jpg",

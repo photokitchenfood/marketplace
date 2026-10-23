@@ -38,8 +38,8 @@ const MARCH_IG_DATA = [
       "servingTime": "8 minutes",
       "yield": "1pax",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup romaine lettuce, shredded \n¼ cup French beans, blanched \n¼ cup marble potatoes, blanched \n2 hard boiled eggs, sliced \n1 red radish, thinly-sliced \n1 can Century Tuna Flakes in Oil \n2 Tbsps. lemon juice \n2 Tbsps. honey \n¼ cup olive oil \nSalt & pepper to taste",
-      "procedure": "Procedure\nPlace romaine lettuce on a salad plate. Arrange beans, potatoes, eggs, radish, and tuna flakes on top. \nTo make the vinaigrette, whisk together lemon juice, honey, and olive oil. Season with salt and pepper."
+      "ingredients": "1 cup romaine lettuce, shredded \n¼ cup French beans, blanched \n¼ cup marble potatoes, blanched \n2 hard boiled eggs, sliced \n1 red radish, thinly-sliced \n1 can Century Tuna Flakes in Oil \n2 Tbsps. lemon juice \n2 Tbsps. honey \n¼ cup olive oil \nSalt & pepper to taste",
+      "procedure": "Place romaine lettuce on a salad plate. Arrange beans, potatoes, eggs, radish, and tuna flakes on top. \nTo make the vinaigrette, whisk together lemon juice, honey, and olive oil. Season with salt and pepper."
     },
     "photo": {
       "filename": "IG2.jpg",
@@ -63,8 +63,8 @@ const MARCH_IG_DATA = [
       "servingTime": "4 hours-overnight",
       "yield": "8 ramekins",
       "tips": "",
-      "ingredients": "Ingredients\nFor the Panna Cotta:\n1 Tbsp. unflavored gelatin\n2 Tbsps. water \n3 cups heavy cream \n¼ cup Torani Hazelnut Coffee Syrup \n1 tsp. vanilla extract \nFor the Hazelnut-Coffee Topping:\n1 cup dark chocolate, chopped \n½ cup heavy cream \n1 Tbsp. Torani Hazelnut Coffee Syrup \n1 Tbsp. instant coffee powder",
-      "procedure": "Procedure\nIn a heatproof bowl, combine gelatin and water. Heat in the microwave for 30 seconds, or until the gelatin is well dissolved. \nIn a saucepan, whisk cream, hazelnut coffee syrup, and vanilla. Turn off the heat, and add in the gelatin mixture. \nDivide mixture into 8 ramekins and cover with cling wrap. Chill for 4 hours up to overnight. \nPlace dark chocolate in a heatproof bowl. Heat heavy cream in a small saucepan. Once the cream boils, remove from the heat and pour over the dark chocolate. Let stand for 5 minutes. \nMix in the hazelnut syrup and coffee powder. Continue mixing until the chocolate is fully melted and a ganache-like consistency is achieved. \nDivide into 8 ramekins; place on top of the set panna cotta."
+      "ingredients": "For the Panna Cotta:\n1 Tbsp. unflavored gelatin\n2 Tbsps. water \n3 cups heavy cream \n¼ cup Torani Hazelnut Coffee Syrup \n1 tsp. vanilla extract \nFor the Hazelnut-Coffee Topping:\n1 cup dark chocolate, chopped \n½ cup heavy cream \n1 Tbsp. Torani Hazelnut Coffee Syrup \n1 Tbsp. instant coffee powder",
+      "procedure": "In a heatproof bowl, combine gelatin and water. Heat in the microwave for 30 seconds, or until the gelatin is well dissolved. \nIn a saucepan, whisk cream, hazelnut coffee syrup, and vanilla. Turn off the heat, and add in the gelatin mixture. \nDivide mixture into 8 ramekins and cover with cling wrap. Chill for 4 hours up to overnight. \nPlace dark chocolate in a heatproof bowl. Heat heavy cream in a small saucepan. Once the cream boils, remove from the heat and pour over the dark chocolate. Let stand for 5 minutes. \nMix in the hazelnut syrup and coffee powder. Continue mixing until the chocolate is fully melted and a ganache-like consistency is achieved. \nDivide into 8 ramekins; place on top of the set panna cotta."
     },
     "photo": {
       "filename": "IG3.jpg",
@@ -88,8 +88,8 @@ const MARCH_IG_DATA = [
       "servingTime": "15 minutes",
       "yield": "3 sandwiches",
       "tips": "",
-      "ingredients": "Ingredients\n1 baguette, sliced into 3pcs \n3 Tbsps. butter, softened\n3 Robina Farms Classic Hotdogs\n2 Tbsps. oil\n¼ cup carrots, julienned\n¼ cup cucumber, thinly-sliced into rounds \n¼ cup red radish, thinly-sliced into rounds \n3 Tbsps. cilantro sprigs \n¼ cup sweet chili sauce",
-      "procedure": "Procedure\nSlice each baguette in half lengthwise. Slather butter on the inside and toast until crisp. \nMeanwhile, sauté the hotdogs in oil until lightly toasted. \nPlace one hotdog inside each baguette. Fill with carrots, cucumber, and radish. \nGarnish with cilantro and serve with sweet chili sauce."
+      "ingredients": "1 baguette, sliced into 3pcs \n3 Tbsps. butter, softened\n3 Robina Farms Classic Hotdogs\n2 Tbsps. oil\n¼ cup carrots, julienned\n¼ cup cucumber, thinly-sliced into rounds \n¼ cup red radish, thinly-sliced into rounds \n3 Tbsps. cilantro sprigs \n¼ cup sweet chili sauce",
+      "procedure": "Slice each baguette in half lengthwise. Slather butter on the inside and toast until crisp. \nMeanwhile, sauté the hotdogs in oil until lightly toasted. \nPlace one hotdog inside each baguette. Fill with carrots, cucumber, and radish. \nGarnish with cilantro and serve with sweet chili sauce."
     },
     "photo": {
       "filename": "IG4.jpg",
@@ -132,8 +132,8 @@ const MARCH_IG_DATA = [
       "servingTime": "5 minutes",
       "yield": "4 pax",
       "tips": "",
-      "ingredients": "Ingredients\n¼ cup oranges, sliced into wedges \n¼ cup honey \n¼ cup orange juice \n¼ cup strawberries, sliced \n¼ cup green apples, chopped \n2 Tbsps. mint leaves \n 1 bottle Mar de Frades Rias Baixas Albarino",
-      "procedure": "Procedure\nPlace oranges, honey, and orange juice in a pitcher. Muddle gently to release the juices and to combine. \nAdd in strawberries, green apples, mint, and white wine. \nChill until ready to serve."
+      "ingredients": "¼ cup oranges, sliced into wedges \n¼ cup honey \n¼ cup orange juice \n¼ cup strawberries, sliced \n¼ cup green apples, chopped \n2 Tbsps. mint leaves \n 1 bottle Mar de Frades Rias Baixas Albarino",
+      "procedure": "Place oranges, honey, and orange juice in a pitcher. Muddle gently to release the juices and to combine. \nAdd in strawberries, green apples, mint, and white wine. \nChill until ready to serve."
     },
     "photo": {
       "filename": "IG6.jpg",
@@ -176,8 +176,8 @@ const MARCH_IG_DATA = [
       "servingTime": "35 minutes.",
       "yield": "6 pax",
       "tips": "",
-      "ingredients": "Ingredients\n1 liter Aroma 100% Grape Juice \n2 pcs. cinnamon sticks \n4 pcs. star anise\n½ orange, sliced thinly",
-      "procedure": "Procedure\nCombine all ingredients in a saucepan and boil for 3 minutes. \nTurn off the heat and let it infuse for 30 minutes. \nServe hot or cold."
+      "ingredients": "1 liter Aroma 100% Grape Juice \n2 pcs. cinnamon sticks \n4 pcs. star anise\n½ orange, sliced thinly",
+      "procedure": "Combine all ingredients in a saucepan and boil for 3 minutes. \nTurn off the heat and let it infuse for 30 minutes. \nServe hot or cold."
     },
     "photo": {
       "filename": "IG8.jpg",
@@ -258,8 +258,8 @@ const MARCH_IG_DATA = [
       "servingTime": "3 minutes",
       "yield": "2 cocktails",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup water \n1 cup white sugar \n6 rosemary sprigs \n½ orange, sliced into half-moons \nSalt for rimming glasses\n1 cup Aroma 100% Orange Juice \n¼ cup lemon juice \n4 ounces tequila \n2 ounces triple sec",
-      "procedure": "Procedure\nIn a saucepan, combine water, sugar, and 4 rosemary sprigs. Boil together until sugar is completely dissolved. Let cool. \nRub the rim of your glasses with an orange slice, then coat with salt. \nIn a shaker with ice, combine Aroma 100% Orange Juice, lemon juice, tequila, triple sec, and 2 tablespoons of the rosemary syrup. Shake well. \nPour into your salt-rimmed glasses and garnish with remaining rosemary sprigs and orange slices."
+      "ingredients": "1 cup water \n1 cup white sugar \n6 rosemary sprigs \n½ orange, sliced into half-moons \nSalt for rimming glasses\n1 cup Aroma 100% Orange Juice \n¼ cup lemon juice \n4 ounces tequila \n2 ounces triple sec",
+      "procedure": "In a saucepan, combine water, sugar, and 4 rosemary sprigs. Boil together until sugar is completely dissolved. Let cool. \nRub the rim of your glasses with an orange slice, then coat with salt. \nIn a shaker with ice, combine Aroma 100% Orange Juice, lemon juice, tequila, triple sec, and 2 tablespoons of the rosemary syrup. Shake well. \nPour into your salt-rimmed glasses and garnish with remaining rosemary sprigs and orange slices."
     },
     "photo": {
       "filename": "FB2.jpg",
@@ -283,8 +283,8 @@ const MARCH_IG_DATA = [
       "servingTime": "30 minutes",
       "yield": "3-5 pax",
       "tips": "",
-      "ingredients": "Ingredients\n2 Tbsps. butter \n1 white onion, chopped\n5 cloves garlic, chopped \n6 pcs. asparagus, halved vertically \n3 cups cooking cream \n2 packs Gold Standard Peppered Manuka-Smoked Salmon \n½ cup parmesan cheese, grated \nSalt & pepper to taste \n500g spaghetti noodles, cooked according to package directions\n1 tsp. lemon juice \n2 Tbsps. dill, chopped",
-      "procedure": "Procedure\nIn a large pot, melt butter over medium heat. Add in onion and garlic, and sauté until soft. Mix in asparagus and let cook for 2-3 minutes. \nAdd in cream and and most of the Smoked Salmon, leaving some for garnish. Let simmer. Mix in parmesan cheese. \nOnce thickened, season with salt and pepper to taste.  \nToss in cooked fettuccine and coat well with sauce. Turn off the heat, mix in lemon juice and dill. \nTop with reserved smoked salmon."
+      "ingredients": "2 Tbsps. butter \n1 white onion, chopped\n5 cloves garlic, chopped \n6 pcs. asparagus, halved vertically \n3 cups cooking cream \n2 packs Gold Standard Peppered Manuka-Smoked Salmon \n½ cup parmesan cheese, grated \nSalt & pepper to taste \n500g spaghetti noodles, cooked according to package directions\n1 tsp. lemon juice \n2 Tbsps. dill, chopped",
+      "procedure": "In a large pot, melt butter over medium heat. Add in onion and garlic, and sauté until soft. Mix in asparagus and let cook for 2-3 minutes. \nAdd in cream and and most of the Smoked Salmon, leaving some for garnish. Let simmer. Mix in parmesan cheese. \nOnce thickened, season with salt and pepper to taste.  \nToss in cooked fettuccine and coat well with sauce. Turn off the heat, mix in lemon juice and dill. \nTop with reserved smoked salmon."
     },
     "photo": {
       "filename": "FB3.jpg",
@@ -308,8 +308,8 @@ const MARCH_IG_DATA = [
       "servingTime": "20 minutes",
       "yield": "18pcs",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup flour\n½ tsp. baking powder \n1 large egg\n¾ cup milk \n¼ cup butter, melted \n½ cup cream cheese spread \n½ cucumber, sliced into rounds \n1 pack Prime New Zealand Smoked Salmon \n¼ cup dill sprigs",
-      "procedure": "Procedure\nWhisk together flour, baking powder, egg, milk, and 1 Tbsp. butter.\nIn a non-stick pan, heat up the remaining melted butter, one tablespoon at a time over medium heat. Drop in a tablespoon of the batter to form a blini. Do this until you use up all of the batter. \nPlace one cucumber slice over a blini, then top with a dollop of cream cheese, smoked salmon, and a sprig of dill."
+      "ingredients": "1 cup flour\n½ tsp. baking powder \n1 large egg\n¾ cup milk \n¼ cup butter, melted \n½ cup cream cheese spread \n½ cucumber, sliced into rounds \n1 pack Prime New Zealand Smoked Salmon \n¼ cup dill sprigs",
+      "procedure": "Whisk together flour, baking powder, egg, milk, and 1 Tbsp. butter.\nIn a non-stick pan, heat up the remaining melted butter, one tablespoon at a time over medium heat. Drop in a tablespoon of the batter to form a blini. Do this until you use up all of the batter. \nPlace one cucumber slice over a blini, then top with a dollop of cream cheese, smoked salmon, and a sprig of dill."
     },
     "photo": {
       "filename": "FB4.jpg",
@@ -390,8 +390,8 @@ const MARCH_IG_DATA = [
       "servingTime": "5 minutes",
       "yield": "4 pax",
       "tips": "",
-      "ingredients": "Ingredients\n1 bottle Mar de Frades Rias Baixas Albarino \n1 cup apple juice \n½ cup club soda \n1 green apple, sliced thinly\n1 red apple, sliced thinly",
-      "procedure": "Procedure\nIn a pitcher, combine white wine, apple juice, and club soda. Chill until ready to serve. \nArrange green and red apple slices in serving glasses. \nPour wine mixture over glasses with apple slices."
+      "ingredients": "1 bottle Mar de Frades Rias Baixas Albarino \n1 cup apple juice \n½ cup club soda \n1 green apple, sliced thinly\n1 red apple, sliced thinly",
+      "procedure": "In a pitcher, combine white wine, apple juice, and club soda. Chill until ready to serve. \nArrange green and red apple slices in serving glasses. \nPour wine mixture over glasses with apple slices."
     },
     "photo": {
       "filename": "FB8.jpg",

@@ -11,7 +11,7 @@ const BACK_TO_SCHOOL_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Back to School",
-    "caption": "Add some variety to your little one’s meals with these easy oriental bowls made with Purefoods Tail-On Shrimp and Chicken Teriyaki!\nEasy to prepare and surely loved by picky palates, this is a sure-fire way to get your kids to enjoy a hearty and enjoyable lunch packed with protein and veggies. Grab all the ingredients you need fresh at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 4 servings\n\nIngredients\n\n2 tbsps. sesame oil\n1 cup carrots, julienned\n2 cups spinach\n2 cups bell peppers, julienned\n1 cup red radish, sliced\nCooking oil, for frying\n1 pack Purefoods Tail-on Shrimp\n1 pack Purefoods Chicken Teriyaki\n4 cups cooked rice\n4 tbsps. cilantro sprigs\n2 tbsps. leeks, sliced\n1 tbsp. sesame seeds\nSalt and pepper to taste\n\nProcedure\n\n1. Set a pan over medium heat. Add sesame oil. Sauté carrots, spinach and bell peppers separately. Season each batch with salt and pepper, then set aside.\n2. Deep-fry Purefoods Tail-on Shrimp until golden brown.\n3. Cook Purefoods Chicken Teriyaki according to package instructions.\n4. In a bowl, assemble fried shrimp, cooked chicken teriyaki and vegetables over cooked rice\n5. Garnish with cilantro sprigs or leeks and sesame seeds.\nNo need to fall in line! Order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Add some variety to your little one’s meals with these easy oriental bowls made with Purefoods Tail-On Shrimp and Chicken Teriyaki!\nEasy to prepare and surely loved by picky palates, this is a sure-fire way to get your kids to enjoy a hearty and enjoyable lunch packed with protein and veggies. Grab all the ingredients you need fresh at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Purefoods"
     ],
@@ -19,8 +19,8 @@ const BACK_TO_SCHOOL_DATA = [
       "servingTime": "30 minutes",
       "yield": "4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. sesame oil\n1 cup carrots, julienned\n2 cups spinach\n2 cups bell peppers, julienned\n1 cup red radish, sliced\nCooking oil, for frying\n1 pack Purefoods Tail-on Shrimp\n1 pack Purefoods Chicken Teriyaki\n4 cups cooked rice\n4 tbsps. cilantro sprigs\n2 tbsps. leeks, sliced\n1 tbsp. sesame seeds\nSalt and pepper to taste",
-      "procedure": "Procedure\nSet a pan over medium heat. Add sesame oil. Sauté carrots, spinach and bell peppers separately. Season each batch with salt and pepper, then set aside.\nDeep-fry Purefoods Tail-on Shrimp until golden brown.\nCook Purefoods Chicken Teriyaki according to package instructions.\nIn a bowl, assemble fried shrimp, cooked chicken teriyaki and vegetables over cooked rice.\nGarnish with cilantro sprigs or leeks and sesame seeds."
+      "ingredients": "2 tbsps. sesame oil\n1 cup carrots, julienned\n2 cups spinach\n2 cups bell peppers, julienned\n1 cup red radish, sliced\nCooking oil, for frying\n1 pack Purefoods Tail-on Shrimp\n1 pack Purefoods Chicken Teriyaki\n4 cups cooked rice\n4 tbsps. cilantro sprigs\n2 tbsps. leeks, sliced\n1 tbsp. sesame seeds\nSalt and pepper to taste",
+      "procedure": "Set a pan over medium heat. Add sesame oil. Sauté carrots, spinach and bell peppers separately. Season each batch with salt and pepper, then set aside.\nDeep-fry Purefoods Tail-on Shrimp until golden brown.\nCook Purefoods Chicken Teriyaki according to package instructions.\nIn a bowl, assemble fried shrimp, cooked chicken teriyaki and vegetables over cooked rice.\nGarnish with cilantro sprigs or leeks and sesame seeds."
     },
     "photo": {
       "filename": "BS1.jpg",
@@ -36,7 +36,7 @@ const BACK_TO_SCHOOL_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Back to School",
-    "caption": "Dining out can be a challenge nowadays, so if you’re craving some Chinese-style steamed fish, this Soy-Ginger Steamed Pampano is similar to the ones served at Chinese restaurants!\n\nHealthy and delicious, prepare this for your family dinners any day of the week! Don’t forget the extra rice because that tasty sauce is really worth finishing down to the last drop. Get all your ingredients fresh at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 2-3 servings\n\nIngredients\n\n1 Pampano\nSalt & pepper to taste \n3 tbsps. ginger, julienned \n3 tbsps. leeks, julienned \n1 tbsp. sesame oil \n¼ cup soy sauce\n1 tbsp. rice wine\n1 tsp. sesame seeds, toasted  \n\nProcedure\n\n1. Season Pampano with salt and pepper. Transfer to a foil-lined steamer basket.\n2. Top with ginger and leeks. Cover with foil and steam for 10-12 minutes.\n3. Combine sesame oil, soy sauce and rice wine. Drizzle all over cooked fish.\n4. Garnish with sesame seeds. \nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Dining out can be a challenge nowadays, so if you’re craving some Chinese-style steamed fish, this Soy-Ginger Steamed Pampano is similar to the ones served at Chinese restaurants!\n\nHealthy and delicious, prepare this for your family dinners any day of the week! Don’t forget the extra rice because that tasty sauce is really worth finishing down to the last drop. Get all your ingredients fresh at #TheMarketplace!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "! Generic"
     ],
@@ -44,8 +44,8 @@ const BACK_TO_SCHOOL_DATA = [
       "servingTime": "15 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 Pampano\nSalt & pepper to taste \n3 tbsps. ginger, julienned \n3 tbsps. leeks, julienned \n1 tbsp. sesame oil \n¼ cup soy sauce\n1 tbsp. rice wine\n1 tsp. sesame seeds, toasted",
-      "procedure": "Procedure\nSeason Pampano with salt and pepper. Transfer to a foil-lined steamer basket. \nTop with ginger and leeks. Cover with foil and steam for 10-12 minutes. \nCombine sesame oil, soy sauce and rice wine. Drizzle all over cooked fish. \nGarnish with sesame seeds."
+      "ingredients": "1 Pampano\nSalt & pepper to taste \n3 tbsps. ginger, julienned \n3 tbsps. leeks, julienned \n1 tbsp. sesame oil \n¼ cup soy sauce\n1 tbsp. rice wine\n1 tsp. sesame seeds, toasted",
+      "procedure": "Season Pampano with salt and pepper. Transfer to a foil-lined steamer basket. \nTop with ginger and leeks. Cover with foil and steam for 10-12 minutes. \nCombine sesame oil, soy sauce and rice wine. Drizzle all over cooked fish. \nGarnish with sesame seeds."
     },
     "photo": {
       "filename": "BS2.jpg",
@@ -61,7 +61,7 @@ const BACK_TO_SCHOOL_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Back to School",
-    "caption": "Spaghetti alle Vongole is a tried-and-tested classic with its garlicky white wine sauce, fresh clams, and zesty flavor that reminds us of the sea.\n\nNow you can prepare this dish at home with all the ingredients available at #TheMarketplace! Using Pacific Bay whole clams, you can bet that you are getting the freshest shellfish around! Tell us what you think of this recipe by leaving a comment below!\n\nServing Time: 30 minutes\nYield: 4-6 servings\n\nIngredients\n\n2 tbsps. olive oil \n2 tbsps. butter \n1 white onion, chopped \n5 cloves garlic, chopped \n3 tomatoes, chopped\n500g Pacific Bay Whole Clams \n⅓ cup white wine \n½ cup fish stock \n500g spaghetti, cooked  \nSalt & pepper to taste \n2 tbsps. parsley, chopped \n2 lemon wedges\n\nProcedure\n\n1. Heat up olive oil and butter over medium heat. Once butter is melted, sauté onions, garlic and tomatoes.\n2. Add Pacific Bay Whole Clams and white wine. Don’t stir, and let most of the wine evaporate.\n3. Add fish stock and cover. Let clams cook for 2-4 minutes.\n4. Remove cover, and discard any clams that did not open.\n5. Mix in cooked spaghetti. Season with salt and pepper to taste.\n6. Mix in parsley.\n7. Serve with lemon wedges.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Spaghetti alle Vongole is a tried-and-tested classic with its garlicky white wine sauce, fresh clams, and zesty flavor that reminds us of the sea.\n\nNow you can prepare this dish at home with all the ingredients available at #TheMarketplace! Using Pacific Bay whole clams, you can bet that you are getting the freshest shellfish around! Tell us what you think of this recipe by leaving a comment below!\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Pacific Bay"
     ],
@@ -69,8 +69,8 @@ const BACK_TO_SCHOOL_DATA = [
       "servingTime": "30 minutes",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. olive oil \n2 tbsps. butter \n1 white onion, chopped \n5 cloves garlic, chopped \n3 tomatoes, chopped\n500g Pacific Bay Whole Clams \n⅓ cup white wine \n½ cup fish stock \n500g spaghetti, cooked  \nSalt & pepper to taste \n2 tbsps. parsley, chopped \n2 lemon wedges",
-      "procedure": "Procedure\nHeat up olive oil and butter over medium heat. Once butter is melted, sauté onions, garlic and tomatoes. \nAdd Pacific Bay Whole Clams and white wine. Don’t stir, and let most of the wine evaporate. \nAdd fish stock and cover. Let clams cook for 2-4 minutes. \nRemove cover, and discard any clams that did not open. \nMix in cooked spaghetti. Season with salt and pepper to taste. \nMix in parsley. \nServe with lemon wedges."
+      "ingredients": "2 tbsps. olive oil \n2 tbsps. butter \n1 white onion, chopped \n5 cloves garlic, chopped \n3 tomatoes, chopped\n500g Pacific Bay Whole Clams \n⅓ cup white wine \n½ cup fish stock \n500g spaghetti, cooked  \nSalt & pepper to taste \n2 tbsps. parsley, chopped \n2 lemon wedges",
+      "procedure": "Heat up olive oil and butter over medium heat. Once butter is melted, sauté onions, garlic and tomatoes. \nAdd Pacific Bay Whole Clams and white wine. Don’t stir, and let most of the wine evaporate. \nAdd fish stock and cover. Let clams cook for 2-4 minutes. \nRemove cover, and discard any clams that did not open. \nMix in cooked spaghetti. Season with salt and pepper to taste. \nMix in parsley. \nServe with lemon wedges."
     },
     "photo": {
       "filename": "BS3.jpg",
@@ -86,7 +86,7 @@ const BACK_TO_SCHOOL_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Back to School",
-    "caption": "This quick and easy Asian Soy-Glazed Salmon makes for a satisfying lunch or dinner that’s bursting with comforting flavors.\nThe combination of sweet and savory with fragrant ginger and sesame oil makes this dish a hit for any person of any age. Have it this week and get all the ingredients you need fresh at #TheMarketplace!\n\nServing Time: 18 minutes\nYield: 3 servings\n\nIngredients\n\n3pcs. salmon steak-cuts\nSalt & pepper to taste \n2 tbsps. soy sauce \n1 tbsp. oyster sauce\n1 tbsp. honey \n1 tsp. sesame oil \n1 tsp. ginger, grated \n\nProcedure\n\n1. Preheat oven to 175°C. Combine soy sauce, oyster sauce, honey, sesame oil and ginger. Set aside.\n2. Pat-dry salmon steak-cuts and season with salt and pepper on both sides.\n3. Brush Asian soy glaze all over salmon steak-cuts.\n4. Bake salmon for 12-15 minutes.\n5. Optional: serve with roasted veggies. \nNow you can simply head online and order your groceries at http://bit.ly/OrderTheMarketplace. We’re also on Viber! Join our community via https://bit.ly/TheMarketplaceCommunity.",
+    "caption": "This quick and easy Asian Soy-Glazed Salmon makes for a satisfying lunch or dinner that’s bursting with comforting flavors.\nThe combination of sweet and savory with fragrant ginger and sesame oil makes this dish a hit for any person of any age. Have it this week and get all the ingredients you need fresh at #TheMarketplace!\n\nNow you can simply head online and order your groceries at http://bit.ly/OrderTheMarketplace. We’re also on Viber! Join our community via https://bit.ly/TheMarketplaceCommunity.",
     "brand": [
       "! Generic"
     ],
@@ -94,8 +94,8 @@ const BACK_TO_SCHOOL_DATA = [
       "servingTime": "18 minutes",
       "yield": "3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n3pcs. salmon steak-cuts\nSalt & pepper to taste \n2 tbsps. soy sauce \n1 tbsp. oyster sauce\n1 tbsp. honey \n1 tsp. sesame oil \n1 tsp. ginger, grated",
-      "procedure": "Procedure\nPreheat oven to 175°C. Combine soy sauce, oyster sauce, honey, sesame oil and ginger. Set aside.\nPat-dry salmon steak-cuts and season with salt and pepper on both sides. \nBrush Asian soy glaze all over salmon steak-cuts. \nBake salmon for 12-15 minutes. \nOptional: serve with roasted veggies."
+      "ingredients": "3pcs. salmon steak-cuts\nSalt & pepper to taste \n2 tbsps. soy sauce \n1 tbsp. oyster sauce\n1 tbsp. honey \n1 tsp. sesame oil \n1 tsp. ginger, grated",
+      "procedure": "Preheat oven to 175°C. Combine soy sauce, oyster sauce, honey, sesame oil and ginger. Set aside.\nPat-dry salmon steak-cuts and season with salt and pepper on both sides. \nBrush Asian soy glaze all over salmon steak-cuts. \nBake salmon for 12-15 minutes. \nOptional: serve with roasted veggies."
     },
     "photo": {
       "filename": "BS4.jpg",
@@ -111,7 +111,7 @@ const BACK_TO_SCHOOL_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Back to School",
-    "caption": "Here’s a fun way of getting your kids to eat their chicken and veggies!\n\nThese Ground Chicken Lettuce Wraps made with Magnolia chicken not only taste divine, but they also make eating veggies easy. With a tangy and savory sauce made with soy sauce and tomato paste, this is a dish everyone around the dining table will surely enjoy. Happy feasting! Grab all the ingredients you need at #TheMarketplace.\n\nServing Time: 15 minutes\nYield: 2-4 servings\n\nIngredients\n\n2 tbsps. canola oil\n3 cloves garlic, minced\n1 white onion, minced\n2 tsps. tomato paste\n¼ kg Magnolia Ground Chicken \n2 tbsps. soy sauce \n1 tsp. dried oregano\n¼ cup peanuts, chopped\nSalt & pepper to taste \n1 Romaine lettuce\n\nProcedure\n\n1. Sauté garlic and onion in oil over medium heat. Once soft, mix in tomato paste, and cook for 3 minutes.\n2. Add Magnolia Ground Chicken, and cook until browned.\n3. Mix in soy sauce, oregano and peanuts. Season with salt and pepper to taste. \n4. Serve with lettuce and other preferred veggies.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Here’s a fun way of getting your kids to eat their chicken and veggies!\n\nThese Ground Chicken Lettuce Wraps made with Magnolia chicken not only taste divine, but they also make eating veggies easy. With a tangy and savory sauce made with soy sauce and tomato paste, this is a dish everyone around the dining table will surely enjoy. Happy feasting! Grab all the ingredients you need at #TheMarketplace.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Magnolia"
     ],
@@ -119,8 +119,8 @@ const BACK_TO_SCHOOL_DATA = [
       "servingTime": "15 minutes",
       "yield": "2-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. canola oil \n3 cloves garlic, minced\n1 white onion, minced\n2 tsps. tomato paste\n¼ kg Magnolia Ground Chicken \n2 tbsps. soy sauce \n1 tsp. dried oregano\n¼ cup peanuts, chopped\nSalt & pepper to taste \n1 Romaine lettuce",
-      "procedure": "Procedure\nSauté garlic and onion in oil over medium heat. Once soft, mix in tomato paste, and cook for 3 minutes. \nAdd Magnolia Ground Chicken, and cook until browned. \nMix in soy sauce, oregano and peanuts. Season with salt and pepper to taste. \nServe with lettuce and other preferred veggies."
+      "ingredients": "2 tbsps. canola oil \n3 cloves garlic, minced\n1 white onion, minced\n2 tsps. tomato paste\n¼ kg Magnolia Ground Chicken \n2 tbsps. soy sauce \n1 tsp. dried oregano\n¼ cup peanuts, chopped\nSalt & pepper to taste \n1 Romaine lettuce",
+      "procedure": "Sauté garlic and onion in oil over medium heat. Once soft, mix in tomato paste, and cook for 3 minutes. \nAdd Magnolia Ground Chicken, and cook until browned. \nMix in soy sauce, oregano and peanuts. Season with salt and pepper to taste. \nServe with lettuce and other preferred veggies."
     },
     "photo": {
       "filename": "BS5.jpg",
@@ -155,7 +155,7 @@ const BACK_TO_SCHOOL_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Back to School",
-    "caption": "Give your egg salad sandwich a Japanese twist with this Tamago Sando recipe!\n\nMade with Lady’s Choice Mayonnaise, the addition of spring onions and a touch of sugar instantly adds an elevated touch to the classic lunchbox sandwich. Add all these ingredients to your cart for your next visit to #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 3 servings\n\nIngredients\n\n5 eggs\n4 tbsps. Lady’s Choice Mayonnaise\n1 tbsp. white sugar\n8 slices Classic Gardenia Bread\n3 tbsps. spring onions\nSalt and pepper to taste\n\nProcedure\n\n1. Boil eggs for 9 minutes. After, transfer to an ice bath. Once cooled, peel eggs and set aside three pieces.\n2. Slice two eggs in half, lengthwise.\n3. Finely chop the three remaining eggs. Add Lady’s Choice Mayonnaise and white sugar. Season with salt and pepper to taste.\n4. Remove the crusts of the Classic Gardenia Bread.\n5. Place one halved egg on one bread slice, then fill with egg spread. Cover with another slice of bread.\n6. Cut into half and garnish with spring onions.\n\nYou can also order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Give your egg salad sandwich a Japanese twist with this Tamago Sando recipe!\n\nMade with Lady’s Choice Mayonnaise, the addition of spring onions and a touch of sugar instantly adds an elevated touch to the classic lunchbox sandwich. Add all these ingredients to your cart for your next visit to #TheMarketplace!\n\nYou can also order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Gardenia",
       "Lady's Choice"
@@ -164,8 +164,8 @@ const BACK_TO_SCHOOL_DATA = [
       "servingTime": "15 minutes",
       "yield": "3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n5 eggs\n4 tbsps. Lady’s Choice Mayonnaise\n1 tbsp. white sugar\n8 slices Classic Gardenia Bread\n3 tbsps. spring onions\nSalt and pepper to taste",
-      "procedure": "Procedure\nBoil eggs for 9 minutes. After, transfer to an ice bath. Once cooled, peel eggs and set aside three pieces.\nSlice two eggs in half, lengthwise.\nFinely chop the three remaining eggs. Add Lady’s Choice Mayonnaise and white sugar. Season with salt and pepper to taste.\nRemove the crusts of the Classic Gardenia Bread.\nPlace one halved egg on one bread slice, then fill with egg spread. Cover with another slice of bread. \nCut into half and garnish with spring onions."
+      "ingredients": "5 eggs\n4 tbsps. Lady’s Choice Mayonnaise\n1 tbsp. white sugar\n8 slices Classic Gardenia Bread\n3 tbsps. spring onions\nSalt and pepper to taste",
+      "procedure": "Boil eggs for 9 minutes. After, transfer to an ice bath. Once cooled, peel eggs and set aside three pieces.\nSlice two eggs in half, lengthwise.\nFinely chop the three remaining eggs. Add Lady’s Choice Mayonnaise and white sugar. Season with salt and pepper to taste.\nRemove the crusts of the Classic Gardenia Bread.\nPlace one halved egg on one bread slice, then fill with egg spread. Cover with another slice of bread. \nCut into half and garnish with spring onions."
     },
     "photo": {
       "filename": "BS7.jpg",
@@ -181,7 +181,7 @@ const BACK_TO_SCHOOL_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Back to School",
-    "caption": "Thinking of what to do this weekend with the kids?\n\nWhip up this Banoffee Parfait using Elle & Vire Whipping Cream! Not only is it fun to prepare, but it also tastes great. With kid-friendly flavors of banana and caramel, have this as an afternoon bonding activity and serve it for dessert! All the ingredients you need can be found at #TheMarketplace.\n\nServing Time: 15 minutes\nYield: 2 servings\n\nIngredients\n\n2 bananas, sliced\n1 cup Elle and Vire Whipping Cream\n1 tbsp. Sugar\n1 ½ cup graham crackers, roughly crushed\n½ cup caramel syrup\n\nProcedure\n\n1. In a mixing bowl, whip Elle and Vire Whipping Cream and sugar until soft peaks form.\n2. Grab a glass, and create the first layer with crushed graham crackers, followed by sliced bananas, then the whipped cream. Repeat each layer to fill the glass.\n3. Drizzle with caramel syrup.\nOrder your groceries safely and place them online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Thinking of what to do this weekend with the kids?\n\nWhip up this Banoffee Parfait using Elle & Vire Whipping Cream! Not only is it fun to prepare, but it also tastes great. With kid-friendly flavors of banana and caramel, have this as an afternoon bonding activity and serve it for dessert! All the ingredients you need can be found at #TheMarketplace.\n\nOrder your groceries safely and place them online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Elle & Vire"
     ],
@@ -189,8 +189,8 @@ const BACK_TO_SCHOOL_DATA = [
       "servingTime": "15 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 bananas, sliced\n1 cup Elle and Vire Whipping Cream\n1 tbsp. sugar\n1 ½ cup graham crackers, roughly crushed\n½ cup caramel syrup",
-      "procedure": "Procedure\nIn a mixing bowl, whip Elle and Vire Whipping Cream and sugar until soft peaks form.\nGrab a glass, and create the first layer with crushed graham crackers, followed by sliced bananas, then the whipped cream. Repeat each layer to fill the glass.\nDrizzle with caramel syrup."
+      "ingredients": "2 bananas, sliced\n1 cup Elle and Vire Whipping Cream\n1 tbsp. sugar\n1 ½ cup graham crackers, roughly crushed\n½ cup caramel syrup",
+      "procedure": "In a mixing bowl, whip Elle and Vire Whipping Cream and sugar until soft peaks form.\nGrab a glass, and create the first layer with crushed graham crackers, followed by sliced bananas, then the whipped cream. Repeat each layer to fill the glass.\nDrizzle with caramel syrup."
     },
     "photo": {
       "filename": "BS8.jpg",
@@ -206,7 +206,7 @@ const BACK_TO_SCHOOL_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Back to School",
-    "caption": "There’s nothing like some melty and toasty Garlic Herb Cheese Bread for an afternoon snack. \n\nEasy to prepare so satisfying, don’t forget to use Danes Herb & Garlic Cheese for an added burst of flavor. Feeling extra? Serve it with a side of basil pesto! Available at #TheMarketplace along with other ingredients you need!\n\nServing Time: 20 minutes\nYield: 2-3 servings\n\nIngredients\n\n1 whole ciabatta bread\n1 cup Danes Herb & Garlic Cheese, grated\n½ cup mozzarella cheese, grated\n1 tbsp. crispy garlic bits\n1 tbsp. parsley\n\nProcedure\n\n1. Preheat oven to 180°C. \n2. Slice bread in half lengthwise.\n3. Top each bread slice with Danes Herb & Garlic cheese and mozzarella cheese.\n4. Bake for 10-15 minutes, or until cheese is fully melted\n5. Top with crispy garlic bits and parsley.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "There’s nothing like some melty and toasty Garlic Herb Cheese Bread for an afternoon snack. \n\nEasy to prepare so satisfying, don’t forget to use Danes Herb & Garlic Cheese for an added burst of flavor. Feeling extra? Serve it with a side of basil pesto! Available at #TheMarketplace along with other ingredients you need!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Danes"
     ],
@@ -214,8 +214,8 @@ const BACK_TO_SCHOOL_DATA = [
       "servingTime": "20 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 whole ciabatta bread\n1 cup Danes Herb & Garlic Cheese, grated\n½ cup mozzarella cheese, grated\n1 tbsp. crispy garlic bits\n1 tbsp. parsley",
-      "procedure": "Procedure\nPreheat oven to 180°C. \nSlice bread in half lengthwise.\nTop each bread slice with Danes Herb & Garlic cheese and mozzarella cheese.\nBake for 10-15 minutes, or until cheese is fully melted\nTop with crispy garlic bits and parsley."
+      "ingredients": "1 whole ciabatta bread\n1 cup Danes Herb & Garlic Cheese, grated\n½ cup mozzarella cheese, grated\n1 tbsp. crispy garlic bits\n1 tbsp. parsley",
+      "procedure": "Preheat oven to 180°C. \nSlice bread in half lengthwise.\nTop each bread slice with Danes Herb & Garlic cheese and mozzarella cheese.\nBake for 10-15 minutes, or until cheese is fully melted\nTop with crispy garlic bits and parsley."
     },
     "photo": {
       "filename": "BS9.jpg",
@@ -231,7 +231,7 @@ const BACK_TO_SCHOOL_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Back to School",
-    "caption": "Here’s a breakfast of champions!\n\nThere is so much comfort to be had in a stack of golden, fluffy pancakes, and the combination of salty-and-sweet never gets old. These Bacon Pancakes made with CDO Young Pork Smoked Bacon are a merriment of crunchy, smokey, savory, and sweet. Add some extra maple syrup for maximum satisfaction. All ingredients are available at #TheMarketplace!\n\nServing Time: 20 minutes\nYield: 2-3 servings\n\nIngredients\n\n1 cup flour\n2 tsps. baking powder\n1 tsp. salt\n1 ½ tbsp. sugar\n1 egg\n2 tbsps. butter, melted\n¾ cup milk\n250g CDO Young Pork Smoked Bacon \n4 slices butter\n½ cup maple syrup\n\nProcedure\n\n1. In a mixing bowl, sift together flour, baking powder and salt. \n2. In a separate bowl, mix sugar, egg, butter and milk.\n3. Add the wet ingredients to the dry ingredients. Combine until smooth.\n4. Over medium heat, brush frying pan with butter, and pour ¼ cup of the pancake batter. Wait for small bubbles to appear on the surface of the pancake before flipping. \n5. In a non-stick pan, fry CDO Young Pork Smoked Bacon until crispy.\n6. Serve pancakes with crispy bacon, and top with butter. Drizzle with maple syrup right before serving. \n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Here’s a breakfast of champions!\n\nThere is so much comfort to be had in a stack of golden, fluffy pancakes, and the combination of salty-and-sweet never gets old. These Bacon Pancakes made with CDO Young Pork Smoked Bacon are a merriment of crunchy, smokey, savory, and sweet. Add some extra maple syrup for maximum satisfaction. All ingredients are available at #TheMarketplace!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "CDO"
     ],
@@ -239,8 +239,8 @@ const BACK_TO_SCHOOL_DATA = [
       "servingTime": "20 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup flour\n2 tsps. baking powder\n1 tsp. salt\n1 ½ tbsp. sugar\n1 egg\n2 tbsps. butter, melted\n¾ cup milk\n250g CDO Young Pork Smoked Bacon \n4 slices butter\n½ cup maple syrup",
-      "procedure": "Procedure\nIn a mixing bowl, sift together flour, baking powder and salt. \nIn a separate bowl, mix sugar, egg, butter and milk.\nAdd the wet ingredients to the dry ingredients. Combine until smooth.\nOver medium heat, brush frying pan with butter, and pour ¼ cup of the pancake batter. Wait for small bubbles to appear on the surface of the pancake before flipping. \nIn a non-stick pan, fry CDO Young Pork Smoked Bacon until crispy.\nServe pancakes with crispy bacon, and top with butter. Drizzle with maple syrup right before serving."
+      "ingredients": "1 cup flour\n2 tsps. baking powder\n1 tsp. salt\n1 ½ tbsp. sugar\n1 egg\n2 tbsps. butter, melted\n¾ cup milk\n250g CDO Young Pork Smoked Bacon \n4 slices butter\n½ cup maple syrup",
+      "procedure": "In a mixing bowl, sift together flour, baking powder and salt. \nIn a separate bowl, mix sugar, egg, butter and milk.\nAdd the wet ingredients to the dry ingredients. Combine until smooth.\nOver medium heat, brush frying pan with butter, and pour ¼ cup of the pancake batter. Wait for small bubbles to appear on the surface of the pancake before flipping. \nIn a non-stick pan, fry CDO Young Pork Smoked Bacon until crispy.\nServe pancakes with crispy bacon, and top with butter. Drizzle with maple syrup right before serving."
     },
     "photo": {
       "filename": "BS10.jpg",

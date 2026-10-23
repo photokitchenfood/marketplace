@@ -11,7 +11,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "October IG",
-    "caption": "Craving some Asian-style chicken? Hop on over to #TheMarketplace and get all the items that you need for these Asian Glazed Drumsticks made with Magnolia Gourmet Selection Szechuan Savory Chicken Drumsticks!\n\nBecause the drumsticks come seasoned already, all you need are a few more pantry ingredients such as sesame, honey, garlic, and ginger to amplify the Asian flavors of this dish. Best enjoyed with a cup (or two) of piping hot rice!\n\nServing Time: 1 hour\nYield: 6-8 servings\n\nIngredients\n\n1 pack Magnolia Gourmet Selection Szechuan Savory Chicken Drumsticks\n¼ cup rice wine vinegar\n¼ cup soy sauce\n2 tbsps. sesame oil\n3 tbsps. honey\n1 tbsp. minced garlic\n1 tsp. grated ginger\n2-3 red chilis, chopped\nFreshly chopped scallions and toasted sesame seeds to garnish\n\nProcedure\n\n1. In a bowl, mix rice wine vinegar, soy sauce, sesame oil, honey, garlic, ginger, and red chilis. Adjust spiciness to taste.\n2. Score Magnolia Gourmet Selection Szechuan Savory Chicken Drumsticks and place in a large bowl. Pour the glaze all over, cover, and refrigerate for 30 mins. to overnight. \n3. Preheat your grill. Cook drumsticks for 20-25 mins., turning occasionally, until charred on both sides. Baste chicken with more glaze as needed.\n4. Garnish with freshly chopped scallions and toasted sesame seeds to serve.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Craving some Asian-style chicken? Hop on over to #TheMarketplace and get all the items that you need for these Asian Glazed Drumsticks made with Magnolia Gourmet Selection Szechuan Savory Chicken Drumsticks!\n\nBecause the drumsticks come seasoned already, all you need are a few more pantry ingredients such as sesame, honey, garlic, and ginger to amplify the Asian flavors of this dish. Best enjoyed with a cup (or two) of piping hot rice!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Magnolia"
     ],
@@ -19,8 +19,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "1 hour",
       "yield": "6-8 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 pack Magnolia Gourmet Selection Szechuan Savory Chicken Drumsticks\n¼ cup rice wine vinegar\n¼ cup soy sauce\n2 tbsps. sesame oil\n3 tbsps. honey\n1 tbsp. minced garlic\n1 tsp. grated ginger\n2-3 red chilis, chopped\nFreshly chopped scallions and toasted sesame seeds to garnish",
-      "procedure": "Procedure\nIn a bowl, mix rice wine vinegar, soy sauce, sesame oil, honey, garlic, ginger, and red chilis. Adjust spiciness to taste.\nScore Magnolia Gourmet Selection Szechuan Savory Chicken Drumsticks and place in a large bowl. Pour the glaze all over, cover, and refrigerate for 30 mins. to overnight. \nPreheat your grill. Cook drumsticks for 20-25 mins., turning occasionally, until charred on both sides. Baste chicken with more glaze as needed.\nGarnish with freshly chopped scallions and toasted sesame seeds to serve."
+      "ingredients": "1 pack Magnolia Gourmet Selection Szechuan Savory Chicken Drumsticks\n¼ cup rice wine vinegar\n¼ cup soy sauce\n2 tbsps. sesame oil\n3 tbsps. honey\n1 tbsp. minced garlic\n1 tsp. grated ginger\n2-3 red chilis, chopped\nFreshly chopped scallions and toasted sesame seeds to garnish",
+      "procedure": "In a bowl, mix rice wine vinegar, soy sauce, sesame oil, honey, garlic, ginger, and red chilis. Adjust spiciness to taste.\nScore Magnolia Gourmet Selection Szechuan Savory Chicken Drumsticks and place in a large bowl. Pour the glaze all over, cover, and refrigerate for 30 mins. to overnight. \nPreheat your grill. Cook drumsticks for 20-25 mins., turning occasionally, until charred on both sides. Baste chicken with more glaze as needed.\nGarnish with freshly chopped scallions and toasted sesame seeds to serve."
     },
     "photo": {
       "filename": "IG1.jpg",
@@ -36,7 +36,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "October IG",
-    "caption": "Don’t let the brrr months deter you from enjoying a sunny cocktail at home!\n\nTry your hand at this easy Tropical Mimosa made with Vita Coco Pure Coconut Water. Simply combine it with some sparkling wine, mango-pineapple concentrate, and white rum, and you’re ready to sit back and relax by the poolside.\n\nHead over to #TheMarketplace and stock up on Vita Coco products for a refreshing and healthy ready-to-drink beverage! Best served cold.\n\nServing Time: 5 minutes \nYield: 4 glasses\n\nIngredients\n\n1 cup Vita Coco Pure Coconut\n1 cup sparkling wine\n4 tbsps. mango pineapple concentrate\n4 tbsps. white rum\nLime slices and coconut flakes to garnish\n\nProcedure\n\n1. Rim 4 champagne flutes with lime wedges and dip in coconut flakes.\n2. In a pitcher, stir Vita Coco Pure Coconut, mango pineapple concentrate, and white rum until well-combined.\n3. Pour into the champagne flutes and top with sparkling wine. Garnish with lime slices to serve.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Don’t let the brrr months deter you from enjoying a sunny cocktail at home!\n\nTry your hand at this easy Tropical Mimosa made with Vita Coco Pure Coconut Water. Simply combine it with some sparkling wine, mango-pineapple concentrate, and white rum, and you’re ready to sit back and relax by the poolside.\n\nHead over to #TheMarketplace and stock up on Vita Coco products for a refreshing and healthy ready-to-drink beverage! Best served cold.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Vita Coco"
     ],
@@ -44,8 +44,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "5 minutes",
       "yield": "4 glasses",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup Vita Coco Pure Coconut\n1 cup sparkling wine\n4 tbsps. mango pineapple concentrate\n4 tbsps. white rum\nLime slices and coconut flakes to garnish",
-      "procedure": "Procedure\nRim 4 champagne flutes with lime wedges and dip in coconut flakes.\nIn a pitcher, stir Vita Coco Pure Coconut, mango pineapple concentrate, and white rum until well-combined.\nPour into the champagne flutes and top with sparkling wine. Garnish with lime slices to serve."
+      "ingredients": "1 cup Vita Coco Pure Coconut\n1 cup sparkling wine\n4 tbsps. mango pineapple concentrate\n4 tbsps. white rum\nLime slices and coconut flakes to garnish",
+      "procedure": "Rim 4 champagne flutes with lime wedges and dip in coconut flakes.\nIn a pitcher, stir Vita Coco Pure Coconut, mango pineapple concentrate, and white rum until well-combined.\nPour into the champagne flutes and top with sparkling wine. Garnish with lime slices to serve."
     },
     "photo": {
       "filename": "IG2.jpg",
@@ -61,7 +61,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "October IG",
-    "caption": "Enjoy your Illy Roasted Coffee Beans in the form of an impressive and Instagram-worthy dessert by making these cups of Espresso Panna Cotta!\n\nThis sweet and tiered treat requires a bit of patience and a whole lot of love, so start by heading to #TheMarketplace and get all the ingredients that you need a day or two before making this recipe! Creamy, chocolatey, and with a pronounced kick of caffeine, this is the perfect perk-me-up dessert after an indulgent meal.\n\nServing Time: 5 hours\nYield: 4 servings\n\nIngredients\n\nFor the Panna Cotta:\n2 cups heavy cream\n½ cup whole milk\n2-4 tbsps. Illy Roasted Coffee Beans\n½ cup granulated sugar\n2 tsps. unflavored gelatin\n2 tbsps. cold water\n\nFor the Mocha Layer:\n¼ cup dark chocolate, chopped\n¼ cup heavy cream\n1 shot espresso, made with Illy Roasted Coffee Beans\n\nProcedure\n\n1. Bloom gelatin in cold water for 5 mins.\n2. Simmer and stir heavy cream, milk, sugar, and Illy Roasted Coffee Beans in a saucepan over low heat for 10 mins. Remove from heat and strain out coffee beans.\n3. Mix gelatin into the coffee-infused cream. Strain the mixture into serving glasses. Cool to room temp. then cover and chill for 4 hours to overnight.\n4. For the mocha layer, boil heavy cream. Mix with espresso into the dark chocolate until thick and well-combined. Cool then layer over the fully set panna cotta to serve.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Enjoy your Illy Roasted Coffee Beans in the form of an impressive and Instagram-worthy dessert by making these cups of Espresso Panna Cotta!\n\nThis sweet and tiered treat requires a bit of patience and a whole lot of love, so start by heading to #TheMarketplace and get all the ingredients that you need a day or two before making this recipe! Creamy, chocolatey, and with a pronounced kick of caffeine, this is the perfect perk-me-up dessert after an indulgent meal.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Illy"
     ],
@@ -69,8 +69,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "5 hours",
       "yield": "4 servings",
       "tips": "",
-      "ingredients": "Ingredients\nFor the Panna Cotta:\n2 cups heavy cream\n½ cup whole milk\n2-4 tbsps. Illy Roasted Coffee Beans\n½ cup granulated sugar\n2 tsps. unflavored gelatin\n2 tbsps. cold water\nFor the Mocha Layer:\n¼ cup dark chocolate, chopped\n¼ cup heavy cream\n1 shot espresso, made with Illy Roasted Coffee Beans",
-      "procedure": "Procedure\nBloom gelatin in cold water for 5 mins.\nSimmer and stir heavy cream, milk, sugar, and Illy Roasted Coffee Beans in a saucepan over low heat for 10 mins. Remove from heat and strain out coffee beans.\nMix gelatin into the coffee-infused cream. Strain the mixture into serving glasses. Cool to room temp. then cover and chill for 4 hours to overnight.\nFor the mocha layer, boil heavy cream. Mix with espresso into the dark chocolate until thick and well-combined. Cool then layer over the fully set panna cotta to serve."
+      "ingredients": "For the Panna Cotta:\n2 cups heavy cream\n½ cup whole milk\n2-4 tbsps. Illy Roasted Coffee Beans\n½ cup granulated sugar\n2 tsps. unflavored gelatin\n2 tbsps. cold water\nFor the Mocha Layer:\n¼ cup dark chocolate, chopped\n¼ cup heavy cream\n1 shot espresso, made with Illy Roasted Coffee Beans",
+      "procedure": "Bloom gelatin in cold water for 5 mins.\nSimmer and stir heavy cream, milk, sugar, and Illy Roasted Coffee Beans in a saucepan over low heat for 10 mins. Remove from heat and strain out coffee beans.\nMix gelatin into the coffee-infused cream. Strain the mixture into serving glasses. Cool to room temp. then cover and chill for 4 hours to overnight.\nFor the mocha layer, boil heavy cream. Mix with espresso into the dark chocolate until thick and well-combined. Cool then layer over the fully set panna cotta to serve."
     },
     "photo": {
       "filename": "IG3.jpg",
@@ -124,7 +124,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "October IG",
-    "caption": "What’s better than potato wedges smothered in cheese? Try these Bacon Cheeseburger Loaded Potato Wedges, made with LambWeston Seasoned Wedges, that are packed with the meaty goodness of ground beef and bacon, and seasoned with generous amounts of shredded cheese. Don’t forget to add a squiggle sour cream and a confetti of scallions to balance out the richness! Find LambWeston products and everything else that you need for these irresistibly decadent taters at #TheMarketplace!\n\nServing Time: 45 minutes\nYield: 4-6 servings\n\nIngredients\n\n4 tbsps. olive oil, divided\n½ pack (500g) LambWeston French Fries Seasoned Wedges\n1 cup lean ground beef\n½ cup diced bacon\n1 cup shredded cheddar\nSalt and pepper to taste\nSour cream and chopped scallions to garnish\n\nProcedure\n\n1. Preheat oven to 200°C. Brush a 9x13\" baking dish with olive oil.\n2. Arrange LambWeston French Fries Seasoned Wedges in the baking dish. Bake for 25 mins., turning halfway.\n3. Meanwhile, season ground beef with salt and pepper. Heat oil in a skillet and cook beef over medium-high heat until browned, then set aside. In the same pan, cook diced bacon until crisp.\n4. Sprinkle shredded cheddar, ground beef, and bacon over the crispy wedges. Bake for 3-5 more mins. until the cheese has melted. Drizzle sour cream and garnish with chopped scallions.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "What’s better than potato wedges smothered in cheese? Try these Bacon Cheeseburger Loaded Potato Wedges, made with LambWeston Seasoned Wedges, that are packed with the meaty goodness of ground beef and bacon, and seasoned with generous amounts of shredded cheese. Don’t forget to add a squiggle sour cream and a confetti of scallions to balance out the richness! Find LambWeston products and everything else that you need for these irresistibly decadent taters at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "LambWeston"
     ],
@@ -132,8 +132,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "45 minutes",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n4 tbsps. olive oil, divided\n½ pack (500g) LambWeston French Fries Seasoned Wedges\n1 cup lean ground beef\n½ cup diced bacon\n1 cup shredded cheddar\nSalt and pepper to taste\nSour cream and chopped scallions to garnish",
-      "procedure": "Procedure\nPreheat oven to 200°C. Brush a 9x13\" baking dish with olive oil.\nArrange LambWeston French Fries Seasoned Wedges in the baking dish. Bake for 25 mins., turning halfway.\nMeanwhile, season ground beef with salt and pepper. Heat oil in a skillet and cook beef over medium-high heat until browned, then set aside. In the same pan, cook diced bacon until crisp.\nSprinkle shredded cheddar, ground beef, and bacon over the crispy wedges. Bake for 3-5 more mins. until the cheese has melted. Drizzle sour cream and garnish with chopped scallions."
+      "ingredients": "4 tbsps. olive oil, divided\n½ pack (500g) LambWeston French Fries Seasoned Wedges\n1 cup lean ground beef\n½ cup diced bacon\n1 cup shredded cheddar\nSalt and pepper to taste\nSour cream and chopped scallions to garnish",
+      "procedure": "Preheat oven to 200°C. Brush a 9x13\" baking dish with olive oil.\nArrange LambWeston French Fries Seasoned Wedges in the baking dish. Bake for 25 mins., turning halfway.\nMeanwhile, season ground beef with salt and pepper. Heat oil in a skillet and cook beef over medium-high heat until browned, then set aside. In the same pan, cook diced bacon until crisp.\nSprinkle shredded cheddar, ground beef, and bacon over the crispy wedges. Bake for 3-5 more mins. until the cheese has melted. Drizzle sour cream and garnish with chopped scallions."
     },
     "photo": {
       "filename": "FB2.jpg",
@@ -149,7 +149,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "October IG",
-    "caption": "Recreate the iconic Breakfast Sausage and Egg Muffins at home using Pampanga’s Best Chomps Breakfast Sausage!\n\nReady in under an hour, these breakfast creations are packed with a whole lot of flavour and goodness. They actually are a step up from the popular fast food version — and they’re healthier, too! Get all the items that you need for these breakfast muffins, along with your fill of Pampanga’s Best products, at #TheMarketplace.\n\nServing Time: 45 minutes\nYield: 12 muffins\n\nIngredients\n\n4 large eggs\n2 tbsps. oil, divided\n½ pack (250g) Pampanga's Best Chomps Breakfast Sausage\n2 red tomatoes, diced\nSalt and pepper\nSpring onions and grated cheddar to garnish\n\nProcedure\n\n1. Preheat oven to 180°C. Line muffin pans with parchment or brush with oil.\n2. Heat oil in a skillet over medium-high heat. Cook Pampanga's Best Chomps Breakfast Sausage until nicely browned. Set aside and slice into cubes.\n3. Crack eggs into a large bowl. Season with salt and pepper, then whisk until light and tripled in volume. Mix in diced tomatoes and sausages.\n4. Divide mixture into the muffin pans. Bake for 20-25 mins. until fully set. Cool on a wire rack and top generously with cheddar and spring onions.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Recreate the iconic Breakfast Sausage and Egg Muffins at home using Pampanga’s Best Chomps Breakfast Sausage!\n\nReady in under an hour, these breakfast creations are packed with a whole lot of flavour and goodness. They actually are a step up from the popular fast food version — and they’re healthier, too! Get all the items that you need for these breakfast muffins, along with your fill of Pampanga’s Best products, at #TheMarketplace.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Pampanga's Best"
     ],
@@ -157,8 +157,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "45 minutes",
       "yield": "12 muffins",
       "tips": "",
-      "ingredients": "Ingredients\n4 large eggs\n2 tbsps. oil, divided\n½ pack (250g) Pampanga's Best Chomps Breakfast Sausage\n2 red tomatoes, diced\nSalt and pepper\nSpring onions and grated cheddar to garnish",
-      "procedure": "Procedure\nPreheat oven to 180°C. Line muffin pans with parchment, or brush with oil.\nHeat oil in a skillet over medium-high heat. Cook Pampanga's Best Chomps Breakfast Sausage until nicely browned. Set aside and slice into cubes.\nCrack eggs into a large bowl. Season with salt and pepper, then whisk until light and tripled in volume. Mix in diced tomatoes and sausages.\nDivide mixture into the muffin pans. Bake for 20-25 mins. until fully set. Cool on a wire rack and top generously with cheddar and spring onions."
+      "ingredients": "4 large eggs\n2 tbsps. oil, divided\n½ pack (250g) Pampanga's Best Chomps Breakfast Sausage\n2 red tomatoes, diced\nSalt and pepper\nSpring onions and grated cheddar to garnish",
+      "procedure": "Preheat oven to 180°C. Line muffin pans with parchment, or brush with oil.\nHeat oil in a skillet over medium-high heat. Cook Pampanga's Best Chomps Breakfast Sausage until nicely browned. Set aside and slice into cubes.\nCrack eggs into a large bowl. Season with salt and pepper, then whisk until light and tripled in volume. Mix in diced tomatoes and sausages.\nDivide mixture into the muffin pans. Bake for 20-25 mins. until fully set. Cool on a wire rack and top generously with cheddar and spring onions."
     },
     "photo": {
       "filename": "FB3.jpg",
@@ -174,7 +174,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "October IG",
-    "caption": "If the only way you’ve ever known how to prepare brussels sprouts is by roasting them, think again! This Brussels Sprouts Gratin will most probably be your new favorite recipe.\nBaked with heaps of President Shredded Natural Mozzarella Cheese that melt into a rich and creamy sauce, enjoy this tray of goodness on its own, or opt to have it as a side dish with a tasty slab of steak. Enjoy without delay! Head over to #TheMarketplace and shop all the ingredients that you need for this recipe today.\nServing Time: 45 minutes\nYield: 4 servings\n\nIngredients\n\n500g brussels sprouts, trimmed and halved\n2 tbsps. unsalted butter\n1 onion, peeled and diced\n2 cloves garlic, minced\n6 strips bacon, sliced\n2 cups heavy cream\n1 pack (200g) President Shredded Natural Mozzarella Cheese\n½ cup coarse bread crumbs or panko\nSalt and pepper to taste\n\nProcedure\n\n1. Preheat oven to 200°C.\n2. Blanch brussels sprouts in a pot of salted boiling water for 5 mins. until tender. Cool in an ice bath, drain, and set aside. \n3. Melt butter in a skillet over medium heat. Sauté onions and garlic, then add bacon and cook until crisp. Remove from pan and pour in heavy cream. Simmer and season to taste.\n4. Combine brussels sprouts, bacon, garlic, onions, and heavy cream in a large baking dish. Top with President Shredded Natural Mozzarella Cheese.\n5. Bake for 20 mins. Top with bread crumbs and broil for 2-5 mins. until crisp.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "If the only way you’ve ever known how to prepare brussels sprouts is by roasting them, think again! This Brussels Sprouts Gratin will most probably be your new favorite recipe.\nBaked with heaps of President Shredded Natural Mozzarella Cheese that melt into a rich and creamy sauce, enjoy this tray of goodness on its own, or opt to have it as a side dish with a tasty slab of steak. Enjoy without delay! Head over to #TheMarketplace and shop all the ingredients that you need for this recipe today.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "President"
     ],
@@ -182,8 +182,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "45 minutes",
       "yield": "4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n500g brussels sprouts, trimmed and halved\n2 tbsps. unsalted butter\n1 onion, peeled and diced\n2 cloves garlic, minced\n6 strips bacon, sliced\n2 cups heavy cream\n1 pack (200g) President Shredded Natural Mozzarella Cheese\n½ cup coarse bread crumbs or panko\nSalt and pepper to taste",
-      "procedure": "Procedure\nPreheat oven to 200°C.\nBlanch brussels sprouts in a pot of salted boiling water for 5 mins. until tender. Cool in an ice bath, drain, and set aside. \nMelt butter in a skillet over medium heat. Sauté onions and garlic, then add bacon and cook until crisp. Remove from pan and pour in heavy cream. Simmer and season to taste.\nCombine brussels sprouts, bacon, garlic, onions, and heavy cream in a large baking dish. Top with President Shredded Natural Mozzarella Cheese.\nBake for 20 mins. Top with bread crumbs and broil for 2-5 mins. until crisp."
+      "ingredients": "500g brussels sprouts, trimmed and halved\n2 tbsps. unsalted butter\n1 onion, peeled and diced\n2 cloves garlic, minced\n6 strips bacon, sliced\n2 cups heavy cream\n1 pack (200g) President Shredded Natural Mozzarella Cheese\n½ cup coarse bread crumbs or panko\nSalt and pepper to taste",
+      "procedure": "Preheat oven to 200°C.\nBlanch brussels sprouts in a pot of salted boiling water for 5 mins. until tender. Cool in an ice bath, drain, and set aside. \nMelt butter in a skillet over medium heat. Sauté onions and garlic, then add bacon and cook until crisp. Remove from pan and pour in heavy cream. Simmer and season to taste.\nCombine brussels sprouts, bacon, garlic, onions, and heavy cream in a large baking dish. Top with President Shredded Natural Mozzarella Cheese.\nBake for 20 mins. Top with bread crumbs and broil for 2-5 mins. until crisp."
     },
     "photo": {
       "filename": "FB4.jpg",

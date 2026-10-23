@@ -11,7 +11,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Eat Right Live Healthy",
-    "caption": "Are you in need of a breather or a reason to unwind this weekend? Whip up this easy Lemon Lime Sangria with Dole Sparkling Lemon Lime. This pineapple-based drink goes well with lots of spirits, but for this sangria, we used white wine and some rum! Don’t forget to add basil sprigs for a sophisticated touch! Get all the ingredients you need fresh only at #TheMarketplace!\n\nServing Time: 5 minutes\nYield: 4-5 servings\n\nIngredients\n\n1 whole lemon, sliced\n1 whole lime, sliced\n2 shots rum\n750ml white wine, chilled\n1 ½ cup Dole Sparkling Lemon Lime, chilled\n1 cup basil sprigs\n\nProcedure\n\n1. In a pitcher, add slices of lemon and lime. Save ½ cup of lemon slices for later.\n2. Add rum and white wine. Finish off with Dole Sparkling Lemon Lime.\n3. Garnish each glass with lemon slices and basil sprigs.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Are you in need of a breather or a reason to unwind this weekend? Whip up this easy Lemon Lime Sangria with Dole Sparkling Lemon Lime. This pineapple-based drink goes well with lots of spirits, but for this sangria, we used white wine and some rum! Don’t forget to add basil sprigs for a sophisticated touch! Get all the ingredients you need fresh only at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Dole"
     ],
@@ -19,8 +19,8 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
       "servingTime": "5 minutes",
       "yield": "4-5 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 whole lemon, sliced\n1 whole lime, sliced\n2 shots rum\n750ml white wine, chilled\n1 ½ cup Dole Sparkling Lemon Lime, chilled\n1 cup basil sprigs",
-      "procedure": "Procedure\nIn a pitcher, add slices of lemon and lime. Save ½ cup of lemon slices for later.\nAdd rum and white wine. Finish off with Dole Sparkling Lemon Lime.\nGarnish each glass with lemon slices and basil sprigs."
+      "ingredients": "1 whole lemon, sliced\n1 whole lime, sliced\n2 shots rum\n750ml white wine, chilled\n1 ½ cup Dole Sparkling Lemon Lime, chilled\n1 cup basil sprigs",
+      "procedure": "In a pitcher, add slices of lemon and lime. Save ½ cup of lemon slices for later.\nAdd rum and white wine. Finish off with Dole Sparkling Lemon Lime.\nGarnish each glass with lemon slices and basil sprigs."
     },
     "photo": {
       "filename": "ER1.jpg",
@@ -36,7 +36,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Eat Right Live Healthy",
-    "caption": "If you’re fan of citrusy flavors, then you’ll surely fall in love with this Orange Upside Down Cake! Prepared with the same philosophy behind the classic pineapple upside down cake, tuck into this tangy, buttery cake that’s glazed with a whisper of lemon-orange brandy. All the ingredients you need are available at #TheMarketplace, so shop now!\n\nServing Time: 2 hours\nYield: 1 9-inch cake\n\nIngredients\n\n(For the Orange Cake)\n\n2 ¼ cups flour\n1 ½ tsp. baking powder\n¼ tsp. baking soda\n½ tsp. salt\n3 tbsps. orange zest\n1 cup sugar\n2 eggs\n½ cup butter\n⅓ cup milk\n2 tbsps. sour cream\n\n(For the Orange Base)\n\n2 tbsps. butter\n2 pcs. orange, sliced\n⅓ cup sugar\n\n(For the Orange Glaze)\n\n¼ cup sugar\n2 tbsps. orange juice\n2 tbsps. lemon juice\n1 tbsp. brandy\n\nProcedure\n\n1. In a mixing bowl, sift together flour, baking powder, baking soda and salt. Set aside.\n2. In a separate bowl, combine eggs, butter, milk, sour cream and orange zest. Slowly add in the dry mixture until well incorporated.\n3. Brush the bottom of a 9-inch round cake pan with butter. Evenly sprinkle sugar on top.\n4. Arrange orange slices in a spiral pattern, then gently pour over the cake batter on top.\n5. Bake for 40-45 minutes in a 350°F preheated oven. Let cool for 10 minutes, then invert onto a plate.\n6. In a small pot, add sugar, orange juice, and lemon juice. Dissolve in low heat and add brandy.\n7. Brush inverted cake with orange glaze before serving.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "If you’re fan of citrusy flavors, then you’ll surely fall in love with this Orange Upside Down Cake! Prepared with the same philosophy behind the classic pineapple upside down cake, tuck into this tangy, buttery cake that’s glazed with a whisper of lemon-orange brandy. All the ingredients you need are available at #TheMarketplace, so shop now!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "! Generic"
     ],
@@ -44,8 +44,8 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
       "servingTime": "2 hours",
       "yield": "1 9-inch cake",
       "tips": "",
-      "ingredients": "Ingredients\nOrange Cake\n2 ¼ cups flour\n1 ½ tsp. baking powder\n¼ tsp. baking soda\n½ tsp. salt\n3 tbsps. orange zest\n1 cup sugar\n2 eggs\n½ cup butter\n⅓ cup milk\n2 tbsps. sour cream\nOrange Base\n2 tbsps. butter\n2 pcs. orange, sliced\n⅓ cup sugar\nOrange Glaze\n¼ cup sugar\n2 tbsps. orange juice\n2 tbsps. lemon juice\n1 tbsp. brandy",
-      "procedure": "Procedure\nIn a mixing bowl, sift together flour, baking powder, baking soda and salt. Set aside.\nIn a separate bowl, combine eggs, butter, milk, sour cream and orange zest. Slowly add in the dry mixture until well incorporated.\nBrush the bottom of a 9-inch round cake pan with butter. Evenly sprinkle sugar on top.\nArrange orange slices in a spiral pattern, then gently pour over the cake batter on top.\nBake for 40-45 minutes in a 350°F preheated oven. Let cool for 10 minutes, then invert onto a plate.\nIn a small pot, add sugar, orange juice, and lemon juice. Dissolve in low heat and add brandy.\nBrush inverted cake with orange glaze before serving."
+      "ingredients": "Orange Cake\n2 ¼ cups flour\n1 ½ tsp. baking powder\n¼ tsp. baking soda\n½ tsp. salt\n3 tbsps. orange zest\n1 cup sugar\n2 eggs\n½ cup butter\n⅓ cup milk\n2 tbsps. sour cream\nOrange Base\n2 tbsps. butter\n2 pcs. orange, sliced\n⅓ cup sugar\nOrange Glaze\n¼ cup sugar\n2 tbsps. orange juice\n2 tbsps. lemon juice\n1 tbsp. brandy",
+      "procedure": "In a mixing bowl, sift together flour, baking powder, baking soda and salt. Set aside.\nIn a separate bowl, combine eggs, butter, milk, sour cream and orange zest. Slowly add in the dry mixture until well incorporated.\nBrush the bottom of a 9-inch round cake pan with butter. Evenly sprinkle sugar on top.\nArrange orange slices in a spiral pattern, then gently pour over the cake batter on top.\nBake for 40-45 minutes in a 350°F preheated oven. Let cool for 10 minutes, then invert onto a plate.\nIn a small pot, add sugar, orange juice, and lemon juice. Dissolve in low heat and add brandy.\nBrush inverted cake with orange glaze before serving."
     },
     "photo": {
       "filename": "ER2.jpg",
@@ -61,7 +61,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Eat Right Live Healthy",
-    "caption": "Meat-free alternatives are all the hype at the moment, and if you’re craving a burger but want to keep it meat-free, try out Veega Meat-free Burger Patties that are made with vegetables! In this recipe for Open-Faced Veggie Burgers, they’re served with a tangy and lip-smacking garlic aioli. Easily turn it into a cheeseburger with the help of some cheddar if preferred! Find Veega Meat-free Burger Patties, along with a wide array of meat-free options only at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 1 serving\nIngredients\n\n(For the Garlic Aioli)\n\n½ cup mayonnaise\n1 tbsp. lemon juice\n1 tbsp. garlic, grated\n1 ½ tbsps. parsley, chopped\nSalt and pepper to taste\n\n(For the Burger)\n\n2 tbsps. oil \n2 pcs. Veega Meat-Free Burger Patty\n1 tbsp. garlic aioli \n1 pc. burger bun\n1 cup mixed lettuce\n¼ cup cilantro leaves\n¼ cup cherry tomatoes, halves\n⅛ cup onions, sliced\n⅛ cup feta cheese\n\nProcedure\n\n1. In a small bowl, combine mayonnaise, lemon juice, garlic, and parsley. Season with salt and pepper and mix well. Set aside.\n2. Set a pan over medium heat. Add oil and fry Veega Meat-Free Patties until golden brown on both side.\n3. To assemble the burger, spread garlic aioli on the burger bun. Add mixed lettuce and Veega Burger Patties.\n4. Top with cilantro, cherry tomatoes, onions and finish off with feta cheese. Serve with garlic aioli.\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Meat-free alternatives are all the hype at the moment, and if you’re craving a burger but want to keep it meat-free, try out Veega Meat-free Burger Patties that are made with vegetables! In this recipe for Open-Faced Veggie Burgers, they’re served with a tangy and lip-smacking garlic aioli. Easily turn it into a cheeseburger with the help of some cheddar if preferred! Find Veega Meat-free Burger Patties, along with a wide array of meat-free options only at #TheMarketplace!\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Veega"
     ],
@@ -69,8 +69,8 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
       "servingTime": "15 minutes",
       "yield": "1 serving",
       "tips": "",
-      "ingredients": "Ingredients\nGarlic Aioli\n½ cup mayonnaise\n1 tbsp. lemon juice\n1 tbsp. garlic, grated\n1 ½ tbsps. parsley, chopped\nSalt and pepper to taste\nBurger\n2 tbsps. oil \n2 pcs. Veega Meat-Free Burger Patty\n1 tbsp. garlic aioli \n1 pc. burger bun\n1 cup mixed lettuce\n¼ cup cilantro leaves\n¼ cup cherry tomatoes, halves\n⅛ cup onions, sliced\n⅛ cup feta cheese",
-      "procedure": "Procedure\nIn a small bowl, combine mayonnaise, lemon juice, garlic, and parsley. Season with salt and pepper and mix well. Set aside.\nSet a pan over medium heat. Add oil and fry Veega Meat-Free Patties until golden brown on both side.\nTo assemble the burger, spread garlic aioli on the burger bun. Add mixed lettuce and Veega Burger Patties.\nTop with cilantro, cherry tomatoes, onions and finish off with feta cheese. Serve with garlic aioli."
+      "ingredients": "Garlic Aioli\n½ cup mayonnaise\n1 tbsp. lemon juice\n1 tbsp. garlic, grated\n1 ½ tbsps. parsley, chopped\nSalt and pepper to taste\nBurger\n2 tbsps. oil \n2 pcs. Veega Meat-Free Burger Patty\n1 tbsp. garlic aioli \n1 pc. burger bun\n1 cup mixed lettuce\n¼ cup cilantro leaves\n¼ cup cherry tomatoes, halves\n⅛ cup onions, sliced\n⅛ cup feta cheese",
+      "procedure": "In a small bowl, combine mayonnaise, lemon juice, garlic, and parsley. Season with salt and pepper and mix well. Set aside.\nSet a pan over medium heat. Add oil and fry Veega Meat-Free Patties until golden brown on both side.\nTo assemble the burger, spread garlic aioli on the burger bun. Add mixed lettuce and Veega Burger Patties.\nTop with cilantro, cherry tomatoes, onions and finish off with feta cheese. Serve with garlic aioli."
     },
     "photo": {
       "filename": "ER3.jpg",

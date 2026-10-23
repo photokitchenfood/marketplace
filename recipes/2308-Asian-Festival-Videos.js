@@ -11,7 +11,7 @@ const ASIAN_FESTIVAL_VIDEOS_DATA = [
     "categorySource": "manual",
     "categoryConfidence": "high",
     "campaign": "Asian Festival",
-    "caption": "Missing BTS? We do, too! If watching concert reruns on YouTube are you thing, then why not make a watch party out of it with these Coffee & Soju Popsicle Cocktails made with BTS Macadamia Mocha Latte and Good Day Peach Soju.\n\nThe combination might raise eyebrows, but trust us when we say that this is a winning combination. With the coffee being smooth, creamy, and slightly nutty, a peach-flavored soju popsicle adds a fruity pop that pairs like magic — but feel free to try it with other soju flavors as well! #TheMarketplace is home to a wide range of imported Korean items, so what are you waiting for? Head over now! \n\nServing Time: 5 hours\nYield: 6 servings\n\nIngredients\n\n2 bottles BTS Macadamia Mocha Latte \n1/4 cup honey \n1/2 cup brown sugar \n1 bottle Good Day Peach Soju \n1 1/2 cups sparkling water \n\nProcedure\n\n1. Pour BTS Macadamia Mocha Latte into popiscle molds. Freeze for at least 5 hours, or until firm.\n2. Place honey and brown sugar in 2 separate plates. Dip the rim of each serving glass in honey, then coat with brown sugar.\n3. To assemble, add ice into your serving glass. Pour Good Day Peach Soju until the glass is a third full, then top with sparkling water.\n4. Add 1 BTS Macadamia Mocha Latte popsicle into each glass, and stir to let the popsicle melt into the soju mix.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Missing BTS? We do, too! If watching concert reruns on YouTube are you thing, then why not make a watch party out of it with these Coffee & Soju Popsicle Cocktails made with BTS Macadamia Mocha Latte and Good Day Peach Soju.\n\nThe combination might raise eyebrows, but trust us when we say that this is a winning combination. With the coffee being smooth, creamy, and slightly nutty, a peach-flavored soju popsicle adds a fruity pop that pairs like magic — but feel free to try it with other soju flavors as well! #TheMarketplace is home to a wide range of imported Korean items, so what are you waiting for? Head over now!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "BTS",
       "Good Day"
@@ -20,8 +20,8 @@ const ASIAN_FESTIVAL_VIDEOS_DATA = [
       "servingTime": "5 hours",
       "yield": "6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 bottles BTS Macadamia Mocha Latte \n1/4 cup honey \n1/2 cup brown sugar \n1 bottle Good Day Peach Soju \n1 1/2 cups sparkling water",
-      "procedure": "Procedure\nPour BTS Macadamia Mocha Latte into popiscle molds. Freeze for at least 5 hours, or until firm.\nPlace honey and brown sugar in 2 separate plates. Dip the rim of each serving glass in honey, then coat with brown sugar.\nTo assemble, add ice into your serving glass. Pour Good Day Peach Soju until the glass is a third full, then top with sparkling water.\nAdd 1 BTS Macadamia Mocha Latte popsicle into each glass, and stir to let the popsicle melt into the soju mix."
+      "ingredients": "2 bottles BTS Macadamia Mocha Latte \n1/4 cup honey \n1/2 cup brown sugar \n1 bottle Good Day Peach Soju \n1 1/2 cups sparkling water",
+      "procedure": "Pour BTS Macadamia Mocha Latte into popiscle molds. Freeze for at least 5 hours, or until firm.\nPlace honey and brown sugar in 2 separate plates. Dip the rim of each serving glass in honey, then coat with brown sugar.\nTo assemble, add ice into your serving glass. Pour Good Day Peach Soju until the glass is a third full, then top with sparkling water.\nAdd 1 BTS Macadamia Mocha Latte popsicle into each glass, and stir to let the popsicle melt into the soju mix."
     },
     "photo": {
       "filename": "AF-EAP.jpg",

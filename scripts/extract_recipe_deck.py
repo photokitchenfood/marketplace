@@ -71,6 +71,7 @@ from pptx.enum.shapes import MSO_SHAPE_TYPE, PP_PLACEHOLDER
 from PIL import Image
 
 from brand_canon import canon_brands
+from recipe_clean import clean_item
 
 THUMB_MAX_DIM = 500
 THUMB_JPEG_QUALITY = 85
@@ -1644,10 +1645,10 @@ def extract_items(prs, profile, ppm=None, warnings=None, with_photos=True):
                 "servingTime": "", "yield": "", "tips": ""
             }
             ingredients = strip_label(
-                clean_multiline(shape_text(ingredients_ph)) if ingredients_ph else "", r"Ingredients:"
+                clean_multiline(shape_text(ingredients_ph)) if ingredients_ph else "", r"Ingredients?\s*:|Ingredients?\s*(?=[\x0b\n]|$)"
             )
             procedure = strip_label(
-                clean_multiline(shape_text(procedure_ph)) if procedure_ph else "", r"Procedure:"
+                clean_multiline(shape_text(procedure_ph)) if procedure_ph else "", r"Procedures?\s*:|Procedures?\s*(?=[\x0b\n]|$)"
             )
             item["recipe"] = {
                 "servingTime": serving["servingTime"],
@@ -1658,6 +1659,9 @@ def extract_items(prs, profile, ppm=None, warnings=None, with_photos=True):
             }
             item["_slides"] = 2
 
+        # The Caption box can carry the whole recipe block, and heading rows can survive as list
+        # items: keep each section to its own content (see recipe_clean.py).
+        clean_item(item)
         item["brand"] = canon_brands(extract_brands(caption_ph, procedure_ph))
         items.append(item)
 

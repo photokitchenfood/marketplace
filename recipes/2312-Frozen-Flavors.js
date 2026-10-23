@@ -11,7 +11,7 @@ const FROZEN_FLAVORS_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Frozen Flavors",
-    "caption": "It is impossible to not think of Avocado Ice Cream when Arce Dairy is mentioned.\n\nGiven that the holidays are also a popular period for gifting or creating graham cracker fruit floats, we combined Arce Dairy’s famous ice cream with ingredients such as graham crackers and condensed milk to make this delicious Avocado Graham Float Sundae. Make this anytime of the year as it is a truly decadent way to enjoy the Philippines’ favorite pitted fruit. Get what you need to make this lip-smacking dessert at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 2 servings\n\n\nIngredients\n½ cup whipping cream\n½ tsp. vanilla extract\n3 tbsps. powdered sugar\n1 cup crushed graham crackers\n2 tbsps. condensed milk\n4 scoops Arce Dairy Avocado Ice Cream\n1/4 cup avocado, sliced\n\n\nProcedure\nIn a large bowl, whip the heavy cream, vanilla extract, and powdered sugar until stiff peaks form. Set aside.\nIn a bowl, combine ¾ cup crushed graham crackers and sweetened condensed milk. Mix well until the graham crackers are evenly coated.\nIn a glass, layer a scoop of Arce Dairy Avocado Ice Cream, graham cracker mixture, and whipped cream. Repeat to make another layer.\nTop with sliced avocado, and the remaining crushed graham. Serve immediately.\n\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "It is impossible to not think of Avocado Ice Cream when Arce Dairy is mentioned.\n\nGiven that the holidays are also a popular period for gifting or creating graham cracker fruit floats, we combined Arce Dairy’s famous ice cream with ingredients such as graham crackers and condensed milk to make this delicious Avocado Graham Float Sundae. Make this anytime of the year as it is a truly decadent way to enjoy the Philippines’ favorite pitted fruit. Get what you need to make this lip-smacking dessert at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Arce Dairy"
     ],
@@ -19,8 +19,8 @@ const FROZEN_FLAVORS_DATA = [
       "servingTime": "15 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n½ cup whipping cream\n½ tsp. vanilla extract\n3 tbsps. powdered sugar\n1 cup crushed graham crackers\n2 tbsps. condensed milk\n4 scoops Arce Dairy Avocado Ice Cream\n1/4 cup avocado, sliced",
-      "procedure": "Procedure\nIn a large bowl, whip the heavy cream, vanilla extract, and powdered sugar until stiff peaks form. Set aside.\nIn a bowl, combine ¾ cup crushed graham crackers and sweetened condensed milk. Mix well until the graham crackers are evenly coated.\nIn a glass, layer a scoop of Arce Dairy Avocado Ice Cream, graham cracker mixture, and whipped cream. Repeat to make another layer.\nTop with sliced avocado, and the remaining crushed graham. Serve immediately."
+      "ingredients": "½ cup whipping cream\n½ tsp. vanilla extract\n3 tbsps. powdered sugar\n1 cup crushed graham crackers\n2 tbsps. condensed milk\n4 scoops Arce Dairy Avocado Ice Cream\n1/4 cup avocado, sliced",
+      "procedure": "In a large bowl, whip the heavy cream, vanilla extract, and powdered sugar until stiff peaks form. Set aside.\nIn a bowl, combine ¾ cup crushed graham crackers and sweetened condensed milk. Mix well until the graham crackers are evenly coated.\nIn a glass, layer a scoop of Arce Dairy Avocado Ice Cream, graham cracker mixture, and whipped cream. Repeat to make another layer.\nTop with sliced avocado, and the remaining crushed graham. Serve immediately."
     },
     "photo": {
       "filename": "FF1.jpg",
@@ -36,7 +36,7 @@ const FROZEN_FLAVORS_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Frozen Flavors",
-    "caption": "Irish Coffee is originally a coffee-based alcoholic cocktail that is made with hot coffee, sugar, a splash of Irish whiskey, and a topping of whipped cream.\n\nThanks to Carmen’s Best Brazilian Coffee Ice Cream, we got inspired to make an Irish Coffee-inspired sundae with crumbled brownies, caramel fudge, and crushed cookies. In true Irish fashion, feel free to add some Irish whiskey or a shot of espresso (or why not both!) as you please. Head over to #TheMarketplace and get all the ingredients that you need.\n\nServing Time: 5 minutes \nYield: 1 serving\n\nIngredients\n1 cup brownies, crumbled\n2 scoops Carmen’s Best Brazilian Coffee Ice Cream\n¼ cup caramel fudge\n2 tbsps. cookies, crushed\n\nProcedure\nIn a glass add a layer of crumbled brownies, a scoop of  Carmen’s Best Brazilian Coffee Ice Cream, drizzle caramel fudge and top with crushed cookies.\nRepeat to make another layer and serve immediately.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Irish Coffee is originally a coffee-based alcoholic cocktail that is made with hot coffee, sugar, a splash of Irish whiskey, and a topping of whipped cream.\n\nThanks to Carmen’s Best Brazilian Coffee Ice Cream, we got inspired to make an Irish Coffee-inspired sundae with crumbled brownies, caramel fudge, and crushed cookies. In true Irish fashion, feel free to add some Irish whiskey or a shot of espresso (or why not both!) as you please. Head over to #TheMarketplace and get all the ingredients that you need.\n\nRepeat to make another layer and serve immediately.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Carmen's Best"
     ],
@@ -44,8 +44,8 @@ const FROZEN_FLAVORS_DATA = [
       "servingTime": "5 minutes",
       "yield": "1 serving",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup brownies, crumbled\n2 scoops Carmen’s Best Brazilian Coffee Ice Cream\n¼ cup caramel fudge\n2 tbsps. cookies, crushed",
-      "procedure": "Procedure\nIn a glass add a layer of crumbled brownies, a scoop of  Carmen’s Best Brazilian Coffee Ice Cream, drizzle caramel fudge and top with crushed cookies.\nRepeat to ake another layer and serve immediately."
+      "ingredients": "1 cup brownies, crumbled\n2 scoops Carmen’s Best Brazilian Coffee Ice Cream\n¼ cup caramel fudge\n2 tbsps. cookies, crushed",
+      "procedure": "In a glass add a layer of crumbled brownies, a scoop of  Carmen’s Best Brazilian Coffee Ice Cream, drizzle caramel fudge and top with crushed cookies.\nRepeat to ake another layer and serve immediately."
     },
     "photo": {
       "filename": "FF2.jpg",

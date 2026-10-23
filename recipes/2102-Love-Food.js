@@ -20,8 +20,8 @@ const LOVE_FOOD_DATA = [
       "servingTime": "— 4 hours",
       "yield": "— 1 trifle/ serves 4",
       "tips": "—",
-      "ingredients": "Ingredients\nChocolate Pudding: \n1 cup heavy cream\n1 cup milk \n½ cup white sugar \n½ cup chocolate syrup\n2 tbsps. cornstarch \n2 tbsps. cocoa powder\nPinch of salt\n2 egg yolks\n1 tbsp. butter \n\n1 cup whipped cream \n1 cup Casino Chocolate Cookies, crumbled \n½ cup Nips Peanut Deluxe",
-      "procedure": "Procedure\nIn a medium saucepan, combine together cream, milk, sugar and chocolate syrup. Bring to a simmer. \nIn a heatproof bowl, whisk together cornstarch, cocoa, salt and egg yolks. Stream in half of the hot milk mixture while whisking continuously. Once well combined, return everything to the saucepan. \nContinue to cook over low heat while whisking continuously for about 10 minutes or until mixture is thick enough to coat the back of a spoon. Off heat, whisk in butter. Let cool completely. \nTo assemble, layer your trifle with chocolate pudding, whipped cream, crumbled cookies, and Nips."
+      "ingredients": "Chocolate Pudding: \n1 cup heavy cream\n1 cup milk \n½ cup white sugar \n½ cup chocolate syrup\n2 tbsps. cornstarch \n2 tbsps. cocoa powder\nPinch of salt\n2 egg yolks\n1 tbsp. butter \n\n1 cup whipped cream \n1 cup Casino Chocolate Cookies, crumbled \n½ cup Nips Peanut Deluxe",
+      "procedure": "In a medium saucepan, combine together cream, milk, sugar and chocolate syrup. Bring to a simmer. \nIn a heatproof bowl, whisk together cornstarch, cocoa, salt and egg yolks. Stream in half of the hot milk mixture while whisking continuously. Once well combined, return everything to the saucepan. \nContinue to cook over low heat while whisking continuously for about 10 minutes or until mixture is thick enough to coat the back of a spoon. Off heat, whisk in butter. Let cool completely. \nTo assemble, layer your trifle with chocolate pudding, whipped cream, crumbled cookies, and Nips."
     },
     "photo": {
       "filename": "LF1.jpg",
@@ -45,8 +45,8 @@ const LOVE_FOOD_DATA = [
       "servingTime": "— 30 minutes",
       "yield": "— 4pcs",
       "tips": "— Serve with garlic rice or buttered noodles.",
-      "ingredients": "Ingredients\n3 tbsps. il \n4 pcs. leg quarters \n3 cloves garlic, chopped\n1 white onion, chopped \n1 bottle Papa Alfredo Basil Pesto\n1 cup heavy cream \n½ cup cherry tomatoes, halved\n¼ cup fresh basil leaves \nSalt & pepper to taste",
-      "procedure": "Procedure\nIn a large pan, heat up oil over medium high heat. Sear leg quarters until golden brown on both sides. Set aside chicken while retaining the oil in the pan. \nIn the same pan, sauté garlic and onion until soft and fragrant. Mix in Papa Alfredo Basil Pesto and heavy cream. \nAdd back seared chicken and cherry tomatoes. Season with salt and pepper to taste. Let simmer for 15-20 minutes. \nTurn off the heat, mix in fresh basil leaves. Serve."
+      "ingredients": "3 tbsps. il \n4 pcs. leg quarters \n3 cloves garlic, chopped\n1 white onion, chopped \n1 bottle Papa Alfredo Basil Pesto\n1 cup heavy cream \n½ cup cherry tomatoes, halved\n¼ cup fresh basil leaves \nSalt & pepper to taste",
+      "procedure": "In a large pan, heat up oil over medium high heat. Sear leg quarters until golden brown on both sides. Set aside chicken while retaining the oil in the pan. \nIn the same pan, sauté garlic and onion until soft and fragrant. Mix in Papa Alfredo Basil Pesto and heavy cream. \nAdd back seared chicken and cherry tomatoes. Season with salt and pepper to taste. Let simmer for 15-20 minutes. \nTurn off the heat, mix in fresh basil leaves. Serve."
     },
     "photo": {
       "filename": "LF2.jpg",
@@ -70,8 +70,8 @@ const LOVE_FOOD_DATA = [
       "servingTime": "— 30 minutes",
       "yield": "— serves 4",
       "tips": "—",
-      "ingredients": "Ingredients\nMeatballs:\n500g ground beef \n1 egg \n⅓ cup bread crumbs\n1 white onion, chopped\n5 cloves garlic, minced \n¼ cup parsley, chopped \n2 tbsps. soy sauce \nSalt & pepper to taste\n¼ cup olive oil \nSpaghetti: \n500g spaghetti noodles\n2 tbsps. olive oil \n5 cloves garlic, chopped\n1 white onion, chopped\n3 cups spaghetti sauce \n½ cup parmesan cheese, grated\nSalt & pepper to taste",
-      "procedure": "Procedure\nCombine together all ingredients for meatballs. Form into balls. \nHeat up olive oil in a frying pan. Sear meatballs in all sides. Set aside. \nCook spaghetti according to package directions. \nIn a large pot, heat up olive oil over medium heat. Sauté garlic and onion until soft. Mix in spaghetti sauce and season with salt and pepper. \nAdd the seared meatballs and simmer for 15 minutes. Mix in parmesan cheese. \nServe cooked spaghetti noodles with a generous portion of meatballs and sauce. Top with more parmesan cheese if desired."
+      "ingredients": "Meatballs:\n500g ground beef \n1 egg \n⅓ cup bread crumbs\n1 white onion, chopped\n5 cloves garlic, minced \n¼ cup parsley, chopped \n2 tbsps. soy sauce \nSalt & pepper to taste\n¼ cup olive oil \nSpaghetti: \n500g spaghetti noodles\n2 tbsps. olive oil \n5 cloves garlic, chopped\n1 white onion, chopped\n3 cups spaghetti sauce \n½ cup parmesan cheese, grated\nSalt & pepper to taste",
+      "procedure": "Combine together all ingredients for meatballs. Form into balls. \nHeat up olive oil in a frying pan. Sear meatballs in all sides. Set aside. \nCook spaghetti according to package directions. \nIn a large pot, heat up olive oil over medium heat. Sauté garlic and onion until soft. Mix in spaghetti sauce and season with salt and pepper. \nAdd the seared meatballs and simmer for 15 minutes. Mix in parmesan cheese. \nServe cooked spaghetti noodles with a generous portion of meatballs and sauce. Top with more parmesan cheese if desired."
     },
     "photo": {
       "filename": "LF3.jpg",
@@ -95,8 +95,8 @@ const LOVE_FOOD_DATA = [
       "servingTime": "— 1 hour",
       "yield": "—",
       "tips": "— Tonic water can be replaced with any clear soda and orange juice may be replace with preferred fruit juice.",
-      "ingredients": "Ingredients\n½ cup green apples, diced\n¼ cup red apples, diced \n½ cup oranges, quartered sliced\n1 bottle Winemakers Reserve Merlot\n2 cups tonic water \n½ cup orange juice \n½ cup honey",
-      "procedure": "Procedure\nCombine green apples, red apples, and oranges in your serving carafe. \nDissolve honey in orange juice. Add this to the carafe, along with the Merlot, tonic water and orange juice. Mix until well combined. \nChill for 1 hour."
+      "ingredients": "½ cup green apples, diced\n¼ cup red apples, diced \n½ cup oranges, quartered sliced\n1 bottle Winemakers Reserve Merlot\n2 cups tonic water \n½ cup orange juice \n½ cup honey",
+      "procedure": "Combine green apples, red apples, and oranges in your serving carafe. \nDissolve honey in orange juice. Add this to the carafe, along with the Merlot, tonic water and orange juice. Mix until well combined. \nChill for 1 hour."
     },
     "photo": {
       "filename": "LF4.jpg",
@@ -120,8 +120,8 @@ const LOVE_FOOD_DATA = [
       "servingTime": "— 30 minutes",
       "yield": "— 3 ramekins",
       "tips": "—",
-      "ingredients": "Ingredients\n½ cup Mars Chocolate Milk Drink\n½ cup Mars Caramel Milk Drink\n2 cups bittersweet chocolate, chopped \n1 cup heavy cream \n¼ cup sugar \n¾ cup caramel syrup",
-      "procedure": "Procedure\nIn a medium saucepan, combine Mars Chocolate Milk Drink and Mars Caramel Milk Drink. Bring to a simmer. \nPlace chopped chocolate in a heatproof bowl. Add hot milk into the chocolate and mix until chocolate is melted. Let cool. \nBeat cream and sugar together until they form stiff peaks. \nFold in half of the whipped cream into the cooled chocolate ganache and reserve half for topping. \nDivide caramel syrup into 3 ramekins. Layer in the chocolate-caramel mousse next. Finally, place a dollop of whipped cream on top of each."
+      "ingredients": "½ cup Mars Chocolate Milk Drink\n½ cup Mars Caramel Milk Drink\n2 cups bittersweet chocolate, chopped \n1 cup heavy cream \n¼ cup sugar \n¾ cup caramel syrup",
+      "procedure": "In a medium saucepan, combine Mars Chocolate Milk Drink and Mars Caramel Milk Drink. Bring to a simmer. \nPlace chopped chocolate in a heatproof bowl. Add hot milk into the chocolate and mix until chocolate is melted. Let cool. \nBeat cream and sugar together until they form stiff peaks. \nFold in half of the whipped cream into the cooled chocolate ganache and reserve half for topping. \nDivide caramel syrup into 3 ramekins. Layer in the chocolate-caramel mousse next. Finally, place a dollop of whipped cream on top of each."
     },
     "photo": {
       "filename": "LF5.jpg",
@@ -145,8 +145,8 @@ const LOVE_FOOD_DATA = [
       "servingTime": "— 1 hour",
       "yield": "— 14 cupcakes",
       "tips": "—",
-      "ingredients": "Ingredients\nChocolate cupcakes: \n1 cup all purpose flour\n1 cup brown sugar \n½ cup cocoa powder\n1 tsp. baking soda\n½ tsp salt \n1 egg \n½ cup milk \n½ cup canola oil \n1 tsp. vanilla \n½ cup warm water \n14 pcs. Ferrero Chocolate\nChocolate Frosting:\n1 ½ cup butter, at room temp.\n1 ½ cup semisweet chocolate, melted\n¼ cup cocoa powder \n3 cups powdered sugar \n¼ cup - ½ cup heavy cream \n14 pcs. Ferrero Chocolate",
-      "procedure": "Procedure\nWhisk together flour, sugar, cocoa, baking soda, and salt. In another bowl, combine egg, milk, oil, vanilla, and water. \nAdd the wet ingredients to the dry ingredients and whisk together until well combined. \nFill cupcake liners ½ full and place one Ferrero chocolate on each. Bake at 175C for 18-20 minutes. Let cool. \nBeat butter until smooth. Next, beat in melted chocolate. Once well incorporated, mix in cocoa and powdered sugar. \nSlowly mix in heavy cream as needed until desired consistency. \nPipe frosting on top of cooled cupcakes and top each with a Ferrero Chocolate."
+      "ingredients": "Chocolate cupcakes: \n1 cup all purpose flour\n1 cup brown sugar \n½ cup cocoa powder\n1 tsp. baking soda\n½ tsp salt \n1 egg \n½ cup milk \n½ cup canola oil \n1 tsp. vanilla \n½ cup warm water \n14 pcs. Ferrero Chocolate\nChocolate Frosting:\n1 ½ cup butter, at room temp.\n1 ½ cup semisweet chocolate, melted\n¼ cup cocoa powder \n3 cups powdered sugar \n¼ cup - ½ cup heavy cream \n14 pcs. Ferrero Chocolate",
+      "procedure": "Whisk together flour, sugar, cocoa, baking soda, and salt. In another bowl, combine egg, milk, oil, vanilla, and water. \nAdd the wet ingredients to the dry ingredients and whisk together until well combined. \nFill cupcake liners ½ full and place one Ferrero chocolate on each. Bake at 175C for 18-20 minutes. Let cool. \nBeat butter until smooth. Next, beat in melted chocolate. Once well incorporated, mix in cocoa and powdered sugar. \nSlowly mix in heavy cream as needed until desired consistency. \nPipe frosting on top of cooled cupcakes and top each with a Ferrero Chocolate."
     },
     "photo": {
       "filename": "LF6.jpg",
@@ -170,8 +170,8 @@ const LOVE_FOOD_DATA = [
       "servingTime": "— 4 hours",
       "yield": "— 1 8-inch cake",
       "tips": "—",
-      "ingredients": "Ingredients\n4 packs Kitkat bars (73g each), broken into pieces. \n1 cup graham cracker crumbs \n½ cup unsalted butter, melted \n½ tsp. salt \n2 blocks cream cheese (500g total), softened \n1 cup all purpose cream \n1 cup chocolate syrup \n¼ cup powdered sugar \n1 tsp. vanilla",
-      "procedure": "Procedure\nIn a food processor,  crush together 3 packs Kitkat and graham cracker crumbs. Stream in melted butter and pulse until you achieve a sandy texture. \nTransfer crumb mixture into a lined 8-inch springform pan. Refrigerate for 30 minutes. \nBeat cream cheese until smooth. Mix in cream, ½ cup chocolate syrup, powdered sugar and vanilla. Beat until well incorporated. \nTransfer cream cheese mixture on top of the chilled crust and refrigerate for at least 3 hours or ideally overnight. \nWhen about to serve, run a thin knife around the cheesecake and release from the springform pan. Transfer to a serving platter and top with remaining ½ cup chocolate syrup and remaining 1 pack of crumbled Kitkat."
+      "ingredients": "4 packs Kitkat bars (73g each), broken into pieces. \n1 cup graham cracker crumbs \n½ cup unsalted butter, melted \n½ tsp. salt \n2 blocks cream cheese (500g total), softened \n1 cup all purpose cream \n1 cup chocolate syrup \n¼ cup powdered sugar \n1 tsp. vanilla",
+      "procedure": "In a food processor,  crush together 3 packs Kitkat and graham cracker crumbs. Stream in melted butter and pulse until you achieve a sandy texture. \nTransfer crumb mixture into a lined 8-inch springform pan. Refrigerate for 30 minutes. \nBeat cream cheese until smooth. Mix in cream, ½ cup chocolate syrup, powdered sugar and vanilla. Beat until well incorporated. \nTransfer cream cheese mixture on top of the chilled crust and refrigerate for at least 3 hours or ideally overnight. \nWhen about to serve, run a thin knife around the cheesecake and release from the springform pan. Transfer to a serving platter and top with remaining ½ cup chocolate syrup and remaining 1 pack of crumbled Kitkat."
     },
     "photo": {
       "filename": "LF7.jpg",
@@ -195,8 +195,8 @@ const LOVE_FOOD_DATA = [
       "servingTime": "— 25 minutes",
       "yield": "— 12 bars",
       "tips": "—",
-      "ingredients": "Ingredients\n½ cup butter, softened \n¾ cup brown sugar \n1 egg \n2 tsp. vanilla \n1 ¾ cup all purpose flour \n½ tsp. baking powder \n½ tsp. baking soda \n1 cup Maltesers",
-      "procedure": "Procedure\nBeat together butter, brown sugar, egg, and vanilla until smooth and creamy. \nIn a separate bowl, whisk together flour, baking powder, and baking soda. Add this to the butter mixture and mix until well incorporated. Fold in Maltesers. \nTransfer to a lined 8x8 inch baking pan. Bake at 175C for 15-20 minutes or until golden brown. \nLet cool completely before cutting into 12 bars."
+      "ingredients": "½ cup butter, softened \n¾ cup brown sugar \n1 egg \n2 tsp. vanilla \n1 ¾ cup all purpose flour \n½ tsp. baking powder \n½ tsp. baking soda \n1 cup Maltesers",
+      "procedure": "Beat together butter, brown sugar, egg, and vanilla until smooth and creamy. \nIn a separate bowl, whisk together flour, baking powder, and baking soda. Add this to the butter mixture and mix until well incorporated. Fold in Maltesers. \nTransfer to a lined 8x8 inch baking pan. Bake at 175C for 15-20 minutes or until golden brown. \nLet cool completely before cutting into 12 bars."
     },
     "photo": {
       "filename": "LF8.jpg",
@@ -220,8 +220,8 @@ const LOVE_FOOD_DATA = [
       "servingTime": "— 5 minutes",
       "yield": "— 1 Fruiquet",
       "tips": "—",
-      "ingredients": "Ingredients\n1 cup melting chocolate \n6-8 pcs strawberries \n1 pack Pocky (flavor of your choice or assorted) \n3-5 pcs wafer sticks",
-      "procedure": "Procedure\nMelt chocolate either by microwaving it in 30 second intervals or by putting it over a double boiler. \nSkewer each strawberry with a barbecue or metal stick. Dip strawberries in the melted chocolate and let set over a parchment-lined tray. \nArrange chocolate-dipped strawberries, Pocky sticks and wafer sticks in desired container."
+      "ingredients": "1 cup melting chocolate \n6-8 pcs strawberries \n1 pack Pocky (flavor of your choice or assorted) \n3-5 pcs wafer sticks",
+      "procedure": "Melt chocolate either by microwaving it in 30 second intervals or by putting it over a double boiler. \nSkewer each strawberry with a barbecue or metal stick. Dip strawberries in the melted chocolate and let set over a parchment-lined tray. \nArrange chocolate-dipped strawberries, Pocky sticks and wafer sticks in desired container."
     },
     "photo": {
       "filename": "LF9.jpg",
@@ -264,8 +264,8 @@ const LOVE_FOOD_DATA = [
       "servingTime": "— 30 minutes",
       "yield": "— serve 4-6",
       "tips": "—",
-      "ingredients": "Ingredients\n2 tbsps. olive oil \n1 white onion, chopped \n5 cloves garlic, chopped \n1 cup mushrooms, sliced \n250g ground beef \n¼ cup French Cellars Cabernet Sauvignon \n1 bottle Papa Alfredo Tomato & Garlic Italian Pasta Sauce\nSalt & pepper to taste \n½ cup parmesan cheese\n1 pack Papa Alfredo Penne",
-      "procedure": "Procedure\nIn a pot, heat olive oil over medium heat. Sauté onion, garlic and mushrooms until soft. Add in ground beef and cook until browned. \nAdd red wine and let reduce.\nMix in Papa Alfredo Tomato & Garlic Italian sauce. Let simmer for 15 minutes. \nMix in parmesan cheese then season with salt and pepper. \nCook Papa Alfredo Penne according to package directions. \nMix together pasta and meat sauce. \nServe with remaining French Cellars Cabernet Sauvignon."
+      "ingredients": "2 tbsps. olive oil \n1 white onion, chopped \n5 cloves garlic, chopped \n1 cup mushrooms, sliced \n250g ground beef \n¼ cup French Cellars Cabernet Sauvignon \n1 bottle Papa Alfredo Tomato & Garlic Italian Pasta Sauce\nSalt & pepper to taste \n½ cup parmesan cheese\n1 pack Papa Alfredo Penne",
+      "procedure": "In a pot, heat olive oil over medium heat. Sauté onion, garlic and mushrooms until soft. Add in ground beef and cook until browned. \nAdd red wine and let reduce.\nMix in Papa Alfredo Tomato & Garlic Italian sauce. Let simmer for 15 minutes. \nMix in parmesan cheese then season with salt and pepper. \nCook Papa Alfredo Penne according to package directions. \nMix together pasta and meat sauce. \nServe with remaining French Cellars Cabernet Sauvignon."
     },
     "photo": {
       "filename": "LF11.jpg",

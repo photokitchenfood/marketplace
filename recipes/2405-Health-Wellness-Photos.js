@@ -19,8 +19,8 @@ const HEALTH_WELLNESS_PHOTOS_DATA = [
       "servingTime": "1 hour",
       "yield": "6-8 servings",
       "tips": "Enjoy warm with a drizzle of maple syrup.",
-      "ingredients": "Ingredients\n2 1/2 cups rolled oats\n1 tsp. baking powder\n1 tsp. ground cinnamon\n1/4 tsp. ground nutmeg\n1/4 tsp. salt\n2 cups milk\n1/4 cup brown sugar\n2 large eggs\n1 tsp. vanilla extract\n2 cups apples, diced\n1/3 cup pecans, chopped\n1 cup apples, sliced thinly",
-      "procedure": "Procedure\nPreheat oven to 190°C. Lightly grease a 9x13 inch baking dish with cooking spray or butter.\nIn a large bowl, whisk together rolled oats, baking powder, cinnamon, nutmeg, and salt.\nIn a separate bowl, whisk together milk, brown sugar, eggs, and vanilla extract until well combined.\nPour the wet ingredients into the bowl with the dry ingredients, and stir until just combined. Be careful not to overmix. Fold in the diced apples and pecans.\nPour the oatmeal mixture into the prepared baking dish. Top with thinly-sliced apples. \nBake oatmeal for 30-40 minutes, or until the center is set and a toothpick inserted comes out clean. The top should be slightly golden brown."
+      "ingredients": "2 1/2 cups rolled oats\n1 tsp. baking powder\n1 tsp. ground cinnamon\n1/4 tsp. ground nutmeg\n1/4 tsp. salt\n2 cups milk\n1/4 cup brown sugar\n2 large eggs\n1 tsp. vanilla extract\n2 cups apples, diced\n1/3 cup pecans, chopped\n1 cup apples, sliced thinly",
+      "procedure": "Preheat oven to 190°C. Lightly grease a 9x13 inch baking dish with cooking spray or butter.\nIn a large bowl, whisk together rolled oats, baking powder, cinnamon, nutmeg, and salt.\nIn a separate bowl, whisk together milk, brown sugar, eggs, and vanilla extract until well combined.\nPour the wet ingredients into the bowl with the dry ingredients, and stir until just combined. Be careful not to overmix. Fold in the diced apples and pecans.\nPour the oatmeal mixture into the prepared baking dish. Top with thinly-sliced apples. \nBake oatmeal for 30-40 minutes, or until the center is set and a toothpick inserted comes out clean. The top should be slightly golden brown."
     },
     "photo": {
       "filename": "HW1.jpg",
@@ -44,8 +44,8 @@ const HEALTH_WELLNESS_PHOTOS_DATA = [
       "servingTime": "10 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 head iceberg lettuce \n1/2 cup Waitrose Thousand Island Dressing\n1/4 cup tomatoes, diced\n2 slices bacon, diced and fried\n1 tbsp. chives, chopped \nFreshly ground black pepper to taste",
-      "procedure": "Procedure\nWash and dry the iceberg lettuce head. Cut the head in half, then cut each half again into wedges. Remove the core from each wedge.\nDrizzle a generous amount of Waitrose Thousand Island Dressing over each wedge. Top with diced tomatoes and bacon bits.\nSprinkle with chopped chives and freshly ground black pepper."
+      "ingredients": "1 head iceberg lettuce \n1/2 cup Waitrose Thousand Island Dressing\n1/4 cup tomatoes, diced\n2 slices bacon, diced and fried\n1 tbsp. chives, chopped \nFreshly ground black pepper to taste",
+      "procedure": "Wash and dry the iceberg lettuce head. Cut the head in half, then cut each half again into wedges. Remove the core from each wedge.\nDrizzle a generous amount of Waitrose Thousand Island Dressing over each wedge. Top with diced tomatoes and bacon bits.\nSprinkle with chopped chives and freshly ground black pepper."
     },
     "photo": {
       "filename": "HW2.jpg",
@@ -69,8 +69,8 @@ const HEALTH_WELLNESS_PHOTOS_DATA = [
       "servingTime": "2 hours and 35 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 ½ cups heavy whipping cream\n¼ cup powdered sugar\n1 tsp. vanilla extract\n2 tsps. gelatin powder\n¼ cup  cold water\n2 cups Casino Bio Strawberry Jam\n⅓ cup freeze dried strawberries\n2 tbsps. pistachios, chopped",
-      "procedure": "Procedure\nIn a small bowl, sprinkle gelatin powder over cold water. Let sit for 5 minutes to bloom. \nIn a separate large bowl, using an electric mixer with a whisk attachment, whip the heavy whipping cream, powdered sugar, and vanilla extract on high speed until medium peaks form.\nMicrowave the bloomed gelatin on high for 10-15 seconds, or until the gelatin dissolves completely. Be careful not to overheat.\nSlowly drizzle the warm gelatin mixture into the whipped cream, while the mixer is on low speed, until just incorporated.\nGently fold in half of the Casino Bio Strawberry Jam into the whipped cream mixture, until just combined. Be careful not to overmix, or the mousse will lose its volume.\nFill the bottom of each dessert glass with Casino Bio Strawberry Jam. Add a layer of the strawberry mousse. Repeat this step and refrigerate for at least 2 hours, or until set.\nTop with freeze dried strawberries and chopped pistachios before serving."
+      "ingredients": "1 ½ cups heavy whipping cream\n¼ cup powdered sugar\n1 tsp. vanilla extract\n2 tsps. gelatin powder\n¼ cup  cold water\n2 cups Casino Bio Strawberry Jam\n⅓ cup freeze dried strawberries\n2 tbsps. pistachios, chopped",
+      "procedure": "In a small bowl, sprinkle gelatin powder over cold water. Let sit for 5 minutes to bloom. \nIn a separate large bowl, using an electric mixer with a whisk attachment, whip the heavy whipping cream, powdered sugar, and vanilla extract on high speed until medium peaks form.\nMicrowave the bloomed gelatin on high for 10-15 seconds, or until the gelatin dissolves completely. Be careful not to overheat.\nSlowly drizzle the warm gelatin mixture into the whipped cream, while the mixer is on low speed, until just incorporated.\nGently fold in half of the Casino Bio Strawberry Jam into the whipped cream mixture, until just combined. Be careful not to overmix, or the mousse will lose its volume.\nFill the bottom of each dessert glass with Casino Bio Strawberry Jam. Add a layer of the strawberry mousse. Repeat this step and refrigerate for at least 2 hours, or until set.\nTop with freeze dried strawberries and chopped pistachios before serving."
     },
     "photo": {
       "filename": "HW3.jpg",
@@ -95,8 +95,8 @@ const HEALTH_WELLNESS_PHOTOS_DATA = [
       "servingTime": "15 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup Bob’s Mill Oat Flour\n1/4 tsp. salt \n2 tbsps. sugar\n1 cup milk\n2 large eggs\n¼ cup butter, melted\n½ tsp. vanilla extract",
-      "procedure": "Procedure\nIn a blender, combine Bob’s Mill Oat Flour, salt, sugar, milk, eggs, 2 tbsps. melted butter and vanilla extract. Blend until smooth.\nHeat a non-stick pan over medium heat. Add about ½ tbsp. of  remaining butter.\nPour 1/4 cup of the batter into the hot pan, swirling the pan to evenly coat the bottom. Let the crepe cook for about 1-2 minutes, or until the edges begin to brown and the center appears set.\nUse a spatula to carefully flip the crepe and cook for another 30-60 seconds, or until lightly golden brown on the other side.\nRepeat with the remaining batter. Serve with preferred fruit, jam or whipped cream."
+      "ingredients": "1 cup Bob’s Mill Oat Flour\n1/4 tsp. salt \n2 tbsps. sugar\n1 cup milk\n2 large eggs\n¼ cup butter, melted\n½ tsp. vanilla extract",
+      "procedure": "In a blender, combine Bob’s Mill Oat Flour, salt, sugar, milk, eggs, 2 tbsps. melted butter and vanilla extract. Blend until smooth.\nHeat a non-stick pan over medium heat. Add about ½ tbsp. of  remaining butter.\nPour 1/4 cup of the batter into the hot pan, swirling the pan to evenly coat the bottom. Let the crepe cook for about 1-2 minutes, or until the edges begin to brown and the center appears set.\nUse a spatula to carefully flip the crepe and cook for another 30-60 seconds, or until lightly golden brown on the other side.\nRepeat with the remaining batter. Serve with preferred fruit, jam or whipped cream."
     },
     "photo": {
       "filename": "HW4.jpg",

@@ -19,8 +19,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "20 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n3 cups fresh spinach, washed and stemmed\nSalt and pepper to taste\n1/4 cup butter\n1/4 cup all-purpose flour\n2 cups milk\n1/2 cup Nestlé All Purpose Cream\n1/4 tsp. nutmeg\n1/2 cup grated Parmesan cheese\n1 cup prosciutto\n3 eggs",
-      "procedure": "Procedure\nPreheat oven to 175°C. \nBring a pot of salted water to a boil. Add the spinach and cook for 1-2 minutes, or until wilted.\nDrain the spinach well and squeeze out any excess water. Chop the spinach coarsely and set aside.\nMelt the butter in a skillet pan over medium heat. Whisk in the flour and cook for 1 minute, stirring constantly.\nGradually whisk in the milk and Nestlé All Purpose Cream until smooth. Bring the mixture to a simmer and cook, stirring constantly, until thickened. Stir in the nutmeg, salt, and pepper.\nAdd the chopped spinach to the sauce and stir to combine. Stir in the Parmesan cheese until melted.\nCreate 3 wells to place the prosciutto and pour the eggs over each prosciutto. Bake for 8-10 minutes or until eggs are cooked to your preference.\nServe alongside toasted bread."
+      "ingredients": "3 cups fresh spinach, washed and stemmed\nSalt and pepper to taste\n1/4 cup butter\n1/4 cup all-purpose flour\n2 cups milk\n1/2 cup Nestlé All Purpose Cream\n1/4 tsp. nutmeg\n1/2 cup grated Parmesan cheese\n1 cup prosciutto\n3 eggs",
+      "procedure": "Preheat oven to 175°C. \nBring a pot of salted water to a boil. Add the spinach and cook for 1-2 minutes, or until wilted.\nDrain the spinach well and squeeze out any excess water. Chop the spinach coarsely and set aside.\nMelt the butter in a skillet pan over medium heat. Whisk in the flour and cook for 1 minute, stirring constantly.\nGradually whisk in the milk and Nestlé All Purpose Cream until smooth. Bring the mixture to a simmer and cook, stirring constantly, until thickened. Stir in the nutmeg, salt, and pepper.\nAdd the chopped spinach to the sauce and stir to combine. Stir in the Parmesan cheese until melted.\nCreate 3 wells to place the prosciutto and pour the eggs over each prosciutto. Bake for 8-10 minutes or until eggs are cooked to your preference.\nServe alongside toasted bread."
     },
     "photo": {
       "filename": "IG1.jpg",
@@ -44,8 +44,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "30 minutes",
       "yield": "6-8 servings",
       "tips": "",
-      "ingredients": "Ingredients\n4 pcs.  Mikisa Salmon Fillets\nSalt and pepper to taste\n¼ cup olive oil\n2 tbsps. red curry paste\n1 tbsp. grated ginger\n1 tbsp. garlic, minced\n2 cups shiitake mushroom, halved\n1 ½ cup coconut milk\n1 tbsp. fish sauce\n1 tbsp. lime juice\n1 tsp. sugar\n½ cup vegetable broth\n1 cup yellow bell pepper, sliced\n1 tbsp. red chili, sliced\n½ cup cilantro, for garnish\n1 pc. lime, sliced into wedges",
-      "procedure": "Procedure\nSeason Mikisa Salmon Fillets with salt and pepper.\nIn a large saucepan, heat oil over medium heat. Sear each salmon until nicely browned. Remove from the pan and set aside.\nIn the same pan, add red curry paste, ginger, and garlic. Sauté for 30 seconds until fragrant. Add shiitake mushrooms and cook for about 2-3 minutes.\nPour in coconut milk, fish sauce, lime juice, sugar, and vegetable broth. Stir well to combine.\nBring the mixture to a boil, then reduce heat and simmer for 5-10 minutes, or until the sauce thickens.\nAdd the seared Mikisa Salmon Fillets to the curry sauce. Cover the pan and simmer for 4-6 minutes, or until the salmon is cooked through.\nAdd the sliced bell peppers and red chili and cook for 2-3 minutes.\nGarnish with fresh cilantro and serve with lime wedges."
+      "ingredients": "4 pcs.  Mikisa Salmon Fillets\nSalt and pepper to taste\n¼ cup olive oil\n2 tbsps. red curry paste\n1 tbsp. grated ginger\n1 tbsp. garlic, minced\n2 cups shiitake mushroom, halved\n1 ½ cup coconut milk\n1 tbsp. fish sauce\n1 tbsp. lime juice\n1 tsp. sugar\n½ cup vegetable broth\n1 cup yellow bell pepper, sliced\n1 tbsp. red chili, sliced\n½ cup cilantro, for garnish\n1 pc. lime, sliced into wedges",
+      "procedure": "Season Mikisa Salmon Fillets with salt and pepper.\nIn a large saucepan, heat oil over medium heat. Sear each salmon until nicely browned. Remove from the pan and set aside.\nIn the same pan, add red curry paste, ginger, and garlic. Sauté for 30 seconds until fragrant. Add shiitake mushrooms and cook for about 2-3 minutes.\nPour in coconut milk, fish sauce, lime juice, sugar, and vegetable broth. Stir well to combine.\nBring the mixture to a boil, then reduce heat and simmer for 5-10 minutes, or until the sauce thickens.\nAdd the seared Mikisa Salmon Fillets to the curry sauce. Cover the pan and simmer for 4-6 minutes, or until the salmon is cooked through.\nAdd the sliced bell peppers and red chili and cook for 2-3 minutes.\nGarnish with fresh cilantro and serve with lime wedges."
     },
     "photo": {
       "filename": "IG2.jpg",
@@ -69,8 +69,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "10 minutes",
       "yield": "1 serving",
       "tips": "",
-      "ingredients": "Ingredients\n1 shot of espresso, hot or cold\n¾ cup tonic water\n½ cup The Berry Company Cranberry Juice\n½ cup ice\n¼ cup frozen cranberries\nOrange slice, for garnish",
-      "procedure": "Procedure\nFill a glass with ice. Add the tonic water and The Berry Company Cranberry Juice over ice.\nPour the shot of espresso over tonic water and cranberry juice.\nAdd frozen cranberries and an orange wedge for a refreshing twist."
+      "ingredients": "1 shot of espresso, hot or cold\n¾ cup tonic water\n½ cup The Berry Company Cranberry Juice\n½ cup ice\n¼ cup frozen cranberries\nOrange slice, for garnish",
+      "procedure": "Fill a glass with ice. Add the tonic water and The Berry Company Cranberry Juice over ice.\nPour the shot of espresso over tonic water and cranberry juice.\nAdd frozen cranberries and an orange wedge for a refreshing twist."
     },
     "photo": {
       "filename": "IG3.jpg",
@@ -94,8 +94,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "1 hour and 20 minutes",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 tsp. smoked paprika\n1 tsp. garlic powder\n1 tsp. onion powder\n¼ tsp. cayenne pepper\n1 tbsp. olive oil\n1 large onion, cut into wedges\n½ cup red bell peppers, cut into sticks\n½ cup green bell peppers, cut into sticks\n½ cup yellow bell peppers, cut into sticks\nSalt and pepper to taste \n1 pack Magnolia Roasters Smoked Pepper Chicken",
-      "procedure": "Procedure\nPreheat your oven to 220°C.\nIn a small bowl, combine the smoked paprika, black pepper, garlic powder, onion powder, and cayenne pepper. Toss the onion, and bell peppers with olive oil, salt, and prepared spice mix.\nSpatchcock Magnolia Roasters Smoked Pepper. Place the chicken and vegetables on a roasting pan.\nRoast in the preheated oven for 1 hour and 15 minutes, or until the Magnolia Roasters Smoked Pepper Chicken is cooked through and the vegetables are tender.\nBaste the chicken and vegetables with the pan juices every 15-20 minutes for extra flavor."
+      "ingredients": "1 tsp. smoked paprika\n1 tsp. garlic powder\n1 tsp. onion powder\n¼ tsp. cayenne pepper\n1 tbsp. olive oil\n1 large onion, cut into wedges\n½ cup red bell peppers, cut into sticks\n½ cup green bell peppers, cut into sticks\n½ cup yellow bell peppers, cut into sticks\nSalt and pepper to taste \n1 pack Magnolia Roasters Smoked Pepper Chicken",
+      "procedure": "Preheat your oven to 220°C.\nIn a small bowl, combine the smoked paprika, black pepper, garlic powder, onion powder, and cayenne pepper. Toss the onion, and bell peppers with olive oil, salt, and prepared spice mix.\nSpatchcock Magnolia Roasters Smoked Pepper. Place the chicken and vegetables on a roasting pan.\nRoast in the preheated oven for 1 hour and 15 minutes, or until the Magnolia Roasters Smoked Pepper Chicken is cooked through and the vegetables are tender.\nBaste the chicken and vegetables with the pan juices every 15-20 minutes for extra flavor."
     },
     "photo": {
       "filename": "IG4.jpg",
@@ -138,8 +138,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "15 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup cream cheese, softened\n¼ cup powdered sugar\n¼ tsp. vanilla extract\n2 pcs Village Gourmet Blueberry Bagel, sliced in half\n¾ cup fresh blueberries\n1 tbsps. lemon zest\n⅓ cup honey",
-      "procedure": "Procedure\nIn a medium bowl, beat together cream cheese, powdered sugar, and vanilla extract until smooth and creamy. \nSet a pan over medium heat, lightly toast the sliced Village Gourmet Blueberry Bagel.\nTo assemble spread the cream cheese mixture evenly on both halves of the bagel.\nTop with blueberries and sprinkle with lemon zest. Drizzle with honey and serve."
+      "ingredients": "1 cup cream cheese, softened\n¼ cup powdered sugar\n¼ tsp. vanilla extract\n2 pcs Village Gourmet Blueberry Bagel, sliced in half\n¾ cup fresh blueberries\n1 tbsps. lemon zest\n⅓ cup honey",
+      "procedure": "In a medium bowl, beat together cream cheese, powdered sugar, and vanilla extract until smooth and creamy. \nSet a pan over medium heat, lightly toast the sliced Village Gourmet Blueberry Bagel.\nTo assemble spread the cream cheese mixture evenly on both halves of the bagel.\nTop with blueberries and sprinkle with lemon zest. Drizzle with honey and serve."
     },
     "photo": {
       "filename": "IG6.jpg",
@@ -163,8 +163,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "20 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. butter\n6 slices Monde Wheat Bread\n3 eggs\nSalt and pepper to taste\n¾ cup cabbage, shredded\n½ cup carrot, shredded\n¼ cup green onion, thinly sliced\n6 slices ham\n3 slices cheese\n¼ cup ketchup\n¼ cup mayonnaise\n ½ tbsp. sugar",
-      "procedure": "Procedure\nMelt a bit of butter in a pan over medium heat. Toast Monde Wheat Bread slices on both sides until golden brown and set aside.\nIn a bowl, whisk eggs with a pinch of salt and pepper.\nAdd the shredded cabbage, carrot, and green onion to the egg mixture and mix well.\nUsing the same pan, add the remaining butter. Pour the egg mixture into the pan and cook it until it sets.\nUse a spatula to shape the egg into a rectangle, similar to the size of the bread.\nTo assemble the toast, place a slice of toasted bread on a plate. Top with ham, cooked egg mixture and cheese.\nDrizzle with ketchup and mayonnaise. Sprinkle with sugar. Place the other slice of toasted bread on top.\nCut the sandwich in half and serve.."
+      "ingredients": "2 tbsps. butter\n6 slices Monde Wheat Bread\n3 eggs\nSalt and pepper to taste\n¾ cup cabbage, shredded\n½ cup carrot, shredded\n¼ cup green onion, thinly sliced\n6 slices ham\n3 slices cheese\n¼ cup ketchup\n¼ cup mayonnaise\n ½ tbsp. sugar",
+      "procedure": "Melt a bit of butter in a pan over medium heat. Toast Monde Wheat Bread slices on both sides until golden brown and set aside.\nIn a bowl, whisk eggs with a pinch of salt and pepper.\nAdd the shredded cabbage, carrot, and green onion to the egg mixture and mix well.\nUsing the same pan, add the remaining butter. Pour the egg mixture into the pan and cook it until it sets.\nUse a spatula to shape the egg into a rectangle, similar to the size of the bread.\nTo assemble the toast, place a slice of toasted bread on a plate. Top with ham, cooked egg mixture and cheese.\nDrizzle with ketchup and mayonnaise. Sprinkle with sugar. Place the other slice of toasted bread on top.\nCut the sandwich in half and serve.."
     },
     "photo": {
       "filename": "IG7.jpg",
@@ -188,8 +188,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "25-30 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\nFor the Chicken:\n2 boneless skinless chicken breasts\nSalt and pepper to taste\n 1/2 cup all-purpose flour\n1 large egg, beaten\n1 cup breadcrumbs\n1/2 tsp. garlic powder\n1/4 tsp. onion powder\n1/4 tsp. paprika\noil for frying\nFor the Caesar Dressing:\n1/4 cup mayonnaise\n1 tbsp. dijon mustard\n1 clove garlic, minced\n1 lemon, juiced\n1 anchovy fillet, minced\n1/4 cup parmesan cheese, grated\n1/4 cup olive oil\nFor the Sandwich:\n4 slices Gardenia Healthi Grain Loaf Bread\n2 cups romaine lettuce, chopped\n½ cup parmesan cheese, shavings",
-      "procedure": "Procedure\nCut chicken breasts in half horizontally to create thinner cutlets. Season the chicken with salt and pepper.\nIn three separate dishes, place the flour, beaten egg, and breadcrumbs mixed with garlic powder, onion powder, and paprika.\nDredge each chicken cutlet in the flour, then dip in the egg, and finally coat in the breadcrumbs.\nHeat oil in a large skillet over medium-high heat.\nFry the chicken cutlets until golden brown and cooked through. Drain on paper towels.\nIn a bowl, whisk together the mayonnaise, dijon mustard, garlic, lemon juice, anchovy, parmesan cheese, olive oil, salt, and pepper.\nToast Gardenia Healthi Grain Loaf Bread.\nTo assemble, spread caesar dressing on both sides of each bread slice. Place the crispy chicken, and layer of romaine lettuce on one slice of bread. Sprinkle with parmesan cheese and top with the other slice of bread.\nCut the sandwich in half and serve immediately."
+      "ingredients": "For the Chicken:\n2 boneless skinless chicken breasts\nSalt and pepper to taste\n 1/2 cup all-purpose flour\n1 large egg, beaten\n1 cup breadcrumbs\n1/2 tsp. garlic powder\n1/4 tsp. onion powder\n1/4 tsp. paprika\noil for frying\nFor the Caesar Dressing:\n1/4 cup mayonnaise\n1 tbsp. dijon mustard\n1 clove garlic, minced\n1 lemon, juiced\n1 anchovy fillet, minced\n1/4 cup parmesan cheese, grated\n1/4 cup olive oil\nFor the Sandwich:\n4 slices Gardenia Healthi Grain Loaf Bread\n2 cups romaine lettuce, chopped\n½ cup parmesan cheese, shavings",
+      "procedure": "Cut chicken breasts in half horizontally to create thinner cutlets. Season the chicken with salt and pepper.\nIn three separate dishes, place the flour, beaten egg, and breadcrumbs mixed with garlic powder, onion powder, and paprika.\nDredge each chicken cutlet in the flour, then dip in the egg, and finally coat in the breadcrumbs.\nHeat oil in a large skillet over medium-high heat.\nFry the chicken cutlets until golden brown and cooked through. Drain on paper towels.\nIn a bowl, whisk together the mayonnaise, dijon mustard, garlic, lemon juice, anchovy, parmesan cheese, olive oil, salt, and pepper.\nToast Gardenia Healthi Grain Loaf Bread.\nTo assemble, spread caesar dressing on both sides of each bread slice. Place the crispy chicken, and layer of romaine lettuce on one slice of bread. Sprinkle with parmesan cheese and top with the other slice of bread.\nCut the sandwich in half and serve immediately."
     },
     "photo": {
       "filename": "IG8.jpg",
@@ -213,8 +213,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "10 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n6 slices Marby Super Loaf Bread\n1 cup peanut butter\n3 tbsps. unsalted butter, softened\n1 tbsp. honey\n1 ½ tbsp. brown sugar\nPinch of salt\n½ cup whipped cream\n¼ cup caramel syrup",
-      "procedure": "Procedure\nRemove the crusts of Marby Super Loaf Bread.\nSpread a generous amount of peanut butter on one side of 2 slices of bread. Stack them together, topped with another slice of bread. \nIn a small bowl, combine softened butter, honey, brown sugar, and pinch of salt. Mix until well combined.\nSpread the honey butter generously on the top bread and bottom bread of the stack. \nToast the bread slices to your desired level of crispiness.\nTop with whipped cream and drizzle with caramel syrup. Serve immediately."
+      "ingredients": "6 slices Marby Super Loaf Bread\n1 cup peanut butter\n3 tbsps. unsalted butter, softened\n1 tbsp. honey\n1 ½ tbsp. brown sugar\nPinch of salt\n½ cup whipped cream\n¼ cup caramel syrup",
+      "procedure": "Remove the crusts of Marby Super Loaf Bread.\nSpread a generous amount of peanut butter on one side of 2 slices of bread. Stack them together, topped with another slice of bread. \nIn a small bowl, combine softened butter, honey, brown sugar, and pinch of salt. Mix until well combined.\nSpread the honey butter generously on the top bread and bottom bread of the stack. \nToast the bread slices to your desired level of crispiness.\nTop with whipped cream and drizzle with caramel syrup. Serve immediately."
     },
     "photo": {
       "filename": "IG9.jpg",
@@ -238,8 +238,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "30 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n300g dried egg noodles\n3 cups Black Bridge Taiwanese Sausage Original, sliced\n2 tbsps. sesame oil \n2 cloves garlic, minced\n1 tbsp. ginger, minced\n1 cup bok choy, chopped\n½ cup red bell pepper\n½ cup yellow bell pepper\n2 tbsps. soy sauce\n1 tbsp. oyster sauce\n1 tsp. sugar\n1/4 tsp. black pepper \n2 tbsps. chili garlic oil\n¼ cup green onions, chopped",
-      "procedure": "Procedure\nBoil the noodles in a large pot of salted water according to package instructions. Drain and rinse with cold water to prevent sticking. Set aside.\nHeat a wok or large skillet over high heat.\nAdd the Black Bridge Taiwanese Sausage Original, and cook until browned and slightly crispy. Remove the sausages and set aside.\nIn the same wok, add sesame oil and sauté the garlic and ginger until fragrant.\nAdd the bok choy and bell peppers, stir-fry for a few minutes until tender-crisp.\nAdd the cooked noodles to the wok and toss with the vegetables.\nAdd the soy sauce, oyster sauce, sugar, black pepper, and the cooked sausages. Toss well to coat all ingredients with the sauce.\nGarnish with chili garlic oil and green onions and serve."
+      "ingredients": "300g dried egg noodles\n3 cups Black Bridge Taiwanese Sausage Original, sliced\n2 tbsps. sesame oil \n2 cloves garlic, minced\n1 tbsp. ginger, minced\n1 cup bok choy, chopped\n½ cup red bell pepper\n½ cup yellow bell pepper\n2 tbsps. soy sauce\n1 tbsp. oyster sauce\n1 tsp. sugar\n1/4 tsp. black pepper \n2 tbsps. chili garlic oil\n¼ cup green onions, chopped",
+      "procedure": "Boil the noodles in a large pot of salted water according to package instructions. Drain and rinse with cold water to prevent sticking. Set aside.\nHeat a wok or large skillet over high heat.\nAdd the Black Bridge Taiwanese Sausage Original, and cook until browned and slightly crispy. Remove the sausages and set aside.\nIn the same wok, add sesame oil and sauté the garlic and ginger until fragrant.\nAdd the bok choy and bell peppers, stir-fry for a few minutes until tender-crisp.\nAdd the cooked noodles to the wok and toss with the vegetables.\nAdd the soy sauce, oyster sauce, sugar, black pepper, and the cooked sausages. Toss well to coat all ingredients with the sauce.\nGarnish with chili garlic oil and green onions and serve."
     },
     "photo": {
       "filename": "IG10.jpg",
@@ -263,8 +263,8 @@ const NOVEMBER_IG_DATA = [
       "servingTime": "20 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n300g fettuccine pasta\n2 tbsps. olive oil \n3 cups Delicato Truffle Cheese Pork Sausage, sliced\n½ cup onion, diced\n1 tbsp. garlic\n1 cup shiitake mushroom, diced\n½ cup white wine\n1 cup heavy cream\n½ cup parmesan cheese, grated\n1 tbsp. truffle oil\nSalt and pepper to taste\n1 tbsp. parsley",
-      "procedure": "Procedure\nCook fettuccine in a large pot of salted boiling water according to package instructions. Drain and set aside.\nHeat olive oil in a large skillet over medium-high heat. Add the Delicato Truffle Cheese Pork Sausage, and cook until browned. Set aside.\nIn the same skillet, sauté onion, garlic, and shiitake mushroom until soft and tender.\nPour the white wine into the skillet and deglaze, scraping up any browned bits from the bottom.\nAdd the heavy cream and bring to a simmer.\nReduce the heat and let the sauce simmer until thickened, about 5-10 minutes.\nStir in the half of parmesan cheese, and truffle oil. Season with salt and pepper to taste.\nAdd the cooked fettuccine and sausage to the sauce and toss to coat.\nServe immediately, top with the remaining parmesan cheese. Garnish with parsley."
+      "ingredients": "300g fettuccine pasta\n2 tbsps. olive oil \n3 cups Delicato Truffle Cheese Pork Sausage, sliced\n½ cup onion, diced\n1 tbsp. garlic\n1 cup shiitake mushroom, diced\n½ cup white wine\n1 cup heavy cream\n½ cup parmesan cheese, grated\n1 tbsp. truffle oil\nSalt and pepper to taste\n1 tbsp. parsley",
+      "procedure": "Cook fettuccine in a large pot of salted boiling water according to package instructions. Drain and set aside.\nHeat olive oil in a large skillet over medium-high heat. Add the Delicato Truffle Cheese Pork Sausage, and cook until browned. Set aside.\nIn the same skillet, sauté onion, garlic, and shiitake mushroom until soft and tender.\nPour the white wine into the skillet and deglaze, scraping up any browned bits from the bottom.\nAdd the heavy cream and bring to a simmer.\nReduce the heat and let the sauce simmer until thickened, about 5-10 minutes.\nStir in the half of parmesan cheese, and truffle oil. Season with salt and pepper to taste.\nAdd the cooked fettuccine and sausage to the sauce and toss to coat.\nServe immediately, top with the remaining parmesan cheese. Garnish with parsley."
     },
     "photo": {
       "filename": "IG11.jpg",

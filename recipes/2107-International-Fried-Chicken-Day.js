@@ -11,7 +11,7 @@ const INTERNATIONAL_FRIED_CHICKEN_DAY_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "International Fried Chicken Day",
-    "caption": "There are days when we simply crave Japanese food. If you’ve found yourself caught in between the crossroads of whether to order in some katsu or whip up something at home, you might want to consider adding Purefoods’ Chicken Katsu to your cart the next time you visit #TheMarketplace!\n\nThis Chicken Katsudon Rice Burger recipe is also prepared in a deliciously creative way. Toasted Japanese rice buns, which are a cinch to prepare, hug in the chicken katsu, along with some Japanese mayonnaise, spring onion omelette, and onions to complement the deep-fried meat. Super easy and satisfying. Try it out and let us know what you think!\n\nServing Time: 30 minutes\nYield: 3 servings\n\nIngredients\n\n2 cups Japanese rice, freshly-cooked\n1 tbsp. parsley, chopped\n2 tbsps. black sesame seeds\n2 tbsps. oil\n5 eggs\n4 tbsps. spring onions, chopped\nSalt and pepper to taste\n3 pcs. Purefoods Chicken Katsu\nOil for frying\n3 tbsps. Japanese mayonnaise\n½ cup red onions, sliced\n\nProcedure\n\n1. In a bowl, combine Japanese rice, parsley and sesame seeds. Shape rice into 6 balls and press to form 6 buns.\n2. Set pan over medium heat and add oil. Fry rice buns until a golden brown crust is formed, then set aside.\n3. Beat eggs and add spring onions. Season with salt and pepper.\n4. Cook omelette using the same pan used to fry rice buns. Set aside.\n5. Deep fry Purefoods Chicken Katsu until golden brown.\n6. To assemble the burger, first spread a thin layer of mayonnaise on the bottom and top buns. Then, add a slice of omelette over the bottom rice bun, followed by 1 Purefoods Chicken Katsu. Top with red onions and finally, the top rice bun.\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "There are days when we simply crave Japanese food. If you’ve found yourself caught in between the crossroads of whether to order in some katsu or whip up something at home, you might want to consider adding Purefoods’ Chicken Katsu to your cart the next time you visit #TheMarketplace!\n\nThis Chicken Katsudon Rice Burger recipe is also prepared in a deliciously creative way. Toasted Japanese rice buns, which are a cinch to prepare, hug in the chicken katsu, along with some Japanese mayonnaise, spring onion omelette, and onions to complement the deep-fried meat. Super easy and satisfying. Try it out and let us know what you think!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Purefoods"
     ],
@@ -19,8 +19,8 @@ const INTERNATIONAL_FRIED_CHICKEN_DAY_DATA = [
       "servingTime": "30 minutes",
       "yield": "3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 cups Japanese rice, freshly-cooked\n1 tbsp. parsley, chopped\n2 tbsps. black sesame seeds\n2 tbsps. oil\n5 eggs\n4 tbsps. spring onions, chopped\nSalt and pepper to taste\n3 pcs. Purefoods Chicken Katsu\nOil for frying\n3 tbsps. Japanese mayonnaise\n½ cup red onions, sliced",
-      "procedure": "Procedure\nIn a bowl, combine Japanese rice, parsley and sesame seeds. Shape rice into 6 balls and press to form 6 buns.\nSet pan over medium heat and add oil. Fry rice buns until a golden brown crust is formed, then set aside.\nBeat eggs and add spring onions. Season with salt and pepper.\nCook omelette using the same pan used to fry rice buns. Set aside.\nDeep fry Purefoods Chicken Katsu until golden brown. \nTo assemble the burger, first spread a thin layer of mayonnaise on the bottom and top buns. Then, add a slice of omelette over the bottom rice bun, followed by 1 Purefoods Chicken Katsu. Top with red onions and finally, the top rice bun."
+      "ingredients": "2 cups Japanese rice, freshly-cooked\n1 tbsp. parsley, chopped\n2 tbsps. black sesame seeds\n2 tbsps. oil\n5 eggs\n4 tbsps. spring onions, chopped\nSalt and pepper to taste\n3 pcs. Purefoods Chicken Katsu\nOil for frying\n3 tbsps. Japanese mayonnaise\n½ cup red onions, sliced",
+      "procedure": "In a bowl, combine Japanese rice, parsley and sesame seeds. Shape rice into 6 balls and press to form 6 buns.\nSet pan over medium heat and add oil. Fry rice buns until a golden brown crust is formed, then set aside.\nBeat eggs and add spring onions. Season with salt and pepper.\nCook omelette using the same pan used to fry rice buns. Set aside.\nDeep fry Purefoods Chicken Katsu until golden brown. \nTo assemble the burger, first spread a thin layer of mayonnaise on the bottom and top buns. Then, add a slice of omelette over the bottom rice bun, followed by 1 Purefoods Chicken Katsu. Top with red onions and finally, the top rice bun."
     },
     "photo": {
       "filename": "IC1.jpg",
@@ -36,7 +36,7 @@ const INTERNATIONAL_FRIED_CHICKEN_DAY_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "International Fried Chicken Day",
-    "caption": "Add a delightful and savory spin to your regular fried chicken!\n\nThanks to Magnolia’s Ready-to-Cook Fried Chicken, preparing this dish will be more of a breeze as choice chicken parts have already been breaded in advance for frying. Once done, elevate the fried chicken experience with this 4-ingredient garlic-parmesan sauce that’ll surely tickle your tastebuds. Extra rice, please! Get all the ingredients you need fresh only at #TheMarketplace.\n\nServing Time: 45 minutes\nYield: 3-4 servings\n\nIngredients\n\nOil for deep frying\n1 pack Magnolia Ready-to-Cook Fried Chicken\n½ cup butter\n6 cloves garlic, minced\n2 tbsps. parsley, chopped\n½ cup parmesan cheese\n\nProcedure\n\n1. In a medium pot, preheat oil to 170°C.\n2. Cook Magnolia Ready-to-Cook Fried Chicken according to packaging instructions.\n3. Set a small pot over low heat. Melt butter and add garlic, parsley and parmesan cheese. Set aside.\n4. In a large mixing bowl, toss cooked Magnolia Fried Chicken in garlic parmesan sauce.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Add a delightful and savory spin to your regular fried chicken!\n\nThanks to Magnolia’s Ready-to-Cook Fried Chicken, preparing this dish will be more of a breeze as choice chicken parts have already been breaded in advance for frying. Once done, elevate the fried chicken experience with this 4-ingredient garlic-parmesan sauce that’ll surely tickle your tastebuds. Extra rice, please! Get all the ingredients you need fresh only at #TheMarketplace.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Magnolia"
     ],
@@ -44,8 +44,8 @@ const INTERNATIONAL_FRIED_CHICKEN_DAY_DATA = [
       "servingTime": "45 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\nOil for deep frying\n1 pack Magnolia Ready-to-Cook Fried Chicken\n½ cup butter\n6 cloves garlic, minced\n2 tbsps. parsley, chopped\n½ cup parmesan cheese",
-      "procedure": "Procedure\nIn a medium pot, preheat oil to 170°C.\nCook Magnolia Ready-to-Cook Fried Chicken according to packaging instructions.\nSet a small pot over low heat. Melt butter and add garlic, parsley and parmesan cheese. Set aside.\nIn a large mixing bowl, toss cooked Magnolia Fried Chicken in garlic parmesan sauce."
+      "ingredients": "Oil for deep frying\n1 pack Magnolia Ready-to-Cook Fried Chicken\n½ cup butter\n6 cloves garlic, minced\n2 tbsps. parsley, chopped\n½ cup parmesan cheese",
+      "procedure": "In a medium pot, preheat oil to 170°C.\nCook Magnolia Ready-to-Cook Fried Chicken according to packaging instructions.\nSet a small pot over low heat. Melt butter and add garlic, parsley and parmesan cheese. Set aside.\nIn a large mixing bowl, toss cooked Magnolia Fried Chicken in garlic parmesan sauce."
     },
     "photo": {
       "filename": "IC2.jpg",
@@ -61,7 +61,7 @@ const INTERNATIONAL_FRIED_CHICKEN_DAY_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "International Fried Chicken Day",
-    "caption": "While we might always think that Korean Fried Chicken is limited to those tossed in either a soy-garlic or gochujang sauce, there is another version of it that has amassed a cult following in Korea: Snow Cheese Fried Chicken. \n\nGet Bounty Fresh’s Family Feast Chicken, cut it into pieces, fry until golden, and then sprinkle the finished product with a snow-like concoction of parmesan cheese, powdered milk, and cheese powder. It creates a mouthwatering salty-and-sweet coating that you won’t be able to get enough of. Try it for dinner this week! All the ingredients you need are available at #TheMarketplace!\n\nServing Time: 35 minutes\nYield: 4-6 servings\nOptional: Serve with sour cream and salsa. \n\nIngredients\n\nOil for deep-frying\n1 pack Bounty Fresh Family Feast Chicken, cut into pieces \n¾ cup parmesan cheese\n½ cup powdered milk\n1 tbsp. cheese powder\n\nProcedure\n\n1. In a pot, preheat oil to 170°C.\n2. Deep-fry chicken in batches until golden brown and cooked through inside. \n3. In a large bowl, combine parmesan cheese, powdered milk and cheese powder. \n4. Toss in chicken until well coated.\n\nDid you know? You can now get your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "While we might always think that Korean Fried Chicken is limited to those tossed in either a soy-garlic or gochujang sauce, there is another version of it that has amassed a cult following in Korea: Snow Cheese Fried Chicken. \n\nGet Bounty Fresh’s Family Feast Chicken, cut it into pieces, fry until golden, and then sprinkle the finished product with a snow-like concoction of parmesan cheese, powdered milk, and cheese powder. It creates a mouthwatering salty-and-sweet coating that you won’t be able to get enough of. Try it for dinner this week! All the ingredients you need are available at #TheMarketplace!\n\nDid you know? You can now get your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Bounty Fresh"
     ],
@@ -69,8 +69,8 @@ const INTERNATIONAL_FRIED_CHICKEN_DAY_DATA = [
       "servingTime": "35 minutes",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\nOil for deep-frying\n1 pack Bounty Fresh Family Feast Chicken, cut into pieces \n¾ cup parmesan cheese\n ½ cup powdered milk\n1 tbsp. cheese powder",
-      "procedure": "Procedure\nIn a pot, preheat oil to 170°C.\nDeep-fry chicken in batches until golden brown and cooked through inside. \nIn a large bowl, combine parmesan cheese, powdered milk and cheese powder. \nToss in chicken until well coated."
+      "ingredients": "Oil for deep-frying\n1 pack Bounty Fresh Family Feast Chicken, cut into pieces \n¾ cup parmesan cheese\n ½ cup powdered milk\n1 tbsp. cheese powder",
+      "procedure": "In a pot, preheat oil to 170°C.\nDeep-fry chicken in batches until golden brown and cooked through inside. \nIn a large bowl, combine parmesan cheese, powdered milk and cheese powder. \nToss in chicken until well coated."
     },
     "photo": {
       "filename": "IC3.jpg",

@@ -30,7 +30,7 @@ const SNACK_FESTIVAL_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Snack Festival",
-    "caption": "Add some childhood nostalgia when you bake your next batch of brownies by adding some Ovaltine! Because it contains malt, expect a batch of indulgent brownies that are creamier, stickier, and thicker. Yum!\n\nFor this recipe, we used Ovaltine Premium, which contains cocoa and makes use of high quality malt and milk to achieve its creamy, delicious flavor. It’s also a source of 10 vitamins and minerals, so you get a boost of health in the most delightful way. \n\nFind all the ingredients you need only at #TheMarketplace!\n\nServing Time: 40 minutes\nYield: 15 bars\n\nIngredients\n\n½ cup butter\n⅓ cup sugar\n2 eggs\n1 tsp. vanilla extract\n¾ cup flour\n½ cup Ovaltine Premium\n¼ tsp. salt\n¼ tsp. baking powder\n\nProcedure\n\n1. Preheat oven to 350°F. Line a baking 13x9” baking pan with parchment paper.\n2. Sift flour, Ovaltine Premium, salt and baking powder.\n3. Using a mixer, cream butter and sugar. Add eggs gradually, and beat until light and fluffy.\n4. Fold in the flour mixture into the wet mixture.\n5. Spread the batter evenly in the lined baking pan. Bake for 25-30 minutes, or until a toothpick inserted in the center comes out clean.\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Add some childhood nostalgia when you bake your next batch of brownies by adding some Ovaltine! Because it contains malt, expect a batch of indulgent brownies that are creamier, stickier, and thicker. Yum!\n\nFor this recipe, we used Ovaltine Premium, which contains cocoa and makes use of high quality malt and milk to achieve its creamy, delicious flavor. It’s also a source of 10 vitamins and minerals, so you get a boost of health in the most delightful way. \n\nFind all the ingredients you need only at #TheMarketplace!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Ovaltine"
     ],
@@ -38,8 +38,8 @@ const SNACK_FESTIVAL_DATA = [
       "servingTime": "40 minutes",
       "yield": "15 bars",
       "tips": "",
-      "ingredients": "Ingredients\n½ cup butter\n⅓ cup sugar\n2 eggs\n1 tsp. vanilla extract\n¾ cup flour\n½ cup Ovaltine Premium\n¼ tsp. salt\n¼ tsp. baking powder",
-      "procedure": "Procedure\nPreheat oven to 350°F. Line a baking 13x9” baking pan with parchment paper. \nSift flour, Ovaltine Premium, salt and baking powder.\nUsing a mixer, cream butter and sugar. Add eggs gradually, and beat until light and fluffy.\nFold in the flour mixture into the wet mixture.\nSpread the batter evenly in the lined baking pan. Bake for 25-30 minutes, or until a toothpick inserted in the center comes out clean."
+      "ingredients": "½ cup butter\n⅓ cup sugar\n2 eggs\n1 tsp. vanilla extract\n¾ cup flour\n½ cup Ovaltine Premium\n¼ tsp. salt\n¼ tsp. baking powder",
+      "procedure": "Preheat oven to 350°F. Line a baking 13x9” baking pan with parchment paper. \nSift flour, Ovaltine Premium, salt and baking powder.\nUsing a mixer, cream butter and sugar. Add eggs gradually, and beat until light and fluffy.\nFold in the flour mixture into the wet mixture.\nSpread the batter evenly in the lined baking pan. Bake for 25-30 minutes, or until a toothpick inserted in the center comes out clean."
     },
     "photo": {
       "filename": "SF2.jpg",
@@ -55,7 +55,7 @@ const SNACK_FESTIVAL_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Snack Festival",
-    "caption": "Make this super fruity and creamy K-style Strawberry Milk using Dutch Mill Strawberry Yoghurt Drink for your next K-drama marathon! \n\nWith its unique blend of strawberry juice and smooth yoghurt, Dutch Mill is the perfect base for this recipe. Because it’s tangy and sweet, it complements the sweet honey and the strawberries perfectly. It’s also rich in calcium, as well as vitamins B2 and B5, which are great for our overall well-being. \n\nAdd these ingredients the next time you shop at #TheMarketplace for a delicious and nutritious fruity drink! \n\nServing Time: 10 minutes\nYield: 2 glasses\n\nIngredients\n\n1 cup frozen strawberries\n1 tbsp. honey\n2 cups Dutch Mill Strawberry Yoghurt Drink\n¼ cup fresh strawberries, halved\n\nProcedure\n\n1. Purée frozen strawberries and honey together in a blender. Save half and transfer to a container.\n2. Blend the remaining half of the strawberry purée with Dutch Mill Strawberry Yoghurt Drink.\n3. Fill glasses with the strawberry-blended yoghurt drink. Add a tablespoon of the purée and swirl. Garnish with halved strawberries.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Make this super fruity and creamy K-style Strawberry Milk using Dutch Mill Strawberry Yoghurt Drink for your next K-drama marathon! \n\nWith its unique blend of strawberry juice and smooth yoghurt, Dutch Mill is the perfect base for this recipe. Because it’s tangy and sweet, it complements the sweet honey and the strawberries perfectly. It’s also rich in calcium, as well as vitamins B2 and B5, which are great for our overall well-being. \n\nAdd these ingredients the next time you shop at #TheMarketplace for a delicious and nutritious fruity drink!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Dutch Mill"
     ],
@@ -63,8 +63,8 @@ const SNACK_FESTIVAL_DATA = [
       "servingTime": "10 minutes",
       "yield": "2 glasses",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup frozen strawberries\n1 tbsp. honey\n2 cups Dutch Mill Strawberry Yoghurt Drink\n¼ cup fresh strawberries, halved",
-      "procedure": "Procedure\nPurée frozen strawberries and honey together in a blender. Save half and transfer to a container.\nBlend the remaining half of the strawberry purée with Dutch Mill Strawberry Yoghurt Drink.\nFill glasses with the strawberry-blended yoghurt drink. Add a tablespoon of the purée and swirl. Garnish with halved strawberries."
+      "ingredients": "1 cup frozen strawberries\n1 tbsp. honey\n2 cups Dutch Mill Strawberry Yoghurt Drink\n¼ cup fresh strawberries, halved",
+      "procedure": "Purée frozen strawberries and honey together in a blender. Save half and transfer to a container.\nBlend the remaining half of the strawberry purée with Dutch Mill Strawberry Yoghurt Drink.\nFill glasses with the strawberry-blended yoghurt drink. Add a tablespoon of the purée and swirl. Garnish with halved strawberries."
     },
     "photo": {
       "filename": "SF3.jpg",
@@ -80,7 +80,7 @@ const SNACK_FESTIVAL_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Snack Festival",
-    "caption": "Here’s an easy way to jazz up your champorado—by topping it with some crumbled Chocnut!\n\nTwo iconic Filipino delights come together in this hearty and satisfying breakfast. We used White King’s Champ-O-Rado for this recipe as it’s super easy to cook and bursts of just the right amount of cocoa flavor to complement the creamy evaporated milk and the sweet, nutty Chocnut. \n\nIf you’re craving a chocolate-y and nutty breakfast, make sure to try this one out! Find all the ingredients you need at #TheMarketplace!\n\nServing Time: 20-25 minutes\nYield: 3-5 servings\n\nIngredients\n\n1 pack White King Champ-O-Rado\n1 cup evaporated milk\n½ cup Chocnut, crumbled\n\nProcedure\n\n1. Cook White King Champ-O-Rado according to package instructions.\n2. Serve while hot with evaporated milk and top with crumbled Chocnut.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Here’s an easy way to jazz up your champorado—by topping it with some crumbled Chocnut!\n\nTwo iconic Filipino delights come together in this hearty and satisfying breakfast. We used White King’s Champ-O-Rado for this recipe as it’s super easy to cook and bursts of just the right amount of cocoa flavor to complement the creamy evaporated milk and the sweet, nutty Chocnut. \n\nIf you’re craving a chocolate-y and nutty breakfast, make sure to try this one out! Find all the ingredients you need at #TheMarketplace!\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Chocnut"
     ],
@@ -88,8 +88,8 @@ const SNACK_FESTIVAL_DATA = [
       "servingTime": "20-25 minutes",
       "yield": "3-5 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 pack White King Champ-O-Rado\n1 cup evaporated milk\n½ cup Chocnut, crumbled",
-      "procedure": "Procedure\nCook White King Champ-O-Rado according to package instructions.\nServe while hot with evaporated milk and top with crumbled chocnut."
+      "ingredients": "1 pack White King Champ-O-Rado\n1 cup evaporated milk\n½ cup Chocnut, crumbled",
+      "procedure": "Cook White King Champ-O-Rado according to package instructions.\nServe while hot with evaporated milk and top with crumbled chocnut."
     },
     "photo": {
       "filename": "SF4.jpg",
@@ -105,7 +105,7 @@ const SNACK_FESTIVAL_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Snack Festival",
-    "caption": "Cool down with this boozy cocktail packed with a punch of energy!\n\nThese rum-based Red Bull Watermelon Coolers taste just like summer with an added kick. For a citrusy touch, serve with lime slices and top off with some zingy mint. Perfect for your next happy hour at home or for drinks with the girls over Zoom. \n\nGrab all the ingredients you need fresh from #TheMarketplace!\n\nServing Time: 10 minutes\nYield: 2 glasses\n\nIngredients\n\n1 ½ cup watermelon, deseeded and chopped\n1 tbsp. simple syrup\n3 shots white rum\n½ cup lime, sliced\n2 cups ice\n1 can Red Bull\n2 sprigs mint\n\nProcedure\n\n1. In blender, purée watermelon. Set aside.\n2. Fill cocktail shaker with simple syrup, white rum and watermelon purée. Add ice and shake.\n3. Fill glass with ice and lime slices. Pour over watermelon cocktail up to ¾ of the glass.\nFill the rest with Red Bull, and top with mint sprigs.\n\nPrefer to order your groceries online and have them delivered to you instead? Visit #TheMarketplace online at http://bit.ly/OrderTheMarketplace! Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Cool down with this boozy cocktail packed with a punch of energy!\n\nThese rum-based Red Bull Watermelon Coolers taste just like summer with an added kick. For a citrusy touch, serve with lime slices and top off with some zingy mint. Perfect for your next happy hour at home or for drinks with the girls over Zoom. \n\nGrab all the ingredients you need fresh from #TheMarketplace!\n\nPrefer to order your groceries online and have them delivered to you instead? Visit #TheMarketplace online at http://bit.ly/OrderTheMarketplace! Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Red Bull"
     ],
@@ -113,8 +113,8 @@ const SNACK_FESTIVAL_DATA = [
       "servingTime": "10 minutes",
       "yield": "2 glasses",
       "tips": "",
-      "ingredients": "Ingredients\n1 ½ cup watermelon, deseeded and chopped\n1 tbsp. simple syrup\n3 shots white rum\n½ cup lime, sliced\n2 cups ice\n1 can Red Bull\n2 sprigs mint",
-      "procedure": "Procedure\nIn blender, purée watermelon. Set aside.\nFill cocktail shaker with simple syrup, white rum and watermelon purée. Add ice and shake.\nFill glass with ice and lime slices. Pour over watermelon cocktail up to ¾ of the glass.\nFill the rest with Red Bull, and top with mint sprigs."
+      "ingredients": "1 ½ cup watermelon, deseeded and chopped\n1 tbsp. simple syrup\n3 shots white rum\n½ cup lime, sliced\n2 cups ice\n1 can Red Bull\n2 sprigs mint",
+      "procedure": "In blender, purée watermelon. Set aside.\nFill cocktail shaker with simple syrup, white rum and watermelon purée. Add ice and shake.\nFill glass with ice and lime slices. Pour over watermelon cocktail up to ¾ of the glass.\nFill the rest with Red Bull, and top with mint sprigs."
     },
     "photo": {
       "filename": "SF5.jpg",
@@ -130,7 +130,7 @@ const SNACK_FESTIVAL_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Snack Festival",
-    "caption": "Missing the beach? \n\nRecreate the feeling of waking up by the seaside with this Hawaiian French Toast recipe! Made with Vitamin C packed Del Monte Pineapple Chunks, the tanginess from the fruit pairs so well with the buttery French toast. Complete this Hawaiian creation with some coconut flakes for that tropical feel. Find all the ingredients you need at #TheMarketplace today!\n\nServing Time: 20-25 minutes\nYield: 2-3 servings\n\nIngredients\n\n3 eggs\n½ cup milk\n2 tbsps. sugar\n5 slices of bread\n3 tbsps. butter\n1 can Del Monte Pineapple Chunks, drained\n3 tbsps. sugar\n2 tbsps. coconut flakes\n\nProcedure\n\n1. In a bowl, combine eggs milk and sugar. Lightly soak bread slices in this mixture.\n2. Set a pan over medium heat. Add a tablespoon of butter and fry soaked bread until golden brown on both sides.\n3. Set a non-stick pan over medium-high heat. Add sugar and caramelize with Del Monte Pineapple Chunks.\n4. Serve French toast with caramelized pineapples and top with coconut flakes.\n\nNow you can order your groceries online via http://bit.ly/OrderTheMarketplace. Join our Viber community as well at http://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Missing the beach? \n\nRecreate the feeling of waking up by the seaside with this Hawaiian French Toast recipe! Made with Vitamin C packed Del Monte Pineapple Chunks, the tanginess from the fruit pairs so well with the buttery French toast. Complete this Hawaiian creation with some coconut flakes for that tropical feel. Find all the ingredients you need at #TheMarketplace today!\n\nNow you can order your groceries online via http://bit.ly/OrderTheMarketplace. Join our Viber community as well at http://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Del Monte"
     ],
@@ -138,8 +138,8 @@ const SNACK_FESTIVAL_DATA = [
       "servingTime": "20-25 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n3 eggs\n½ cup milk\n2 tbsps. sugar\n5 slices of bread\n3 tbsps. butter\n1 can Del Monte Pineapple Chunks, drained\n3 tbsps. sugar\n2 tbsps. coconut flakes",
-      "procedure": "Procedure\nIn a bowl, combine eggs milk and sugar. Lightly soak bread slices in this mixture.\nSet a pan over medium heat. Add a tablespoon of butter and fry soaked bread until golden brown on both sides.\nSet a non-stick pan over medium-high heat. Add sugar and caramelize with Del Monte Pineapple Chunks.\nServe french toast with caramelized pineapples and top with coconut flakes."
+      "ingredients": "3 eggs\n½ cup milk\n2 tbsps. sugar\n5 slices of bread\n3 tbsps. butter\n1 can Del Monte Pineapple Chunks, drained\n3 tbsps. sugar\n2 tbsps. coconut flakes",
+      "procedure": "In a bowl, combine eggs milk and sugar. Lightly soak bread slices in this mixture.\nSet a pan over medium heat. Add a tablespoon of butter and fry soaked bread until golden brown on both sides.\nSet a non-stick pan over medium-high heat. Add sugar and caramelize with Del Monte Pineapple Chunks.\nServe french toast with caramelized pineapples and top with coconut flakes."
     },
     "photo": {
       "filename": "SF6.jpg",
@@ -155,7 +155,7 @@ const SNACK_FESTIVAL_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Snack Festival",
-    "caption": "Give your sardines a fancy flair with these Sardine Bruschetta!\n\nSardines are such a versatile ingredient to work with, whether as a pasta sauce or sandwich filling. We used Mega Spanish Sardines for this recipe because they’re meaty and full of flavor without overwhelming the other ingredients. This recipe features a classic combination of tomatoes, lemon, parsley, and red onions, but feel free to add all your other favorite ingredients as well. Get all your ingredients fresh at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 3-4 servings\n\nIngredients\n\n6 pcs Italian bread or baguette, sliced\n2 tbsps. olive oil\n2 cups tomatoes, sliced\n1 jar Mega Premium Spanish Sardines\n½ cup red onions, sliced\n¼ cup parsley \n½ lemon, sliced\n\nProcedure\n\n1. Brush each slice of bread with olive oil on both sides and toast for 4 minutes.\n2. Top with tomato slices, Mega Premium Spanish Sardines and onions. Garnish with parsley.\n3. Serve bruschetta alongside lemon slices.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Give your sardines a fancy flair with these Sardine Bruschetta!\n\nSardines are such a versatile ingredient to work with, whether as a pasta sauce or sandwich filling. We used Mega Spanish Sardines for this recipe because they’re meaty and full of flavor without overwhelming the other ingredients. This recipe features a classic combination of tomatoes, lemon, parsley, and red onions, but feel free to add all your other favorite ingredients as well. Get all your ingredients fresh at #TheMarketplace!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Mega"
     ],
@@ -163,8 +163,8 @@ const SNACK_FESTIVAL_DATA = [
       "servingTime": "15 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n6 pcs Italian bread or baguette, sliced\n2 tbsps. olive oil\n2 cups tomatoes, sliced\n1 jar Mega Premium Spanish Sardines\n½ cup red onions, sliced\n¼ cup parsley \n½ lemon, sliced",
-      "procedure": "Procedure\nBrush each slice of bread with olive oil on both sides and toast for 4 minutes.\nTop with tomato slices, Mega Premium Spanish Sardines and onions. Garnish with parsley.\nServe bruschetta alongside lemon slices."
+      "ingredients": "6 pcs Italian bread or baguette, sliced\n2 tbsps. olive oil\n2 cups tomatoes, sliced\n1 jar Mega Premium Spanish Sardines\n½ cup red onions, sliced\n¼ cup parsley \n½ lemon, sliced",
+      "procedure": "Brush each slice of bread with olive oil on both sides and toast for 4 minutes.\nTop with tomato slices, Mega Premium Spanish Sardines and onions. Garnish with parsley.\nServe bruschetta alongside lemon slices."
     },
     "photo": {
       "filename": "SF7.jpg",
@@ -180,7 +180,7 @@ const SNACK_FESTIVAL_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Snack Festival",
-    "caption": "Fried rice is a tried-and-tested comfort dish that’s so satisfying and so easy to prepare.\n\nYou can make it with whatever you find in your pantry or fridge (even with leftovers!), but one of our favorite ways to prepare fried rice is by adding La Filipina Luncheon Meat. It’s not as salty as other brands, and it provides a balanced meaty taste to round off each bite. Don’t forget! The key to making fried rice is to use day-old rice as it helps absorb the flavors better. Find all the ingredients you need at #TheMarketplace!\n\nServing Time: 15-20 minutes\nYield: 4-5 servings\n\nIngredients\n\n3 eggs\n4 cups day-old rice\n3 tbsps. olive oil\n1 ½ cup La Filipina Luncheon Meat, diced\n3 cloves garlic, minced\n1 cup mixed veggies\n1 tsp. Salt\n2 tbsps. spring onions, chopped\n\nProcedure\n\n1. In a large bowl, beat eggs then add day-old rice. Coat the rice with beaten egg well.\n2. Set a wok over medium heat, and add olive oil. Fry La FIlipina Luncheon Meat until lightly golden brown.\n3. Add garlic and cook for 1 minute. Add rice and mix.\n4. Add mixed veggies, then stir until well-incorporated. Season with salt.\n5. Top with spring onions and serve.\n\nDid you know? You can now get your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Fried rice is a tried-and-tested comfort dish that’s so satisfying and so easy to prepare.\n\nYou can make it with whatever you find in your pantry or fridge (even with leftovers!), but one of our favorite ways to prepare fried rice is by adding La Filipina Luncheon Meat. It’s not as salty as other brands, and it provides a balanced meaty taste to round off each bite. Don’t forget! The key to making fried rice is to use day-old rice as it helps absorb the flavors better. Find all the ingredients you need at #TheMarketplace!\n\nDid you know? You can now get your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "La Filipina"
     ],
@@ -188,8 +188,8 @@ const SNACK_FESTIVAL_DATA = [
       "servingTime": "15-20 minutes",
       "yield": "4-5 servings",
       "tips": "",
-      "ingredients": "Ingredients\n3 eggs\n4 cups day-old rice\n3 tbsps. olive oil\n1 ½ cup La Filipina Luncheon Meat, diced\n3 cloves garlic, minced\n1 cup mixed veggies\n1 tsp. salt\n2 tbsps. spring onions, chopped",
-      "procedure": "Procedure\nIn a large bowl, beat eggs then add day-old rice. Coat the rice with beaten egg well.\nSet a wok over medium heat, and add olive oil. Fry La FIlipina Luncheon Meat until lightly golden brown.\nAdd garlic and cook for 1 minute. Add rice and mix.\nAdd mixed veggies, then stir until well-incorporated. Season with salt.\nTop with spring onions and serve."
+      "ingredients": "3 eggs\n4 cups day-old rice\n3 tbsps. olive oil\n1 ½ cup La Filipina Luncheon Meat, diced\n3 cloves garlic, minced\n1 cup mixed veggies\n1 tsp. salt\n2 tbsps. spring onions, chopped",
+      "procedure": "In a large bowl, beat eggs then add day-old rice. Coat the rice with beaten egg well.\nSet a wok over medium heat, and add olive oil. Fry La FIlipina Luncheon Meat until lightly golden brown.\nAdd garlic and cook for 1 minute. Add rice and mix.\nAdd mixed veggies, then stir until well-incorporated. Season with salt.\nTop with spring onions and serve."
     },
     "photo": {
       "filename": "SF8.jpg",
@@ -224,7 +224,7 @@ const SNACK_FESTIVAL_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Snack Festival",
-    "caption": "Greek cuisine has gained a reputation for being heart-healthy and delicious because of its use of vegetables, olive oil, and lean meats in most of its dishes.\n\nIf you’re craving a healthy snack that also makes as a delicious appetizer, try out this Savory Yogurt Bowl made with a medley of veggies and Yili Ambrosial Greek Style Yogurt. Greek yogurt compared to regular yogurt has more protein and less sugar, which makes it much thicker in consistency. It’s perfect for dips and also makes as a great substitute for sour cream, so make sure to always have some in your fridge! Find all the ingredients you need and other Yili products at #TheMarketplace!\n\nServing Time: 7 minutes\nYield: 2 servings\nOptional: Serve with naan or preferred bread,\n\nIngredients\n\n2 bottles Yili Ambrosial Greek Style Flavored Yogurt Smooth and Creamy Original\nSalt & pepper to taste\n¼ cup sliced cucumber\n¼ cup sliced bell peppers\n¼ cup halved cherry tomatoes\n2 tbsps. pesto\n\nProcedure\n\n1. Season yoghurt with salt and pepper to taste. \n2. Top with cucumbers, bell peppers and cherry tomatoes. \n3. Drizzle with pesto. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Greek cuisine has gained a reputation for being heart-healthy and delicious because of its use of vegetables, olive oil, and lean meats in most of its dishes.\n\nIf you’re craving a healthy snack that also makes as a delicious appetizer, try out this Savory Yogurt Bowl made with a medley of veggies and Yili Ambrosial Greek Style Yogurt. Greek yogurt compared to regular yogurt has more protein and less sugar, which makes it much thicker in consistency. It’s perfect for dips and also makes as a great substitute for sour cream, so make sure to always have some in your fridge! Find all the ingredients you need and other Yili products at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Yili"
     ],
@@ -232,8 +232,8 @@ const SNACK_FESTIVAL_DATA = [
       "servingTime": "7 minutes",
       "yield": "2 servings",
       "tips": "Serve with naan or preferred bread.",
-      "ingredients": "Ingredients\n2 bottles Yili Ambrosial Greek Style Flavored Yogurt Smooth and Creamy Original \nSalt & pepper to taste \n¼ cup sliced cucumber \n¼ cup sliced bell peppers\n¼ cup halved cherry tomatoes\n2 tbsps. pesto",
-      "procedure": "Procedure\nSeason yoghurt with salt and pepper to taste. \nTop with cucumbers, bell peppers and cherry tomatoes. \nDrizzle with pesto."
+      "ingredients": "2 bottles Yili Ambrosial Greek Style Flavored Yogurt Smooth and Creamy Original \nSalt & pepper to taste \n¼ cup sliced cucumber \n¼ cup sliced bell peppers\n¼ cup halved cherry tomatoes\n2 tbsps. pesto",
+      "procedure": "Season yoghurt with salt and pepper to taste. \nTop with cucumbers, bell peppers and cherry tomatoes. \nDrizzle with pesto."
     },
     "photo": {
       "filename": "SF10.jpg",
@@ -249,7 +249,7 @@ const SNACK_FESTIVAL_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Snack Festival",
-    "caption": "Inspired by the iconic German dessert, these Black Forest Loacker Parfaits contain the heavenly pairing between chocolate and cherries, with an unexpected yet delicious surprise. \n\nWe layered each section with Loacker Quadratini Napolitaner wafers for extra crunch and a nice, dark chocolate hazelnut flavor that marries this dessert together. We don’t expect you to finish the whole bag of Loacker, so you’ll definitely still have some leftover for snacking or to top on your ice creams and other treats. Add these items to your list when you next shop at #TheMarketplace!  \n\nServing Time: 7 minutes\nYield: 2 servings\n\nIngredients\n\n1 cup chocolate syrup\n1 cup cherry syrup \n2 cups Loacker Quadratini\n1 cup fresh cherries \n1 cup whipped cream\n\nProcedure\n\n1. Combine chocolate and cherry syrup. Divide into two serving glasses. \n2. Top each glass with Loacker Quadratini, fresh cherries, then whipped cream.\n\nPrefer to order your groceries online and have them delivered to you instead? Visit #TheMarketplace online at http://bit.ly/OrderTheMarketplace! Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Inspired by the iconic German dessert, these Black Forest Loacker Parfaits contain the heavenly pairing between chocolate and cherries, with an unexpected yet delicious surprise. \n\nWe layered each section with Loacker Quadratini Napolitaner wafers for extra crunch and a nice, dark chocolate hazelnut flavor that marries this dessert together. We don’t expect you to finish the whole bag of Loacker, so you’ll definitely still have some leftover for snacking or to top on your ice creams and other treats. Add these items to your list when you next shop at #TheMarketplace!\n\nPrefer to order your groceries online and have them delivered to you instead? Visit #TheMarketplace online at http://bit.ly/OrderTheMarketplace! Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Loacker"
     ],
@@ -257,8 +257,8 @@ const SNACK_FESTIVAL_DATA = [
       "servingTime": "7 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup chocolate syrup\n1 cup cherry syrup \n2 cups Loacker Quadratini\n1 cup fresh cherries \n1 cup whipped cream",
-      "procedure": "Procedure\nCombine chocolate and cherry syrup. Divide into two serving glasses. \nTop each glass with Loacker Quadratini, fresh cherries, then whipped cream."
+      "ingredients": "1 cup chocolate syrup\n1 cup cherry syrup \n2 cups Loacker Quadratini\n1 cup fresh cherries \n1 cup whipped cream",
+      "procedure": "Combine chocolate and cherry syrup. Divide into two serving glasses. \nTop each glass with Loacker Quadratini, fresh cherries, then whipped cream."
     },
     "photo": {
       "filename": "SF11.jpg",
@@ -331,7 +331,7 @@ const SNACK_FESTIVAL_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Snack Festival",
-    "caption": "Not only are tortilla chips great for snacking and dipping, but they also make as a crunchy and cheesy coating for fish!\n\nWe coated some dory fillets with Old El Paso’s Tortilla Chips in Cheese and deep-fried them, resulting to a super satisfying batch of crunchy fish fillets. To fit into the Mexican theme, serve this dish with a refreshing mango salsa. Look no further—all the ingredients you need are available at #TheMarketplace.\n\nServing Time: 30-35 minutes\nYield: 3-4 servings\n\nIngredients\n\n400g cream dory fillet\nSalt to taste \nOil for frying\n½ cup flour\n2 eggs, beaten\n2 ½ cup Old El Paso Tortilla Chips, crushed\n1 cup tomatoes, diced\n1 cup mangoes, diced\n½ cup red onions, diced\n¼ cup cilantro sprigs\n\nProcedure\n\n1. Pat dry cream dory fillet with paper towels. Slice into steaks, and season with salt.\n2. Preheat oil to 370°F.\n3. Lightly coat each fish with flour and dip into the eggs. Double coat with Old El Paso Tortilla Chips.\n4. Deep fry fish until golden brown.\n5. Combine tomatoes, mangoes and onions.\n6. Right before serving, top fried fish with mango salsa. Garnish with cilantro.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Not only are tortilla chips great for snacking and dipping, but they also make as a crunchy and cheesy coating for fish!\n\nWe coated some dory fillets with Old El Paso’s Tortilla Chips in Cheese and deep-fried them, resulting to a super satisfying batch of crunchy fish fillets. To fit into the Mexican theme, serve this dish with a refreshing mango salsa. Look no further—all the ingredients you need are available at #TheMarketplace.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Old El Paso"
     ],
@@ -339,8 +339,8 @@ const SNACK_FESTIVAL_DATA = [
       "servingTime": "30-35 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n400g cream dory fillet\nSalt to taste \nOil for frying\n½ cup flour\n2 eggs, beaten\n2 ½ cup Old El Paso Tortilla Chips, crushed\n1 cup tomatoes, diced\n1 cup mangoes, diced\n½ cup red onions, diced\n¼ cup cilantro sprigs",
-      "procedure": "Procedure\nPat dry cream dory fillet with paper towels. Slice into steaks, and season with salt.\nPreheat oil to 370°F.\nLightly coat each fish with flour and dip into the eggs. Double coat with Old El Paso Tortilla Chips.\nDeep fry fish until golden brown.\nCombine tomatoes, mangoes and onions.\nRight before serving, top fried fish with mango salsa. Garnish with cilantro."
+      "ingredients": "400g cream dory fillet\nSalt to taste \nOil for frying\n½ cup flour\n2 eggs, beaten\n2 ½ cup Old El Paso Tortilla Chips, crushed\n1 cup tomatoes, diced\n1 cup mangoes, diced\n½ cup red onions, diced\n¼ cup cilantro sprigs",
+      "procedure": "Pat dry cream dory fillet with paper towels. Slice into steaks, and season with salt.\nPreheat oil to 370°F.\nLightly coat each fish with flour and dip into the eggs. Double coat with Old El Paso Tortilla Chips.\nDeep fry fish until golden brown.\nCombine tomatoes, mangoes and onions.\nRight before serving, top fried fish with mango salsa. Garnish with cilantro."
     },
     "photo": {
       "filename": "SF15.jpg",
@@ -356,7 +356,7 @@ const SNACK_FESTIVAL_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Snack Festival",
-    "caption": "If you enjoy munching on crunchy seaweed, try having it as a more filling meal by turning it into a salad!\n\nUsing Korean No Brand Tuna Steak and Laverland Crunch Seaweed Strips with Almonds, this Crunchy Seaweed Salad with Tuna is packed with the goodness of fresh vegetables, meaty tuna, and crunchy seaweed, all tossed with your favorite roasted sesame dressing.\n\nGrab all these ingredients and other Korean grocery items at #TheMarketplace!\n\nServing Time: 6 minutes\nYield: 2 servings\n\nIngredients\n\n1 cup green cabbage, shredded\n1 cup purple cabbage, shredded\n½ cup carrots, fine julienned\n1 can No Brand Tuna Steak\n½ cup Laverland Crunch Seaweed Strips Almond\n⅛ cup spring onions, chopped\n¼ cup roasted sesame dressing \n\nProcedure\n\n1. Combine green and purple cabbage in an ice bath for 3 minutes, then drain.\n2. In a large bowl, mix drained cabbage and carrots. Toss in No Brand Tuna Steak.\n3. Top with Laverland Crunch Seaweed Strips Almond and garnish with spring onions.\n4. Serve alongside roasted sesame dressing.\n\nDid you know? You can now get your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "If you enjoy munching on crunchy seaweed, try having it as a more filling meal by turning it into a salad!\n\nUsing Korean No Brand Tuna Steak and Laverland Crunch Seaweed Strips with Almonds, this Crunchy Seaweed Salad with Tuna is packed with the goodness of fresh vegetables, meaty tuna, and crunchy seaweed, all tossed with your favorite roasted sesame dressing.\n\nGrab all these ingredients and other Korean grocery items at #TheMarketplace!\n\nDid you know? You can now get your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "! Generic",
       "Laverland"
@@ -365,8 +365,8 @@ const SNACK_FESTIVAL_DATA = [
       "servingTime": "6 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup green cabbage, shredded\n1 cup purple cabbage, shredded\n½ cup carrots, fine julienned\n1 can No Brand Tuna Steak\n½ cup Laverland Crunch Seaweed Strips Almond\n⅛ cup spring onions, chopped\n¼ cup roasted sesame dressing",
-      "procedure": "Procedure\nCombine green and purple cabbage in an ice bath for 3 minutes, then drain.\nIn a large bowl, mix drained cabbage and carrots. Toss in No Brand Tuna Steak.\nTop with Laverland Crunch Seaweed Strips Almonds and garnish with spring onions.\nServe alongside roasted sesame dressing."
+      "ingredients": "1 cup green cabbage, shredded\n1 cup purple cabbage, shredded\n½ cup carrots, fine julienned\n1 can No Brand Tuna Steak\n½ cup Laverland Crunch Seaweed Strips Almond\n⅛ cup spring onions, chopped\n¼ cup roasted sesame dressing",
+      "procedure": "Combine green and purple cabbage in an ice bath for 3 minutes, then drain.\nIn a large bowl, mix drained cabbage and carrots. Toss in No Brand Tuna Steak.\nTop with Laverland Crunch Seaweed Strips Almonds and garnish with spring onions.\nServe alongside roasted sesame dressing."
     },
     "photo": {
       "filename": "SF16.jpg",
@@ -382,7 +382,7 @@ const SNACK_FESTIVAL_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Snack Festival",
-    "caption": "Everyone loves to have a break with a Kit Kat.\n\nWhile it’s usually enjoyed as a snack or dessert, we made these Kit Kat Dark Cookies by replacing chocolate chips with Kit Kat. You’re free to experiment with different Kit Kat variants, but we think it works best with the 70% Dark one so that you get a bold chocolate flavor without it being overly sweet. Best served warm and with a glass of cold, creamy milk.\n\nTry it out and tell us what you think! Get all the ingredients you need at #TheMarketplace\n\nServing Time: 15-20 minutes\nYield: 10-12 servings\n\nIngredients\n\n½ cup white sugar\n½ cup brown sugar, packed\n½ cup butter, melted\n1 large egg\n1 tsp. vanilla extract\n1 cup flour\n½ tsp. Salt\n½ tsp. baking soda\n2 cups Kit Kat Dark, chopped\n\nProcedure\n\n1. Cream white sugar, brown sugar and butter together until lightly and fluffy. Add in egg and vanilla extract. Continue to mix until pale in color. \n2. Sift flour, salt and baking soda together, then add to the wet mixture. Mix until just combined.\n3. Fold in 1 ½ cup Kit Kat Dark. Refrigerate for 30 minutes.\n4. While waiting, preheat oven to 175°C.\n5. Scoop cookie batter onto a lined baking tray, leaving 3 inches between each cookie. Bake for 10 minutes.\n6. Remove from the oven, and immediately top each cookie with the remaining chopped Kit Kat Dark. Bake for another 2-3 minutes.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Everyone loves to have a break with a Kit Kat.\n\nWhile it’s usually enjoyed as a snack or dessert, we made these Kit Kat Dark Cookies by replacing chocolate chips with Kit Kat. You’re free to experiment with different Kit Kat variants, but we think it works best with the 70% Dark one so that you get a bold chocolate flavor without it being overly sweet. Best served warm and with a glass of cold, creamy milk.\n\nTry it out and tell us what you think! Get all the ingredients you need at #TheMarketplace\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "KitKat"
     ],
@@ -390,8 +390,8 @@ const SNACK_FESTIVAL_DATA = [
       "servingTime": "15-20 minutes",
       "yield": "10-12 cookies",
       "tips": "",
-      "ingredients": "Ingredients\n½ cup white sugar\n½ cup brown sugar, packed\n½ cup butter, melted\n1 large egg\n1 tsp. vanilla extract\n1 cup flour\n½ tsp. salt\n½ tsp. baking soda\n2 cups Kit Kat Dark, chopped",
-      "procedure": "Procedure\nCream white sugar, brown sugar and butter together until lightly and fluffy. Add in egg and vanilla extract. Continue to mix until pale in color. \nSift flour, salt and baking soda together, then add to the wet mixture. Mix until just combined.\nFold in 1 ½ cup Kit Kat Dark. Refrigerate for 30 minutes.\nWhile waiting, preheat oven to 175°C.\nScoop cookie batter onto a lined baking tray, leaving 3 inches between each cookie. Bake for 10 minutes.\nRemove from the oven, and immediately top each cookie with the remaining chopped Kit Kat Dark. Bake for another 2-3 minutes."
+      "ingredients": "½ cup white sugar\n½ cup brown sugar, packed\n½ cup butter, melted\n1 large egg\n1 tsp. vanilla extract\n1 cup flour\n½ tsp. salt\n½ tsp. baking soda\n2 cups Kit Kat Dark, chopped",
+      "procedure": "Cream white sugar, brown sugar and butter together until lightly and fluffy. Add in egg and vanilla extract. Continue to mix until pale in color. \nSift flour, salt and baking soda together, then add to the wet mixture. Mix until just combined.\nFold in 1 ½ cup Kit Kat Dark. Refrigerate for 30 minutes.\nWhile waiting, preheat oven to 175°C.\nScoop cookie batter onto a lined baking tray, leaving 3 inches between each cookie. Bake for 10 minutes.\nRemove from the oven, and immediately top each cookie with the remaining chopped Kit Kat Dark. Bake for another 2-3 minutes."
     },
     "photo": {
       "filename": "SF17.jpg",

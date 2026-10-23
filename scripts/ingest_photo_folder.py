@@ -19,6 +19,7 @@ from datetime import date
 from pathlib import Path
 
 from brand_canon import canon_brands
+from recipe_clean import clean_item
 
 ROOT = Path(__file__).resolve().parent.parent
 GENERIC_BRAND = "! Generic"
@@ -86,6 +87,8 @@ def main():
                 "_bytes": len(data),
             })
 
+    for it in items:
+        clean_item(it)  # no-op while recipe/caption are empty; keeps the sections clean if a deck ever feeds them
     print(f"{out.relative_to(ROOT)}  ({len(items)} cards)")
     for it in items:
         print(f"  {it['layoutCode']:4} {it['category']:30} review={str(it['needsReview']):5} {it['photo']['filename']} ({it['_bytes']//1024} KB)  {it['layoutName']}")

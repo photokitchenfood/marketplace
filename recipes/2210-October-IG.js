@@ -11,7 +11,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "October IG",
-    "caption": "Don’t have a lot of time for cleaning, filleting and breading fresh fish? Make it easier on yourself with this ready-to-cook Fish Katsu from PfP! You can enjoy this on its own, or jazz it up with some Japanese curry to make it more comforting. This quick recipe finishes in 30 minutes, making it a great weekday dinner option.\n\nAnd if you’re cutting back on white rice, you can simply put the cooked fish katsu between some sandwich slices, and use the curry sauce as a dip. Give it a try and thank us later!\n\nServing time: 30 minutes\nYield: 2-3 servings\n\nIngredients\nCanola oil for deep-frying \n1 pack PfP Breaded Fish Katsu\n1 pack Japanese curry\n2 pcs. potato, cubes\n2 pcs. carrot, cubes\n1 pc. white onion, sliced\n2 cups rice, cooked\n¼ cup scallions, chopped\n\nProcedure\nPreheat oil to 175°C. Deep fry PfP Breaded Fish Katsu until golden brown, then set aside.\nSet a small pot over medium heat, and cook japanese curry according to package instructions.\nAdd in potato, carrots, and white onions. Let simmer until vegetables are cooked through, about 8 minutes. \nAdd cooked rice to a plate, then cover rice with japanese curry and top with sliced fish katsu. Garnish with sliced leeks.\n\nFind more awesome food products and other groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
+    "caption": "Don’t have a lot of time for cleaning, filleting and breading fresh fish? Make it easier on yourself with this ready-to-cook Fish Katsu from PfP! You can enjoy this on its own, or jazz it up with some Japanese curry to make it more comforting. This quick recipe finishes in 30 minutes, making it a great weekday dinner option.\n\nAnd if you’re cutting back on white rice, you can simply put the cooked fish katsu between some sandwich slices, and use the curry sauce as a dip. Give it a try and thank us later!\n\nFind more awesome food products and other groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "PfP"
     ],
@@ -19,8 +19,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "30 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n Canola oil for deep-frying \n1 pack PfP Breaded Fish Katsu\n1 pack Japanese curry\n2 pcs. potato, cubes\n2 pcs. carrot, cubes\n1 pc. white onion, sliced\n2 cups rice, cooked\n¼ cup scallions, chopped",
-      "procedure": "Procedure\nPreheat oil to 175°C. Deep fry PfP Breaded Fish Katsu until golden brown, then set aside.\nSet a small pot over medium heat, and cook japanese curry according to package instructions.\nAdd in potato, carrots, and white onions. Let simmer until vegetables are cooked through, about 8 minutes. \nAdd cooked rice to a plate, then cover rice with japanese curry and top with sliced fish katsu. Garnish with sliced leeks."
+      "ingredients": " Canola oil for deep-frying \n1 pack PfP Breaded Fish Katsu\n1 pack Japanese curry\n2 pcs. potato, cubes\n2 pcs. carrot, cubes\n1 pc. white onion, sliced\n2 cups rice, cooked\n¼ cup scallions, chopped",
+      "procedure": "Preheat oil to 175°C. Deep fry PfP Breaded Fish Katsu until golden brown, then set aside.\nSet a small pot over medium heat, and cook japanese curry according to package instructions.\nAdd in potato, carrots, and white onions. Let simmer until vegetables are cooked through, about 8 minutes. \nAdd cooked rice to a plate, then cover rice with japanese curry and top with sliced fish katsu. Garnish with sliced leeks."
     },
     "photo": {
       "filename": "IG1.jpg",
@@ -36,7 +36,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "October IG",
-    "caption": "Do you ever get random sisig cravings at odd hours while at home? If you have, then you’ll be glad to know that Pampanga’s Best has a ready-to-cook version of their province’s iconic dish.  \n\nIt’s made in the traditional Kapampangan style, so it’s very easy to prep in unconventional ways–like in an omelette. Try this recipe the next time you’re in the mood for a rich, greasy breakfast–this combination is amazing with hot garlic rice. Just make sure you walk around a bit after, as it’s too easy to fall back into sleep after enjoying this.\n\nServing time: 30 minutes\nYield: 3-4 servings\n\nIngredients\n1 pack Pampanga’s Best Sisig\n1 pc. red onion, chopped\n2 tbsps. red chilies, chopped\n4 eggs, beaten\n2 tbsps. butter\nsalt and pepper to taste\n3 tbsps. mayonnaise\n\nProcedure\nSet pan over medium heat, then cook Pampanga’s Best Sisig until most of the liquid has reduced. Add red onions and red chilies. Set aside.\nSet a non stick pan over low heat, then add butter, followed by the eggs. Season with salt and pepper.\n Top with cooked sisig and fold to form the omelette. Drizzle with mayonnaise.\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
+    "caption": "Do you ever get random sisig cravings at odd hours while at home? If you have, then you’ll be glad to know that Pampanga’s Best has a ready-to-cook version of their province’s iconic dish.  \n\nIt’s made in the traditional Kapampangan style, so it’s very easy to prep in unconventional ways–like in an omelette. Try this recipe the next time you’re in the mood for a rich, greasy breakfast–this combination is amazing with hot garlic rice. Just make sure you walk around a bit after, as it’s too easy to fall back into sleep after enjoying this.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "Pampanga's Best"
     ],
@@ -44,8 +44,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "30 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 pack Pampanga’s Best Sisig\n1 pc. red onion, chopped\n2 tbsps. red chilies, chopped\n4 eggs, beaten\n2 tbsps. butter\nsalt and pepper to taste\n3 tbsps. mayonnaise",
-      "procedure": "Procedure\nSet pan over medium heat, then cook Pampanga’s Best Sisig until most of the liquid has reduced. Add red onions and red chilies. Set aside.\nSet a non stick pan over low heat, then add butter, followed by the eggs. Season with salt and pepper.\n Top with cooked sisig and fold to form the omelette. Drizzle with mayonnaise."
+      "ingredients": "1 pack Pampanga’s Best Sisig\n1 pc. red onion, chopped\n2 tbsps. red chilies, chopped\n4 eggs, beaten\n2 tbsps. butter\nsalt and pepper to taste\n3 tbsps. mayonnaise",
+      "procedure": "Set pan over medium heat, then cook Pampanga’s Best Sisig until most of the liquid has reduced. Add red onions and red chilies. Set aside.\nSet a non stick pan over low heat, then add butter, followed by the eggs. Season with salt and pepper.\n Top with cooked sisig and fold to form the omelette. Drizzle with mayonnaise."
     },
     "photo": {
       "filename": "IG2.jpg",
@@ -61,7 +61,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "October IG",
-    "caption": "Summer may be over, but that doesn’t mean that refreshing fruit drinks are out too. Because even without the heat, this Strawberry Coconut Water Lemonade is sure to make you feel like you’re at the beach. The tartness of fresh lemons and strawberries are tempered by the subtle sweetness of coconut, which makes for a balanced sip. \n\nThis recipe uses Vita Coco Coconut Water, so you know it’s not just delicious, it’s hydrating too. Enjoy a glass (or two) of this replenishing drink after yoga or spin class to recover some of the vitamins and nutrients you’ve sweated out. \n\nServing time: 5 minutes\nYield: 4-5 servings\n\nIngredients\n1 ½ cups fresh strawberries\n4 cups Vita Coco Coconut Water\n¼ cup lemon juice\n3 tbsps. simple syrup \n2 cups ice\n1 pc. lemon,  sliced\n\nProcedure\nPureé 1 cup strawberries using a blender. Add Vita Coco Coconut Water, lemon juice and simple syrup.\nAdd ice and fill glass with strawberry lemonade. Add lemon slices, and garnish with strawberries.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
+    "caption": "Summer may be over, but that doesn’t mean that refreshing fruit drinks are out too. Because even without the heat, this Strawberry Coconut Water Lemonade is sure to make you feel like you’re at the beach. The tartness of fresh lemons and strawberries are tempered by the subtle sweetness of coconut, which makes for a balanced sip. \n\nThis recipe uses Vita Coco Coconut Water, so you know it’s not just delicious, it’s hydrating too. Enjoy a glass (or two) of this replenishing drink after yoga or spin class to recover some of the vitamins and nutrients you’ve sweated out.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "Vita Coco"
     ],
@@ -69,8 +69,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "5 minutes",
       "yield": "4-5 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 ½ cups fresh strawberries\n4 cups Vita Coco Coconut Water\n¼ cup lemon juice\n3 tbsps. simple syrup \n2 cups ice\n1 pc. lemon,  sliced",
-      "procedure": "Procedure\nPureé 1 cup strawberries using a blender. Add Vita Coco Coconut Water, lemon juice and simple syrup.\nAdd ice and fill glass with strawberry lemonade. Add lemon slices, and garnish with strawberries."
+      "ingredients": "1 ½ cups fresh strawberries\n4 cups Vita Coco Coconut Water\n¼ cup lemon juice\n3 tbsps. simple syrup \n2 cups ice\n1 pc. lemon,  sliced",
+      "procedure": "Pureé 1 cup strawberries using a blender. Add Vita Coco Coconut Water, lemon juice and simple syrup.\nAdd ice and fill glass with strawberry lemonade. Add lemon slices, and garnish with strawberries."
     },
     "photo": {
       "filename": "IG3.jpg",
@@ -86,7 +86,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "October IG",
-    "caption": "Looking for a delicious new way to enjoy chicken? The you should try Magnolia Timplados Gourmet Selections Mediterranean Chicken Breast.\n\nAs the name suggests, this ready-to-cook pack is already pre-seasoned, so you can get straight to cooking. This variety is great in a pita wrap or long-grain rice, but it works just as well in a Greek Chicken Salad. This recipe takes just 25 minutes to make, so you can quickly enjoy the bold, exotic spices that this chicken has been expertly seasoned with.\n\nIngredients\n4 tbsps. lemon juice \n¾ cup extra virgin olive oil\n½ tsp. dried oregano \n½ tsp. dried thyme\nsalt and pepper to taste\n2 tbsps. olive oil\n1 pack Magnolia Timplados Gourmet Selections Mediterranean Chicken Breast\n4 cups mixed greens\n1 cup tomatoes, sliced\n⅔ cup onion, sliced\n1 cup cucumber, sliced\n\nProcedure\nIn a jar, add lemon juice, extra virgin olive oil, and dried oregano and dried thyme. Season with salt and pepper. Shake well and set aside.\nSet a pan over medium heat, then add olive oil. Add Magnolia Timplados Gourmet Selections Mediterranean Chicken Breast. and sear until cooked through. Let rest before slicing.\nIn a plate, add mixed greens, tomatoes, red onions and cucumbers. Topped with sliced cooked chicken breast.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
+    "caption": "Looking for a delicious new way to enjoy chicken? The you should try Magnolia Timplados Gourmet Selections Mediterranean Chicken Breast.\n\nAs the name suggests, this ready-to-cook pack is already pre-seasoned, so you can get straight to cooking. This variety is great in a pita wrap or long-grain rice, but it works just as well in a Greek Chicken Salad. This recipe takes just 25 minutes to make, so you can quickly enjoy the bold, exotic spices that this chicken has been expertly seasoned with.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "Magnolia"
     ],
@@ -94,8 +94,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "20-25 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n4 tbsps. lemon juice \n¾ cup extra virgin olive oil\n½ tsp. dried oregano \n½ tsp. dried thyme\nsalt and pepper to taste\n2 tbsps. olive oil\n1 pack Magnolia Timplados Gourmet Selections Mediterranean Chicken Breast\n4 cups mixed greens\n1 cup tomatoes, sliced\n⅔ cup onion, sliced\n1 cup cucumber, sliced",
-      "procedure": "Procedure\nIn a jar, add lemon juice, extra virgin olive oil, and dried oregano and dried thyme. Season with salt and pepper. Shake well and set aside.\nSet a pan over medium heat, then add olive oil. Add Magnolia Timplados Gourmet Selections Mediterranean Chicken Breast. and sear until cooked through. Let rest before slicing.\nIn a plate, add mixed greens, tomatoes, red onions and cucumbers. Topped with sliced cooked chicken breast."
+      "ingredients": "4 tbsps. lemon juice \n¾ cup extra virgin olive oil\n½ tsp. dried oregano \n½ tsp. dried thyme\nsalt and pepper to taste\n2 tbsps. olive oil\n1 pack Magnolia Timplados Gourmet Selections Mediterranean Chicken Breast\n4 cups mixed greens\n1 cup tomatoes, sliced\n⅔ cup onion, sliced\n1 cup cucumber, sliced",
+      "procedure": "In a jar, add lemon juice, extra virgin olive oil, and dried oregano and dried thyme. Season with salt and pepper. Shake well and set aside.\nSet a pan over medium heat, then add olive oil. Add Magnolia Timplados Gourmet Selections Mediterranean Chicken Breast. and sear until cooked through. Let rest before slicing.\nIn a plate, add mixed greens, tomatoes, red onions and cucumbers. Topped with sliced cooked chicken breast."
     },
     "photo": {
       "filename": "IG4.jpg",
@@ -111,7 +111,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "October IG",
-    "caption": "Sometimes, you just want a quick breakfast to get you started on hectic days. And sure, good old pan de sal and butter can do that job. But if you want something with a little more oomph, then we swear by this Hong Kong Style French Toast recipe. \n\nIt takes just 12 minutes to make, and it uses ingredients that you likely have in your pantry already–including Gardenia Classic White Bread. This beloved tasty loaf is such a versatile canvas for flavor. It doesn’t just toast well, it soaks up all the syrupy goodness of the batter like its a delicious sponge too.\n\nIngredients\n1 ½ cup peanut butter\n9 slices Gardenia Classic White Bread\n3 eggs, beaten\n¼ cup milk\n3 tbsps. brown sugar\n¼ tsp. vanilla extract\n½ stick butter\n1 cup condensed milk\n\nProcedure\nAdd about a tablespoon and a half of peanut butter over a slice of Gardenia Classic White Bread. Spread evenly and stack 3 slices of bread.\nCombine eggs, milk, brown sugar, and vanilla extract. Set a pan over medium heat and add 2 tablespoons butter.\nDip stacked bread into the egg mixture. Pan fry bread until nicely golden.\nTop with butter and serve alongside condensed milk.\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
+    "caption": "Sometimes, you just want a quick breakfast to get you started on hectic days. And sure, good old pan de sal and butter can do that job. But if you want something with a little more oomph, then we swear by this Hong Kong Style French Toast recipe. \n\nIt takes just 12 minutes to make, and it uses ingredients that you likely have in your pantry already–including Gardenia Classic White Bread. This beloved tasty loaf is such a versatile canvas for flavor. It doesn’t just toast well, it soaks up all the syrupy goodness of the batter like its a delicious sponge too.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "Gardenia"
     ],
@@ -119,8 +119,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "12 minutes",
       "yield": "1-2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 ½ cup peanut butter\n9 slices Gardenia Classic White Bread\n3 eggs, beaten\n¼ cup milk\n3 tbsps. brown sugar\n¼ tsp. vanilla extract\n½ stick butter\n1 cup condensed milk",
-      "procedure": "Procedure\nAdd about a tablespoon and a half of peanut butter over a slice of Gardenia Classic White Bread. Spread evenly and stack 3 slices of bread.\nCombine eggs, milk, brown sugar, and vanilla extract. Set a pan over medium heat and add 2 tablespoons butter.\nDip stacked bread into the egg mixture. Pan fry bread until nicely golden.\nTop with butter and serve alongside condensed milk."
+      "ingredients": "1 ½ cup peanut butter\n9 slices Gardenia Classic White Bread\n3 eggs, beaten\n¼ cup milk\n3 tbsps. brown sugar\n¼ tsp. vanilla extract\n½ stick butter\n1 cup condensed milk",
+      "procedure": "Add about a tablespoon and a half of peanut butter over a slice of Gardenia Classic White Bread. Spread evenly and stack 3 slices of bread.\nCombine eggs, milk, brown sugar, and vanilla extract. Set a pan over medium heat and add 2 tablespoons butter.\nDip stacked bread into the egg mixture. Pan fry bread until nicely golden.\nTop with butter and serve alongside condensed milk."
     },
     "photo": {
       "filename": "IG5.jpg",
@@ -174,7 +174,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "October IG",
-    "caption": "Chicken can be a surprisingly delicious meat if you give it enough time to marinate. The secret is prepping it with good ingredients, like DVF Dairy Farm Greek Yogurt. This delicious, proudly local brand is all-natural and made with carabao milk for that rich, creamy taste. Used as a marinade, it makes chicken moist, flavorful, and tender. \n\nServe it this weekend and watch your dinner guests swoon over how delicious it is. Just make sure you prepared enough for seconds, as you’ll likely get requests for them. \n\nIngredients\n1 pack DVF Dairy Farm Greek Yogurt\n1 tbsp. paprika\n1 tbsp. turmeric powder\n½ tbsp. cayenne pepper\n1 tbsp. garlic powder\nsalt and pepper to taste\n500g chicken thighs\n¼ cup dill\n1 pc. lemon, sliced\n\nProcedure\nIn a large bowl, combine DVF Dairy Farm Greek Yogurt, paprika, turmeric powder, cayenne pepper, garlic powder, salt and pepper.\nAdd in chicken thighs and marinate for at least an hour.\nSet a cast iron grill pan over medium high heat. Grill chicken until fully cooked.\nGarnish with dill and lemon. \n\nGetting a big dinner ready at home? No need to go out, as you can now order groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
+    "caption": "Chicken can be a surprisingly delicious meat if you give it enough time to marinate. The secret is prepping it with good ingredients, like DVF Dairy Farm Greek Yogurt. This delicious, proudly local brand is all-natural and made with carabao milk for that rich, creamy taste. Used as a marinade, it makes chicken moist, flavorful, and tender. \n\nServe it this weekend and watch your dinner guests swoon over how delicious it is. Just make sure you prepared enough for seconds, as you’ll likely get requests for them.\n\nGetting a big dinner ready at home? No need to go out, as you can now order groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "DVF Dairy Farm"
     ],
@@ -182,8 +182,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "1 hour 30 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 pack DVF Dairy Farm Greek Yogurt\n1 tbsp. paprika\n1 tbsp. turmeric powder\n½ tbsp. cayenne pepper\n1 tbsp. garlic powder\nsalt and pepper to taste\n500g chicken thighs\n¼ cup dill\n1 pc. lemon, sliced",
-      "procedure": "Procedure\nIn a large bowl, combine DVF Dairy Farm Greek Yogurt, paprika, turmeric powder, cayenne pepper, garlic powder, salt and pepper.\nAdd in chicken thighs and marinate for at least an hour.\nSet a cast iron grill pan over medium high heat. Grill chicken until fully cooked.\nGarnish with dill and lemon."
+      "ingredients": "1 pack DVF Dairy Farm Greek Yogurt\n1 tbsp. paprika\n1 tbsp. turmeric powder\n½ tbsp. cayenne pepper\n1 tbsp. garlic powder\nsalt and pepper to taste\n500g chicken thighs\n¼ cup dill\n1 pc. lemon, sliced",
+      "procedure": "In a large bowl, combine DVF Dairy Farm Greek Yogurt, paprika, turmeric powder, cayenne pepper, garlic powder, salt and pepper.\nAdd in chicken thighs and marinate for at least an hour.\nSet a cast iron grill pan over medium high heat. Grill chicken until fully cooked.\nGarnish with dill and lemon."
     },
     "photo": {
       "filename": "FB1.jpg",
@@ -199,7 +199,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "October IG",
-    "caption": "Who doesn’t love a good milkshake? This thick, creamy glass of goodness is a classic for a reason. Our must-try recipe is so simple, it’ll bring you back to a childlike state of bliss. \n\nThe secret ingredient? Häagen-dazs Cookies and Cream. Their signature thick, smooth texture and rich flavor is good enough on its own, but it becomes magical as a mixer. Give it a try, and it just might be your new go-to milkshake recipe in the future. \n\nIngredients\n2 cups Häagen-dazs Cookies and Cream\n½ cup milk\n1 ½ cup crushed cookies\n½ cup chocolate syrup\n2 cups whipped cream\n2 pcs. maraschino cherries\n\nProcedure\nCombine Häagen-dazs Cookies and Cream, milk, and ½ cup crushed cookies\nCoat the rim of the glass with chocolate syrup and coat with the remaining crushed cookies.\nFill the glass with the milkshake and top with whipped cream and a piece of maraschino cherry.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
+    "caption": "Who doesn’t love a good milkshake? This thick, creamy glass of goodness is a classic for a reason. Our must-try recipe is so simple, it’ll bring you back to a childlike state of bliss. \n\nThe secret ingredient? Häagen-dazs Cookies and Cream. Their signature thick, smooth texture and rich flavor is good enough on its own, but it becomes magical as a mixer. Give it a try, and it just might be your new go-to milkshake recipe in the future.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "Häagen-Dazs"
     ],
@@ -207,8 +207,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "10 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 cups Häagen-dazs Cookies and Cream\n½ cup milk\n1 ½ cup crushed cookies\n½ cup chocolate syrup\n2 cups whipped cream\n2 pcs. maraschino cherries",
-      "procedure": "Procedure\nCombine Häagen-dazs Cookies and Cream, milk, and ½ cup crushed cookies\nCoat the rim of the glass with chocolate syrup and coat with the remaining crushed cookies.\nFill the glass with the milkshake and top with whipped cream and a piece of maraschino cherry."
+      "ingredients": "2 cups Häagen-dazs Cookies and Cream\n½ cup milk\n1 ½ cup crushed cookies\n½ cup chocolate syrup\n2 cups whipped cream\n2 pcs. maraschino cherries",
+      "procedure": "Combine Häagen-dazs Cookies and Cream, milk, and ½ cup crushed cookies\nCoat the rim of the glass with chocolate syrup and coat with the remaining crushed cookies.\nFill the glass with the milkshake and top with whipped cream and a piece of maraschino cherry."
     },
     "photo": {
       "filename": "FB2.jpg",
@@ -319,7 +319,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "October IG",
-    "caption": "While we all love silogs, sometimes, you want something different for breakfast. This delicious Breakfast Strata is one of our favorite recipes for those days. It uses Gardenia Wheat Bread, so it’s rich in fiber, with zero trans fat. And because it’s made with wholemeal flour, you know it makes for a filling breakfast. \n\nThis recipe takes 30-40 minutes to make, but it’ll reward your patience with a hearty breakfast that will instantly lift your spirits up. \n\nIngredients\n2 tbsps. olive oil\n2 cups italian sausage\n6 eggs, beaten\n1 cup milk\n1 tbsp. dijon mustard\nsalt and pepper to taste\n1 cup cheddar cheese, grated\n 1 cup cherry tomatoes. halved\n1 cup spinach\n5 cups Gardenia Wheat Bread, cubes\n1 cup mozzarella cheese, garted\n2 tbsps. flat leaf parsley\n\nProcedure\nPreheat oven to 175°C.\nSet a pan over medium heat, then add olive oil and pan fry italian sausages. Set aside.\nIn a large bowl, combine eggs, milk, and dijon mustard. Season with salt and pepper.\nMix in cheddar cheese, cherry tomatoes, spinach, Gardenia Wheat Bread, and cooked italian sausage.\nTransfer to an oven safe dish, and top with mozzarella cheese. Bake for 15-20 minutes.\nGarnish with parsley before serving.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
+    "caption": "While we all love silogs, sometimes, you want something different for breakfast. This delicious Breakfast Strata is one of our favorite recipes for those days. It uses Gardenia Wheat Bread, so it’s rich in fiber, with zero trans fat. And because it’s made with wholemeal flour, you know it makes for a filling breakfast. \n\nThis recipe takes 30-40 minutes to make, but it’ll reward your patience with a hearty breakfast that will instantly lift your spirits up.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "Gardenia"
     ],
@@ -327,8 +327,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "30-40 minutes",
       "yield": "4-5 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. olive oil\n2 cups italian sausage\n6 eggs, beaten\n1 cup milk\n1 tbsp. dijon mustard\nsalt and pepper to taste\n1 cup cheddar cheese, grated\n 1 cup cherry tomatoes. halved\n1 cup spinach\n5 cups Gardenia Wheat Bread, cubes\n1 cup mozzarella cheese, garted\n2 tbsps. flat leaf parsley",
-      "procedure": "Procedure\nPreheat oven to 175°C.\nSet a pan over medium heat, then add olive oil and pan fry italian sausages. Set aside.\nIn a large bowl, combine eggs, milk, and dijon mustard. Season with salt and pepper.\nMix in cheddar cheese, cherry tomatoes, spinach, Gardenia Wheat Bread, and cooked italian sausage.\nTransfer to an oven safe dish, and top with mozzarella cheese. Bake for 15-20 minutes.\nGarnish with parsley before serving."
+      "ingredients": "2 tbsps. olive oil\n2 cups italian sausage\n6 eggs, beaten\n1 cup milk\n1 tbsp. dijon mustard\nsalt and pepper to taste\n1 cup cheddar cheese, grated\n 1 cup cherry tomatoes. halved\n1 cup spinach\n5 cups Gardenia Wheat Bread, cubes\n1 cup mozzarella cheese, garted\n2 tbsps. flat leaf parsley",
+      "procedure": "Preheat oven to 175°C.\nSet a pan over medium heat, then add olive oil and pan fry italian sausages. Set aside.\nIn a large bowl, combine eggs, milk, and dijon mustard. Season with salt and pepper.\nMix in cheddar cheese, cherry tomatoes, spinach, Gardenia Wheat Bread, and cooked italian sausage.\nTransfer to an oven safe dish, and top with mozzarella cheese. Bake for 15-20 minutes.\nGarnish with parsley before serving."
     },
     "photo": {
       "filename": "FB8.jpg",
@@ -344,7 +344,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "October IG",
-    "caption": "Baked casserole dishes are so fun, aren’t they? You can create all sorts of delicious layers of flavor with them, especially when you use incredible ingredients like GoGo Quinoa’s Vegan White Cheddar Puffs. \n\nThese guilt-free snack puffs are delicious enough on their own, but they also create magic in this Green Beans Au Gratin recipe. As toppings, they add a delightful texture and a cheesy zing to this dish that’s sure to please eaters of all ages. Give this a try and be surprised at how delicious it is.\n\nIngredients\n3 tbsps. butter\n3 tbsps. flour\n3  cups milk\n½ cup parmesan cheese\n½ cup cheddar cheese\n1 pinch nutmeg\nsalt and pepper to taste\n3 cups french beans\n2 cups potatoes, cubes\n1 cup mozzarella cheese\n2 cups Gogo Quinoa Vegan White Cheddar Puffs, crushed\n\nProcedure\nPreheat oven to 175°C.\nSet a small pot over medium heat. Add butter and flour to make a roux. Add in milk and whisk until no lumps..\nAdd in parmesan cheese, cheddar cheese and nutmeg. Whisk until smooth, and season with salt and pepper.\nMix french beans and potatoes with cheese sauce. Transfer to an oven safe dish. Top with mozzarella cheese and crushed Gogo Quinoa Vegan White Cheddar Puffs.\nBake for 25-30 minutes. Garnish with chopped parsley.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
+    "caption": "Baked casserole dishes are so fun, aren’t they? You can create all sorts of delicious layers of flavor with them, especially when you use incredible ingredients like GoGo Quinoa’s Vegan White Cheddar Puffs. \n\nThese guilt-free snack puffs are delicious enough on their own, but they also create magic in this Green Beans Au Gratin recipe. As toppings, they add a delightful texture and a cheesy zing to this dish that’s sure to please eaters of all ages. Give this a try and be surprised at how delicious it is.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
       "GoGo Quinoa"
     ],
@@ -352,8 +352,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "40 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n3 tbsps. butter\n3 tbsps. flour\n3  cups milk\n½ cup parmesan cheese\n½ cup cheddar cheese\n1 pinch nutmeg\nsalt and pepper to taste\n3 cups french beans\n2 cups potatoes, cubes\n1 cup mozzarella cheese\n2 cups Gogo Quinoa Vegan White Cheddar Puffs, crushed",
-      "procedure": "Procedure\nPreheat oven to 175°C.\nSet a small pot over medium heat. Add butter and flour to make a roux. Add in milk and whisk until no lumps..\nAdd in parmesan cheese, cheddar cheese and nutmeg. Whisk until smooth, and season with salt and pepper.\nMix french beans and potatoes with cheese sauce. Transfer to an oven safe dish. Top with mozzarella cheese and crushed Gogo Quinoa Vegan White Cheddar Puffs.\nBake for 25-30 minutes. Garnish with chopped parsley."
+      "ingredients": "3 tbsps. butter\n3 tbsps. flour\n3  cups milk\n½ cup parmesan cheese\n½ cup cheddar cheese\n1 pinch nutmeg\nsalt and pepper to taste\n3 cups french beans\n2 cups potatoes, cubes\n1 cup mozzarella cheese\n2 cups Gogo Quinoa Vegan White Cheddar Puffs, crushed",
+      "procedure": "Preheat oven to 175°C.\nSet a small pot over medium heat. Add butter and flour to make a roux. Add in milk and whisk until no lumps..\nAdd in parmesan cheese, cheddar cheese and nutmeg. Whisk until smooth, and season with salt and pepper.\nMix french beans and potatoes with cheese sauce. Transfer to an oven safe dish. Top with mozzarella cheese and crushed Gogo Quinoa Vegan White Cheddar Puffs.\nBake for 25-30 minutes. Garnish with chopped parsley."
     },
     "photo": {
       "filename": "FB9.jpg",

@@ -11,7 +11,7 @@ const MARCH_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "March IG",
-    "caption": "Greet your day the French way and indulge in these Breakfast Sausage Crepes made with Butterball All Natural Turkey Breakfast Sausage Links! Because they’re made from turkey they contain less fat than regular pork sausages, without compromising on flavor. Cherry tomatoes add pops of flavor, and if you’re in the mood for a bit more bite, feel free to throw in some sautéed mushrooms as well!\nShop all the ingredients you need for this recipe, along with Butterball Products at #TheMarketplace!\nServing Time: 30 minutes\nYield: 4 servings\n\nIngredients\nFor Crepe Batter\n½ cup all-purpose flour\n¼ cup milk\n¼ cup water\n1 large egg\nPinch of salt\n1 tbsp. butter, melted (plus more for frying)\n\nFor Filling\n1 pack (8oz) Butterball All Natural Turkey Breakfast Sausage Links\n2 tbsps. oil\n4 eggs\nSalt and pepper to taste\n½ cup cherry tomatoes, halved\nSpring onions to garnish\n\nProcedure\n1. Heat oil on a skillet over medium heat. Sear Butterball All Natural Turkey Breakfast Sausage Links until nicely browned and set aside.\n2. Whisk crepe batter ingredients in a bowl until smooth. In an 8-inch non-stick skillet, melt butter over low-medium heat. Pour ¼ cup of crepe batter and swirl immediately. Once it begins to bubble, flip the crepe then crack an egg onto the center. Season with salt and pepper, then top with sausages and cherry tomatoes. \n3. Fold over 4 edges of the crepe to form a square. Cover and cook until the whites are set. Slide onto a plate and garnish with spring onions.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Greet your day the French way and indulge in these Breakfast Sausage Crepes made with Butterball All Natural Turkey Breakfast Sausage Links! Because they’re made from turkey they contain less fat than regular pork sausages, without compromising on flavor. Cherry tomatoes add pops of flavor, and if you’re in the mood for a bit more bite, feel free to throw in some sautéed mushrooms as well!\nShop all the ingredients you need for this recipe, along with Butterball Products at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Butterball"
     ],
@@ -19,8 +19,8 @@ const MARCH_IG_DATA = [
       "servingTime": "30 minutes",
       "yield": "4 servings",
       "tips": "",
-      "ingredients": "Ingredients\nFor Crepe Batter\n½ cup all-purpose flour\n¼ cup milk\n¼ cup water\n1 large egg\nPinch of salt\n1 tbsp. butter, melted (plus more for frying)\n\nFor Filling\n1 pack (8oz) Butterball All Natural Turkey Breakfast Sausage Links\n2 tbsps. oil\n4 eggs\nSalt and pepper to taste\n½ cup cherry tomatoes, halved\nSpring onions to garnish",
-      "procedure": "Procedure\nHeat oil on a skillet over medium heat. Sear Butterball All Natural Turkey Breakfast Sausage Links until nicely browned and set aside.\nWhisk crepe batter ingredients in a bowl until smooth. In an 8-inch non-stick skillet, melt butter over low-medium heat. Pour ¼ cup of crepe batter and swirl immediately. Once it begins to bubble, flip the crepe then crack an egg onto the center. Season with salt and pepper, then top with sausages and cherry tomatoes. \nFold over 4 edges of the crepe to form a square. Cover and cook until the whites are set. Slide onto a plate and garnish with spring onions."
+      "ingredients": "For Crepe Batter\n½ cup all-purpose flour\n¼ cup milk\n¼ cup water\n1 large egg\nPinch of salt\n1 tbsp. butter, melted (plus more for frying)\n\nFor Filling\n1 pack (8oz) Butterball All Natural Turkey Breakfast Sausage Links\n2 tbsps. oil\n4 eggs\nSalt and pepper to taste\n½ cup cherry tomatoes, halved\nSpring onions to garnish",
+      "procedure": "Heat oil on a skillet over medium heat. Sear Butterball All Natural Turkey Breakfast Sausage Links until nicely browned and set aside.\nWhisk crepe batter ingredients in a bowl until smooth. In an 8-inch non-stick skillet, melt butter over low-medium heat. Pour ¼ cup of crepe batter and swirl immediately. Once it begins to bubble, flip the crepe then crack an egg onto the center. Season with salt and pepper, then top with sausages and cherry tomatoes. \nFold over 4 edges of the crepe to form a square. Cover and cook until the whites are set. Slide onto a plate and garnish with spring onions."
     },
     "photo": {
       "filename": "IG1.jpg",
@@ -36,7 +36,7 @@ const MARCH_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "March IG",
-    "caption": "Here’s a fun way to enjoy Harvest Box Power Mix: add them to some freshly baked chocolate chip cookies!\nThese Power Mix Cookies contain a blend of dried fruit, nuts, seeds, and milk chocolate, along with semi-sweet chocolate chips. Make a batch of these and pack them to work, or place them in your home cookie jar! Enjoy with a glass of milk, tea, or coffee. Find Harvest Box products, along with other trail mixes, at #TheMarketplace!\nServing Time: 1 hour\nYield: 12 cookies\n\nIngredients\n1 ¼ cups all-purpose flour\n½ tsp. baking soda\n½ tsp. salt\n½ cup unsalted butter, melted\n1 large egg\n1 tsp. vanilla extract\n½ cup granulated sugar\n½ cup brown sugar\n¼ cup semi-sweet chocolate chips\n1 pack (135g) Harvest Box Power Mix, plus more for topping\n\nProcedure\n1. Mix flour, baking soda, and salt. In a separate bowl, mix melted butter, egg, granulated sugar, brown sugar, and vanilla. Fold flour mixture into the butter mixture until combined.\n2. Mix in semisweet chocolate chips and Harvest Box Power Mix. Cover and chill for at least 30 mins.\n3. Meanwhile, preheat oven to 180°C. Scoop balls of cookie dough onto parchment-lined baking trays, then press more Harvest Box Power Mix on top. \n4. Bake for 10-12 mins. or until golden brown. Transfer to a wire rack to cool.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Here’s a fun way to enjoy Harvest Box Power Mix: add them to some freshly baked chocolate chip cookies!\nThese Power Mix Cookies contain a blend of dried fruit, nuts, seeds, and milk chocolate, along with semi-sweet chocolate chips. Make a batch of these and pack them to work, or place them in your home cookie jar! Enjoy with a glass of milk, tea, or coffee. Find Harvest Box products, along with other trail mixes, at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Harvest Box"
     ],
@@ -44,8 +44,8 @@ const MARCH_IG_DATA = [
       "servingTime": "1 hour",
       "yield": "12 cookies",
       "tips": "",
-      "ingredients": "Ingredients\n1 ¼ cups all-purpose flour\n½ tsp. baking soda\n½ tsp. salt\n½ cup unsalted butter, melted\n1 large egg\n1 tsp. vanilla extract\n½ cup granulated sugar\n½ cup brown sugar\n¼ cup semi-sweet chocolate chips\n1 pack (135g) Harvest Box Power Mix, plus more for topping",
-      "procedure": "Procedure\nMix flour, baking soda, and salt. In a separate bowl, mix melted butter, egg, granulated sugar, brown sugar, and vanilla. Fold flour mixture into the butter mixture until combined. \nMix in semisweet chocolate chips and Harvest Box Power Mix. Cover and chill for at least 30 mins.\nMeanwhile, preheat oven to 180°C. Scoop balls of cookie dough onto parchment-lined baking trays, then press more Harvest Box Power Mix on top. \nBake for 10-12 mins. or until golden brown. Transfer to a wire rack to cool."
+      "ingredients": "1 ¼ cups all-purpose flour\n½ tsp. baking soda\n½ tsp. salt\n½ cup unsalted butter, melted\n1 large egg\n1 tsp. vanilla extract\n½ cup granulated sugar\n½ cup brown sugar\n¼ cup semi-sweet chocolate chips\n1 pack (135g) Harvest Box Power Mix, plus more for topping",
+      "procedure": "Mix flour, baking soda, and salt. In a separate bowl, mix melted butter, egg, granulated sugar, brown sugar, and vanilla. Fold flour mixture into the butter mixture until combined. \nMix in semisweet chocolate chips and Harvest Box Power Mix. Cover and chill for at least 30 mins.\nMeanwhile, preheat oven to 180°C. Scoop balls of cookie dough onto parchment-lined baking trays, then press more Harvest Box Power Mix on top. \nBake for 10-12 mins. or until golden brown. Transfer to a wire rack to cool."
     },
     "photo": {
       "filename": "IG2.jpg",
@@ -80,7 +80,7 @@ const MARCH_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "March IG",
-    "caption": "There’s nothing like a delicious, crisp salad to refresh a meal. And this one made with Madama Oliva’s Lupini Beans and Spicy Pitted Green Olives will definitely make frequent reruns on your dining table. \nHearty, healthy, and with a kick of spice from the olives, this salad is so tasty, it can also be enjoyed on its own. Grab all the ingredients that you need for this recipe from #TheMarketplace and try it out for yourself this week!\nServing Time: 5 minutes\nYield: 2-3 servings\n\nIngredients\n1 pack (100g) Madama Lupini Beans\n1 pack (100g) Madama Spicy Pitted Green Olives\n2 cups romaine lettuce, chopped\n1 medium tomato, chopped\n1 red onion, finely sliced\n1 avocado, sliced\nVinaigrette for dressing\nHimalayan salt to taste\n\nProcedure\n1. In a large bowl, combine Madama Lupini Beans, Madama Spicy Pitted Olives, lettuce, tomatoes, red onion, and avocado slices. \n2. Drizzle vinaigrette and sprinkle Himalayan salt to taste. Toss until well-combined.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "There’s nothing like a delicious, crisp salad to refresh a meal. And this one made with Madama Oliva’s Lupini Beans and Spicy Pitted Green Olives will definitely make frequent reruns on your dining table. \nHearty, healthy, and with a kick of spice from the olives, this salad is so tasty, it can also be enjoyed on its own. Grab all the ingredients that you need for this recipe from #TheMarketplace and try it out for yourself this week!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Madama"
     ],
@@ -88,8 +88,8 @@ const MARCH_IG_DATA = [
       "servingTime": "5 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 pack (100g) Lupini Beans\n1 pack (100g) Spicy Pitted Green Olives\n2 cups romaine lettuce, chopped\n1 medium tomato, chopped\n1 red onion, finely sliced\n1 avocado, sliced\nVinaigrette for dressing\nHimalayan salt to taste",
-      "procedure": "Procedure\nIn a large bowl, combine Lupini Beans, Spicy Pitted Olives, lettuce, tomatoes, red onion, and avocado slices. \nDrizzle vinaigrette and sprinkle Himalayan salt to taste. Toss until well-combined."
+      "ingredients": "1 pack (100g) Lupini Beans\n1 pack (100g) Spicy Pitted Green Olives\n2 cups romaine lettuce, chopped\n1 medium tomato, chopped\n1 red onion, finely sliced\n1 avocado, sliced\nVinaigrette for dressing\nHimalayan salt to taste",
+      "procedure": "In a large bowl, combine Lupini Beans, Spicy Pitted Olives, lettuce, tomatoes, red onion, and avocado slices. \nDrizzle vinaigrette and sprinkle Himalayan salt to taste. Toss until well-combined."
     },
     "photo": {
       "filename": "FB2.jpg",
@@ -105,7 +105,7 @@ const MARCH_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "March IG",
-    "caption": "Potato chips are often used to crisp up fried chicken, so we thought, why not try them on calamari?\nWe used some crushed up Thins Sour Cream & Chives Potato Chips to coat over some squid rings before deep-frying them. The chips provide a bit of zing to the calamari thanks to the sour cream flavor. Don’t forget to serve with marinara sauce, lemon wedges, or tartar sauce! Try this recipe with other Thins Potato Chips, too! Find Thins potato chips, along with other international potato chip brands, at #TheMarketplace!\nServing Time: 30 minutes\nYield: 4 servings\n\nIngredients\n500g squid rings\n1 pack (175g) Thins Sour Cream & Chives Potato Chips, crushed\n¾ cup cornstarch\n1 egg, beaten\nSalt and pepper to taste\nOil for frying\nMarinara sauce and lemon wedges to serve\n\nProcedure\n1. Pat dry squid rings. Season with salt and pepper, then set aside. Prepare 3 separate bowls for cornstarch, egg, and crushed Thins Sour Cream & Chives Potato Chips.\n2. Toss individual squid rings in cornstarch, then dip into the beaten egg, dripping off the excess. Dredge in potato chip crumbs until well-coated.\n3. Heat a deep frying pan with oil over medium-high until it reaches 185°C. Deep-fry calamari until golden brown, turning occasionally. Transfer to a paper towel-lined tray to remove excess oil. Serve with marinara sauce and lemon wedges.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Potato chips are often used to crisp up fried chicken, so we thought, why not try them on calamari?\nWe used some crushed up Thins Sour Cream & Chives Potato Chips to coat over some squid rings before deep-frying them. The chips provide a bit of zing to the calamari thanks to the sour cream flavor. Don’t forget to serve with marinara sauce, lemon wedges, or tartar sauce! Try this recipe with other Thins Potato Chips, too! Find Thins potato chips, along with other international potato chip brands, at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Thins"
     ],
@@ -113,8 +113,8 @@ const MARCH_IG_DATA = [
       "servingTime": "30 minutes",
       "yield": "4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n500g squid rings\n1 pack (175g) Thins Sour Cream & Chives Potato Chips, crushed\n¾ cup cornstarch\n1 egg, beaten\nSalt and pepper to taste\nOil for frying\nMarinara sauce and lemon wedges to serve",
-      "procedure": "Procedure\nPat dry squid rings. Season with salt and pepper, then set aside. Prepare 3 separate bowls for cornstarch, egg, and crushed Thins Sour Cream & Chives Potato Chips.\nToss individual squid rings in cornstarch, then dip into the beaten egg, dripping off the excess. Dredge in potato chip crumbs until well-coated.\nHeat a deep frying pan with oil over medium-high until it reaches 185°C. Deep-fry calamari until golden brown, turning occasionally. Transfer to a paper towel-lined tray to remove excess oil. Serve with marinara sauce and lemon wedges."
+      "ingredients": "500g squid rings\n1 pack (175g) Thins Sour Cream & Chives Potato Chips, crushed\n¾ cup cornstarch\n1 egg, beaten\nSalt and pepper to taste\nOil for frying\nMarinara sauce and lemon wedges to serve",
+      "procedure": "Pat dry squid rings. Season with salt and pepper, then set aside. Prepare 3 separate bowls for cornstarch, egg, and crushed Thins Sour Cream & Chives Potato Chips.\nToss individual squid rings in cornstarch, then dip into the beaten egg, dripping off the excess. Dredge in potato chip crumbs until well-coated.\nHeat a deep frying pan with oil over medium-high until it reaches 185°C. Deep-fry calamari until golden brown, turning occasionally. Transfer to a paper towel-lined tray to remove excess oil. Serve with marinara sauce and lemon wedges."
     },
     "photo": {
       "filename": "FB3.jpg",

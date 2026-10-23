@@ -11,7 +11,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "This Christmas, impress your guests with this delicious fish-forward recipe for Pate/Stuffed Pasta made with flaked MIKISA Smoked Salinas!\n\nOozing with cream, cheese, and smoky flavors, a tray of this easily feeds a party of four to six! Perfect for potlucks and for friends who prefer seafood over meat. Find MIKISA products, along with all the other ingredients you need for this recipe at #TheMarketplace!\n\nServing Time: 50 minutes\nYield: 4-6 servings\n\nIngredients\n(FILLING)\n2 tbsps. olive oil\n5 cloves garlic, minced\n1 pack MIKISA Smoked Salinas, flesh flaked\n1 block cream cheese, softened \n½ cup cooking cream \n½ cup mozzarella cheese, grated \n¼ cup parsley, chopped \n½ cup dill, chopped \n1 tsp. Paprika\nZest of 1 lemon \nSalt and pepper to taste \n\n(BECHAMEL)\n4 tbsps. butter \n3 tbsps. Flour\n2 cup whole milk \n1 chicken bouillon cube \n¼ tsp. ground nutmeg\n½ cup parmesan cheese\n\n(ASSEMBLY)\n500g cannelloni, cooked according to package instructions \n1 cup mozzarella cheese, grated\n\nProcedure\n\n1. Sauté garlic and MIKISA Smoked Salinas in olive oil. \n2. Combine with cream cheese, cream, mozzarella, parsley, dill, paprika and lemon zest. Season with salt and pepper. Set aside. \n3. In a saucepan, melt butter. Add in flour, and cook until pasty. Slowly whisk in milk. Once roux is well dissolved, mix in chicken bouillon cube, nutmeg and parmesan. Let simmer until thick, then season with salt pepper. \n4. Fill cannelloni with the MIKISA Smoked Salinas filling. Add a layer of bechamel onto a baking tray, then arrange filled cannellonis on top. Spread remaining bechamel all over, then top with mozzarella cheese. \n5. Broil until cheese is melted and nicely browned. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "This Christmas, impress your guests with this delicious fish-forward recipe for Pate/Stuffed Pasta made with flaked MIKISA Smoked Salinas!\n\nOozing with cream, cheese, and smoky flavors, a tray of this easily feeds a party of four to six! Perfect for potlucks and for friends who prefer seafood over meat. Find MIKISA products, along with all the other ingredients you need for this recipe at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Mikisa"
     ],
@@ -19,8 +19,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "50 minutes",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n(FILLING)\n2 tbsps. olive oil\n5 cloves garlic, minced\n1 pack MIKISA Smoked Salinas, flesh flaked\n1 block cream cheese, softened \n½ cup cooking cream \n½ cup mozzarella cheese, grated \n¼ cup parsley, chopped \n½ cup dill, chopped \n1 tsp. Paprika\nZest of 1 lemon \nSalt and pepper to taste \n(BECHAMEL)\n4 tbsps. butter \n3 tbsps. Flour\n2 cup whole milk \n1 chicken bouillon cube \n¼ tsp. ground nutmeg\n½ cup parmesan cheese\n(ASSEMBLY)\n500g cannelloni, cooked according to package instructions \n1 cup mozzarella cheese, grated",
-      "procedure": "Procedure\nSauté garlic and MIKISA Smoked Salinas in olive oil. \nCombine with cream cheese, cream, mozzarella, parsley, dill, paprika and lemon zest. Season with salt and pepper. Set aside. \nIn a saucepan, melt butter. Add in flour, and cook until pasty. Slowly whisk in milk. Once roux is well dissolved, mix in chicken bouillon cube, nutmeg and parmesan. Let simmer until thick, then season with salt pepper. \nFill cannelloni with the MIKISA Smoked Salinas filling. Add a layer of bechamel onto a baking tray, then arrange filled cannellonis on top. Spread remaining bechamel all over, then top with mozzarella cheese. \nBroil until cheese is melted and nicely browned."
+      "ingredients": "(FILLING)\n2 tbsps. olive oil\n5 cloves garlic, minced\n1 pack MIKISA Smoked Salinas, flesh flaked\n1 block cream cheese, softened \n½ cup cooking cream \n½ cup mozzarella cheese, grated \n¼ cup parsley, chopped \n½ cup dill, chopped \n1 tsp. Paprika\nZest of 1 lemon \nSalt and pepper to taste \n(BECHAMEL)\n4 tbsps. butter \n3 tbsps. Flour\n2 cup whole milk \n1 chicken bouillon cube \n¼ tsp. ground nutmeg\n½ cup parmesan cheese\n(ASSEMBLY)\n500g cannelloni, cooked according to package instructions \n1 cup mozzarella cheese, grated",
+      "procedure": "Sauté garlic and MIKISA Smoked Salinas in olive oil. \nCombine with cream cheese, cream, mozzarella, parsley, dill, paprika and lemon zest. Season with salt and pepper. Set aside. \nIn a saucepan, melt butter. Add in flour, and cook until pasty. Slowly whisk in milk. Once roux is well dissolved, mix in chicken bouillon cube, nutmeg and parmesan. Let simmer until thick, then season with salt pepper. \nFill cannelloni with the MIKISA Smoked Salinas filling. Add a layer of bechamel onto a baking tray, then arrange filled cannellonis on top. Spread remaining bechamel all over, then top with mozzarella cheese. \nBroil until cheese is melted and nicely browned."
     },
     "photo": {
       "filename": "CM1.jpg",
@@ -36,7 +36,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "Fancy something light as the holidays draw closer? Check out this recipe for Mediterranean Sea Bass made with Pacific Bay Chilean Sea Bass Steak.\n\nDressed with cherry tomatoes, olives, basil, and onion, not only is this fish dish light, but it’s also very satisfying. Goes perfectly with a glass of white, too! Find Pacific Bay Chilean Sea Bass, along with the other ingredients that you need for this recipe at #TheMarketplace!\n\nServing Time: 35 minutes\nYield: 4-6 servings\n\nIngredients\n\n1 pack Pacific Bay Chilean Sea Bass Steak \nSalt and pepper to taste\n3 tbsps. olive oil \n2 tbsps. butter \n1 red onion, sliced\n1 cup cherry tomatoes, halved \n2 tbsps. tomato paste \n1 can stewed tomatoes\n½ cup pitted black olives, halved \n¼ cup basil sprigs\n\nProcedure\n\n1. Pat dry Pacific Bay Chilean Sea Bass Steak, then season with salt and pepper. \n2. Heat up olive oil over medium-high heat, then sear fish until nicely browned in both sides. Do this in batches, then set aside. \n3. In the same pan, add in butter, then sauté red onions and cherry tomatoes until soft. Mix in in tomato paste, and cook for 1-2 minutes. \n4. Add in stewed tomatoes, black olives and the seared fish. Season with salt and pepper, and let simmer for 5 minutes. \n5. Garnish with basil. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Fancy something light as the holidays draw closer? Check out this recipe for Mediterranean Sea Bass made with Pacific Bay Chilean Sea Bass Steak.\n\nDressed with cherry tomatoes, olives, basil, and onion, not only is this fish dish light, but it’s also very satisfying. Goes perfectly with a glass of white, too! Find Pacific Bay Chilean Sea Bass, along with the other ingredients that you need for this recipe at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Pacific Bay"
     ],
@@ -44,8 +44,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "35 minutes",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 pack Pacific Bay Chilean Sea Bass Steak \nSalt and pepper to taste\n3 tbsps. olive oil \n2 tbsps. butter \n1 red onion, sliced\n1 cup cherry tomatoes, halved \n2 tbsps. tomato paste \n1 can stewed tomatoes\n½ cup pitted black olives, halved \n¼ cup basil sprigs",
-      "procedure": "Procedure\nPat dry Pacific Bay Chilean Sea Bass Steak, then season with salt and pepper. \n Heat up olive oil over medium-high heat, then sear fish until nicely browned in both sides. Do this in batches, then set aside. \nIn the same pan, add in butter, then sauté red onions and cherry tomatoes until soft. Mix in in tomato paste, and cook for 1-2 minutes. \nAdd in stewed tomatoes, black olives and the seared fish. Season with salt and pepper, and let simmer for 5 minutes. \nGarnish with basil."
+      "ingredients": "1 pack Pacific Bay Chilean Sea Bass Steak \nSalt and pepper to taste\n3 tbsps. olive oil \n2 tbsps. butter \n1 red onion, sliced\n1 cup cherry tomatoes, halved \n2 tbsps. tomato paste \n1 can stewed tomatoes\n½ cup pitted black olives, halved \n¼ cup basil sprigs",
+      "procedure": "Pat dry Pacific Bay Chilean Sea Bass Steak, then season with salt and pepper. \n Heat up olive oil over medium-high heat, then sear fish until nicely browned in both sides. Do this in batches, then set aside. \nIn the same pan, add in butter, then sauté red onions and cherry tomatoes until soft. Mix in in tomato paste, and cook for 1-2 minutes. \nAdd in stewed tomatoes, black olives and the seared fish. Season with salt and pepper, and let simmer for 5 minutes. \nGarnish with basil."
     },
     "photo": {
       "filename": "CM2.jpg",
@@ -138,7 +138,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Christmas",
-    "caption": "This Christmas, give yourself a sweet treat and make this Strawberry Shortcake Ice Cream in less than seven minutes with Nestlé Vanilla Ice Cream.\n\nWith lots of cakes and sweets being exchanged, this is the perfect idea to make with some leftover pound cake that you may have in the fridge. Simply slice into cubes and toss in some strawberries before drizzling everything with strawberry syrup. Feel free to add chocolate chips, rainbow sprinkles, and chopped nuts for some extra fun! Find Nestlé ice creams, along with your other favorite ice cream brands, at #TheMarketplace!\n\nServing Time: 5 minutes\nYield: 1 serving\n\nIngredients\n\n½ cup pound cake, sliced into cubes\n½ cup strawberries, sliced\n3 scoops Nestle Vanilla Ice Cream\n¼ cup strawberry syrup\n\nProcedure\n\n1. Add pound cake and strawberries in a sundae cup. \n2. Top with scoops of Nestle Vanilla Ice Cream, then drizzle with strawberry syrup. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "This Christmas, give yourself a sweet treat and make this Strawberry Shortcake Ice Cream in less than seven minutes with Nestlé Vanilla Ice Cream.\n\nWith lots of cakes and sweets being exchanged, this is the perfect idea to make with some leftover pound cake that you may have in the fridge. Simply slice into cubes and toss in some strawberries before drizzling everything with strawberry syrup. Feel free to add chocolate chips, rainbow sprinkles, and chopped nuts for some extra fun! Find Nestlé ice creams, along with your other favorite ice cream brands, at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nestlé"
     ],
@@ -146,8 +146,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "5 minutes",
       "yield": "1 serving",
       "tips": "",
-      "ingredients": "Ingredients\n½ cup pound cake, sliced into cubes\n½ cup strawberries, sliced\n3 scoops Nestle Vanilla Ice Cream\n¼ cup strawberry syrup",
-      "procedure": "Procedure\nAdd pound cake and strawberries in a sundae cup. \nTop with scoops of Nestle Vanilla Ice Cream, then drizzle with strawberry syrup."
+      "ingredients": "½ cup pound cake, sliced into cubes\n½ cup strawberries, sliced\n3 scoops Nestle Vanilla Ice Cream\n¼ cup strawberry syrup",
+      "procedure": "Add pound cake and strawberries in a sundae cup. \nTop with scoops of Nestle Vanilla Ice Cream, then drizzle with strawberry syrup."
     },
     "photo": {
       "filename": "CM7.jpg",
@@ -163,7 +163,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "Nothing says Happy Holidays the way this Wreath Cheese Dip does. Made with Emborg Shredded Mozzarella, so you can expect that Instagrammable cheese pull, this dip is made with all the good stuff such as sour cream, cream cheese, garlic, and spinach.\nGather around the table and serve with dinner rolls, nacho chips, potato chips, or whatever your heart desires. This is, after all, the season to be merry. Get all the ingredients you need for this recipe at #TheMarketplace!\n\nServing Time: 20 minutes\nYield: 3-4 servings\n\nIngredients\n\n1 bar cream cheese, softened\n¼ cup mayonnaise\n¼ cup sour cream\n1 cup frozen spinach, thawed and chopped\n3 tbsps. garlic, grated\nSalt and pepper to taste\n14 pcs. dinner rolls\n1 cup Emborg Shredded Mozzarella \n3 tbsps. butter, melted\n1 tbsp. parsley\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. In a bowl, combine cream cheese, mayonnaise, sour cream, spinach and 2 tbsps. garlic. Mix well and season with salt and pepper, then set aside.\n3. In an oven safe dish, arrange dinner rolls forming a wreath. Fill the center with the spinach dip, and top with Emborg Shredded Mozzarella.\n4. In a small bowl, combine butter and remaining garlic. Brush over dinner rolls.\n5. Bake for 10-12 minutes or until mozzarella is melted and golden. Remove from the oven and garnish with parsley.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Nothing says Happy Holidays the way this Wreath Cheese Dip does. Made with Emborg Shredded Mozzarella, so you can expect that Instagrammable cheese pull, this dip is made with all the good stuff such as sour cream, cream cheese, garlic, and spinach.\nGather around the table and serve with dinner rolls, nacho chips, potato chips, or whatever your heart desires. This is, after all, the season to be merry. Get all the ingredients you need for this recipe at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Emborg"
     ],
@@ -171,8 +171,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "20  minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 bar cream cheese, softened\n¼ cup mayonnaise\n¼ cup sour cream\n1 cup frozen spinach, thawed and chopped\n3 tbsps. garlic, grated\nSalt and pepper to taste\n14 pcs. dinner rolls\n1 cup Emborg Shredded Mozzarella \n3 tbsps. butter, melted\n1 tbsp. parsley",
-      "procedure": "Procedure\nPreheat oven to 175°C.\nIn a bowl, combine cream cheese, mayonnaise, sour cream, spinach and 2 tbsps. garlic. Mix well and season with salt and pepper, then set aside.\nIn an oven safe dish, arrange dinner rolls forming a wreath. Fill the center with the spinach dip, and top with Emborg Shredded Mozzarella.\nIn a small bowl, combine butter and remaining garlic. Brush over dinner rolls.\nBake for 10-12 minutes or until mozzarella is melted and golden. Remove from the oven and garnish with parsley."
+      "ingredients": "1 bar cream cheese, softened\n¼ cup mayonnaise\n¼ cup sour cream\n1 cup frozen spinach, thawed and chopped\n3 tbsps. garlic, grated\nSalt and pepper to taste\n14 pcs. dinner rolls\n1 cup Emborg Shredded Mozzarella \n3 tbsps. butter, melted\n1 tbsp. parsley",
+      "procedure": "Preheat oven to 175°C.\nIn a bowl, combine cream cheese, mayonnaise, sour cream, spinach and 2 tbsps. garlic. Mix well and season with salt and pepper, then set aside.\nIn an oven safe dish, arrange dinner rolls forming a wreath. Fill the center with the spinach dip, and top with Emborg Shredded Mozzarella.\nIn a small bowl, combine butter and remaining garlic. Brush over dinner rolls.\nBake for 10-12 minutes or until mozzarella is melted and golden. Remove from the oven and garnish with parsley."
     },
     "photo": {
       "filename": "CM8.jpg",
@@ -188,7 +188,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "Christmas",
-    "caption": "One of the best things about the holidays is, of course, the ham!\nIn this recipe for Ham & Brie Puff Pastry, make the most of your leftover ham or simply grab Purefoods Fiesta Ham the next time you visit #TheMarketplace! We know this recipe sounds complex, but the tip here is to be mindful of the oven heat, and you should be fine. Make this for your dinner guests, bring it to your get togethers, or gift it to a friend! Nothing beats a homemade pastry.\n\nServing Time: 45 minutes\nYield: 3-4 servings\n\nIngredients\n\n¼ cup flour\n1 sheet puff pastry\n1 egg yolk\n2 tbsps. heavy cream\n1 tbsp. flaky salt\n¾ cup strawberry jam\n300g Purefoods Fiesta Ham Pre Sliced\n1 pack camembert, sliced\n⅛ cup thyme sprigs\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. Dust a flat surface with flour, then roll out puff pastry until it’s ½-inch thick. Fold the edges to form a crust. Prick the inside part of the puff pastry using a fork.\n3. Combine egg yolk and heavy cream. Brush the sides of the puff pastry and sprinkle with flaky salt. Bake for 30 minutes, or until golden brown.\n4. Spread an even layer of jam all over the cooked puff pastry. Top with Purefoods Fiesta Ham and camembert. Garnish with thyme sprigs.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "One of the best things about the holidays is, of course, the ham!\nIn this recipe for Ham & Brie Puff Pastry, make the most of your leftover ham or simply grab Purefoods Fiesta Ham the next time you visit #TheMarketplace! We know this recipe sounds complex, but the tip here is to be mindful of the oven heat, and you should be fine. Make this for your dinner guests, bring it to your get togethers, or gift it to a friend! Nothing beats a homemade pastry.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Purefoods"
     ],
@@ -196,8 +196,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "45 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n¼ cup flour\n1 sheet puff pastry\n1 egg yolk\n2 tbsps. heavy cream\n1 tbsp. flaky salt\n¾ cup strawberry jam\n300g Purefoods Fiesta Ham Pre Sliced\n1 pack camembert, sliced\n⅛ cup thyme sprigs",
-      "procedure": "Procedure\nPreheat oven to 175°C.\nDust a flat surface with flour, then roll out puff pastry until it’s ½-inch thick. Fold the edges to form a crust. Prick the inside part of the puff pastry using a fork. \nCombine egg yolk and heavy cream. Brush the sides of the puff pastry and sprinkle with flaky salt. Bake for 30 minutes, or until golden brown.\nSpread an even layer of jam all over the cooked puff pastry. Top with Purefoods Fiesta Ham and camembert. Garnish with thyme sprigs."
+      "ingredients": "¼ cup flour\n1 sheet puff pastry\n1 egg yolk\n2 tbsps. heavy cream\n1 tbsp. flaky salt\n¾ cup strawberry jam\n300g Purefoods Fiesta Ham Pre Sliced\n1 pack camembert, sliced\n⅛ cup thyme sprigs",
+      "procedure": "Preheat oven to 175°C.\nDust a flat surface with flour, then roll out puff pastry until it’s ½-inch thick. Fold the edges to form a crust. Prick the inside part of the puff pastry using a fork. \nCombine egg yolk and heavy cream. Brush the sides of the puff pastry and sprinkle with flaky salt. Bake for 30 minutes, or until golden brown.\nSpread an even layer of jam all over the cooked puff pastry. Top with Purefoods Fiesta Ham and camembert. Garnish with thyme sprigs."
     },
     "photo": {
       "filename": "CM9.jpg",
@@ -232,7 +232,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Christmas",
-    "caption": "At the core of it, a Monte Cristo is described as either a double or triple-decker sandwich with alternating layers of ham, cheese, and jam. It is then coated in egg and either pan-fried and deep-fried.\n\nIt’s easy to make a Monte Cristo especially during the festive season because of all the ham! And this recipe calls for some CDO Hawaiian Ham, which is glazed with the smoky and sweet flavor of pineapples. It definitely adds depth and a nice tangy kick to the meat! #TheMarketplace is home to all of your holiday needs, so shop for all things festive — including CDO Hawaiian Ham — the next time you drop by!\n\nServing Time: 20 minutes\nYield: 2 servings\n\nIngredients\n\n2 eggs\n4 tbsps. milk\nSalt and pepper to taste\n4 slices bread \n½ cup strawberry jam\n400g CDO Hawaiian Ham \n8 slices cheese\n2 tbsps. butter\n\nProcedure\n\n1. In a bowl, combine eggs and milk. Season with salt and pepper, then set aside.\n2. To assemble the sandwich, spread strawberry jam on bread slices, then alternate layers of CDO Hawaiian Ham and cheese slices.\n3. Set a pan over medium heat and add butter. Lightly soak the assembled sandwich into the egg mixture, then fry until golden brown on both sides.",
+    "caption": "At the core of it, a Monte Cristo is described as either a double or triple-decker sandwich with alternating layers of ham, cheese, and jam. It is then coated in egg and either pan-fried and deep-fried.\n\nIt’s easy to make a Monte Cristo especially during the festive season because of all the ham! And this recipe calls for some CDO Hawaiian Ham, which is glazed with the smoky and sweet flavor of pineapples. It definitely adds depth and a nice tangy kick to the meat! #TheMarketplace is home to all of your holiday needs, so shop for all things festive — including CDO Hawaiian Ham — the next time you drop by!",
     "brand": [
       "CDO"
     ],
@@ -240,8 +240,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "20 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 eggs\n4 tbsps. milk\nSalt and pepper to taste\n4 slices bread \n½ cup strawberry jam\n400g CDO Hawaiian Ham \n8 slices cheese\n2 tbsps. butter",
-      "procedure": "Procedure\nIn a bowl, combine eggs and milk. Season with salt and pepper, then set aside.\nTo assemble the sandwich, spread strawberry jam on bread slices, then alternate layers of CDO Hawaiian Ham and cheese slices.\nSet a pan over medium heat and add butter. Lightly soak the assembled sandwich into the egg mixture, then fry until golden brown on both sides."
+      "ingredients": "2 eggs\n4 tbsps. milk\nSalt and pepper to taste\n4 slices bread \n½ cup strawberry jam\n400g CDO Hawaiian Ham \n8 slices cheese\n2 tbsps. butter",
+      "procedure": "In a bowl, combine eggs and milk. Season with salt and pepper, then set aside.\nTo assemble the sandwich, spread strawberry jam on bread slices, then alternate layers of CDO Hawaiian Ham and cheese slices.\nSet a pan over medium heat and add butter. Lightly soak the assembled sandwich into the egg mixture, then fry until golden brown on both sides."
     },
     "photo": {
       "filename": "CS11.jpg",
@@ -257,7 +257,7 @@ const CHRISTMAS_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Christmas",
-    "caption": "The holidays in the Philippines are never complete with a classic Chicken Macaroni Salad that always makes use of Lady’s Choice Chicken Spread.\n\nThis tried-and-tested recipe comes with its own iterations that are passed from generation to generation. Make batches of chicken salad to give to your nearest and dearest, or to simply stock your fridge with simply because the occasion calls for it. Find everything you need to prepare this salad at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 4-5 servings\n\nIngredients\n\n500 g elbow macaroni\n250g chicken breast\n1 pc. carrot, diced\n3 stalks celery, chopped\n¾ cup pineapple tidbits, drained\n⅛ cup raisins\n1 ½ cups Lady’s Choice Chicken Spread\nSalt and pepper to taste\n\nProcedure\n\n1. Cook elbow macaroni in heavily salted water until al dente. Drain and set aside.\n2. Boil chicken breast until fully cooked, about 12 minutes. Let cool, then shred. Set aside.\n3. In a large bowl, combine cooked elbow macaroni, shredded chicken, carrots, celery, pineapple tidbits, raisins and Lady’s Choice Chicken Spread. Mix well and season with salt and pepper.",
+    "caption": "The holidays in the Philippines are never complete with a classic Chicken Macaroni Salad that always makes use of Lady’s Choice Chicken Spread.\n\nThis tried-and-tested recipe comes with its own iterations that are passed from generation to generation. Make batches of chicken salad to give to your nearest and dearest, or to simply stock your fridge with simply because the occasion calls for it. Find everything you need to prepare this salad at #TheMarketplace!",
     "brand": [
       "Lady's Choice"
     ],
@@ -265,8 +265,8 @@ const CHRISTMAS_DATA = [
       "servingTime": "30 minutes",
       "yield": "4-5 servings",
       "tips": "",
-      "ingredients": "Ingredients\n500 g elbow macaroni\n250g chicken breast\n1 pc. carrot, diced\n3 stalks celery, chopped\n¾ cup pineapple tidbits, drained\n⅛ cup raisins\n1 ½ cups Lady’s Choice Chicken Spread\nSalt and pepper to taste",
-      "procedure": "Procedure\nCook elbow macaroni in heavily salted water until al dente. Drain and set aside.\nBoil chicken breast until fully cooked, about 12 minutes. Let cool, then shred. Set aside.\nIn a large bowl, combine cooked elbow macaroni, shredded chicken, carrots, celery, pineapple tidbits, raisins and Lady’s Choice Chicken Spread. Mix well and season with salt and pepper."
+      "ingredients": "500 g elbow macaroni\n250g chicken breast\n1 pc. carrot, diced\n3 stalks celery, chopped\n¾ cup pineapple tidbits, drained\n⅛ cup raisins\n1 ½ cups Lady’s Choice Chicken Spread\nSalt and pepper to taste",
+      "procedure": "Cook elbow macaroni in heavily salted water until al dente. Drain and set aside.\nBoil chicken breast until fully cooked, about 12 minutes. Let cool, then shred. Set aside.\nIn a large bowl, combine cooked elbow macaroni, shredded chicken, carrots, celery, pineapple tidbits, raisins and Lady’s Choice Chicken Spread. Mix well and season with salt and pepper."
     },
     "photo": {
       "filename": "CS12.jpg",

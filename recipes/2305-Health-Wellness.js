@@ -68,7 +68,7 @@ const HEALTH_WELLNESS_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Health & Wellness",
-    "caption": "Find a healthful excuse to consume chocolate with this Chocolate and Berry Chia Pudding made with Casino Bio Milk Chocolate!\n\nMildly sweet, creamy, and bursting with berry goodness, chia seeds are rich in fiber and omega-3 fatty acids, making them good for the heart and digestive system. Make it for breakfast this week and head over to #TheMarketplace today!\n\nServing Time: 2 hours and 10 minutes\nYield: 1-2 servings\n\nIngredients\n\n1 (100g) pack Casino Bio Milk Chocolate, chopped, plus more for topping\n1 cup milk, warmed\n2 tbsps. cocoa powder\n4 tbsps. chia seeds\n½ cup whipped cream\n½ cup strawberries, halved\n⅓ cup blueberries\n\nProcedure\n\n1. Place Casino Bio Milk Chocolate in a bowl, then pour over warmed milk. Let sit for about 3-4 minutes, then mix until chocolate is fully melted.\n2. Add in cocoa powder and chia seeds, then whisk until well incorporated.\n3. Cover with plastic wrap and refrigerate for at least 2 hours.\n4. Once chia is bloomed and mixture has thickened, transfer to serving bowls.\n5. Top with whipped cream, strawberries, blueberries and more chopped Casino Bio Milk Chocolate.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Find a healthful excuse to consume chocolate with this Chocolate and Berry Chia Pudding made with Casino Bio Milk Chocolate!\n\nMildly sweet, creamy, and bursting with berry goodness, chia seeds are rich in fiber and omega-3 fatty acids, making them good for the heart and digestive system. Make it for breakfast this week and head over to #TheMarketplace today!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Casino Bio"
     ],
@@ -76,8 +76,8 @@ const HEALTH_WELLNESS_DATA = [
       "servingTime": "2 hours and 10 minutes",
       "yield": "1-2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 (100g) pack Casino Bio Milk Chocolate, chopped, plus more for topping\n1 cup milk, warmed\n2 tbsps. cocoa powder\n4 tbsps. chia seeds\n½ cup whipped cream\n½ cup strawberries, halved\n⅓ cup blueberries",
-      "procedure": "Procedure\nPlace Casino Bio Milk Chocolate in a bowl, then pour over warmed milk. Let sit for about 3-4 minutes, then mix until chocolate is fully melted.\nAdd in cocoa powder and chia seeds, then whisk until well incorporated.\nCover with plastic wrap and refrigerate for at least 2 hours.\nOnce chia is bloomed and mixture has thickened, transfer to serving bowls.\nTop with whipped cream, strawberries, blueberries and more chopped Casino Bio Milk Chocolate."
+      "ingredients": "1 (100g) pack Casino Bio Milk Chocolate, chopped, plus more for topping\n1 cup milk, warmed\n2 tbsps. cocoa powder\n4 tbsps. chia seeds\n½ cup whipped cream\n½ cup strawberries, halved\n⅓ cup blueberries",
+      "procedure": "Place Casino Bio Milk Chocolate in a bowl, then pour over warmed milk. Let sit for about 3-4 minutes, then mix until chocolate is fully melted.\nAdd in cocoa powder and chia seeds, then whisk until well incorporated.\nCover with plastic wrap and refrigerate for at least 2 hours.\nOnce chia is bloomed and mixture has thickened, transfer to serving bowls.\nTop with whipped cream, strawberries, blueberries and more chopped Casino Bio Milk Chocolate."
     },
     "photo": {
       "filename": "HW4.jpg",

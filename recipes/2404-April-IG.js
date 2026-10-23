@@ -19,8 +19,8 @@ const APRIL_IG_DATA = [
       "servingTime": "30 minutes",
       "yield": "6 servings",
       "tips": "",
-      "ingredients": "Ingredients\nCanola oil for deep frying\n1 (600g) pack Wernsing Potato Pockets w/ Cream Cheese\n3 tbsps. olive oil\n250g ground beef \n2 white onions, diced\n4 cloves garlic, minced\n2 tbsps. soy sauce \nSalt and pepper to taste\n1 cup cheddar cheese, shredded\nFor the sauce: \n1 cup mayonnaise \n2 tbsps. mustard\n½ cup ketchup \n¼ cup pickle relish",
-      "procedure": "Procedure\nDeep-fry Wernsing Potato Pockets w/ Cream Cheese until golden brown, about 5 minutes. \nSear ground beef in olive oil. Once caramelized, mix in half of the onions and garlic, then sauté until soft. Season with soy sauce, salt and pepper. Set aside. \nPreheat oven to 190C. \nIn a cast iron or oven safe dish, layer the deep fried Wernsing Potato Pockets with cooked ground beef, remaining onions, pickles and cheddar cheese. \nBake for 6-8 minutes, or until cheese is melted. \nWhisk together sauce ingredients, then drizzle over the baked dish."
+      "ingredients": "Canola oil for deep frying\n1 (600g) pack Wernsing Potato Pockets w/ Cream Cheese\n3 tbsps. olive oil\n250g ground beef \n2 white onions, diced\n4 cloves garlic, minced\n2 tbsps. soy sauce \nSalt and pepper to taste\n1 cup cheddar cheese, shredded\nFor the sauce: \n1 cup mayonnaise \n2 tbsps. mustard\n½ cup ketchup \n¼ cup pickle relish",
+      "procedure": "Deep-fry Wernsing Potato Pockets w/ Cream Cheese until golden brown, about 5 minutes. \nSear ground beef in olive oil. Once caramelized, mix in half of the onions and garlic, then sauté until soft. Season with soy sauce, salt and pepper. Set aside. \nPreheat oven to 190C. \nIn a cast iron or oven safe dish, layer the deep fried Wernsing Potato Pockets with cooked ground beef, remaining onions, pickles and cheddar cheese. \nBake for 6-8 minutes, or until cheese is melted. \nWhisk together sauce ingredients, then drizzle over the baked dish."
     },
     "photo": {
       "filename": "IG1.jpg",
@@ -44,8 +44,8 @@ const APRIL_IG_DATA = [
       "servingTime": "20 minutes",
       "yield": "10 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 cups kimchi, chopped\n¼ cup leeks, julienned\n2 cloves garlic, grated\n1 tbsp. sesame seeds\n1 cup mayonnaise \n2 tbsps. honey \nSalt and pepper to taste\n3 tbsps. sesame oil\n10 pcs. Tender Juicy Chili Cheese Hot Dogs, peeled\n10 pcs. hotdog buns, sliced",
-      "procedure": "Procedure\nCombine kimchi, leeks, garlic, sesame seeds mayonnaise and honey. Season with salt and pepper to taste. Keep in the chiller while preparing the hotdogs. \nBrush Tender Juicy Chili Cheese Hot Dogs with sesame oil, then grill until nicely charred and cooked through. \nGrill the hotdog buns cut-side down until nicely toasted. Keep warm. \nTo serve, top each hotdog bun with a Tender Juicy Chili Cheese Hot Dog and the kimchi slaw."
+      "ingredients": "2 cups kimchi, chopped\n¼ cup leeks, julienned\n2 cloves garlic, grated\n1 tbsp. sesame seeds\n1 cup mayonnaise \n2 tbsps. honey \nSalt and pepper to taste\n3 tbsps. sesame oil\n10 pcs. Tender Juicy Chili Cheese Hot Dogs, peeled\n10 pcs. hotdog buns, sliced",
+      "procedure": "Combine kimchi, leeks, garlic, sesame seeds mayonnaise and honey. Season with salt and pepper to taste. Keep in the chiller while preparing the hotdogs. \nBrush Tender Juicy Chili Cheese Hot Dogs with sesame oil, then grill until nicely charred and cooked through. \nGrill the hotdog buns cut-side down until nicely toasted. Keep warm. \nTo serve, top each hotdog bun with a Tender Juicy Chili Cheese Hot Dog and the kimchi slaw."
     },
     "photo": {
       "filename": "IG2.jpg",

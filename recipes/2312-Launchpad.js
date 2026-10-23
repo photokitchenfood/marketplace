@@ -11,7 +11,7 @@ const LAUNCHPAD_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Launchpad",
-    "caption": "Want a touch of summer this holiday season? Head over to #TheMarketplace and grab cans of Minute Maid Nutri+ Orange for these classic Orange Palomas!\n\nWith tequila as its based and jazzed up with a variety of citrus fruits, sip and enjoy this cocktail that’s bursting with bold, citrusy flavors. Opt for a non-alcoholic version, too, by replacing the tequila with either tonic water or soda water. Bottoms up!\n\nServing Time: 5 minutes\nYield: 2 servings\n\nIngredients\n1 orange, sliced\n¼ cup brown sugar, for rim\n2 cups ice\n¼ cup blanco tequila\n½ cup fresh orange juice\n¼ cup lime juice\n¾ cup Minute Maid Nutri+ Orange\n¼ cup club soda\n2 tbsps. mint leaves\n\n\nProcedure\nRub the rim of 2 glasses with a sliced orange, then dip one side of each rim in brown sugar.\nFill each glass with ice.\nIn a cocktail shaker, combine tequila, orange juice, lime juice, and Minute Maid Nutri+ Orange. Shake vigorously for 30 seconds.\nStrain the mixture into the prepared glasses.\nTop each glass with club soda.\nGarnish each glass with an orange slice and mint sprigs\n\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Want a touch of summer this holiday season? Head over to #TheMarketplace and grab cans of Minute Maid Nutri+ Orange for these classic Orange Palomas!\n\nWith tequila as its based and jazzed up with a variety of citrus fruits, sip and enjoy this cocktail that’s bursting with bold, citrusy flavors. Opt for a non-alcoholic version, too, by replacing the tequila with either tonic water or soda water. Bottoms up!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Minute Maid"
     ],
@@ -19,8 +19,8 @@ const LAUNCHPAD_DATA = [
       "servingTime": "5 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 orange, sliced\n¼ cup brown sugar, for rim\n2 cups ice\n¼ cup blanco tequila\n½ cup fresh orange juice\n¼ cup lime juice\n¾ cup Minute Maid Nutri+ Orange\n¼ cup club soda\n2 tbsps. mint leaves",
-      "procedure": "Procedure\nRub the rim of 2 glasses with a sliced orange, then dip one side of each rim in brown sugar.\nFill each glass with ice.\nIn a cocktail shaker, combine tequila, orange juice, lime juice, and Minute Maid Nutri+ Orange. Shake vigorously for 30 seconds.\nStrain the mixture into the prepared glasses.\nTop each glass with club soda.\nGarnish each glass with an orange slice and mint sprigs"
+      "ingredients": "1 orange, sliced\n¼ cup brown sugar, for rim\n2 cups ice\n¼ cup blanco tequila\n½ cup fresh orange juice\n¼ cup lime juice\n¾ cup Minute Maid Nutri+ Orange\n¼ cup club soda\n2 tbsps. mint leaves",
+      "procedure": "Rub the rim of 2 glasses with a sliced orange, then dip one side of each rim in brown sugar.\nFill each glass with ice.\nIn a cocktail shaker, combine tequila, orange juice, lime juice, and Minute Maid Nutri+ Orange. Shake vigorously for 30 seconds.\nStrain the mixture into the prepared glasses.\nTop each glass with club soda.\nGarnish each glass with an orange slice and mint sprigs"
     },
     "photo": {
       "filename": "LP1.jpg",

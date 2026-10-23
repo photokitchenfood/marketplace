@@ -19,8 +19,8 @@ const CHEESE_FESTIVAL_DATA = [
       "servingTime": "20 minutes",
       "yield": "4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n400g fettuccine pasta\n1 cup Parmigiano Reggiano cheese, finely grated\n1 cup unsalted butter \n1 cup pasta cooking water (reserved from boiling pasta)\nSalt, to taste\nFreshly ground black pepper, to taste",
-      "procedure": "Procedure\nBring a large pot of salted water to a boil. Add the fettuccine and cook according to package instructions until al dente, about 8-10 minutes.Reserve 1 cup of the pasta cooking water, then drain the pasta.\nIn a large pan, melt the butter over low heat. Once the butter has melted, add the cooked fettuccine to the pan and toss gently to coat the pasta in butter.\nGradually add the grated Parmigiano Reggiano to the pasta, tossing constantly to create a smooth and creamy sauce. Slowly pour in the reserved pasta water, a little at a time, until the sauce reaches your desired consistency.\nSeason the pasta with salt and freshly ground black pepper to taste. \nDivide the Fettuccine Alfredo among plates, and sprinkle extra Parmigiano Reggiano on top if desired.Serve immediately."
+      "ingredients": "400g fettuccine pasta\n1 cup Parmigiano Reggiano cheese, finely grated\n1 cup unsalted butter \n1 cup pasta cooking water (reserved from boiling pasta)\nSalt, to taste\nFreshly ground black pepper, to taste",
+      "procedure": "Bring a large pot of salted water to a boil. Add the fettuccine and cook according to package instructions until al dente, about 8-10 minutes.Reserve 1 cup of the pasta cooking water, then drain the pasta.\nIn a large pan, melt the butter over low heat. Once the butter has melted, add the cooked fettuccine to the pan and toss gently to coat the pasta in butter.\nGradually add the grated Parmigiano Reggiano to the pasta, tossing constantly to create a smooth and creamy sauce. Slowly pour in the reserved pasta water, a little at a time, until the sauce reaches your desired consistency.\nSeason the pasta with salt and freshly ground black pepper to taste. \nDivide the Fettuccine Alfredo among plates, and sprinkle extra Parmigiano Reggiano on top if desired.Serve immediately."
     },
     "photo": {
       "filename": "CHF1.jpg",
@@ -44,8 +44,8 @@ const CHEESE_FESTIVAL_DATA = [
       "servingTime": "15 minutes",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n200g Boule d’or Mimolette Cheese, sliced\n1 cup fig jam\n2 pears, thinly sliced\n1 cup salami \n½ cup pecans, toasted \n½ cup dried apricots \nCrackers or baguette slices (optional)",
-      "procedure": "Procedure\nArrange the Boule d’or Mimolette Cheese slices in the center of a large platter to highlight the cheese.\nSpoon the fig jam into a small bowl and place it beside the Mimolette.\nFan out the pear slices and place them on one side of the cheese.\nFold or roll the salami slices and arrange them neatly.\nAdd the dried apricots to one section of the board for a sweet, chewy bite.\nScatter the toasted pecans for crunch and flavor.\nOptionally, add crackers or thinly sliced baguette on the side.\nServe the cheese board immediately, allowing guests to pair Mimolette with fig jam, pears, salami, pecans, and the chewy sweetness of dried apricots for a well-rounded tasting experience."
+      "ingredients": "200g Boule d’or Mimolette Cheese, sliced\n1 cup fig jam\n2 pears, thinly sliced\n1 cup salami \n½ cup pecans, toasted \n½ cup dried apricots \nCrackers or baguette slices (optional)",
+      "procedure": "Arrange the Boule d’or Mimolette Cheese slices in the center of a large platter to highlight the cheese.\nSpoon the fig jam into a small bowl and place it beside the Mimolette.\nFan out the pear slices and place them on one side of the cheese.\nFold or roll the salami slices and arrange them neatly.\nAdd the dried apricots to one section of the board for a sweet, chewy bite.\nScatter the toasted pecans for crunch and flavor.\nOptionally, add crackers or thinly sliced baguette on the side.\nServe the cheese board immediately, allowing guests to pair Mimolette with fig jam, pears, salami, pecans, and the chewy sweetness of dried apricots for a well-rounded tasting experience."
     },
     "photo": {
       "filename": "CHF2.jpg",

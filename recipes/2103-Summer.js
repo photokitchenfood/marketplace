@@ -19,8 +19,8 @@ const SUMMER_DATA = [
       "servingTime": "10 minutes",
       "yield": "1-2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n3 tbsps oil \n5 cloves garlic, minced\n1 red onion, minced \n¼ kg. ground beef \n3 tbsps taco seasoning \nSalt and pepper to taste \n2 cups romaine lettuce, shredded\n¼ cup tomatoes, diced\n1 red onion, sliced thinly \n¼ cup corn kernels\n¼ cup avocados, sliced \n¼ cup nachos, crushed \n4 pcs Anchor Cheddar Cheese Slices, cut into triangles \n¼ cup olive oil \n2 tbsps balsamic vinegar \n2 tbsps cilantro, julienned",
-      "procedure": "Procedure\nSauté garlic and onions until soft. Add ground beef and cook until browned. Sprinkle with taco seasoning, salt, and pepper. \nPlace shredded lettuce in your serving bowl. Top with cooked beef, tomatoes, red onions, corn kernels, avocados, nachos, and Anchor Cheddar Cheese Slices. \nTo make the dressing, combine olive oil, balsamic vinegar, and cilantro. \nServe cheesy taco salad with balsamic dressing on the side."
+      "ingredients": "3 tbsps oil \n5 cloves garlic, minced\n1 red onion, minced \n¼ kg. ground beef \n3 tbsps taco seasoning \nSalt and pepper to taste \n2 cups romaine lettuce, shredded\n¼ cup tomatoes, diced\n1 red onion, sliced thinly \n¼ cup corn kernels\n¼ cup avocados, sliced \n¼ cup nachos, crushed \n4 pcs Anchor Cheddar Cheese Slices, cut into triangles \n¼ cup olive oil \n2 tbsps balsamic vinegar \n2 tbsps cilantro, julienned",
+      "procedure": "Sauté garlic and onions until soft. Add ground beef and cook until browned. Sprinkle with taco seasoning, salt, and pepper. \nPlace shredded lettuce in your serving bowl. Top with cooked beef, tomatoes, red onions, corn kernels, avocados, nachos, and Anchor Cheddar Cheese Slices. \nTo make the dressing, combine olive oil, balsamic vinegar, and cilantro. \nServe cheesy taco salad with balsamic dressing on the side."
     },
     "photo": {
       "filename": "S1.jpg",
@@ -45,8 +45,8 @@ const SUMMER_DATA = [
       "servingTime": "8 minutes",
       "yield": "3 pcs.",
       "tips": "",
-      "ingredients": "Ingredients\n3 pcs Tender Juicy Hotdogs \n6 pcs Purefoods Honeycured Bacon\n2 tbsps oil \n3 pcs hotdog buns, toasted\n¼ cup mustard",
-      "procedure": "Procedure\nWrap each hotdog with 2 pcs. of bacon. Secure with a toothpick. \nHeat up oil over medium heat. Fry bacon-wrapped hotdogs until toasted on all sides. \nPlace bacon-wrapped hotdogs on toasted buns. Top with a drizzle of mustard."
+      "ingredients": "3 pcs Tender Juicy Hotdogs \n6 pcs Purefoods Honeycured Bacon\n2 tbsps oil \n3 pcs hotdog buns, toasted\n¼ cup mustard",
+      "procedure": "Wrap each hotdog with 2 pcs. of bacon. Secure with a toothpick. \nHeat up oil over medium heat. Fry bacon-wrapped hotdogs until toasted on all sides. \nPlace bacon-wrapped hotdogs on toasted buns. Top with a drizzle of mustard."
     },
     "photo": {
       "filename": "S2.jpg",
@@ -70,8 +70,8 @@ const SUMMER_DATA = [
       "servingTime": "12 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n¼ cup strawberries, sliced\n¼ cup kiwi, cubed \n¼ cup bananas, sliced\n¼ cup mangoes, cubed \n2 tbsps honey \n2 tbsps mint leaves \n2 scoops Selecta Quezo Real ice cream",
-      "procedure": "Procedure\nCombine strawberries, kiwi, bananas, mangoes, and honey. Let them marinate for 5-10 minutes in the chiller. \nAfter marinating, divide into 2 serving cups. \nTop with mint and a scoop of Selecta Quezo Real ice cream."
+      "ingredients": "¼ cup strawberries, sliced\n¼ cup kiwi, cubed \n¼ cup bananas, sliced\n¼ cup mangoes, cubed \n2 tbsps honey \n2 tbsps mint leaves \n2 scoops Selecta Quezo Real ice cream",
+      "procedure": "Combine strawberries, kiwi, bananas, mangoes, and honey. Let them marinate for 5-10 minutes in the chiller. \nAfter marinating, divide into 2 serving cups. \nTop with mint and a scoop of Selecta Quezo Real ice cream."
     },
     "photo": {
       "filename": "S3.jpg",
@@ -95,8 +95,8 @@ const SUMMER_DATA = [
       "servingTime": "15 minutes",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 pack Magnolia Spicy Wings\n1 cup barbecue sauce \n1 cup mayonnaise\n2 tbsps blue cheese, crumbled\n1 tbsp cilantro, chopped \n1 carrot\n1 cucumber \n1 red bell pepper\n1 celery stalk",
-      "procedure": "Procedure\nGrill Magnolia Spicy Wings until skin is charred and meat is cooked through. This will take 8-10 minutes. \nBrush cooked wings with barbecue sauce. \nCombine mayonnaise, blue cheese, and cilantro. \nSlice vegetables into matchsticks. \nServe barbecued buffalo wings with blue cheese dip and vegetable crudités."
+      "ingredients": "1 pack Magnolia Spicy Wings\n1 cup barbecue sauce \n1 cup mayonnaise\n2 tbsps blue cheese, crumbled\n1 tbsp cilantro, chopped \n1 carrot\n1 cucumber \n1 red bell pepper\n1 celery stalk",
+      "procedure": "Grill Magnolia Spicy Wings until skin is charred and meat is cooked through. This will take 8-10 minutes. \nBrush cooked wings with barbecue sauce. \nCombine mayonnaise, blue cheese, and cilantro. \nSlice vegetables into matchsticks. \nServe barbecued buffalo wings with blue cheese dip and vegetable crudités."
     },
     "photo": {
       "filename": "S4.jpg",
@@ -120,8 +120,8 @@ const SUMMER_DATA = [
       "servingTime": "18 minutes",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 whole pampano white\n½  cup olive oil \n2 tbsps lemon juice \nSalt & pepper to taste \n½ red bell pepper, sliced\n½ green bell pepper, sliced\n½ yellow bell pepper, sliced\n¼ cup cherry tomatoes, halved \n¼ cup balsamic vinegar \n¼ cup olives",
-      "procedure": "Procedure\nCoat the pampano white with ¼ cup olive oil and lemon juice.  Season with salt and pepper. \nCoat the vegetables with remaining ¼ cup olive oil and balsamic vinegar. Season with salt and pepper. \nPlace seasoned vegetables on a roasting tray. Top with the seasoned pampano white and bake at 175°C for 12-15 minutes. \nOptional: garnish with lemon slices and sprigs of flat leaf parsley."
+      "ingredients": "1 whole pampano white\n½  cup olive oil \n2 tbsps lemon juice \nSalt & pepper to taste \n½ red bell pepper, sliced\n½ green bell pepper, sliced\n½ yellow bell pepper, sliced\n¼ cup cherry tomatoes, halved \n¼ cup balsamic vinegar \n¼ cup olives",
+      "procedure": "Coat the pampano white with ¼ cup olive oil and lemon juice.  Season with salt and pepper. \nCoat the vegetables with remaining ¼ cup olive oil and balsamic vinegar. Season with salt and pepper. \nPlace seasoned vegetables on a roasting tray. Top with the seasoned pampano white and bake at 175°C for 12-15 minutes. \nOptional: garnish with lemon slices and sprigs of flat leaf parsley."
     },
     "photo": {
       "filename": "S5.jpg",
@@ -145,8 +145,8 @@ const SUMMER_DATA = [
       "servingTime": "15 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 can Palm Corned Beef  \n4 cups tortilla chips\n¼ cup tomatoes, diced\n¼ cup avocados, diced\n¼ cup red radish, sliced thinly\n2 tbsps red onions, diced \n¼ cup cheddar cheese, grated\n½ cup tomato salsa\n¼ cup green salsa",
-      "procedure": "Procedure\nFry Palm Corned Beef until excess moisture evaporates. This will take 5-8 minutes. \nPlace tortilla chips in a serving bowl. Top with fried corned beef, tomatoes, avocados, red radish, red onions, and cheddar cheese. \nServe with tomato and green salsa on the side."
+      "ingredients": "1 can Palm Corned Beef  \n4 cups tortilla chips\n¼ cup tomatoes, diced\n¼ cup avocados, diced\n¼ cup red radish, sliced thinly\n2 tbsps red onions, diced \n¼ cup cheddar cheese, grated\n½ cup tomato salsa\n¼ cup green salsa",
+      "procedure": "Fry Palm Corned Beef until excess moisture evaporates. This will take 5-8 minutes. \nPlace tortilla chips in a serving bowl. Top with fried corned beef, tomatoes, avocados, red radish, red onions, and cheddar cheese. \nServe with tomato and green salsa on the side."
     },
     "photo": {
       "filename": "S6.jpg",
@@ -170,8 +170,8 @@ const SUMMER_DATA = [
       "servingTime": "1 day",
       "yield": "6 popsicles",
       "tips": "",
-      "ingredients": "Ingredients\n1 bottle Yili Greek-Style Mango & Passion Fruit Yoghurt \n½ cup mango purée \n½ cup passion fruit flesh\n¼ cup honey",
-      "procedure": "Procedure\nCombine mango purée, passion fruit flesh, and honey. Strain. \nLayer mango-passion fruit mixture and Yili Yoghurt in popsicle molds. \nFreeze for 6 hours to overnight."
+      "ingredients": "1 bottle Yili Greek-Style Mango & Passion Fruit Yoghurt \n½ cup mango purée \n½ cup passion fruit flesh\n¼ cup honey",
+      "procedure": "Combine mango purée, passion fruit flesh, and honey. Strain. \nLayer mango-passion fruit mixture and Yili Yoghurt in popsicle molds. \nFreeze for 6 hours to overnight."
     },
     "photo": {
       "filename": "S7.jpg",
@@ -195,8 +195,8 @@ const SUMMER_DATA = [
       "servingTime": "30 minutes",
       "yield": "1 glass",
       "tips": "",
-      "ingredients": "Ingredients\n1 Waitrose Earl Grey tea bag \n½ cup hot water\n3 tbsps sugar\n3 tbsps water \n¼ cup black tapioca pearls, cooked  \n1 cup half & half",
-      "procedure": "Procedure\nSteep the Waitrose Earl Grey tea bag in ½ cup hot water for 5-8 minutes. \nMeanwhile, heat together sugar and water in a small saucepan, or by using a microwave until sugar is fully dissolved. \nRemove tea bag. Combine sugar syrup and tea. Let cool. \nOnce tea is cooled down, mix in half & half. \nPlace tapioca pearls in your serving glass. Top with prepared milk tea."
+      "ingredients": "1 Waitrose Earl Grey tea bag \n½ cup hot water\n3 tbsps sugar\n3 tbsps water \n¼ cup black tapioca pearls, cooked  \n1 cup half & half",
+      "procedure": "Steep the Waitrose Earl Grey tea bag in ½ cup hot water for 5-8 minutes. \nMeanwhile, heat together sugar and water in a small saucepan, or by using a microwave until sugar is fully dissolved. \nRemove tea bag. Combine sugar syrup and tea. Let cool. \nOnce tea is cooled down, mix in half & half. \nPlace tapioca pearls in your serving glass. Top with prepared milk tea."
     },
     "photo": {
       "filename": "S8.jpg",
@@ -220,8 +220,8 @@ const SUMMER_DATA = [
       "servingTime": "15 minutes",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 Woolworths Original Pancake Shaker\n1 cup pineapple chunks, drained\n½ cup brown sugar \n¼ cup coconut flakes, toasted \nPancake syrup, for topping",
-      "procedure": "Procedure\nCook Woolworths Original Pancake Shaker according to package directions. \nIn a nonstick pan, combine pineapple chunks and brown sugar. Cook until sugar is syrupy and pineapples are browned and caramelized. \nTop pancakes with caramelized pineapples and coconut flakes, Serve with pancake syrup."
+      "ingredients": "1 Woolworths Original Pancake Shaker\n1 cup pineapple chunks, drained\n½ cup brown sugar \n¼ cup coconut flakes, toasted \nPancake syrup, for topping",
+      "procedure": "Cook Woolworths Original Pancake Shaker according to package directions. \nIn a nonstick pan, combine pineapple chunks and brown sugar. Cook until sugar is syrupy and pineapples are browned and caramelized. \nTop pancakes with caramelized pineapples and coconut flakes, Serve with pancake syrup."
     },
     "photo": {
       "filename": "S9.jpg",

@@ -19,8 +19,8 @@ const JANUARY_IG_DATA = [
       "servingTime": "20 minutes",
       "yield": "3 servings",
       "tips": "",
-      "ingredients": "Ingredients\nFor the Roti Base:\n3 pcs. Kawan Roti Boom \nFor the Shawarma Meat:\n1 tbsp. olive oil\n1/2 cup ground beef \n1/2 tsp. ground cumin\n1/2 tsp. smoked paprika\n1/4 tsp. ground coriander\n1/4 tsp. ground black pepper\n1/4 tsp. salt\nFor the Garlic Sauce:\n1/4 cup plain Greek yogurt \n1/4 tsp. garlic powder\n1/4 tsp. ground cumin\n1/4 tsp. smoked paprika\nFor Toppings:\n1/2 cup cucumber, diced\n1/2 cup tomato, diced\nFresh cilantro leaves, for garnish",
-      "procedure": "Procedure\nPlace the Kawan Roti Boom in a toaster, and toast for 2-3 cycles, or until golden brown and crisp. Remove and set aside.\nHeat olive oil in a pan over medium heat. Add ground beef to the pan and cook until browned. Stir in cumin, smoked paprika, ground coriander, ground black pepper, and salt. Mix well and cook until the spices are fragrant. Remove from heat and set aside.\nIn a small bowl, combine Greek yogurt with garlic powder, ground cumin, and smoked paprika. Stir until smooth and set aside.\nSpread a generous layer of the prepared garlic sauce over each toasted Roti Boom. Top with a spoonful of the cooked shawarma meat. Sprinkle diced cucumber and tomato evenly over the meat. Add fresh cilantro leaves on top for garnish."
+      "ingredients": "For the Roti Base:\n3 pcs. Kawan Roti Boom \nFor the Shawarma Meat:\n1 tbsp. olive oil\n1/2 cup ground beef \n1/2 tsp. ground cumin\n1/2 tsp. smoked paprika\n1/4 tsp. ground coriander\n1/4 tsp. ground black pepper\n1/4 tsp. salt\nFor the Garlic Sauce:\n1/4 cup plain Greek yogurt \n1/4 tsp. garlic powder\n1/4 tsp. ground cumin\n1/4 tsp. smoked paprika\nFor Toppings:\n1/2 cup cucumber, diced\n1/2 cup tomato, diced\nFresh cilantro leaves, for garnish",
+      "procedure": "Place the Kawan Roti Boom in a toaster, and toast for 2-3 cycles, or until golden brown and crisp. Remove and set aside.\nHeat olive oil in a pan over medium heat. Add ground beef to the pan and cook until browned. Stir in cumin, smoked paprika, ground coriander, ground black pepper, and salt. Mix well and cook until the spices are fragrant. Remove from heat and set aside.\nIn a small bowl, combine Greek yogurt with garlic powder, ground cumin, and smoked paprika. Stir until smooth and set aside.\nSpread a generous layer of the prepared garlic sauce over each toasted Roti Boom. Top with a spoonful of the cooked shawarma meat. Sprinkle diced cucumber and tomato evenly over the meat. Add fresh cilantro leaves on top for garnish."
     },
     "photo": {
       "filename": "IG1.jpg",
@@ -45,7 +45,7 @@ const JANUARY_IG_DATA = [
       "yield": "5-6 servings",
       "tips": "",
       "ingredients": "Vegetable oil for frying\n1 pack Simplot Formed Crumbed Onion Rings \n⅓ cup cheddar cheese sauce\n¼ cup sour cream\n1 cup bacon, cooked and crumbled\n¼ cup red onions, diced\n⅛ cup spring onions, chopped",
-      "procedure": "Procedure\nHeat vegetable oil in a deep skillet or pot to 175°C.\nFry the Simplot Onion Rings in batches for 2-3 minutes per batch, or until golden brown and crispy.\nRemove the onion rings from the oil and drain them on paper towels.\nTransfer fried onion rings into a serving dish.\nDrizzle with cheddar cheese sauce, sour cream and top with crumbled bacon, red onions and spring onions."
+      "procedure": "Heat vegetable oil in a deep skillet or pot to 175°C.\nFry the Simplot Onion Rings in batches for 2-3 minutes per batch, or until golden brown and crispy.\nRemove the onion rings from the oil and drain them on paper towels.\nTransfer fried onion rings into a serving dish.\nDrizzle with cheddar cheese sauce, sour cream and top with crumbled bacon, red onions and spring onions."
     },
     "photo": {
       "filename": "IG2.jpg",

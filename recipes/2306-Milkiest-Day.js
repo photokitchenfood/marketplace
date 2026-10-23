@@ -11,7 +11,7 @@ const MILKIEST_DAY_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Milkiest Day",
-    "caption": "Matcha milk is an undeniably delicious combination. The earthiness from the matcha paired with the creamy sweetness of milk is brought to life in this Matcha Milk Crumble Topping made with Alaska Fortified Powdered Milk.\n\nGreat as a topping for ice creams or cakes — or simply eaten on its own (it’s okay, we won’t judge!) — this crumble adds some serious character to any plain dessert. Find all the ingredients you need to whip up this treat at #TheMarketplace!\n\nServing Time: 20 minutes\nYield: 4 servings\n\nIngredients\n\n¾ cup Alaska Fortified Powdered Milk Drink\n¼ cup all-purpose flour\n2 tbsps. cornstarch\n2 tbsps. sugar\n2 tsps. matcha powder\n½ tsp. salt\n4 tbsps. melted unsalted butter\n4 scoops vanilla ice cream\n\nProcedure\n\n1. Preheat oven to 150°C and line a baking tray with parchment.\n2. Mix Alaska Fortified Powdered Milk Drink, all-purpose flour, cornstarch, sugar, matcha powder, and salt. Stir in melted butter to form crumbs. Spread on the baking tray and bake for 10 mins. or until dry.\n3. Cool completely and sprinkle over scoops of vanilla ice cream.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Matcha milk is an undeniably delicious combination. The earthiness from the matcha paired with the creamy sweetness of milk is brought to life in this Matcha Milk Crumble Topping made with Alaska Fortified Powdered Milk.\n\nGreat as a topping for ice creams or cakes — or simply eaten on its own (it’s okay, we won’t judge!) — this crumble adds some serious character to any plain dessert. Find all the ingredients you need to whip up this treat at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Alaska"
     ],
@@ -19,8 +19,8 @@ const MILKIEST_DAY_DATA = [
       "servingTime": "20 minutes",
       "yield": "4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n¾ cup Alaska Fortified Powdered Milk Drink\n¼ cup all-purpose flour\n2 tbsps. cornstarch\n2 tbsps. sugar\n2 tsps. matcha powder\n½ tsp. salt\n4 tbsps. melted unsalted butter\n4 scoops vanilla ice cream",
-      "procedure": "Procedure\nPreheat oven to 150°C and line a baking tray with parchment.\nMix Alaska Fortified Powdered Milk Drink, all-purpose flour, cornstarch, sugar, matcha powder, and salt. Stir in melted butter to form crumbs. Spread on the baking tray and bake for 10 mins. or until dry.\nCool completely and sprinkle over scoops of vanilla ice cream."
+      "ingredients": "¾ cup Alaska Fortified Powdered Milk Drink\n¼ cup all-purpose flour\n2 tbsps. cornstarch\n2 tbsps. sugar\n2 tsps. matcha powder\n½ tsp. salt\n4 tbsps. melted unsalted butter\n4 scoops vanilla ice cream",
+      "procedure": "Preheat oven to 150°C and line a baking tray with parchment.\nMix Alaska Fortified Powdered Milk Drink, all-purpose flour, cornstarch, sugar, matcha powder, and salt. Stir in melted butter to form crumbs. Spread on the baking tray and bake for 10 mins. or until dry.\nCool completely and sprinkle over scoops of vanilla ice cream."
     },
     "photo": {
       "filename": "MD1.jpg",
@@ -36,7 +36,7 @@ const MILKIEST_DAY_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Milkiest Day",
-    "caption": "If you’re looking for comfort in a bowl, head over to #TheMarketplace now and grab the ingredients you need for this Potato Leek Soup, made more special with Alaska UHT Fresh Milk.\n\nDid you know that leeks were once considered to be a superfood in ancient Rome, while the Irish and Welsh deemed the stalked vegetable to contain mystical powers? Regardless, this is one punchy and creamy soup that will definitely see repeats on the dining table.\n\nServing Time: 1 hour\nYield: 6 servings\n\nIngredients\n\n6 large potatoes, peeled and diced\n4 leeks, trimmed and sliced\n4 cups vegetable stock\n4 tbsps. unsalted butter\n2 white onions, finely chopped\n4 garlic cloves, minced\n2 tsps. fresh thyme, finely chopped\n1 cup Alaska UHT Fresh Milk\nSalt and pepper to taste\nCroutons and thinly sliced leeks to garnish\n\nProcedure\n\n1. Set a large pot over medium heat. Melt butter and sauté leeks, onions, and garlic until soft. \n2. Add vegetable stock, potatoes, thyme, salt, and pepper. Simmer on low heat until potatoes are fork-tender. Remove from heat.\n3. Blend with an immersion stick or in a blender until smooth. Return to the pot.\n4. Stir in Alaska UHT Fresh Milk. Ladle into a bowl and garnish with croutons and thinly sliced leeks.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "If you’re looking for comfort in a bowl, head over to #TheMarketplace now and grab the ingredients you need for this Potato Leek Soup, made more special with Alaska UHT Fresh Milk.\n\nDid you know that leeks were once considered to be a superfood in ancient Rome, while the Irish and Welsh deemed the stalked vegetable to contain mystical powers? Regardless, this is one punchy and creamy soup that will definitely see repeats on the dining table.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Alaska"
     ],
@@ -44,8 +44,8 @@ const MILKIEST_DAY_DATA = [
       "servingTime": "1 hour",
       "yield": "6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n6 large potatoes, peeled and diced\n4 leeks, trimmed and sliced\n4 cups vegetable stock\n4 tbsps. unsalted butter\n2 white onions, finely chopped\n4 garlic cloves, minced\n2 tsps. fresh thyme, finely chopped\n1 cup Alaska UHT Fresh Milk\nSalt and pepper to taste\nCroutons and thinly sliced leeks to garnish",
-      "procedure": "Procedure\nSet a large pot over medium heat. Melt butter and sauté leeks, onions, and garlic until soft. \nAdd vegetable stock, potatoes, thyme, salt, and pepper. Simmer on low heat until potatoes are fork-tender. Remove from heat.\nBlend with an immersion stick or in a blender until smooth. Return to the pot.\nStir in Alaska UHT Fresh Milk. Ladle into a bowl and garnish with croutons and thinly sliced leeks."
+      "ingredients": "6 large potatoes, peeled and diced\n4 leeks, trimmed and sliced\n4 cups vegetable stock\n4 tbsps. unsalted butter\n2 white onions, finely chopped\n4 garlic cloves, minced\n2 tsps. fresh thyme, finely chopped\n1 cup Alaska UHT Fresh Milk\nSalt and pepper to taste\nCroutons and thinly sliced leeks to garnish",
+      "procedure": "Set a large pot over medium heat. Melt butter and sauté leeks, onions, and garlic until soft. \nAdd vegetable stock, potatoes, thyme, salt, and pepper. Simmer on low heat until potatoes are fork-tender. Remove from heat.\nBlend with an immersion stick or in a blender until smooth. Return to the pot.\nStir in Alaska UHT Fresh Milk. Ladle into a bowl and garnish with croutons and thinly sliced leeks."
     },
     "photo": {
       "filename": "MD2.jpg",
@@ -61,7 +61,7 @@ const MILKIEST_DAY_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Milkiest Day",
-    "caption": "Got some leftover croissant hanging out at home? Try your hand at making this Savory Croissant Casserole made rich with Nestlé Fresh Milk.\n\nA great way to make use of leftovers, this casserole features eggs, spinach, mushrooms, and a generous amount of cheese and cream. Time to head to #TheMarketplace, get the ingredients you need, and start cooking!\n\nServing Time: 1 hour and 15 minutes\nYield: 6 servings\n\nIngredients\n\n4 croissants, sliced lengthwise\n4 ham slices\n2 tbsps. unsalted butter\n1 cup mushrooms, sliced\n1 cup spinach\n8 large eggs\n3 cups Nestlé Fresh Milk\n1 cup heavy cream\n1 cup Gruyère cheese, grated\n1 tbsp. dijon mustard\nSalt and pepper\n\nProcedure\n\n1. Preheat oven to 180°C.\n2. Whisk eggs, Nestlé Fresh Milk, heavy cream, dijon mustard, Gruyère cheese, salt and pepper. Set aside.\n3. Set a pan over medium-low heat and sauté mushrooms in butter until tender. Add spinach and cook until wilted. Season with salt and pepper.\n4. Arrange croissant bottoms in a greased baking dish. Top each slice with ham, sautéed mushrooms, and spinach. Pour the cheese custard and place the croissant tops.\n5. Bake for 45-60 mins. or until golden brown and set. Top with extra cheese and cool before serving.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Got some leftover croissant hanging out at home? Try your hand at making this Savory Croissant Casserole made rich with Nestlé Fresh Milk.\n\nA great way to make use of leftovers, this casserole features eggs, spinach, mushrooms, and a generous amount of cheese and cream. Time to head to #TheMarketplace, get the ingredients you need, and start cooking!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Nestlé"
     ],
@@ -69,8 +69,8 @@ const MILKIEST_DAY_DATA = [
       "servingTime": "1 hour 15 minutes",
       "yield": "6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n4 croissants, sliced lengthwise\n4 ham slices\n2 tbsps. unsalted butter\n1 cup mushrooms, sliced\n1 cup spinach\n8 large eggs\n3 cups Nestlé Fresh Milk\n1 cup heavy cream\n1 cup Gruyère cheese, grated\n1 tbsp. dijon mustard\nSalt and pepper",
-      "procedure": "Procedure\nPreheat oven to 180°C.\nWhisk eggs, Nestlé Fresh Milk, heavy cream, dijon mustard, Gruyère cheese, salt and pepper. Set aside.\nSet a pan over medium-low heat and sauté mushrooms in butter until tender. Add spinach and cook until wilted. Season with salt and pepper.\nArrange croissant bottoms in a greased baking dish. Top each slice with ham, sautéed mushrooms, and spinach. Pour the cheese custard and place the croissant tops.\nBake for 45-60 mins. or until golden brown and set. Top with extra cheese and cool before serving."
+      "ingredients": "4 croissants, sliced lengthwise\n4 ham slices\n2 tbsps. unsalted butter\n1 cup mushrooms, sliced\n1 cup spinach\n8 large eggs\n3 cups Nestlé Fresh Milk\n1 cup heavy cream\n1 cup Gruyère cheese, grated\n1 tbsp. dijon mustard\nSalt and pepper",
+      "procedure": "Preheat oven to 180°C.\nWhisk eggs, Nestlé Fresh Milk, heavy cream, dijon mustard, Gruyère cheese, salt and pepper. Set aside.\nSet a pan over medium-low heat and sauté mushrooms in butter until tender. Add spinach and cook until wilted. Season with salt and pepper.\nArrange croissant bottoms in a greased baking dish. Top each slice with ham, sautéed mushrooms, and spinach. Pour the cheese custard and place the croissant tops.\nBake for 45-60 mins. or until golden brown and set. Top with extra cheese and cool before serving."
     },
     "photo": {
       "filename": "MD3.jpg",
@@ -86,7 +86,7 @@ const MILKIEST_DAY_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Milkiest Day",
-    "caption": "Craving a quiche but want to cut down on its fat content?\n\nWell, cheese is a must, so we’re keeping that. But instead of using heavy cream or full-cream milk, grab a box of Avonmore Low-Fat Milk at #TheMarketplace and feel better about devouring the indulgent pastry. Made with the milk from Irish grass-fed cows, you can be assured of its tastiness and quality, too!\n\nServing Time: 1 hour and 15 minutes\nYield: 8 servings\n\nIngredients\n\n2 puff pastry sheets\n400g fresh asparagus\n3 tbsps. water\n4 large eggs\n1 egg white, beaten\n1 ½ cups Avonmore Low-Fat Milk\n2 cups Swiss cheese, shredded\n¼ tsp. ground nutmeg\nSalt and pepper\nDried beans or uncooked rice for baking\n\nProcedure\n\n1. Preheat oven to 200°C.\n2. Line a 9-inch quiche pan with puff pastry, then cover with parchment and fill with dried beans. Bake for 10 mins., remove the parchment and beans, then bake for another 10 mins.\n3. Cook asparagus in a pan with water until crisp yet tender. Drain and cool, then place into the par-baked crust. Layer cheese on top.\n4. Whisk eggs, Avonmore Low-Fat Milk, nutmeg, salt, and pepper. Pour over the cheese, and brush the crust with the egg white. Bake for 35-45 mins. or until set. Cool completely before serving.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Craving a quiche but want to cut down on its fat content?\n\nWell, cheese is a must, so we’re keeping that. But instead of using heavy cream or full-cream milk, grab a box of Avonmore Low-Fat Milk at #TheMarketplace and feel better about devouring the indulgent pastry. Made with the milk from Irish grass-fed cows, you can be assured of its tastiness and quality, too!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Avonmore"
     ],
@@ -94,8 +94,8 @@ const MILKIEST_DAY_DATA = [
       "servingTime": "1 hour 15 minutes",
       "yield": "8 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 puff pastry sheets\n400g fresh asparagus\n3 tbsps. water\n4 large eggs\n1 egg white, beaten\n1 ½ cups Avonmore Low-Fat Milk\n2 cups Swiss cheese, shredded\n¼ tsp. ground nutmeg\nSalt and pepper\nDried beans or uncooked rice for baking",
-      "procedure": "Procedure\nPreheat oven to 200°C.\nLine a 9-inch quiche pan with puff pastry, then cover with parchment and fill with dried beans. Bake for 10 mins., remove the parchment and beans, then bake for another 10 mins.\nCook asparagus in a pan with water until crisp yet tender. Drain and cool, then place into the par-baked crust. Layer cheese on top.\nWhisk eggs, Avonmore Low-Fat Milk, nutmeg, salt, and pepper. Pour over the cheese, and brush the crust with the egg white. Bake for 35-45 mins. or until set. Cool completely before serving."
+      "ingredients": "2 puff pastry sheets\n400g fresh asparagus\n3 tbsps. water\n4 large eggs\n1 egg white, beaten\n1 ½ cups Avonmore Low-Fat Milk\n2 cups Swiss cheese, shredded\n¼ tsp. ground nutmeg\nSalt and pepper\nDried beans or uncooked rice for baking",
+      "procedure": "Preheat oven to 200°C.\nLine a 9-inch quiche pan with puff pastry, then cover with parchment and fill with dried beans. Bake for 10 mins., remove the parchment and beans, then bake for another 10 mins.\nCook asparagus in a pan with water until crisp yet tender. Drain and cool, then place into the par-baked crust. Layer cheese on top.\nWhisk eggs, Avonmore Low-Fat Milk, nutmeg, salt, and pepper. Pour over the cheese, and brush the crust with the egg white. Bake for 35-45 mins. or until set. Cool completely before serving."
     },
     "photo": {
       "filename": "MD4.jpg",

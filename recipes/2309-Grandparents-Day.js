@@ -11,7 +11,7 @@ const GRANDPARENTS_DAY_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Grandparents Day",
-    "caption": "Combine your favorite dessert with coffee with this Tiramisu Latte made with Meadows Original Ipoh Style 3-in-1 White Coffee.\n\nWe used Meadows Ipoh White Coffee for this recipe because we found the flavor to be strong enough to complement the cocoa powder and the biscuit flavor from the lady fingers. Mimic a tiramisu by topping the drink with some mascarpone cheese foam and a lady finger for flair. Head over to #TheMarketplace and get all the ingredients that you need for this dessert coffee drink!\n\nServing Time: 10 minutes\nYield: 2 servings\n\nIngredients\n\n3 packets Meadows Original Ipoh Style 3 in 1 White Coffee\n1/4 cup heavy cream\n2 tbsps. powdered sugar\n1/4 cup mascarpone cheese\n1 cup lady fingers\n1 tbsp. cocoa powder\n\nProcedure\n\n1. Make the Meadows Original Ipoh Style 3 in 1 White Coffee according to package directions.\n2. In a separate bowl, combine the heavy cream, powdered sugar, and mascarpone cheese. Beat until stiff peaks form.\n3. To assemble the latte, pour the coffee into a glass. Top with cheese foam and lady fingers. Dust with cocoa powder.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Combine your favorite dessert with coffee with this Tiramisu Latte made with Meadows Original Ipoh Style 3-in-1 White Coffee.\n\nWe used Meadows Ipoh White Coffee for this recipe because we found the flavor to be strong enough to complement the cocoa powder and the biscuit flavor from the lady fingers. Mimic a tiramisu by topping the drink with some mascarpone cheese foam and a lady finger for flair. Head over to #TheMarketplace and get all the ingredients that you need for this dessert coffee drink!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Meadows"
     ],
@@ -19,8 +19,8 @@ const GRANDPARENTS_DAY_DATA = [
       "servingTime": "10 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n3 packets Meadows Original Ipoh Style 3 in 1 White Coffee\n1/4 cup heavy cream\n2 tbsps. powdered sugar\n1/4 cup mascarpone cheese\n1 cup lady fingers\n1 tbsp. cocoa powder",
-      "procedure": "Procedure\nMake the Meadows Original Ipoh Style 3 in 1 White Coffee according to package directions.\nIn a separate bowl, combine the heavy cream, powdered sugar, and mascarpone cheese. Beat until stiff peaks form.\nTo assemble the latte, pour the coffee into a glass. Top with cheese foam and lady fingers. Dust with cocoa powder."
+      "ingredients": "3 packets Meadows Original Ipoh Style 3 in 1 White Coffee\n1/4 cup heavy cream\n2 tbsps. powdered sugar\n1/4 cup mascarpone cheese\n1 cup lady fingers\n1 tbsp. cocoa powder",
+      "procedure": "Make the Meadows Original Ipoh Style 3 in 1 White Coffee according to package directions.\nIn a separate bowl, combine the heavy cream, powdered sugar, and mascarpone cheese. Beat until stiff peaks form.\nTo assemble the latte, pour the coffee into a glass. Top with cheese foam and lady fingers. Dust with cocoa powder."
     },
     "photo": {
       "filename": "GD1.jpg",

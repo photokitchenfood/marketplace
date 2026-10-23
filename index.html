@@ -694,9 +694,26 @@ async function readShootFile(entry){
   const dropboxUrl = data.dropboxUrl || null;
   // _uid is the stable unique key for an item across the whole catalog (shoot id + position
   // in its own file). Every click resolves through it, never through a position in a filtered list.
-  data.forEach((it, i) => { if(Array.isArray(it.brand)) it.brand = canonBrandList(it.brand); it._year = entry.year; it._month = entry.month; it._dropboxUrl = dropboxUrl; it._shootId = entry.id; it._uid = entry.id + "#" + i; });
+  data.forEach((it, i) => { if(Array.isArray(it.brand)) it.brand = canonBrandList(it.brand); normalizeRecipeSections(it); it._year = entry.year; it._month = entry.month; it._dropboxUrl = dropboxUrl; it._shootId = entry.id; it._uid = entry.id + "#" + i; });
   shootDataCache[entry.id] = data;
   return data;
+}
+
+// Heading rows ("Ingredients", "Procedure", ...) are labels, never list items: drop any that lead the
+// Recipe lists so step 1 is the first real step. (The caption/recipe de-duplication lives in
+// scripts/recipe_clean.py and is applied to the data files at extraction time.)
+const RECIPE_HEAD_INGREDIENTS = /^\s*ingredients?\s*:?\s*$/i;
+const RECIPE_HEAD_PROCEDURE = /^\s*(procedures?|directions?|method|instructions?|preparation)\s*:?\s*$/i;
+function stripLeadingHeading(text, re){
+  const lines = String(text || "").split("\n");
+  while(lines.length && (!lines[0].trim() || re.test(lines[0]))) lines.shift();
+  return lines.join("\n");
+}
+function normalizeRecipeSections(item){
+  const r = item.recipe;
+  if(!r) return;
+  if(typeof r.ingredients === "string") r.ingredients = stripLeadingHeading(r.ingredients, RECIPE_HEAD_INGREDIENTS);
+  if(typeof r.procedure === "string") r.procedure = stripLeadingHeading(r.procedure, RECIPE_HEAD_PROCEDURE);
 }
 
 const MONTH_NAMES = ["January","February","March","April","May","June","July","August","September","October","November","December"];
@@ -1487,7 +1504,8 @@ function openModal(item){
   const ingredientsEl = document.getElementById("modalIngredients");
   const procedureEl = document.getElementById("modalProcedure");
   const tipsEl = document.getElementById("modalTips");
-  if(item.recipe){
+  const r0 = item.recipe;
+  if(r0 && (r0.servingTime || r0.yield || r0.ingredients || r0.procedure || r0.tips)){
     recipeSection.style.display = "block";
     metaEl.innerHTML = `<div class="recipeMeta">
         ${item.recipe.servingTime ? `<span><b>Time</b>${escapeHTML(item.recipe.servingTime)}</span>` : ""}

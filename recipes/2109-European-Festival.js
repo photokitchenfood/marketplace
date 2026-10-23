@@ -11,7 +11,7 @@ const EUROPEAN_FESTIVAL_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "European Festival",
-    "caption": "Turn your typical weekend lunch into a Mediterranean feast with these Roasted Eggplants with Feta, made with Emborg Greek Style Cheese. Toss with other veggies such as tomatoes, olives, and onions, and you’ve got yourself a refreshing vegetarian dish that will make you feel like you’re in Santorini. Enjoy! Find Emborg products, along with other premium and imported dairy items, only at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 2 servings\n\nIngredients\n\n500g eggplant, sliced\n2 tbsps. olive oil\nSalt and pepper to taste \n½ cup Emborg Greek Style Cheese\n½ cup tomato, diced\n⅛ cup black olives\n⅛ cup onions, sliced\n⅛ cup cilantro leaves\n2 tbsps. extra virgin olive oil\n\nProcedure\n\n1. Preheat oven to 350°F. \n2. Place eggplant on a lined baking tray. Drizzle with olive oil and season with salt and pepper.\n3. Roast for 15-20 minutes or until eggplant is tender.\n4. Top roasted eggplant with Emborg Greek Style Cheese, tomatoes, black olives, onions and cilantro.\n5. Drizzle with extra virgin olive oil before serving.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Turn your typical weekend lunch into a Mediterranean feast with these Roasted Eggplants with Feta, made with Emborg Greek Style Cheese. Toss with other veggies such as tomatoes, olives, and onions, and you’ve got yourself a refreshing vegetarian dish that will make you feel like you’re in Santorini. Enjoy! Find Emborg products, along with other premium and imported dairy items, only at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Emborg"
     ],
@@ -19,8 +19,8 @@ const EUROPEAN_FESTIVAL_DATA = [
       "servingTime": "30 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n500g eggplant, sliced\n2 tbsps. olive oil\nSalt and pepper to taste \n½ cup Emborg Greek Style Cheese\n½ cup tomato, diced\n⅛ cup black olives\n⅛ cup onions, sliced\n⅛ cup cilantro leaves\n2 tbsps. extra virgin olive oil",
-      "procedure": "Procedure\nPreheat oven to 350°F. \nPlace eggplant on a lined baking tray. Drizzle with olive oil and season with salt and pepper.\nRoast for 15-20 minutes or until eggplant is tender.\nTop roasted eggplant with Emborg Greek Style Cheese, tomatoes, black olives, onions and cilantro.\nDrizzle with extra virgin olive oil before serving."
+      "ingredients": "500g eggplant, sliced\n2 tbsps. olive oil\nSalt and pepper to taste \n½ cup Emborg Greek Style Cheese\n½ cup tomato, diced\n⅛ cup black olives\n⅛ cup onions, sliced\n⅛ cup cilantro leaves\n2 tbsps. extra virgin olive oil",
+      "procedure": "Preheat oven to 350°F. \nPlace eggplant on a lined baking tray. Drizzle with olive oil and season with salt and pepper.\nRoast for 15-20 minutes or until eggplant is tender.\nTop roasted eggplant with Emborg Greek Style Cheese, tomatoes, black olives, onions and cilantro.\nDrizzle with extra virgin olive oil before serving."
     },
     "photo": {
       "filename": "EU1.jpg",
@@ -55,7 +55,7 @@ const EUROPEAN_FESTIVAL_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "European Festival",
-    "caption": "These days, we can all use some comfort food, and this recipe for Tomato-Baked Ricotta Chicken is sure to hit the spot. Using a bottle of Filippo Berio’s Tomato & Ricotta Pesto, this one-pan dish packs a lot of rich flavors. Serve it with your favorite pasta or with some sourdough bread! Get all the ingredients you need for this dish and more from #TheMarketplace!\n\nServing Time: 18-20 minutes\nYield: 3 servings\nIngredients\n\n3 chicken breast fillets \nSalt & pepper to taste \n1 tsp. paprika \n3 tbsps. olive oil \n1 bottle Filippo Berio Tomato & Ricotta Pesto \n1 cup cherry tomatoes, halved \n¼ cup basil sprigs \n\nProcedure\n\n1. Preheat oven to 175°C. Season chicken breast with salt, pepper and paprika. \n2. Set a pan over medium high heat, then add in olive oil. Sear chicken on both sides until nicely browned. Set aside. \n3. Spread Filippo Berio Tomato & Ricotta Pesto onto a baking dish. Add seared chicken, then top with mozzarella and cherry tomatoes. \n4. Roast for 10-12 minutes. \n5. Garnish with basil. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "These days, we can all use some comfort food, and this recipe for Tomato-Baked Ricotta Chicken is sure to hit the spot. Using a bottle of Filippo Berio’s Tomato & Ricotta Pesto, this one-pan dish packs a lot of rich flavors. Serve it with your favorite pasta or with some sourdough bread! Get all the ingredients you need for this dish and more from #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Filippo Berio"
     ],
@@ -63,8 +63,8 @@ const EUROPEAN_FESTIVAL_DATA = [
       "servingTime": "18-20 minutes",
       "yield": "3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n3 chicken breast fillets \nSalt & pepper to taste \n1 tsp. paprika \n3 tbsps. olive oil \n1 bottle Filippo Berio Tomato & Ricotta Pesto \n 1 cup cherry tomatoes, halved \n¼ cup basil sprigs",
-      "procedure": "Procedure\nPreheat oven to 175°C. Season chicken breast with salt, pepper and paprika. \nSet a pan over medium high heat, then add in olive oil. Sear chicken on both sides until nicely browned. Set aside. \nSpread Filippo Berio Tomato & Ricotta Pesto onto a baking dish. Add seared chicken, then top with mozzarella and cherry tomatoes. \nRoast for 10-12 minutes. \nGarnish with basil."
+      "ingredients": "3 chicken breast fillets \nSalt & pepper to taste \n1 tsp. paprika \n3 tbsps. olive oil \n1 bottle Filippo Berio Tomato & Ricotta Pesto \n 1 cup cherry tomatoes, halved \n¼ cup basil sprigs",
+      "procedure": "Preheat oven to 175°C. Season chicken breast with salt, pepper and paprika. \nSet a pan over medium high heat, then add in olive oil. Sear chicken on both sides until nicely browned. Set aside. \nSpread Filippo Berio Tomato & Ricotta Pesto onto a baking dish. Add seared chicken, then top with mozzarella and cherry tomatoes. \nRoast for 10-12 minutes. \nGarnish with basil."
     },
     "photo": {
       "filename": "EU3.jpg",
@@ -80,7 +80,7 @@ const EUROPEAN_FESTIVAL_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "European Festival",
-    "caption": "There’s really nothing like a good-ole Sloppy Joe, and this shortcut way of making it at home uses a can of Molinera Chili con Carne with Beans. Seriously, that’s it! Slap on a slice of cheddar and red onions, and sandwich in between two burger buns, and it’s ready! Hungry already? Grab all the items you need (and maybe a crisp bottle of beer and some tangy pickles) at #TheMarketplace!\n\nServing Time: 10 minutes\nYield: 2 servings\n\nIngredients\n\n1 can Molinera Chili con Carne with Beans \n2 burger buns \n2 slices cheddar cheese \n½ red onion, sliced \n\nProcedure\n\n1. Heat up Molinera Chili con Carne with Beans according to package directions. \n2. Toast burger buns. \n3.  assemble, slice burger buns, then fill with chili con carne. Top with cheese and onion slices. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "There’s really nothing like a good-ole Sloppy Joe, and this shortcut way of making it at home uses a can of Molinera Chili con Carne with Beans. Seriously, that’s it! Slap on a slice of cheddar and red onions, and sandwich in between two burger buns, and it’s ready! Hungry already? Grab all the items you need (and maybe a crisp bottle of beer and some tangy pickles) at #TheMarketplace!\n\n3.  assemble, slice burger buns, then fill with chili con carne. Top with cheese and onion slices. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Molinera"
     ],
@@ -88,8 +88,8 @@ const EUROPEAN_FESTIVAL_DATA = [
       "servingTime": "10 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 can Molinera Chili con Carne with Beans \n2 burger buns \n2 slices cheddar cheese \n½ red onion, sliced",
-      "procedure": "Procedure\nHeat up Molinera Chili con Carne with Beans according to package directions. \nToast burger buns. \nTo assemble, slice burger buns, then fill with chili con carne. Top with cheese and onion slices."
+      "ingredients": "1 can Molinera Chili con Carne with Beans \n2 burger buns \n2 slices cheddar cheese \n½ red onion, sliced",
+      "procedure": "Heat up Molinera Chili con Carne with Beans according to package directions. \nToast burger buns. \nTo assemble, slice burger buns, then fill with chili con carne. Top with cheese and onion slices."
     },
     "photo": {
       "filename": "EU4.jpg",
@@ -105,7 +105,7 @@ const EUROPEAN_FESTIVAL_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "European Festival",
-    "caption": "Creamy, cheese, and buttery, a hearty serving of Chicken Alfredo is always both satisfying and delicious. The best noodle to use for this pasta dish is  Barilla Fettuccine, as the structure clings on to the sauce better. Get your stash of Barilla pasta, along with other imported Italian grocery items only at #TheMarketplace!\n\nServing Time: 20 minutes\nYield: 4-6 servings\n\nIngredients\n\n1 box Barilla Fettuccine \n2 tbsps. olive oil \n3 pcs chicken breast fillet \nSalt & pepper to taste \n3 tbsps. butter\n3 cups cream \n1 chicken cube \n½ cup parmesan cheese, grated \n3 tbsps. Parsley, chopped \n\nProcedure\n\n1. Cook Barilla Fettuccine 2 minutes earlier than indicated in package instructions. Reserve 1 cup of pasta water. \n2. Set a large pan over medium high heat, then add in olive oil. Sear chicken on both sides until nicely browned and cooked through. Set aside chicken pieces. \n3. In the same pan, add butter and cream. Let simmer, then add in chicken cube and parmesan cheese. Season with salt and pepper to taste. Mix in parsley. \n4. Slice chicken into strips. Serve with Fettuccine Alfredo. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Creamy, cheese, and buttery, a hearty serving of Chicken Alfredo is always both satisfying and delicious. The best noodle to use for this pasta dish is  Barilla Fettuccine, as the structure clings on to the sauce better. Get your stash of Barilla pasta, along with other imported Italian grocery items only at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Barilla"
     ],
@@ -113,8 +113,8 @@ const EUROPEAN_FESTIVAL_DATA = [
       "servingTime": "20 minutes",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 box Barilla Fettuccine \n2 tbsps. olive oil \n3 pcs chicken breast fillet \nSalt & pepper to taste \n3 tbsps. butter\n3 cups cream \n1 chicken cube \n½ cup parmesan cheese, grated \n3 tbsps. parsley, chopped",
-      "procedure": "Procedure\nCook Barilla Fettuccine 2 minutes earlier than indicated in package instructions. Reserve 1 cup of pasta water. \nSet a large pan over medium high heat, then add in olive oil. Sear chicken on both sides until nicely browned and cooked through. Set aside chicken pieces. \nIn the same pan, add butter and cream. Let simmer, then add in chicken cube and parmesan cheese. Season with salt and pepper to taste. Mix in parsley. \nSlice chicken into strips. Serve with Fettuccine Alfredo."
+      "ingredients": "1 box Barilla Fettuccine \n2 tbsps. olive oil \n3 pcs chicken breast fillet \nSalt & pepper to taste \n3 tbsps. butter\n3 cups cream \n1 chicken cube \n½ cup parmesan cheese, grated \n3 tbsps. parsley, chopped",
+      "procedure": "Cook Barilla Fettuccine 2 minutes earlier than indicated in package instructions. Reserve 1 cup of pasta water. \nSet a large pan over medium high heat, then add in olive oil. Sear chicken on both sides until nicely browned and cooked through. Set aside chicken pieces. \nIn the same pan, add butter and cream. Let simmer, then add in chicken cube and parmesan cheese. Season with salt and pepper to taste. Mix in parsley. \nSlice chicken into strips. Serve with Fettuccine Alfredo."
     },
     "photo": {
       "filename": "EU5.jpg",

@@ -11,7 +11,7 @@ const CHEESE_FESTIVAL_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "Cheese Festival",
-    "caption": "Apples and cheese make an irresistible pairing.\n\nThe sweet, acidic apples balanced with the crumbly texture and zesty flavor of Manchego Curado are undeniably delicious, especially when placed on a baguette slathered with orange marmalade and thyme. To add more oomph, drizzle with balsamic dressing for a treat to delight the senses.\n\nHead on over to #TheMarketplace to experience our Cheese Festival, where we showcase our best cheeses and more. Find your favorites or go on an adventure and try new ones for a change. See you there!\n\nServing Time: 20 minutes\nYield: 5-6 servings\nOptional: Drizzle with balsamic dressing.\n\nIngredients\n\n1 whole baguette, sliced\n2 red apples, sliced \n1 cup orange marmalade\n100g Manchego Curado, sliced\n⅛ cup thyme sprigs\n\nProcedure\n\n1. Toast sliced baguettes until crisp and golden brown. \n2. Set a grill pan over medium high heat. Grill red apples until nicely charred. Set aside.\n3. Spread a teaspoon of orange marmalade over each crostini. Top with grilled apples and Manchego Curado. Garnish with thyme sprigs.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Apples and cheese make an irresistible pairing.\n\nThe sweet, acidic apples balanced with the crumbly texture and zesty flavor of Manchego Curado are undeniably delicious, especially when placed on a baguette slathered with orange marmalade and thyme. To add more oomph, drizzle with balsamic dressing for a treat to delight the senses.\n\nHead on over to #TheMarketplace to experience our Cheese Festival, where we showcase our best cheeses and more. Find your favorites or go on an adventure and try new ones for a change. See you there!\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "! Generic"
     ],
@@ -19,8 +19,8 @@ const CHEESE_FESTIVAL_DATA = [
       "servingTime": "20 minutes",
       "yield": "5-6 servings",
       "tips": "Drizzle with balsamic dressing.",
-      "ingredients": "Ingredients\n1 whole baguette, sliced\n2 red apples, sliced \n1 cup orange marmalade\n100g Manchego Curado, sliced\n⅛ cup thyme sprigs",
-      "procedure": "Procedure\nToast sliced baguettes until crisp and golden brown. \nSet a grill pan over medium high heat. Grill red apples until nicely charred. Set aside.\nSpread a teaspoon of orange marmalade over each crostini. Top with grilled apples and Manchego Curado. Garnish with thyme sprigs."
+      "ingredients": "1 whole baguette, sliced\n2 red apples, sliced \n1 cup orange marmalade\n100g Manchego Curado, sliced\n⅛ cup thyme sprigs",
+      "procedure": "Toast sliced baguettes until crisp and golden brown. \nSet a grill pan over medium high heat. Grill red apples until nicely charred. Set aside.\nSpread a teaspoon of orange marmalade over each crostini. Top with grilled apples and Manchego Curado. Garnish with thyme sprigs."
     },
     "photo": {
       "filename": "CF1.jpg",

@@ -11,7 +11,7 @@ const MAY_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "May IG",
-    "caption": "If you’re craving something fried but want to opt for something on the lighter side, then give this recipe for Garlic Fried Fish a go! The tried-and-tested pairing of punchy garlic and creamy butter will always be a classic. A light spritz of lemon never fails to brighten up the palate.\n\nMade with premium Candia French Salted Butter, this dish is perfect for weekend dinners or light lunches. Get all your ingredients fresh only at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 2-3 servings\n\nIngredients\n\n400g cream dory fillet\n½ cup cornstarch\n½ cup flour\n1/2 tsp. salt\n1 tsp. pepper\n1 tsp. garlic powder\nCooking oil for frying\n1 bar Candia French Salted Butter\n5 cloves garlic, minced\n2 tbsp. parsley, chopped\n1pc. lemon, sliced into wedges\nProcedure\n\n1. Pat dry cream dory fillet, and slice into strips. Set aside.\n2. Preheat cooking oil to 370°F. \n3. Combine flour, cornstarch, salt, pepper and garlic powder. Coat fish strips with flour mixture, and fry until golden brown.\n4. Melt Candia French Salted Butter over low heat and add minced garlic and parsley. Save half for dipping.\n5. Coat fried fish strips with garlic butter.\n6. Serve with extra garlic butter as a dipping sauce, along with lemon wedges.\n\nOrder your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "If you’re craving something fried but want to opt for something on the lighter side, then give this recipe for Garlic Fried Fish a go! The tried-and-tested pairing of punchy garlic and creamy butter will always be a classic. A light spritz of lemon never fails to brighten up the palate.\n\nMade with premium Candia French Salted Butter, this dish is perfect for weekend dinners or light lunches. Get all your ingredients fresh only at #TheMarketplace!\n\nOrder your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Candia"
     ],
@@ -19,8 +19,8 @@ const MAY_IG_DATA = [
       "servingTime": "30 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n400g cream dory fillet\n½ cup cornstarch\n½ cup flour\n1/2 tsp. salt\n1 tsp. pepper\n1 tsp. garlic powder\nCooking oil for frying\n1 bar Candia French Salted Butter\n5 cloves garlic, minced\n2 tbsp. parsley, chopped\n1pc. lemon, sliced into wedges",
-      "procedure": "Procedure\nPat dry cream dory fillet, and slice into strips. Set aside.\nPreheat cooking oil to 370°F. \nCombine flour, cornstarch, salt, pepper and garlic powder. Coat fish strips with flour mixture, and fry until golden brown.\nMelt Candia French Salted Butter over low heat and add minced garlic and parsley. Save half for dipping.\nCoat fried fish strips with garlic butter.\nServe with extra garlic butter as a dipping sauce, along with lemon wedges."
+      "ingredients": "400g cream dory fillet\n½ cup cornstarch\n½ cup flour\n1/2 tsp. salt\n1 tsp. pepper\n1 tsp. garlic powder\nCooking oil for frying\n1 bar Candia French Salted Butter\n5 cloves garlic, minced\n2 tbsp. parsley, chopped\n1pc. lemon, sliced into wedges",
+      "procedure": "Pat dry cream dory fillet, and slice into strips. Set aside.\nPreheat cooking oil to 370°F. \nCombine flour, cornstarch, salt, pepper and garlic powder. Coat fish strips with flour mixture, and fry until golden brown.\nMelt Candia French Salted Butter over low heat and add minced garlic and parsley. Save half for dipping.\nCoat fried fish strips with garlic butter.\nServe with extra garlic butter as a dipping sauce, along with lemon wedges."
     },
     "photo": {
       "filename": "IG1.jpg",
@@ -36,7 +36,7 @@ const MAY_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "May IG",
-    "caption": "Let’s talk comfort food.\n\nSoulful, delightful, and warms the heart in an instant—soups are always the way to go if you’re in the mood for a bowl of comfort. \n\nThis recipe for a Classic Mushroom Soup ticks all the boxes with its creamy texture, familiar earthy flavors, and a nice peppery kick. Get all the ingredients you need at #TheMarketplace!\n\nServing Time: 20 minutes\nYield: 2 servings\n\nIngredients\n\n3 tbsps. butter\n1 cup Narcissus whole mushrooms \n½ cup chicken stock \n¼ cup cooking cream \nSalt & pepper to taste\n4 sprigs thyme \n\nProcedure\n\n1. Sear Narcissus whole mushrooms in butter until lightly browned. Transfer to a blender.\n2. Add in chicken stock and cooking cream. Blend until smooth.\n3. Season with salt and pepper. \n4. Garnish with thyme. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Let’s talk comfort food.\n\nSoulful, delightful, and warms the heart in an instant—soups are always the way to go if you’re in the mood for a bowl of comfort. \n\nThis recipe for a Classic Mushroom Soup ticks all the boxes with its creamy texture, familiar earthy flavors, and a nice peppery kick. Get all the ingredients you need at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Narcissus"
     ],
@@ -44,8 +44,8 @@ const MAY_IG_DATA = [
       "servingTime": "20 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n3 tbsps. butter\n1 cup Narcissus whole mushrooms \n½ cup chicken stock \n¼ cup cooking cream \nSalt & pepper to taste\n4 sprigs thyme",
-      "procedure": "Procedure\nSear Narcissus whole mushrooms in butter until lightly browned. Transfer to a blender. \nAdd in chicken stock and cooking cream. Blend until smooth. \nSeason with salt and pepper. \nGarnish with thyme."
+      "ingredients": "3 tbsps. butter\n1 cup Narcissus whole mushrooms \n½ cup chicken stock \n¼ cup cooking cream \nSalt & pepper to taste\n4 sprigs thyme",
+      "procedure": "Sear Narcissus whole mushrooms in butter until lightly browned. Transfer to a blender. \nAdd in chicken stock and cooking cream. Blend until smooth. \nSeason with salt and pepper. \nGarnish with thyme."
     },
     "photo": {
       "filename": "IG2.jpg",
@@ -61,7 +61,7 @@ const MAY_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "May IG",
-    "caption": "Remember Nacho King? Those kiosks in every mall we went to were a haven for crunchy nacho chips laden with piping-hot melted cheese!\n\nNow, you can make your own Cheesy Nacho Bake at home with Nacho King’s Classic Tortilla Chips. Perfect for movie night or for your next Netflix binge. Get them at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 3-4 servings\n\nIngredients\n\n2 tbsps. cooking oil\n½ kg. ground beef\n½ tsp. salt\n½ tsp. pepper\n40g taco seasoning\n½ cup water\n½ cup corn kernels\n½ cup jalapeños, sliced\n1 cup mozzarella\n½ cup cilantro leaves\n300g Nacho King Classic Tortilla Chips\n\nProcedure\n\n1. Preheat oven to 200°C.\n2. Heat a pan over medium heat. Add oil and ground beef.\n3. Once beef is browned, add taco seasoning and ½ cup of water. Cook until seasoning is well absorbed.\n4. Transfer cooked ground beef to a baking dish, and add corn kernels and jalapeños. Top with mozzarella cheese.\n5. Bake for 15 minutes.\n6. Garnish with cilantro, and serve with Nacho King Classic Tortilla Chips.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Remember Nacho King? Those kiosks in every mall we went to were a haven for crunchy nacho chips laden with piping-hot melted cheese!\n\nNow, you can make your own Cheesy Nacho Bake at home with Nacho King’s Classic Tortilla Chips. Perfect for movie night or for your next Netflix binge. Get them at #TheMarketplace!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Nacho King"
     ],
@@ -69,8 +69,8 @@ const MAY_IG_DATA = [
       "servingTime": "30 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. cooking oil\n½ kg. ground beef\n½ tsp. salt\n½ tsp. pepper\n40g taco seasoning\n½ cup water\n½ cup corn kernels\n½ cup jalapeños, sliced\n1 cup mozzarella\n½ cup cilantro leaves\n300g Nacho King Classic Tortilla Chips",
-      "procedure": "Procedure\nPreheat oven to 200°C. \nHeat a pan over medium heat. Add oil and ground beef.  \nOnce beef is browned, add taco seasoning and ½ cup of water. Cook until seasoning is well absorbed.\nTransfer cooked ground beef to a baking dish, and add corn kernels and jalapeños. Top with mozzarella cheese. \nBake for 15 minutes.\nGarnish with cilantro, and serve with Nacho King Classic Tortilla Chips."
+      "ingredients": "2 tbsps. cooking oil\n½ kg. ground beef\n½ tsp. salt\n½ tsp. pepper\n40g taco seasoning\n½ cup water\n½ cup corn kernels\n½ cup jalapeños, sliced\n1 cup mozzarella\n½ cup cilantro leaves\n300g Nacho King Classic Tortilla Chips",
+      "procedure": "Preheat oven to 200°C. \nHeat a pan over medium heat. Add oil and ground beef.  \nOnce beef is browned, add taco seasoning and ½ cup of water. Cook until seasoning is well absorbed.\nTransfer cooked ground beef to a baking dish, and add corn kernels and jalapeños. Top with mozzarella cheese. \nBake for 15 minutes.\nGarnish with cilantro, and serve with Nacho King Classic Tortilla Chips."
     },
     "photo": {
       "filename": "IG3.jpg",
@@ -124,7 +124,7 @@ const MAY_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "May IG",
-    "caption": "A breakfast staple that never runs out of style, this French Toast gets a crunchy makeover with cornflakes and caramelized bananas. Made with cloud-like slices of Monde Fluffy Bread, this Crunchy French Toast is so decadent and comforting, especially with a cup of milky coffee. \n\nHave it for breakfast this weekend! All the ingredients you need can be found at #TheMarketplace.\n\nServing Time: 20 minutes\nYield: 1 servings\nTip: Sprinkle sugar over halved bananas, and caramelize using a blow torch.\n\nIngredients\n\n2 eggs\n½ cup milk\n1 tbsp. sugar\n½ tsp. vanilla extract\n4 slices Monde Fluffy Bread\n1 cup cornflakes, crushed\n2 tbsps. butter\n2-3 pcs. bananas, halved\n¼ cup maple syrup\nMint leaves for garnish\n\nProcedure\n\n1. In a bowl, mix eggs, milk, sugar and vanilla extract.\n2. Lightly soak each slice of Monde Fluffy Bread in the egg mixture, then coat with crushed cornflakes.\n3. Over medium heat, pan fry each bread in butter until golden brown on both sides. \n4. Garnish with mint leaves and serve with bananas and maple syrup.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "A breakfast staple that never runs out of style, this French Toast gets a crunchy makeover with cornflakes and caramelized bananas. Made with cloud-like slices of Monde Fluffy Bread, this Crunchy French Toast is so decadent and comforting, especially with a cup of milky coffee. \n\nHave it for breakfast this weekend! All the ingredients you need can be found at #TheMarketplace.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Monde"
     ],
@@ -132,8 +132,8 @@ const MAY_IG_DATA = [
       "servingTime": "20 minutes",
       "yield": "1 serving",
       "tips": "Sprinkle sugar over halved bananas, and caramelize using a blow torch.",
-      "ingredients": "Ingredients\n2 eggs\n½ cup milk\n1 tbsp. sugar\n½ tsp. vanilla extract\n4 slices Monde Fluffy Bread\n1 cup cornflakes, crushed\n2 tbsps. butter\n2-3 pcs. bananas, halved\n¼ cup maple syrup\nMint leaves for garnish",
-      "procedure": "Procedure\nIn a bowl, mix eggs, milk, sugar and vanilla extract.\nLightly soak each slice of Monde Fluffy Bread in the egg mixture, then coat with crushed cornflakes.\nOver medium heat, pan fry each bread in butter until golden brown on both sides. \nGarnish with mint leaves and serve with bananas and maple syrup."
+      "ingredients": "2 eggs\n½ cup milk\n1 tbsp. sugar\n½ tsp. vanilla extract\n4 slices Monde Fluffy Bread\n1 cup cornflakes, crushed\n2 tbsps. butter\n2-3 pcs. bananas, halved\n¼ cup maple syrup\nMint leaves for garnish",
+      "procedure": "In a bowl, mix eggs, milk, sugar and vanilla extract.\nLightly soak each slice of Monde Fluffy Bread in the egg mixture, then coat with crushed cornflakes.\nOver medium heat, pan fry each bread in butter until golden brown on both sides. \nGarnish with mint leaves and serve with bananas and maple syrup."
     },
     "photo": {
       "filename": "IG6.jpg",
@@ -149,7 +149,7 @@ const MAY_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "May IG",
-    "caption": "It’s undeniable that Nachos and Mac & Cheese are a match made in heaven. Two cheesy comfort foods with contrasting yet complementary textures (crunchy and soft) come together in this delicious baked meal. Smothered with melted cheddar cheese, you won’t be able to get enough of it.\n\nGet all the ingredients you need at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 3-4 servings\n\nIngredients\n\n500g elbow macaroni\n2 tbsps. butter\n2 cups milk\n1 ½ cup cheddar cheese, grated\nSalt and pepper to taste\n1 cup Nacho King Classic Tortilla Chips, crushed\n½ parmesan cheese\n2 tbsps. parsley, chopped\n\nProcedure\n\n1. Cook elbow macaroni according to package instructions.\n2. In a separate pot, make a roux by combining butter and flour over medium heat. Slowly add milk, and mix well. Add cheddar cheese and mix until smooth. Season with salt and pepper.\n3. Mix in cooked macaroni and add pasta water as needed.\n4. Top with Nacho King Classic Tortilla Chips, and garnish with parmesan cheese and parsley.\n\nYou can also order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "It’s undeniable that Nachos and Mac & Cheese are a match made in heaven. Two cheesy comfort foods with contrasting yet complementary textures (crunchy and soft) come together in this delicious baked meal. Smothered with melted cheddar cheese, you won’t be able to get enough of it.\n\nGet all the ingredients you need at #TheMarketplace!\n\nYou can also order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Nacho King"
     ],
@@ -157,8 +157,8 @@ const MAY_IG_DATA = [
       "servingTime": "30 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n500g elbow macaroni\n2 tbsps. butter\n2 cups milk\n1 1/2 cup cheddar cheese, grated\nSalt and pepper to taste\n1 cup Nacho King Classic Tortilla Chips, crushed\n½ parmesan cheese\n2 tbsps. parsley, chopped",
-      "procedure": "Procedure\nCook elbow macaroni according to package instructions.\nIn a separate pot, make a roux by combining butter and flour over medium heat. Slowly add milk, and mix well. Add cheddar cheese and mix until smooth. Season with salt and pepper.\nMix in cooked macaroni and add pasta water as needed.\nTop with Nacho King Classic Tortilla Chips, and garnish with parmesan cheese and parsley."
+      "ingredients": "500g elbow macaroni\n2 tbsps. butter\n2 cups milk\n1 1/2 cup cheddar cheese, grated\nSalt and pepper to taste\n1 cup Nacho King Classic Tortilla Chips, crushed\n½ parmesan cheese\n2 tbsps. parsley, chopped",
+      "procedure": "Cook elbow macaroni according to package instructions.\nIn a separate pot, make a roux by combining butter and flour over medium heat. Slowly add milk, and mix well. Add cheddar cheese and mix until smooth. Season with salt and pepper.\nMix in cooked macaroni and add pasta water as needed.\nTop with Nacho King Classic Tortilla Chips, and garnish with parmesan cheese and parsley."
     },
     "photo": {
       "filename": "FB1.jpg",
@@ -174,7 +174,7 @@ const MAY_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "May IG",
-    "caption": "We often have crème brûlée as a topping or sinker for our milk tea, but have you ever wondered what a Milk Tea Crème Brûlée would taste like?\n\nSatisfy that curiosity by whipping up this Milk Tea Crème Brûlée made with C2 Caramel Milk Tea. This sophisticated dessert comes packed with familiar flavours that will surely impress and curb any caramel cravings in one go. Get all the ingredients you need at #TheMarketplace!\n\nServing Time: 5 hours\nYield: 4 servings\n\nIngredients\n\n¾ cup C2 Caramel Milk Tea\n½ cup heavy cream \n3 tbsps. condensed milk\n2 egg yolks \n1 tsp. vanilla \nPinch of salt \n¼ cup white sugar\n\nProcedure\n\n1. Preheat oven to 160°C. \n2. Combine C2 Caramel Milk Tea, heavy cream, condensed milk, egg yolks, vanilla and salt in a heatproof bowl. \n3. Place over a pot of simmering water and let cook while whisking continuously for 3 minutes.\n4. Transfer custard mixture to ramekins and cover each with foil. Place ramekins in a large baking tray and fill with hot water until half the height of your ramekins. \n5. Bake for 30-35 minutes, or until custard is mostly set with only a slight jiggle in the center. \n6. Chill for at least 4 hours up to overnight. \n7. Right before serving, sprinkle a thin layer of sugar all over the surface of your chilled custards. Torch sugar until caramelized.\n\nOrder your groceries safely and place them online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "We often have crème brûlée as a topping or sinker for our milk tea, but have you ever wondered what a Milk Tea Crème Brûlée would taste like?\n\nSatisfy that curiosity by whipping up this Milk Tea Crème Brûlée made with C2 Caramel Milk Tea. This sophisticated dessert comes packed with familiar flavours that will surely impress and curb any caramel cravings in one go. Get all the ingredients you need at #TheMarketplace!\n\nOrder your groceries safely and place them online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "C2"
     ],
@@ -182,8 +182,8 @@ const MAY_IG_DATA = [
       "servingTime": "5 hours",
       "yield": "4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n¾ cup C2 Caramel Milk Tea\n½ cup heavy cream \n3 tbsps. condensed milk\n2 egg yolks \n1 tsp. vanilla \nPinch of salt \n¼ cup white sugar",
-      "procedure": "Procedure\nPreheat oven to 160°C. \nCombine C2 Caramel Milk Tea, heavy cream, condensed milk, egg yolks, vanilla and salt in a heatproof bowl. \nPlace over a pot of simmering water and let cook while whisking continuously for 3 minutes. \nTransfer custard mixture to ramekins and cover each with foil. Place ramekins in a large baking tray and fill with hot water until half the height of your ramekins. \nBake for 30-35 minutes, or until custard is mostly set with only a slight jiggle in the center. \nChill for at least 4 hours up to overnight. \nRight before serving, sprinkle a thin layer of sugar all over the surface of your chilled custards. Torch sugar until caramelized."
+      "ingredients": "¾ cup C2 Caramel Milk Tea\n½ cup heavy cream \n3 tbsps. condensed milk\n2 egg yolks \n1 tsp. vanilla \nPinch of salt \n¼ cup white sugar",
+      "procedure": "Preheat oven to 160°C. \nCombine C2 Caramel Milk Tea, heavy cream, condensed milk, egg yolks, vanilla and salt in a heatproof bowl. \nPlace over a pot of simmering water and let cook while whisking continuously for 3 minutes. \nTransfer custard mixture to ramekins and cover each with foil. Place ramekins in a large baking tray and fill with hot water until half the height of your ramekins. \nBake for 30-35 minutes, or until custard is mostly set with only a slight jiggle in the center. \nChill for at least 4 hours up to overnight. \nRight before serving, sprinkle a thin layer of sugar all over the surface of your chilled custards. Torch sugar until caramelized."
     },
     "photo": {
       "filename": "FB2.jpg",
@@ -199,7 +199,7 @@ const MAY_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "May IG",
-    "caption": "Summer is upon us and with it comes the need for a refreshing pick-me-up.\n\nThese Orange Popsicles are the perfect summer lollies to indulge in on a hot day. The familiar flavour of Tang Orange Juice coupled with juicy orange cubes will definitely keep you cool on sunny days. Add these ingredients to your list when you shop next at #TheMarketplace!\n\nServing Time: 4 hours\nYield: 6 popsicles\n\nIngredients\n\n4 tbsps. Tang Orange Juice Powder \n4 cups water \n1 orange, peeled \n\nProcedure\n\n1. Combine Tang Orange Juice Powder and water. \n2. Slice orange flesh into small cubes. Mix this into the orange juice. \n3. Transfer into your popsicle molds. Freeze for at least 4 hours up to overnight. \n\nOrder your groceries safely and place them online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Summer is upon us and with it comes the need for a refreshing pick-me-up.\n\nThese Orange Popsicles are the perfect summer lollies to indulge in on a hot day. The familiar flavour of Tang Orange Juice coupled with juicy orange cubes will definitely keep you cool on sunny days. Add these ingredients to your list when you shop next at #TheMarketplace!\n\nOrder your groceries safely and place them online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Tang"
     ],
@@ -207,8 +207,8 @@ const MAY_IG_DATA = [
       "servingTime": "4 hours",
       "yield": "6 popsicles",
       "tips": "",
-      "ingredients": "Ingredients\n4 tbsps. Tang Orange Juice Powder \n4 cups water \n1 orange, peeled",
-      "procedure": "Procedure\nCombine Tang Orange Juice Powder and water. \nSlice orange flesh into small cubes. Mix this into the orange juice. \nTransfer into your popsicle molds. Freeze for at least 4 hours up to overnight."
+      "ingredients": "4 tbsps. Tang Orange Juice Powder \n4 cups water \n1 orange, peeled",
+      "procedure": "Combine Tang Orange Juice Powder and water. \nSlice orange flesh into small cubes. Mix this into the orange juice. \nTransfer into your popsicle molds. Freeze for at least 4 hours up to overnight."
     },
     "photo": {
       "filename": "FB3.jpg",
@@ -224,7 +224,7 @@ const MAY_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "May IG",
-    "caption": "Comfort food for dinner is always a welcome treat, especially after a long and stressful day. \n\nThis week, why not whip up this simple and delicious Cheesy Baked Penne made with Danes Quickmelt Cheese. If spiral pasta isn’t your thing, feel free to choose any pasta shape of your choice. Bursting with tomatoey goodness, the addition of basil gives this dish an extra oomph. Best paired with some red wine! Get all the ingredients you need fresh at #TheMarketplace.\nServing Time: 30 minutes\nYield: 4-6 servings\n\nIngredients\n\n500g trivelle pasta or any preferred pasta\n2 tbsps. olive oil\n1 white onion, diced \n3 cloves garlic, minced\n1 can diced tomatoes\n½ cup tomato sauce\n1 tsp. dried oregano\nSalt and pepper to taste\n1 cup Danes Quickmelt Cheese\nBasil leaves, for garnish\n\nProcedure\n\n1. Cook pasta according to package instructions.\n2. Preheat oven to 350°F.\n3. Over medium heat, add olive oil in a pan. Sauté onions and garlic until soft and fragrant.\n4. Add in oregano, diced tomatoes and tomato sauce. Let simmer for 8-10 minutes. Season with salt and pepper. \n5. Mix in cooked pasta. Transfer to a greased baking dish, and top with Danes Quickmelt Cheese. Bake for 15 minutes, or until cheese is fully melted.\n6. Garnish with basil leaves. \n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Comfort food for dinner is always a welcome treat, especially after a long and stressful day. \n\nThis week, why not whip up this simple and delicious Cheesy Baked Penne made with Danes Quickmelt Cheese. If spiral pasta isn’t your thing, feel free to choose any pasta shape of your choice. Bursting with tomatoey goodness, the addition of basil gives this dish an extra oomph. Best paired with some red wine! Get all the ingredients you need fresh at #TheMarketplace.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Danes"
     ],
@@ -232,8 +232,8 @@ const MAY_IG_DATA = [
       "servingTime": "30 minutes",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n500g trivelle pasta or any preferred pasta \n2 tbsps. olive oil\n1 white onion, diced \n3 cloves garlic, minced\n1 can diced tomatoes\n½ cup tomato sauce\n1 tsp. dried oregano\nSalt and pepper to taste\n1 cup Danes Quickmelt Cheese\nBasil leaves, for garnish",
-      "procedure": "Procedure\nCook pasta according to package instructions.\nPreheat oven to 350°F.\nOver medium heat, add olive oil in a pan. Sauté onions and garlic until soft and fragrant.\nAdd in oregano, diced tomatoes and tomato sauce. Let simmer for 8-10 minutes. Season with salt and pepper. \nMix in cooked pasta. Transfer to a greased baking dish, and top with Danes Quickmelt Cheese. Bake for 15 minutes, or until cheese is fully melted.\nGarnish with basil leaves."
+      "ingredients": "500g trivelle pasta or any preferred pasta \n2 tbsps. olive oil\n1 white onion, diced \n3 cloves garlic, minced\n1 can diced tomatoes\n½ cup tomato sauce\n1 tsp. dried oregano\nSalt and pepper to taste\n1 cup Danes Quickmelt Cheese\nBasil leaves, for garnish",
+      "procedure": "Cook pasta according to package instructions.\nPreheat oven to 350°F.\nOver medium heat, add olive oil in a pan. Sauté onions and garlic until soft and fragrant.\nAdd in oregano, diced tomatoes and tomato sauce. Let simmer for 8-10 minutes. Season with salt and pepper. \nMix in cooked pasta. Transfer to a greased baking dish, and top with Danes Quickmelt Cheese. Bake for 15 minutes, or until cheese is fully melted.\nGarnish with basil leaves."
     },
     "photo": {
       "filename": "FB4.jpg",
@@ -306,7 +306,7 @@ const MAY_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "May IG",
-    "caption": "Add a cheesy twist to your stir-fried tofu with Everbest Flower Cheese Tofu!\n\nFun-sized and bursting with cheesy goodness, swap it with your normal tofu for more character and a bolder flavor to your stir-fried dishes and other tofu meals. Versatile and satisfying, add it to your cart when you shop at #TheMarketplace next!\n\nServing Time: 15 minutes\nYield: 4 servings\n\nIngredients\n\n1 tbsp. canola oil \n2 tbsps. sesame oil\n1 cup French beans, ends trimmed \n1 cup red bell pepper strips\n1 pack Everbest Flower Cheese Tofu, cooked according to package directions\nSalt & pepper to taste\n2 tbsps. sesame seeds, toasted\n\nProcedure\n\n1. Sauté French beans and red bell peppers until soft. \n2. Add Everbest Flower Cheese tofu and oyster sauce. Mix until all components are well coated with the sauce. \n3. Season with salt and pepper. \n4. Garnish with sesame seeds. \n\nOrder your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Add a cheesy twist to your stir-fried tofu with Everbest Flower Cheese Tofu!\n\nFun-sized and bursting with cheesy goodness, swap it with your normal tofu for more character and a bolder flavor to your stir-fried dishes and other tofu meals. Versatile and satisfying, add it to your cart when you shop at #TheMarketplace next!\n\nOrder your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Everbest Flower"
     ],
@@ -314,8 +314,8 @@ const MAY_IG_DATA = [
       "servingTime": "15 minutes",
       "yield": "4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 tbsp. canola oil \n2 tbsps. sesame oil\n1 cup French beans, ends trimmed \n1 cup red bell pepper strips\n1 pack Everbest Flower Cheese Tofu, cooked according to package directions\nSalt & pepper to taste\n2 tbsps. sesame seeds, toasted",
-      "procedure": "Procedure\nSauté French beans and red bell peppers until soft. \nAdd Everbest Flower Cheese tofu and oyster sauce. Mix until all components are well coated with the sauce. \nSeason with salt and pepper. \nGarnish with sesame seeds."
+      "ingredients": "1 tbsp. canola oil \n2 tbsps. sesame oil\n1 cup French beans, ends trimmed \n1 cup red bell pepper strips\n1 pack Everbest Flower Cheese Tofu, cooked according to package directions\nSalt & pepper to taste\n2 tbsps. sesame seeds, toasted",
+      "procedure": "Sauté French beans and red bell peppers until soft. \nAdd Everbest Flower Cheese tofu and oyster sauce. Mix until all components are well coated with the sauce. \nSeason with salt and pepper. \nGarnish with sesame seeds."
     },
     "photo": {
       "filename": "FB8.jpg",

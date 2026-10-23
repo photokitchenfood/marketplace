@@ -11,7 +11,7 @@ const HALLOWEEN_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Halloween",
-    "caption": "As Halloween approaches, try out this wickedly delicious recipe for S’mores French Toast!\n\nUsing Fuwa Fuwa Premium Loaf, dredge each slice of bread into the usual French toast egg bath, but with the addition of cacao powder. Top with marshmallows, toast until golden brown, drizzle with chocolate sauce, and then sprinkle with almonds. Have it for breakfast this week and shop for ingredients today at #TheMarketplace!\n\nServing Time: 20-30 minutes\nYield: 2 servings\n\nIngredients\n\n2 eggs\n¼ cup milk\n2 tbsps. cacao powder\n2 tbsps. sugar\n2 tbsps. butter\n4 slices Fuwa Fuwa Premium Loaf\n2 cups marshmallows\n¼ cup chocolate sauce\n⅛ cup almonds, chopped\n\nProcedure\n\n1. In a bowl, combine eggs, milk, cacao powder, and sugar. Mix until well-incorporated, then set aside.\n2. Set a pan over medium heat and add butter. Lightly soak each slice of Fuwa Fuwa Premium Loaf into egg mixture, and fry until nicely browned on both sides.\n3. Arrange marshmallows over cooked chocolate French toast, then toast for at least 3 minutes, or until marshmallows are lightly browned and melted.\n4. Cover with another slice of chocolate french toast and drizzle with chocolate sauce. Sprinkle with chopped almonds for additional crunch.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "As Halloween approaches, try out this wickedly delicious recipe for S’mores French Toast!\n\nUsing Fuwa Fuwa Premium Loaf, dredge each slice of bread into the usual French toast egg bath, but with the addition of cacao powder. Top with marshmallows, toast until golden brown, drizzle with chocolate sauce, and then sprinkle with almonds. Have it for breakfast this week and shop for ingredients today at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Fuwa Fuwa"
     ],
@@ -19,8 +19,8 @@ const HALLOWEEN_DATA = [
       "servingTime": "20-30 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 eggs\n¼ cup milk\n2 tbsps. cacao powder\n2 tbsps. sugar\n2 tbsps. butter\n4 slices Fuwa Fuwa Premium Loaf\n2 cups marshmallows\n¼ cup chocolate sauce\n⅛ cup almonds, chopped",
-      "procedure": "Procedure\nIn a bowl, combine eggs, milk, cacao powder, and sugar. Mix until well-incorporated, then set aside.\nSet a pan over medium heat and add butter. Lightly soak each slice of Fuwa Fuwa Premium Loaf into egg mixture, and fry until nicely browned on both sides.\nArrange marshmallows over cooked chocolate French toast, then toast for at least 3 minutes, or until marshmallows are lightly browned and melted.\nCover with another slice of chocolate french toast and drizzle with chocolate sauce. Sprinkle with chopped almonds for additional crunch."
+      "ingredients": "2 eggs\n¼ cup milk\n2 tbsps. cacao powder\n2 tbsps. sugar\n2 tbsps. butter\n4 slices Fuwa Fuwa Premium Loaf\n2 cups marshmallows\n¼ cup chocolate sauce\n⅛ cup almonds, chopped",
+      "procedure": "In a bowl, combine eggs, milk, cacao powder, and sugar. Mix until well-incorporated, then set aside.\nSet a pan over medium heat and add butter. Lightly soak each slice of Fuwa Fuwa Premium Loaf into egg mixture, and fry until nicely browned on both sides.\nArrange marshmallows over cooked chocolate French toast, then toast for at least 3 minutes, or until marshmallows are lightly browned and melted.\nCover with another slice of chocolate french toast and drizzle with chocolate sauce. Sprinkle with chopped almonds for additional crunch."
     },
     "photo": {
       "filename": "HA1.jpg",
@@ -36,7 +36,7 @@ const HALLOWEEN_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Halloween",
-    "caption": "The warm and cozy flavors of fall come together in this easy recipe for Cinnamon Baked Pears. Stuffed with granola and dusted with the comforting blend of brown sugar and cinnamon, the key to this recipe is a bit of patience and lots of love. We used fresh Ya Pears for this recipe, and you can find them at #TheMarketplace, along with the other ingredients needed!\n\nServing Time: 40-45 minutes\nYield: 3-4 servings\n\nIngredients\n\n3 Ya Pears, halved\n2 tbsps. lemon juice\n½ cup brown sugar\n1 tsp. cinnamon powder\n1 cup granola\n3 tbsps. honey\n¼ tsp. flaky salt\n\nProcedure\n\n1. Preheat oven to 350°F.\n2. Using a melon baller, remove the seeds of Ya Pears. Brush with lemon juice to avoid browning.\n3. Mix together sugar and cinnamon powder, then sprinkle all over the pears.\n4. Transfer pears into a baking sheet and cover with foil. Bake for about 15 minutes.\n5. Remove the foil, then sprinkle pears with cinnamon sugar again. Bake for another 12 minutes uncovered.\n6. Mix granola and honey until well incorporated, then add flaky salt.\n7. Top pears with granola and serve with honey on the side.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "The warm and cozy flavors of fall come together in this easy recipe for Cinnamon Baked Pears. Stuffed with granola and dusted with the comforting blend of brown sugar and cinnamon, the key to this recipe is a bit of patience and lots of love. We used fresh Ya Pears for this recipe, and you can find them at #TheMarketplace, along with the other ingredients needed!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "! Generic"
     ],
@@ -44,8 +44,8 @@ const HALLOWEEN_DATA = [
       "servingTime": "40-45 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n3 Ya Pears, halved\n2 tbsps. lemon juice\n½ cup brown sugar\n1 tsp. cinnamon powder\n1 cup granola\n3 tbsps. honey\n¼ tsp. flaky salt",
-      "procedure": "Procedure\nPreheat oven to 350°F.\nUsing a melon baller, remove the seeds of Ya Pears. Brush with lemon juice to avoid browning.\nMix together sugar and cinnamon powder, then sprinkle all over the pears.\nTransfer pears into a baking sheet and cover with foil. Bake for about 15 minutes.\nRemove the foil, then sprinkle pears with cinnamon sugar again. Bake for another 12 minutes uncovered.\nMix granola and honey until well incorporated, then add flaky salt.\nTop pears with granola and serve with honey on the side."
+      "ingredients": "3 Ya Pears, halved\n2 tbsps. lemon juice\n½ cup brown sugar\n1 tsp. cinnamon powder\n1 cup granola\n3 tbsps. honey\n¼ tsp. flaky salt",
+      "procedure": "Preheat oven to 350°F.\nUsing a melon baller, remove the seeds of Ya Pears. Brush with lemon juice to avoid browning.\nMix together sugar and cinnamon powder, then sprinkle all over the pears.\nTransfer pears into a baking sheet and cover with foil. Bake for about 15 minutes.\nRemove the foil, then sprinkle pears with cinnamon sugar again. Bake for another 12 minutes uncovered.\nMix granola and honey until well incorporated, then add flaky salt.\nTop pears with granola and serve with honey on the side."
     },
     "photo": {
       "filename": "HA2.jpg",
@@ -61,7 +61,7 @@ const HALLOWEEN_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Halloween",
-    "caption": "These fingers are anything but spooky! A tasty recipe that you will surely add to your list of comfort foods, these Chicken Finger Nachos made with Magnolia Cheezy Chicken Fingers are crunchy, cheesy, and smothered with your favorite Mexican condiments. Enjoy it as an appetizer, or as a snack when you have your Halloween movie marathon! Find all the ingredients you need fresh at #TheMarketplace!\n\nServing Time: 12 minutes\nYield: 3-5 servings\n\nIngredients\n\n1 pack Magnolia Cheezy Chicken Fingers \nOil for deep-frying \n1 cup tomatoes, diced\n½ cup red onions, diced \n1 cup lettuce, shredded\n½ cup bacon bits, fried \n½ cup cheddar cheese, grated\n\nProcedure\n1. Preheat oil to 180°C. Deep-fry Magnolia Cheezy Chicken Fingers until crisp and cooked through, about 6 minutes. \n2. Arrange lettuce on a serving platter. Top with the fried chicken gingers, then the tomatoes, red onions, bacon bits and cheese. \n3. Serve with desired nacho condiments.",
+    "caption": "These fingers are anything but spooky! A tasty recipe that you will surely add to your list of comfort foods, these Chicken Finger Nachos made with Magnolia Cheezy Chicken Fingers are crunchy, cheesy, and smothered with your favorite Mexican condiments. Enjoy it as an appetizer, or as a snack when you have your Halloween movie marathon! Find all the ingredients you need fresh at #TheMarketplace!",
     "brand": [
       "Magnolia"
     ],
@@ -69,8 +69,8 @@ const HALLOWEEN_DATA = [
       "servingTime": "12 minutes",
       "yield": "3-5 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 pack Magnolia Cheezy Chicken Fingers \nOil for deep-frying \n1 cup tomatoes, diced\n½ cup red onions, diced \n1 cup lettuce, shredded\n½ cup bacon bits, fried \n½ cup cheddar cheese, grated",
-      "procedure": "Procedure\nPreheat oil to 180°C. Deep-fry Magnolia Cheezy Chicken Fingers until crisp and cooked through, about 6 minutes. \nArrange lettuce on a serving platter. Top with the fried chicken gingers, then the tomatoes, red onions, bacon bits and cheese. \nServe with desired nacho condiments."
+      "ingredients": "1 pack Magnolia Cheezy Chicken Fingers \nOil for deep-frying \n1 cup tomatoes, diced\n½ cup red onions, diced \n1 cup lettuce, shredded\n½ cup bacon bits, fried \n½ cup cheddar cheese, grated",
+      "procedure": "Preheat oil to 180°C. Deep-fry Magnolia Cheezy Chicken Fingers until crisp and cooked through, about 6 minutes. \nArrange lettuce on a serving platter. Top with the fried chicken gingers, then the tomatoes, red onions, bacon bits and cheese. \nServe with desired nacho condiments."
     },
     "photo": {
       "filename": "HA3.jpg",
@@ -86,7 +86,7 @@ const HALLOWEEN_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Halloween",
-    "caption": "Trick or treat? These Ritz Cracker Toffee may look like they’re expensive confectionery, when, in fact, they’re made with a hodgepodge of delicious ingredients that you can find at #TheMarketplace such as butter, chocolate chips, and nuts! Using Ritz Crackers as the base, think of it as homemade chocolate bark with lots of familiar flavours. Best enjoyed with a glass of chocolate milk or full-cream milk!\n\nServing Time: 1 hour\nYield: 4-6 servings\n\nIngredients\n\n1 cup butter\n1 cup brown sugar \n1 pack Ritz Crackers (Original)\n2 cups semi-sweet chocolate chips \n½ cup slivered almonds \n½ cup chopped pecans \n½ tbsp. flaky salt \n\nProcedure\n1. Preheat oven to 200°C. Line a pan with foil, then arrange Ritz Crackers on top. Make sure there are no big spaces. You can crush some pieces to fill in the gaps. \n2. In a saucepan over medium heat, melt together butter and brown sugar while swirling from time to time. Let boil for 3-4 minutes until fully combined. \n3. Pour sugar mixture over the crackers. Bake for 4 minutes, then turn the oven off. \n4. Remove the pan from the oven, then add the chocolate chips on top. Return in the warm oven for 4 minutes, then remove again. Spread the chocolate, then top with almonds, pecans and salt. \n5. Let cool, then chill for at least 30 minutes. Once set, break into pieces. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Trick or treat? These Ritz Cracker Toffee may look like they’re expensive confectionery, when, in fact, they’re made with a hodgepodge of delicious ingredients that you can find at #TheMarketplace such as butter, chocolate chips, and nuts! Using Ritz Crackers as the base, think of it as homemade chocolate bark with lots of familiar flavours. Best enjoyed with a glass of chocolate milk or full-cream milk!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Ritz"
     ],
@@ -94,8 +94,8 @@ const HALLOWEEN_DATA = [
       "servingTime": "1 hour",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup butter\n1 cup brown sugar \n1 pack Ritz Crackers (Original)\n2 cups semi-sweet chocolate chips \n½ cup slivered almonds \n½ cup chopped pecans \n½ tbsp. flaky salt",
-      "procedure": "Procedure\nPreheat oven to 200°C. Line a pan with foil, then arrange Ritz Crackers on top. Make sure there are no big spaces. You can crush some pieces to fill in the gaps. \nIn a saucepan over medium heat, melt together butter and brown sugar while swirling from time to time. Let boil for 3-4 minutes until fully combined. \nPour sugar mixture over the crackers. Bake for 4 minutes, then turn the oven off. \nRemove the pan from the oven, then add the chocolate chips on top. Return in the warm oven for 4 minutes, then remove again. Spread the chocolate, then top with almonds, pecans and salt. \nLet cool, then chill for at least 30 minutes. Once set, break into pieces."
+      "ingredients": "1 cup butter\n1 cup brown sugar \n1 pack Ritz Crackers (Original)\n2 cups semi-sweet chocolate chips \n½ cup slivered almonds \n½ cup chopped pecans \n½ tbsp. flaky salt",
+      "procedure": "Preheat oven to 200°C. Line a pan with foil, then arrange Ritz Crackers on top. Make sure there are no big spaces. You can crush some pieces to fill in the gaps. \nIn a saucepan over medium heat, melt together butter and brown sugar while swirling from time to time. Let boil for 3-4 minutes until fully combined. \nPour sugar mixture over the crackers. Bake for 4 minutes, then turn the oven off. \nRemove the pan from the oven, then add the chocolate chips on top. Return in the warm oven for 4 minutes, then remove again. Spread the chocolate, then top with almonds, pecans and salt. \nLet cool, then chill for at least 30 minutes. Once set, break into pieces."
     },
     "photo": {
       "filename": "HA4.jpg",
@@ -111,7 +111,7 @@ const HALLOWEEN_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "Halloween",
-    "caption": "The taste of cinnamon-sugar marks the coming of colder months, and the signature flavor of a Hershey’s Kiss adds a sweeter touch to snickerdoodles. Bake a batch of these Snickerdoodle Kiss Cookies for Halloween to give away or to keep in your cookie jar! Find all the ingredients you need at #TheMarketplace! \n\nServing Time: 1 hour\nYield: 40 cookies\n\nIngredients\n\n(For the Cookies)\n1 cup unsalted butter, softened \n1 cup white sugar \n1 cup brown sugar \n2 eggs \n2 tsps. vanilla \n3 cups all-purpose flour\n1 tsp. salt \n2 tsps. cinnamon \n1 tsp. baking powder\n1 tsp. baking soda\n(For the Cookie Topping)\n⅓ cup brown sugar\n2 tsps. Cinnamon \n40 Hershey’s Kisses, unwrapped  \n\nProcedure\n1. Preheat oven to 175°C. Line a baking pan with parchment paper. \n2. Cream together butter, white sugar and brown sugar until smooth. Mix in eggs and vanilla until it becomes fluffy and pale yellow. \n3. In a separate bowl, whisk together flour, salt, cinnamon, baking powder and baking soda. \n4. Combine egg mixture and flour mixture. Chill dough for 30 minutes.\n5. Meanwhile, combine brown sugar and cinnamon for topping. \n6. Shape dough into 1-inch balls. Coat with cinnamon sugar then arrange on the lined baking pan 2-inches apart. \n7. Bake for 12 minutes, then immediately top each cookie with 1 Hershey’s Kiss fresh out of the oven. Let cool completely.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "The taste of cinnamon-sugar marks the coming of colder months, and the signature flavor of a Hershey’s Kiss adds a sweeter touch to snickerdoodles. Bake a batch of these Snickerdoodle Kiss Cookies for Halloween to give away or to keep in your cookie jar! Find all the ingredients you need at #TheMarketplace!\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Hershey's"
     ],
@@ -119,8 +119,8 @@ const HALLOWEEN_DATA = [
       "servingTime": "1 hour",
       "yield": "40 cookies",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup unsalted butter, softened \n1 cup white sugar \n1 cup brown sugar \n2 eggs \n2 tsps. vanilla \n3 cups all-purpose flour\n1 tsp. salt \n2 tsps. cinnamon \n1 tsp. baking powder\n1 tsp. baking soda\nTopping: \n⅓ cup brown sugar\n2 tsps. Cinnamon \n40 Hershey’s Kisses, unwrapped",
-      "procedure": "Procedure\nPreheat oven to 175°C. Line a baking pan with parchment paper. \nCream together butter, white sugar and brown sugar until smooth. Mix in eggs and vanilla until it becomes fluffy and pale yellow. \nIn a separate bowl, whisk together flour, salt, cinnamon, baking powder and baking soda. \nCombine egg mixture and flour mixture. Chill dough for 30 minutes.\nMeanwhile, combine brown sugar and cinnamon for topping. \nShape dough into 1-inch balls. Coat with cinnamon sugar then arrange on the lined baking pan 2-inches apart. \nBake for 12 minutes, then immediately top each cookie with 1 Hershey’s Kiss fresh out of the oven. Let cool completely."
+      "ingredients": "1 cup unsalted butter, softened \n1 cup white sugar \n1 cup brown sugar \n2 eggs \n2 tsps. vanilla \n3 cups all-purpose flour\n1 tsp. salt \n2 tsps. cinnamon \n1 tsp. baking powder\n1 tsp. baking soda\nTopping: \n⅓ cup brown sugar\n2 tsps. Cinnamon \n40 Hershey’s Kisses, unwrapped",
+      "procedure": "Preheat oven to 175°C. Line a baking pan with parchment paper. \nCream together butter, white sugar and brown sugar until smooth. Mix in eggs and vanilla until it becomes fluffy and pale yellow. \nIn a separate bowl, whisk together flour, salt, cinnamon, baking powder and baking soda. \nCombine egg mixture and flour mixture. Chill dough for 30 minutes.\nMeanwhile, combine brown sugar and cinnamon for topping. \nShape dough into 1-inch balls. Coat with cinnamon sugar then arrange on the lined baking pan 2-inches apart. \nBake for 12 minutes, then immediately top each cookie with 1 Hershey’s Kiss fresh out of the oven. Let cool completely."
     },
     "photo": {
       "filename": "HA5.jpg",
@@ -193,7 +193,7 @@ const HALLOWEEN_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Halloween",
-    "caption": "Unleash the ghoulish glutton in you, even just this Halloween, and bake these Cloud 9 Brownies! For this recipe, we opted for both Overload and Peanut Butter Cloud 9 variants, but feel free to shake up the combination according to your preference! The nutty and caramel flavors that we love from Cloud 9 make any batch of brownies a sure and sweet hit. Don’t forget to save some for snacking! Grab all the ingredients you need at #TheMarketplace today! \n\nServing Time: 1 hour and 30 minutes\nYield: 1 8-inch pan\n\nIngredients\n\n½ cup unsalted butter, cubed \n1 ½ cups dark chocolate, chopped\n½ cup white sugar \n½ cup brown sugar \n1 tsp. vanilla \n3 eggs \n⅔ cup all-purpose flour \n2 bars Cloud 9 Overload, chopped \n2 bars Cloud 9 Peanut Butter, chopped\n\nProcedure\n\n1. Preheat oven to 175°C. Line a square 8” baking tray with parchment paper. \n2. Melt together butter and chocolate in a double-boiler. Remove from the heat, then mix in white sugar, brown sugar and vanilla. Whisk in eggs one at a time. Mix in flour and stir until mixture is smooth. \n3. Fold in chopped Cloud 9 bars, reserving some for topping later on. \n4. Pour brownie batter into the lined baking tray. Bake for 30-40 minutes, or until cooked through. Fresh out of the oven, top with remaining chopped Cloud 9 pieces. \n5. Let cool completely before serving. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Unleash the ghoulish glutton in you, even just this Halloween, and bake these Cloud 9 Brownies! For this recipe, we opted for both Overload and Peanut Butter Cloud 9 variants, but feel free to shake up the combination according to your preference! The nutty and caramel flavors that we love from Cloud 9 make any batch of brownies a sure and sweet hit. Don’t forget to save some for snacking! Grab all the ingredients you need at #TheMarketplace today!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Cloud 9"
     ],
@@ -201,8 +201,8 @@ const HALLOWEEN_DATA = [
       "servingTime": "1 hour and 30 minutes",
       "yield": "1 8-inch pan",
       "tips": "",
-      "ingredients": "Ingredients\n½ cup unsalted butter, cubed \n1 ½ cups dark chocolate, chopped\n½ cup white sugar \n½ cup brown sugar \n1 tsp. vanilla \n3 eggs \n⅔ cup all-purpose flour \n2 bars Cloud 9 Overload, chopped \n2 bars Cloud 9 Peanut Butter, chopped",
-      "procedure": "Procedure\nPreheat oven to 175°C. Line a square 8” baking tray with parchment paper. \nMelt together butter and chocolate in a double-boiler. Remove from the heat, then mix in white sugar, brown sugar and vanilla. Whisk in eggs one at a time. Mix in flour and stir until mixture is smooth. \nFold in chopped Cloud 9 bars, reserving some for topping later on. \nPour brownie batter into the lined baking tray. Bake for 30-40 minutes, or until cooked through. Fresh out of the oven, top with remaining chopped Cloud 9 pieces. \nLet cool completely before serving."
+      "ingredients": "½ cup unsalted butter, cubed \n1 ½ cups dark chocolate, chopped\n½ cup white sugar \n½ cup brown sugar \n1 tsp. vanilla \n3 eggs \n⅔ cup all-purpose flour \n2 bars Cloud 9 Overload, chopped \n2 bars Cloud 9 Peanut Butter, chopped",
+      "procedure": "Preheat oven to 175°C. Line a square 8” baking tray with parchment paper. \nMelt together butter and chocolate in a double-boiler. Remove from the heat, then mix in white sugar, brown sugar and vanilla. Whisk in eggs one at a time. Mix in flour and stir until mixture is smooth. \nFold in chopped Cloud 9 bars, reserving some for topping later on. \nPour brownie batter into the lined baking tray. Bake for 30-40 minutes, or until cooked through. Fresh out of the oven, top with remaining chopped Cloud 9 pieces. \nLet cool completely before serving."
     },
     "photo": {
       "filename": "HA9.jpg",
@@ -218,7 +218,7 @@ const HALLOWEEN_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Halloween",
-    "caption": "Give those store-bought donuts a fun makeover by topping them with M&Ms and Snickers. Want to throw in a spooky surprise? Dress up as a freaky clown as you serve these colorful Halloween Donuts to your friends and family for an experience that will surely elicit both screams and laughs. Find all the ingredients you need at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 6 pieces\n\nIngredients\n\n½ cup heavy cream \n1½ cups semi-sweet chocolate, chopped \n6 store-bought plain donuts \n½ cup M&Ms\n12 bars Snickers (Fun Size), chopped \n\nProcedure\n\n1. Microwave heavy cream for 1 minute. Pour hot cream over the chocolate, then mix until chocolate is fully melted and mixture is smooth. \n2. Dip donuts into the chocolate ganache, then top with M&Ms and Snickers. \n3. Let set for 10-15 minutes. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Give those store-bought donuts a fun makeover by topping them with M&Ms and Snickers. Want to throw in a spooky surprise? Dress up as a freaky clown as you serve these colorful Halloween Donuts to your friends and family for an experience that will surely elicit both screams and laughs. Find all the ingredients you need at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "M&M's",
       "Snickers"
@@ -227,8 +227,8 @@ const HALLOWEEN_DATA = [
       "servingTime": "30 minutes",
       "yield": "6 pieces",
       "tips": "",
-      "ingredients": "Ingredients\n½ cup heavy cream \n1½ cups semi-sweet chocolate, chopped \n6 store-bought plain donuts \n½ cup M&Ms\n12 bars Snickers (Fun Size), chopped",
-      "procedure": "Procedure\nMicrowave heavy cream for 1 minute. Pour hot cream over the chocolate, then mix until chocolate is fully melted and mixture is smooth. \nDip donuts into the chocolate ganache, then top with M&Ms and Snickers. \nLet set for 10-15 minutes."
+      "ingredients": "½ cup heavy cream \n1½ cups semi-sweet chocolate, chopped \n6 store-bought plain donuts \n½ cup M&Ms\n12 bars Snickers (Fun Size), chopped",
+      "procedure": "Microwave heavy cream for 1 minute. Pour hot cream over the chocolate, then mix until chocolate is fully melted and mixture is smooth. \nDip donuts into the chocolate ganache, then top with M&Ms and Snickers. \nLet set for 10-15 minutes."
     },
     "photo": {
       "filename": "HA10.jpg",
@@ -244,7 +244,7 @@ const HALLOWEEN_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Halloween",
-    "caption": "An orange-colored stew for an orange-themed season sounds just about right. This recipe for Creamy Tuscan Salmon Shrimp uses the freshest catch from Mikisa seafood and is cooked with the rich, comforting flavors of tomatoes and cream. Make sure to have some toasted bread ready, because this dish was made for dipping! Get all the ingredients you need fresh from #TheMarektplace!\n\nServing Time: 30 minutes\nYield: 3-5 servings\n\nIngredients\n\nSalt and pepper to taste\n1 pack Mikisa Salmon Fillet \n250g Mikisa Suahe Large, peeled and deveined \n3 tbsps. vegetable oil\n5 cloves garlic, chopped\n1 white onion, chopped \n1 tbsp. tomato paste \n2 tomatoes, quartered\n2 cups cream \n2 cups spinach leaves\n¼ cup parmesan cheese\n1 tbsp. lemon juice \n\nProcedure\n\n1. Season Mikisa Salmon and Suahe Large with salt and pepper. \n2. In a large pan over medium heat, add oil. Sear Salmon on both sides. Set aside while retaining oil in the pan. Sear shrimp next, then set aside. \n3. In the same pan, sauté garlic and onion until soft. Add tomato paste and cook until darkened. Add tomatoes and cream, then let boil. Add spinach and let simmer for 5 minutes. \n4. Mix in parmesan cheese. Add back salmon and shrimp. Let simmer for another 5 minutes. \n5. Add lemon juice and season sauce with salt and pepper. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "An orange-colored stew for an orange-themed season sounds just about right. This recipe for Creamy Tuscan Salmon Shrimp uses the freshest catch from Mikisa seafood and is cooked with the rich, comforting flavors of tomatoes and cream. Make sure to have some toasted bread ready, because this dish was made for dipping! Get all the ingredients you need fresh from #TheMarektplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Mikisa"
     ],
@@ -252,8 +252,8 @@ const HALLOWEEN_DATA = [
       "servingTime": "30 minutes",
       "yield": "3-5 servings",
       "tips": "",
-      "ingredients": "Ingredients\nSalt and pepper to taste\n1 pack Mikisa Salmon Fillet \n250g Mikisa Suahe Large, peeled and deveined \n3 tbsps. vegetable oil\n5 cloves garlic, chopped\n1 white onion, chopped \n1 tbsp. tomato paste \n2 tomatoes, quartered\n2 cups cream \n2 cups spinach leaves\n¼ cup parmesan cheese\n1 tbsp. lemon juice",
-      "procedure": "Procedure\nSeason Mikisa Salmon and Suahe Large with salt and pepper. \nIn a large pan over medium heat, add oil. Sear Salmon on both sides. Set aside while retaining oil in the pan. Sear shrimp next, then set aside. \nIn the same pan, sauté garlic and onion until soft. Add tomato paste and cook until darkened. Add tomatoes and cream, then let boil. Add spinach and let simmer for 5 minutes. \nMix in parmesan cheese. Add back salmon and shrimp. Let simmer for another 5 minutes. \nAdd lemon juice and season sauce with salt and pepper."
+      "ingredients": "Salt and pepper to taste\n1 pack Mikisa Salmon Fillet \n250g Mikisa Suahe Large, peeled and deveined \n3 tbsps. vegetable oil\n5 cloves garlic, chopped\n1 white onion, chopped \n1 tbsp. tomato paste \n2 tomatoes, quartered\n2 cups cream \n2 cups spinach leaves\n¼ cup parmesan cheese\n1 tbsp. lemon juice",
+      "procedure": "Season Mikisa Salmon and Suahe Large with salt and pepper. \nIn a large pan over medium heat, add oil. Sear Salmon on both sides. Set aside while retaining oil in the pan. Sear shrimp next, then set aside. \nIn the same pan, sauté garlic and onion until soft. Add tomato paste and cook until darkened. Add tomatoes and cream, then let boil. Add spinach and let simmer for 5 minutes. \nMix in parmesan cheese. Add back salmon and shrimp. Let simmer for another 5 minutes. \nAdd lemon juice and season sauce with salt and pepper."
     },
     "photo": {
       "filename": "HA11.jpg",
@@ -269,7 +269,7 @@ const HALLOWEEN_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Halloween",
-    "caption": "Planning a scary movie marathon this Halloween? These Chicken Tacos made with CDO Chicken Flakes are not only tasty, but are also pretty darn easy to make! Easy to eat and no-frills, these tacos are going to be a source of comfort and indulgence as you go through each freaky flick in your line-up. Find all the ingredients you need at #TheMarketplace!\n\nServing Time: 10 minutes\nYield: 4 tacos\n\nIngredients\n\n½ cup sour cream \n2 cloves garlic, grated \n1 tbsp. cilantro, chopped \nSalt and pepper to taste\n1 can CDO Chicken Flakes Sweet Chili\n1 can CDO Chicken Flakes in Oil \n1 red onion, sliced\n½ cup cup corn \n1 cup lettuce, shredded \n4 tortillas, toasted \nLime wedges for serving\n\nProcedure\n\n1. Combine sour cream, garlic and cilantro. Season with salt and pepper. \n2. Drain CDO Chicken Flakes. Combine with red onions and corn. Season with salt and pepper. \n3. Arrange lettuce on top of tortillas. Fill with the chicken mixture. \n4. Serve with sour cream sauce and lime wedges.  \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Planning a scary movie marathon this Halloween? These Chicken Tacos made with CDO Chicken Flakes are not only tasty, but are also pretty darn easy to make! Easy to eat and no-frills, these tacos are going to be a source of comfort and indulgence as you go through each freaky flick in your line-up. Find all the ingredients you need at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "CDO"
     ],
@@ -277,8 +277,8 @@ const HALLOWEEN_DATA = [
       "servingTime": "10 minutes",
       "yield": "4 tacos",
       "tips": "",
-      "ingredients": "Ingredients\n½ cup sour cream \n2 cloves garlic, grated \n1 tbsp. cilantro, chopped \nSalt and pepper to taste\n1 can CDO Chicken Flakes Sweet Chili\n1 can CDO Chicken Flakes in Oil \n1 red onion, sliced\n½ cup cup corn \n1 cup lettuce, shredded \n4 tortillas, toasted \nLime wedges for serving",
-      "procedure": "Procedure\nCombine sour cream, garlic and cilantro. Season with salt and pepper. \nDrain CDO Chicken Flakes. Combine with red onions and corn. Season with salt and pepper. \nArrange lettuce on top of tortillas. Fill with the chicken mixture. \nServe with sour cream sauce and lime wedges."
+      "ingredients": "½ cup sour cream \n2 cloves garlic, grated \n1 tbsp. cilantro, chopped \nSalt and pepper to taste\n1 can CDO Chicken Flakes Sweet Chili\n1 can CDO Chicken Flakes in Oil \n1 red onion, sliced\n½ cup cup corn \n1 cup lettuce, shredded \n4 tortillas, toasted \nLime wedges for serving",
+      "procedure": "Combine sour cream, garlic and cilantro. Season with salt and pepper. \nDrain CDO Chicken Flakes. Combine with red onions and corn. Season with salt and pepper. \nArrange lettuce on top of tortillas. Fill with the chicken mixture. \nServe with sour cream sauce and lime wedges."
     },
     "photo": {
       "filename": "HA12.jpg",
@@ -313,7 +313,7 @@ const HALLOWEEN_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Halloween",
-    "caption": "In the spirit of Halloween and of all things sweet, try your hand at baking and whip up this Snickers Graveyard Chocolate Cake, complete with chocolate sticks for fences and gummy worms for that slithering factor! Enjoyed best as a dessert after your Halloween supper, or as a sweet bite of comfort as you scare yourself silly with your horror movie marathons. Have fun and find all the ingredients you need at #TheMarketplace. Happy Halloween!\n\nServing Time: 3 hours\nYield: 1 8-inch cake\n\nIngredients\n\n1 box chocolate cake mix\n2 eggs \n¼ cup oil \n1 cup water \n2 tbsps. cocoa powder\n1 cup chocolate frosting\n1 pack Snickers Fun Size\n10 pcs. chocolate sticks, halved \n4-6 gummy worms \n\nProcedure\n\n1. Preheat oven to 175°C. Line an 8” square pan with parchment paper. \n2. Mix together chocolate cake mix, eggs, oil and water until just combined. Transfer into the lined pan, then bake for 25-35 minutes, or until a toothpick inserted in the center comes out clean. Let cool completely. \n3. Once cake is completely cool, slice the top of the cake to flatten. Set aside cake crumbs. Evenly coat the cake with chocolate frosting. Chill for at least 1 hour. \n4. Crush cake crumbs using a fork, then combine with cocoa powder. \n5. Decorate the cake using Snickers Fun Size as the border of the cake (along with chocolate sticks) and as tombstones. Use the cake crumbs mixture as soil with gummy worms. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "In the spirit of Halloween and of all things sweet, try your hand at baking and whip up this Snickers Graveyard Chocolate Cake, complete with chocolate sticks for fences and gummy worms for that slithering factor! Enjoyed best as a dessert after your Halloween supper, or as a sweet bite of comfort as you scare yourself silly with your horror movie marathons. Have fun and find all the ingredients you need at #TheMarketplace. Happy Halloween!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Snickers"
     ],
@@ -321,8 +321,8 @@ const HALLOWEEN_DATA = [
       "servingTime": "3 hours",
       "yield": "1 8-inch cake",
       "tips": "",
-      "ingredients": "Ingredients\n1 box chocolate cake mix\n2 eggs \n¼ cup oil \n1 cup water \n2 tbsps. cocoa powder\n1 cup chocolate frosting\n1 pack Snickers Fun Size\n10 pcs. chocolate sticks, halved \n4-6 gummy worms",
-      "procedure": "Procedure\nPreheat oven to 175°C. Line an 8” square pan with parchment paper. \nMix together chocolate cake mix, eggs, oil and water until just combined. Transfer into the lined pan, then bake for 25-35 minutes, or until a toothpick inserted in the center comes out clean. Let cool completely. \nOnce cake is completely cool, slice the top of the cake to flatten. Set aside cake crumbs. Evenly coat the cake with chocolate frosting. Chill for at least 1 hour. \nCrush cake crumbs using a fork, then combine with cocoa powder. \nDecorate the cake using Snickers Fun Size as the border of the cake (along with chocolate sticks) and as tombstones. Use the cake crumbs mixture as soil with gummy worms."
+      "ingredients": "1 box chocolate cake mix\n2 eggs \n¼ cup oil \n1 cup water \n2 tbsps. cocoa powder\n1 cup chocolate frosting\n1 pack Snickers Fun Size\n10 pcs. chocolate sticks, halved \n4-6 gummy worms",
+      "procedure": "Preheat oven to 175°C. Line an 8” square pan with parchment paper. \nMix together chocolate cake mix, eggs, oil and water until just combined. Transfer into the lined pan, then bake for 25-35 minutes, or until a toothpick inserted in the center comes out clean. Let cool completely. \nOnce cake is completely cool, slice the top of the cake to flatten. Set aside cake crumbs. Evenly coat the cake with chocolate frosting. Chill for at least 1 hour. \nCrush cake crumbs using a fork, then combine with cocoa powder. \nDecorate the cake using Snickers Fun Size as the border of the cake (along with chocolate sticks) and as tombstones. Use the cake crumbs mixture as soil with gummy worms."
     },
     "photo": {
       "filename": "HA14.jpg",
@@ -338,7 +338,7 @@ const HALLOWEEN_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Halloween",
-    "caption": "This Cloud 9 Spiderweb Cheesecake might seem elaborate to make, but the no-bake recipe makes it a cinch to make anytime of the year, really! Using two types of Cloud 9 chocolate bars (Overload and Peanut Butter), this spookily sweet treat is a flavor bomb of caramel, peanut butter, nuts, and tangy and sweet cream cheese. Get all the ingredients you need at #TheMarketplace, and have a ghoulishly fun time making it! Tag us @themarketplacefresh on Instagram so that we can see your deliriously delicious creations! \n\nServing Time: 3 hours\nYield: 1 8-inch cake\n\nIngredients\n\n2 cups cookie crumbs\n½ cup butter, melted\n½ cup whipping cream \n2 bars cream cheese, softened\n¼ cup sugar\n¼ tsp. vanilla extract\n3 tbsps. gelatin\n3 tbsps. milk\n1 cup Cloud 9 Overload, chopped\n1 cup Cloud 9 Peanut Butter, chopped\n1 cup semi-sweet chocolate\n⅓ cup heavy cream\n\nProcedure\n1. In a bowl, combine crushed cookies and melted butter. Transfer to an 8 inch spring pan and press to the bottom to pack crust. Freeze to set for 1 hour.\n2. In a mixing bowl, whip cream until it doubles in size In another bowl, beat together cream cheese, sugar and vanilla extract until smooth. Fold in whipped cream.\n3. Dissolve gelatin in milk and add in the cream cheese mixture until smooth.\n4. Fold in half of Cloud 9 Overload and Cloud 9 Peanut butter. Save other half for topping.\n5. Fill the chilled crust with cream cheese mixture and refrigerate for 4 hours.\n6. Simmer heavy cream and stir occasionally. Pour over semi-sweet chocolate, cover and let sit for 3 minutes then mix until smooth.\n7. Transfer ganache in a squeeze bottle to create spider web top with the remaining chopped Cloud 9 Overload and Peanut Butter.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "This Cloud 9 Spiderweb Cheesecake might seem elaborate to make, but the no-bake recipe makes it a cinch to make anytime of the year, really! Using two types of Cloud 9 chocolate bars (Overload and Peanut Butter), this spookily sweet treat is a flavor bomb of caramel, peanut butter, nuts, and tangy and sweet cream cheese. Get all the ingredients you need at #TheMarketplace, and have a ghoulishly fun time making it! Tag us @themarketplacefresh on Instagram so that we can see your deliriously delicious creations!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Cloud 9"
     ],
@@ -346,8 +346,8 @@ const HALLOWEEN_DATA = [
       "servingTime": "3 hours",
       "yield": "1 8-inch cake",
       "tips": "",
-      "ingredients": "Ingredients\n2 cups cookie crumbs\n½ cup butter, melted\n½ cup whipping cream \n2 bars cream cheese, softened\n¼ cup sugar\n¼ tsp. vanilla extract\n3 tbsps. gelatin\n3 tbsps. milk\n1 cup Cloud 9 Overload, chopped\n1 cup Cloud 9 Peanut Butter, chopped\n1 cup semi-sweet chocolate\n⅓ cup heavy cream",
-      "procedure": "Procedure\nIn a bowl, combine crushed cookies and melted butter. Transfer to an 8 inch spring pan and press to the bottom to pack crust. Freeze to set for 1 hour.\nIn a mixing bowl, whip cream until it doubles in size In another bowl, beat together cream cheese, sugar and vanilla extract until smooth. Fold in whipped cream.\nDissolve gelatin in milk and add in the cream cheese mixture until smooth.\nFold in half of Cloud 9 Overload and Cloud 9 Peanut butter. Save other half for topping.\nFill the chilled crust with cream cheese mixture and refrigerate for 4 hours.\nSimmer heavy cream and stir occasionally. Pour over semi-sweet chocolate, cover and let sit for 3 minutes then mix until smooth.\nTransfer ganache in a squeeze bottle to create spider web top with the remaining chopped Cloud 9 Overload and Peanut Butter."
+      "ingredients": "2 cups cookie crumbs\n½ cup butter, melted\n½ cup whipping cream \n2 bars cream cheese, softened\n¼ cup sugar\n¼ tsp. vanilla extract\n3 tbsps. gelatin\n3 tbsps. milk\n1 cup Cloud 9 Overload, chopped\n1 cup Cloud 9 Peanut Butter, chopped\n1 cup semi-sweet chocolate\n⅓ cup heavy cream",
+      "procedure": "In a bowl, combine crushed cookies and melted butter. Transfer to an 8 inch spring pan and press to the bottom to pack crust. Freeze to set for 1 hour.\nIn a mixing bowl, whip cream until it doubles in size In another bowl, beat together cream cheese, sugar and vanilla extract until smooth. Fold in whipped cream.\nDissolve gelatin in milk and add in the cream cheese mixture until smooth.\nFold in half of Cloud 9 Overload and Cloud 9 Peanut butter. Save other half for topping.\nFill the chilled crust with cream cheese mixture and refrigerate for 4 hours.\nSimmer heavy cream and stir occasionally. Pour over semi-sweet chocolate, cover and let sit for 3 minutes then mix until smooth.\nTransfer ganache in a squeeze bottle to create spider web top with the remaining chopped Cloud 9 Overload and Peanut Butter."
     },
     "photo": {
       "filename": "HA15.jpg",

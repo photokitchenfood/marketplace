@@ -11,7 +11,7 @@ const BREAKFAST_FAIR_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "Breakfast Fair",
-    "caption": "Moist, chocolate cupcakes paired with robust coffee make for a delightful duo, and in this recipe for Milo Coffee Cupcakes, you’re sure to enjoy both in this decadent breakfast treat!\nWe just love the signature malt chocolate flavor of Milo, and the addition of Nescafé gives these cupcakes that mocha-coffee kick that we often crave first thing in the morning! Prepare them in advance to enjoy before your day starts (just pipe the frosting before serving!), or have them with your afternoon coffee. Grab all the ingredients you need at #TheMarketplace!\n\nServing Time: 30-35 minutes\nYield: 12 cupcakes\nOptional: Once cool, top with chocolate frosting and a dusting of Milo powder. \n\nIngredients\n\n1 cup all-purpose flour \n⅔ cup Milo \n2 tbsps. cocoa powder\n1 cup brown sugar \n1 tsp. baking powder \n¼ tsp. salt \n1 (28g) pack Nescafé Original coffee \n½ cup warm water \n½ cup canola oil \n2 eggs \n1 tsp. vanilla \n\nProcedure\n\n1. Preheat oven to 175°C. Line a cupcake pan with liners.\n2. Whisk together flour, Milo, cocoa powder, brown sugar, baking powder and salt until well combined.\n3. Dissolve Nescafé coffee with warm water. Mix in oil, eggs and vanilla. \n4. Combine dry and wet ingredients. \n5. Fill each cupcake liner ½ full with the batter. Bake for 20-25 minutes, or until a cake tester inserted in the middle comes out clean. \n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Moist, chocolate cupcakes paired with robust coffee make for a delightful duo, and in this recipe for Milo Coffee Cupcakes, you’re sure to enjoy both in this decadent breakfast treat!\nWe just love the signature malt chocolate flavor of Milo, and the addition of Nescafé gives these cupcakes that mocha-coffee kick that we often crave first thing in the morning! Prepare them in advance to enjoy before your day starts (just pipe the frosting before serving!), or have them with your afternoon coffee. Grab all the ingredients you need at #TheMarketplace!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Nescafé",
       "Milo"
@@ -20,8 +20,8 @@ const BREAKFAST_FAIR_DATA = [
       "servingTime": "30-35 minutes",
       "yield": "12 cupcakes",
       "tips": "Once cool, top with chocolate frosting and a dusting of Milo powder.",
-      "ingredients": "Ingredients\n1 cup all-purpose flour \n⅔ cup Milo \n2 tbsps. cocoa powder\n1 cup brown sugar \n1 tsp. baking powder \n¼ tsp. salt \n1 (28g) pack Nescafé Original coffee \n½ cup warm water \n½ cup canola oil \n2 eggs \n1 tsp. vanilla",
-      "procedure": "Procedure\nPreheat oven to 175°C. Line a cupcake pan with liners. \nWhisk together flour, Milo, cocoa powder, brown sugar, baking powder and salt until well combined. \nDissolve Nescafé coffee with warm water. Mix in oil, eggs and vanilla. \nCombine dry and wet ingredients. \nFill each cupcake liner ½ full with the batter. Bake for 20-25 minutes, or until a cake tester inserted in the middle comes out clean."
+      "ingredients": "1 cup all-purpose flour \n⅔ cup Milo \n2 tbsps. cocoa powder\n1 cup brown sugar \n1 tsp. baking powder \n¼ tsp. salt \n1 (28g) pack Nescafé Original coffee \n½ cup warm water \n½ cup canola oil \n2 eggs \n1 tsp. vanilla",
+      "procedure": "Preheat oven to 175°C. Line a cupcake pan with liners. \nWhisk together flour, Milo, cocoa powder, brown sugar, baking powder and salt until well combined. \nDissolve Nescafé coffee with warm water. Mix in oil, eggs and vanilla. \nCombine dry and wet ingredients. \nFill each cupcake liner ½ full with the batter. Bake for 20-25 minutes, or until a cake tester inserted in the middle comes out clean."
     },
     "photo": {
       "filename": "BF1.jpg",
@@ -37,7 +37,7 @@ const BREAKFAST_FAIR_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "Breakfast Fair",
-    "caption": "Who says healthy can’t be tasty? Wake up to these nutritious and dairy-free Almond Chocolate Chia Pudding Cups made with Almond Breeze’s Chocolate Almond Milk.\nAlmonds contain a lot of healthy fats that lower blood sugar and blood pressure levels, while chia seeds are known to be a superfood that is rich in fibre and Omega-3 fatty acids. Sweetened with a touch of honey, what’s there to not love? All the ingredients you need are available at #TheMarketplace!\n\nServing Time: 2-3 hours\nYield: 2 glasses\n\nIngredients\n\n2 cups Almond Breeze Chocolate Almond Milk\n¼ cup chia seeds \n2 tbsps. honey\n¼ cup chocolate syrup \n2 tbsps. almonds, chopped\n\nProcedure\n\n1. Combine Almond Breeze Chocolate Almond Milk, chia seeds and honey. Chill for 2-3 hours, or until thickened.\n2. Divide chocolate syrup into two glasses, then top with the thickened chocolate chia pudding, then with almonds. \n3. Serve cold. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Who says healthy can’t be tasty? Wake up to these nutritious and dairy-free Almond Chocolate Chia Pudding Cups made with Almond Breeze’s Chocolate Almond Milk.\nAlmonds contain a lot of healthy fats that lower blood sugar and blood pressure levels, while chia seeds are known to be a superfood that is rich in fibre and Omega-3 fatty acids. Sweetened with a touch of honey, what’s there to not love? All the ingredients you need are available at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Almond Breeze"
     ],
@@ -45,8 +45,8 @@ const BREAKFAST_FAIR_DATA = [
       "servingTime": "2-3 hours",
       "yield": "2 glasses",
       "tips": "",
-      "ingredients": "Ingredients\n2 cups Almond Breeze Chocolate Almond Milk \n¼ cup chia seeds \n2 tbsps. honey\n¼ cup chocolate syrup \n2 tbsps. almonds, chopped",
-      "procedure": "Procedure\nCombine Almond Breeze Chocolate Almond Milk, chia seeds and honey. Chill for 2-3 hours, or until thickened. \nDivide chocolate syrup into two glasses, then top with the thickened chocolate chia pudding, then with almonds. \nServe cold."
+      "ingredients": "2 cups Almond Breeze Chocolate Almond Milk \n¼ cup chia seeds \n2 tbsps. honey\n¼ cup chocolate syrup \n2 tbsps. almonds, chopped",
+      "procedure": "Combine Almond Breeze Chocolate Almond Milk, chia seeds and honey. Chill for 2-3 hours, or until thickened. \nDivide chocolate syrup into two glasses, then top with the thickened chocolate chia pudding, then with almonds. \nServe cold."
     },
     "photo": {
       "filename": "BF2.jpg",
@@ -62,7 +62,7 @@ const BREAKFAST_FAIR_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "Breakfast Fair",
-    "caption": "Greet the day with a delicious, filling, and protein-packed breakfast!\nThese Corned Tuna Omelette Muffins are a cinch to prepare. We used San Marino Corned Tuna, which has the yummy taste of corned beef in tuna form. San Marino tuna contains less oil and more meat, so you’re sure to get a lot more Omega 3, which is good for the heart. \n\nDon’t forget to add the ingredients below to your cart the next time you shop at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 12 muffins\n\nIngredients\n\n6 eggs \n½ cup milk \n1 can San Marino Corned Tuna \n½ red bell pepper, diced\n½ green bell pepper, diced \n2 tbsps. parsley, chopped\nSalt and pepper to taste\n\nProcedure\n\n1. Preheat oven to 175°C. Grease a muffin or cupcake pan with non-stick spray. \n2. Whisk together eggs and milk. \n3. Mix in San Marino Corned Tuna, bell peppers and parsley. Season with salt and pepper.\n4. Divide egg mixture into the molds. Bake for 10-12 minutes, or until eggs are set.  \n\nPrefer to order your groceries online and have them delivered to you instead? Visit #TheMarketplace online at http://bit.ly/OrderTheMarketplace! Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Greet the day with a delicious, filling, and protein-packed breakfast!\nThese Corned Tuna Omelette Muffins are a cinch to prepare. We used San Marino Corned Tuna, which has the yummy taste of corned beef in tuna form. San Marino tuna contains less oil and more meat, so you’re sure to get a lot more Omega 3, which is good for the heart. \n\nDon’t forget to add the ingredients below to your cart the next time you shop at #TheMarketplace!\n\nPrefer to order your groceries online and have them delivered to you instead? Visit #TheMarketplace online at http://bit.ly/OrderTheMarketplace! Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "San Marino"
     ],
@@ -70,8 +70,8 @@ const BREAKFAST_FAIR_DATA = [
       "servingTime": "15 minutes",
       "yield": "12 muffins",
       "tips": "",
-      "ingredients": "Ingredients\n6 eggs \n½ cup milk \n1 can San Marino Corned Tuna \n½ red bell pepper, diced\n½ green bell pepper, diced \n2 tbsps. parsley, chopped\nSalt and pepper to taste",
-      "procedure": "Procedure\nPreheat oven to 175°C. Grease a muffin or cupcake pan with non-stick spray. \nWhisk together eggs and milk. \nMix in San Marino Corned Tuna, bell peppers and parsley. Season with salt and pepper. \nDivide egg mixture into the molds. Bake for 10-12 minutes, or until eggs are set."
+      "ingredients": "6 eggs \n½ cup milk \n1 can San Marino Corned Tuna \n½ red bell pepper, diced\n½ green bell pepper, diced \n2 tbsps. parsley, chopped\nSalt and pepper to taste",
+      "procedure": "Preheat oven to 175°C. Grease a muffin or cupcake pan with non-stick spray. \nWhisk together eggs and milk. \nMix in San Marino Corned Tuna, bell peppers and parsley. Season with salt and pepper. \nDivide egg mixture into the molds. Bake for 10-12 minutes, or until eggs are set."
     },
     "photo": {
       "filename": "BF3.jpg",
@@ -87,7 +87,7 @@ const BREAKFAST_FAIR_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "Breakfast Fair",
-    "caption": "Transform your Honey Stars into an all-star golden dessert with this recipe for Honey Stars Milkshake.\nOne of the most iconic (and yummy!) breakfast cereals around, this milkshake is a nostalgic treat for those who grew up enjoying Honey Stars and milk for breakfast, and for the young ones who’d like to enjoy their cereals differently. Packed with vitamins, minerals, and dietary fibres, Honey Stars are also made with whole grain and are bursting with luscious honey flavor. Make some this week and get your ingredients at #TheMarketplace today!\n\nServing Time: 5-7 minutes\nYield: 2 servings\n\nIngredients\n\n2 ½ cups Nestlé Honey Stars\n1 cup milk\n2 scoops vanilla ice cream\n2 tbsps. caramel syrup\nWhipped cream\n½ cup Nestlé Honey Stars\n\nProcedure\n\n1. In a bowl, soak 2 cups of Nestlé Honey Stars with milk. Reserve the remaining ½ cup for topping.\n2. Blend together Honey Stars in milk and vanilla ice cream.\n3. Drizzle the interior rim of your serving glass with caramel syrup. Transfer Honey Stars Milkshake into the glass.\n4. Top with whipped cream and Nestlé Honey Stars. \n\nPrefer to order your groceries online and have them delivered to you instead? Visit #TheMarketplace online at http://bit.ly/OrderTheMarketplace! Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Transform your Honey Stars into an all-star golden dessert with this recipe for Honey Stars Milkshake.\nOne of the most iconic (and yummy!) breakfast cereals around, this milkshake is a nostalgic treat for those who grew up enjoying Honey Stars and milk for breakfast, and for the young ones who’d like to enjoy their cereals differently. Packed with vitamins, minerals, and dietary fibres, Honey Stars are also made with whole grain and are bursting with luscious honey flavor. Make some this week and get your ingredients at #TheMarketplace today!\n\nPrefer to order your groceries online and have them delivered to you instead? Visit #TheMarketplace online at http://bit.ly/OrderTheMarketplace! Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Nestlé"
     ],
@@ -95,8 +95,8 @@ const BREAKFAST_FAIR_DATA = [
       "servingTime": "5-7 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 ½ cups Nestlé Honey Stars\n1 cup milk\n2 scoops vanilla ice cream\n2 tbsps. caramel syrup\nWhipped cream\n½ cup Nestlé Honey Stars",
-      "procedure": "Procedure\nIn a bowl, soak 2 cups of Nestlé Honey Stars with milk. Reserve the remaining ½ cup for topping. \nBlend together Honey Stars in milk and vanilla ice cream.\nDrizzle the interior rim of your serving glass with caramel syrup. Transfer Honey Stars Milkshake into the glass.\nTop with whipped cream and Nestlé Honey Stars."
+      "ingredients": "2 ½ cups Nestlé Honey Stars\n1 cup milk\n2 scoops vanilla ice cream\n2 tbsps. caramel syrup\nWhipped cream\n½ cup Nestlé Honey Stars",
+      "procedure": "In a bowl, soak 2 cups of Nestlé Honey Stars with milk. Reserve the remaining ½ cup for topping. \nBlend together Honey Stars in milk and vanilla ice cream.\nDrizzle the interior rim of your serving glass with caramel syrup. Transfer Honey Stars Milkshake into the glass.\nTop with whipped cream and Nestlé Honey Stars."
     },
     "photo": {
       "filename": "BF4.jpg",
@@ -112,7 +112,7 @@ const BREAKFAST_FAIR_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "Breakfast Fair",
-    "caption": "Got some extra slices of bread in your pantry? Whip up this super easy and delicious breakfast bread pudding made with Kellogg’s Mueslix! Keeping to the breakfast theme, we used the Raisin & Almond Crunch variant for this recipe. \nThis breakfast pudding contains all the comforting flavors of vanilla, bread, and butter, with a sprinkle of fibre thanks to Kellogg’s Mueslix. Add a dash of cinnamon sugar if you prefer! Get a box of Mueslix now at #TheMarketplace!\n\nServing Time: 15-20 minutes\nYield: 3-4 servings\n\nIngredients\n\n4 eggs\n1 cup milk\n2 tbsps. sugar\n1 tsp. vanilla\n4-6 pcs. bread, cubed\n1 tbsp. butter, softened\n⅓ cup Kellogg’s Mueslix \n\nProcedure\n\n1. Preheat oven to 175°C.\n2. In a mixing bowl, beat the eggs. Add in milk, sugar, and vanilla.\n3. Soak bread cubes in the batter,\n4. Brush a baking tray with butter, then transfer the soaked bread here. .\n5. Top with Kellogg’s Mueslix and bake for 13-15 minutes, or until set and golden brown on top. .\n\nNow you can order your groceries online via http://bit.ly/OrderTheMarketplace. Join our Viber community as well at http://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Got some extra slices of bread in your pantry? Whip up this super easy and delicious breakfast bread pudding made with Kellogg’s Mueslix! Keeping to the breakfast theme, we used the Raisin & Almond Crunch variant for this recipe. \nThis breakfast pudding contains all the comforting flavors of vanilla, bread, and butter, with a sprinkle of fibre thanks to Kellogg’s Mueslix. Add a dash of cinnamon sugar if you prefer! Get a box of Mueslix now at #TheMarketplace!\n\nNow you can order your groceries online via http://bit.ly/OrderTheMarketplace. Join our Viber community as well at http://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Kellogg's"
     ],
@@ -120,8 +120,8 @@ const BREAKFAST_FAIR_DATA = [
       "servingTime": "15-20 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n4 eggs\n1 cup milk\n2 tbsps. sugar\n1 tsp. vanilla\n4-6 pcs. bread, cubed\n1 tbsp. butter, softened\n⅓ cup Kellogg’s Mueslix",
-      "procedure": "Procedure\nPreheat oven to 175°C.\nIn a mixing bowl, beat the eggs. Add in milk, sugar, and vanilla.\nSoak bread cubes in the batter,\nBrush a baking tray with butter, then transfer the soaked bread here. .\nTop with Kellogg’s Mueslix and bake for 13-15 minutes, or until set and golden brown on top. ."
+      "ingredients": "4 eggs\n1 cup milk\n2 tbsps. sugar\n1 tsp. vanilla\n4-6 pcs. bread, cubed\n1 tbsp. butter, softened\n⅓ cup Kellogg’s Mueslix",
+      "procedure": "Preheat oven to 175°C.\nIn a mixing bowl, beat the eggs. Add in milk, sugar, and vanilla.\nSoak bread cubes in the batter,\nBrush a baking tray with butter, then transfer the soaked bread here. .\nTop with Kellogg’s Mueslix and bake for 13-15 minutes, or until set and golden brown on top. ."
     },
     "photo": {
       "filename": "BF5.jpg",
@@ -137,7 +137,7 @@ const BREAKFAST_FAIR_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "Breakfast Fair",
-    "caption": "We’re all used to enjoying oatmeal in sweeter forms—whether as a cookie or flavored with honey, cinnamon, or chocolate. Oatmeal can actually make as a fiber-rich substitute for grains and can be used for savory dishes as well!\nInstead of water, try cooking your Quaker Whole Grain Rolled Oats in chicken broth and serve with crispy bacon, hard boiled eggs, tomatoes, and spring onions for a tasty breakfast that comes packed with nutrients. Get all the ingredients you need fresh only at #TheMarketplace!\n\nServing Time: 10-15 minutes\nYield: 2 servings\n\nIngredients\n\n1 cup Quaker Whole Grain Rolled Oats\n1 cup chicken broth\nSalt & pepper to taste\n1/2 cup milk\n1 cup crispy bacon, chopped\n1 cup cherry tomatoes, halved\n2 eggs, hard boiled \n2 tbsps. spring onions, chopped\n\nProcedure\n\n1. Set a small pot over medium heat, then add Quaker Whole Grain Rolled Oats and chicken broth. Mix and let it simmer for 6-8 minutes, or until oats are cooked through.\n2. Turn off the heat, then add milk and season with salt and pepper.\n3. Divide into two bowls, then top each with crispy bacon, cherry tomatoes and eggs.\n4. Garnish with spring onions before serving.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "We’re all used to enjoying oatmeal in sweeter forms—whether as a cookie or flavored with honey, cinnamon, or chocolate. Oatmeal can actually make as a fiber-rich substitute for grains and can be used for savory dishes as well!\nInstead of water, try cooking your Quaker Whole Grain Rolled Oats in chicken broth and serve with crispy bacon, hard boiled eggs, tomatoes, and spring onions for a tasty breakfast that comes packed with nutrients. Get all the ingredients you need fresh only at #TheMarketplace!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Quaker"
     ],
@@ -145,8 +145,8 @@ const BREAKFAST_FAIR_DATA = [
       "servingTime": "10-15 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup Quaker Whole Grain Rolled Oats\n1 cup chicken broth\nSalt & pepper to taste\n1/2 cup milk\n1 cup crispy bacon, chopped\n1 cup cherry tomatoes, halved\n2 eggs, hard boiled \n2 tbsps. spring onions, chopped",
-      "procedure": "Procedure\nSet a small pot over medium heat, then add Quaker Whole Grain Rolled Oats and chicken broth. Mix and let it simmer for 6-8 minutes, or until oats are cooked through.\nTurn off the heat, then add milk and season with salt and pepper.\nDivide into two bowls, then top each with crispy bacon, cherry tomatoes and eggs.\nGarnish with spring onions before serving."
+      "ingredients": "1 cup Quaker Whole Grain Rolled Oats\n1 cup chicken broth\nSalt & pepper to taste\n1/2 cup milk\n1 cup crispy bacon, chopped\n1 cup cherry tomatoes, halved\n2 eggs, hard boiled \n2 tbsps. spring onions, chopped",
+      "procedure": "Set a small pot over medium heat, then add Quaker Whole Grain Rolled Oats and chicken broth. Mix and let it simmer for 6-8 minutes, or until oats are cooked through.\nTurn off the heat, then add milk and season with salt and pepper.\nDivide into two bowls, then top each with crispy bacon, cherry tomatoes and eggs.\nGarnish with spring onions before serving."
     },
     "photo": {
       "filename": "BF6.jpg",
@@ -181,7 +181,7 @@ const BREAKFAST_FAIR_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "Breakfast Fair",
-    "caption": "They say that you’ve never truly had a mango until you’ve had a Philippine mango, and we couldn’t agree more! While mangoes are still in season, transport yourself to a tropical haven with this Mango Kiwi Yoghurt Parfait made with Nestlé Heavenly Mango Yogurt!\nWith vibrant colours and flavors, each bite is tangy, refreshing, and delicious. Don’t forget to add a sprinkle of coconut flakes! Shop all the ingredients you need at #TheMarketplace.\n\nServing Time: 5 minutes\nYield: 2 servings\n\nIngredients\n\n1 ½ cup granola\n1 (500g) pack Nestlé Heavenly Mango Yogurt\n½ cup kiwi, diced\n½ cup mango, diced\n2 tbsps. coconut flakes\n\nProcedure\n\n1. Fill the bottom of a dessert glass with granola, then top with Nestlé Heavenly Mango Yogurt. Repeat to create 2 layers of each.\n2. Top with kiwi and mangoes. Garnish with coconut flakes.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "They say that you’ve never truly had a mango until you’ve had a Philippine mango, and we couldn’t agree more! While mangoes are still in season, transport yourself to a tropical haven with this Mango Kiwi Yoghurt Parfait made with Nestlé Heavenly Mango Yogurt!\nWith vibrant colours and flavors, each bite is tangy, refreshing, and delicious. Don’t forget to add a sprinkle of coconut flakes! Shop all the ingredients you need at #TheMarketplace.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Nestlé"
     ],
@@ -189,8 +189,8 @@ const BREAKFAST_FAIR_DATA = [
       "servingTime": "5 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 ½ cup granola\n1 (500g) pack Nestlé Heavenly Mango Yogurt\n½ cup kiwi, diced\n½ cup mango, diced\n2 tbsps. coconut flakes",
-      "procedure": "Procedure\nFill the bottom of a dessert glass with granola, then top with Nestlé Heavenly Mango Yogurt. Repeat to create 2 layers of each.\nTop with kiwi and mangoes. Garnish with coconut flakes."
+      "ingredients": "1 ½ cup granola\n1 (500g) pack Nestlé Heavenly Mango Yogurt\n½ cup kiwi, diced\n½ cup mango, diced\n2 tbsps. coconut flakes",
+      "procedure": "Fill the bottom of a dessert glass with granola, then top with Nestlé Heavenly Mango Yogurt. Repeat to create 2 layers of each.\nTop with kiwi and mangoes. Garnish with coconut flakes."
     },
     "photo": {
       "filename": "BF8.jpg",
@@ -206,7 +206,7 @@ const BREAKFAST_FAIR_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "Breakfast Fair",
-    "caption": "If you’re looking for a healthier dip that’s tangy and has a kick of spice, check out this recipe for our Spiced Yoghurt Dip that’s made with Parmalat Plain Yoghurt.\nApart from being lower in fat and rich in probiotics to support gut health, yoghurt is a great ingredient to have for smoothies, shakes, and as a healthier alternative to sour cream. Prepare this dip in advance and store it in your fridge as a grab-and-go dip that’s perfect with almost anything! Have it with chips, toast, or even crudités to spice up your snack-time. All ingredients are available at #TheMarketplace!\n\nServing Time: 5 minutes\nYield: 2-3 servings\n\nIngredients\n\n2 (100g) packs Parmalat Plain Yoghurt \n½ tsp. paprika \n½ tsp. cumin \n1 tsp. salt \n1 tbsp. cilantro, chopped \n\nProcedure\n\n1. Combine Parmalat Plain Yoghurt, paprika, cumin, salt and cilantro. \n2. Serve with crudités and toasted bread. \n\nDid you know? You can now get your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "If you’re looking for a healthier dip that’s tangy and has a kick of spice, check out this recipe for our Spiced Yoghurt Dip that’s made with Parmalat Plain Yoghurt.\nApart from being lower in fat and rich in probiotics to support gut health, yoghurt is a great ingredient to have for smoothies, shakes, and as a healthier alternative to sour cream. Prepare this dip in advance and store it in your fridge as a grab-and-go dip that’s perfect with almost anything! Have it with chips, toast, or even crudités to spice up your snack-time. All ingredients are available at #TheMarketplace!\n\nDid you know? You can now get your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Parmalat"
     ],
@@ -214,8 +214,8 @@ const BREAKFAST_FAIR_DATA = [
       "servingTime": "5 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 (100g) packs Parmalat Plain Yoghurt \n½ tsp. paprika \n½ tsp. cumin \n1 tsp. salt \n1 tbsp. cilantro, chopped",
-      "procedure": "Procedure\nCombine Parmalat Plain Yoghurt, paprika, cumin, salt and cilantro. \nServe with crudites and toasted bread."
+      "ingredients": "2 (100g) packs Parmalat Plain Yoghurt \n½ tsp. paprika \n½ tsp. cumin \n1 tsp. salt \n1 tbsp. cilantro, chopped",
+      "procedure": "Combine Parmalat Plain Yoghurt, paprika, cumin, salt and cilantro. \nServe with crudites and toasted bread."
     },
     "photo": {
       "filename": "BF9.jpg",
@@ -250,7 +250,7 @@ const BREAKFAST_FAIR_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "Breakfast Fair",
-    "caption": "Waking up to the aroma of freshly-made pancakes and coffee is one of the best ways to greet the day, don’t you agree?\nIf you do, then these Chocolate Chip Coffee Pancakes are sure to perk you up! Indulge in the comfort of home-style chocolate chip pancakes with a kick of coffee using Great Taste Coffee Powder! All the ingredients you need are available at #TheMarketplace.\n\nServing Time: 12-15 minutes\nYield: 4-6 pieces\nOptional: Top with preferred nuts and a dusting of powdered sugar.  \n\nIngredients\n\n2 tbsps. Great Taste Premium coffee \n1 cup milk, warmed \n1 egg \n3 tbsps. butter, melted \n½ tsp. vanilla\n1 ¼ cup all-purpose flour \n2 tbsps. brown sugar \n¼ tsp. salt \n2 tsps. baking powder \n¼ cup chocolate chips\n\nProcedure\n\n1. Dissolve Great Taste Premium coffee in milk. Whisk in egg, butter and vanilla. \n2. In a separate bowl, whisk together flour, sugar, salt and baking powder. \n3. Combine the wet and dry ingredients. \n4. Heat up a non-stick frying pan over medium-low heat. Drop ¼ cup of the batter, and let cook until bubbles start to appear on top. Flip, and cook for 1 more minute. Repeat for the remaining batter. \n5. Top with chocolate chips. \n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Waking up to the aroma of freshly-made pancakes and coffee is one of the best ways to greet the day, don’t you agree?\nIf you do, then these Chocolate Chip Coffee Pancakes are sure to perk you up! Indulge in the comfort of home-style chocolate chip pancakes with a kick of coffee using Great Taste Coffee Powder! All the ingredients you need are available at #TheMarketplace.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Great Taste"
     ],
@@ -258,8 +258,8 @@ const BREAKFAST_FAIR_DATA = [
       "servingTime": "12-15 minutes",
       "yield": "4-6 pieces",
       "tips": "Top with preferred nuts and a dusting of powdered sugar.",
-      "ingredients": "Ingredients\n2 tbsps. Great Taste Premium coffee \n1 cup milk, warmed \n1 egg \n3 tbsps. butter, melted \n½ tsp. vanilla\n1 ¼ cup all-purpose flour \n2 tbsps. brown sugar \n¼ tsp. salt \n2 tsps. baking powder \n¼ cup chocolate chips",
-      "procedure": "Procedure\nDissolve Great Taste Premium coffee in milk. Whisk in egg, butter and vanilla. \nIn a separate bowl, whisk together flour, sugar, salt and baking powder. \nCombine the wet and dry ingredients. \nHeat up a non-stick frying pan over medium-low heat. Drop ¼ cup of the batter, and let cook until bubbles start to appear on top. Flip, and cook for 1 more minute. Repeat for the remaining batter. \nTop with chocolate chips."
+      "ingredients": "2 tbsps. Great Taste Premium coffee \n1 cup milk, warmed \n1 egg \n3 tbsps. butter, melted \n½ tsp. vanilla\n1 ¼ cup all-purpose flour \n2 tbsps. brown sugar \n¼ tsp. salt \n2 tsps. baking powder \n¼ cup chocolate chips",
+      "procedure": "Dissolve Great Taste Premium coffee in milk. Whisk in egg, butter and vanilla. \nIn a separate bowl, whisk together flour, sugar, salt and baking powder. \nCombine the wet and dry ingredients. \nHeat up a non-stick frying pan over medium-low heat. Drop ¼ cup of the batter, and let cook until bubbles start to appear on top. Flip, and cook for 1 more minute. Repeat for the remaining batter. \nTop with chocolate chips."
     },
     "photo": {
       "filename": "BF11.jpg",
@@ -275,7 +275,7 @@ const BREAKFAST_FAIR_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "Breakfast Fair",
-    "caption": "Coffee is essential to have with breakfast, and if you love French Toast, here’s a fun recipe for Hazelnut Coffee French Toast made with Old Town White Coffee Dark Roast in Hazelnut flavor!\nOriginating from Malaysia, White Coffee (or Ipoh Coffee in the local dialect), is made with coffee beans that are roasted with margarine and served with condensed milk afterwards. The result is a thicker, richer, and creamier brew. Because it’s on the sweeter side, it’s the perfect coffee to make this French toast recipe. Find Old Town White Coffee products along with other international coffee brands at #TheMarketplace!\n\nServing Time: 12-15 minutes\nYield: 4 pieces\nOptional: Top with whipped cream and toasted hazelnuts. \n\nIngredients\n\n1 pack Old Town White Coffee (Dark Roast Hazelnut) \n1 cup milk, warmed\n2 eggs \n1 tsp. vanilla \n4 pcs. white bread \n2 tbsps. butter\n\nProcedure\n\n1. Dissolve Old Town White Coffee in milk. Whisk in eggs and vanilla.\n2. Coat bread slices well in the coffee-milk mixture.\n3. Heat up a skillet over medium-low heat. Grease with butter, then fry one bread at a time until nicely browned on both sides. \nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Coffee is essential to have with breakfast, and if you love French Toast, here’s a fun recipe for Hazelnut Coffee French Toast made with Old Town White Coffee Dark Roast in Hazelnut flavor!\nOriginating from Malaysia, White Coffee (or Ipoh Coffee in the local dialect), is made with coffee beans that are roasted with margarine and served with condensed milk afterwards. The result is a thicker, richer, and creamier brew. Because it’s on the sweeter side, it’s the perfect coffee to make this French toast recipe. Find Old Town White Coffee products along with other international coffee brands at #TheMarketplace!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Old Town"
     ],
@@ -283,8 +283,8 @@ const BREAKFAST_FAIR_DATA = [
       "servingTime": "12-15 minutes",
       "yield": "4 pieces",
       "tips": "Top with whipped cream and toasted hazelnuts.",
-      "ingredients": "Ingredients\n1 pack Old Town White Coffee (Dark Roast Hazelnut) \n1 cup milk, warmed\n2 eggs \n1 tsp. vanilla \n4 pcs. white bread \n2 tbsps. butter",
-      "procedure": "Procedure\nDissolve Old Town White Coffee in milk. Whisk in eggs and vanilla. \nCoat bread slices well in the coffee-milk mixture. \nHeat up a skillet over medium-low heat. Grease with butter, then fry one bread at a time until nicely browned on both sides."
+      "ingredients": "1 pack Old Town White Coffee (Dark Roast Hazelnut) \n1 cup milk, warmed\n2 eggs \n1 tsp. vanilla \n4 pcs. white bread \n2 tbsps. butter",
+      "procedure": "Dissolve Old Town White Coffee in milk. Whisk in eggs and vanilla. \nCoat bread slices well in the coffee-milk mixture. \nHeat up a skillet over medium-low heat. Grease with butter, then fry one bread at a time until nicely browned on both sides."
     },
     "photo": {
       "filename": "BF12.jpg",
@@ -300,7 +300,7 @@ const BREAKFAST_FAIR_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "Breakfast Fair",
-    "caption": "Thinking of a delicious way to jazz up your coffee? \nSimply blitz some brewed Gourmet Farms Premium Blend Coffee along with frozen bananas, peanut butter, and cacao powder to create this yummy and filling Coffee Smoothie that you can enjoy any time of the day. Find all the ingredients you need at #TheMarketplace!\n\nServing Time: 5 minutes\nYield: 1-2 servings\n\nIngredients\n\n1 cup Gourmet Farms Premium Blend Coffee, brewed\n2 pcs. frozen bananas\n3 tbsps. peanut butter\n1 tsp. cacao powder\n\nProcedure\n\n1. In a blender, combine brewed Gourmet Farms Premium Blend Coffee, frozen bananas and peanut butter.\n2. Transfer to a serving glass,  then dust with cacao powder on top.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Thinking of a delicious way to jazz up your coffee? \nSimply blitz some brewed Gourmet Farms Premium Blend Coffee along with frozen bananas, peanut butter, and cacao powder to create this yummy and filling Coffee Smoothie that you can enjoy any time of the day. Find all the ingredients you need at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Gourmet Farms"
     ],
@@ -308,8 +308,8 @@ const BREAKFAST_FAIR_DATA = [
       "servingTime": "5 minutes",
       "yield": "1-2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup Gourmet Farms Premium Blend Coffee, brewed\n2 pcs. frozen bananas\n3 tbsps. peanut butter\n1 tsp. cacao powder",
-      "procedure": "Procedure\nIn a blender, combine brewed Gourmet Farms Premium Blend Coffee, frozen bananas and peanut butter.\nTransfer to a serving glass,  then dust with cacao powder on top."
+      "ingredients": "1 cup Gourmet Farms Premium Blend Coffee, brewed\n2 pcs. frozen bananas\n3 tbsps. peanut butter\n1 tsp. cacao powder",
+      "procedure": "In a blender, combine brewed Gourmet Farms Premium Blend Coffee, frozen bananas and peanut butter.\nTransfer to a serving glass,  then dust with cacao powder on top."
     },
     "photo": {
       "filename": "BF13.jpg",
@@ -325,7 +325,7 @@ const BREAKFAST_FAIR_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "Breakfast Fair",
-    "caption": "Find yourself caught in an afternoon slump?\nPrepare these Cranberry Pumpkin Seed Energy Balls ahead of time and snack on them whenever you want! Using Nestlé Fitnesse Cranberry & Seeds Granola, some peanut butter, and melted white chocolate, these energy balls are sure to give you that much-needed productivity boost, any time of the day. Add them to your cart the next time you shop at #TheMarketplace!\n\nServing Time: 30-35 minutes\nYield: 10-12 pieces \n\nIngredients\n\n¾ cup white chocolate, chopped\n1 cup peanut butter \n2 cups Fitnesse Granola (Cranberry & Seeds) \n\nProcedure\n\n1. Microwave white chocolate in 30-second intervals until melted. Whisk in peanut butter and mix until smooth.\n2. Add Fitnesse Granola and mix well until granola is well-coated. \n3. Scoop into balls. Chill for 20-30 minutes, or until firm. \n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Find yourself caught in an afternoon slump?\nPrepare these Cranberry Pumpkin Seed Energy Balls ahead of time and snack on them whenever you want! Using Nestlé Fitnesse Cranberry & Seeds Granola, some peanut butter, and melted white chocolate, these energy balls are sure to give you that much-needed productivity boost, any time of the day. Add them to your cart the next time you shop at #TheMarketplace!\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Nestlé",
       "Fitnesse"
@@ -334,8 +334,8 @@ const BREAKFAST_FAIR_DATA = [
       "servingTime": "30-35 minutes",
       "yield": "10-12 pieces",
       "tips": "",
-      "ingredients": "Ingredients\n¾ cup white chocolate, chopped\n1 cup peanut butter \n2 cups Fitnesse Granola (Cranberry & Seeds)",
-      "procedure": "Procedure\nMicrowave white chocolate in 30-second intervals until melted. Whisk in peanut butter and mix until smooth. \nAdd Fitnesse Granola and mix well until granola is well-coated. \nScoop into balls. Chill for 20-30 minutes, or until firm."
+      "ingredients": "¾ cup white chocolate, chopped\n1 cup peanut butter \n2 cups Fitnesse Granola (Cranberry & Seeds)",
+      "procedure": "Microwave white chocolate in 30-second intervals until melted. Whisk in peanut butter and mix until smooth. \nAdd Fitnesse Granola and mix well until granola is well-coated. \nScoop into balls. Chill for 20-30 minutes, or until firm."
     },
     "photo": {
       "filename": "BF14.jpg",
@@ -370,7 +370,7 @@ const BREAKFAST_FAIR_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "Breakfast Fair",
-    "caption": "Perfect for brunch (or any time of the day, really), this Breakfast Pizza made with Eden Melt Sarap cheese is loaded with tasty breakfast faves such as sausages, eggs, and tomatoes! Get creative and substitute the sausages with longganisa and add some garlic slices for a Filipino twist.\nFind all the ingredients you need and other breakfast stapes at #TheMarketplace! \n\nServing Time: 20-25 minutes\nYield: 3-4 servings\n\nIngredients\n\n1 ready-made pizza crust\n½ cup marinara sauce\n1 cup Eden Melt Sarap, grated\n2 eggs\n1 cup sausages, cooked and sliced\n1 cup cherry tomatoes, halved\nBasil leaves for garnish\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. Place the pizza crust on a baking sheet. Spread marinara sauce on the pizza crust.\n3. Sprinkle with Eden Melt Sarap, then crack the eggs on top of the pizza.\n4. Top with sausages and cherry tomatoes.\n5. Bake for 12-15 minutes. Garnish with basil leaves before serving.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Perfect for brunch (or any time of the day, really), this Breakfast Pizza made with Eden Melt Sarap cheese is loaded with tasty breakfast faves such as sausages, eggs, and tomatoes! Get creative and substitute the sausages with longganisa and add some garlic slices for a Filipino twist.\nFind all the ingredients you need and other breakfast stapes at #TheMarketplace!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Eden"
     ],
@@ -378,8 +378,8 @@ const BREAKFAST_FAIR_DATA = [
       "servingTime": "20-25 minutes",
       "yield": "3-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 ready-made pizza crust\n½ cup marinara sauce\n1 cup Eden Melt Sarap, grated\n2 eggs\n1 cup sausages, cooked and sliced\n1 cup cherry tomatoes, halved\nBasil leaves for garnish",
-      "procedure": "Procedure\nPreheat oven to 175°C.\nPlace the pizza crust on a baking sheet. Spread marinara sauce on the pizza crust.\nSprinkle with Eden Melt Sarap, then crack the eggs on top of the pizza.\nTop with sausages and cherry tomatoes.\nBake for 12-15 minutes. Garnish with basil leaves before serving."
+      "ingredients": "1 ready-made pizza crust\n½ cup marinara sauce\n1 cup Eden Melt Sarap, grated\n2 eggs\n1 cup sausages, cooked and sliced\n1 cup cherry tomatoes, halved\nBasil leaves for garnish",
+      "procedure": "Preheat oven to 175°C.\nPlace the pizza crust on a baking sheet. Spread marinara sauce on the pizza crust.\nSprinkle with Eden Melt Sarap, then crack the eggs on top of the pizza.\nTop with sausages and cherry tomatoes.\nBake for 12-15 minutes. Garnish with basil leaves before serving."
     },
     "photo": {
       "filename": "BF16.jpg",
@@ -414,7 +414,7 @@ const BREAKFAST_FAIR_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "high",
     "campaign": "Breakfast Fair",
-    "caption": "If you’re fond of of Hunt’s Pork and Beans, then you’ll love this recipe for Baked Eggs & Beans that’s perfect for the weekend! The addition of sausages, onions, cilantro, and eggs transforms this pantry staple into a hearty and filling breakfast.\n\nServed best with some warm, toasted bread. Get all the ingredients you need today at #TheMarketplace!\n\nServing Time: 15-20 minutes\nYield: 2 servings\nOptional: Serve with toasted bread for dipping. \n\nIngredients\n\n1 tbsp. oil \n¼ cup onions, diced\n½ cup sausages, diced\n1 can (390g) Hunt’s Pork and Beans\n2 eggs\nCilantro leaves for garnish\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. Set a pan over medium heat. Add oil and sauté onions until soft and translucent. Add sausages, and cook until nicely browned. \n3. Add in Hunt’s Pork and Beans. Mix, then let simmer for 3 minutes. Turn off heat.\n4. Carefully pour eggs on top of the pork and beans. Bake for 8-10 minutes. \n5. Top with cilantro leaves before serving.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "If you’re fond of of Hunt’s Pork and Beans, then you’ll love this recipe for Baked Eggs & Beans that’s perfect for the weekend! The addition of sausages, onions, cilantro, and eggs transforms this pantry staple into a hearty and filling breakfast.\n\nServed best with some warm, toasted bread. Get all the ingredients you need today at #TheMarketplace!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Hunt’s"
     ],
@@ -422,8 +422,8 @@ const BREAKFAST_FAIR_DATA = [
       "servingTime": "15-20 minutes",
       "yield": "2 servings",
       "tips": "Serve with toasted bread for dipping.",
-      "ingredients": "Ingredients\n1 tbsp. oil \n¼ cup onions, diced\n½ cup sausages, diced\n1 can (390g) Hunt’s Pork and Beans\n2 eggs\nCilantro leaves for garnish",
-      "procedure": "Procedure\nPreheat oven to 175°C.\nSet a pan over medium heat. Add oil and sauté onions until soft and translucent. Add sausages, and cook until nicely browned. \nAdd in Hunt’s Pork and Beans. Mix, then let simmer for 3 minutes. Turn off heat.\nCarefully pour eggs on top of the pork and beans. Bake for 8-10 minutes. \nTop with cilantro leaves before serving."
+      "ingredients": "1 tbsp. oil \n¼ cup onions, diced\n½ cup sausages, diced\n1 can (390g) Hunt’s Pork and Beans\n2 eggs\nCilantro leaves for garnish",
+      "procedure": "Preheat oven to 175°C.\nSet a pan over medium heat. Add oil and sauté onions until soft and translucent. Add sausages, and cook until nicely browned. \nAdd in Hunt’s Pork and Beans. Mix, then let simmer for 3 minutes. Turn off heat.\nCarefully pour eggs on top of the pork and beans. Bake for 8-10 minutes. \nTop with cilantro leaves before serving."
     },
     "photo": {
       "filename": "BF18.jpg",

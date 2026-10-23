@@ -19,8 +19,8 @@ const FEBRUARY_IG_DATA = [
       "servingTime": "— 1 hour",
       "yield": "— 16 bars",
       "tips": "—",
-      "ingredients": "Ingredients\nCrust: \n2 cups all-purpose flour \n1 cup almond flour \n⅓ cup powdered milk \n⅓ cup Diabetasol Sweetener \n½ tsp. salt \n½ cup butter, melted\nLemon Custard:\n1 cup lemon juice \n¾ cup Diabetasol Sweetener  \n1 tbsp. cornstarch \n5 eggs \n2 egg yolks",
-      "procedure": "Procedure\nWhisk together all crust ingredients except melted butter. Once all the dry ingredients are well incorporated, mix in melted butter. \nTransfer crust mixture into a lined 9x9-inch pan. Press firmly until leveled. \nBake at 175C for 8-10 minutes. Let cool. \nWhile crust is baking, whisk together all of the lemon custard ingredients. Pour over the cooled crust and bake at 175C for 25-30 minutes. \nLet cool before dusting with more Diabetasol Sweetener on top."
+      "ingredients": "Crust: \n2 cups all-purpose flour \n1 cup almond flour \n⅓ cup powdered milk \n⅓ cup Diabetasol Sweetener \n½ tsp. salt \n½ cup butter, melted\nLemon Custard:\n1 cup lemon juice \n¾ cup Diabetasol Sweetener  \n1 tbsp. cornstarch \n5 eggs \n2 egg yolks",
+      "procedure": "Whisk together all crust ingredients except melted butter. Once all the dry ingredients are well incorporated, mix in melted butter. \nTransfer crust mixture into a lined 9x9-inch pan. Press firmly until leveled. \nBake at 175C for 8-10 minutes. Let cool. \nWhile crust is baking, whisk together all of the lemon custard ingredients. Pour over the cooled crust and bake at 175C for 25-30 minutes. \nLet cool before dusting with more Diabetasol Sweetener on top."
     },
     "photo": {
       "filename": "IG1.jpg",
@@ -44,8 +44,8 @@ const FEBRUARY_IG_DATA = [
       "servingTime": "— 12 minutes",
       "yield": "— 3 bowls/ serves 3",
       "tips": "— This may also be pan-fried.",
-      "ingredients": "Ingredients\n3 packs Mi Sedaap Korean Spicy Chicken Noodles \n3 eggs \n1 cucumber, sliced into strips \n1 cup lettuce, shredded \n1 cup kimchi \n3 tbsps. crunchy nori \n3 tbsps. sesame seeds, toasted",
-      "procedure": "Procedure\nCook Mi Sedaap Korean Spicy Chicken Noodles according to package directions. \nBoil eggs until desired doneness is reached. \nDivide cooked Mi Sedaap noodles into three bowls. Top each with halved boiled eggs, cucumber strips, shredded lettuce, kimchi, crunchy nori, and sesame seeds."
+      "ingredients": "3 packs Mi Sedaap Korean Spicy Chicken Noodles \n3 eggs \n1 cucumber, sliced into strips \n1 cup lettuce, shredded \n1 cup kimchi \n3 tbsps. crunchy nori \n3 tbsps. sesame seeds, toasted",
+      "procedure": "Cook Mi Sedaap Korean Spicy Chicken Noodles according to package directions. \nBoil eggs until desired doneness is reached. \nDivide cooked Mi Sedaap noodles into three bowls. Top each with halved boiled eggs, cucumber strips, shredded lettuce, kimchi, crunchy nori, and sesame seeds."
     },
     "photo": {
       "filename": "IG2.jpg",
@@ -69,8 +69,8 @@ const FEBRUARY_IG_DATA = [
       "servingTime": "— 45 minutes",
       "yield": "— 4pcs",
       "tips": "—",
-      "ingredients": "Ingredients\n4 pcs. chicken breast \nSalt & pepper to taste \n1 tbsp. lemon juice \n1 tsp. paprika \n2 cups panko breadcrumbs \n¼ cup parmesan cheese \n1 cup Heinz Seriously Good Mayonnaise \nCooking spray \nHoney Mustard: \n¼ cup Heinz Seriously Good Mayonnaise \n1 tbsp. mustard \n1 tbsp. honey \nSalt & pepper to taste",
-      "procedure": "Procedure\nSeason chicken breast pieces with salt, pepper, lemon juice, and paprika. Let marinate for 30 minutes. \nCombine together panko breadcrumbs and parmesan cheese. Season with salt and pepper. \nDrain off excess liquid from the marinated chicken pieces. Generously coat each piece with mayonnaise—about ½ cup each. Coat each piece with the parmesan breadcrumbs. \nTransfer breaded chicken pieces into a lined baking pan. Coat with a light layer of cooking spray. \nBake at 190C for 30-35 minutes. \nMeanwhile, whisk together honey mustard ingredients. Serve."
+      "ingredients": "4 pcs. chicken breast \nSalt & pepper to taste \n1 tbsp. lemon juice \n1 tsp. paprika \n2 cups panko breadcrumbs \n¼ cup parmesan cheese \n1 cup Heinz Seriously Good Mayonnaise \nCooking spray \nHoney Mustard: \n¼ cup Heinz Seriously Good Mayonnaise \n1 tbsp. mustard \n1 tbsp. honey \nSalt & pepper to taste",
+      "procedure": "Season chicken breast pieces with salt, pepper, lemon juice, and paprika. Let marinate for 30 minutes. \nCombine together panko breadcrumbs and parmesan cheese. Season with salt and pepper. \nDrain off excess liquid from the marinated chicken pieces. Generously coat each piece with mayonnaise—about ½ cup each. Coat each piece with the parmesan breadcrumbs. \nTransfer breaded chicken pieces into a lined baking pan. Coat with a light layer of cooking spray. \nBake at 190C for 30-35 minutes. \nMeanwhile, whisk together honey mustard ingredients. Serve."
     },
     "photo": {
       "filename": "IG3.jpg",
@@ -132,8 +132,8 @@ const FEBRUARY_IG_DATA = [
       "servingTime": "— 1 hour",
       "yield": "— 1 whole chicken/ serve 4-6",
       "tips": "—",
-      "ingredients": "Ingredients\n¼ cup oil \n1 pc. Magnolia Whole Chicken\n1 tsp. ginger, grated \n5 cloves garlic, minced \n1 red onion, minced \n3 red chilis, sliced\n3 tbsps. green curry paste \n2 tbsps. brown sugar \n2 cups coconut cream \n½ cup curry leaves \n1 bundle lemongrass\n¼ cup lime juice \n¼ cup fish sauce \nSalt & pepper to taste",
-      "procedure": "Procedure\nIn a large pot, heat up oil over medium high heat. Sear chicken while turning frequently to brown all sides. Set aside chicken while keeping the oil in the pot.  \nIn the same pot, sauté ginger, garlic, onion and chili until soft. Mix in curry paste and sugar. Sauté for about 2 minutes more. \nMix in coconut cream, curry leaves and lemongrass. Season with lime juice, fish sauce, salt and pepper. \nAdd back chicken and bring to a simmer. Cook covered for 30 minutes."
+      "ingredients": "¼ cup oil \n1 pc. Magnolia Whole Chicken\n1 tsp. ginger, grated \n5 cloves garlic, minced \n1 red onion, minced \n3 red chilis, sliced\n3 tbsps. green curry paste \n2 tbsps. brown sugar \n2 cups coconut cream \n½ cup curry leaves \n1 bundle lemongrass\n¼ cup lime juice \n¼ cup fish sauce \nSalt & pepper to taste",
+      "procedure": "In a large pot, heat up oil over medium high heat. Sear chicken while turning frequently to brown all sides. Set aside chicken while keeping the oil in the pot.  \nIn the same pot, sauté ginger, garlic, onion and chili until soft. Mix in curry paste and sugar. Sauté for about 2 minutes more. \nMix in coconut cream, curry leaves and lemongrass. Season with lime juice, fish sauce, salt and pepper. \nAdd back chicken and bring to a simmer. Cook covered for 30 minutes."
     },
     "photo": {
       "filename": "IG6.jpg",
@@ -157,8 +157,8 @@ const FEBRUARY_IG_DATA = [
       "servingTime": "— 10 minutes",
       "yield": "— 2pcs/ serves 2",
       "tips": "—",
-      "ingredients": "Ingredients\n1 cup strawberries, sliced \n2 tbsps. white sugar \n2 pcs Monde Special Strawberry Mamon\n½ cup whipped cream",
-      "procedure": "Procedure\nMix together sugar and strawberries. Let stand for 5 minutes. \nHalve each strawberry mamon horizontally. \nTop each mamon slice with some whipped cream—about ¼cup each. Top with strawberries and another mamon slice."
+      "ingredients": "1 cup strawberries, sliced \n2 tbsps. white sugar \n2 pcs Monde Special Strawberry Mamon\n½ cup whipped cream",
+      "procedure": "Mix together sugar and strawberries. Let stand for 5 minutes. \nHalve each strawberry mamon horizontally. \nTop each mamon slice with some whipped cream—about ¼cup each. Top with strawberries and another mamon slice."
     },
     "photo": {
       "filename": "IG7.jpg",
@@ -184,8 +184,8 @@ const FEBRUARY_IG_DATA = [
       "servingTime": "— 30 minutes",
       "yield": "— 1 glass",
       "tips": "—",
-      "ingredients": "Ingredients\n½ cup dark chocolate, melted \n2 tbsps. walnuts, chopped \n1 bottle Mars Galaxy drink \n2 scoops chocolate ice cream \n½ Mars bar \n¼ cup whipped cream \n3 pcs Pocky sticks \n1 pc Oreo \n1 pc wafer stick",
-      "procedure": "Procedure\nDip the lip of your milkshake glass into the melted chocolate. Invert and sprinkle walnuts on the chocolate. Chill to set. \nMeanwhile, blend together Mars Galaxy Drink and chocolate ice cream. \nTransfer milkshake into the chocolate-coated glass. Top with whipped cream, Mars bar, Pocky Sticks, Oreo and wafer stick."
+      "ingredients": "½ cup dark chocolate, melted \n2 tbsps. walnuts, chopped \n1 bottle Mars Galaxy drink \n2 scoops chocolate ice cream \n½ Mars bar \n¼ cup whipped cream \n3 pcs Pocky sticks \n1 pc Oreo \n1 pc wafer stick",
+      "procedure": "Dip the lip of your milkshake glass into the melted chocolate. Invert and sprinkle walnuts on the chocolate. Chill to set. \nMeanwhile, blend together Mars Galaxy Drink and chocolate ice cream. \nTransfer milkshake into the chocolate-coated glass. Top with whipped cream, Mars bar, Pocky Sticks, Oreo and wafer stick."
     },
     "photo": {
       "filename": "IG8.jpg",
@@ -228,8 +228,8 @@ const FEBRUARY_IG_DATA = [
       "servingTime": "— 30 minutes",
       "yield": "— 10 crêpes",
       "tips": "— Serve with desired toppings like fruits, spreads and syrups.",
-      "ingredients": "Ingredients\n1 cup flour \n2 eggs, beaten \n1 cup Australia’s Own Almond Milk\n½ cup water \n1 tbsp. butter, melted (+ more for frying) \n1 tsp. vanilla \n1 tbsp. white sugar \nPinch of salt",
-      "procedure": "Procedure\nWhisk together all crêpe ingredients until well combined and mostly lump-free. \nStrain to get rid of any unwanted lumps. Chill crêpe batter for 15 minutes. \nIn a medium-sized non stick pan, melt some butter over medium heat. Ladle in ¼ cup of the crêpe batter and swirl pan immediately to spread batter thinly. \nOnce edges start to brown and you see bubbles in the middle, flip the crêpe. Cook for another minute. \nRepeat for remaining batter."
+      "ingredients": "1 cup flour \n2 eggs, beaten \n1 cup Australia’s Own Almond Milk\n½ cup water \n1 tbsp. butter, melted (+ more for frying) \n1 tsp. vanilla \n1 tbsp. white sugar \nPinch of salt",
+      "procedure": "Whisk together all crêpe ingredients until well combined and mostly lump-free. \nStrain to get rid of any unwanted lumps. Chill crêpe batter for 15 minutes. \nIn a medium-sized non stick pan, melt some butter over medium heat. Ladle in ¼ cup of the crêpe batter and swirl pan immediately to spread batter thinly. \nOnce edges start to brown and you see bubbles in the middle, flip the crêpe. Cook for another minute. \nRepeat for remaining batter."
     },
     "photo": {
       "filename": "IG10.jpg",
@@ -272,8 +272,8 @@ const FEBRUARY_IG_DATA = [
       "servingTime": "— 15 minutes",
       "yield": "—3pcs",
       "tips": "—",
-      "ingredients": "Ingredients\n1 can Elarz Corned Lechon \n3 pcs tortillas \n½ cup mayonnaise \n2 tbsps. pickle relish \nSalt & pepper to taste \n1 cup cabbage, shredded \n1 lime, sliced into wedges \n¼ cup cilantro leaves",
-      "procedure": "Procedure\nSauté Elarz Corned Lechon in a frying pan until heated through and most of the liquid evaporates. \nToast tortillas. \nCombine together mayonnaise and pickle relish. Season with salt and pepper. Reserve half of this for serving. \nMix in remaining sauce with the shredded cabbage. \nTo assemble, fill each tortilla with the sautéed corned lechon and with coleslaw. \nServe with more sauce, lime wedges and cilantro."
+      "ingredients": "1 can Elarz Corned Lechon \n3 pcs tortillas \n½ cup mayonnaise \n2 tbsps. pickle relish \nSalt & pepper to taste \n1 cup cabbage, shredded \n1 lime, sliced into wedges \n¼ cup cilantro leaves",
+      "procedure": "Sauté Elarz Corned Lechon in a frying pan until heated through and most of the liquid evaporates. \nToast tortillas. \nCombine together mayonnaise and pickle relish. Season with salt and pepper. Reserve half of this for serving. \nMix in remaining sauce with the shredded cabbage. \nTo assemble, fill each tortilla with the sautéed corned lechon and with coleslaw. \nServe with more sauce, lime wedges and cilantro."
     },
     "photo": {
       "filename": "FB1.jpg",
@@ -316,8 +316,8 @@ const FEBRUARY_IG_DATA = [
       "servingTime": "4 hours",
       "yield": "8pcs",
       "tips": "—",
-      "ingredients": "Ingredients\n2 cups Cowhead milk \n1 cup heavy cream \n½ cup condensed milk\n2 tsps. vanilla \n3 tbsps. unflavored gelatin \n3 mangoes, pitted and cubed \n1 cup granola",
-      "procedure": "Procedure\nIn a saucepan, whisk together Cowhead milk, cream, condensed milk and vanilla. Bring to a boil. \nSprinkle in gelatin while whisking continuously. \nDivide mixture into 8 ramekins. Cover and chill for at least 4 hours or ideally, overnight. \nBefore serving, top with granola and cubed mangoes."
+      "ingredients": "2 cups Cowhead milk \n1 cup heavy cream \n½ cup condensed milk\n2 tsps. vanilla \n3 tbsps. unflavored gelatin \n3 mangoes, pitted and cubed \n1 cup granola",
+      "procedure": "In a saucepan, whisk together Cowhead milk, cream, condensed milk and vanilla. Bring to a boil. \nSprinkle in gelatin while whisking continuously. \nDivide mixture into 8 ramekins. Cover and chill for at least 4 hours or ideally, overnight. \nBefore serving, top with granola and cubed mangoes."
     },
     "photo": {
       "filename": "FB3.jpg",

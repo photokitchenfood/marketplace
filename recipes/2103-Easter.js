@@ -20,8 +20,8 @@ const EASTER_DATA = [
       "servingTime": "5 minutes",
       "yield": "1-2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n¼ cup chocolate syrup  \n3 scoops Selecta Cookies & Cream Ice Cream \n6 pcs. Oreo cookies \n10 pcs. mini chocolate chip cookies \n3 pcs. biscotti",
-      "procedure": "Procedure\nPlace half of the chocolate syrup in your serving glass. \nLayer ice cream, cookies and biscotti on top. \nDrizzle in remaining chocolate syrup."
+      "ingredients": "¼ cup chocolate syrup  \n3 scoops Selecta Cookies & Cream Ice Cream \n6 pcs. Oreo cookies \n10 pcs. mini chocolate chip cookies \n3 pcs. biscotti",
+      "procedure": "Place half of the chocolate syrup in your serving glass. \nLayer ice cream, cookies and biscotti on top. \nDrizzle in remaining chocolate syrup."
     },
     "photo": {
       "filename": "E1.jpg",
@@ -45,8 +45,8 @@ const EASTER_DATA = [
       "servingTime": "30 minutes",
       "yield": "32-36 cookies",
       "tips": "",
-      "ingredients": "Ingredients\n1 bar Emborg unsalted butter, at room temperature\n½ cup white sugar \n½ tsp. salt \n2 tsps. vanilla \n1 egg \n2 cups all-purpose flour",
-      "procedure": "Procedure\nPreheat oven to 175°C, and line two baking pans with parchment paper. . \nBeat butter and sugar until smooth.\nMix in salt, vanilla and egg. Beat until fluffy, about 3 minutes. \nSlowly mix in flour. Do this by batches to avoid the flour from spilling. \nTransfer dough to a piping bag fitted with an open star tip. Pipe 2-inch circles onto the lined baking pans. \nBake for 15-17 minutes."
+      "ingredients": "1 bar Emborg unsalted butter, at room temperature\n½ cup white sugar \n½ tsp. salt \n2 tsps. vanilla \n1 egg \n2 cups all-purpose flour",
+      "procedure": "Preheat oven to 175°C, and line two baking pans with parchment paper. . \nBeat butter and sugar until smooth.\nMix in salt, vanilla and egg. Beat until fluffy, about 3 minutes. \nSlowly mix in flour. Do this by batches to avoid the flour from spilling. \nTransfer dough to a piping bag fitted with an open star tip. Pipe 2-inch circles onto the lined baking pans. \nBake for 15-17 minutes."
     },
     "photo": {
       "filename": "E2.jpg",

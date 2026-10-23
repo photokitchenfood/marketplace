@@ -11,7 +11,7 @@ const MOTHERS_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Mothers Day",
-    "caption": "It’s no secret that moms love coffee with their dessert. So, why not combine both!\n\nThese Tiramisu Cups made with Kick-Start Coffee are creamy, chocolatey, and pack a generous dose of coffee (and a splash of booze) to make mom happy. Shop all the items you need at #TheMarketplace and make this decadent dessert with Mom right at the comfort of your home. \n\nServing Time: 1 hour\nYield: 4 servings\n\nIngredients\n\n½ cup brewed Kick-Start Awakening coffee \n1 tbsp. coffee liqueur\n3 egg yolks\n½ cup white sugar \n1 tsp. vanilla \n1 cup mascarpone cheese, softened\n10 pcs. broas, broken into bite size pieces \n2 disks tablea\n\nProcedure\n\n1. Combine brewed Kick-Start Awakening coffee and coffee liqueur. Set aside.\n2. In a heatproof bowl, whisk egg yolks, sugar and vanilla. Place bowl over a pot with simmering water and continue to whisk until the mixture becomes pale yellow and fluffy. \n3. In a separate bowl, beat mascarpone until light and fluffy. \n4. Fold egg mixture and mascarpone. Set aside.\n5. To assemble, dip broas pieces into the coffee mixture and add to the bottom of the serving glass. Top with a few spoonfuls of the mascarpone mixture. Grate some tablea on top. Repeat until the serving glass is full, ending with grated tablea.\n6. Refrigerate for at least 30 minutes before serving. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "It’s no secret that moms love coffee with their dessert. So, why not combine both!\n\nThese Tiramisu Cups made with Kick-Start Coffee are creamy, chocolatey, and pack a generous dose of coffee (and a splash of booze) to make mom happy. Shop all the items you need at #TheMarketplace and make this decadent dessert with Mom right at the comfort of your home.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Kick-Start Coffee"
     ],
@@ -19,8 +19,8 @@ const MOTHERS_DAY_DATA = [
       "servingTime": "1 hour",
       "yield": "4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n½ cup brewed Kick-Start Awakening coffee \n1 tbsp. coffee liqueur\n3 egg yolks\n½ cup white sugar \n1 tsp. vanilla \n1 cup mascarpone cheese, softened \n10 pcs. broas, broken into bite size pieces  \n2 disks tablea",
-      "procedure": "Procedure\nCombine brewed Kick-Start Awakening coffee and coffee liqueur. Set aside. \nIn a heatproof bowl, whisk together egg yolks, sugar and vanilla. Place bowl over a pot with simmering water, and continue to whisk until the mixture becomes pale yellow and fluffy. \nIn a separate bowl, beat mascarpone until light and fluffy. \nFold egg mixture and mascarpone. Set aside. \nTo assemble, dip broas pieces into the coffee mixture, and add to the bottom of the serving glass. Top with a few spoonfuls of the mascarpone mixture. Grate some tablea on top. Repeat until the serving glass is full, ending with grated tablea. \nRefrigerate for at least 30 minutes before serving."
+      "ingredients": "½ cup brewed Kick-Start Awakening coffee \n1 tbsp. coffee liqueur\n3 egg yolks\n½ cup white sugar \n1 tsp. vanilla \n1 cup mascarpone cheese, softened \n10 pcs. broas, broken into bite size pieces  \n2 disks tablea",
+      "procedure": "Combine brewed Kick-Start Awakening coffee and coffee liqueur. Set aside. \nIn a heatproof bowl, whisk together egg yolks, sugar and vanilla. Place bowl over a pot with simmering water, and continue to whisk until the mixture becomes pale yellow and fluffy. \nIn a separate bowl, beat mascarpone until light and fluffy. \nFold egg mixture and mascarpone. Set aside. \nTo assemble, dip broas pieces into the coffee mixture, and add to the bottom of the serving glass. Top with a few spoonfuls of the mascarpone mixture. Grate some tablea on top. Repeat until the serving glass is full, ending with grated tablea. \nRefrigerate for at least 30 minutes before serving."
     },
     "photo": {
       "filename": "MD1.jpg",
@@ -36,7 +36,7 @@ const MOTHERS_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Mothers Day",
-    "caption": "Moms love Aglio Olio. Simple yet full of flavour, aglio olio may be a popular pasta sauce, but in this recipe, we’re doing it on a pizza! Conveniently, San Marino has its own Aglio Olio tuna that works perfectly for this dish. The addition of tuna not only adds texture and flavour, but also protein! Definitely mom-approved. \n\nPrepare this with the family for Mother’s Day, and indulge as you go through old family photos and have the best time reliving nostalgic moments. All ingredients can be found at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 1 pizza\n\nIngredients\n\n1 frozen pizza crust \n¼ cup olive oil\n1 cup mozzarella cheese, grated \n1 can San Marino Tuna Aglio Olio \n½ red onion, sliced thinly\n2 tbsps. capers\n6 sprigs thyme\n\nProcedure\n\nPreheat oven to 200°C. \nBrush pizza crust with olive oil. \nTop with mozzarella cheese, San Marino Tuna Aglio Olio, red onions and capers. \nBake for 8-10 minutes or until cheese is melted and crust is golden brown. \nGarnish with thyme before serving. \nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Moms love Aglio Olio. Simple yet full of flavour, aglio olio may be a popular pasta sauce, but in this recipe, we’re doing it on a pizza! Conveniently, San Marino has its own Aglio Olio tuna that works perfectly for this dish. The addition of tuna not only adds texture and flavour, but also protein! Definitely mom-approved. \n\nPrepare this with the family for Mother’s Day, and indulge as you go through old family photos and have the best time reliving nostalgic moments. All ingredients can be found at #TheMarketplace!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "San Marino"
     ],
@@ -44,8 +44,8 @@ const MOTHERS_DAY_DATA = [
       "servingTime": "15 minutes",
       "yield": "1 pizza",
       "tips": "",
-      "ingredients": "Ingredients\n1 frozen pizza crust \n¼ cup olive oil \n1 cup mozzarella cheese, grated \n1 can San Marino Tuna Aglio Olio \n½ red onion, sliced thinly\n2 tbsps. capers\n 6 sprigs thyme",
-      "procedure": "Procedure\nPreheat oven to 200°C. \nBrush pizza crust with olive oil. \nTop with mozzarella cheese, San Marino Tuna Aglio Olio, red onions and capers. \nBake for 8-10 minutes or until cheese is melted and crust is golden brown. \nGarnish with thyme before serving."
+      "ingredients": "1 frozen pizza crust \n¼ cup olive oil \n1 cup mozzarella cheese, grated \n1 can San Marino Tuna Aglio Olio \n½ red onion, sliced thinly\n2 tbsps. capers\n 6 sprigs thyme",
+      "procedure": "Preheat oven to 200°C. \nBrush pizza crust with olive oil. \nTop with mozzarella cheese, San Marino Tuna Aglio Olio, red onions and capers. \nBake for 8-10 minutes or until cheese is melted and crust is golden brown. \nGarnish with thyme before serving."
     },
     "photo": {
       "filename": "MD2.jpg",
@@ -99,7 +99,7 @@ const MOTHERS_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Mothers Day",
-    "caption": "Impress Mom this Mother’s Day with this hearty Creamy Mushroom Spaghetti made with Barilla pasta!\n\nMade with a rich combination of butter, parmesan, garlic, and mushrooms, this comforting meal is definitely the edible equivalent of saying “I love you, Mom!” The best part? It takes only half an hour to prepare. Find all the ingredients you need fresh only at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 4-6 servings\n\nIngredients\n\n2 tbsps. olive oil \n1 tbsp. butter \n½ cup white button mushrooms, sliced \n1 white onion, chopped \n5 cloves garlic, chopped \n2 cups cooking cream \n½ cup parmesan cheese\nSalt and pepper to taste \n1 pack Barilla Spaghetti, cooked according to package directions\n6-8 sprigs flat leaf parsley\n\nProcedure\n\n1. Heat up a pan over medium heat. Add olive oil and butter. \n2. Once butter is melted, add mushrooms and sear until golden brown on both sides. Mix in white onions and garlic. Sauté for 2-3 minutes.\n3. Add cream and parmesan cheese. Let simmer for 5-8 minutes, or until thick.\n4. Season with salt and pepper to taste.\n5. Mix in cooked Barilla Spaghetti.\n6. Garnish with sprigs of flat leaf parsley. \nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Impress Mom this Mother’s Day with this hearty Creamy Mushroom Spaghetti made with Barilla pasta!\n\nMade with a rich combination of butter, parmesan, garlic, and mushrooms, this comforting meal is definitely the edible equivalent of saying “I love you, Mom!” The best part? It takes only half an hour to prepare. Find all the ingredients you need fresh only at #TheMarketplace!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Barilla"
     ],
@@ -107,8 +107,8 @@ const MOTHERS_DAY_DATA = [
       "servingTime": "30 minutes",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. olive oil \n1 tbsp. butter \n½ cup white button mushrooms, sliced \n1 white onion, chopped \n5 cloves garlic, chopped \n2 cups cooking cream \n½ cup parmesan cheese\nSalt and pepper to taste \n1 pack Barilla Spaghetti, cooked according to package directions\n6-8 sprigs flat leaf parsley",
-      "procedure": "Procedure\nHeat up a pan over medium heat. Add olive oil and butter. \nOnce butter is melted, add mushrooms and sear until golden brown on both sides. Mix in white onions and garlic. Sauté for 2-3 minutes. \nAdd cream and parmesan cheese. Let simmer for 5-8 minutes, or until thick. \nSeason with salt and pepper to taste. \nMix in cooked Barilla Spaghetti. \nGarnish with sprigs of flat leaf parsley."
+      "ingredients": "2 tbsps. olive oil \n1 tbsp. butter \n½ cup white button mushrooms, sliced \n1 white onion, chopped \n5 cloves garlic, chopped \n2 cups cooking cream \n½ cup parmesan cheese\nSalt and pepper to taste \n1 pack Barilla Spaghetti, cooked according to package directions\n6-8 sprigs flat leaf parsley",
+      "procedure": "Heat up a pan over medium heat. Add olive oil and butter. \nOnce butter is melted, add mushrooms and sear until golden brown on both sides. Mix in white onions and garlic. Sauté for 2-3 minutes. \nAdd cream and parmesan cheese. Let simmer for 5-8 minutes, or until thick. \nSeason with salt and pepper to taste. \nMix in cooked Barilla Spaghetti. \nGarnish with sprigs of flat leaf parsley."
     },
     "photo": {
       "filename": "MD5.jpg",
@@ -124,7 +124,7 @@ const MOTHERS_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Mothers Day",
-    "caption": "Craving some instant noodles while trying to keep healthy?\n\nTry out this recipe for Vegetarian Ramen made with Nongshim’s Soon Veggie Cup Noodle Soup. Throw in some mushrooms, snap peas, and other vegetables to ease the guilt while maintaining the comfort. Best shared with Mom while watching your favorite childhood movie together!\n\nFind Nongshim’s Soon Veggie Cup Noodles and other Korean delights at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 2 servings\n\nIngredients\n\n6 whole shiitake mushrooms\n½ cup carrots, sliced\n1 tbsp. sesame oil\n½ cup snap peas\n1 bunch bok choy\n2 packs Nongshim Soon Veggie Cup Noodle Soup\n2 tbsps. spring onion\n1 tbsp. sesame seeds\n\nProcedure\n\n1. In a pan, sauté the shiitake mushrooms and carrots in sesame oil, and then set aside.\n2. Blanch the snap peas and bok choy.\n3. Cook two packs of Nongshim Soon Veggie Cup Noodle Soup according to packaging instructions.\n4. Assemble the vegetables on top of the ramen and garnish with spring onions and sesame seeds.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Craving some instant noodles while trying to keep healthy?\n\nTry out this recipe for Vegetarian Ramen made with Nongshim’s Soon Veggie Cup Noodle Soup. Throw in some mushrooms, snap peas, and other vegetables to ease the guilt while maintaining the comfort. Best shared with Mom while watching your favorite childhood movie together!\n\nFind Nongshim’s Soon Veggie Cup Noodles and other Korean delights at #TheMarketplace!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Nongshim"
     ],
@@ -132,8 +132,8 @@ const MOTHERS_DAY_DATA = [
       "servingTime": "15 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n6 whole shiitake mushrooms\n½ cup carrots, sliced\n1 tbsp. sesame oil\n ½ cup snap peas\n1 bunch bok choy\n2 packs Nongshim Soon Veggie Cup Noodle Soup\n2 tbsps. spring onion\n1 tbsp. sesame seeds",
-      "procedure": "Procedure\nIn a pan, sauté the shiitake mushrooms and carrots in sesame oil then set aside.\nBlanch the snap peas and bok choy.\nCook two packs of Nongshim Soon Veggie Cup Noodle Soup according to packaging instructions.\nAssemble the vegetables on top of the ramen and garnish with spring onions and sesame seeds."
+      "ingredients": "6 whole shiitake mushrooms\n½ cup carrots, sliced\n1 tbsp. sesame oil\n ½ cup snap peas\n1 bunch bok choy\n2 packs Nongshim Soon Veggie Cup Noodle Soup\n2 tbsps. spring onion\n1 tbsp. sesame seeds",
+      "procedure": "In a pan, sauté the shiitake mushrooms and carrots in sesame oil then set aside.\nBlanch the snap peas and bok choy.\nCook two packs of Nongshim Soon Veggie Cup Noodle Soup according to packaging instructions.\nAssemble the vegetables on top of the ramen and garnish with spring onions and sesame seeds."
     },
     "photo": {
       "filename": "MD6.jpg",
@@ -149,7 +149,7 @@ const MOTHERS_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Mothers Day",
-    "caption": "Is your Mom a fan of chocolate-covered mangoes? \n\nIf she is, then wake up a little bit earlier than usual on Mother’s Day and surprise her with these Chocolate & Mango Chia Pudding Cups as a breakfast-in-bed treat! Everything you need is available at #TheMarketplace!\n\nServing Time: 2 hours\nYield: 2 servings\n\nIngredients\n\n½ cup milk\n½ cup mango purée \n2 tbsps. chia seeds \n1 cup heavy whipping cream, chilled \n3 tbsps. cocoa powder \n3 tbsps. powdered sugar \n4-6 pcs. Cocoa Monster Chocolate Mangoes, chopped \n\nProcedure\n\n1. Combine milk, mango purée and chia seeds. Refrigerate for 1 hour up to overnight.\n2. Whip heavy whipping cream until soft peaks form. Add cocoa powder and powdered sugar. Whip until combined. \n3. To assemble, add a few spoonfuls of the chocolate pudding into your serving glass. Add mango chia pudding on top, and finally, top with chopped Cocoa Monster Chocolate Mangoes.\n\nYou can also order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Is your Mom a fan of chocolate-covered mangoes? \n\nIf she is, then wake up a little bit earlier than usual on Mother’s Day and surprise her with these Chocolate & Mango Chia Pudding Cups as a breakfast-in-bed treat! Everything you need is available at #TheMarketplace!\n\nYou can also order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Cocoa Monster"
     ],
@@ -157,8 +157,8 @@ const MOTHERS_DAY_DATA = [
       "servingTime": "2 hours",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n½ cup milk\n½ cup mango purée \n2 tbsps. chia seeds \n1 cup heavy whipping cream, chilled \n3 tbsps. cocoa powder \n3 tbsps. powdered sugar \n4-6pcs. Cocoa Monster Chocolate Mangoes, chopped",
-      "procedure": "Procedure\nCombine milk, mango purée and chia seeds. Refrigerate for 1 hour up to overnight. \nWhip heavy whipping cream until soft peaks form. Add cocoa powder and powdered sugar. Whip until combined. \nTo assemble, add a few spoonfuls of the chocolate pudding into your serving glass. Add mango chia pudding on top, and finally, top with chopped Cocoa Monster Chocolate Mangoes."
+      "ingredients": "½ cup milk\n½ cup mango purée \n2 tbsps. chia seeds \n1 cup heavy whipping cream, chilled \n3 tbsps. cocoa powder \n3 tbsps. powdered sugar \n4-6pcs. Cocoa Monster Chocolate Mangoes, chopped",
+      "procedure": "Combine milk, mango purée and chia seeds. Refrigerate for 1 hour up to overnight. \nWhip heavy whipping cream until soft peaks form. Add cocoa powder and powdered sugar. Whip until combined. \nTo assemble, add a few spoonfuls of the chocolate pudding into your serving glass. Add mango chia pudding on top, and finally, top with chopped Cocoa Monster Chocolate Mangoes."
     },
     "photo": {
       "filename": "MD7.jpg",
@@ -174,7 +174,7 @@ const MOTHERS_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Mothers Day",
-    "caption": "Say the sweetest thank you to Mom this Mother’s Day with these Kit Kat Brownies!\n\nMake them yourself, or together with Mom in the kitchen. Decadent and delightful, these Kit Kat brownies are best enjoyed with cold, full-cream milk or with Mom’s favorite coffee. Enjoy!\n\nFind everything you need at #TheMarketplace!\n\nServing Time: 45 minutes\nYield: 16 bars\n\nIngredients\n\n1 cup flour\n¾ cup unsweetened cocoa powder\n¾ cup sugar\n½ tsp. salt\n½ tsp. baking powder\n2 eggs\n½ stick of butter, softened\n4 packs of Kit Kat Chocolate Bars\n\nProcedure\n\n1. Preheat oven to 350°F.\n2. Sift flour, cocoa powder, salt and baking powder.\n3. Using a mixer, cream butter and sugar. Add eggs one by one until well-incorporated. \n4. Fold in flour mixture.\n5. Pour batter into an 8x8 baking tray. Bake for 20 mins.\n6. Top semi-cooked brownies with Kit Kat chocolate bars, and bake for another 5-10 mins.\n\nOrder your groceries safely and place them online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Say the sweetest thank you to Mom this Mother’s Day with these Kit Kat Brownies!\n\nMake them yourself, or together with Mom in the kitchen. Decadent and delightful, these Kit Kat brownies are best enjoyed with cold, full-cream milk or with Mom’s favorite coffee. Enjoy!\n\nFind everything you need at #TheMarketplace!\n\nOrder your groceries safely and place them online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "KitKat"
     ],
@@ -182,8 +182,8 @@ const MOTHERS_DAY_DATA = [
       "servingTime": "45 minutes",
       "yield": "16 bars",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup flour\n¾ cup unsweetened cocoa powder\n3/4 cup sugar\n½ tsp. salt\n½ tsp. baking powder\n2 eggs\n½ butter, softened\n4 packs of Kit Kat Chocolate Bars",
-      "procedure": "Procedure\nPreheat oven to 350°F.\nSift flour, cocoa powder, salt and baking powder.\nUsing a mixer, cream butter and sugar. Add eggs one by one until well-incorporated. \nFold in flour mixture.\nPour batter into an 8x8 baking tray. Bake for 20 mins. \nTop semi-cooked brownies with Kit Kat chocolate bars, and bake for another 5-10 mins."
+      "ingredients": "1 cup flour\n¾ cup unsweetened cocoa powder\n3/4 cup sugar\n½ tsp. salt\n½ tsp. baking powder\n2 eggs\n½ butter, softened\n4 packs of Kit Kat Chocolate Bars",
+      "procedure": "Preheat oven to 350°F.\nSift flour, cocoa powder, salt and baking powder.\nUsing a mixer, cream butter and sugar. Add eggs one by one until well-incorporated. \nFold in flour mixture.\nPour batter into an 8x8 baking tray. Bake for 20 mins. \nTop semi-cooked brownies with Kit Kat chocolate bars, and bake for another 5-10 mins."
     },
     "photo": {
       "filename": "MD8.jpg",
@@ -199,7 +199,7 @@ const MOTHERS_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Mothers Day",
-    "caption": "While we can only dream of traveling at this point, here’s a quick and easy Thai-inspired recipe that you can whip up for Mom this May using Jufran’s Sweet Chili Sauce!\n\nFresh and tantalizing, this Sweet Chili Shrimp dish takes only half an hour to prepare and is perfect for an Asian-themed summer lunch! Try it this week and get your ingredients fresh at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 4 servings\n\nIngredients\n\n2 tbsps. canola oil \n5 garlic cloves, chopped \n½ white onion, chopped \n½ kg shrimp, peeled and deveined \n1 cup Jufran Sweet Chili sauce \n2 tbsps. soy sauce \n½ cup peanuts, chopped\nSalt and pepper to taste\nProcedure\n\n1. Heat up oil over medium heat. Sauté garlic and onions until soft.\n2. Add shrimp and cook until pink on both sides.\n3. Mix in Jufran Sweet Chili sauce, soy sauce and peanuts. Season with salt and pepper to taste.\n4. Optional: Serve with rice or rice noodles, basil sprigs and lime wedges. \n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "While we can only dream of traveling at this point, here’s a quick and easy Thai-inspired recipe that you can whip up for Mom this May using Jufran’s Sweet Chili Sauce!\n\nFresh and tantalizing, this Sweet Chili Shrimp dish takes only half an hour to prepare and is perfect for an Asian-themed summer lunch! Try it this week and get your ingredients fresh at #TheMarketplace!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Jufran"
     ],
@@ -207,8 +207,8 @@ const MOTHERS_DAY_DATA = [
       "servingTime": "30 minutes",
       "yield": "4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 tbsps. canola oil \n5 garlic cloves, chopped \n½ white onion, chopped \n½ kg shrimp, peeled and deveined \n1 cup Jufran Sweet Chili sauce \n2 tbsps. soy sauce \n½ cup peanuts, chopped\nSalt and pepper to taste",
-      "procedure": "Procedure\nHeat up oil over medium heat. Sauté garlic and onions until soft. \nAdd shrimp and cook until pink on both sides. \nMix in Jufran Sweet Chili sauce, soy sauce and peanuts. Season with salt and pepper to taste. \nOptional: Serve with rice or rice noodles, basil sprigs and lime wedges."
+      "ingredients": "2 tbsps. canola oil \n5 garlic cloves, chopped \n½ white onion, chopped \n½ kg shrimp, peeled and deveined \n1 cup Jufran Sweet Chili sauce \n2 tbsps. soy sauce \n½ cup peanuts, chopped\nSalt and pepper to taste",
+      "procedure": "Heat up oil over medium heat. Sauté garlic and onions until soft. \nAdd shrimp and cook until pink on both sides. \nMix in Jufran Sweet Chili sauce, soy sauce and peanuts. Season with salt and pepper to taste. \nOptional: Serve with rice or rice noodles, basil sprigs and lime wedges."
     },
     "photo": {
       "filename": "MD9.jpg",
@@ -224,7 +224,7 @@ const MOTHERS_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Mothers Day",
-    "caption": "Do you and Mom share a deep love for K-pop and Korean dramas? \n\nThis Mother’s Day, why not invite Mom to a K-party date? Watch some Korean shows or movies together with a bowl of delicious home-cooked Gochujang Noodles that you can easily whip up yourself. Don’t forget to leave Mom a note, too, that says “사랑해!”\n\nHappy Mother’s Day from #TheMarketplace! \n\nServing Time: 15-20 minutes\nYield: 2 servings\n\nIngredients\n\n½ cup Maeil Gochujang\n2 tbsp. soy sauce\n2 tbsp. sugar\n1 tbsp. Gochugaru (Korean chili powder)\n1 tbsp. sesame oil\n250g udon or any preferred dried noodles\n2 egg yolks\n3 tbsps. sliced leeks\n1 tbsp. sesame seeds\nProcedure\n\n1. In a bowl, mix Maeil Gochujang, soy sauce, sugar, gochugaru and sesame oil. Set aside.\n2. Cook udon according to packaging instructions. Save ½ cup of the noodle water and drain noodles.\n3. Coat noodles with Gochujang sauce. Add noodle water as needed.\n4. Top with egg yolk, sliced leeks and sesame seeds.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Do you and Mom share a deep love for K-pop and Korean dramas? \n\nThis Mother’s Day, why not invite Mom to a K-party date? Watch some Korean shows or movies together with a bowl of delicious home-cooked Gochujang Noodles that you can easily whip up yourself. Don’t forget to leave Mom a note, too, that says “사랑해!”\n\nHappy Mother’s Day from #TheMarketplace!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Maeil"
     ],
@@ -232,8 +232,8 @@ const MOTHERS_DAY_DATA = [
       "servingTime": "15-20mins",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n½ cup Maeil Gochujang\n2 tbsp. soy sauce\n2 tbsp. sugar\n1 tbsp. Gochugaru (Korean chili powder)\n1 tbsp. sesame oil\n250g udon or any preferred dried noodles\n2 egg yolks\n3 tbsps. sliced leeks\n1 tbsp. sesame seeds",
-      "procedure": "Procedure\nIn a bowl, mix Maeil Gochujang, soy sauce, sugar, gochugaru and sesame oil. Set aside.\nCook udon according to packaging instructions. Save ½ cup of the noodle water and drain noodles.\nCoat noodles with Gochujang sauce. Add noodle water as needed.\nTop with egg yolk, sliced leeks and sesame seeds."
+      "ingredients": "½ cup Maeil Gochujang\n2 tbsp. soy sauce\n2 tbsp. sugar\n1 tbsp. Gochugaru (Korean chili powder)\n1 tbsp. sesame oil\n250g udon or any preferred dried noodles\n2 egg yolks\n3 tbsps. sliced leeks\n1 tbsp. sesame seeds",
+      "procedure": "In a bowl, mix Maeil Gochujang, soy sauce, sugar, gochugaru and sesame oil. Set aside.\nCook udon according to packaging instructions. Save ½ cup of the noodle water and drain noodles.\nCoat noodles with Gochujang sauce. Add noodle water as needed.\nTop with egg yolk, sliced leeks and sesame seeds."
     },
     "photo": {
       "filename": "MD10.jpg",
@@ -249,7 +249,7 @@ const MOTHERS_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Mothers Day",
-    "caption": "There’s something nostalgic about Cookies & Cream ice cream. Just one bite of it can open the floodgates of our childhood memories, most of which happen to be with Mom.\n\nBecause Mother’s Day is right around the corner, here’s a small way to show your appreciation for her big time. Simply buy a tub of Selecta Cookies & Cream ice cream at #TheMarketplace along with some cookies. Add a splash of espresso, and turn it into an affogato for you and Mom to enjoy together. \n\nServing Time: 5 minutes\nYield: 1 serving\n\nIngredients\n\n4 cookies, chopped \n2 scoops Selecta Cookies & Cream Ice Cream  \n1 shot espresso\n\nProcedure\n\n1. Place chopped cookies at the bottom of your serving glass. \n2. Top with Selecta Cookies & Cream Ice Cream. \n3. Serve with espresso shot on the side, or for pouring right before consumption. \n\nDid you know? You can now your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "There’s something nostalgic about Cookies & Cream ice cream. Just one bite of it can open the floodgates of our childhood memories, most of which happen to be with Mom.\n\nBecause Mother’s Day is right around the corner, here’s a small way to show your appreciation for her big time. Simply buy a tub of Selecta Cookies & Cream ice cream at #TheMarketplace along with some cookies. Add a splash of espresso, and turn it into an affogato for you and Mom to enjoy together.\n\nDid you know? You can now your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Selecta"
     ],
@@ -257,8 +257,8 @@ const MOTHERS_DAY_DATA = [
       "servingTime": "5 minutes",
       "yield": "1 serving",
       "tips": "",
-      "ingredients": "Ingredients\n4 cookies, chopped \n2 scoops Selecta Cookies & Cream Ice Cream  \n1 shot espresso",
-      "procedure": "Procedure\nPlace chopped cookies at the bottom of your serving glass. \nTop with Selecta Cookies & Cream Ice Cream. \nServe with espresso shot on the side, or for pouring right before consumption."
+      "ingredients": "4 cookies, chopped \n2 scoops Selecta Cookies & Cream Ice Cream  \n1 shot espresso",
+      "procedure": "Place chopped cookies at the bottom of your serving glass. \nTop with Selecta Cookies & Cream Ice Cream. \nServe with espresso shot on the side, or for pouring right before consumption."
     },
     "photo": {
       "filename": "MD11.jpg",
@@ -331,7 +331,7 @@ const MOTHERS_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Mothers Day",
-    "caption": "The ketogenic diet is on trend now, and if you happen to pass by #TheMarketplace anytime soon, do try out our Keto Chocolate Ice Cream that pairs so perfectly with these Keto Chocolate Pancakes. \n\nRecipe below! Make it in time for Mother’s Day for a sweet surprise that Mom will surely love.\n\nServing Time: 30 minutes\nYield: 1 serving\n\nIngredients\n\n1 cup flour\n¼ cup cocoa powder\n2 tsp. baking powder\n½ tsp. salt\n1 tbsp. sugar\n2 eggs\n2 tbsp. butter, melted\n¾ cup milk\n3 tbsp. butter\n1 scoop Keto Chocolate Ice Cream\n2 tbsp. almonds or any preferred nuts, chopped\n¼ cup caramel syrup\nProcedure\n\n1. In a mixing bowl, sift flour, cocoa powder, baking powder and salt.\n2. Mix sugar, eggs, butter and milk.\n3. Combine wet mixture to dry mixture until smooth.\n4. Over low heat, brush pan with butter. Pour ¼ cup batter, wait until small bubbles show up before flipping.\n5. Right before consumption, scoop Keto Chocolate Ice Cream over stack of pancakes,\n6. Top with chopped nuts and pour over caramel syrup.\n\nOrder your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "The ketogenic diet is on trend now, and if you happen to pass by #TheMarketplace anytime soon, do try out our Keto Chocolate Ice Cream that pairs so perfectly with these Keto Chocolate Pancakes. \n\nRecipe below! Make it in time for Mother’s Day for a sweet surprise that Mom will surely love.\n\nOrder your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "! Generic"
     ],
@@ -339,8 +339,8 @@ const MOTHERS_DAY_DATA = [
       "servingTime": "30mins",
       "yield": "1 serving",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup flour\n¼ cup cocoa powder\n2 tsp. baking powder\n½ tsp. salt\n1 tbsp. sugar\n2 eggs\n2 tbsp. butter, melted\n¾ cup milk\n3 tbsp. butter\n1 scoop Keto Chocolate Ice Cream\n2 tbsp. almonds or any preferred nuts, chopped\n¼ cup caramel syrup",
-      "procedure": "Procedure\nIn a mixing bowl, sift flour, cocoa powder, baking powder and salt.\nMix sugar, eggs, butter and milk.\nCombine wet mixture to dry mixture until smooth.\nOver low heat, brush pan with butter. Pour ¼ cup batter, wait until small bubbles show up before flipping.\nRight before consumption, scoop Keto Chocolate Ice Cream over stack of pancakes,\nTop with chopped nuts and pour over caramel syrup."
+      "ingredients": "1 cup flour\n¼ cup cocoa powder\n2 tsp. baking powder\n½ tsp. salt\n1 tbsp. sugar\n2 eggs\n2 tbsp. butter, melted\n¾ cup milk\n3 tbsp. butter\n1 scoop Keto Chocolate Ice Cream\n2 tbsp. almonds or any preferred nuts, chopped\n¼ cup caramel syrup",
+      "procedure": "In a mixing bowl, sift flour, cocoa powder, baking powder and salt.\nMix sugar, eggs, butter and milk.\nCombine wet mixture to dry mixture until smooth.\nOver low heat, brush pan with butter. Pour ¼ cup batter, wait until small bubbles show up before flipping.\nRight before consumption, scoop Keto Chocolate Ice Cream over stack of pancakes,\nTop with chopped nuts and pour over caramel syrup."
     },
     "photo": {
       "filename": "MD15.jpg",
@@ -356,7 +356,7 @@ const MOTHERS_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Mothers Day",
-    "caption": "What’s there not to love about yogurt?\n\nSweet, tangy, and super fruity, Pascual’s Thick & Creamy Strawberry Yogurt is packed with probiotics and nutrients to strengthen the immune system and aid in digestive health. It’s also such a versatile ingredient that you can pair with your favorite granola and fruits for a filling and nutritious breakfast. \n\nTry our Strawberry-Mango Yogurt Parfait. All the ingredients are available at #TheMarketplace!\n\nServing Time: 8 minutes\nYield: 3 serving\n\nIngredients\n\n1 ½ cup granola \n1 ½ cup strawberries, diced\n1 ½ cup ripe mangoes, diced\n3 packs Pascual Thick and Creamy Strawberry Yogurt\n3 strawberries, halved\n3 mint leaves\n\nProcedure\n\n1. In a glass, put granola as the first layer, followed by the diced strawberries and mangoes, and then the Pascual Thick and Creamy Strawberry Yogurt.\n2. Repeat each layer to fill the glass.\n3. Top with halved strawberries and mint leaves.\n\nOrder your groceries from the safety and comfort of home by visiting us online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "What’s there not to love about yogurt?\n\nSweet, tangy, and super fruity, Pascual’s Thick & Creamy Strawberry Yogurt is packed with probiotics and nutrients to strengthen the immune system and aid in digestive health. It’s also such a versatile ingredient that you can pair with your favorite granola and fruits for a filling and nutritious breakfast. \n\nTry our Strawberry-Mango Yogurt Parfait. All the ingredients are available at #TheMarketplace!\n\nOrder your groceries from the safety and comfort of home by visiting us online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Pascual"
     ],
@@ -364,8 +364,8 @@ const MOTHERS_DAY_DATA = [
       "servingTime": "8 minutes",
       "yield": "3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 ½ cup granola \n1 ½ cup strawberries, diced\n1 ½ cup ripe mangoes, diced\n3 packs Pascual Thick and Creamy Strawberry Yogurt\n3 strawberries, halved\n3 mint leaves",
-      "procedure": "Procedure\nIn a glass, put granola as the first layer, followed by the diced strawberries and mangoes, and then the Pascual Thick and Creamy Strawberry Yogurt. \nRepeat each layer to fill the glass.\nTop with halved strawberries and mint leaves."
+      "ingredients": "1 ½ cup granola \n1 ½ cup strawberries, diced\n1 ½ cup ripe mangoes, diced\n3 packs Pascual Thick and Creamy Strawberry Yogurt\n3 strawberries, halved\n3 mint leaves",
+      "procedure": "In a glass, put granola as the first layer, followed by the diced strawberries and mangoes, and then the Pascual Thick and Creamy Strawberry Yogurt. \nRepeat each layer to fill the glass.\nTop with halved strawberries and mint leaves."
     },
     "photo": {
       "filename": "MD16.jpg",
@@ -381,7 +381,7 @@ const MOTHERS_DAY_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "Mothers Day",
-    "caption": "Prepare these delicious Barbecue Wings for Mama with Mama Sita’s Barbecue Marinade!\n\nSweet, smoky, and best paired with some crudités, this is one lip-smacking dish that will make your Momma proud. Get all your ingredients fresh from #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 4 servings\n\nIngredients\n\n1 cup Mama Sita’s Barbecue Marinade \n¼ cup honey \n2 tbsps. cornstarch slurry \n½ kg chicken wings \nOil for deep-frying  \n\nProcedure\n\n1. In a medium saucepan, boil together Mama Sita’s Barbecue Marinade and honey for 4-6 minutes. Whisk in the cornstarch slurry and let thicken. Set aside.\n2. Deep-fry chicken wings until crispy and golden brown.\n3. Coat chicken wings with barbecue-honey glaze. \n\nOrder your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Prepare these delicious Barbecue Wings for Mama with Mama Sita’s Barbecue Marinade!\n\nSweet, smoky, and best paired with some crudités, this is one lip-smacking dish that will make your Momma proud. Get all your ingredients fresh from #TheMarketplace!\n\nOrder your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Mama Sita's"
     ],
@@ -389,8 +389,8 @@ const MOTHERS_DAY_DATA = [
       "servingTime": "30 minutes",
       "yield": "4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup Mama Sita’s Barbecue Marinade \n¼ cup honey \n2 tbsps. cornstarch slurry \n½ kg chicken wings \nOil for deep-frying",
-      "procedure": "Procedure\nIn a medium saucepan, boil together Mama Sita’s Barbecue Marinade and honey for 4-6 minutes. Whisk in the cornstarch slurry and let thicken. Set aside. \nDeep-fry chicken wings until crispy and golden brown.\nCoat chicken wings with barbecue-honey glaze."
+      "ingredients": "1 cup Mama Sita’s Barbecue Marinade \n¼ cup honey \n2 tbsps. cornstarch slurry \n½ kg chicken wings \nOil for deep-frying",
+      "procedure": "In a medium saucepan, boil together Mama Sita’s Barbecue Marinade and honey for 4-6 minutes. Whisk in the cornstarch slurry and let thicken. Set aside. \nDeep-fry chicken wings until crispy and golden brown.\nCoat chicken wings with barbecue-honey glaze."
     },
     "photo": {
       "filename": "MD17.jpg",

@@ -11,7 +11,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "October IG",
-    "caption": "Bursting with fiery cayenne pepper and garlic, these Cajun Pineapple Chicken Drumsticks made with tasty and meaty Magnolia Chicken Drumsticks are a merriment of sweet, savory, and salty flavors. #TheMarketplace takes pride in always carrying the freshest poultry, so turn up the heat for your next dinner and grab all the ingredients you need for this recipe today. Don’t forget to pair it with a nice icy drink and some extra rice to boot!\n\nServing Time: 45 minutes-1 hour\nYield: 4-6 servings\n\nIngredients\n\n¼ cup cajun seasoning blend \n500g Magnolia Chicken Drumsticks \n8 pineapple slices \n3 tbsps. oil \n¼ cup pineapple juice\n1 tbsp. soy sauce  \nCilantro sprigs for garnish\n\nProcedure\n\n1. Coat Magnolia Chicken Drumsticks in the cajun seasoning blend, reserving 1 tbsp. for pineapple slices. Let marinate for at least 30 minutes, or ideally overnight. \n2. Preheat oven to 175°C. Sprinkle remaining 1 tbsp. of the cajun seasoning on the pineapple slices. Transfer to a baking dish. \n3. Heat up oil in a pan over medium heat. Sear chicken in batches until nicely browned on all sides. Place on top of the pineapples in the baking dish. \n4. Deglaze pan with pineapple juice and soy sauce. Scrape off the bits and pieces stuck onto the pan. Drizzle this all over the chicken and pineapples. \n5. Roast for 10-12 minutes. \n6. Garnish with cilantro. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Bursting with fiery cayenne pepper and garlic, these Cajun Pineapple Chicken Drumsticks made with tasty and meaty Magnolia Chicken Drumsticks are a merriment of sweet, savory, and salty flavors. #TheMarketplace takes pride in always carrying the freshest poultry, so turn up the heat for your next dinner and grab all the ingredients you need for this recipe today. Don’t forget to pair it with a nice icy drink and some extra rice to boot!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Magnolia"
     ],
@@ -19,8 +19,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "45 minutes-1 hour",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n¼ cup cajun seasoning blend \n500g Magnolia Chicken Drumsticks \n8 pineapple slices \n3 tbsps. oil \n¼ cup pineapple juice\n1 tbsp. soy sauce  \nCilantro sprigs for garnish",
-      "procedure": "Procedure\nCoat Magnolia Chicken Drumsticks in the cajun seasoning blend, reserving 1 tbsp. for pineapple slices. Let marinate for at least 30 minutes, or ideally overnight. \nPreheat oven to 175°C. Sprinkle remaining 1 tbsp. of the cajun seasoning on the pineapple slices. Transfer to a baking dish. \nHeat up oil in a pan over medium heat. Sear chicken in batches until nicely browned on all sides. Place on top of the pineapples in the baking dish. \nDeglaze pan with pineapple juice and soy sauce. Scrape off the bits and pieces stuck onto the pan. Drizzle this all over the chicken and pineapples. \nRoast for 10-12 minutes. \nGarnish with cilantro."
+      "ingredients": "¼ cup cajun seasoning blend \n500g Magnolia Chicken Drumsticks \n8 pineapple slices \n3 tbsps. oil \n¼ cup pineapple juice\n1 tbsp. soy sauce  \nCilantro sprigs for garnish",
+      "procedure": "Coat Magnolia Chicken Drumsticks in the cajun seasoning blend, reserving 1 tbsp. for pineapple slices. Let marinate for at least 30 minutes, or ideally overnight. \nPreheat oven to 175°C. Sprinkle remaining 1 tbsp. of the cajun seasoning on the pineapple slices. Transfer to a baking dish. \nHeat up oil in a pan over medium heat. Sear chicken in batches until nicely browned on all sides. Place on top of the pineapples in the baking dish. \nDeglaze pan with pineapple juice and soy sauce. Scrape off the bits and pieces stuck onto the pan. Drizzle this all over the chicken and pineapples. \nRoast for 10-12 minutes. \nGarnish with cilantro."
     },
     "photo": {
       "filename": "IG1.jpg",
@@ -36,7 +36,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "October IG",
-    "caption": "Make mornings sophisticatedly tasty with this recipe for Strawberry Yoghurt Chia Pudding. Made with premium Bulla Strawberry Yoghurt and packed with fiber-rich chia seeds, as well as strawberries that are bursting with the sweetness of summer, make these ahead of time and serve in wine glasses for a classy twist. Shop at #TheMarketplace and get all the ingredients you need fresh!\n\nServing Time: 40 minutes\nYield: 2-3 servings\n\nIngredients\n\n6 tbsps. chia seeds\n2 packs Bulla Strawberry Yoghurt\n½ cup milk\n4 tbsps. strawberry jam\n½ cup strawberry, sliced\n3 tbsps. almonds, slivered\n2 tbsps. mint leaves\n\nProcedure\n1. In a medium size bowl, combine chia seeds, Bulla Strawberry Yoghurt and milk. Mix well until fully incorporated. Chill and let sit for at least 30 minutes.\n2. Fill the bottom rim of the dessert glass with strawberry jam, and add about ¾ cup of chia pudding on top.\n3. Top with sliced strawberries and almonds. Garnish with mint leaves.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Make mornings sophisticatedly tasty with this recipe for Strawberry Yoghurt Chia Pudding. Made with premium Bulla Strawberry Yoghurt and packed with fiber-rich chia seeds, as well as strawberries that are bursting with the sweetness of summer, make these ahead of time and serve in wine glasses for a classy twist. Shop at #TheMarketplace and get all the ingredients you need fresh!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Bulla"
     ],
@@ -44,8 +44,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "40 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n6 tbsps. chia seeds\n2 packs Bulla Strawberry Yoghurt\n½ cup milk\n4 tbsps. strawberry jam\n½ cup strawberry, sliced\n3 tbsps. almonds, slivered\n2 tbsps. mint leaves",
-      "procedure": "Procedure\nIn a medium size bowl, combine chia seeds, Bulla Strawberry Yoghurt and milk. Mix well until fully incorporated. Chill and let sit for at least 30 minutes.\nFill the bottom rim of the dessert glass with strawberry jam, and add about ¾ cup of chia pudding on top.\nTop with sliced strawberries and almonds. Garnish with mint leaves."
+      "ingredients": "6 tbsps. chia seeds\n2 packs Bulla Strawberry Yoghurt\n½ cup milk\n4 tbsps. strawberry jam\n½ cup strawberry, sliced\n3 tbsps. almonds, slivered\n2 tbsps. mint leaves",
+      "procedure": "In a medium size bowl, combine chia seeds, Bulla Strawberry Yoghurt and milk. Mix well until fully incorporated. Chill and let sit for at least 30 minutes.\nFill the bottom rim of the dessert glass with strawberry jam, and add about ¾ cup of chia pudding on top.\nTop with sliced strawberries and almonds. Garnish with mint leaves."
     },
     "photo": {
       "filename": "IG2.jpg",
@@ -99,7 +99,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "October IG",
-    "caption": "Give your calamansi juice a tropical twist in this recipe for Coconut Calamansi Lemonade! With the addition of Vita Coco Coconut Water, revel in the refreshing combination of nutty coconut and tangy citrus. For an added cooling effect, don’t forget to add sprigs of mint to the mix! Get all the ingredients you need to make this delicious cooler at #TheMarketplace!\n\nServing Time: 5 minutes\nYield: 4-5 glasses\n\nIngredients\n\n½ cup calamansi juice\n⅛ cup simple syrup\n1L Vita Coco Coconut Water\n1 cup calamansi, sliced\n3 cups ice\n1 cup mint sprigs\n\nProcedure\n\n1. In a pitcher, mix calamansi juice, simple syrup and Vita Coco Coconut Water.\n2. Fill the bottom of the glass with sliced calamansi, add ice and pour over coconut lemonade.\n3. Garnish with mint sprigs before serving.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Give your calamansi juice a tropical twist in this recipe for Coconut Calamansi Lemonade! With the addition of Vita Coco Coconut Water, revel in the refreshing combination of nutty coconut and tangy citrus. For an added cooling effect, don’t forget to add sprigs of mint to the mix! Get all the ingredients you need to make this delicious cooler at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Vita Coco"
     ],
@@ -107,8 +107,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "5 minutes",
       "yield": "4-5 glasses",
       "tips": "",
-      "ingredients": "Ingredients\n½ cup calamansi juice\n⅛ cup simple syrup\n1L Vita Coco Coconut Water\n1 cup calamansi, sliced\n3 cups ice\n1 cup mint sprigs",
-      "procedure": "Procedure\nIn a pitcher, mix calamansi juice, simple syrup and Vita Coco Coconut Water.\nFill the bottom of the glass with sliced calamansi, add ice and pour over coconut lemonade.\nGarnish with mint sprigs before serving."
+      "ingredients": "½ cup calamansi juice\n⅛ cup simple syrup\n1L Vita Coco Coconut Water\n1 cup calamansi, sliced\n3 cups ice\n1 cup mint sprigs",
+      "procedure": "In a pitcher, mix calamansi juice, simple syrup and Vita Coco Coconut Water.\nFill the bottom of the glass with sliced calamansi, add ice and pour over coconut lemonade.\nGarnish with mint sprigs before serving."
     },
     "photo": {
       "filename": "IG5.jpg",
@@ -124,7 +124,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "October IG",
-    "caption": "Pandesal is a pantry staple in most Filipino households. Apart from the comfort each bite of bread provides, its versatility makes it the perfect vehicle for a variety of fillers and spreads. If you’re in need of more creative ways to jazz up your Gardenia Pandesal, try this combination made with cream cheese, apples, celery, raisins, and nuts, for a salty-and-sweet medley that goes perfectly with the famous local bread. Shop all the ingredients you need at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 10 servings\n\nIngredients\n\n10 pcs. Gardenia Pandesal\n⅓ cup apple, diced\n1 tbsp. lemon juice\n⅓ cup celery, chopped\n¼ cup raisins\n¼ cup walnuts, roasted & chopped\n1 bar cream cheese\n1 cup lettuce\n\nProcedure\n\n1. Slice open Gardenia Pandesal and set aside.\n2. In a bowl, mix apple and lemon juice. Add in celery, raisins and walnuts. \n3. Fill each pandesal with a slice of cream cheese then add a layer of lettuce then finish with mixed veggies.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Pandesal is a pantry staple in most Filipino households. Apart from the comfort each bite of bread provides, its versatility makes it the perfect vehicle for a variety of fillers and spreads. If you’re in need of more creative ways to jazz up your Gardenia Pandesal, try this combination made with cream cheese, apples, celery, raisins, and nuts, for a salty-and-sweet medley that goes perfectly with the famous local bread. Shop all the ingredients you need at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Gardenia"
     ],
@@ -132,8 +132,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "15 minutes",
       "yield": "10 pieces",
       "tips": "",
-      "ingredients": "Ingredients\n10 pcs. Gardenia Pandesal\n⅓ cup apple, diced\n1 tbsp. lemon juice\n⅓ cup celery, chopped\n¼ cup raisins\n¼ cup walnuts, roasted & chopped\n1 bar cream cheese\n1 cup lettuce",
-      "procedure": "Procedure\nSlice open Gardenia Pandesal and set aside.\nIn a bowl, mix apple and lemon juice. Add in celery, raisins and walnuts. \nFill each pandesal with a slice of cream cheese then add a layer of lettuce then finish with mixed veggies."
+      "ingredients": "10 pcs. Gardenia Pandesal\n⅓ cup apple, diced\n1 tbsp. lemon juice\n⅓ cup celery, chopped\n¼ cup raisins\n¼ cup walnuts, roasted & chopped\n1 bar cream cheese\n1 cup lettuce",
+      "procedure": "Slice open Gardenia Pandesal and set aside.\nIn a bowl, mix apple and lemon juice. Add in celery, raisins and walnuts. \nFill each pandesal with a slice of cream cheese then add a layer of lettuce then finish with mixed veggies."
     },
     "photo": {
       "filename": "IG6.jpg",
@@ -149,7 +149,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "October IG",
-    "caption": "Nothing really compares to comfort brought by the classic egg salad on white bread. Using Marby Superloaf, this foolproof recipe for Egg Sandwiches is so easy to prepare and enjoyable any time of the day. Have it with a cup of brewed coffee, tea, or juice, and savor a moment of bliss with every bite. All the ingredients you need are available at #TheMarketplace, where freshness and quality are always guaranteed.\n\nServing Time: 20 minutes\nYield: 12 sandwiches\n\nIngredients\n\n8 eggs, boiled\n6 tsps. butter, softened\n½ cup mayonnaise\n1 tsp. mustard\n½ tsp. salt\n½ tsp. pepper\n1 cup lettuce\n12 slices Marby Superloaf\n\nProcedure\n\n1. Chop boiled eggs and transfer into a bowl.\n2. Add butter, mayonnaise and mustard. Season with salt and pepper.\n3. Put a piece of lettuce over a slice of Marby Superloaf bread. Spread egg mixture and cover with another slice of bread.\n4. Slice into triangles and serve.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Nothing really compares to comfort brought by the classic egg salad on white bread. Using Marby Superloaf, this foolproof recipe for Egg Sandwiches is so easy to prepare and enjoyable any time of the day. Have it with a cup of brewed coffee, tea, or juice, and savor a moment of bliss with every bite. All the ingredients you need are available at #TheMarketplace, where freshness and quality are always guaranteed.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Marby"
     ],
@@ -157,8 +157,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "20 minutes",
       "yield": "12 sandwiches",
       "tips": "",
-      "ingredients": "Ingredients\n8 eggs, boiled\n6 tsps. butter, softened\n½ cup mayonnaise\n1 tsp. mustard\n½ tsp. salt\n½ tsp. pepper\n1 cup lettuce\n12 slices Marby Superloaf",
-      "procedure": "Procedure\nChop boiled eggs and transfer into a bowl.\nAdd butter, mayonnaise and mustard. Season with salt and pepper.\nPut a piece of lettuce over a slice of Marby Superloaf bread. Spread egg mixture and cover with another slice of bread.\nSlice into triangles and serve."
+      "ingredients": "8 eggs, boiled\n6 tsps. butter, softened\n½ cup mayonnaise\n1 tsp. mustard\n½ tsp. salt\n½ tsp. pepper\n1 cup lettuce\n12 slices Marby Superloaf",
+      "procedure": "Chop boiled eggs and transfer into a bowl.\nAdd butter, mayonnaise and mustard. Season with salt and pepper.\nPut a piece of lettuce over a slice of Marby Superloaf bread. Spread egg mixture and cover with another slice of bread.\nSlice into triangles and serve."
     },
     "photo": {
       "filename": "IG7.jpg",
@@ -174,7 +174,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "October IG",
-    "caption": "You might have heard of fried chicken recipes that use potato chips for the crust, so we thought of making that more luscious by using Irvins Salted Egg Potato Chips in this recipe for Salted Egg Chips Chicken. The addictive chip brand has found a higher purpose as the chickens’ coating. Served with a tangy herb mayo dip to complement and balance out the richness, this recipe is a must-try for all fried chicken lovers out there. Get all the ingredients you need at #TheMarketplace!\n\nServing Time: 1 hour\nYield: 2 servings\n\nIngredients\n\n(For the Salted Egg Chips Chicken)\n500g chicken breast\nSalt and pepper to taste\n½ cup flour\n2 eggs\n2 packs Irvins Salted Egg Potato Chips, crushed\n1 cup oil\n(For the Herb Mayo Dip)\n⅓ cup mayonnaise\n2 tbsps. sour cream\n2 tbsps. cilantro, chopped\n2 tbsps. parsley, chopped\nSalt and pepper to taste\n\nProcedure\n\n1. Pat dry chicken breast with paper towels. Season with salt and pepper on both sides.\n2. Dredge chicken in flour, then dip in the egg and coat with Irvins Salted Egg Potato Chips on both sides. Refrigerate for at least 30 minutes.\n3. In a bowl, combine mayonnaise, sour cream, cilantro and parsley. Season with salt and pepper, then set aside.\n4. Preheat oil to 170°C. Fry breaded chicken until golden brown and cooked through.\n5. Serve chicken with the herb mayo dip.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "You might have heard of fried chicken recipes that use potato chips for the crust, so we thought of making that more luscious by using Irvins Salted Egg Potato Chips in this recipe for Salted Egg Chips Chicken. The addictive chip brand has found a higher purpose as the chickens’ coating. Served with a tangy herb mayo dip to complement and balance out the richness, this recipe is a must-try for all fried chicken lovers out there. Get all the ingredients you need at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Irvins"
     ],
@@ -182,8 +182,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "1 hour",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\nSalted Egg Chips Chicken:\n500g chicken breast\nSalt and pepper to taste\n½ cup flour\n2 eggs\n2 packs Irvins Salted Egg Potato Chips, crushed\n1 cup oil\nHerb Mayo Dip:\n⅓ cup mayonnaise\n2 tbsps. sour cream\n2 tbsps. cilantro, chopped\n2 tbsps. parsley, chopped\nSalt and pepper to taste",
-      "procedure": "Procedure\nPat dry chicken breast with paper towels. Season with salt and pepper on both sides.\nDredge chicken in flour, then dip in the egg and coat with Irvins Salted Egg Potato Chips on both sides. Refrigerate for at least 30 minutes.\nIn a bowl, combine mayonnaise, sour cream, cilantro and parsley. Season with salt and pepper, then set aside.\nPreheat oil to 170°C. Fry breaded chicken until golden brown and cooked through.\nServe chicken with the herb mayo dip."
+      "ingredients": "Salted Egg Chips Chicken:\n500g chicken breast\nSalt and pepper to taste\n½ cup flour\n2 eggs\n2 packs Irvins Salted Egg Potato Chips, crushed\n1 cup oil\nHerb Mayo Dip:\n⅓ cup mayonnaise\n2 tbsps. sour cream\n2 tbsps. cilantro, chopped\n2 tbsps. parsley, chopped\nSalt and pepper to taste",
+      "procedure": "Pat dry chicken breast with paper towels. Season with salt and pepper on both sides.\nDredge chicken in flour, then dip in the egg and coat with Irvins Salted Egg Potato Chips on both sides. Refrigerate for at least 30 minutes.\nIn a bowl, combine mayonnaise, sour cream, cilantro and parsley. Season with salt and pepper, then set aside.\nPreheat oil to 170°C. Fry breaded chicken until golden brown and cooked through.\nServe chicken with the herb mayo dip."
     },
     "photo": {
       "filename": "IG8.jpg",
@@ -199,7 +199,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "October IG",
-    "caption": "Got time this weekend? Make a special dessert for the family (or for yourself) with this recipe for Pistachio Tres Leches.\n\nAs its namesake depicts, three types of milk are used in this recipe, with Sunkist Pistachio Milk taking the place of its regular, full-cream counterpart. Bursting with flavors of creamy milk and vanilla, we added a touch of sour cream to temper out the sweetness and some crunchy pistachios to provide a buttery, nutty bite that lingers on the palate. Sounds heavenly, right? Add all the ingredients below to your cart the next time you shop at #TheMarketplace!\n\nServing Time: 4 hours\nYield: 4-6 servings\n\nIngredients\n\n1 box vanilla cake mix \n1 cup sour cream\n1 cup vegetable oil\n½ cup water \n4 eggs \n½ cup pistachios, toasted and chopped \n1 cup condensed milk\n1 cup evaporated milk \n1 cup Sunkist Pistachio Milk\n1 tsp. vanilla \n2 cups whipped cream \n\nProcedure\n1. Preheat oven to 175°C. Grease a 9x9” pan. \n2. Whisk together cake mix, sour cream, oil, water and eggs until just combined. Mix in ¼ cup of the pistachios. \n3. Bake for 30-40 minutes, or until a toothpick inserted in the middle comes out clean. \n4. Meanwhile, whisk together condensed milk, evaporated milk, Sunkist Pistachio milk and vanilla. \n5. Once cake is cooked, poke multiple holes all over. Pour the milk mixture all over the cake. \n6. Chill for at least 3 hours or ideally overnight. \n7. Top with whipped cream and remaining pistachios. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Got time this weekend? Make a special dessert for the family (or for yourself) with this recipe for Pistachio Tres Leches.\n\nAs its namesake depicts, three types of milk are used in this recipe, with Sunkist Pistachio Milk taking the place of its regular, full-cream counterpart. Bursting with flavors of creamy milk and vanilla, we added a touch of sour cream to temper out the sweetness and some crunchy pistachios to provide a buttery, nutty bite that lingers on the palate. Sounds heavenly, right? Add all the ingredients below to your cart the next time you shop at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Sunkist"
     ],
@@ -207,8 +207,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "4 hours",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 box vanilla cake mix \n1 cup sour cream\n1 cup vegetable oil\n½ cup water \n4 eggs \n½ cup pistachios, toasted and chopped \n1 cup condensed milk\n1 cup evaporated milk \n1 cup Sunkist Pistachio Milk\n1 tsp. vanilla \n2 cups whipped cream",
-      "procedure": "Procedure\nPreheat oven to 175°C. Grease a 9x9” pan. \nWhisk together cake mix, sour cream, oil, water and eggs until just combined. Mix in ¼ cup of the pistachios. \nBake for 30-40 minutes, or until a toothpick inserted in the middle comes out clean. \nMeanwhile, whisk together condensed milk, evaporated milk, Sunkist Pistachio milk and vanilla. \nOnce cake is cooked, poke multiple holes all over. Pour the milk mixture all over the cake. \nChill for at least 3 hours or ideally overnight. \nTop with whipped cream and remaining pistachios."
+      "ingredients": "1 box vanilla cake mix \n1 cup sour cream\n1 cup vegetable oil\n½ cup water \n4 eggs \n½ cup pistachios, toasted and chopped \n1 cup condensed milk\n1 cup evaporated milk \n1 cup Sunkist Pistachio Milk\n1 tsp. vanilla \n2 cups whipped cream",
+      "procedure": "Preheat oven to 175°C. Grease a 9x9” pan. \nWhisk together cake mix, sour cream, oil, water and eggs until just combined. Mix in ¼ cup of the pistachios. \nBake for 30-40 minutes, or until a toothpick inserted in the middle comes out clean. \nMeanwhile, whisk together condensed milk, evaporated milk, Sunkist Pistachio milk and vanilla. \nOnce cake is cooked, poke multiple holes all over. Pour the milk mixture all over the cake. \nChill for at least 3 hours or ideally overnight. \nTop with whipped cream and remaining pistachios."
     },
     "photo": {
       "filename": "IG9.jpg",
@@ -224,7 +224,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "October IG",
-    "caption": "What’s better than crunchy, fresh-from-the-fryer onion rings? Bacon-wrapped ones, of course!\n\nAdd a bit of indulgence to your next movie night with this recipe for Bacon Onion Rings. Using The Good Meat’s Smoked Bacon, make sure to refrigerate the bacon-wrapped onion rings for an hour before frying them. This neat little trick will yield to a crunchy batch of this porky snack. Accompanied by a tangy-and-sweet honey mustard dip, this addictive treat is one that will definitely leave a lasting impression. Find all the ingredients you need at #TheMarketplace!\n\nServing Time: 2 hours\nYield: 2-3 servings\n\nIngredients\n\n(For the Bacon Onion Rings)\n3 white onions\n1 pack The Good Meat Smoked Bacon\n1 cup oil\n2 tbsps. parsley, chopped\n(For Honey Mustard Dip)\n⅓ cup mayonnaise\n3 tbsps. mustard\n2 tbsps. honey\n1 tbsp. lemon juice\n¼ tsp. cayenne pepper powder\nSalt and pepper to taste\n\nProcedure\n1. Peel and slice white onions into ½”  rings.\n2. Wrap each onion ring with The Good Meat Smoked Bacon, then secure the ends with toothpick and refrigerate for an hour.\n3. In a small bowl, combine mayonnaise, mustard, honey, lemon juice, and cayenne pepper. Season with salt and pepper, then set aside.\n4. Preheat oil to 170°C. Fry bacon onion rings until golden brown. Strain excess oil.\n5. Serve alongside honey mustard dip and garnish with parsley.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "What’s better than crunchy, fresh-from-the-fryer onion rings? Bacon-wrapped ones, of course!\n\nAdd a bit of indulgence to your next movie night with this recipe for Bacon Onion Rings. Using The Good Meat’s Smoked Bacon, make sure to refrigerate the bacon-wrapped onion rings for an hour before frying them. This neat little trick will yield to a crunchy batch of this porky snack. Accompanied by a tangy-and-sweet honey mustard dip, this addictive treat is one that will definitely leave a lasting impression. Find all the ingredients you need at #TheMarketplace!\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "The Good Meat"
     ],
@@ -232,8 +232,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "2 hours",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\nBacon Onion Rings:\n3 white onions\n1 pack The Good Meat Smoked Bacon\n1 cup oil\n2 tbsps. parsley, chopped\nHoney Mustard Dip\n⅓ cup mayonnaise\n3 tbsps. mustard\n2 tbsps. honey\n1 tbsp. lemon juice\n¼ tsp. cayenne pepper powder\nSalt and pepper to taste",
-      "procedure": "Procedure\nPeel and slice white onions into ½”  rings.\nWrap each onion ring with The Good Meat Smoked Bacon, then secure the ends with toothpick and refrigerate for an hour.\nIn a small bowl, combine mayonnaise, mustard, honey, lemon juice, and cayenne pepper. Season with salt and pepper, then set aside.\nPreheat oil to 170°C. Fry bacon onion rings until golden brown. Strain excess oil.\nServe alongside honey mustard dip and garnish with parsley."
+      "ingredients": "Bacon Onion Rings:\n3 white onions\n1 pack The Good Meat Smoked Bacon\n1 cup oil\n2 tbsps. parsley, chopped\nHoney Mustard Dip\n⅓ cup mayonnaise\n3 tbsps. mustard\n2 tbsps. honey\n1 tbsp. lemon juice\n¼ tsp. cayenne pepper powder\nSalt and pepper to taste",
+      "procedure": "Peel and slice white onions into ½”  rings.\nWrap each onion ring with The Good Meat Smoked Bacon, then secure the ends with toothpick and refrigerate for an hour.\nIn a small bowl, combine mayonnaise, mustard, honey, lemon juice, and cayenne pepper. Season with salt and pepper, then set aside.\nPreheat oil to 170°C. Fry bacon onion rings until golden brown. Strain excess oil.\nServe alongside honey mustard dip and garnish with parsley."
     },
     "photo": {
       "filename": "IG10.jpg",
@@ -268,7 +268,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "October IG",
-    "caption": "Often confused as a pie, a galette is a flat, formless pastry wrapped around a sweet or savory filling. In the case of this Corned Beef Galette, we used everyone’s favorite Delimondo Ranch Style Corned Beef with zucchini. The beef’s hearty flavors paired with the buttery pastry makes it an undeniable comfort dish that’s best enjoyed with the people you hold dear. Find all the ingredients you need at #TheMarketplace!\n\nServing Time: 30-40 minutes\nYield: 2-3 servings\n\nIngredients\n\n1 tbsp. oil\n1 tbsp. garlic, minced\n2 cans Delimondo Ranch Style Corned Beef \nSalt and pepper to taste \n¼ cup flour\n1 sheet puff pastry\n1 onion, sliced into rings\n¾ cup zucchini, sliced\n1 egg, beaten\n1 tbsp. milk\n1 tbsp. black sesame seeds\n2 tbsps. parsley, chopped\n\nProcedure\n\n1. Preheat oven to 350°F.\n2. Set a pan over medium heat, then add oil and sauté garlic. Add Delimondo Ranch Style Corned Beef, and season with salt and pepper. \n3. Let simmer until liquid is reduced, then set aside\n4. Dust board and rolling pin with flour. Flatten puff pastry to desired size.\n5. Arrange cooked corned beef in the middle of the puff pastry.\n6. Spread corned beef, and fold the sides of the puff pastry to secure. Top with sliced onions and zucchini. \n7. In a small bowl, combine egg and milk. Brush the edges of the puff pastry with egg wash, and sprinkle with black sesame seeds.\n8. Bake for 15-20 minutes. Garnish with parsley before serving.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Often confused as a pie, a galette is a flat, formless pastry wrapped around a sweet or savory filling. In the case of this Corned Beef Galette, we used everyone’s favorite Delimondo Ranch Style Corned Beef with zucchini. The beef’s hearty flavors paired with the buttery pastry makes it an undeniable comfort dish that’s best enjoyed with the people you hold dear. Find all the ingredients you need at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Delimondo"
     ],
@@ -276,8 +276,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "30-40 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 tbsp. oil\n1 tbsp. garlic, minced\n2 cans Delimondo Ranch Style Corned Beef \nSalt and pepper to taste \n¼ cup flour\n1 sheet puff pastry\n1 onion, sliced into rings\n¾ cup zucchini, sliced\n1 egg, beaten\n1 tbsp. milk\n1 tbsp. black sesame seeds\n2 tbsps. parsley, chopped",
-      "procedure": "Procedure\nPreheat oven to 350°F.\nSet a pan over medium heat, then add oil and sauté garlic. Add Delimondo Ranch Style Corned Beef, and season with salt and pepper. \nLet simmer until liquid is reduced, then set aside\nDust board and rolling pin with flour. Flatten puff pastry to desired size.\nArrange cooked corned beef in the middle of the puff pastry.\nSpread corned beef, and fold the sides of the puff pastry to secure. Top with sliced onions and zucchini. \nIn a small bowl, combine egg and milk. Brush the edges of the puff pastry with egg wash, and sprinkle with black sesame seeds.\nBake for 15-20 minutes. Garnish with parsley before serving."
+      "ingredients": "1 tbsp. oil\n1 tbsp. garlic, minced\n2 cans Delimondo Ranch Style Corned Beef \nSalt and pepper to taste \n¼ cup flour\n1 sheet puff pastry\n1 onion, sliced into rings\n¾ cup zucchini, sliced\n1 egg, beaten\n1 tbsp. milk\n1 tbsp. black sesame seeds\n2 tbsps. parsley, chopped",
+      "procedure": "Preheat oven to 350°F.\nSet a pan over medium heat, then add oil and sauté garlic. Add Delimondo Ranch Style Corned Beef, and season with salt and pepper. \nLet simmer until liquid is reduced, then set aside\nDust board and rolling pin with flour. Flatten puff pastry to desired size.\nArrange cooked corned beef in the middle of the puff pastry.\nSpread corned beef, and fold the sides of the puff pastry to secure. Top with sliced onions and zucchini. \nIn a small bowl, combine egg and milk. Brush the edges of the puff pastry with egg wash, and sprinkle with black sesame seeds.\nBake for 15-20 minutes. Garnish with parsley before serving."
     },
     "photo": {
       "filename": "IG12.jpg",
@@ -293,7 +293,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "October IG",
-    "caption": "A sure crowd pleaser, this recipe for Korean Corn Cheese is livened up with a touch of fiery gochujang, or Korean red pepper paste. Using UFC Whole Corn Kernels for the base, the contrasting flavors of creamy cheese and spicy gochujang add a subtle yet fiery kick, making it an ideal partner to go with your favorite corn chips. Find all the ingredients you need, including an array of international sauces and dips, only at #TheMarketplace!\n\nServing Time: 25-30 minutes\nYield: 2-3 servings\n\nIngredients\n\n½ cup cream cheese, softened\n¼ cup mayonnaise\n2 tbsps. milk\n2 tbsps. gochujang\n1 cup mozzarella cheese, grated\n1 can UFC Whole Corn Kernels\nSalt and pepper to taste\n⅛ cup scallions, chopped\n\nProcedure\n\n1. Preheat oven to 350°F.\n2. In a bowl, combine cream cheese, mayonnaise, milk, and gochujang until smooth.\n3. Add ½ cup of mozzarella cheese and UFC Whole Corn Kernels. Season with salt and pepper.\n4. Transfer to an oven safe dish, or a small cast iron pan. Top with the remaining half of mozzarella cheese.\n5. Bake for 10-15 minutes. Garnish with scallions.\n6. Serve alongside preferred chips.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "A sure crowd pleaser, this recipe for Korean Corn Cheese is livened up with a touch of fiery gochujang, or Korean red pepper paste. Using UFC Whole Corn Kernels for the base, the contrasting flavors of creamy cheese and spicy gochujang add a subtle yet fiery kick, making it an ideal partner to go with your favorite corn chips. Find all the ingredients you need, including an array of international sauces and dips, only at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "UFC"
     ],
@@ -301,8 +301,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "25-30 minutes",
       "yield": "2-3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n½ cup cream cheese, softened\n¼ cup mayonnaise\n2 tbsps. milk\n2 tbsps. gochujang\n1 cup mozzarella cheese, grated\n1 can UFC Whole Corn Kernels\nSalt and pepper to taste\n⅛ cup scallions, chopped",
-      "procedure": "Procedure\nPreheat oven to 350°F.\nIn a bowl, combine cream cheese, mayonnaise, milk, and gochujang until smooth.\nAdd ½ cup of mozzarella cheese and UFC Whole Corn Kernels. Season with salt and pepper.\nTransfer to an oven safe dish, or a small cast iron pan. Top with the remaining half of mozzarella cheese.\nBake for 10-15 minutes. Garnish with scallions.\nServe alongside preferred chips."
+      "ingredients": "½ cup cream cheese, softened\n¼ cup mayonnaise\n2 tbsps. milk\n2 tbsps. gochujang\n1 cup mozzarella cheese, grated\n1 can UFC Whole Corn Kernels\nSalt and pepper to taste\n⅛ cup scallions, chopped",
+      "procedure": "Preheat oven to 350°F.\nIn a bowl, combine cream cheese, mayonnaise, milk, and gochujang until smooth.\nAdd ½ cup of mozzarella cheese and UFC Whole Corn Kernels. Season with salt and pepper.\nTransfer to an oven safe dish, or a small cast iron pan. Top with the remaining half of mozzarella cheese.\nBake for 10-15 minutes. Garnish with scallions.\nServe alongside preferred chips."
     },
     "photo": {
       "filename": "IG13.jpg",
@@ -318,7 +318,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "October IG",
-    "caption": "Make yourself a glass of Cloud Caramel Macchiato, packed with all those pumpkin spice flavors, to blend in with the cozy autumn mood. With Taiwanese brand Mr. Brown’s bottled Caramel Macchiato as the base, create your sweet cloud foam using egg whites, some icing sugar, vanilla, and cinnamon. With this recipe, there’s no need to head out to the café! Find all the ingredients you need, including other international coffee brands, only at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 2 servings\n\nIngredients\n\n2 egg whites \n1 tbsp. icing sugar \n⅛ tsp. vanilla \n1 tbsp. water\n¼ cup caramel sauce \n1 bottle Mr. Brown Caramel Macchiato \n1 tsp. cinnamon\n\nProcedure\n\n1. Whip egg whites, icing sugar, vanilla and water until light and foamy. \n2. Drizzle caramel sauce inside serving glasses. Fill with ice cubes and with Mr. Brown Caramel Macchiato.\n3. Top with foamed egg whites and a sprinkling of cinnamon. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Make yourself a glass of Cloud Caramel Macchiato, packed with all those pumpkin spice flavors, to blend in with the cozy autumn mood. With Taiwanese brand Mr. Brown’s bottled Caramel Macchiato as the base, create your sweet cloud foam using egg whites, some icing sugar, vanilla, and cinnamon. With this recipe, there’s no need to head out to the café! Find all the ingredients you need, including other international coffee brands, only at #TheMarketplace!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "! Generic"
     ],
@@ -326,8 +326,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "15 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 egg whites \n1 tbsp. icing sugar \n⅛ tsp. vanilla \n1 tbsp. water\n¼ cup caramel sauce \n1 bottle Mr. Brown Caramel Macchiato \n1 tsp. cinnamon",
-      "procedure": "Procedure\nWhip egg whites, icing sugar, vanilla and water until light and foamy. \nDrizzle caramel sauce inside serving glasses. Fill with ice cubes and with Mr. Brown Caramel Macchiato. \nTop with foamed egg whites and a sprinkling of cinnamon."
+      "ingredients": "2 egg whites \n1 tbsp. icing sugar \n⅛ tsp. vanilla \n1 tbsp. water\n¼ cup caramel sauce \n1 bottle Mr. Brown Caramel Macchiato \n1 tsp. cinnamon",
+      "procedure": "Whip egg whites, icing sugar, vanilla and water until light and foamy. \nDrizzle caramel sauce inside serving glasses. Fill with ice cubes and with Mr. Brown Caramel Macchiato. \nTop with foamed egg whites and a sprinkling of cinnamon."
     },
     "photo": {
       "filename": "FB1.jpg",
@@ -343,7 +343,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "October IG",
-    "caption": "Craving a mojito? Here’s one that you can easily whip up in just five minutes!\n\nUsing Nestea Cleanse, which is a delicious and refreshing lemon cucumber powdered green tea, all it takes is a splash of white rum, lemon juice, cucumbers, and a sprig of mint. Plus points because you get some extra fiber from Nestea Cleanse! Get your ingredients fresh, along with other delicious powdered beverages, at #TheMarketplace!\n\nServing Time: 5 minutes\nYield: 1 serving\n\nIngredients\n\n1 sprig mint\n2 tbsps. lemon juice\n1 tbsp. sugar\n2 cups ice\n2 shots white rum\n1 cup Nestea Cleanse\n2 cucumbers, ribboned\n1 lemon, sliced\n\nProcedure\n\n1. In a cocktail shaker, muddle mint sprigs with lemon juice and sugar.\n2. Add half of the ice then add white rum and Nestea Cleanse. Shake well.\n3. Place cucumber ribbon in a glass and fill with the remaining ice. Use a strainer when transferring the cocktail into the glass.\n4. Garnish with a cucumber ribbon and sliced lemon.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Craving a mojito? Here’s one that you can easily whip up in just five minutes!\n\nUsing Nestea Cleanse, which is a delicious and refreshing lemon cucumber powdered green tea, all it takes is a splash of white rum, lemon juice, cucumbers, and a sprig of mint. Plus points because you get some extra fiber from Nestea Cleanse! Get your ingredients fresh, along with other delicious powdered beverages, at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Nestea"
     ],
@@ -351,8 +351,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "5 minutes",
       "yield": "1 serving",
       "tips": "",
-      "ingredients": "Ingredients\n1 sprig mint\n2 tbsps. lemon juice\n1 tbsp. sugar\n2 cups ice\n2 shots white rum\n1 cup Nestea Cleanse\n2 cucumbers, ribboned\n1 lemon, sliced",
-      "procedure": "Procedure\nIn a cocktail shaker, muddle mint sprigs with lemon juice and sugar.\nAdd half of the ice then add white rum and Nestea Cleanse. Shake well.\nPlace cucumber ribbon in a glass and fill with the remaining ice. Use a strainer when transferring the cocktail into the glass.\nGarnish with a cucumber ribbon and sliced lemon."
+      "ingredients": "1 sprig mint\n2 tbsps. lemon juice\n1 tbsp. sugar\n2 cups ice\n2 shots white rum\n1 cup Nestea Cleanse\n2 cucumbers, ribboned\n1 lemon, sliced",
+      "procedure": "In a cocktail shaker, muddle mint sprigs with lemon juice and sugar.\nAdd half of the ice then add white rum and Nestea Cleanse. Shake well.\nPlace cucumber ribbon in a glass and fill with the remaining ice. Use a strainer when transferring the cocktail into the glass.\nGarnish with a cucumber ribbon and sliced lemon."
     },
     "photo": {
       "filename": "FB2.jpg",
@@ -368,7 +368,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "October IG",
-    "caption": "If you’re in the mood for a luscious milkshake with a caffeinated kick, here’s a recipe for Cookies & Cream Mocha Milkshakes made with Starbucks bottled Mocha Frappuccinos! For added texture and taste, blend in some crushed cookies and vanilla ice cream. Trust us, it’s worth every calorie. Get your favorite bottled coffees and other beverage staples at #TheMarketplace today! \n\nServing Time: 10 minutes\nYield: 3 servings\n\nIngredients\n\n1 ½ cups Starbucks Mocha Frappuccino\n3 cups vanilla ice cream\n¾ cup cookies, crushed\n1 can whipped cream spray\n\nProcedure\n\n1. Using a blender, combine Starbucks Mocha Frappuccino, vanilla ice cream and ½ cup of crushed cookies.\n2. Transfer to a glass, and top with whipped cream. Sprinkle with remaining crushed cookies.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "If you’re in the mood for a luscious milkshake with a caffeinated kick, here’s a recipe for Cookies & Cream Mocha Milkshakes made with Starbucks bottled Mocha Frappuccinos! For added texture and taste, blend in some crushed cookies and vanilla ice cream. Trust us, it’s worth every calorie. Get your favorite bottled coffees and other beverage staples at #TheMarketplace today!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Starbucks"
     ],
@@ -376,8 +376,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "10 minutes",
       "yield": "3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 ½ cups Starbucks Mocha Frappuccino\n3 cups vanilla ice cream\n¾ cup cookies, crushed\n1 can whipped cream spray",
-      "procedure": "Procedure\nUsing a blender, combine Starbucks Mocha Frappuccino, vanilla ice cream and ½ cup of crushed cookies.\nTransfer to a glass, and top with whipped cream. Sprinkle with remaining crushed cookies."
+      "ingredients": "1 ½ cups Starbucks Mocha Frappuccino\n3 cups vanilla ice cream\n¾ cup cookies, crushed\n1 can whipped cream spray",
+      "procedure": "Using a blender, combine Starbucks Mocha Frappuccino, vanilla ice cream and ½ cup of crushed cookies.\nTransfer to a glass, and top with whipped cream. Sprinkle with remaining crushed cookies."
     },
     "photo": {
       "filename": "FB3.jpg",
@@ -393,7 +393,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "October IG",
-    "caption": "No one can refuse the nostalgic flavors of a banana split, and in this recipe, we’ve elevated the way it's served by turning it into a Banana Split Trifle. Made from the freshest milk and cream, Bulla Vanilla Ice Cream is a must-have for this dessert. Never to sweet yet bursting with the fragrance of natural vanilla, it’s the perfect treat to layer on with ripe bananas, sweet strawberry jam, and other assorted toppings. Find tubs of Bulla Vanilla Ice Cream, along with other imported ice cream brands, at #TheMarketplace!\n\nServing Time: 10 minutes\nYield: 1-2 servings\n\nIngredients\n\n¼ cup strawberry jam \n1 banana, sliced \n¼ cup whipped cream \n¼ cup biscuits, crushed \n5 strawberries, sliced \n1 scoop Bulla Vanilla Ice Cream \nChocolate sauce for topping\n1 tbsp. almonds, chopped\n\nProcedure\n1. Layer strawberry jam, bananas, whipped cream, biscuits and strawberries nicely in a trifle container. \n2. Top with Bulla Vanilla Ice Cream. Drizzle with chocolate sauce and almonds. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "No one can refuse the nostalgic flavors of a banana split, and in this recipe, we’ve elevated the way it's served by turning it into a Banana Split Trifle. Made from the freshest milk and cream, Bulla Vanilla Ice Cream is a must-have for this dessert. Never to sweet yet bursting with the fragrance of natural vanilla, it’s the perfect treat to layer on with ripe bananas, sweet strawberry jam, and other assorted toppings. Find tubs of Bulla Vanilla Ice Cream, along with other imported ice cream brands, at #TheMarketplace!\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Bulla"
     ],
@@ -401,8 +401,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "10 minutes",
       "yield": "1-2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n¼ cup strawberry jam \n1 banana, sliced \n¼ cup whipped cream \n¼ cup biscuits, crushed \n5 strawberries, sliced \n1 scoop Bulla Vanilla Ice Cream \nChocolate sauce for topping\n1 tbsp. almonds, chopped",
-      "procedure": "Procedure\nLayer strawberry jam, bananas, whipped cream, biscuits and strawberries nicely in a trifle container. \nTop with Bulla Vanilla Ice Cream. Drizzle with chocolate sauce and almonds."
+      "ingredients": "¼ cup strawberry jam \n1 banana, sliced \n¼ cup whipped cream \n¼ cup biscuits, crushed \n5 strawberries, sliced \n1 scoop Bulla Vanilla Ice Cream \nChocolate sauce for topping\n1 tbsp. almonds, chopped",
+      "procedure": "Layer strawberry jam, bananas, whipped cream, biscuits and strawberries nicely in a trifle container. \nTop with Bulla Vanilla Ice Cream. Drizzle with chocolate sauce and almonds."
     },
     "photo": {
       "filename": "FB4.jpg",
@@ -437,7 +437,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "October IG",
-    "caption": "Cheese buns are a classic snack that are great to have any time of the day, and here’s a creative way to enjoy them — by making these easy Gardenia Cheese Bun Pancakes that come complete with a sweet glaze. Topped with crunchy apples and creamy butter, this combination of savory and sweet will be a definite hit at any breakfast table. Grab your Gardenia Cheese Buns in your next grocery run at #TheMarketplace!\n\nServing Time: 15-20 minutes\nYield: 2 servings\n\nIngredients\n\n10 Gardenia  Cheese Buns\n½ cup powdered sugar\n¼ cup milk\n¼ cup apple, diced\n2 tbsps. butter\n\nProcedure\n1. Flatten each Gardenia Cheese Bun.\n2. Set a nonstick pan over medium heat, and toast flattened cheese buns until nicely browned on both sides.\n3. In a small bowl, combine powdered sugar and milk. Mix well.\n4. Stack toasted cheese buns on a plate, then top with apples and butter. Drizzle with sweetened milk.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Cheese buns are a classic snack that are great to have any time of the day, and here’s a creative way to enjoy them — by making these easy Gardenia Cheese Bun Pancakes that come complete with a sweet glaze. Topped with crunchy apples and creamy butter, this combination of savory and sweet will be a definite hit at any breakfast table. Grab your Gardenia Cheese Buns in your next grocery run at #TheMarketplace!\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Gardenia"
     ],
@@ -445,8 +445,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "15-20 minutes",
       "yield": "2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n10 Gardenia  Cheese Buns\n½ cup powdered sugar\n¼ cup milk\n¼ cup apple, diced\n2 tbsps. butter",
-      "procedure": "Procedure\nFlatten each Gardenia Cheese Bun.\nSet a nonstick pan over medium heat, and toast flattened cheese buns until nicely browned on both sides.\nIn a small bowl, combine powdered sugar and milk. Mix well.\nStack toasted cheese buns on a plate, then top with apples and butter. Drizzle with sweetened milk."
+      "ingredients": "10 Gardenia  Cheese Buns\n½ cup powdered sugar\n¼ cup milk\n¼ cup apple, diced\n2 tbsps. butter",
+      "procedure": "Flatten each Gardenia Cheese Bun.\nSet a nonstick pan over medium heat, and toast flattened cheese buns until nicely browned on both sides.\nIn a small bowl, combine powdered sugar and milk. Mix well.\nStack toasted cheese buns on a plate, then top with apples and butter. Drizzle with sweetened milk."
     },
     "photo": {
       "filename": "FB6.jpg",
@@ -462,7 +462,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "October IG",
-    "caption": "Every so often, we find ourselves daydreaming about Japanese food. The Katsu Sando is a popular Japanese sandwich that’s made with deep-fried pork loin and cabbage, dressed in a savory tonkatsu sauce. In this recipe, we’ll show you how easy it is to prepare, so make sure you have a Fuwa Fuwa Premium Loaf nearby!. If not, head over to #TheMarketplace and get all the ingredients you need to create this lip-smacking pork sandwich. Itadakimasu!\n\nServing Time: 1 hour\nYield: 3 servings\n\nIngredients\n\n3 pcs. pork loin\nSalt and pepper to taste\n½ cup flour\n2 eggs, beaten\n2 cups panko breadcrumbs\n2 cups oil\n6 slices Fuwa Fuwa Premium Loaf\n½ cup tonkatsu sauce\t\n1 cup cabbage, shredded\n\nProcedure\n\n1. Pat the pork loin dry with paper towel. Season with salt and pepper on both sides.\n2. Dredge in flour then dip it in the egg and coat with panko breadcrumbs.\n3. In a medium pot, preheat oil to 170°C.\n4. Deep-fry breaded pork loin until golden brown.\n5. Remove crust of each bread. Assemble pork over bread slice and drizzle with tonkatsu sauce and top with cabbage.\n6. Cut into half before serving.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Every so often, we find ourselves daydreaming about Japanese food. The Katsu Sando is a popular Japanese sandwich that’s made with deep-fried pork loin and cabbage, dressed in a savory tonkatsu sauce. In this recipe, we’ll show you how easy it is to prepare, so make sure you have a Fuwa Fuwa Premium Loaf nearby!. If not, head over to #TheMarketplace and get all the ingredients you need to create this lip-smacking pork sandwich. Itadakimasu!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Fuwa Fuwa"
     ],
@@ -470,8 +470,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "1 hour",
       "yield": "3 servings",
       "tips": "",
-      "ingredients": "Ingredients\n3 pcs. pork loin\nSalt and pepper to taste\n½ cup flour\n2 eggs, beaten\n2 cups panko breadcrumbs\n2 cups oil\n6 slices Fuwa Fuwa Premium Loaf\n½ cup tonkatsu sauce\t\n1 cup cabbage, shredded",
-      "procedure": "Procedure\nPat the pork loin dry with paper towel. Season with salt and pepper on both sides.\nDredge in flour then dip it in the egg and coat with panko breadcrumbs.\nIn a medium pot, preheat oil to 170°C.\nDeep-fry breaded pork loin until golden brown.\nRemove crust of each bread. Assemble pork over bread slice and drizzle with tonkatsu sauce and top with cabbage.\nCut into half before serving."
+      "ingredients": "3 pcs. pork loin\nSalt and pepper to taste\n½ cup flour\n2 eggs, beaten\n2 cups panko breadcrumbs\n2 cups oil\n6 slices Fuwa Fuwa Premium Loaf\n½ cup tonkatsu sauce\t\n1 cup cabbage, shredded",
+      "procedure": "Pat the pork loin dry with paper towel. Season with salt and pepper on both sides.\nDredge in flour then dip it in the egg and coat with panko breadcrumbs.\nIn a medium pot, preheat oil to 170°C.\nDeep-fry breaded pork loin until golden brown.\nRemove crust of each bread. Assemble pork over bread slice and drizzle with tonkatsu sauce and top with cabbage.\nCut into half before serving."
     },
     "photo": {
       "filename": "FB7.jpg",
@@ -487,7 +487,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "October IG",
-    "caption": "Want to add a Filipino twist to the classic Spanish paella?\n\nGrab a pack of Purefoods Heat & Eat Chicken Afritada the next time shop at #TheMarketplace, along with other ingredients needed to prepare paella. The rich local flavors of the chicken afritada marry so well with the traditional Spanish rice dish. Ready to eat in 15 minutes and easily serves 2-4, this is a great idea for quick weekday dinners with the family or if you’re putting together a meal plan. Enjoy!\n\nServing Time: 15 minutes\nYield: 2-4 servings\n\nIngredients\n\n1 pack Purefoods Heat & Eat Chicken Afritada \n2 tbsps. tomato paste \n3 tbsps. butter \n¼ cup chicken stock\n¼ cup green peas \n¼ cup chorizo, sliced \n½ red bell pepper, sliced into strips\n½ green bell pepper sliced into strips\n2 cups cooked rice \nSalt and pepper to taste\n1 boiled egg, sliced \nLemon wedges for serving \n\nProcedure\n\n1. Place Purefoods Heat & Eat Chicken Afritada in a pan to heat up. Set aside chicken pieces for topping later on while retaining the afritada sauce in the pan. \n2. Add in tomato paste and butter. Once fully dissolved in the sauce, add in chicken stock, green peas, chorizo and bell peppers. Let simmer for 3-5 minutes. \n3. Mix in rice, making sure it’s well-coated with the sauce. Season with salt and pepper. \n4. Top with reserved chicken pieces and boiled eggs. Serve with lemon wedges. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Want to add a Filipino twist to the classic Spanish paella?\n\nGrab a pack of Purefoods Heat & Eat Chicken Afritada the next time shop at #TheMarketplace, along with other ingredients needed to prepare paella. The rich local flavors of the chicken afritada marry so well with the traditional Spanish rice dish. Ready to eat in 15 minutes and easily serves 2-4, this is a great idea for quick weekday dinners with the family or if you’re putting together a meal plan. Enjoy!\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Purefoods"
     ],
@@ -495,8 +495,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "15 minutes",
       "yield": "2-4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 pack Purefoods Heat & Eat Chicken Afritada \n2 tbsps. tomato paste \n3 tbsps. butter \n¼ cup chicken stock\n¼ cup green peas \n¼ cup chorizo, sliced \n½ red bell pepper, sliced into strips\n½ green bell pepper sliced into strips\n2 cups cooked rice \nSalt and pepper to taste\n1 boiled egg, sliced \nLemon wedges for serving",
-      "procedure": "Procedure\nPlace Purefoods Heat & Eat Chicken Afritada in a pan to heat up. Set aside chicken pieces for topping later on while retaining the afritada sauce in the pan. \nAdd in tomato paste and butter. Once fully dissolved in the sauce, add in chicken stock, green peas, chorizo and bell peppers. Let simmer for 3-5 minutes. \nMix in rice, making sure it’s well-coated with the sauce. Season with salt and pepper. \nTop with reserved chicken pieces and boiled eggs. Serve with lemon wedges."
+      "ingredients": "1 pack Purefoods Heat & Eat Chicken Afritada \n2 tbsps. tomato paste \n3 tbsps. butter \n¼ cup chicken stock\n¼ cup green peas \n¼ cup chorizo, sliced \n½ red bell pepper, sliced into strips\n½ green bell pepper sliced into strips\n2 cups cooked rice \nSalt and pepper to taste\n1 boiled egg, sliced \nLemon wedges for serving",
+      "procedure": "Place Purefoods Heat & Eat Chicken Afritada in a pan to heat up. Set aside chicken pieces for topping later on while retaining the afritada sauce in the pan. \nAdd in tomato paste and butter. Once fully dissolved in the sauce, add in chicken stock, green peas, chorizo and bell peppers. Let simmer for 3-5 minutes. \nMix in rice, making sure it’s well-coated with the sauce. Season with salt and pepper. \nTop with reserved chicken pieces and boiled eggs. Serve with lemon wedges."
     },
     "photo": {
       "filename": "FB8.jpg",
@@ -512,7 +512,7 @@ const OCTOBER_IG_DATA = [
     "categorySource": "ppm",
     "categoryConfidence": "high",
     "campaign": "October IG",
-    "caption": "Known for its iconic square-shaped wafers, Loacker’s Tortina boasts a heart of smooth hazelnut cream captured between two light and crisp wafers before being covered with exquisite milk chocolate, making it the perfect base for ice cream sandwiches. Using the ice cream flavor of your choice (we used vanilla), sandwich a scoop in between two Loacker Tortinas and then cover with chopped hazelnuts for a decadently delightful dessert. Find all the ingredients you need for this sweet treat at #TheMarketplace.\n\nServing Time: 3 hours and 30 minutes\nYield: 4 sandwiches\n\nIngredients\n\n4 scoops vanilla ice cream \n8 pcs. Loacker Tortina Original\n¾ cup hazelnuts, chopped\n\nProcedure\n\n1. Place a scoop of vanilla ice cream over a piece of Loacker Tortina Original and cover it with another piece.\n2. Smoothen the edges of the ice cream sandwich, and cover with chopped hazelnuts.\n3. Freeze for at least 3 hours before serving. \n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
+    "caption": "Known for its iconic square-shaped wafers, Loacker’s Tortina boasts a heart of smooth hazelnut cream captured between two light and crisp wafers before being covered with exquisite milk chocolate, making it the perfect base for ice cream sandwiches. Using the ice cream flavor of your choice (we used vanilla), sandwich a scoop in between two Loacker Tortinas and then cover with chopped hazelnuts for a decadently delightful dessert. Find all the ingredients you need for this sweet treat at #TheMarketplace.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Loacker"
     ],
@@ -520,8 +520,8 @@ const OCTOBER_IG_DATA = [
       "servingTime": "3 hours and 30 minutes",
       "yield": "4 sandwiches",
       "tips": "",
-      "ingredients": "Ingredients\n4 scoops vanilla ice cream \n8 pcs. Loacker Tortina Original\n¾ cup hazelnuts, chopped",
-      "procedure": "Procedure\nPlace a scoop of vanilla ice cream over a piece of Loacker Tortina Original and cover it with another piece.\nSmoothen the edges of the ice cream sandwich, and cover with chopped hazelnuts.\nFreeze for at least 3 hours before serving."
+      "ingredients": "4 scoops vanilla ice cream \n8 pcs. Loacker Tortina Original\n¾ cup hazelnuts, chopped",
+      "procedure": "Place a scoop of vanilla ice cream over a piece of Loacker Tortina Original and cover it with another piece.\nSmoothen the edges of the ice cream sandwich, and cover with chopped hazelnuts.\nFreeze for at least 3 hours before serving."
     },
     "photo": {
       "filename": "FB9.jpg",

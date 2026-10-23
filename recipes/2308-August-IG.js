@@ -11,7 +11,7 @@ const AUGUST_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "August IG",
-    "caption": "Add a cookies-and-cream twist to your UCC Regular 3-in-1 coffee mix with this easy recipe for Oreo Iced Coffee! It’s a blend of your favorite childhood cookies with a caffeinated twist. Super enjoyable especially on a balmy afternoon and you’re craving a sweet coffee beverage. Get all the ingredients that you need for this recipe at #TheMarketplace!\n\nServing Time: 10 minutes\nYield: 1-2 servings\n\nIngredients\n\n2 packets UCC Regular 3-in-1 coffee mix\n1 cup hot water\n5 Oreo cookies\nIce cubes\nWhipped cream, for topping\nOreo crumbs, for garnish\n\nProcedure\n\n1. In a large mug, combine the UCC Regular 3-in-1 coffee mix and hot water. Stir until the coffee is dissolved.\n2. Add the Oreo cookies to the coffee and let steep for a few minutes, or until they have softened.\n3. Pour the coffee into a glass filled with ice cubes.\n4. Top with whipped cream and Oreo crumbs. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Add a cookies-and-cream twist to your UCC Regular 3-in-1 coffee mix with this easy recipe for Oreo Iced Coffee! It’s a blend of your favorite childhood cookies with a caffeinated twist. Super enjoyable especially on a balmy afternoon and you’re craving a sweet coffee beverage. Get all the ingredients that you need for this recipe at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "UCC"
     ],
@@ -19,8 +19,8 @@ const AUGUST_IG_DATA = [
       "servingTime": "10 minutes",
       "yield": "1-2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 packets UCC Regular 3-in-1 coffee mix\n1 cup hot water\n5 Oreo cookies\nIce cubes\nWhipped cream, for topping\nOreo crumbs, for garnish",
-      "procedure": "Procedure\nIn a large mug, combine the UCC Regular 3-in-1 coffee mix and hot water. Stir until the coffee is dissolved.\nAdd the Oreo cookies to the coffee and let steep for a few minutes, or until they have softened.\nPour the coffee into a glass filled with ice cubes.\nTop with whipped cream and Oreo crumbs."
+      "ingredients": "2 packets UCC Regular 3-in-1 coffee mix\n1 cup hot water\n5 Oreo cookies\nIce cubes\nWhipped cream, for topping\nOreo crumbs, for garnish",
+      "procedure": "In a large mug, combine the UCC Regular 3-in-1 coffee mix and hot water. Stir until the coffee is dissolved.\nAdd the Oreo cookies to the coffee and let steep for a few minutes, or until they have softened.\nPour the coffee into a glass filled with ice cubes.\nTop with whipped cream and Oreo crumbs."
     },
     "photo": {
       "filename": "IG1.jpg",
@@ -36,7 +36,7 @@ const AUGUST_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "August IG",
-    "caption": "Indulge in the comforting flavors of spiced cookie butter, intermingling with strong coffee with a mug of Cookie Butter Latte made with UCC Strong 3-in-1 coffee mix. Enjoy iced, too, if you wish!\n\nBiscoff cookies originate from Belgium and pair deliciously with coffee and tea. So in this coffee creation, have a taste in both in every smooth sip! Shop all the ingredients that you need for this recipe at #TheMarketplace!\n\nServing Time: 10 minutes\nYield: 1-2 servings\n\nIngredients\n\n2 packets UCC Strong 3-in-1 coffee mix\n1 cup hot water\n1 cup milk, warmed\n2 tbsps. cookie butter\n1/2 tsp. vanilla extract\nWhipped cream, for topping\nCaramel syrup, for drizzling (optional)\nBiscoff cookies, for garnish (optional)\n\nProcedure\n\n1. In a large mug, combine UCC Strong 3-in-1 coffee mix and hot water. Stir until the coffee is dissolved.\n2. Add the warmed milk, cookie butter and vanilla extract to the mug. Use a handheld frother to froth the milk and cookie butter together until smooth.\n3. Top with whipped cream, caramel syrup, and Biscoff cookies.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Indulge in the comforting flavors of spiced cookie butter, intermingling with strong coffee with a mug of Cookie Butter Latte made with UCC Strong 3-in-1 coffee mix. Enjoy iced, too, if you wish!\n\nBiscoff cookies originate from Belgium and pair deliciously with coffee and tea. So in this coffee creation, have a taste in both in every smooth sip! Shop all the ingredients that you need for this recipe at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "UCC"
     ],
@@ -44,8 +44,8 @@ const AUGUST_IG_DATA = [
       "servingTime": "10 minutes",
       "yield": "1-2 servings",
       "tips": "",
-      "ingredients": "Ingredients\n2 packets UCC Strong 3-in-1 coffee mix\n1 cup hot water\n1 cup milk, warmed\n2 tbsps. cookie butter\n1/2 tsp. vanilla extract\nWhipped cream, for topping\nCaramel syrup, for drizzling (optional)\nBiscoff cookies, for garnish (optional)",
-      "procedure": "Procedure\nIn a large mug, combine UCC Strong 3-in-1 coffee mix and hot water. Stir until the coffee is dissolved.\nAdd the warmed milk, cookie butter and vanilla extract to the mug. Use a handheld frother to froth the milk and cookie butter together until smooth.\nTop with whipped cream, caramel syrup, and Biscoff cookies."
+      "ingredients": "2 packets UCC Strong 3-in-1 coffee mix\n1 cup hot water\n1 cup milk, warmed\n2 tbsps. cookie butter\n1/2 tsp. vanilla extract\nWhipped cream, for topping\nCaramel syrup, for drizzling (optional)\nBiscoff cookies, for garnish (optional)",
+      "procedure": "In a large mug, combine UCC Strong 3-in-1 coffee mix and hot water. Stir until the coffee is dissolved.\nAdd the warmed milk, cookie butter and vanilla extract to the mug. Use a handheld frother to froth the milk and cookie butter together until smooth.\nTop with whipped cream, caramel syrup, and Biscoff cookies."
     },
     "photo": {
       "filename": "IG2.jpg",
@@ -61,7 +61,7 @@ const AUGUST_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "August IG",
-    "caption": "Add a citrusy infusion to your cold brew with this recipe for Coffee & Grapefruit Cold Brew made with Illy Roasted Coffee Beans.\n\nWhy did we choose grapefruit? Compared to other citrus, grapefruit has a semi-sweet taste with a bitter finish, which balances the strong flavour of the coffee better. Try it out with other citruses as well such as lemons or oranges! Either way, we know that this cold brew will leave you super refreshed. Grab all the ingredients you need at #TheMarketplace!\n\nServing Time: 24 hours\nYield: 4 servings\n\nIngredients\n\n1 cup Illy Roasted Coffee Beans, coarse-ground\n4 cups cold water\n1/2 cup grapefruit juice\n1 tbsp. honey\nIce cubes\nGrapefruit slices, for garnish\n\nProcedure\n\n1. In a large jar or pitcher, combine Illy Roasted Coffee, cold water and honey. Stir to combine.\n2. Cover the jar or pitcher, and place in the refrigerator for 12-24 hours.\n3. Once the cold brew is ready, strain it into a glass filled with ice cubes.\n4. Add the grapefruit juice and stir to combine.\n5. Garnish with grapefruit slices and enjoy!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Add a citrusy infusion to your cold brew with this recipe for Coffee & Grapefruit Cold Brew made with Illy Roasted Coffee Beans.\n\nWhy did we choose grapefruit? Compared to other citrus, grapefruit has a semi-sweet taste with a bitter finish, which balances the strong flavour of the coffee better. Try it out with other citruses as well such as lemons or oranges! Either way, we know that this cold brew will leave you super refreshed. Grab all the ingredients you need at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Illy"
     ],
@@ -69,8 +69,8 @@ const AUGUST_IG_DATA = [
       "servingTime": "24 hours",
       "yield": "4 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 cup Illy Roasted Coffee Beans, coarse-ground\n4 cups cold water\n1/2 cup grapefruit juice\n1 tbsp. honey\nIce cubes\nGrapefruit slices, for garnish",
-      "procedure": "Procedure\nIn a large jar or pitcher, combine Illy Roasted Coffee, cold water and honey. Stir to combine.\nCover the jar or pitcher, and place in the refrigerator for 12-24 hours.\nOnce the cold brew is ready, strain it into a glass filled with ice cubes.\nAdd the grapefruit juice and stir to combine.\nGarnish with grapefruit slices and enjoy!"
+      "ingredients": "1 cup Illy Roasted Coffee Beans, coarse-ground\n4 cups cold water\n1/2 cup grapefruit juice\n1 tbsp. honey\nIce cubes\nGrapefruit slices, for garnish",
+      "procedure": "In a large jar or pitcher, combine Illy Roasted Coffee, cold water and honey. Stir to combine.\nCover the jar or pitcher, and place in the refrigerator for 12-24 hours.\nOnce the cold brew is ready, strain it into a glass filled with ice cubes.\nAdd the grapefruit juice and stir to combine.\nGarnish with grapefruit slices and enjoy!"
     },
     "photo": {
       "filename": "IG3.jpg",
@@ -86,7 +86,7 @@ const AUGUST_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "August IG",
-    "caption": "Did you know that while the Cosmopolitan was invented in the 1930s, the popular cocktail only rose to fame in the 1990s? Share this fun fact when you and your friends take a swig of this Cranberry Cosmopolitan Slushie made with The Berry Company Cranberry Juice!\n\nA classic cosmopolitan is a vodka-based cocktail with triple-sec, lime juice, and cranberry juice, but enjoying it as a slushie really makes it next-level. Head over to #TheMarketplace now and get all the ingredients that you need for this dessert-cocktail in one go!\n\nServing Time: 5 hours\nYield: 6 servings\n\nIngredients\n\n¼ cup lemon juice\n¼ cup granulated sugar\n4 cups The Berry Company Cranberry Juice\n1 cup vodka\n1/2 cup triple sec\n1/4 cup lime juice\nLime wedges, for garnish\n\nProcedure\n\n1. Dip the rim of each glass in lemon juice, then dip into granulated sugar. Set the glasses aside.\n2. In a large bowl or pitcher, combine The Berry Company Cranberry Juice, vodka, triple sec and lime juice. Stir to combine.\n3. Pour the mixture into a freezer-safe container, and freeze for at least 4 hours, or overnight.\n4. Once the mixture is frozen, remove from the freezer and let thaw for a few minutes.\n5. Pour the mixture into a blender and blend until slushie-like.\n6. Pour the slushie into the rimmed glasses, and garnish with lime wedges.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "Did you know that while the Cosmopolitan was invented in the 1930s, the popular cocktail only rose to fame in the 1990s? Share this fun fact when you and your friends take a swig of this Cranberry Cosmopolitan Slushie made with The Berry Company Cranberry Juice!\n\nA classic cosmopolitan is a vodka-based cocktail with triple-sec, lime juice, and cranberry juice, but enjoying it as a slushie really makes it next-level. Head over to #TheMarketplace now and get all the ingredients that you need for this dessert-cocktail in one go!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "The Berry Company"
     ],
@@ -94,8 +94,8 @@ const AUGUST_IG_DATA = [
       "servingTime": "5 hours",
       "yield": "6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n¼ cup lemon juice\n¼ cup granulated sugar\n4 cups The Berry Company Cranberry Juice\n1 cup vodka\n1/2 cup triple sec\n1/4 cup lime juice\nLime wedges, for garnish",
-      "procedure": "Procedure\nDip the rim of each glass in lemon juice, then dip into granulated sugar. Set the glasses aside.\nIn a large bowl or pitcher, combine The Berry Company Cranberry Juice, vodka, triple sec and lime juice. Stir to combine.\nPour the mixture into a freezer-safe container, and freeze for at least 4 hours, or overnight.\nOnce the mixture is frozen, remove from the freezer and let thaw for a few minutes.\nPour the mixture into a blender and blend until slushie-like.\nPour the slushie into the rimmed glasses, and garnish with lime wedges."
+      "ingredients": "¼ cup lemon juice\n¼ cup granulated sugar\n4 cups The Berry Company Cranberry Juice\n1 cup vodka\n1/2 cup triple sec\n1/4 cup lime juice\nLime wedges, for garnish",
+      "procedure": "Dip the rim of each glass in lemon juice, then dip into granulated sugar. Set the glasses aside.\nIn a large bowl or pitcher, combine The Berry Company Cranberry Juice, vodka, triple sec and lime juice. Stir to combine.\nPour the mixture into a freezer-safe container, and freeze for at least 4 hours, or overnight.\nOnce the mixture is frozen, remove from the freezer and let thaw for a few minutes.\nPour the mixture into a blender and blend until slushie-like.\nPour the slushie into the rimmed glasses, and garnish with lime wedges."
     },
     "photo": {
       "filename": "IG4.jpg",
@@ -149,7 +149,7 @@ const AUGUST_IG_DATA = [
     "categorySource": "inferred",
     "categoryConfidence": "medium",
     "campaign": "August IG",
-    "caption": "It’s not yet Oktoberfest, but here’s a German Sausage Traybake that goes perfectly well with your favorite beers and booze.\n\nMade with Margarita Fores German Sausages, you can’t deny that this tray has all the good stuff apart from the meaty franks — potatoes, onions, beans, all seasoned with the nicest aromatics. Trust us, it’s the perfect pulutan platter for your next gathering with friends. Find all these items at #TheMarketplace — plus your choice of beers — and get cooking!\n\nServing Time: 40 minutes\nYield: 4-6 servings\n\nIngredients\n\n1 (500g) pack Margarita Fores German Sausages, scored\n1 cup baby potatoes, halved\n1 red bell pepper, sliced\n1 yellow bell pepper, sliced\n1 red onion, sliced\n1 (15 ounce) can white beans, drained and rinsed\n1 lemon, halved\n1/4 cup olive oil\n1/4 cup balsamic vinegar\n1 tbsp. dried thyme\n1 tsp. salt\n1/2 tsp. black pepper\n\nProcedure\n\n1. Preheat oven to 200C.\n2. In a large bowl, combine Margarita Fores German Sausages, potatoes, bell peppers, red onion, white beans, lemon, olive oil, balsamic vinegar, thyme, salt, pepper. Toss to coat.\n3. Spread in a single layer on a baking sheet.\n4. Bake in preheated oven for 30 minutes, or until the sausages are cooked through and the vegetables are tender.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
+    "caption": "It’s not yet Oktoberfest, but here’s a German Sausage Traybake that goes perfectly well with your favorite beers and booze.\n\nMade with Margarita Fores German Sausages, you can’t deny that this tray has all the good stuff apart from the meaty franks — potatoes, onions, beans, all seasoned with the nicest aromatics. Trust us, it’s the perfect pulutan platter for your next gathering with friends. Find all these items at #TheMarketplace — plus your choice of beers — and get cooking!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
       "Margarita Fores"
     ],
@@ -157,8 +157,8 @@ const AUGUST_IG_DATA = [
       "servingTime": "40 minutes",
       "yield": "4-6 servings",
       "tips": "",
-      "ingredients": "Ingredients\n1 (500g) pack Margarita Fores German Sausages, scored\n1 cup baby potatoes, halved\n1 red bell pepper, sliced\n1 yellow bell pepper, sliced\n1 red onion, sliced\n1 (15 ounce) can white beans, drained and rinsed\n1 lemon, halved\n1/4 cup olive oil\n1/4 cup balsamic vinegar\n1 tbsp. dried thyme\n1 tsp. salt\n1/2 tsp. black pepper",
-      "procedure": "Procedure\nPreheat oven to 200C.\nIn a large bowl, combine Margarita Fores German Sausages, potatoes, bell peppers, red onion, white beans, lemon, olive oil, balsamic vinegar, thyme, salt, pepper. Toss to coat.\nSpread in a single layer on a baking sheet.\nBake in preheated oven for 30 minutes, or until the sausages are cooked through and the vegetables are tender."
+      "ingredients": "1 (500g) pack Margarita Fores German Sausages, scored\n1 cup baby potatoes, halved\n1 red bell pepper, sliced\n1 yellow bell pepper, sliced\n1 red onion, sliced\n1 (15 ounce) can white beans, drained and rinsed\n1 lemon, halved\n1/4 cup olive oil\n1/4 cup balsamic vinegar\n1 tbsp. dried thyme\n1 tsp. salt\n1/2 tsp. black pepper",
+      "procedure": "Preheat oven to 200C.\nIn a large bowl, combine Margarita Fores German Sausages, potatoes, bell peppers, red onion, white beans, lemon, olive oil, balsamic vinegar, thyme, salt, pepper. Toss to coat.\nSpread in a single layer on a baking sheet.\nBake in preheated oven for 30 minutes, or until the sausages are cooked through and the vegetables are tender."
     },
     "photo": {
       "filename": "FB3.jpg",
