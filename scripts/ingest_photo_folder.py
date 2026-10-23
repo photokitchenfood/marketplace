@@ -19,6 +19,7 @@ from datetime import date
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+GENERIC_BRAND = "! Generic"
 
 
 def main():
@@ -62,7 +63,7 @@ def main():
                 "categoryConfidence": "low" if p["needsReview"] else "medium",
                 "campaign": campaign,
                 "caption": "",
-                "brand": p["brand"],
+                "brand": p["brand"] or [GENERIC_BRAND],  # Brand Reviewer convention for brandless cards
                 "recipe": None,
                 "photo": {"filename": fname, "dropbox_path": "", "image_data": base64.b64encode(data).decode()},
                 "needsPhotoSwap": False,

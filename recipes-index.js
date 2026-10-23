@@ -2173,6 +2173,42 @@ const RECIPES_INDEX = [
     "count": 16
   },
   {
+    "id": "2012-December-IG",
+    "label": "December IG",
+    "type": "photo",
+    "year": 2020,
+    "month": 12,
+    "file": "recipes/2012-December-IG.js",
+    "count": 41
+  },
+  {
+    "id": "2011-November-IG",
+    "label": "November IG",
+    "type": "photo",
+    "year": 2020,
+    "month": 11,
+    "file": "recipes/2011-November-IG.js",
+    "count": 38
+  },
+  {
+    "id": "2010-October-IG",
+    "label": "October IG",
+    "type": "photo",
+    "year": 2020,
+    "month": 10,
+    "file": "recipes/2010-October-IG.js",
+    "count": 22
+  },
+  {
+    "id": "2009-September-IG",
+    "label": "September IG",
+    "type": "photo",
+    "year": 2020,
+    "month": 9,
+    "file": "recipes/2009-September-IG.js",
+    "count": 23
+  },
+  {
     "id": "2008-August-IG",
     "label": "August IG",
     "type": "photo",
