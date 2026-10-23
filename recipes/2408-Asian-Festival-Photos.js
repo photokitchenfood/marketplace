@@ -82,7 +82,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
     "campaign": "Asian Festival",
     "caption": "Welch’s may be a timeless household fruit juice brand, but have you tried these fun sodas?\n\nThese refreshing Welch’s fruit sodas come in grape and strawberry flavors and are always a good idea to have stocked in the fridge for those days when you just need a fizzy and fruity quencher. Go grab them at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Welch’s"
+      "Welch's"
     ],
     "recipe": null,
     "photo": {

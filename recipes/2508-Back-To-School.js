@@ -95,7 +95,7 @@ const BACK_TO_SCHOOL_DATA = [
     "campaign": "Back to School",
     "caption": "Turn mornings into something exciting with Beef Tapa Onigirazu! 🍙✨\n\nMade with Pampanga’s Best Beef Tapa, each bite packs that signature savory-sweet richness we Filipinos love, now tucked inside seasoned rice and crisp veggies. It’s a playful twist on a breakfast staple and just the kind of baon kids will be thrilled to find in their lunchboxes!\n\nPick up Pampanga’s Best Beef Tapa and all the ingredients at The Marketplace and start wrapping up this fun, tasty treat. ☀️\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Pampanga’s Best"
+      "Pampanga's Best"
     ],
     "recipe": {
       "servingTime": "35 minutes",

@@ -234,7 +234,7 @@ const EASTER_CAMPAIGN_DATA = [
     "campaign": "Easter Campaign",
     "caption": "Deep spice, slow roast and plenty to share, this whole roasted tandoori chicken builds on a classic — yogurt, citrus and warm spices like cumin, coriander and garam masala worked into every part of the bird. 🍗\n\nMade with Bounty Family Feast Whole Chicken, it roasts up juicy with a deeply seasoned crust, carrying that signature tandoori balance of tang, heat and smokiness.\n\nServed over fragrant rice with a cooling mint yogurt on the side, it’s bold, satisfying and meant for the table. Find what you need — Bounty Fresh Chicken and all — at The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Bounty"
+      "Bounty Fresh"
     ],
     "recipe": {
       "servingTime": "4-6 hours",
@@ -280,7 +280,7 @@ const EASTER_CAMPAIGN_DATA = [
     "campaign": "Easter Campaign",
     "caption": "Here’s a classic, reworked into something you can easily pick up. 🥚\n\nDeviled eggs have been around for centuries. Simply put, they are hard-boiled eggs filled with a seasoned yolk mixture and are known for their creamy, tangy bite. In this recipe for Deviled Egg BLT Sliders, they take on a new role with crisp bacon, fresh lettuce and juicy tomato, all held together by Bounty Cage Free Eggs for a clean, rich base.\n\nFamiliar flavors, just assembled differently. Try it soon and get your ingredients from The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Bounty"
+      "Bounty Fresh"
     ],
     "recipe": {
       "servingTime": "20-25 minutes",

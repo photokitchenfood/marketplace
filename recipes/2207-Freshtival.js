@@ -88,7 +88,7 @@ const FRESHTIVAL_DATA = [
     "campaign": "Freshtival",
     "caption": "Make your mornings even better by sitting down to this hearty breakfast of Sausage & Sweet Potato Hash Baked Eggs, minus the meat, thanks to Unmeat Sausages!\n\nFree from trans-fat, cholesterol, and eggs, Unmeat sausages are plant-based and so juicy, you’ll almost forget there’s no meat in them! Find Unmeat products, along with other meat-free alternatives, at #TheMarketplace!\n\nServing Time: 20 minutes\nYield: 3-4 servings\n\nIngredients\n\n3 tbsps. vegetable oil \n1 (200g) pack Unmeat Sausages, sliced\n2 medium-sized sweet potatoes, diced \n1 medium-sized red bell pepper, diced \n1 medium-sized green bell pepper, diced \nSalt and pepper to taste \n3 eggs \n1 tbsp. parsley, chopped\n\nProcedure\n\n1. Add vegetable oil in a frying pan over medium heat. Fry Unmeat Sausages until nicely browned on both sides. Set aside while retaining oil in the pan. \n2. Sauté sweet potatoes and bell peppers until soft. Season with salt and pepper. \n3. Add back fried Unmeat Sausages, then make space for 3 eggs.\n4. Lower heat, then crack the eggs into the empty spaces. Cover for 3-5 minutes, or until eggs are cooked according to your liking. \n5. Garnish with parsley. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Unmeat"
+      "unMEAT"
     ],
     "recipe": {
       "servingTime": "20 minutes",

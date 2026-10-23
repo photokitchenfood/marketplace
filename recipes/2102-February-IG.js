@@ -88,7 +88,7 @@ const FEBRUARY_IG_DATA = [
     "campaign": "February IG",
     "caption": "Fall in love with the sweetest candy box by Hershey’s Kisses. Available at #TheMarketplace, and just in time for Valentine’s Day! Grab some today!",
     "brand": [
-      "Hershey’s"
+      "Hershey's"
     ],
     "recipe": null,
     "photo": {
@@ -222,7 +222,7 @@ const FEBRUARY_IG_DATA = [
     "campaign": "February IG",
     "caption": "Give your crêpes a hint of healthy with Australia’s Own Organic Almond Milk, available at #TheMarketplace!\n\nLower in calories and rich in Calcium and Vitamin E, this dairy-free alternative also comes with a delicate sweetness that’s perfect for these French-style pancakes. Bon appétit!",
     "brand": [
-      "Australia’s Own"
+      "Australia's Own"
     ],
     "recipe": {
       "servingTime": "— 30 minutes",

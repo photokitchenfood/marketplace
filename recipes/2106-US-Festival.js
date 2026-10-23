@@ -127,7 +127,7 @@ const US_FESTIVAL_DATA = [
     "campaign": "US Festival",
     "caption": "No other confectionery embodies the decadent combination of chocolate and peanut butter the way Reese’s does. Their peanut butter cups have become an iconic snack that’s usually enjoyed on its own, and they are also a great ingredient for brownies!\n\nThis easy recipe for Reese’s Brownies combines two familiar comfort delights and are such a treat to have as an afternoon snack or dessert. If you love chocolate and peanut butter, this recipe was meant for you. Pair it with a scoop of vanilla ice cream for extra indulgence. Get all the ingredients you need plus other imported confectionery from #TheMarketplace!\n\nServing Time: 30-35 minutes\nYield: 18-20 bars\n\nIngredients\n\n1 cup white sugar\n1 cup brown sugar\n½ tsp. salt  \n½ cup cocoa powder\n1 ½ cups flour \n½ tsp. baking powder\n1 cup butter, melted \n1 tsp. vanilla \n4 eggs \n10 pcs. Reese’s Peanut Butter Cups, coarsely chopped \n\nProcedure\n\n1. Preheat oven to 175°C. Grease a 13x9” inch pan.\n2. In a large mixing bowl, whisk together white sugar, brown sugar, salt, cocoa powder, flour and baking powder.\n3. In a separate bowl, combine butter, vanilla and eggs. Add this to the dry mixture, and mix until just combined.\n4. Transfer to the greased pan, then top with Reese’s Peanut Butter Cups. \n5. Bake for 25-30 minutes, or until a toothpick inserted in the center comes out clean. \n\nYou can also order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Reese’s"
+      "Reese's"
     ],
     "recipe": {
       "servingTime": "30-35 minutes",

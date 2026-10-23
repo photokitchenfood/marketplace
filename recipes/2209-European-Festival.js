@@ -88,7 +88,7 @@ const EUROPEAN_FESTIVAL_DATA = [
     "campaign": "European Festival",
     "caption": "A classic cookie that reminds us of a particular childhood snack, these Blueberry Jam Thumbprint Cookies are not only easy to make, but they make your home smell like a pastry shop in an instant.\n\nMade with El Corte Ingles 60% Fruit Blueberry Jam, lemon zest adds some tang to contrast the sweetness from the berries. Enjoy with your favorite coffee, tea, or even a glass of cold milk. All the ingredients for these cookies are available at #TheMarketplace.\n\nServing Time: 45 minutes\nYield: 1 dozen\n\nIngredients\n\n¾ cup butter, softened\n½ cup brown sugar\n2 cups flour\n¼ cup dried blueberries\n½ tsp. lemon zest\n¾ cup El Corte Ingles 60% Fruit Blueberry Jam\n½ cup powdered sugar\n2 tbsps. milk\n\nProcedure\n\n1. Using a stand mixer fitted with the paddle attachment, cream together butter and brown sugar. Mix in flour, dried blueberries and lemon zest. \n2. Cover with plastic wrap and chill for 20-30 minutes.\n3. Meanwhile, preheat oven to 175°C.\n4. Form balls from the chilled though, then transfer to a lined baking tray. Use your thumb or the back of a measuring spoon to press down the middle, forming an indentation.\n5. Bake for 8-12 minutes, or until nicely browned. Let cool. \n6. Fill each cookie with El Corte Ingles 60% Fruit Blueberry Jam.\n7. Whisk together powdered sugar and milk until smooth. Drizzle on top of the thumbprint cookies. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "El Corte Ingles"
+      "El Corte Inglés"
     ],
     "recipe": {
       "servingTime": "45 minutes",

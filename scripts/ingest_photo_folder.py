@@ -18,6 +18,8 @@ import argparse, base64, json, re, subprocess, sys, tempfile
 from datetime import date
 from pathlib import Path
 
+from brand_canon import canon_brands
+
 ROOT = Path(__file__).resolve().parent.parent
 GENERIC_BRAND = "! Generic"
 
@@ -76,7 +78,7 @@ def main():
                 "categoryConfidence": "low" if p["needsReview"] else "medium",
                 "campaign": campaign,
                 "caption": "",
-                "brand": p["brand"] or [GENERIC_BRAND],  # Brand Reviewer convention for brandless cards
+                "brand": canon_brands(p["brand"]) or [GENERIC_BRAND],  # Brand Reviewer convention for brandless cards
                 "recipe": None,
                 "photo": {"filename": fname, "dropbox_path": "", "image_data": base64.b64encode(data).decode()},
                 "needsPhotoSwap": False,

@@ -38,7 +38,7 @@ const JULY_IG_DATA = [
     "campaign": "July IG",
     "caption": "Craving a quick snack but taking it easy on the meat? UnMeat Dumplings, such as Gyoza, Siomai, and Siopao, are now available at #TheMarketplace! Easy to heat up and enjoy, these tasty morsels are plant-based but don’t compromise on the meaty flavors. Try them out!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "UnMeat"
+      "unMEAT"
     ],
     "recipe": null,
     "photo": {

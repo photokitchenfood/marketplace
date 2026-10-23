@@ -88,7 +88,7 @@ const LOVE_FOOD_PHOTOS_DATA = [
     "campaign": "Love Food",
     "caption": "Planning a sweet and romantic movie date indoors with your special someone?\n\nMake these M&M’s Pretzels using M&M’s Milk Chocolate for a chocolatey twist to the salty, bready pretzels. Easy to prepare and extremely addictive, these are sure to be gone in a flash, so make plenty! Grab all the ingredients that you need for this recipe, along with other Valentine’s Day snacks, at #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "M&M’s"
+      "M&M's"
     ],
     "recipe": {
       "servingTime": "15-20 minute",

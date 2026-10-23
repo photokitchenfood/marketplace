@@ -189,7 +189,7 @@ const FATHERS_DAY_DATA = [
     "campaign": "Fathers Day",
     "caption": "Here’s a local twist to an iconic cocktail!\n\nMade with Rite ‘n Lite’s Calamansi + Ginger + Honey, this Calamansi-Ginger Mojito is so refreshing, it will instantly transport you to your favorite sun-kissed beach. Bursting with local, tropical flavors, each sip reminds us of the perfect summer holiday. Get all the ingredients you need at #TheMarketplace!\n\nServing Time: 5 minutes\nYield: 2 glasses\n\nIngredients\n\n2 sprigs mint\n2 tbsps. calamansi juice\n2 shots white rum\n2 cups ice\n2 cans Rite ‘n Lite Calamansi Ginger Honey\n4 pcs. calamansi, sliced\n\nProcedure\n\n1. In a glass, crush mint with muddler. Add calamansi juice and white rum.\n2. Fill glass with ice and pour over Rite ‘n Lite Calamansi Ginger Honey.\n3. Garnish with calamansi before serving.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Rite ‘n Lite"
+      "Rite n Lite"
     ],
     "recipe": {
       "servingTime": "5 minutes",

@@ -93,7 +93,7 @@ const CHRISTMAS_DATA = [
     "campaign": "Christmas",
     "caption": "",
     "brand": [
-      "Kit Kat"
+      "KitKat"
     ],
     "recipe": null,
     "photo": {

@@ -138,7 +138,7 @@ const FROZEN_FLAVORS_DATA = [
     "campaign": "Frozen Flavors",
     "caption": "Make these super-easy and super-yummy Cookies & Cream Crepes with Nestle Temptations Ice Cream Extra Creamy Cookies & Cream!\n\nThe secret to making the perfect crepes is to keep an eye out for them. This crepe batter contains cacao in it, too, for an even chocolatier touch to contrast the vanilla-based ice cream. Have this any time of the day — even breakfast — for a light yet sweet treat. All the ingredients you need for this recipe are available at #TheMarketplace!\n\nServing Time: 40 minutes\nYield: 3-5 servings\n\nIngredients\n\n1 cup flour \n2 tbsps. cocoa powder \nPinch of salt \n¼ cup. butter, melted \n2 eggs \n¾ cup milk \n¾ cup water\n3 scoops Nestle Temptations Ice Cream Extra Creamy Cookies & Cream\n\nProcedure\n\n1. Whisk together flour, cocoa powder, salt, 2 tbsps. butter, eggs, milk and water until smooth. \n2. Use remaining butter for greasing a non-stick pan over medium heat. \n3. Add ¼ cup of the crepe batter, then immediately swirl to spread. Cook for 2-3 minutes, or until bubbles begin to form. Flip, then cook for another 1 minute. Repeat until you finish the batter. \n4. To serve, top folded crepes with Nestle Temptations Ice Cream Extra Creamy Cookies & Cream",
     "brand": [
-      "Nestle Temptations"
+      "Nestlé Temptations"
     ],
     "recipe": {
       "servingTime": "40 minutes",

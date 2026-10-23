@@ -82,7 +82,7 @@ const SUMMER_PHOTOS_DATA = [
     "campaign": "Summer",
     "caption": "Give your Nestlé Temptations ice cream a luscious upgrade with this recipe for Chocolate Ice Cream Tartufo!\nPrepare this for your next dinner party, or if you’re in the mood for an elevated dessert. We used chocolate ice cream for this, but feel free to try it out with other Nestlé Temptations ice cream flavors such as Vanilla or Double Dutch! Head over to #TheMarketplace and check out our selection of ice creams today.\nServing Time: 30 minutes\nYield: 2-4 servings\n\nIngredients\n4 scoops Nestle Temptations Extra Creamy Chocolate Ice Cream\n½ cup chocolate cookies, finely crushed\n½ cup semisweet chocolate, chopped\n1 tbsp. coconut oil\n2 Maraschino cherries\n\nProcedure\n1. Line 2 small bowls with cling wrap. Fill with Nestle Temptations Chocolate Ice Cream, pressing down with a spoon to pack tightly. Freeze for at least 20 mins.\n2. Meanwhile, melt chocolate with coconut oil in the microwave. Stir and set aside to cool to room temperature. In a separate bowl, place crushed cookies.\n3. Unmold ice cream onto a wire rack set over a tray. Pour melted chocolate over the ice cream to coat completely, and return to the freezer to set.\n4. Roll the frozen tartufo in cookie crumbs and cover completely. Transfer to a plate and top with Maraschino cherries.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Nestle Temptations"
+      "Nestlé Temptations"
     ],
     "recipe": {
       "servingTime": "30 minutes",

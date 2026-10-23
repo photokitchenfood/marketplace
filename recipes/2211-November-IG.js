@@ -132,7 +132,7 @@ const NOVEMBER_IG_DATA = [
     "campaign": "November IG",
     "caption": "Imported from Spain, El Corte Dark Chocolate boasts pure flavors of cacao in each delicate bar. Brimming with the finest taste of cacao, this Spanish chocolate brand might just be your next favorite one, especially if you’re a fan of dark chocolate.\n\nEl Corte Dark Chocolate is available at #TheMarketplace, along with a wide variety of imported chocolate brands. Head over now and get your chocolate fix!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
-      "El Corte"
+      "El Corte Inglés"
     ],
     "recipe": null,
     "photo": {
@@ -402,7 +402,7 @@ const NOVEMBER_IG_DATA = [
     "campaign": "November IG",
     "caption": "Who would’ve thought that a simple combination of sugar or honey, whipped egg whites, and roasted nuts would yield something as delicious as nougat?\n\nIf you’re a fan of this sweet treat, head over to #TheMarketplace today and grab a box or two (or three) of El Corte Alicante Nougat that’s bursting with roasted almonds. Make sure you have a lot of these because they can disappear quite quickly!\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
-      "El Corte"
+      "El Corte Inglés"
     ],
     "recipe": null,
     "photo": {

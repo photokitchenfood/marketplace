@@ -158,7 +158,7 @@ const BACK_TO_SCHOOL_DATA = [
     "caption": "Give your egg salad sandwich a Japanese twist with this Tamago Sando recipe!\n\nMade with Lady’s Choice Mayonnaise, the addition of spring onions and a touch of sugar instantly adds an elevated touch to the classic lunchbox sandwich. Add all these ingredients to your cart for your next visit to #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 3 servings\n\nIngredients\n\n5 eggs\n4 tbsps. Lady’s Choice Mayonnaise\n1 tbsp. white sugar\n8 slices Classic Gardenia Bread\n3 tbsps. spring onions\nSalt and pepper to taste\n\nProcedure\n\n1. Boil eggs for 9 minutes. After, transfer to an ice bath. Once cooled, peel eggs and set aside three pieces.\n2. Slice two eggs in half, lengthwise.\n3. Finely chop the three remaining eggs. Add Lady’s Choice Mayonnaise and white sugar. Season with salt and pepper to taste.\n4. Remove the crusts of the Classic Gardenia Bread.\n5. Place one halved egg on one bread slice, then fill with egg spread. Cover with another slice of bread.\n6. Cut into half and garnish with spring onions.\n\nYou can also order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
       "Gardenia",
-      "Lady’s Choice"
+      "Lady's Choice"
     ],
     "recipe": {
       "servingTime": "15 minutes",

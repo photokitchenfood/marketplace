@@ -13,7 +13,7 @@ const GRANDPARENTS_DAY_DATA = [
     "campaign": "Grandparents Day",
     "caption": "In the mood for a meatless patty melt? Create the perfect meatless sandwich with unMeat Burger Patties, available at #TheMarketplace!\n\nWhile you’re at it, grab some sourdough and your favorite cheese, along with some red onions and bottled gherkins for extra zing. Cook your unMeat Burger Patties, slap them together with all the other ingredients, and voilà! No meat, no problem!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "unMeat"
+      "unMEAT"
     ],
     "recipe": {
       "servingTime": "30 mins",

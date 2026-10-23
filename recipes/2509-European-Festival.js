@@ -163,7 +163,7 @@ const EUROPEAN_FESTIVAL_DATA = [
     "campaign": "European Festival",
     "caption": "Crisp-edged, tender-centered Cornbread Waffles meet a warm Honey Butter Syrup made with Essential Waitrose Pure Clear Honey — clean, golden and beautifully floral. 🍯🧇\n\nThe honey melts into butter for a glossy pour that soaks every pocket, while a touch in the batter adds gentle sweetness from the inside out. Perfect for slow mornings or breakfast-for-dinner with coffee on the side. Find Essential Waitrose Pure Clear Honey and everything you need at The Marketplace. ✨☕️\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Essential Waitrose"
+      "Waitrose"
     ],
     "recipe": {
       "servingTime": "25 minutes",

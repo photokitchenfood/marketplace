@@ -114,7 +114,7 @@ const HEALTH_WELLNESS_DATA = [
     "campaign": "Health & Wellness",
     "caption": "The occasional detox never hurts; in fact, it helps the body get a much-deserved restart. On these “detox days”, make sure to stock up on some El Corte Ingles Detox Juice, which you can find at #TheMarketplace.\n\nWith variants such as this one containing a blend of apples, artichokes, pears, and cucumber, the addition of biotin and zinc adds an extra boost of nutrition with every sip!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "El Corte Ingles"
+      "El Corte Inglés"
     ],
     "recipe": null,
     "photo": {

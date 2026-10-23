@@ -162,7 +162,7 @@ const FLAVORS_OF_LOVE_DATA = [
     "campaign": "Flavors of Love",
     "caption": "Hey there, lovebirds! Why not whip up a sweet treat together that’s as fun to make as it is to eat — KitKat Ice Cream Pie!\n\nStart with a graham cracker and Kit Kat crust that’s crunchy and chocolatey. Then, fill it with a dreamy mix of condensed milk, whipped cream, and even more Kit Kat pieces for that irresistible crunch in every bite. It’s the ultimate Valentine’s Day dessert, perfect for sharing (or not!). Grab everything you need at The Marketplace and make this love-filled dessert your pièce de résistance!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Kit Kat"
+      "KitKat"
     ],
     "recipe": {
       "servingTime": "4 hours and 40 minutes",

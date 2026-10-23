@@ -32,6 +32,8 @@ import re
 import sys
 from pathlib import Path
 
+from brand_canon import canon_brands
+
 RECIPES = Path(__file__).resolve().parent.parent / "recipes"
 NO_BRAND_TAG = "! Generic"
 
@@ -313,7 +315,7 @@ def apply(prefix, dry):
                 if dry:
                     print(f"  {f.stem:34} {it['layoutCode']:7} {it['layoutName'][:34]:34} -> {b}")
                 else:
-                    it["brand"] = b
+                    it["brand"] = canon_brands(b)
         if n and not dry:
             # rewrite only the brand arrays: patch the JSON text of each changed item in place
             sys.path.insert(0, str(Path(__file__).resolve().parent))

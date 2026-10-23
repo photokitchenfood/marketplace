@@ -13,7 +13,7 @@ const CHRISTMAS_DATA = [
     "campaign": "Christmas",
     "caption": "This Christmas, impress your guests with this delicious fish-forward recipe for Pate/Stuffed Pasta made with flaked MIKISA Smoked Salinas!\n\nOozing with cream, cheese, and smoky flavors, a tray of this easily feeds a party of four to six! Perfect for potlucks and for friends who prefer seafood over meat. Find MIKISA products, along with all the other ingredients you need for this recipe at #TheMarketplace!\n\nServing Time: 50 minutes\nYield: 4-6 servings\n\nIngredients\n(FILLING)\n2 tbsps. olive oil\n5 cloves garlic, minced\n1 pack MIKISA Smoked Salinas, flesh flaked\n1 block cream cheese, softened \n½ cup cooking cream \n½ cup mozzarella cheese, grated \n¼ cup parsley, chopped \n½ cup dill, chopped \n1 tsp. Paprika\nZest of 1 lemon \nSalt and pepper to taste \n\n(BECHAMEL)\n4 tbsps. butter \n3 tbsps. Flour\n2 cup whole milk \n1 chicken bouillon cube \n¼ tsp. ground nutmeg\n½ cup parmesan cheese\n\n(ASSEMBLY)\n500g cannelloni, cooked according to package instructions \n1 cup mozzarella cheese, grated\n\nProcedure\n\n1. Sauté garlic and MIKISA Smoked Salinas in olive oil. \n2. Combine with cream cheese, cream, mozzarella, parsley, dill, paprika and lemon zest. Season with salt and pepper. Set aside. \n3. In a saucepan, melt butter. Add in flour, and cook until pasty. Slowly whisk in milk. Once roux is well dissolved, mix in chicken bouillon cube, nutmeg and parmesan. Let simmer until thick, then season with salt pepper. \n4. Fill cannelloni with the MIKISA Smoked Salinas filling. Add a layer of bechamel onto a baking tray, then arrange filled cannellonis on top. Spread remaining bechamel all over, then top with mozzarella cheese. \n5. Broil until cheese is melted and nicely browned. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "MIKISA"
+      "Mikisa"
     ],
     "recipe": {
       "servingTime": "50 minutes",
@@ -140,7 +140,7 @@ const CHRISTMAS_DATA = [
     "campaign": "Christmas",
     "caption": "This Christmas, give yourself a sweet treat and make this Strawberry Shortcake Ice Cream in less than seven minutes with Nestlé Vanilla Ice Cream.\n\nWith lots of cakes and sweets being exchanged, this is the perfect idea to make with some leftover pound cake that you may have in the fridge. Simply slice into cubes and toss in some strawberries before drizzling everything with strawberry syrup. Feel free to add chocolate chips, rainbow sprinkles, and chopped nuts for some extra fun! Find Nestlé ice creams, along with your other favorite ice cream brands, at #TheMarketplace!\n\nServing Time: 5 minutes\nYield: 1 serving\n\nIngredients\n\n½ cup pound cake, sliced into cubes\n½ cup strawberries, sliced\n3 scoops Nestle Vanilla Ice Cream\n¼ cup strawberry syrup\n\nProcedure\n\n1. Add pound cake and strawberries in a sundae cup. \n2. Top with scoops of Nestle Vanilla Ice Cream, then drizzle with strawberry syrup. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Nestle"
+      "Nestlé"
     ],
     "recipe": {
       "servingTime": "5 minutes",
@@ -259,7 +259,7 @@ const CHRISTMAS_DATA = [
     "campaign": "Christmas",
     "caption": "The holidays in the Philippines are never complete with a classic Chicken Macaroni Salad that always makes use of Lady’s Choice Chicken Spread.\n\nThis tried-and-tested recipe comes with its own iterations that are passed from generation to generation. Make batches of chicken salad to give to your nearest and dearest, or to simply stock your fridge with simply because the occasion calls for it. Find everything you need to prepare this salad at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 4-5 servings\n\nIngredients\n\n500 g elbow macaroni\n250g chicken breast\n1 pc. carrot, diced\n3 stalks celery, chopped\n¾ cup pineapple tidbits, drained\n⅛ cup raisins\n1 ½ cups Lady’s Choice Chicken Spread\nSalt and pepper to taste\n\nProcedure\n\n1. Cook elbow macaroni in heavily salted water until al dente. Drain and set aside.\n2. Boil chicken breast until fully cooked, about 12 minutes. Let cool, then shred. Set aside.\n3. In a large bowl, combine cooked elbow macaroni, shredded chicken, carrots, celery, pineapple tidbits, raisins and Lady’s Choice Chicken Spread. Mix well and season with salt and pepper.",
     "brand": [
-      "Lady’s Choice"
+      "Lady's Choice"
     ],
     "recipe": {
       "servingTime": "30 minutes",

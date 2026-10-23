@@ -32,7 +32,7 @@ const PET_MONTH_DATA = [
     "campaign": "Pet Month",
     "caption": "Looking to change up your cat’s chow?\n\nHead over to #TheMarketplace and check out Smartheart Chicken and Tuna! With DHA & Choline to enhance brain development and the nervous system, Smartheart Chicken and Tuna is also rich in Omega-3 fatty acids for a healthy heart. It also helps nourish the vision thanks to taurine, and calcium strengthens the bones and teeth. \n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Smartheart"
+      "SmartHeart"
     ],
     "recipe": null,
     "photo": {

@@ -114,7 +114,7 @@ const US_FESTIVAL_DATA = [
     "campaign": "US Festival",
     "caption": "Feel like you’re camping in the great outdoors with these S’mores Cups made with Hershey’s Dark Chocolate. Don’t forget the torch the marshmallows for that full-on campfire effect!\n\nGet all the ingredients you need for these S’mores Cups at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 2 servings\n\nIngredients\n\n2 (40g) bars Hershey’s Dark Chocolate \n½ cup heavy cream \n1 cup graham cracker crumbs \n2 tbsps. white sugar \n½ tsp. salt\n¼ cup butter, melted \n½ cup mini marshmallows \n\nProcedure\n\n1. Chop 1 bar of Hershey’s Dark Chocolate into pieces. Place into a heat proof mixing bowl. Heat up heavy cream, then add to the chopped chocolates. Let sit on top for 2 minutes, then mix until smooth. \n2. Combine graham cracker crumbs, white sugar, salt and butter.\n3. Divide graham crumbs into 2 serving glasses. Top with marshmallows, then torch to brown. Top with Hershey’s Dark Chocolate ganache and whole pieces. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Hershey’s"
+      "Hershey's"
     ],
     "recipe": {
       "servingTime": "15 minutes",

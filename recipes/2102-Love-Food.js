@@ -89,7 +89,7 @@ const LOVE_FOOD_DATA = [
     "campaign": "Love Food",
     "caption": "No Valentine’s Day is complete without some wine. For a fruity twist, combine some honey, orange juice, apples, and tonic water with a bottle of Winemakers Reserve Merlot!\n\nDrop by #TheMarketplace for all the ingredients you need! #LoveFoodFestival",
     "brand": [
-      "Winemakers Reserve"
+      "Winemaker's Reserve"
     ],
     "recipe": {
       "servingTime": "— 1 hour",
@@ -239,7 +239,7 @@ const LOVE_FOOD_DATA = [
     "campaign": "Love Food",
     "caption": "While we’re a bit restricted from giving actual kisses this season, these special ones by Hershey’s will surely suffice.\n\nAvailable at #TheMarketplace, choose from Truffle or add a fruity spin with Strawberry. #LoveFoodFestival",
     "brand": [
-      "Hershey’s"
+      "Hershey's"
     ],
     "recipe": null,
     "photo": {

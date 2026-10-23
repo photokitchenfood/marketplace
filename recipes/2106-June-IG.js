@@ -63,7 +63,7 @@ const JUNE_IG_DATA = [
     "campaign": "June IG",
     "caption": "Who doesn’t love bacon? A neat little trick to make chicken barbecue more exciting is to wrap the chicken in bacon strips for an added crunch and smoky flavour. We love using Mama Sita’s Barbecue Marinade for this dish because it complements the bacon perfectly. Make some this week! All the ingredients you need are available at #TheMarketplace.\nServing Time: 18 minutes\nYield: 4 pieces\nIngredients\n\n4 chicken breast fillets \n8 strips bacon \n½ cup Mama Sita’s Barbecue Marinade \nPepper to taste \n\nProcedure\n\n1. Preheat oven to 175°C.\n2. Wrap each chicken breast fillet with 2 strips of bacon.\n3. Coat each bacon-wrapped chicken with Mama Sita’s Barbecue Marinade. Season with pepper. \n4. Roast for 12-15 minutes, or until chicken pieces are cooked through.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Mama Sita’s"
+      "Mama Sita's"
     ],
     "recipe": {
       "servingTime": "18 minutes",

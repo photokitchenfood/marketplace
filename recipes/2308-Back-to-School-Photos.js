@@ -32,7 +32,7 @@ const BACK_TO_SCHOOL_PHOTOS_DATA = [
     "campaign": "Back to School",
     "caption": "Aren’t these Kiddie Cat Sandwiches simply the cutest?\n\nPerfect for your little one’s back-to-school baon, these sandwiches made with Lady’s Choice Mayonnaise are easy to prepare and shape. Sneak in some veggies and watch your kids relish each bite. It’s 100% a meowsome snack!\n\nHead over to #TheMarketplace now and stock up on your baon essentials for the upcoming school year and keep your eyes on this space for recipe ideas that you and your little ones will surely love.\n\nServing Time: 30 minutes\nYield: 5 pieces\n\nIngredients\n\n10 pcs. white sandwich bread\n5 pcs. sandwich ham \n5 pcs. sandwich cheese slices\n1 cup Lady’s Choice Mayonnaise \nSpring onions, for garnish (optional)\n\nProcedure\n\n1. Slice off the crusts of the bread, then shape into cats. You can start by using a round cookie cutter, then trimming the upper portion to create ears. \n2. Follow the cat shape of the bread slices for the ham and cheese slices. Make triangle eyes and ears from the leftover ham and cheese. \n3. Spread a thick layer of Lady’s Choice Mayonnaise on 5 pcs. of bread, then top with cheese, ham and another piece of bread. \n4. Make 2 dots of mayonnaise for eyes, topped with triangle-shaped ham. Use triangle-shaped cheese for the nose and spring onions for whiskers. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Lady’s Choice"
+      "Lady's Choice"
     ],
     "recipe": {
       "servingTime": "30 minutes",
@@ -57,7 +57,7 @@ const BACK_TO_SCHOOL_PHOTOS_DATA = [
     "campaign": "Back to School",
     "caption": "It’s perfectly fine to indulge every once in a while, and a great reward for your child — that also couples as precious bonding time — is an ice cream break with Selecta Magnum Classic in tow. Nothing beats the crackle from the chocolate shell and digging into creamy, velvety ice cream. Don’t forget to stock up on these heavenly pints the next time you make a trip to #TheMarketplace!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Selecta Magnum"
+      "Magnum"
     ],
     "recipe": null,
     "photo": {
@@ -101,7 +101,7 @@ const BACK_TO_SCHOOL_PHOTOS_DATA = [
     "campaign": "Back to School",
     "caption": "Aglio olio may be one of the simplest pasta recipes, and it’s always a foolproof one that is easily enjoyable for anyone of any age.\n\nAdd a tasty addition to the classic aglio olio the next time you make it with some Pampanga’s Best Chicken Longaniza! Garlicky, meaty, and a perfect protein complement to the garlic-based pasta, this dish is easy to pack as well. So much so that it might just be of one of the best baons you’ve ever prepared! Get shopping and head over to #TheMarketplace to stock up on ingredients!\n\nServing Time: 15-20 minutes\nYield: 3-4 servings\n\nIngredients\n\n400g linguine\n1 pack Pampanga’s Best Chicken Longaniza\n4 tbsps. olive oil\n10 cloves garlic, minced\nSalt and pepper to taste\n¼ cup parsley, chopped\n\nProcedure\n\n1. Cook linguine according to the package directions.\n2. While the pasta is cooking, heat the olive oil in a large skillet over medium heat.\n3. Remove the casing of Pampanga’s Best Chicken Longaniza, and chop roughly. Add to the pan, and cook while stirring occasionally until nicely browned and cooked through.\n4. Add the garlic, and sauté for another 2 minutes. Drain the pasta, and directly toss into the skillet with longaniza.\n5. Season with salt and pepper to taste, then mix in parsley.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Pampanga’s Best"
+      "Pampanga's Best"
     ],
     "recipe": {
       "servingTime": "15-20 minutes",
@@ -151,7 +151,7 @@ const BACK_TO_SCHOOL_PHOTOS_DATA = [
     "campaign": "Back to School",
     "caption": "Elevate these snackable El Corte Ingles Toasts with Garlic & Parsley into Bacon Avocado Toasts with the help of a few pantry staples such as bacon, avocado, garlic powder, lemon juice, and red pepper flakes!\n\nSo addictive to nibble on and so flavorful, make these in big batches to satiate every snack-hungry belly! Try making these for the upcoming week; head over to #TheMarketplace and stock up El Corte Ingles products today.\n\nServing Time: 15 minutes\nYield: 4-5 servings\n\nIngredients\n\n3 cups bacon, sliced\n2 cups avocado\n½ tsp. garlic powder\n1 tbsp. lemon juice\nSalt and pepper to taste\n1 pack El Corte Ingles Toast with Garlic & Parsley \n1 tbsp. red pepper flakes\n\nProcedure\n\n1. Set a pan over medium heat, then fry bacon until crispy. Drain the fat, and set aside.\n2. In a bowl, mash avocado. Mix in garlic powder, lemon juice, and season with salt and pepper.\n3. Spread about a tablespoon of mashed avocado over each El Corte Ingles Toast with Garlic & Parsley. Top with crispy bacon and red pepper flakes.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "El Corte Ingles"
+      "El Corte Inglés"
     ],
     "recipe": {
       "servingTime": "15 minutes",
@@ -176,7 +176,6 @@ const BACK_TO_SCHOOL_PHOTOS_DATA = [
     "campaign": "Back to School",
     "caption": "Why settle for over-the-counter chocolates, when you can make these decadent Oreo Truffles at home? Now, these aren’t super sweet because they come with a tangy hint of cream cheese to balance out all the chocolatey flavours.\n\nBe sure to head to #TheMarketplace and grab a bag of Waitrose & Partners Belgian Dark Chocolate, as this is the ideal chocolate to use as a base — not to sweet and not too bitter. It’s the perfect canvas to all the sweeter paraphernalia that make these truffles simply the best.\n\nServing Time: 1 hour\nYield: 18 truffles\n\nIngredients\n\n⅔ cup cream cheese, softened\n3 tbsps. condensed milk\n3 cups crushed Oreo cookies\n1 pack Waitrose & Partners Belgian Dark Chocolate, chopped\n2 tbsps. rainbow sprinkles\n\nProcedure\n\n1. In a large bowl, beat together cream cheese, condensed milk, and crushed Oreo cookies. Mix until it forms a dough. \n2. Use a small ice cream scooper to create evenly-sized balls, and place on a lined baking tray. Refrigerate until firm, about 30 minutes.\n3. Using a double boiler, melt Waitrose Belgian Dark Chocolate. \n4. Coat Oreo truffles with melted dark chocolate and top with rainbow sprinkles.\n5. Chill until the dark chocolate sets, about 15 minutes.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Waitrose & Partners",
       "Waitrose"
     ],
     "recipe": {

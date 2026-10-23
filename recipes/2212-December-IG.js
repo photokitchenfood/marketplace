@@ -377,7 +377,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "December IG",
     "caption": "This Cheesy Corn Garlic Bread made with Elsie’s sliced Garlic Bread is a quick and tasty snack that you can prepare in less than 30 minutes.\n\nCreamy, garlicky, and packed with corn and cilantro bits for texture and flavor, this will surely be your next favorite go-to snack anytime of the day.\n\nTry out this recipe soon and get all the ingredients you need at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 10 pieces\n\nIngredients\n\n1 pack Elsie’s Garlic Bread, sliced \n1 tbsp. olive oil\n5 cloves garlic, minced \n1 red onion, chopped \n1 cup corn kernels \n1 block cream cheese, softened \nSalt and pepper to taste\n1 cup mozzarella cheese, grated\n¼ cup cilantro, chopped \n\nProcedure\n\n1. Preheat oven to 180C. Arrange Elsie’s Garlic Bread slices on a parchment-lined baking tray. \n2. Sauté garlic and red onions in olive oil. Once soft, add in corn kernels. \n3. Mix together cream cheese and sautéed corn. Season with salt and pepper\n4. Spread the cheesy corn mixture on top of the bread slices, then top with mozzarella cheese. \n5. Bake for 8 minutes, or until bread is crisp and cheese is melted. \n6. Garnish with cilantro. \n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Elsie’s"
+      "Elsie's"
     ],
     "recipe": {
       "servingTime": "15 minutes",

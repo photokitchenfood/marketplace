@@ -38,7 +38,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
     "campaign": "Asian Festival",
     "caption": "Cool down with a fun twist: Grape Soda Yakult Cooler! 🍇\n\nThe tangy creaminess of Yakult meets the fizzy sweetness of Welch’s Sparkling Grape Soda, creating a refreshing sip with a playful Asian spin. Top it off with grapes and mint for that extra flair! Pick up cans of Welch’s and all the items you need to whip this up at The Marketplace! 💜✨\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Welch’s"
+      "Welch's"
     ],
     "recipe": {
       "servingTime": "5 minutes",
@@ -260,7 +260,7 @@ const ASIAN_FESTIVAL_PHOTOS_DATA = [
     "brand": [
       "Royal Smokehouse",
       "Lotte",
-      "Ma Ling"
+      "MaLing"
     ],
     "recipe": null,
     "photo": {

@@ -176,7 +176,7 @@ const CHRISTMAS_DATA = [
     "campaign": "Christmas",
     "caption": "A common sight at every Noche Buena table is a big bowl of pasta salad! While elbow macaroni is a popular choice, here’s one made with spiral-shaped fusilli pasta to add a literal twist!\n\nUsing Lady’s Choice Mayonnaise, this Fusilli Salad embodies a variety of colors and flavors that one can allude to the Yuletide season. Don’t forget to pack some in containers for your guests to take home! Find all the items you need fresh at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 4-5 servings\n\nIngredients\n\n500g fusilli pasta\nSalt and pepper to taste\n250g chicken breast, boiled & cut into cubes\n1 cup cucumber, diced\n1 cup carrots, julienned\n1 cup tomatoes, diced\n1 ½ cup Lady’s Choice Mayonnaise\n2 tbsps. parsley, chopped\n\nProcedure\n1. Cook fusilli pasta in heavily salted water until al dente. Drain and then set aside.\n2. In a large mixing bowl, combine cooked pasta, chicken breast, cucumber, carrots and tomatoes.\n3. Coat with Lady’s Choice Mayonnaise, and season with salt and pepper.\n4. Garnish with chopped parsley before serving.\n\nDid you know? You can now stay at home and order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Lady’s Choice"
+      "Lady's Choice"
     ],
     "recipe": {
       "servingTime": "30 minutes",

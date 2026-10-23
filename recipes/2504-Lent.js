@@ -87,7 +87,7 @@ const LENT_DATA = [
     "campaign": "Lent",
     "caption": "Hearty and full of flavor, this Beer Battered Cream Dory Sandwich makes for a delicious and satisfying seafood meal.\n\nLightly season some Galleon Depot Cream Dory, dredge them in a homemade beer batter, then fry until perfectly crisp. Then, layer the fillets onto a toasted brioche bun with tangy pickles, sharp cheddar, and a homemade tartar sauce that’s bright with lemon, capers, and fresh parsley. Serve hot with fries and extra sauce on the side. This is the kind of simple, scrumptious meal that makes Lent feel anything but restrictive. Find everything you need at The Marketplace and make it part of your Holy Week menu.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Galleon Depot"
+      "The Galleon Depot"
     ],
     "recipe": {
       "servingTime": "30 minutes",
@@ -112,7 +112,7 @@ const LENT_DATA = [
     "campaign": "Lent",
     "caption": "If you’re looking to spice up your Lenten meals, try this beautiful Mango Salad with Dried Sweet Pusit!\n\nWith all ingredients available at The Marketplace, tart green mangoes, crisp bell peppers, and roasted peanuts come together in a colorful mix, tossed with a punchy dressing of fish sauce, calamansi, honey, and chili. The star of the dish, Surebuy Dried Sweet Pusit, is quickly fried to a perfect crisp, adding a delicious sweet and umami-packed contrast to the fresh ingredients. Finished with a sprinkle of cilantro, it’s a light yet flavorful dish that’s great on its own or as a starter.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Surebuy"
+      "SureBuy"
     ],
     "recipe": {
       "servingTime": "15 minutes",
@@ -162,7 +162,7 @@ const LENT_DATA = [
     "campaign": "Lent",
     "caption": "Who says you have to give up cheese to enjoy a classic Margherita pizza?\n\nunPizza Margherita Pizza is 100% plant-based, yet every bite is loaded with flavor — think rich tomato sauce, juicy diced tomatoes, fragrant dried basil, and unbelievably melty dairy-free cheese. Pop it in the oven and serve it fresh and piping-hot, it’s everything you love about pizza, minus the guilt.\n\nWhether you're embracing a plant-based lifestyle, going meat-free this Lent, or simply looking for a delicious new way to indulge, this is a must-try. Find it at The Marketplace, along with other unMeat products.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "unPizza"
+      "UnPizza"
     ],
     "recipe": null,
     "photo": {

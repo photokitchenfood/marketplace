@@ -167,6 +167,7 @@ main.content{padding:28px 32px}
 .pill.eap{color:#000;background:var(--eap)}
 .pill.stopmotion{color:#000;background:var(--stopmotion)}
 .pill.ai{color:#000;background:var(--ai)}
+.pill.year{color:#4A4843;background:#DAD7D1}
 .modalActions{display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin-top:10px}
 .modalActions .dropbox-btn-sm{margin-top:0}
 
@@ -259,6 +260,11 @@ body.edit-mode .review-flag{position:absolute;top:8px;right:8px;z-index:2;width:
 .em-mf input:focus,.em-mf select:focus,.em-mf textarea:focus{border-color:var(--ink)}
 .em-mf select{appearance:none;-webkit-appearance:none;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%23999'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 9px center;padding-right:28px}
 .em-row{display:flex;gap:8px}
+.em-mf.brand-suggest-host{position:relative}
+#em-brand-suggest{display:none;position:absolute;left:0;right:0;top:100%;margin-top:2px;z-index:20;background:var(--surface);border:1.5px solid var(--tag-border);border-radius:var(--radius);box-shadow:0 4px 14px rgba(0,0,0,.12);max-height:180px;overflow-y:auto}
+#em-brand-suggest.open{display:block}
+#em-brand-suggest button{display:block;width:100%;text-align:left;font-family:"DM Mono",monospace;font-size:12px;padding:6px 9px;border:none;background:transparent;color:var(--ink);cursor:pointer}
+#em-brand-suggest button.active,#em-brand-suggest button:hover{background:var(--tag-bg)}
 .em-row .em-mf{flex:1;min-width:0}
 .em-hint{font-size:9px;color:var(--ink-faint);letter-spacing:.04em}
 .em-review-wrap{display:flex;align-items:center;gap:8px;cursor:pointer;user-select:none;font-size:11px;color:var(--ink-soft)}
@@ -470,7 +476,7 @@ body.edit-mode .review-flag{position:absolute;top:8px;right:8px;z-index:2;width:
         <div class="em-mf"><label for="em-name">Layout Name</label><input type="text" id="em-name" placeholder="Layout name"></div>
         <div class="em-row">
           <div class="em-mf" style="flex:1"><label for="em-category">Category</label><select id="em-category"></select></div>
-          <div class="em-mf" style="flex:2"><label for="em-brands">Brands</label><input type="text" id="em-brands" placeholder="Comma-separated"></div>
+          <div class="em-mf brand-suggest-host" style="flex:2"><label for="em-brands">Brands</label><input type="text" id="em-brands" placeholder="Comma-separated" autocomplete="off"><div id="em-brand-suggest" role="listbox"></div></div>
         </div>
         <div class="em-mf"><label for="em-caption">Caption</label><textarea id="em-caption" rows="3"></textarea></div>
         <div class="em-mf">
@@ -524,6 +530,7 @@ body.edit-mode .review-flag{position:absolute;top:8px;right:8px;z-index:2;width:
             <span class="pill" id="modalPill"></span>
             <span class="pill ai" id="modalAiPill" style="display:none">with AI</span>
             <span class="tag" id="modalCampaign"></span>
+            <span class="pill year" id="modalYear" style="display:none"></span>
           </div>
           <h2 id="modalTitle"></h2>
           <h4>Caption</h4>
@@ -597,6 +604,37 @@ function deriveVarName(id){
   return parts.join("_").toUpperCase() + "_DATA";
 }
 
+// ---- Brand canonicalization: brand-aliases.json is the single source of truth ("canonical" list +
+// explicit "aliases" variant -> canonical). Every brand value passes through canonBrand() when a
+// shoot loads and when the Edit modal saves, so variants can't reappear. Any spelling that differs
+// from a known name only by case, accents or apostrophes also resolves automatically.
+const BRAND_CANONICAL = [];
+const brandAliasMap = new Map(); // exact variant -> canonical
+const brandKeyMap = new Map();   // brandFold(name) -> canonical
+// Folds case, accents, apostrophe types and extra whitespace; used for matching AND brand search.
+function brandFold(s){
+  return String(s || "").normalize("NFKD").replace(/[\u0300-\u036f]/g, "").replace(/['\u2018\u2019\u02BC`]/g, "").toLowerCase().replace(/\s+/g, " ").trim();
+}
+function canonBrand(b){
+  const t = String(b || "").replace(/\s+/g, " ").trim();
+  if(!t || t === GENERIC_BRAND_LABEL) return t;
+  return brandAliasMap.get(t) || brandKeyMap.get(brandFold(t)) || t;
+}
+function canonBrandList(arr){
+  const out = [];
+  (Array.isArray(arr) ? arr : []).forEach(b => { const c = canonBrand(b); if(c && !out.includes(c)) out.push(c); });
+  return out;
+}
+const brandAliasesReady = (async () => {
+  try{
+    const res = await fetch("brand-aliases.json?v=" + Date.now());
+    if(!res.ok) throw new Error("HTTP " + res.status);
+    const d = await res.json();
+    (d.canonical || []).forEach(c => { BRAND_CANONICAL.push(c); brandKeyMap.set(brandFold(c), c); });
+    Object.entries(d.aliases || {}).forEach(([v, c]) => { brandAliasMap.set(v, c); brandKeyMap.set(brandFold(v), c); });
+  }catch(err){ console.error("[brands] could not load brand-aliases.json:", err); }
+})();
+
 let recipesIndex = null; // flat array from recipes-index.js, once loaded
 const shootDataCache = {}; // shoot id -> resolved data array, so re-selecting a shoot doesn't refetch
 
@@ -646,6 +684,7 @@ function loadShootData(entry){
   return shootLoadPromises[entry.id];
 }
 async function readShootFile(entry){
+  await brandAliasesReady;
   const res = await fetch(entry.file + "?v=" + Date.now());
   if(!res.ok) throw new Error("Failed to load " + entry.file);
   const scope = {};
@@ -662,7 +701,7 @@ async function readShootFile(entry){
   const dropboxUrl = data.dropboxUrl || null;
   // _uid is the stable unique key for an item across the whole catalog (shoot id + position
   // in its own file). Every click resolves through it, never through a position in a filtered list.
-  data.forEach((it, i) => { it._year = entry.year; it._month = entry.month; it._dropboxUrl = dropboxUrl; it._shootId = entry.id; it._uid = entry.id + "#" + i; });
+  data.forEach((it, i) => { if(Array.isArray(it.brand)) it.brand = canonBrandList(it.brand); it._year = entry.year; it._month = entry.month; it._dropboxUrl = dropboxUrl; it._shootId = entry.id; it._uid = entry.id + "#" + i; });
   shootDataCache[entry.id] = data;
   return data;
 }
@@ -1146,7 +1185,9 @@ function matchesQuery(item, q){
     item.recipe ? item.recipe.procedure : "",
     item.recipe ? item.recipe.tips : ""
   ].join(" ").toLowerCase();
-  return terms.every(t => hay.includes(t));
+  // Brand search ignores case, accents and apostrophe types ("nestle" finds Nestlé, "australias own" finds Australia's Own).
+  const brandHay = brandFold(Array.isArray(item.brand) ? item.brand.join(" ") : "");
+  return terms.every(t => hay.includes(t) || brandHay.includes(brandFold(t)));
 }
 
 function matchesFilters(item, q){
@@ -1242,12 +1283,12 @@ function buildBrandTree(items){
 // scrolling or manual expand/collapse. Clearing the query restores the
 // default fully-collapsed, fully-visible tree.
 function filterBrandTree(query){
-  const q = query.trim().toLowerCase();
+  const q = brandFold(query);
   document.querySelectorAll('#brandTreePane li[data-letter]').forEach(letterLi => {
     const letterUl = letterLi.querySelector("ul");
     let anyMatch = false;
     letterLi.querySelectorAll("li[data-brand]").forEach(leafLi => {
-      const match = !q || leafLi.dataset.brand.includes(q);
+      const match = !q || brandFold(leafLi.dataset.brand).includes(q);
       leafLi.style.display = match ? "" : "none";
       if(match) anyMatch = true;
     });
@@ -1436,6 +1477,10 @@ function openModal(item){
   document.getElementById("modalAiBtn").setAttribute("aria-pressed", item.withAI ? "true" : "false");
   document.getElementById("modalAiPill").style.display = item.withAI ? "" : "none";
   applyCampaignTag(document.getElementById("modalCampaign"), item.campaign);
+  // Year comes from the shoot-index year stamped on the item at load (_year), the same source as the Year -> Month tree.
+  const modalYearEl = document.getElementById("modalYear");
+  modalYearEl.textContent = item._year || "";
+  modalYearEl.style.display = item._year ? "" : "none";
   document.getElementById("modalTitle").textContent = item.layoutName;
   document.getElementById("modalCaption").textContent = item.caption || "";
   // item._dropboxUrl is this specific item's own campaign's link (tagged in
@@ -1692,6 +1737,66 @@ if(new URLSearchParams(location.search).get("edit") === "1") setEditMode(true);
 
 emEl("em-category").innerHTML = EDIT_CATEGORIES.map(k => `<option value="${escapeHTML(k)}">${escapeHTML(CATEGORY_META[k].label)}</option>`).join("");
 
+// Brands field autocomplete: suggests canonical names for the token being typed (after the last
+// comma/semicolon). Matching ignores case, accents and apostrophes. Picking one inserts the canonical spelling.
+const brandSuggestEl = document.getElementById("em-brand-suggest");
+let brandSuggestIdx = -1;
+function brandSuggestPool(){
+  const s = new Set(BRAND_CANONICAL);
+  Object.values(shootDataCache).forEach(arr => arr.forEach(it => (it.brand || []).forEach(b => s.add(b))));
+  s.delete(GENERIC_BRAND_LABEL);
+  return [...s];
+}
+function brandSuggestToken(input){
+  const v = input.value, caret = input.selectionStart ?? v.length;
+  const start = Math.max(v.lastIndexOf(",", caret - 1), v.lastIndexOf(";", caret - 1)) + 1;
+  return {start, end: caret, text: v.slice(start, caret).trim()};
+}
+function hideBrandSuggest(){ brandSuggestEl.classList.remove("open"); brandSuggestIdx = -1; }
+function showBrandSuggest(){
+  const input = document.getElementById("em-brands");
+  const tok = brandSuggestToken(input);
+  const q = brandFold(tok.text);
+  if(!q){ hideBrandSuggest(); return; }
+  const already = new Set((input.value.slice(0, tok.start) + "," + input.value.slice(tok.end)).split(/[,;\n]/).map(b => brandFold(b)));
+  const hits = brandSuggestPool().filter(b => { const f = brandFold(b); return f.includes(q) && b !== tok.text && !already.has(f); })
+    .sort((a, b) => (brandFold(b).startsWith(q) - brandFold(a).startsWith(q)) || a.localeCompare(b)).slice(0, 8);
+  brandSuggestEl.innerHTML = "";
+  hits.forEach(b => {
+    const btn = document.createElement("button");
+    btn.type = "button"; btn.textContent = b;
+    btn.addEventListener("mousedown", (e) => { e.preventDefault(); pickBrandSuggestion(b); });
+    brandSuggestEl.appendChild(btn);
+  });
+  brandSuggestIdx = -1;
+  brandSuggestEl.classList.toggle("open", hits.length > 0);
+}
+function pickBrandSuggestion(name){
+  const input = document.getElementById("em-brands");
+  const t = brandSuggestToken(input);
+  const before = input.value.slice(0, t.start).replace(/\s*$/, "");
+  const after = input.value.slice(t.end).replace(/^\s*/, "");
+  input.value = (before ? before + (before.endsWith(",") || before.endsWith(";") ? " " : ", ") : "") + name + (after ? (/^[,;]/.test(after) ? "" : ", ") + after : ", ");
+  hideBrandSuggest();
+  input.focus();
+}
+(function(){
+  const input = document.getElementById("em-brands");
+  input.addEventListener("input", showBrandSuggest);
+  input.addEventListener("blur", hideBrandSuggest);
+  input.addEventListener("keydown", (e) => {
+    if(!brandSuggestEl.classList.contains("open")) return;
+    const btns = [...brandSuggestEl.children];
+    if(e.key === "ArrowDown" || e.key === "ArrowUp"){
+      e.preventDefault();
+      brandSuggestIdx = (brandSuggestIdx + (e.key === "ArrowDown" ? 1 : -1) + btns.length) % btns.length;
+      btns.forEach((b, i) => b.classList.toggle("active", i === brandSuggestIdx));
+    } else if((e.key === "Enter" || e.key === "Tab") && brandSuggestIdx >= 0){
+      e.preventDefault(); e.stopPropagation(); pickBrandSuggestion(btns[brandSuggestIdx].textContent);
+    } else if(e.key === "Escape"){ e.stopPropagation(); hideBrandSuggest(); }
+  });
+})();
+
 function openEditModal(item){
   if(!item) return;
   editItem = item; editPendingPhoto = null;
@@ -1728,7 +1833,7 @@ function saveEditModal(){
   it.caption = emEl("em-caption").value.trim();
   const oldBrands = JSON.stringify(it.brand || []);
   const seen = new Set();
-  it.brand = val("em-brands").split(/[,;\n]/).map(b => b.trim()).filter(b => b && !seen.has(b.toLowerCase()) && seen.add(b.toLowerCase()));
+  it.brand = canonBrandList(val("em-brands").split(/[,;\n]/)).filter(b => !seen.has(b.toLowerCase()) && seen.add(b.toLowerCase()));
   const rec = {servingTime: val("em-r-time"), yield: val("em-r-yield"), tips: val("em-r-tips"),
                ingredients: emEl("em-r-ingredients").value.trim(), procedure: emEl("em-r-procedure").value.trim()};
   if(Object.values(rec).some(Boolean)) it.recipe = Object.assign({}, it.recipe || {}, rec);

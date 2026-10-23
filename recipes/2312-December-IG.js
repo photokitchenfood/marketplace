@@ -113,7 +113,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "December IG",
     "caption": "Hosting a holiday brunch? This Matcha Lemonade concocted with Stellina’s Old Fashioned Lemonade is a definite crowd-pleaser and refresher, too!\n\nNo need to steep any tea bags for this recipe since we’re using matcha powder, when provides a stronger, herbaceous flavor. Honey mellows down the matcha, while lemon adds a refreshing zing that’s perfect for a sunny and outdoor setting. Instantly transform this into a cocktail as well by adding a splash of white rum, vodka, or gin. Find Stellina’s Old Fashioned Lemonade, along with a wide range of craft beverages, at #TheMarketplace!\n\nServing Time: 5 minutes\nYield: 2 servings\n\nIngredients\n½ cup hot water\n2 tbsps. honey \n¼ cup matcha powder\n2 cups ice cubes\n1 lemon, sliced\n2 cups Stellina’s Old Fashioned Lemonade\n\nProcedure\nDissolve the honey in the hot water.\nAdd the matcha powder to a small bowl and whisk in the honey mixture until smooth.\nAdd ice and lemon slices in a glass\nPour half of the Stellina’s Old Fashioned Lemonade and fill with matcha mixture. \n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Stellina’s"
+      "Stellina's"
     ],
     "recipe": {
       "servingTime": "5 minutes",

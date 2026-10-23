@@ -113,7 +113,7 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
     "campaign": "International Coffee Day",
     "caption": "Brewing coffee can be a meditative ritual, so why not begin your mornings with Kickstart Coffee’s Brewed Awakening coffee? Made with 100% Arabica beans, take a moment and enjoy a slow-brewed cup. Have a good one! Find Kickstart Coffee at #TheMarketplace, along with other coffee bean brands, to make your mornings brighter and better.\n\nDid you know? You can now get your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Kickstart Coffee"
+      "Kick-Start Coffee"
     ],
     "recipe": null,
     "photo": {

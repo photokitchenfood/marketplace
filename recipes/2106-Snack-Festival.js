@@ -314,7 +314,7 @@ const SNACK_FESTIVAL_DATA = [
     "campaign": "Snack Festival",
     "caption": "British crisps brand The King’s Deli has found its way to #TheMarketplace!\n\nWe are loving their BBQ Rib Crisps that are inspired by America’s famous southern smokehouses. Smokey, meaty, and intense, these hand-cooked chips are made with British potatoes and are gluten and lactose-free. They’re also suitable for vegetarians! Add them to your grocery cart with other flavors available. \n\nDid you know? You can now get your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "King’s Deli"
+      "The King's Deli"
     ],
     "recipe": null,
     "photo": {
@@ -384,7 +384,7 @@ const SNACK_FESTIVAL_DATA = [
     "campaign": "Snack Festival",
     "caption": "Everyone loves to have a break with a Kit Kat.\n\nWhile it’s usually enjoyed as a snack or dessert, we made these Kit Kat Dark Cookies by replacing chocolate chips with Kit Kat. You’re free to experiment with different Kit Kat variants, but we think it works best with the 70% Dark one so that you get a bold chocolate flavor without it being overly sweet. Best served warm and with a glass of cold, creamy milk.\n\nTry it out and tell us what you think! Get all the ingredients you need at #TheMarketplace\n\nServing Time: 15-20 minutes\nYield: 10-12 servings\n\nIngredients\n\n½ cup white sugar\n½ cup brown sugar, packed\n½ cup butter, melted\n1 large egg\n1 tsp. vanilla extract\n1 cup flour\n½ tsp. Salt\n½ tsp. baking soda\n2 cups Kit Kat Dark, chopped\n\nProcedure\n\n1. Cream white sugar, brown sugar and butter together until lightly and fluffy. Add in egg and vanilla extract. Continue to mix until pale in color. \n2. Sift flour, salt and baking soda together, then add to the wet mixture. Mix until just combined.\n3. Fold in 1 ½ cup Kit Kat Dark. Refrigerate for 30 minutes.\n4. While waiting, preheat oven to 175°C.\n5. Scoop cookie batter onto a lined baking tray, leaving 3 inches between each cookie. Bake for 10 minutes.\n6. Remove from the oven, and immediately top each cookie with the remaining chopped Kit Kat Dark. Bake for another 2-3 minutes.\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Come and join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Kit Kat"
+      "KitKat"
     ],
     "recipe": {
       "servingTime": "15-20 minutes",

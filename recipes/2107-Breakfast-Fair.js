@@ -397,7 +397,7 @@ const BREAKFAST_FAIR_DATA = [
     "campaign": "Breakfast Fair",
     "caption": "Probiotics are important for gut health, which regulates our digestive systems and keeps the tummy in tip top shape!\n\nThe next time you shop at #TheMarketplace, don’t forget to grab some Dutch Milk Delight, which comes with the Duo Active combination of Probiotics and Prebiotic Fiber. Enjoy it anytime of the day!\n\nYou can now order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Dutchmill"
+      "Dutch Mill"
     ],
     "recipe": null,
     "photo": {

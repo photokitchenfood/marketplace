@@ -70,6 +70,8 @@ from pptx.enum.dml import MSO_COLOR_TYPE, MSO_FILL_TYPE
 from pptx.enum.shapes import MSO_SHAPE_TYPE, PP_PLACEHOLDER
 from PIL import Image
 
+from brand_canon import canon_brands
+
 THUMB_MAX_DIM = 500
 THUMB_JPEG_QUALITY = 85
 
@@ -1656,7 +1658,7 @@ def extract_items(prs, profile, ppm=None, warnings=None, with_photos=True):
             }
             item["_slides"] = 2
 
-        item["brand"] = extract_brands(caption_ph, procedure_ph)
+        item["brand"] = canon_brands(extract_brands(caption_ph, procedure_ph))
         items.append(item)
 
     apply_overview(items, parse_overview(prs), warnings)

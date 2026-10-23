@@ -55,7 +55,7 @@ const HALLOWEEN_DATA = [
     "campaign": "Halloween",
     "caption": "",
     "brand": [
-      "Kit Kat"
+      "KitKat"
     ],
     "recipe": null,
     "photo": {
@@ -200,7 +200,7 @@ const HALLOWEEN_DATA = [
     "caption": "",
     "brand": [
       "Smeg",
-      "illy"
+      "Illy"
     ],
     "recipe": null,
     "photo": {
@@ -221,7 +221,7 @@ const HALLOWEEN_DATA = [
     "caption": "",
     "brand": [
       "Smeg",
-      "illy"
+      "Illy"
     ],
     "recipe": null,
     "photo": {

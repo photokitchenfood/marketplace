@@ -38,8 +38,7 @@ const FATHERS_DAY_DATA = [
     "campaign": "Fathers Day",
     "caption": "There’s nothing like a barbecue party to celebrate Father’s Day with!\n\nThese BBQ Ribs, whether cooked on the grill or in the oven, are sure to be showstoppers because of the Wolf Blass Platinum Shiraz used in this recipe. Combined with other flavorful ingredients such ketchup, honey, and spices, the shiraz adds a touch of sweetness and depth to the ribs, while the alcohol component aids in tenderizing the meat. \n\nGo on, round up the troops and plan the best barbecue party for the best dad! All the ingredients for this recipe are available at #TheMarketplace.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Wolf Blass",
-      "Wolfblass"
+      "Wolf Blass"
     ],
     "recipe": {
       "servingTime": "4 hours",

@@ -138,7 +138,7 @@ const US_FESTIVAL_DATA = [
     "campaign": "US Festival",
     "caption": "Sometimes, we all just need a good and reliable Grilled Sausage Sandwich & Coke in Can. After an day of grocery shopping at #TheMarketplace, take a seat, relax, and indulge in this comforting combination. You deserve it!\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Coke"
+      "Coca-Cola"
     ],
     "recipe": null,
     "photo": {

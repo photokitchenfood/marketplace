@@ -273,7 +273,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "December IG",
     "caption": "",
     "brand": [
-      "Ma Ling"
+      "MaLing"
     ],
     "recipe": null,
     "photo": {
@@ -313,7 +313,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "December IG",
     "caption": "",
     "brand": [
-      "Bounty"
+      "Bounty Fresh"
     ],
     "recipe": null,
     "photo": {
@@ -493,7 +493,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "December IG",
     "caption": "",
     "brand": [
-      "Pure Foods"
+      "Purefoods"
     ],
     "recipe": null,
     "photo": {
@@ -813,7 +813,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "December IG",
     "caption": "",
     "brand": [
-      "FamilyGuard"
+      "Family Guard"
     ],
     "recipe": null,
     "photo": {

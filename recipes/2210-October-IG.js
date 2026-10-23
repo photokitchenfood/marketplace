@@ -38,7 +38,7 @@ const OCTOBER_IG_DATA = [
     "campaign": "October IG",
     "caption": "Do you ever get random sisig cravings at odd hours while at home? If you have, then you’ll be glad to know that Pampanga’s Best has a ready-to-cook version of their province’s iconic dish.  \n\nIt’s made in the traditional Kapampangan style, so it’s very easy to prep in unconventional ways–like in an omelette. Try this recipe the next time you’re in the mood for a rich, greasy breakfast–this combination is amazing with hot garlic rice. Just make sure you walk around a bit after, as it’s too easy to fall back into sleep after enjoying this.\n\nServing time: 30 minutes\nYield: 3-4 servings\n\nIngredients\n1 pack Pampanga’s Best Sisig\n1 pc. red onion, chopped\n2 tbsps. red chilies, chopped\n4 eggs, beaten\n2 tbsps. butter\nsalt and pepper to taste\n3 tbsps. mayonnaise\n\nProcedure\nSet pan over medium heat, then cook Pampanga’s Best Sisig until most of the liquid has reduced. Add red onions and red chilies. Set aside.\nSet a non stick pan over low heat, then add butter, followed by the eggs. Season with salt and pepper.\n Top with cooked sisig and fold to form the omelette. Drizzle with mayonnaise.\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
-      "Pampanga’s Best"
+      "Pampanga's Best"
     ],
     "recipe": {
       "servingTime": "30 minutes",
@@ -201,7 +201,7 @@ const OCTOBER_IG_DATA = [
     "campaign": "October IG",
     "caption": "Who doesn’t love a good milkshake? This thick, creamy glass of goodness is a classic for a reason. Our must-try recipe is so simple, it’ll bring you back to a childlike state of bliss. \n\nThe secret ingredient? Häagen-dazs Cookies and Cream. Their signature thick, smooth texture and rich flavor is good enough on its own, but it becomes magical as a mixer. Give it a try, and it just might be your new go-to milkshake recipe in the future. \n\nIngredients\n2 cups Häagen-dazs Cookies and Cream\n½ cup milk\n1 ½ cup crushed cookies\n½ cup chocolate syrup\n2 cups whipped cream\n2 pcs. maraschino cherries\n\nProcedure\nCombine Häagen-dazs Cookies and Cream, milk, and ½ cup crushed cookies\nCoat the rim of the glass with chocolate syrup and coat with the remaining crushed cookies.\nFill the glass with the milkshake and top with whipped cream and a piece of maraschino cherry.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoCart. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber",
     "brand": [
-      "Häagen-dazs"
+      "Häagen-Dazs"
     ],
     "recipe": {
       "servingTime": "10 minutes",

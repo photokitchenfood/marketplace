@@ -645,7 +645,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "December IG",
     "caption": "Try this fun and creative way to enjoy spaghetti!\n\nShape the noodles into nests and top them off with PureFoods Tender Juicy Spaghetti Sauce! Make them as cheesy as you desire, pop them in the oven, and enjoy the crunchy textures that are bursting with the familiar and nostalgic spaghetti-and-hotdog combination we all love. Find all the ingredients you need at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 12-16 pieces\n\nIngredients\n\n1 pack (1kg) Purefoods Tender Juicy Spaghetti Sauce \n1kg spaghetti noodles, cooked according to package instructions\nSalt and pepper to taste\n1 cup mozzarella cheese\n1 cup parmesan cheese \n2 eggs, whisked\nBasil sprigs for garnish \n\nProcedure\n\n1. Preheat oven to 200°C. Grease a muffin pan.\n2. In a large pot, heat up Purefoods Tender Juicy Spaghetti Sauce. Reserve 2 cups of the sauce for topping later on. Mix in cooked spaghetti noodles. Season with salt and pepper. \n3. Turn off the heat, then mix in mozzarella cheese, parmesan cheese and eggs. Toss together with the sauce and noodles until well combined. \n4. Divide spaghetti into the greased muffin pans. Bake for 15-18 minutes.\n5. Top with more spaghetti sauce and garnish with basil sprigs. \n\nDid you know? You can now get your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "PureFoods"
+      "Purefoods"
     ],
     "recipe": {
       "servingTime": "30 minutes",
@@ -670,7 +670,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "December IG",
     "caption": "Craving a warm, home-cooked meal but got no time to prepare?\n\nGrab packets of PureFoods ready-to-eat meals at #TheMarketplace! They’re simple, satisfying, and oh-so-delicious. With variants such as Kare-Kare, Bistek, and Lechon Paksiw, all you need to worry about is the rice. \n\nYou can now get your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "PureFoods"
+      "Purefoods"
     ],
     "recipe": null,
     "photo": {

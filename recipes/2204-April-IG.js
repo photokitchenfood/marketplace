@@ -270,7 +270,7 @@ const APRIL_IG_DATA = [
     "campaign": "April IG",
     "caption": "Add a touch more indulgence to homemade and hearty casseroles in this recipe for Potato Chip Chicken Casserole!\n\nThe secret is to use crushed King’s Deli Cheese Potato Chips to effortlessly balance out the rich and creamy casserole. It’s definitely the dish to make if you’re looking for a winner, winner chicken dinner. Trust us on this one. Follow #TheMarketplace on Facebook and Instagram for more creative recipes and add more fun to your dishes.\n\nServing Time: 30-45 minutes\nYield: 2-3 servings\n\nIngredients\n\n2 tbsps. butter\n1 tbsp. olive oil \n½ cup white onion, diced\n2 cloves garlic, minced\n2½ cups shredded chicken\nSalt and pepper to taste \n1 cup frozen corn and carrots\n¾ cup cooking cream\n¼ cup milk \n1½ cup King’s Deli Cheese Potato Chips, crushed\n1½ cup cheddar cheese, grated\n1 tbsp. flat leaf parsley, chopped\n\nProcedure\n\n1. Preheat oven to 175°C.\n2. Set a pan over medium heat, then add butter and olive oil. Sauté onions and garlic until soft. Add shredded chicken, then season with salt and pepper.\n3. Add in corn and carrots, and cook for 2-3 minutes. Mix in cooking cream, milk and ½ cup cheddar cheese. Let simmer for 2-3 minutes until slightly thickened.\n4. Transfer to an oven safe dish, then top with King’s Deli Cheese Potato Chips and cheddar cheese. Bake for 10-15 minutes. \n5. Garnish with parsley before serving. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "King’s Deli"
+      "The King's Deli"
     ],
     "recipe": {
       "servingTime": "30-45 minutes",
@@ -320,7 +320,7 @@ const APRIL_IG_DATA = [
     "campaign": "April IG",
     "caption": "Don't let your busy days stop you from enjoying a delicious meal! Head over to #TheMarketplace and check out our Gourmet To Go section, where hearty and ready-to-eat meals are available to recharge and refuel your body, mind, and soul.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Gourmet-to-Go"
+      "Gourmet to Go"
     ],
     "recipe": null,
     "photo": {

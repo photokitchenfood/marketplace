@@ -57,7 +57,7 @@ const JULY_IG_DATA = [
     "campaign": "July IG",
     "caption": "Always hearty and satisfying, make this Stir-Fried Tofu with Oyster Sauce part of your upcoming week’s menu. Made only with Mama Sita’s Oyster Sauce, you’re guaranteed to get that perfect balance of sweet and savory, which also enhances the flavors of the added aromatics.\n\nFind Mama Sita’s Oyster Sauce, along with a variety of other Mama Sita’s bottled products at #TheMarketplace!\n\nServing Time: 15 minutes\nYield: 2-3 servings\n\nIngredients\n\n¼ cup cooking oil \n3 blocks firm tofu, dried and sliced\n1 cup shiitake mushrooms, sliced \n1 tbsp. garlic, minced \n2 tbsps. leeks, white parts sliced \n½ cup frozen green peas\n2 tbsps. Mama Sita’s Oyster Sauce \n1 tbsp. soy sauce \n1 tbsp. shaoxing cooking wine\n2 tsps. brown sugar \n½ tsp. black pepper \n\nProcedure\n\n1. Heat up oil over medium heat. Fry tofu until crispy and nicely browned on all sides. Set aside tofu while retaining 2 tbsps. of oil in the pan. \n2. Sear shiitake mushrooms until lightly browned. Add in garlic and leeks, and sauté until soft and fragrant. Mix in green peas, and cook until warmed through. Add back fried tofu.\n3. Mix in Mama Sita’s Oyster Sauce, soy sauce, shaoxing cooking wine, sugar and pepper. Toss until everything is well coated with the sauce. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Mama Sita’s"
+      "Mama Sita's"
     ],
     "recipe": {
       "servingTime": "15 minutes",

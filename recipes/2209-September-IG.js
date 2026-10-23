@@ -57,7 +57,7 @@ const SEPTEMBER_IG_DATA = [
     "campaign": "September IG",
     "caption": "Chicken Parmigiana, also known as Chicken Parmesan, is a super comforting dish to have, especially after a long day.\n\nIf you’re trying to cut down on your meat consumption, try substituting the poultry with UnMeat Chick’N Patties. This plant-based alternative is too close to the real thing, you’ll hardly tell the difference. The best part? It takes less than half an hour to prepare! Find all the ingredients you need for this recipe, along with other meat alternatives, at #TheMarketplace!\n\nServing Time: 18 minutes\nYield: 4 servings\n\nIngredients\n\nOil for shallow-frying\n1 pack UnMeat Chick’N Patties\n2 cups marinara sauce \n1 cup mozzarella, grated \nBasil sprigs for garnish\n\nProcedure\n\n1. Shallow-fry UnMeat Chick’N Patties until golden brown on both sides, about 4 minutes per side. Drain excess oil, then transfer to a baking tray.\n2. Top UnMeat Chick’N Patties with marinara sauce and mozzarella, then broil for 5 minutes, or until cheese is melted.\n3. Garnish with basil. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "UnMeat"
+      "unMEAT"
     ],
     "recipe": {
       "servingTime": "18 minutes",
@@ -82,7 +82,7 @@ const SEPTEMBER_IG_DATA = [
     "campaign": "September IG",
     "caption": "Ever wondered what Roka Salata means?\n\nWhen translated from Greek, it means “Rocket Salad”, with rocket referring to arugula and not the ones sent to space. This salad is so healthy and nourishing that you can make an extra batch of the dressing made with Essential Waitrose Balsamic Vinegar of Modena and pair it with other salad combinations or even chicken and fish! Make your own Roka Salata at home and grab all the ingredients you need fresh from #TheMarketplace.\n\nServing Time: 15 minutes\nYield: 2-3 servings\n\nIngredients\n\n1 tbsp. Dijon mustard \n2 tsps. Italian seasoning\n3 tbsps. honey \n¼ cup Essential Waitrose Balsamic Vinegar of Modena \n½ cup olive oil \nSalt and pepper to taste \n2 cups Romaine lettuce, roughly-chopped\n1 cup arugula\n½ cup sundried tomatoes, sliced\n½ cup candied walnuts \n½ cup parmesan shavings \n\nProcedure\n\n1. Whisk together Dijon mustard, Italian seasoning, honey and Essential Waitrose Balsamic Vinegar of Modena.\n2. Slowly stream in olive oil while whisking continuously to emulsify the dressing. Season with salt and pepper to taste. Chill and set aside.\n3. Combine Romaine lettuce, arugula and sundried tomatoes. Dress with the balsamic dressing, then top with candied walnuts and parmesan shavings.  \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Essential Waitrose"
+      "Waitrose"
     ],
     "recipe": {
       "servingTime": "15 minutes",

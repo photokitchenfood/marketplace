@@ -32,7 +32,7 @@ const AUSTRALIAN_FESTIVAL_PHOTOS_DATA = [
     "campaign": "Australian Festival",
     "caption": "It is essential to always have canned meat products in your pantry just in case you’d like to cave into convenience and pop open a can to enjoy with a steaming plate of rice.\n\nAt #TheMarketplace, we stock up on premium and delicious Australian products such as those from Ox and Palm, which are known for their canned Corned Beef and Cooked Ham. Chunky and meaty, Ox and Palm products come only from Australian cattle and are also hormone and antibiotic-free. Try them out the next time you go grocery shopping!\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Ox and Palm"
+      "Ox & Palm"
     ],
     "recipe": null,
     "photo": {

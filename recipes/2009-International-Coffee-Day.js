@@ -233,7 +233,7 @@ const INTERNATIONAL_COFFEE_DAY_DATA = [
     "campaign": "International Coffee Day",
     "caption": "",
     "brand": [
-      "Kick-Start"
+      "Kick-Start Coffee"
     ],
     "recipe": null,
     "photo": {

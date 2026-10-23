@@ -13,7 +13,7 @@ const MOTHERS_DAY_DATA = [
     "campaign": "Mothers Day",
     "caption": "It’s no secret that moms love coffee with their dessert. So, why not combine both!\n\nThese Tiramisu Cups made with Kick-Start Coffee are creamy, chocolatey, and pack a generous dose of coffee (and a splash of booze) to make mom happy. Shop all the items you need at #TheMarketplace and make this decadent dessert with Mom right at the comfort of your home. \n\nServing Time: 1 hour\nYield: 4 servings\n\nIngredients\n\n½ cup brewed Kick-Start Awakening coffee \n1 tbsp. coffee liqueur\n3 egg yolks\n½ cup white sugar \n1 tsp. vanilla \n1 cup mascarpone cheese, softened\n10 pcs. broas, broken into bite size pieces \n2 disks tablea\n\nProcedure\n\n1. Combine brewed Kick-Start Awakening coffee and coffee liqueur. Set aside.\n2. In a heatproof bowl, whisk egg yolks, sugar and vanilla. Place bowl over a pot with simmering water and continue to whisk until the mixture becomes pale yellow and fluffy. \n3. In a separate bowl, beat mascarpone until light and fluffy. \n4. Fold egg mixture and mascarpone. Set aside.\n5. To assemble, dip broas pieces into the coffee mixture and add to the bottom of the serving glass. Top with a few spoonfuls of the mascarpone mixture. Grate some tablea on top. Repeat until the serving glass is full, ending with grated tablea.\n6. Refrigerate for at least 30 minutes before serving. \n\nNo need to fall in line! Order your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Kick-Start"
+      "Kick-Start Coffee"
     ],
     "recipe": {
       "servingTime": "1 hour",
@@ -176,7 +176,7 @@ const MOTHERS_DAY_DATA = [
     "campaign": "Mothers Day",
     "caption": "Say the sweetest thank you to Mom this Mother’s Day with these Kit Kat Brownies!\n\nMake them yourself, or together with Mom in the kitchen. Decadent and delightful, these Kit Kat brownies are best enjoyed with cold, full-cream milk or with Mom’s favorite coffee. Enjoy!\n\nFind everything you need at #TheMarketplace!\n\nServing Time: 45 minutes\nYield: 16 bars\n\nIngredients\n\n1 cup flour\n¾ cup unsweetened cocoa powder\n¾ cup sugar\n½ tsp. salt\n½ tsp. baking powder\n2 eggs\n½ stick of butter, softened\n4 packs of Kit Kat Chocolate Bars\n\nProcedure\n\n1. Preheat oven to 350°F.\n2. Sift flour, cocoa powder, salt and baking powder.\n3. Using a mixer, cream butter and sugar. Add eggs one by one until well-incorporated. \n4. Fold in flour mixture.\n5. Pour batter into an 8x8 baking tray. Bake for 20 mins.\n6. Top semi-cooked brownies with Kit Kat chocolate bars, and bake for another 5-10 mins.\n\nOrder your groceries safely and place them online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Kit Kat"
+      "KitKat"
     ],
     "recipe": {
       "servingTime": "45 minutes",
@@ -383,7 +383,7 @@ const MOTHERS_DAY_DATA = [
     "campaign": "Mothers Day",
     "caption": "Prepare these delicious Barbecue Wings for Mama with Mama Sita’s Barbecue Marinade!\n\nSweet, smoky, and best paired with some crudités, this is one lip-smacking dish that will make your Momma proud. Get all your ingredients fresh from #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 4 servings\n\nIngredients\n\n1 cup Mama Sita’s Barbecue Marinade \n¼ cup honey \n2 tbsps. cornstarch slurry \n½ kg chicken wings \nOil for deep-frying  \n\nProcedure\n\n1. In a medium saucepan, boil together Mama Sita’s Barbecue Marinade and honey for 4-6 minutes. Whisk in the cornstarch slurry and let thicken. Set aside.\n2. Deep-fry chicken wings until crispy and golden brown.\n3. Coat chicken wings with barbecue-honey glaze. \n\nOrder your groceries online at http://bit.ly/OrderTheMarketplace. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "Mama Sita’s"
+      "Mama Sita's"
     ],
     "recipe": {
       "servingTime": "30 minutes",

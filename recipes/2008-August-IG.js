@@ -133,7 +133,7 @@ const AUGUST_IG_DATA = [
     "campaign": "August IG",
     "caption": "",
     "brand": [
-      "FamilyGuard"
+      "Family Guard"
     ],
     "recipe": null,
     "photo": {

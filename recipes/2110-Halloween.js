@@ -220,7 +220,7 @@ const HALLOWEEN_DATA = [
     "campaign": "Halloween",
     "caption": "Give those store-bought donuts a fun makeover by topping them with M&Ms and Snickers. Want to throw in a spooky surprise? Dress up as a freaky clown as you serve these colorful Halloween Donuts to your friends and family for an experience that will surely elicit both screams and laughs. Find all the ingredients you need at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 6 pieces\n\nIngredients\n\n½ cup heavy cream \n1½ cups semi-sweet chocolate, chopped \n6 store-bought plain donuts \n½ cup M&Ms\n12 bars Snickers (Fun Size), chopped \n\nProcedure\n\n1. Microwave heavy cream for 1 minute. Pour hot cream over the chocolate, then mix until chocolate is fully melted and mixture is smooth. \n2. Dip donuts into the chocolate ganache, then top with M&Ms and Snickers. \n3. Let set for 10-15 minutes. \n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceCommunity!",
     "brand": [
-      "M&Ms",
+      "M&M's",
       "Snickers"
     ],
     "recipe": {

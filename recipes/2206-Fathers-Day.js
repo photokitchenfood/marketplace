@@ -13,7 +13,7 @@ const FATHERS_DAY_DATA = [
     "campaign": "Fathers Day",
     "caption": "Enjoy a luscious Cola Float without much of the guilt by using Coke Zero instead, which contains zero sugar! Top with vanilla ice cream, along with your toppings of choice! We used maraschino cherries, chocolate syrup, and slivered almonds, but feel free to use others such as chocolate chips, marshmallows, candy sprinkles, and more! Find your favorite sodas at #TheMarketplace, and get creative with your version of a soda float!\n\nServing Time: 3 minutes\nYield: 2 servings\n\nIngredients\n\n2 cups ice\n2 cups Coke Zero\n2 cups vanilla ice cream\n½ cup maraschino cherries\n½ cup chocolate syrup\n¼ cup almonds, slivered\n\nProcedure\n\n1. Fill glass with ice and Coke Zero. Top with ice cream.\n2. Drizzle with chocolate syrup, then top with a maraschino cherry each and slivered almonds.\n\nNo need to fall in line! Order your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Coke Zero"
+      "Coca-Cola"
     ],
     "recipe": {
       "servingTime": "3 minutes",

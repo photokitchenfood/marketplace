@@ -63,7 +63,7 @@ const SNACK_FESTIVAL_DATA = [
     "campaign": "Snack Festival",
     "caption": "Coke and chicken wings? Sure, why not?! And so these Cola Chicken Wings made with Coke Zero were born.\n\nActing as more of a glaze than a meat tenderizer, Coke Zero, when simmered down and seasoned with ginger, garlic, soy sauce, and scallions, provides a sweet-and-savory coating that has a hint of brown sugar to balance out all the strong Asian flavors. \n\nWarning, it’s a highly addictive yet also pretty versatile glaze that you can also use for pork chops and stir-fried beef. Get all the ingredients you need and make your own batch of these addictive wings at #TheMarketplace! \n\nServing Time: 30-35 minutes\nYield: 5-6 servings\n\nIngredients\n\n700g chicken wings\nSalt and pepper to taste\n⅓ cup flour\n⅓ cup cornstarch\nCanola oil for deep frying\n1 cup Coke Zero Sugar\n2 tbsps. garlic, grated\n1 tbsp. ginger, grated\n3 tbsps. soy sauce\n⅛ cup scallions, sliced\n1 tbsp. sesame seeds, toasted\n\nProcedure\n\n1. Season chicken wings with salt and pepper. Set aside.\n2. Combine flour and cornstarch, and season with salt and pepper. \n3. Preheat oil to 170°C. Lightly coat chicken wings with breading, then deep fry until golden brown and cooked through. Set aside.\n4. In a saucepan, combine Coke Zero Sugar, garlic, ginger, and soy sauce. Set over medium heat. Let simmer until thickened.\n5. Add in fried chicken wings, and toss to coat.\n6. Transfer to a plate, and garnish with scallions and sesame seeds.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Coke Zero"
+      "Coca-Cola"
     ],
     "recipe": {
       "servingTime": "30-35 minutes",

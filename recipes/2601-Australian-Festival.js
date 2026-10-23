@@ -148,7 +148,7 @@ const AUSTRALIAN_FESTIVAL_DATA = [
     "campaign": "Australian Festival",
     "caption": "This is breakfast that does the work while you sleep.\n\nCreamy overnight oats layered with peanut butter and banana, made with SO GOOD Unsweetened Almond Milk for a smooth, dairy-free base that keeps things light but satisfying. Nutty, sweet and perfectly spoonable by morning, it’s an easy win for busy days. 🥣🍌\n\nPrep it ahead and pick up everything you need from The Marketplace! 🛒💛\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "SO GOOD"
+      "So Good"
     ],
     "recipe": {
       "servingTime": "2 hours and 10 minutes",

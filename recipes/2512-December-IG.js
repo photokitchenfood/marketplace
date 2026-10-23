@@ -63,7 +63,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "December IG",
     "caption": "Crunch first, freshness second — that’s the joy of this Asian Crispy Calamari Salad! 🥗✨\n\nGolden pieces of PACIFIC WEST Nori Himalayan Salt Squid fried straight from frozen, sit atop a cool tumble of mixed greens, cabbage and carrots, and then finished off with a punchy soy-calamansi dressing. 🍋 Works just as well for a quick lunch as it does for a laid-back dinner with friends!\n\nTry the recipe at home and pick up everything you need from The Marketplace! 🛒\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "PACIFIC WEST"
+      "Pacific West"
     ],
     "recipe": {
       "servingTime": "25 minutes",

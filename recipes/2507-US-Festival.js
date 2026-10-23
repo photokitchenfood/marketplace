@@ -784,7 +784,7 @@ const US_FESTIVAL_DATA = [
     "campaign": "US Festival",
     "caption": "Throw it back and turn up the flavor with these Louisiana Voodoo Fries. Made with Lamb Weston Supreme Crinkle Cut Fries, they deliver that iconic ridged crunch we all know and love: crispy on the outside, fluffy inside, and downright fun to eat.\n\nDusted in bold Cajun spices and drizzled with a creamy, punchy voodoo sauce, every bite hits that sweet spot between nostalgic and bold. Grab your fries and fixings at The Marketplace, and let snack time get a little saucy.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Lamb Weston"
+      "LambWeston"
     ],
     "recipe": {
       "servingTime": "35-40 minutes",

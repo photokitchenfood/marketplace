@@ -97,7 +97,7 @@ const TMP_ANNIVERSARY_PHOTOS_DATA = [
     "campaign": "TMP Anniversary",
     "caption": "Sometimes the best desserts are the simplest ones, especially when they have a little twist.\n\nThis Nougat Eton Mess, made with El Corte Turrón de Alicante, is the perfect combination of crunchy nougat, sweet strawberries, and luscious whipped cream — so easy, yet so impressive.\n\nTo make it, just whip some heavy cream with vanilla, layer it with fresh strawberries, and top with crumbled turrón. It’s decadently light, and the nougat adds such an unexpected crunch that takes this classic dessert to a whole new level.\n\nPerfect for a dinner party or just a casual treat, it’s one of those desserts that looks beautiful but doesn’t take hours to prepare — in fact, only less than half an hour! Head over to The Marketplace and get all the items that you need for this gorgeous dessert.\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "El Corte"
+      "El Corte Inglés"
     ],
     "recipe": {
       "servingTime": "15 minutes",

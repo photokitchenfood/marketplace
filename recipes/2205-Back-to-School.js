@@ -63,7 +63,7 @@ const BACK_TO_SCHOOL_DATA = [
     "campaign": "Back to School",
     "caption": "Most of the time, a huge factor that gets kids to eat is the way a dish looks.\n\nThese Chicken & Bacon Pinwheels made with Lady’s Choice Chicken Spread rank high in our kiddie-approval meter. Not only do the pinwheels look fun to eat, but also the luscious combination of creamy chicken spread, crunchy bacon bits, and crisp celery is a flavor profile that’s friendly to young palates.\n\nDon’t forget to follow us on Instagram for more creative recipe ideas using ingredients found at #TheMarketplace! \n\nServing Time: 10 minutes\nYield: 4-5 servings\n\nIngredients\n\n2 cups boiled chicken, shredded\n¾ cup bacon bits, fried\n¾ cup celery, chopped\n1½ cup Lady’s Choice Chicken Spread\nSalt and pepper to taste\n3 tortilla wraps\n\nProcedure\n\n1. In a large bowl, combine chicken, bacon bits, celery, and Lady’s Choice Chicken Spread. Season with salt and pepper, set aside.\n2. Spread a layer of chicken spread all over over a tortilla wrap and roll to create a log. Secure with toothpicks.\n3. Cut into six, then serve with extra Lady’s Choice Chicken Spread.\n\nNo need to fall in line! Order your groceries online at http://bit.ly/TheMarketplaceGoRobinsons. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Lady’s Choice"
+      "Lady's Choice"
     ],
     "recipe": {
       "servingTime": "10 minutes",
@@ -88,7 +88,7 @@ const BACK_TO_SCHOOL_DATA = [
     "campaign": "Back to School",
     "caption": "You can never go wrong with smoky, shattering-crisp bacon.\n\nThis recipe for Bacon Aglio Olio is a great meal that can be enjoyed by everyone of all ages around the dining table. Made with Pampanga’s Best Brickle Bacon, the smokiness from the meat is enhanced by the aromatic flavors of garlic, resulting to a hearty pasta dish that’s quick, easy, and super yummy. Find Pampanga’s Best Brickle Bacon, along with other bacon brands, at #TheMarketplace!\n\nServing Time: 30 minutes\nYield: 2-3 servings\n\nIngredients\n\n300g spaghetti noodles\n2 cups Pampanga’s Best Brickle Bacon, chopped\n½ cup olive oil\n6 cloves garlic, sliced\nSalt and pepper to taste\n¼ cup parsley, chopped\n\nProcedure\n\n1. Cook pasta according to package instructions. Save one cup pasta water, then drain and set aside.\n2. Set a pan over medium heat. Fry Pampanga’s Best Brickle Bacon until golden brown then set aside. Using the same pan, add olive oil and garlic. Cook garlic until slightly golden.\n3. Slowly add ¾ cup pasta water. Let simmer. Season with salt and pepper, then add cooked pasta, bacon, and parsley. Mix until well combined.\n4. Transfer to a plate, and top with more bacon and parsley.\n\nYou can now order your groceries online at https://bit.ly/TheMarketplaceGoRobinsons. Come and join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Pampanga’s Best"
+      "Pampanga's Best"
     ],
     "recipe": {
       "servingTime": "30 minutes",

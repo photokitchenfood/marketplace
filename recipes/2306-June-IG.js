@@ -13,7 +13,7 @@ const JUNE_IG_DATA = [
     "campaign": "June IG",
     "caption": "Turn your favorite dessert into a probiotic-packed treat with Dutchmill Delight!\n\nMango sago with chunks of peach is the perfect mash-up between the popular Asian dessert and the famed fast-food pie. Just prepare your sago in advance, blend some ripe and juicy mangoes and peaches together, add a bottle of Dutchmill Delight, and a swirl of condensed milk for sweetness.\n\nLook no further — all the ingredients you need for this refreshing and healthful drink are available at #TheMarketplace!\n\nServing Time: 5 minutes\nYield: 4 servings\n\nIngredients\n\n1 bottle (400ml) Dutchmill Delight\n1 cup ripe mango chunks, divided\n1 cup peach chunks, divided\n1 cup small tapioca pearls, cooked\nCondensed milk to taste\n\nProcedure\n\n1. In a blender, add Dutchmill Delight, half of the peach and mango chunks, and condensed milk. Blend until smooth.\n2. Transfer to a pitcher with tapioca pearls and the remaining peach and mango chunks. Stir and serve well-chilled.\n\nOrder your groceries online at https://bit.ly/TheMarketplaceGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Dutchmill"
+      "Dutch Mill"
     ],
     "recipe": {
       "servingTime": "5 minutes",

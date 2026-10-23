@@ -89,7 +89,7 @@ const CHRISTMAS_PHOTOS_DATA = [
     "campaign": "Christmas",
     "caption": "Entertaining at home for the holidays?\n\nGrab a jar of Lady’s Choice Mayonnaise the next time you visit #TheMarketplace and prepare these BLT Canapés with Basil Mayonnaise! The Bacon-Lettuce-Tomato combo never fails to please, and the touch of herby basil mayonnaise ties the flavors together with a sophisticated familiarity. They are so easy to prepare, too!\n\nThis Yuletide season, make sure to always have a bottle of Lady’s Choice Mayonnaise handy, which is also perfect for salads, dips, and other sauces.\n\nOrder your groceries online at https://bit.ly/ShopNowGoCart. Join our Viber community as well at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Lady’s Choice"
+      "Lady's Choice"
     ],
     "recipe": {
       "servingTime": "12 minutes",

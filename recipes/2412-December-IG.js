@@ -113,7 +113,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "December IG",
     "caption": "Embrace the holiday season with the simplicity of one-pot cooking: Smoked Pepper Chicken & Rice.\n\nMagnolia Roasters Smoked Pepper Chicken brings a smoky, festive flavor that infuses the rice as it simmers, creating a rich, comforting dish that feels like it took hours but only needs one pot.\n\nCelebrate without the hassle of extra dish — this easy, delicious centrepiece is sure to become a holiday tradition. Find everything you need at The Marketplace!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Magnolia Roasters"
+      "Magnolia"
     ],
     "recipe": {
       "servingTime": "55 minutes",
@@ -257,7 +257,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "December IG",
     "caption": "Holiday gatherings with toddlers can be a joy — and a juggling act — but Mamypoko Pants Premium Extra Dry are here to make it easier.\n\nThese diapers offer a snug, breathable fit and superior absorbency, keeping little ones dry and comfortable all season. No leaks, no fuss — just the freedom to enjoy the festivities. For moms, it's peace of mind with a soft, gentle design that’s perfect for delicate skin. Available at The Marketplace, along with other baby essentials!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Mamypoko"
+      "MamyPoko"
     ],
     "recipe": null,
     "photo": {

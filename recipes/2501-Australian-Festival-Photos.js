@@ -100,7 +100,7 @@ const AUSTRALIAN_FESTIVAL_PHOTOS_DATA = [
     "campaign": "Australian Festival",
     "caption": "What could be better than a warm, gooey skillet dessert that combines the best of brownies, cookie dough, and Kit Kat Gold Crush?\n\nThis Gold Rush Kit Kat Brookie Skillet is pure bliss — rich, fudgy brownie base, swirls of golden cookie dough, and irresistible chunks of Kit Kat Cookie Dough throughout. Just when you think it couldn’t get better, it’s crowned with a generous scoop of creamy chocolate ice cream. It's easy to make, delightfully indulgent, and perfect for sharing — or not. So, gather your ingredients at The Marketplace and treat yourself to something truly special.\n\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Kit Kat"
+      "KitKat"
     ],
     "recipe": {
       "servingTime": "40-45 minutes",
@@ -301,7 +301,7 @@ const AUSTRALIAN_FESTIVAL_PHOTOS_DATA = [
     "campaign": "Australian Festival",
     "caption": "Craving a delicious treat that’s perfect for breakfast or a snack? Then these Peanut Butter Banana Oatmeal Bars are just what you need! \n\nWith Quaker Oats Banana & Honey Oatmeal as the base, you get the comforting flavors of banana and honey baked into a chewy, wholesome bar. Add in creamy peanut butter and fresh bananas for an easy, satisfying recipe that’s bound to become a favorite. Head over to The Marketplace to grab all the ingredients that you need!\n\nJoin our Viber community at https://bit.ly/TheMarketplaceViber!",
     "brand": [
-      "Quaker Oats"
+      "Quaker"
     ],
     "recipe": {
       "servingTime": "40-45 minutes",
