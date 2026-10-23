@@ -2200,6 +2200,15 @@ const RECIPES_INDEX = [
     "count": 38
   },
   {
+    "id": "2011-Frozen-Flavors",
+    "label": "Frozen Flavors",
+    "type": "photo",
+    "year": 2020,
+    "month": 11,
+    "file": "recipes/2011-Frozen-Flavors.js",
+    "count": 3
+  },
+  {
     "id": "2010-October-IG",
     "label": "October IG",
     "type": "photo",
@@ -2227,6 +2236,24 @@ const RECIPES_INDEX = [
     "count": 23
   },
   {
+    "id": "2009-European-Festival",
+    "label": "European Festival",
+    "type": "photo",
+    "year": 2020,
+    "month": 9,
+    "file": "recipes/2009-European-Festival.js",
+    "count": 15
+  },
+  {
+    "id": "2009-Eat-Right-Live-Healthy",
+    "label": "Eat Right Live Healthy",
+    "type": "photo",
+    "year": 2020,
+    "month": 9,
+    "file": "recipes/2009-Eat-Right-Live-Healthy.js",
+    "count": 29
+  },
+  {
     "id": "2008-August-IG",
     "label": "August IG",
     "type": "photo",
@@ -2252,6 +2279,15 @@ const RECIPES_INDEX = [
     "month": 6,
     "file": "recipes/2006-June-IG.js",
     "count": 14
+  },
+  {
+    "id": "2006-Fathers-Day",
+    "label": "Fathers Day",
+    "type": "photo",
+    "year": 2020,
+    "month": 6,
+    "file": "recipes/2006-Fathers-Day.js",
+    "count": 28
   },
   {
     "id": "2006-Breakfast-Fair",

@@ -34,6 +34,7 @@ def main():
     if not m:
         sys.exit("folder name must be 'YYMM Campaign Name'")
     prefix, campaign = m.group(1), m.group(2).strip()
+    campaign = re.sub(r"['\u2019]", "", campaign)  # "Father's Day" -> "Fathers Day", as in 2021+
     slug = re.sub(r"[^A-Za-z0-9]+", "-", campaign).strip("-")
     out = ROOT / "recipes" / f"{prefix}-{slug}.js"
     words = re.findall(r"[A-Za-z]+", campaign)
@@ -53,7 +54,7 @@ def main():
         plan_path = plans / f"{prefix}.json"
     plan = json.loads(plan_path.read_text(encoding="utf-8"))
     links = json.loads((ROOT / "dropbox-links.json").read_text(encoding="utf-8"))
-    dropbox = links.get(folder.name) or links.get(prefix, "")
+    dropbox = links.get(folder.name) or links.get(f"{prefix} {campaign}") or links.get(prefix, "")
 
     items = []
     with tempfile.TemporaryDirectory() as tmp:
