@@ -9,7 +9,7 @@ per photo in card order. This script resizes the photos, embeds them as base64
 (like every other shoot) and writes the data file. Originals are never copied.
 
 Layout names ending in " *" are best guesses for recipe photos (title unknown).
-The Dropbox link comes only from dropbox-links.json (folder prefix -> URL).
+The Dropbox link comes only from dropbox-links.json (full folder name, else folder prefix -> URL).
 
     python3 scripts/ingest_photo_folder.py "pptx/2001 January IG" [--dry-run]
     then: python3 scripts/generate_recipes_index.py
@@ -36,12 +36,24 @@ def main():
     prefix, campaign = m.group(1), m.group(2).strip()
     slug = re.sub(r"[^A-Za-z0-9]+", "-", campaign).strip("-")
     out = ROOT / "recipes" / f"{prefix}-{slug}.js"
-    code = "IG" if re.search(r"\bIG\b", campaign) else re.sub(r"[^A-Z]", "", campaign.upper())[:2] or "P"
+    words = re.findall(r"[A-Za-z]+", campaign)
+    if re.search(r"\bIG\b", campaign):
+        code = "IG"
+    elif len(words) > 1:
+        code = "".join(w[0] for w in words[:2]).upper()  # initials, like AF1 / HH1
+    else:
+        code = (words[0][:2] if words else "P").upper()
     varname = "_".join(slug.upper().split("-")) + "_DATA"
 
-    plan = json.loads((ROOT / "scripts" / "ingest-plans" / f"{prefix}.json").read_text(encoding="utf-8"))
+    # Several campaigns can share a YYMM prefix (2006 June IG / 2006 Breakfast Fair), so the
+    # plan file and manifest entry are looked up by the full folder name first, then the prefix.
+    plans = ROOT / "scripts" / "ingest-plans"
+    plan_path = plans / f"{prefix}-{slug}.json"
+    if not plan_path.exists():
+        plan_path = plans / f"{prefix}.json"
+    plan = json.loads(plan_path.read_text(encoding="utf-8"))
     links = json.loads((ROOT / "dropbox-links.json").read_text(encoding="utf-8"))
-    dropbox = links.get(prefix, "")
+    dropbox = links.get(folder.name) or links.get(prefix, "")
 
     items = []
     with tempfile.TemporaryDirectory() as tmp:

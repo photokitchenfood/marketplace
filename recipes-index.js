@@ -2182,6 +2182,15 @@ const RECIPES_INDEX = [
     "count": 41
   },
   {
+    "id": "2012-Christmas",
+    "label": "Christmas",
+    "type": "photo",
+    "year": 2020,
+    "month": 12,
+    "file": "recipes/2012-Christmas.js",
+    "count": 24
+  },
+  {
     "id": "2011-November-IG",
     "label": "November IG",
     "type": "photo",
@@ -2198,6 +2207,15 @@ const RECIPES_INDEX = [
     "month": 10,
     "file": "recipes/2010-October-IG.js",
     "count": 22
+  },
+  {
+    "id": "2010-Anniversary",
+    "label": "Anniversary",
+    "type": "photo",
+    "year": 2020,
+    "month": 10,
+    "file": "recipes/2010-Anniversary.js",
+    "count": 19
   },
   {
     "id": "2009-September-IG",
@@ -2234,6 +2252,15 @@ const RECIPES_INDEX = [
     "month": 6,
     "file": "recipes/2006-June-IG.js",
     "count": 14
+  },
+  {
+    "id": "2006-Breakfast-Fair",
+    "label": "Breakfast Fair",
+    "type": "photo",
+    "year": 2020,
+    "month": 6,
+    "file": "recipes/2006-Breakfast-Fair.js",
+    "count": 24
   },
   {
     "id": "2005-May-IG",
