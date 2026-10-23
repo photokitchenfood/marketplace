@@ -229,9 +229,6 @@ main.content{padding:28px 32px}
 .ingLine.header:first-child{margin-top:0}
 
 /* EDIT MODE — Edit Card modal mirrors the Surfaces Catalog's Edit Surface modal */
-#editModeBtn{display:flex;align-items:center;gap:6px;font-family:"DM Mono",monospace;font-size:11px;letter-spacing:.03em;padding:7px 12px;border-radius:var(--radius);border:1.5px solid rgba(255,255,255,.25);background:transparent;color:#fff;cursor:pointer;transition:border-color .15s,background .15s;white-space:nowrap}
-#editModeBtn:hover{border-color:#fff}
-#editModeBtn[aria-pressed="true"]{background:#fff;color:var(--ink);border-color:#fff}
 .btn-edit-card,.review-flag{display:none}
 body.edit-mode .btn-edit-card{position:absolute;bottom:8px;right:8px;z-index:2;background:rgba(255,255,255,.85);border:none;border-radius:4px;padding:4px;cursor:pointer;opacity:0;transition:opacity .15s;display:flex;align-items:center;justify-content:center;line-height:1;color:var(--ink-soft)}
 body.edit-mode .card-img:hover .btn-edit-card,body.edit-mode .btn-edit-card:focus-visible{opacity:1}
@@ -277,7 +274,7 @@ body.edit-mode .review-flag{position:absolute;top:8px;right:8px;z-index:2;width:
 @media(max-width:700px){.em-inner{flex-direction:column}.em-photo-col{width:auto;padding:0 28px 16px}.em-fields-col{padding:0 28px 28px}}
 </style>
 </head>
-<body>
+<body class="edit-mode">
 
 <div id="pw-gate">
   <div class="pw-box">
@@ -302,10 +299,6 @@ body.edit-mode .review-flag{position:absolute;top:8px;right:8px;z-index:2;width:
     </div>
   </div>
   <div class="header-right" style="order:3">
-    <button id="editModeBtn" type="button" aria-pressed="false">
-      <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>
-      Edit Mode
-    </button>
     <button id="saveChangesBtn">
       <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
       <span id="saveChangesLabel">Save Changes</span>
@@ -743,7 +736,7 @@ const CATEGORY_META = {
   "WITH AI": {cls:"ai", label:"with AI"}
 };
 
-let editMode = false; // set by ?edit=1 / the Edit Mode toggle; gates every edit affordance
+const editMode = true; // edit affordances (per-card Edit button) are always on; no header toggle
 let currentShoot = null; // {id,label,type,varName,data}
 let selectionToken = 0;  // bumps on every folder click; drops out-of-order async results
 
@@ -1724,16 +1717,6 @@ function makeZip(files){ // files: [{name, text}] -> Blob
 const EDIT_CATEGORIES = Object.keys(CATEGORY_META).filter(k => k !== "WITH AI");
 const emEl = id => document.getElementById(id);
 let editItem = null, editPendingPhoto = null;
-
-function setEditMode(on){
-  editMode = on;
-  document.body.classList.toggle("edit-mode", on);
-  emEl("editModeBtn").setAttribute("aria-pressed", on ? "true" : "false");
-  refreshCurrentView();
-}
-emEl("editModeBtn").addEventListener("click", () => setEditMode(!editMode));
-// The header toggle is always available; ?edit=1 also opens the page with Edit Mode on.
-if(new URLSearchParams(location.search).get("edit") === "1") setEditMode(true);
 
 emEl("em-category").innerHTML = EDIT_CATEGORIES.map(k => `<option value="${escapeHTML(k)}">${escapeHTML(CATEGORY_META[k].label)}</option>`).join("");
 
