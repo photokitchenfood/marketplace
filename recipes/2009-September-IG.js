@@ -293,7 +293,7 @@ const SEPTEMBER_IG_DATA = [
     "campaign": "September IG",
     "caption": "",
     "brand": [
-      "Machiavelli"
+      "! Generic"
     ],
     "recipe": null,
     "photo": {
@@ -433,7 +433,6 @@ const SEPTEMBER_IG_DATA = [
     "campaign": "September IG",
     "caption": "",
     "brand": [
-      "Berry Knots",
       "Cream-O",
       "Wafrets"
     ],

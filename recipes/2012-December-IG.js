@@ -253,7 +253,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "December IG",
     "caption": "",
     "brand": [
-      "Whoopie"
+      "! Generic"
     ],
     "recipe": null,
     "photo": {
@@ -293,7 +293,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "December IG",
     "caption": "",
     "brand": [
-      "Cloud 9"
+      "! Generic"
     ],
     "recipe": null,
     "photo": {
@@ -313,7 +313,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "December IG",
     "caption": "",
     "brand": [
-      "Bounty Fresh"
+      "Bounty"
     ],
     "recipe": null,
     "photo": {
@@ -333,7 +333,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "December IG",
     "caption": "",
     "brand": [
-      "Bento"
+      "! Generic"
     ],
     "recipe": null,
     "photo": {
@@ -413,7 +413,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "December IG",
     "caption": "",
     "brand": [
-      "Cowhead"
+      "! Generic"
     ],
     "recipe": null,
     "photo": {
@@ -533,7 +533,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "December IG",
     "caption": "",
     "brand": [
-      "O2 Linn"
+      "! Generic"
     ],
     "recipe": null,
     "photo": {
@@ -633,7 +633,7 @@ const DECEMBER_IG_DATA = [
     "campaign": "December IG",
     "caption": "",
     "brand": [
-      "Garden"
+      "! Generic"
     ],
     "recipe": null,
     "photo": {

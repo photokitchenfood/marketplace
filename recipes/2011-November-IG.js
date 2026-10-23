@@ -233,7 +233,7 @@ const NOVEMBER_IG_DATA = [
     "campaign": "November IG",
     "caption": "",
     "brand": [
-      "Fuwa Fuwa"
+      "! Generic"
     ],
     "recipe": null,
     "photo": {
@@ -253,7 +253,7 @@ const NOVEMBER_IG_DATA = [
     "campaign": "November IG",
     "caption": "",
     "brand": [
-      "Doowee Donut"
+      "Doowee"
     ],
     "recipe": null,
     "photo": {

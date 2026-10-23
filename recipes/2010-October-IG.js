@@ -233,7 +233,7 @@ const OCTOBER_IG_DATA = [
     "campaign": "October IG",
     "caption": "",
     "brand": [
-      "Excellent"
+      "! Generic"
     ],
     "recipe": null,
     "photo": {
@@ -313,7 +313,7 @@ const OCTOBER_IG_DATA = [
     "campaign": "October IG",
     "caption": "",
     "brand": [
-      "Ellie"
+      "! Generic"
     ],
     "recipe": null,
     "photo": {
