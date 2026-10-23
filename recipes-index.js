@@ -1,6 +1,6 @@
 // PhotoKitchen Recipes Index
 // Auto-generated — do not edit manually
-// Last updated: 2026-10-20
+// Last updated: 2026-10-23
 
 const RECIPES_INDEX = [
   {
@@ -2171,6 +2171,15 @@ const RECIPES_INDEX = [
     "month": 2,
     "file": "recipes/2102-February-IG.js",
     "count": 16
+  },
+  {
+    "id": "2001-January-IG",
+    "label": "January IG",
+    "type": "photo",
+    "year": 2020,
+    "month": 1,
+    "file": "recipes/2001-January-IG.js",
+    "count": 9
   }
 ];
 
