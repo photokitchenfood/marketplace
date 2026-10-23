@@ -2218,6 +2218,15 @@ const RECIPES_INDEX = [
     "count": 22
   },
   {
+    "id": "2010-Halloween",
+    "label": "Halloween",
+    "type": "photo",
+    "year": 2020,
+    "month": 10,
+    "file": "recipes/2010-Halloween.js",
+    "count": 12
+  },
+  {
     "id": "2010-Anniversary",
     "label": "Anniversary",
     "type": "photo",
@@ -2234,6 +2243,24 @@ const RECIPES_INDEX = [
     "month": 9,
     "file": "recipes/2009-September-IG.js",
     "count": 23
+  },
+  {
+    "id": "2009-Milkiest-Celebrations",
+    "label": "Milkiest Celebrations",
+    "type": "photo",
+    "year": 2020,
+    "month": 9,
+    "file": "recipes/2009-Milkiest-Celebrations.js",
+    "count": 13
+  },
+  {
+    "id": "2009-International-Coffee-Day",
+    "label": "International Coffee Day",
+    "type": "photo",
+    "year": 2020,
+    "month": 9,
+    "file": "recipes/2009-International-Coffee-Day.js",
+    "count": 15
   },
   {
     "id": "2009-European-Festival",
@@ -2270,6 +2297,15 @@ const RECIPES_INDEX = [
     "month": 7,
     "file": "recipes/2007-July-IG.js",
     "count": 15
+  },
+  {
+    "id": "2006-Snack-Festival",
+    "label": "Snack Festival",
+    "type": "photo",
+    "year": 2020,
+    "month": 6,
+    "file": "recipes/2006-Snack-Festival.js",
+    "count": 19
   },
   {
     "id": "2006-June-IG",
