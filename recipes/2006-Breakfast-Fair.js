@@ -373,7 +373,7 @@ const BREAKFAST_FAIR_DATA = [
     "campaign": "Breakfast Fair",
     "caption": "",
     "brand": [
-      "Ego"
+      "! Generic"
     ],
     "recipe": null,
     "photo": {

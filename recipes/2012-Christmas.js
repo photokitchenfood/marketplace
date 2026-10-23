@@ -233,7 +233,7 @@ const CHRISTMAS_DATA = [
     "campaign": "Christmas",
     "caption": "",
     "brand": [
-      "Pure Foods"
+      "Purefoods"
     ],
     "recipe": null,
     "photo": {
@@ -473,7 +473,7 @@ const CHRISTMAS_DATA = [
     "campaign": "Christmas",
     "caption": "",
     "brand": [
-      "Smart"
+      "! Generic"
     ],
     "recipe": null,
     "photo": {

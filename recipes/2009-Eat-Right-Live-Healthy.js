@@ -33,7 +33,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "campaign": "Eat Right Live Healthy",
     "caption": "",
     "brand": [
-      "Gold Standard"
+      "! Generic"
     ],
     "recipe": null,
     "photo": {
@@ -133,7 +133,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "campaign": "Eat Right Live Healthy",
     "caption": "",
     "brand": [
-      "Papa Alfredo"
+      "! Generic"
     ],
     "recipe": null,
     "photo": {
@@ -153,7 +153,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "campaign": "Eat Right Live Healthy",
     "caption": "",
     "brand": [
-      "Papa Alfredo"
+      "! Generic"
     ],
     "recipe": null,
     "photo": {
@@ -353,8 +353,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "campaign": "Eat Right Live Healthy",
     "caption": "",
     "brand": [
-      "Ellie",
-      "Simply"
+      "! Generic"
     ],
     "recipe": null,
     "photo": {
@@ -434,7 +433,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "campaign": "Eat Right Live Healthy",
     "caption": "",
     "brand": [
-      "Heritage"
+      "! Generic"
     ],
     "recipe": null,
     "photo": {
@@ -554,7 +553,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "campaign": "Eat Right Live Healthy",
     "caption": "",
     "brand": [
-      "Keto"
+      "! Generic"
     ],
     "recipe": null,
     "photo": {
@@ -574,7 +573,7 @@ const EAT_RIGHT_LIVE_HEALTHY_DATA = [
     "campaign": "Eat Right Live Healthy",
     "caption": "",
     "brand": [
-      "Papa Alfredo"
+      "! Generic"
     ],
     "recipe": null,
     "photo": {
