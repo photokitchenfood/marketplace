@@ -228,8 +228,7 @@ main.content{padding:28px 32px}
 .ingLine.header:first-child{margin-top:0}
 
 /* EDIT MODE — Edit Card modal mirrors the Surfaces Catalog's Edit Surface modal */
-#editModeBtn{display:none;align-items:center;gap:6px;font-family:"DM Mono",monospace;font-size:11px;letter-spacing:.03em;padding:7px 12px;border-radius:var(--radius);border:1.5px solid rgba(255,255,255,.25);background:transparent;color:#fff;cursor:pointer;transition:border-color .15s,background .15s;white-space:nowrap}
-#editModeBtn.show{display:flex}
+#editModeBtn{display:flex;align-items:center;gap:6px;font-family:"DM Mono",monospace;font-size:11px;letter-spacing:.03em;padding:7px 12px;border-radius:var(--radius);border:1.5px solid rgba(255,255,255,.25);background:transparent;color:#fff;cursor:pointer;transition:border-color .15s,background .15s;white-space:nowrap}
 #editModeBtn:hover{border-color:#fff}
 #editModeBtn[aria-pressed="true"]{background:#fff;color:var(--ink);border-color:#fff}
 .btn-edit-card,.review-flag{display:none}
@@ -1688,11 +1687,8 @@ function setEditMode(on){
   refreshCurrentView();
 }
 emEl("editModeBtn").addEventListener("click", () => setEditMode(!editMode));
-// Edit tools stay invisible to regular viewers: ?edit=1 reveals the toggle and turns it on.
-if(new URLSearchParams(location.search).get("edit") === "1"){
-  emEl("editModeBtn").classList.add("show");
-  setEditMode(true);
-}
+// The header toggle is always available; ?edit=1 also opens the page with Edit Mode on.
+if(new URLSearchParams(location.search).get("edit") === "1") setEditMode(true);
 
 emEl("em-category").innerHTML = EDIT_CATEGORIES.map(k => `<option value="${escapeHTML(k)}">${escapeHTML(CATEGORY_META[k].label)}</option>`).join("");
 
