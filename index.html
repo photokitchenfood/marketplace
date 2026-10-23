@@ -226,6 +226,50 @@ main.content{padding:28px 32px}
 .ingLine{margin-bottom:2px}
 .ingLine.header{font-weight:700;margin-top:10px}
 .ingLine.header:first-child{margin-top:0}
+
+/* EDIT MODE — Edit Card modal mirrors the Surfaces Catalog's Edit Surface modal */
+#editModeBtn{display:none;align-items:center;gap:6px;font-family:"DM Mono",monospace;font-size:11px;letter-spacing:.03em;padding:7px 12px;border-radius:var(--radius);border:1.5px solid rgba(255,255,255,.25);background:transparent;color:#fff;cursor:pointer;transition:border-color .15s,background .15s;white-space:nowrap}
+#editModeBtn.show{display:flex}
+#editModeBtn:hover{border-color:#fff}
+#editModeBtn[aria-pressed="true"]{background:#fff;color:var(--ink);border-color:#fff}
+.btn-edit-card,.review-flag{display:none}
+body.edit-mode .btn-edit-card{position:absolute;bottom:8px;right:8px;z-index:2;background:rgba(255,255,255,.85);border:none;border-radius:4px;padding:4px;cursor:pointer;opacity:0;transition:opacity .15s;display:flex;align-items:center;justify-content:center;line-height:1;color:var(--ink-soft)}
+body.edit-mode .card-img:hover .btn-edit-card,body.edit-mode .btn-edit-card:focus-visible{opacity:1}
+@media(hover:none){body.edit-mode .btn-edit-card{opacity:1}}
+body.edit-mode .btn-edit-card:hover{color:var(--ink)}
+body.edit-mode .review-flag{position:absolute;top:8px;right:8px;z-index:2;width:8px;height:8px;border-radius:50%;background:#D4A800;box-shadow:0 0 0 2px rgba(255,255,255,.9);display:block}
+#edit-modal-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.45);z-index:500;align-items:center;justify-content:center;padding:20px}
+#edit-modal-overlay.open{display:flex}
+#edit-modal{background:var(--surface);border-radius:12px;width:860px;max-width:96vw;box-shadow:0 8px 32px rgba(0,0,0,.18);font-family:"DM Mono",monospace;overflow:hidden}
+.em-header{display:flex;align-items:center;justify-content:space-between;padding:28px 28px 16px}
+.em-title{font-family:"Syne",sans-serif;font-weight:700;font-size:15px;color:var(--ink)}
+.em-id{font-size:10px;color:var(--ink-faint);letter-spacing:.1em;text-transform:uppercase}
+.em-inner{display:flex;align-items:stretch}
+.em-photo-col{width:300px;flex-shrink:0;padding:0 16px 28px 28px;display:flex;flex-direction:column}
+.em-label{font-size:9px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft);margin-bottom:6px;display:block}
+.em-photo-wrap{position:relative;cursor:pointer;border-radius:8px;overflow:hidden;background:#F0EDE8;border:1.5px solid var(--ink-faint);aspect-ratio:1/1}
+.em-photo-wrap:hover .em-photo-hover{opacity:1}
+.em-photo-wrap img{width:100%;height:100%;object-fit:cover;display:block}
+.em-photo-hover{position:absolute;inset:0;background:rgba(0,0,0,.35);display:flex;align-items:center;justify-content:center;opacity:0;transition:opacity .15s;pointer-events:none}
+.em-photo-hover span{font-size:10px;color:#fff;letter-spacing:.06em;text-transform:uppercase}
+.em-fields-col{flex:1;padding:0 28px 28px 0;display:flex;flex-direction:column;gap:10px;min-width:0;overflow-y:auto;max-height:calc(90vh - 54px)}
+.em-mf{display:flex;flex-direction:column;gap:4px}
+.em-mf label{font-size:9px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft)}
+.em-mf input[type=text],.em-mf input[type=url],.em-mf select,.em-mf textarea{width:100%;padding:7px 9px;border:1.5px solid var(--tag-border);border-radius:var(--radius);font-family:"DM Mono",monospace;font-size:12px;background:var(--bg);color:var(--ink);outline:none;transition:border-color .15s;box-sizing:border-box}
+.em-mf textarea{resize:vertical;min-height:64px;line-height:1.4}
+.em-mf input:focus,.em-mf select:focus,.em-mf textarea:focus{border-color:var(--ink)}
+.em-mf select{appearance:none;-webkit-appearance:none;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%23999'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 9px center;padding-right:28px}
+.em-row{display:flex;gap:8px}
+.em-row .em-mf{flex:1;min-width:0}
+.em-hint{font-size:9px;color:var(--ink-faint);letter-spacing:.04em}
+.em-review-wrap{display:flex;align-items:center;gap:8px;cursor:pointer;user-select:none;font-size:11px;color:var(--ink-soft)}
+.em-review-wrap input{accent-color:var(--ink)}
+.em-footer{display:flex;gap:8px;justify-content:flex-end;margin-top:auto;padding-top:12px}
+.em-btn{font-family:"DM Mono",monospace;font-size:11px;letter-spacing:.03em;padding:7px 16px;border-radius:5px;border:1.5px solid var(--tag-border);background:transparent;color:var(--ink-soft);cursor:pointer;transition:all .15s}
+.em-btn:hover{border-color:var(--ink);color:var(--ink)}
+.em-btn.primary{background:var(--ink);border-color:var(--ink);color:#fff}
+.em-btn.primary:hover{opacity:.85}
+@media(max-width:700px){.em-inner{flex-direction:column}.em-photo-col{width:auto;padding:0 28px 16px}.em-fields-col{padding:0 28px 28px}}
 </style>
 </head>
 <body>
@@ -253,6 +297,10 @@ main.content{padding:28px 32px}
     </div>
   </div>
   <div class="header-right" style="order:3">
+    <button id="editModeBtn" type="button" aria-pressed="false">
+      <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>
+      Edit Mode
+    </button>
     <button id="saveChangesBtn">
       <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
       <span id="saveChangesLabel">Save Changes</span>
@@ -402,6 +450,49 @@ main.content{padding:28px 32px}
       <div class="grid" id="shufflerGrid"></div>
     </div>
   </main>
+</div>
+
+<div id="edit-modal-overlay">
+  <div id="edit-modal" role="dialog" aria-label="Edit Card">
+    <div class="em-header">
+      <span class="em-title">Edit Card</span>
+      <span class="em-id" id="em-id-strip"></span>
+    </div>
+    <div class="em-inner">
+      <div class="em-photo-col">
+        <span class="em-label">Photo</span>
+        <div class="em-photo-wrap" id="em-photo-wrap">
+          <img id="em-photo-preview" alt="">
+          <div class="em-photo-hover"><span>Replace photo</span></div>
+        </div>
+        <input type="file" id="em-photo-file" accept="image/*" style="display:none">
+      </div>
+      <div class="em-fields-col">
+        <div class="em-mf"><label for="em-name">Layout Name</label><input type="text" id="em-name" placeholder="Layout name"></div>
+        <div class="em-row">
+          <div class="em-mf" style="flex:1"><label for="em-category">Category</label><select id="em-category"></select></div>
+          <div class="em-mf" style="flex:2"><label for="em-brands">Brands</label><input type="text" id="em-brands" placeholder="Comma-separated"></div>
+        </div>
+        <div class="em-mf"><label for="em-caption">Caption</label><textarea id="em-caption" rows="3"></textarea></div>
+        <div class="em-mf">
+          <label>Recipe</label>
+          <div class="em-row">
+            <input type="text" id="em-r-time" placeholder="Serving time" aria-label="Serving time">
+            <input type="text" id="em-r-yield" placeholder="Yield" aria-label="Yield">
+          </div>
+          <textarea id="em-r-ingredients" rows="3" placeholder="Ingredients (one per line)" aria-label="Ingredients"></textarea>
+          <textarea id="em-r-procedure" rows="3" placeholder="Procedure (one step per line)" aria-label="Procedure"></textarea>
+          <textarea id="em-r-tips" rows="2" placeholder="Tips" aria-label="Tips"></textarea>
+        </div>
+        <div class="em-mf"><label for="em-dropbox">Dropbox link</label><input type="url" id="em-dropbox" placeholder="https://www.dropbox.com/…"><span class="em-hint">Applies to the whole campaign</span></div>
+        <label class="em-review-wrap"><input type="checkbox" id="em-needs-review"> Needs review</label>
+        <div class="em-footer">
+          <button type="button" class="em-btn" id="em-cancel">Cancel</button>
+          <button type="button" class="em-btn primary" id="em-save">Save Card</button>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
 <div class="overlay" id="cropOverlay">
@@ -614,6 +705,7 @@ const CATEGORY_META = {
   "WITH AI": {cls:"ai", label:"with AI"}
 };
 
+let editMode = false; // set by ?edit=1 / the Edit Mode toggle; gates every edit affordance
 let currentShoot = null; // {id,label,type,varName,data}
 let selectionToken = 0;  // bumps on every folder click; drops out-of-order async results
 
@@ -968,6 +1060,7 @@ function cardHTML(item, idx, sourceArrRef){
     <div class="card-img">
       <img src="data:image/jpeg;base64,${item.photo.image_data}">
       ${badgesHTML(item)}
+      ${editMode ? `${item.needsReview ? `<span class="review-flag" title="Needs review" aria-label="Needs review"></span>` : ""}<button type="button" class="btn-edit-card" title="Edit card" aria-label="Edit card"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg></button>` : ""}
     </div>
     <div class="card-body">
       <div class="card-title">${escapeHTML(item.layoutName)}</div>
@@ -1035,6 +1128,8 @@ function renderGrid(gridEl, items){
   const byUid = new Map(items.map(it => [it._uid, it]));
   gridEl.querySelectorAll(".card").forEach(cardEl => {
     cardEl.onclick = () => openModal(byUid.get(cardEl.dataset.uid));
+    const editBtn = cardEl.querySelector(".btn-edit-card");
+    if(editBtn) editBtn.onclick = (e) => { e.stopPropagation(); openEditModal(byUid.get(cardEl.dataset.uid)); };
   });
 }
 
@@ -1429,14 +1524,16 @@ document.getElementById("swapInput").addEventListener("change", (e) => {
 });
 
 // Draws a square region of a source image onto a 500x500 canvas.
-function squareCropDataUrl(img, sx, sy, sSize){
+function squareCropDataUrl(img, sx, sy, sSize, out = 500){
   const canvas = document.createElement("canvas");
-  canvas.width = 500; canvas.height = 500;
-  canvas.getContext("2d").drawImage(img, sx, sy, sSize, sSize, 0, 0, 500, 500);
+  canvas.width = out; canvas.height = out;
+  canvas.getContext("2d").drawImage(img, sx, sy, sSize, sSize, 0, 0, out, out);
   return canvas.toDataURL("image/jpeg", 0.85);
 }
 
+let photoHook = null; // set while the Edit Card modal is open: stages the photo instead of applying it
 function applyCroppedPhoto(dataUrl){
+  if(photoHook){ photoHook(dataUrl); return; }
   modalItem.photo.image_data = dataUrl.split(",")[1];
   modalItem.needsPhotoSwap = false;
   markDirty(modalItem);
@@ -1490,7 +1587,7 @@ function openCropPreview(img){
     const sSize = VP * srcScale;
     const sx = -offsetX * srcScale;
     const sy = -offsetY * srcScale;
-    applyCroppedPhoto(squareCropDataUrl(img, sx, sy, sSize));
+    applyCroppedPhoto(squareCropDataUrl(img, sx, sy, sSize, photoHook ? 1000 : 500));
     document.getElementById("cropOverlay").classList.remove("show");
     window.removeEventListener("pointermove", onMove);
     window.removeEventListener("pointerup", onUp);
@@ -1575,6 +1672,108 @@ function makeZip(files){ // files: [{name, text}] -> Blob
   end.setUint32(12, cenSize, true); end.setUint32(16, offset, true);
   return new Blob([...parts, ...central, end], {type: "application/zip"});
 }
+
+
+// ---------- Edit mode + Edit Card modal ----------
+// Edits mutate the item in place (same objects Save Changes re-exports) and call markDirty(),
+// so the existing Save Changes button downloads them with photo swaps and "Made with AI".
+const EDIT_CATEGORIES = Object.keys(CATEGORY_META).filter(k => k !== "WITH AI");
+const emEl = id => document.getElementById(id);
+let editItem = null, editPendingPhoto = null;
+
+function setEditMode(on){
+  editMode = on;
+  document.body.classList.toggle("edit-mode", on);
+  emEl("editModeBtn").setAttribute("aria-pressed", on ? "true" : "false");
+  refreshCurrentView();
+}
+emEl("editModeBtn").addEventListener("click", () => setEditMode(!editMode));
+// Edit tools stay invisible to regular viewers: ?edit=1 reveals the toggle and turns it on.
+if(new URLSearchParams(location.search).get("edit") === "1"){
+  emEl("editModeBtn").classList.add("show");
+  setEditMode(true);
+}
+
+emEl("em-category").innerHTML = EDIT_CATEGORIES.map(k => `<option value="${escapeHTML(k)}">${escapeHTML(CATEGORY_META[k].label)}</option>`).join("");
+
+function openEditModal(item){
+  if(!item) return;
+  editItem = item; editPendingPhoto = null;
+  const r = item.recipe || {};
+  emEl("em-id-strip").textContent = item.layoutCode || "";
+  emEl("em-name").value = item.layoutName || "";
+  const catSel = emEl("em-category");
+  if(![...catSel.options].some(o => o.value === item.category)) catSel.add(new Option(item.category || "—", item.category || ""));
+  catSel.value = item.category || "";
+  emEl("em-brands").value = Array.isArray(item.brand) ? item.brand.join(", ") : "";
+  emEl("em-caption").value = item.caption || "";
+  emEl("em-r-time").value = r.servingTime || "";
+  emEl("em-r-yield").value = r.yield || "";
+  emEl("em-r-ingredients").value = r.ingredients || "";
+  emEl("em-r-procedure").value = r.procedure || "";
+  emEl("em-r-tips").value = r.tips || "";
+  emEl("em-dropbox").value = item._dropboxUrl || "";
+  emEl("em-needs-review").checked = !!item.needsReview;
+  emEl("em-photo-preview").src = "data:image/jpeg;base64," + item.photo.image_data;
+  photoHook = (dataUrl) => { editPendingPhoto = dataUrl; emEl("em-photo-preview").src = dataUrl; };
+  emEl("edit-modal-overlay").classList.add("open");
+}
+function closeEditModal(){
+  emEl("edit-modal-overlay").classList.remove("open");
+  photoHook = null; editItem = null; editPendingPhoto = null;
+}
+function saveEditModal(){
+  const it = editItem;
+  if(!it) return;
+  const val = id => emEl(id).value.trim();
+  it.layoutName = val("em-name") || it.layoutName || "";
+  const cat = emEl("em-category").value;
+  if(cat && cat !== it.category){ it.category = cat; it.categorySource = "manual"; it.categoryConfidence = "high"; }
+  it.caption = emEl("em-caption").value.trim();
+  const oldBrands = JSON.stringify(it.brand || []);
+  const seen = new Set();
+  it.brand = val("em-brands").split(/[,;\n]/).map(b => b.trim()).filter(b => b && !seen.has(b.toLowerCase()) && seen.add(b.toLowerCase()));
+  const rec = {servingTime: val("em-r-time"), yield: val("em-r-yield"), tips: val("em-r-tips"),
+               ingredients: emEl("em-r-ingredients").value.trim(), procedure: emEl("em-r-procedure").value.trim()};
+  if(Object.values(rec).some(Boolean)) it.recipe = Object.assign({}, it.recipe || {}, rec);
+  else if(it.recipe) it.recipe = null; // all recipe fields cleared
+  if(emEl("em-needs-review").checked) it.needsReview = true; else delete it.needsReview;
+  if(editPendingPhoto){ it.photo.image_data = editPendingPhoto.split(",")[1]; it.needsPhotoSwap = false; }
+  // Dropbox lives on the campaign's array (data.dropboxUrl), shared by all of its cards.
+  const url = val("em-dropbox");
+  if(url !== (it._dropboxUrl || "")){
+    const data = shootDataCache[it._shootId];
+    if(data){
+      if(url) data.dropboxUrl = url; else delete data.dropboxUrl;
+      data.forEach(x => { x._dropboxUrl = url || null; });
+    }
+  }
+  markDirty(it);
+  const brandsChanged = JSON.stringify(it.brand) !== oldBrands;
+  closeEditModal();
+  if(brandsChanged && shufflerBase) buildBrandTree(shufflerBase);
+  refreshCurrentView();
+}
+emEl("em-save").addEventListener("click", saveEditModal);
+emEl("em-cancel").addEventListener("click", closeEditModal);
+emEl("edit-modal-overlay").addEventListener("click", (e) => { if(e.target.id === "edit-modal-overlay") closeEditModal(); });
+document.addEventListener("keydown", (e) => { if(e.key === "Escape" && editItem && !emEl("cropOverlay").classList.contains("show")) closeEditModal(); });
+emEl("em-photo-wrap").addEventListener("click", () => emEl("em-photo-file").click());
+emEl("em-photo-file").addEventListener("change", (e) => {
+  const file = e.target.files[0];
+  if(!file) return;
+  const reader = new FileReader();
+  reader.onload = (ev) => {
+    const img = new Image();
+    img.onload = () => {
+      if(Math.abs(img.width / img.height - 1) <= 0.02) applyCroppedPhoto(squareCropDataUrl(img, 0, 0, Math.min(img.width, img.height), 1000));
+      else openCropPreview(img);
+    };
+    img.src = ev.target.result;
+  };
+  reader.readAsDataURL(file);
+  e.target.value = "";
+});
 
 document.getElementById("saveChangesBtn").addEventListener("click", () => {
   let ids = [...dirtyShoots];
