@@ -2173,6 +2173,24 @@ const RECIPES_INDEX = [
     "count": 16
   },
   {
+    "id": "2003-March-IG",
+    "label": "March IG",
+    "type": "photo",
+    "year": 2020,
+    "month": 3,
+    "file": "recipes/2003-March-IG.js",
+    "count": 18
+  },
+  {
+    "id": "2002-February-IG",
+    "label": "February IG",
+    "type": "photo",
+    "year": 2020,
+    "month": 2,
+    "file": "recipes/2002-February-IG.js",
+    "count": 9
+  },
+  {
     "id": "2001-January-IG",
     "label": "January IG",
     "type": "photo",
