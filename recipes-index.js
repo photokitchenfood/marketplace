@@ -2179,7 +2179,7 @@ const RECIPES_INDEX = [
     "year": 2020,
     "month": 1,
     "file": "recipes/2001-January-IG.js",
-    "count": 9
+    "count": 8
   }
 ];
 
