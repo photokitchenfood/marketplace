@@ -32,6 +32,8 @@ header{background:var(--ink);color:#fff;display:flex;align-items:center;justify-
 .logo{font-family:"Engineer Heavy","Barlow Semi Condensed",sans-serif;font-size:23px}
 .header-meta{font-size:11px;color:#888;letter-spacing:.08em;text-transform:uppercase}
 .header-right{display:flex;align-items:center;gap:12px}
+.header-link{font-family:"DM Mono",monospace;font-size:11px;letter-spacing:.08em;text-transform:uppercase;padding:7px 12px;border-radius:var(--radius);border:1.5px solid rgba(255,255,255,.25);color:#fff;text-decoration:none;transition:border-color .15s}
+.header-link:hover{border-color:#fff}
 .mode-toggle{display:flex;background:rgba(255,255,255,.1);border-radius:6px;padding:3px;gap:2px}
 .mode-btn{font-family:"DM Mono",monospace;font-size:11px;letter-spacing:.05em;text-transform:uppercase;padding:5px 13px;border:none;border-radius:4px;cursor:pointer;background:transparent;color:#888;transition:all .15s}
 .mode-btn.active{background:#fff;color:var(--ink)}
@@ -303,7 +305,9 @@ body.edit-mode .review-flag{position:absolute;top:8px;right:8px;z-index:2;width:
       <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
       <span id="saveChangesLabel">Save Changes</span>
     </button>
-    <span class="header-meta">TMP Recipes Catalog &mdash; Team Access</span>
+    <span class="header-meta">TMP Recipes Catalog &mdash;</span>
+    <a class="header-link" href="logo-internal.html">Internal</a>
+    <a class="header-link" href="logo-client.html">Client</a>
   </div>
 </header>
 
