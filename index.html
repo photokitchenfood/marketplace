@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>[RECIPES] The Marketplace Photos Catalog</title>
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🥗</text></svg>">
-<link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400&family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300&family=Syne:wght@400;500;600;700;800&family=Spline+Sans:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400&family=DM+Sans:wght@500&family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300&family=Syne:wght@400;500;600;700;800&family=Spline+Sans:wght@400;500&display=swap" rel="stylesheet">
 <style>
 /* Local PhotoKitchen wordmark font — scoped to .logo/.pw-logo only below;
    everything else keeps the Google Fonts stack imported above. */
@@ -32,8 +32,8 @@ header{background:var(--ink);color:#fff;display:flex;align-items:center;justify-
 .logo{font-family:"Engineer Heavy","Barlow Semi Condensed",sans-serif;font-size:23px}
 .header-meta{font-size:11px;color:#888;letter-spacing:.08em;text-transform:uppercase}
 .header-right{display:flex;align-items:center;gap:12px}
-.header-link{font-family:"DM Mono",monospace;font-size:11px;letter-spacing:.08em;text-transform:uppercase;padding:7px 12px;border-radius:var(--radius);border:1.5px solid rgba(255,255,255,.25);color:#fff;text-decoration:none;transition:border-color .15s}
-.header-link:hover{border-color:#fff}
+.header-link{display:inline-flex;align-items:center;gap:7px;padding:8px 16px;border-radius:6px;font-family:"DM Sans",sans-serif;font-size:13px;font-weight:500;color:#F5F0E8;text-decoration:none;border:1px solid rgba(255,255,255,.2);transition:all .15s ease;white-space:nowrap}
+.header-link:hover{border-color:#C4863A;color:#C4863A}
 .mode-toggle{display:flex;background:rgba(255,255,255,.1);border-radius:6px;padding:3px;gap:2px}
 .mode-btn{font-family:"DM Mono",monospace;font-size:11px;letter-spacing:.05em;text-transform:uppercase;padding:5px 13px;border:none;border-radius:4px;cursor:pointer;background:transparent;color:#888;transition:all .15s}
 .mode-btn.active{background:#fff;color:var(--ink)}
@@ -305,7 +305,7 @@ body.edit-mode .review-flag{position:absolute;top:8px;right:8px;z-index:2;width:
       <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
       <span id="saveChangesLabel">Save Changes</span>
     </button>
-    <span class="header-meta">TMP Recipes Catalog &mdash;</span>
+    <span class="header-meta">TMP Recipes Catalog</span>
     <a class="header-link" href="logo-internal.html">🤓 Internal</a>
     <a class="header-link" href="logo-client.html">💻 Client</a>
   </div>

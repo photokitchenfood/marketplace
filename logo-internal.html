@@ -14,13 +14,14 @@
     --error: #B04A3A; --shadow-soft: 0 2px 12px rgba(26,24,20,0.08);
     --shadow-card: 0 4px 24px rgba(26,24,20,0.10); --radius: 10px; --radius-sm: 6px;
   }
+  @font-face { font-family: 'Engineer Heavy'; src: url('assets/fonts/engineer-heavy.ttf') format('truetype'); font-weight: 400; font-style: normal; font-display: swap; }
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
   body { font-family: 'DM Sans', sans-serif; background: #E8C89A; color: var(--ink); min-height: 100vh; }
   header { background: var(--ink); padding: 0 24px; height: 64px; display: flex; align-items: center; justify-content: space-between; position: sticky; top: 0; z-index: 100; }
   .header-brand { display: flex; align-items: center; gap: 12px; }
   .header-logo-mark { width: 28px; height: 28px; font-size: 22px; line-height: 1; display: flex; align-items: center; justify-content: center; }
-  .header-title { font-family: 'DM Serif Display', serif; font-size: 15px; color: var(--cream); letter-spacing: 0.01em; }
-  .header-title span { color: var(--accent); font-style: italic; }
+  .header-title { font-family: 'Engineer Heavy', 'Barlow Semi Condensed', sans-serif; font-size: 23px; font-weight: 400; color: var(--cream); letter-spacing: 0; }
+  .header-title span { color: var(--accent); font-style: normal; }
   .btn { display: inline-flex; align-items: center; gap: 7px; padding: 8px 16px; border-radius: var(--radius-sm); font-family: 'DM Sans', sans-serif; font-size: 13px; font-weight: 500; cursor: pointer; border: none; transition: all 0.15s ease; white-space: nowrap; }
   .btn-primary { background: var(--accent); color: white; }
   .btn-primary:hover { background: #B3732A; }
