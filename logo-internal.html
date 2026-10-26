@@ -189,11 +189,11 @@
           <p><strong>Tip:</strong> Dropbox requires your App Key's <strong>Redirect URI</strong> in the Dropbox Developer Console to exactly match this file's URL. If you see a "blocked" error, open <a href="https://www.dropbox.com/developers/apps" target="_blank" style="color:var(--accent)">dropbox.com/developers/apps</a> → your app → <em>Redirect URIs</em> → add the exact URL of this file. Or use <strong>Local Folder</strong> to upload directly from your computer without Dropbox.</p>
         </div>
         <div class="source-tabs">
-          <button class="source-tab active" id="tab-dropbox" onclick="switchTab('dropbox')">Dropbox</button>
-          <button class="source-tab" id="tab-local" onclick="switchTab('local')">Local Folder</button>
+          <button class="source-tab active" id="tab-local" onclick="switchTab('local')">Local Folder</button>
+          <button class="source-tab" id="tab-dropbox" onclick="switchTab('dropbox')">Dropbox</button>
         </div>
         <!-- Dropbox -->
-        <div id="panel-dropbox">
+        <div id="panel-dropbox" class="hidden">
           <div class="folder-path-bar"><span id="path-display" style="color:var(--ink-muted)">Connect Dropbox to browse folders</span></div>
           <div class="folder-list" id="folder-list">
             <div class="folder-item" style="color:var(--ink-muted);cursor:default;">
@@ -209,7 +209,7 @@
           </div>
         </div>
         <!-- Local -->
-        <div id="panel-local" class="hidden">
+        <div id="panel-local">
           <div class="upload-zone" id="upload-zone" onclick="document.getElementById('local-input').click()">
             <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
             <h4>Click to select images</h4>
