@@ -121,11 +121,9 @@
   .color-override-row span { font-size: 10px; color: var(--ink-muted); }
   .color-mini-btn { padding: 3px 9px; font-size: 10px; border-radius: 3px; border: 1px solid var(--border-dark); cursor: pointer; background: white; font-weight: 500; transition: all 0.12s; font-family: 'DM Sans', sans-serif; }
   .color-mini-btn.active-white { background: #111; color: white; border-color: #111; }
-  .blend-row { display: flex; gap: 6px; margin-top: 6px; align-items: center; }
-  .blend-row span { font-size: 10px; color: var(--ink-muted); }
-  .blend-row select { font-size: 10px; padding: 2px 4px; border: 1px solid var(--border-dark); border-radius: 3px; background: white; font-family: 'DM Sans', sans-serif; }
-  .blend-row input[type=range] { flex: 1; min-width: 50px; }
-  .blend-row .blend-val { min-width: 28px; text-align: right; }
+  .blend-col select { width: 100%; font-size: 11px; padding: 3px 4px; border: 1px solid var(--border-dark); border-radius: 3px; background: white; font-family: 'DM Sans', sans-serif; }
+  .blend-col input[type=range] { width: 100%; margin: 0; }
+  .blend-col .blend-val { font-weight: 400; color: var(--ink-muted); margin-left: 4px; }
   .color-mini-btn.active-black { background: white; color: #111; border-color: #333; font-weight: 700; }
   .analyzing-overlay { position: absolute; inset: 0; background: rgba(245,240,232,0.88); display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 8px; font-size: 11px; color: var(--ink-muted); z-index: 2; }
   .spinner { width: 22px; height: 22px; border: 2px solid var(--border-dark); border-top-color: var(--accent); border-radius: 50%; animation: spin 0.8s linear infinite; }
@@ -664,7 +662,7 @@ async function runAnalysis() {
     }
     S.placements[photo.id] = {blendMode: 'source-over', opacity: 100, ...suggestion, idx: i};
     document.getElementById('aov-' + i)?.remove();
-    renderControls(photo, i, suggestion);
+    renderControls(photo, i, S.placements[photo.id]);
     renderComposite(photo, i);
   }
 
@@ -700,6 +698,7 @@ async function analyzePhoto(photo, idx) {
 
 function renderControls(photo, idx, s) {
   const meta = document.getElementById('ameta-' + idx);
+  const opacity = s.opacity == null ? 100 : s.opacity;
   const cg = (type, sel, sug) => {
     return '<div class="corner-grid">' + CORNERS.map(c => {
       const isSel = c === sel, isSug = c === sug && !isSel;
@@ -710,17 +709,18 @@ function renderControls(photo, idx, s) {
     '<div class="ai-badge"><svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg> AI Suggested</div>' +
     '<div class="placement-controls">' +
       '<div><div class="placement-label">TMP Logo</div>' + cg('tmp', s.tmpCorner, s.tmpCorner) + '</div>' +
+      '<div class="blend-col">' +
+        '<div class="placement-label">Blend</div>' +
+        '<select onchange="setBlendMode(\''+photo.id+'\',this.value,'+idx+')">' +
+          BLEND_MODES.map(m => '<option value="'+m[0]+'"'+(s.blendMode===m[0]?' selected':'')+'>'+m[1]+'</option>').join('') +
+        '</select>' +
+        '<div class="placement-label" style="margin-top:8px;">Opacity <span class="blend-val">'+opacity+'%</span></div>' +
+        '<input type="range" min="0" max="100" step="5" value="'+opacity+'" oninput="setBlendOpacity(\''+photo.id+'\',this.value,'+idx+',this)">' +
+      '</div>' +
     '</div>' +
     '<div class="color-override-row"><span>Logo color:</span>' +
       '<button class="color-mini-btn' + (s.logoColor==='white'?' active-white':'') + '" onclick="setPhotoColor(\''+photo.id+'\',\'white\','+idx+')">White</button>' +
       '<button class="color-mini-btn' + (s.logoColor==='black'?' active-black':'') + '" onclick="setPhotoColor(\''+photo.id+'\',\'black\','+idx+')">Black</button>' +
-    '</div>' +
-    '<div class="blend-row"><span>Blend:</span>' +
-      '<select onchange="setBlendMode(\''+photo.id+'\',this.value,'+idx+')">' +
-        BLEND_MODES.map(m => '<option value="'+m[0]+'"'+(s.blendMode===m[0]?' selected':'')+'>'+m[1]+'</option>').join('') +
-      '</select>' +
-      '<span>Opacity:</span><input type="range" min="0" max="100" value="'+s.opacity+'" oninput="setBlendOpacity(\''+photo.id+'\',this.value,'+idx+',this)">' +
-      '<span class="blend-val">'+s.opacity+'%</span>' +
     '</div>' +
     '<p class="ai-note">' + (s.note||'') + '</p>';
 }
@@ -734,7 +734,8 @@ function setBlendMode(photoId, mode, idx) {
 function setBlendOpacity(photoId, val, idx, el) {
   const pl = S.placements[photoId]; if (!pl) return;
   pl.opacity = +val;
-  if (el && el.nextElementSibling) el.nextElementSibling.textContent = val + '%';
+  const lbl = el && el.previousElementSibling && el.previousElementSibling.querySelector('.blend-val');
+  if (lbl) lbl.textContent = val + '%';
   renderComposite(S.photos.find(p => p.id === photoId), idx);
 }
 // Photoshop-style layer mode + opacity for the TMP logo
