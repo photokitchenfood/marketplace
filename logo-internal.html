@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤓</text></svg>">
 <title>[INTERNAL] TMP Logo Tool</title>
 <style>
   @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&display=swap');
@@ -15,9 +16,9 @@
   }
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
   body { font-family: 'DM Sans', sans-serif; background: #E8C89A; color: var(--ink); min-height: 100vh; }
-  header { background: var(--ink); padding: 0 32px; height: 56px; display: flex; align-items: center; justify-content: space-between; position: sticky; top: 0; z-index: 100; }
+  header { background: var(--ink); padding: 0 24px; height: 64px; display: flex; align-items: center; justify-content: space-between; position: sticky; top: 0; z-index: 100; }
   .header-brand { display: flex; align-items: center; gap: 12px; }
-  .header-logo-mark { width: 28px; height: 28px; border: 1.5px solid var(--accent); border-radius: 4px; display: flex; align-items: center; justify-content: center; }
+  .header-logo-mark { width: 28px; height: 28px; font-size: 22px; line-height: 1; display: flex; align-items: center; justify-content: center; }
   .header-title { font-family: 'DM Serif Display', serif; font-size: 15px; color: var(--cream); letter-spacing: 0.01em; }
   .header-title span { color: var(--accent); font-style: italic; }
   .btn { display: inline-flex; align-items: center; gap: 7px; padding: 8px 16px; border-radius: var(--radius-sm); font-family: 'DM Sans', sans-serif; font-size: 13px; font-weight: 500; cursor: pointer; border: none; transition: all 0.15s ease; white-space: nowrap; }
@@ -160,16 +161,11 @@
 
 <header>
   <div class="header-brand">
-    <div class="header-logo-mark">
-      <svg viewBox="0 0 16 16" fill="none" stroke="#C4863A" stroke-width="1.5" width="16" height="16">
-        <rect x="2" y="2" width="5" height="5" rx="1"/><rect x="9" y="2" width="5" height="5" rx="1"/>
-        <rect x="2" y="9" width="5" height="5" rx="1"/><rect x="9" y="9" width="5" height="5" rx="1"/>
-      </svg>
-    </div>
+    <div class="header-logo-mark">🤓</div>
     <span class="header-title">[INTERNAL] TMP <span>Logo Tool</span></span>
   </div>
   <div style="display:flex;align-items:center;gap:10px;">
-    <a class="btn btn-secondary" href="index.html" style="text-decoration:none;">&larr; TMP Recipes Catalog</a>
+    <a class="btn btn-secondary" href="index.html" style="text-decoration:none;">🥗 TMP Recipes Catalog</a>
     <button class="btn btn-secondary" id="dropbox-btn" onclick="connectDropbox()">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M6 2L0 6l6 4-6 4 6 4 6-4-6-4 6-4L6 2zm12 0l-6 4 6 4-6 4 6 4 6-4-6-4 6-4-6-4z"/></svg>
       Connect Dropbox
