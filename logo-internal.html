@@ -121,6 +121,11 @@
   .color-override-row span { font-size: 10px; color: var(--ink-muted); }
   .color-mini-btn { padding: 3px 9px; font-size: 10px; border-radius: 3px; border: 1px solid var(--border-dark); cursor: pointer; background: white; font-weight: 500; transition: all 0.12s; font-family: 'DM Sans', sans-serif; }
   .color-mini-btn.active-white { background: #111; color: white; border-color: #111; }
+  .blend-row { display: flex; gap: 6px; margin-top: 6px; align-items: center; }
+  .blend-row span { font-size: 10px; color: var(--ink-muted); }
+  .blend-row select { font-size: 10px; padding: 2px 4px; border: 1px solid var(--border-dark); border-radius: 3px; background: white; font-family: 'DM Sans', sans-serif; }
+  .blend-row input[type=range] { flex: 1; min-width: 50px; }
+  .blend-row .blend-val { min-width: 28px; text-align: right; }
   .color-mini-btn.active-black { background: white; color: #111; border-color: #333; font-weight: 700; }
   .analyzing-overlay { position: absolute; inset: 0; background: rgba(245,240,232,0.88); display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 8px; font-size: 11px; color: var(--ink-muted); z-index: 2; }
   .spinner { width: 22px; height: 22px; border: 2px solid var(--border-dark); border-top-color: var(--accent); border-radius: 50%; animation: spin 0.8s linear infinite; }
@@ -657,7 +662,7 @@ async function runAnalysis() {
       const corners = ['br','tl','bl','tr'];
       suggestion = {tmpCorner: corners[i%4], logoColor: S.defaultColor, note: 'Default placement — analysis unavailable.'};
     }
-    S.placements[photo.id] = {...suggestion, idx: i};
+    S.placements[photo.id] = {blendMode: 'source-over', opacity: 100, ...suggestion, idx: i};
     document.getElementById('aov-' + i)?.remove();
     renderControls(photo, i, suggestion);
     renderComposite(photo, i);
@@ -710,7 +715,36 @@ function renderControls(photo, idx, s) {
       '<button class="color-mini-btn' + (s.logoColor==='white'?' active-white':'') + '" onclick="setPhotoColor(\''+photo.id+'\',\'white\','+idx+')">White</button>' +
       '<button class="color-mini-btn' + (s.logoColor==='black'?' active-black':'') + '" onclick="setPhotoColor(\''+photo.id+'\',\'black\','+idx+')">Black</button>' +
     '</div>' +
+    '<div class="blend-row"><span>Blend:</span>' +
+      '<select onchange="setBlendMode(\''+photo.id+'\',this.value,'+idx+')">' +
+        BLEND_MODES.map(m => '<option value="'+m[0]+'"'+(s.blendMode===m[0]?' selected':'')+'>'+m[1]+'</option>').join('') +
+      '</select>' +
+      '<span>Opacity:</span><input type="range" min="0" max="100" value="'+s.opacity+'" oninput="setBlendOpacity(\''+photo.id+'\',this.value,'+idx+',this)">' +
+      '<span class="blend-val">'+s.opacity+'%</span>' +
+    '</div>' +
     '<p class="ai-note">' + (s.note||'') + '</p>';
+}
+
+const BLEND_MODES = [['source-over','Normal'],['overlay','Overlay'],['soft-light','Soft Light'],['screen','Screen']];
+function setBlendMode(photoId, mode, idx) {
+  const pl = S.placements[photoId]; if (!pl) return;
+  pl.blendMode = mode;
+  renderComposite(S.photos.find(p => p.id === photoId), idx);
+}
+function setBlendOpacity(photoId, val, idx, el) {
+  const pl = S.placements[photoId]; if (!pl) return;
+  pl.opacity = +val;
+  if (el && el.nextElementSibling) el.nextElementSibling.textContent = val + '%';
+  renderComposite(S.photos.find(p => p.id === photoId), idx);
+}
+// Photoshop-style layer mode + opacity for the TMP logo
+function applyLogoBlend(ctx, pl) {
+  ctx.globalCompositeOperation = pl.blendMode || 'source-over';
+  ctx.globalAlpha = (pl.opacity == null ? 100 : pl.opacity) / 100;
+}
+function resetLogoBlend(ctx) {
+  ctx.globalCompositeOperation = 'source-over';
+  ctx.globalAlpha = 1;
 }
 
 function setCorner(photoId, type, corner, idx) {
@@ -729,9 +763,9 @@ function setPhotoColor(photoId, color, idx) {
 }
 
 // ── Composite Preview ──
-// Logo is 30% of image width, placed flush to corner with small padding
+// Logo is 37.8% of image width, placed flush to corner with small padding
 // Sizes per Andi's calibration — adjust here to tune
-const TMP_LOGO_W_RATIO    = 0.30;   // 30% of image width (Small, from old watermark calibration)
+const TMP_LOGO_W_RATIO    = 0.378;  // 37.8% of image width
 const TMP_LOGO_ASPECT     = 2400 / 451; // PNG pixel aspect (w/h) — used for height calc
 const LOGO_PAD_RATIO      = 0.03;   // 3% padding from edge
 const PREVIEW_SCALE       = 1.0;
@@ -752,7 +786,11 @@ function renderComposite(photo, idx) {
     const logoW = W * TMP_LOGO_W_RATIO;
     const logoH = logoW / TMP_LOGO_ASPECT;
     const tmpImg = pl.logoColor === 'white' ? tmpWhiteImg : tmpBlackImg;
+    // Blend modes need the photo underneath on the same canvas
+    if (pl.blendMode && pl.blendMode !== 'source-over') ctx.drawImage(img, 0, 0, W, H);
+    applyLogoBlend(ctx, pl);
     drawLogoAtCorner(ctx, tmpImg, pl.tmpCorner, logoW, logoH, W, H, pad);
+    resetLogoBlend(ctx);
   };
   if (img.complete && img.naturalWidth) draw(); else img.onload = draw;
 }
@@ -820,7 +858,9 @@ async function startExport() {
     const logoW = W * TMP_LOGO_W_RATIO;
     const logoH = logoW / TMP_LOGO_ASPECT;
     const tmpImg = pl.logoColor === 'white' ? tmpWhiteImg : tmpBlackImg;
+    applyLogoBlend(ctx, pl);
     ctx.drawImage(tmpImg, ...cornerXY(pl.tmpCorner, logoW, logoH, W, H, pad), logoW, logoH);
+    resetLogoBlend(ctx);
 
 
     // Filename: append -logo before extension
